@@ -1,6 +1,8 @@
-streamlit>=1.25
+streamlit==1.30.0
 pillow
 pandas
+requests
+openai
 numpy
 opencv-python
 tqdm
