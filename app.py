@@ -15,7 +15,7 @@ from gradio_client import Client
 # -------------------------------
 # CONFIG
 # -------------------------------
-HF_SPACE_URL = "https://nubzoro-bin-validator.hf.space"   # CHANGE THIS
+HF_SPACE_URL = "https://nubzoro-bin-validator.hf.space/proxy/7860/"   # CHANGE THIS
 
 IMAGES_DIR = Path("data/images")
 METADATA_DIR = Path("data/metadata")
