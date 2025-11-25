@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GBHF7WW": {
+            "asin": "B00GBHF7WW",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Crystal Allies Specimens: Natural Blue Celestite Egg Cluster",
+            "normalizedName": "Crystal Allies Specimens: Natural Blue Celestite Egg Cluster",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01AJQPV62": {
+            "asin": "B01AJQPV62",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.7401574714
+            },
+            "name": "Fetco Home D\u00e9cor Frame Gaia Love You To The Moon And Back Wall Art, 6\" x 4\", Baby Blue",
+            "normalizedName": "Fetco Home D\u00e9cor Frame Gaia Love You To The Moon And Back Wall Art, 6\" x 4\", Baby Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.267716527
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000HHJM46": {
+            "asin": "B000HHJM46",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Farm Innovators Model DPH-15 Drain Plug De-Icer For Rubbermaid Stock Tanks, 1,500-Watt",
+            "normalizedName": "Farm Innovators Model DPH-15 Drain Plug De-Icer For Rubbermaid Stock Tanks, 1,500-Watt",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994288
+            }
+        },
+        "B00OMXW9HS": {
+            "asin": "B00OMXW9HS",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Dove Men+Care Body and Face Bar, Deep Clean 4 oz, 10 Bar",
+            "normalizedName": "Dove Men+Care Body and Face Bar, Deep Clean 4 oz, 10 Bar",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6999999977358056
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

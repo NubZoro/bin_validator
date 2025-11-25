@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00J9PYT9U": {
+            "asin": "B00J9PYT9U",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Bragg's Nutritional Yeast 4.5oz 2 Pack",
+            "normalizedName": "2 Pack Bragg's Nutritional Yeast 4.5oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00KJLF8C0": {
+            "asin": "B00KJLF8C0",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "180s Men's Weekender Glove",
+            "normalizedName": "180s Men's Weekender Glove",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B014VTD7S2": {
+            "asin": "B014VTD7S2",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "April Skin Magic Stone Natural Cleansing Soap + Charcoal Soap Korea Beauty (2PCS)",
+            "normalizedName": "April Skin Magic Stone Natural Cleansing Soap + Charcoal Soap Korea Beauty (2PCS)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

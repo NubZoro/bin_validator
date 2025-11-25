@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005NBP9UW": {
+            "asin": "B005NBP9UW",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.599999982048004
+            },
+            "name": "HP PAVILION G7-1219WM Laptop Screen 17.3 LED BOTTOM LEFT WXGA++ 1600x900",
+            "normalizedName": "HP PAVILION G7-1219WM Laptop Screen 17.3 LED BOTTOM LEFT WXGA++ 1600x900",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B014TE51C4": {
+            "asin": "B014TE51C4",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "Angry Birds K'nex Mission Mayham & Hammin Around with 2 Bonus Character Sets",
+            "normalizedName": "Angry Birds K'nex Mission Mayham & Hammin Around with 2 Bonus Character Sets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005KG7EDU": {
+            "asin": "B005KG7EDU",
+            "height": {
+                "unit": "IN",
+                "value": 4.015748023303937
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.559055102689764
+            },
+            "name": "Great Lakes Gelatin Collagen Hydrolysate Beef, Kosher, 16 oz.",
+            "normalizedName": "Great Lakes Gelatin Collagen Hydrolysate Beef, Kosher, 16 oz.",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.094488180623622
+            }
+        },
+        "B00YU3ZVPM": {
+            "asin": "B00YU3ZVPM",
+            "height": {
+                "unit": "IN",
+                "value": 3.4645669256
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.3937007768
+            },
+            "name": "Bluedio BS-3 (Camel) Portable Bluetooth Wireless Stereo Speaker with Microphone for Calls,Black",
+            "normalizedName": "Bluedio BS-3 (Camel) Portable Bluetooth Wireless Stereo Speaker with Microphone for Calls,Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4250601284346027
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.5590551104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

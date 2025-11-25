@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000WIUKIW": {
+            "asin": "B000WIUKIW",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Luxury Brands Noodler's Bottle 3 Ounce Refill, Eel Blue (19203)",
+            "normalizedName": "Luxury Brands Noodler's Bottle 3 Ounce Refill, Eel Blue (19203)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B00UJGTPQU": {
+            "asin": "B00UJGTPQU",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Blend Friend Tanning Mitt Set",
+            "normalizedName": "Blend Friend Tanning Mitt Set",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B018C8LZ0K": {
+            "asin": "B018C8LZ0K",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Rada MFG Rada Cutlery Quick Edge Knife Sharpener with Hardened Steel Wheels, 2 Pack",
+            "normalizedName": "2 Pack Rada MFG Rada Cutlery Quick Edge Knife Sharpener with Hardened Steel Wheels,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

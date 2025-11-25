@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321886399": {
+            "asin": "0321886399",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Road to Seeing",
+            "normalizedName": "Road to Seeing",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

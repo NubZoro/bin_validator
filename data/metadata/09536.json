@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008ASJWT4": {
+            "asin": "B008ASJWT4",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.2047244072
+            },
+            "name": "HABA Powdery Foundation Squa Sponge (40499)",
+            "normalizedName": "HABA Powdery Foundation Squa Sponge (40499)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.01763680094885989
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.7716535415
+            }
+        },
+        "B00AW0ENAG": {
+            "asin": "B00AW0ENAG",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Funny Guy Mugs Periodic Poop Ceramic Coffee Mug, Brown, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Periodic Poop Ceramic Coffee Mug, Brown, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00W95M60G": {
+            "asin": "B00W95M60G",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "lederTEK Solar Powered Ball Lights 30 LED Pink 19.7ft Crystal Fairy Globe String Light for Garden D\u00e9cor, Patio, Lawn, Home, Wedding, Holiday, Xmas Tree, Outdoor and Indoor, Valentine\u2019s Day Decorations",
+            "normalizedName": "lederTEK Solar Powered Ball Lights 30 LED Pink 19.7ft Crystal Fairy Globe String Light for Garden D\u00e9cor, Patio, Lawn, Home, Wedding, Holiday, Xmas Tree, Outdoor and Indoor, Valentine\u2019s Day Decorations",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

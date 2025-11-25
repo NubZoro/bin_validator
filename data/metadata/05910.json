@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B019H4DRV8": {
+            "asin": "B019H4DRV8",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Double Canvas Travel Hammock / Outdoor Bed 98.5*59 Inches 400lbs, + 2 Hammock Tree Straps Rainbow Color (Blue)",
+            "normalizedName": "Double Canvas Travel Hammock / Outdoor Bed 98.5*59 Inches 400lbs, + 2 Hammock Tree Straps Rainbow Color (Blue)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0999999974003694
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B019IJK4GS": {
+            "asin": "B019IJK4GS",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "Large Leather Zipper Business Office File Padfolio A4 Folder with Handle Spring Binder Calculator",
+            "normalizedName": "Large Leather Zipper Business Office File Padfolio A4 Folder with Handle Spring Binder Calculator",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002MO765O": {
+            "asin": "B002MO765O",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "EZ-Sweetz (2oz - Liquid Sweetener 800 Servings/Bottle)",
+            "normalizedName": "EZ-Sweetz (2oz - Liquid Sweetener 800 Servings/Bottle)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

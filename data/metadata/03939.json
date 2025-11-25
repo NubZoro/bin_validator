@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0055B5DYW": {
+            "asin": "B0055B5DYW",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Annie's Organic Graham Crackers, Honey, 14.4 Ounce",
+            "normalizedName": "Annie's Organic Graham Crackers, Honey, 14.4 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B007BSCLCE": {
+            "asin": "B007BSCLCE",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Kitras 3-Inch Heart Celebration, Yay",
+            "normalizedName": "Kitras 3-Inch Heart Celebration, Yay",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

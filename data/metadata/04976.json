@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K2XSM0K": {
+            "asin": "B00K2XSM0K",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "SeaSnax Grab and Go Variety Pack - Classic, Toasty Onion, Spicy Chipotle and Wasabi - 1 each",
+            "normalizedName": "SeaSnax Grab and Go Variety Pack - Classic, Toasty Onion, Spicy Chipotle and Wasabi - 1 each",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.4566929068
+            }
+        },
+        "B00T8U6DJU": {
+            "asin": "B00T8U6DJU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Stanley ATS-106 TV Top Shelf-Small Size, 6-Inch Width",
+            "normalizedName": "Stanley ATS-106 TV Top Shelf-Small Size, 6-Inch Width",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

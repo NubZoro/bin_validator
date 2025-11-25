@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0310752795": {
+            "asin": "0310752795",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "NKJV, Teen Study Bible, Imitation Leather, Gray",
+            "normalizedName": "NKJV, Teen Study Bible, Imitation Leather, Gray",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00EED85VU": {
+            "asin": "B00EED85VU",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Scivation, Xtend BCAAs, Mango Nectar, 30 Servings",
+            "normalizedName": "Scivation, Xtend BCAAs, Mango Nectar, 30 Servings",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

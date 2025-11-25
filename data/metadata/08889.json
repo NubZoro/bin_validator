@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000I1QAI2": {
+            "asin": "B000I1QAI2",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Prime-Line Products D 1500 Sliding Door Roller, 1-Inch Steel Ball Bearing with 1/4-Inch Hole, Pack of 2",
+            "normalizedName": "Pack of 2 Prime-Line Products D 1500 Sliding Door Roller, 1-Inch Steel Ball Bearing with 1/4-Inch Hole,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B01D8U27YU": {
+            "asin": "B01D8U27YU",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "Kingston Technology HyperX FURY Black 8 GB 2133 MHz CL14 DIMM DDR4 Internal Memory (HX421C14FB2/8)",
+            "normalizedName": "Kingston Technology HyperX FURY Black 8 GB 2133 MHz CL14 DIMM DDR4 Internal Memory (HX421C14FB2/8)",
+            "quantity": 20,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1322773572
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7007873978
+            }
+        },
+        "B01EPRK5GC": {
+            "asin": "B01EPRK5GC",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Kuality 19Momme 100% Mulberry Silk Pillowcase with Hidden Zipper, King Size, 1pc, Coffee",
+            "normalizedName": "Kuality 19Momme 100% Mulberry Silk Pillowcase with Hidden Zipper, King Size, 1pc, Coffee",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 22
+}

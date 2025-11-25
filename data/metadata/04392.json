@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000V56P5S": {
+            "asin": "B000V56P5S",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Apoxie Sculpt 4 Lb. Epoxy Clay - Natural by Aves",
+            "normalizedName": "Apoxie Sculpt 4 Lb. Epoxy Clay - Natural by Aves",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.099999996561778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B014697C38": {
+            "asin": "B014697C38",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "ZJKC\u00ae Solar Outdoor LED Light Fixture Exterior Wall Sconce Lantern , Pole/Post/Wall Mount Kit, Black",
+            "normalizedName": "ZJKC\u00ae Solar Outdoor LED Light Fixture Exterior Wall Sconce Lantern , Pole/Post/Wall Mount Kit, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0316217786": {
+            "asin": "0316217786",
+            "height": {
+                "unit": "IN",
+                "value": 1.3385826758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0314960548
+            },
+            "name": "Love Minus Eighty",
+            "normalizedName": "Love Minus Eighty",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8377480450708449
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B000ILK9PM": {
+            "asin": "B000ILK9PM",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Kernel Season's White Cheddar Seasoning, 2.85 Ounce Shakers (Pack of 6)",
+            "normalizedName": "(Pack of 6) Kernel Season's White Cheddar Seasoning, 2.85 Ounce Shakers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994288
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0028E3DYQ": {
+            "asin": "B0028E3DYQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Sewing Essentials, 10 Sewing Machine Needles & Bobbins Set",
+            "normalizedName": "Sewing Essentials, 10 Sewing Machine Needles & Bobbins Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00NR2VMNC": {
+            "asin": "B00NR2VMNC",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "TP-LINK AC750 Dual Band Wi-Fi Range Extender (RE200)",
+            "normalizedName": "TP-LINK AC750 Dual Band Wi-Fi Range Extender (RE200)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

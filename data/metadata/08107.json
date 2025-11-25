@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002O8U99I": {
+            "asin": "B002O8U99I",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Swanson Brewer's Yeast 500 mg 500 Tabs",
+            "normalizedName": "Swanson Brewer's Yeast 500 mg 500 Tabs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00O93CDV8": {
+            "asin": "B00O93CDV8",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "name": "Samsung (TWO) EO-EG900BW White Headsets Earphone 3.5mm Jack + 2 Set of Ear Gel S,M,L - Wired Headsets - Non-Retail Packaging - White",
+            "normalizedName": "Samsung (TWO) EO-EG900BW White Headsets Earphone 3.5mm Jack + 2 Set of Ear Gel S,M,L - Wired Headsets - Non-Retail Packaging - White",
+            "quantity": 14,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        },
+        "B014PNOTUE": {
+            "asin": "B014PNOTUE",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "250ft Hot Pink Crepe Paper Streamers",
+            "normalizedName": "250ft Hot Pink Crepe Paper Streamers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 16
+}

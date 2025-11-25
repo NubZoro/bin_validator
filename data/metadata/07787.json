@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002Q81X0": {
+            "asin": "B0002Q81X0",
+            "height": {
+                "unit": "IN",
+                "value": 2.29921259608
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Hopkins 48755 4 Wire Flat Mounting Box",
+            "normalizedName": "Hopkins 48755 4 Wire Flat Mounting Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2000033640864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.59842519318
+            }
+        },
+        "B0180P2J28": {
+            "asin": "B0180P2J28",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Saw Palmetto Prostate Supplement for Prostate Health for Men: The Best Prostate Formula That Really Works with Saw Palmetto, B Complex, Nettle Root, Nettle Leaf, Super Prostate Formula for Men",
+            "normalizedName": "Saw Palmetto Prostate Supplement for Prostate Health for Men: The Best Prostate Formula That Really Works with Saw Palmetto, B Complex, Nettle Root, Nettle Leaf, Super Prostate Formula for Men",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1999999998322819
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.299999998674
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

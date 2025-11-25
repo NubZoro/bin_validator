@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IYHGGJU": {
+            "asin": "B00IYHGGJU",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Fisher-Price Nickelodeon Dora and Friends Adventure Charm Case",
+            "normalizedName": "Fisher-Price Nickelodeon Dora and Friends Adventure Charm Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B00SGIWPOW": {
+            "asin": "B00SGIWPOW",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "White Custom Border Chalkboard Labels / Stickers - 2 Sticker Sizes. Live with Flair",
+            "normalizedName": "White Custom Border Chalkboard Labels / Stickers - 2 Sticker Sizes. Live with Flair",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B01DBVVPJE": {
+            "asin": "B01DBVVPJE",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "name": "Aglaia 25W 6 Inch LED Retrofit Recessed Lighting Fixture, 6500K Cool White LED Down Light, 2050LM, Energy Saving LED Ceiling Light, Not Dimmable",
+            "normalizedName": "Aglaia 25W 6 Inch LED Retrofit Recessed Lighting Fixture, 6500K Cool White LED Down Light, 2050LM, Energy Saving LED Ceiling Light, Not Dimmable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582552
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

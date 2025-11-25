@@ -1,0 +1,137 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0086K87LU": {
+            "asin": "B0086K87LU",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Isagenix Snacks Natural Vanilla 210g 60 Snacks",
+            "normalizedName": "Isagenix Snacks Natural Vanilla 210g 60 Snacks",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00E5L9RQI": {
+            "asin": "B00E5L9RQI",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Redcat Racing Aluminum Shock Tower, Blue",
+            "normalizedName": "Redcat Racing Aluminum Shock Tower, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00V3XFFE4": {
+            "asin": "B00V3XFFE4",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "name": "Harley Davidson Seat Bolt Black Billet Aluminum Hard Anodized by FGT Motorsport",
+            "normalizedName": "Harley Davidson Seat Bolt Black Billet Aluminum Hard Anodized by FGT Motorsport",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.399999999592
+            }
+        },
+        "B00ZE5NIPK": {
+            "asin": "B00ZE5NIPK",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Illumination Entertainment Minion Goggles",
+            "normalizedName": "Illumination Entertainment Minion Goggles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B010RTGIQI": {
+            "asin": "B010RTGIQI",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "name": "Ford Door Cable Repair Kit for F-series, E-series, Ranger, Expedition, Excursion, Navigator (8 Ends Repairs Four Cables)",
+            "normalizedName": "Ford Door Cable Repair Kit for F-series, E-series, Ranger, Expedition, Excursion, Navigator (8 Ends Repairs Four Cables)",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B01AG6AGDS": {
+            "asin": "B01AG6AGDS",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Zookki USB Charger Fast 6-Port USB Desktop Charger for iPhone, iPad, Samsung S6 / S6 Edge, Nexus, HTC M9, Nokia, Motorola and More(Black)",
+            "normalizedName": "Zookki USB Charger Fast 6-Port USB Desktop Charger for iPhone, iPad, Samsung S6 / S6 Edge, Nexus, HTC M9, Nokia, Motorola and More(Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

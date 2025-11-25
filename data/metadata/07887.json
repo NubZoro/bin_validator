@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "082340854X": {
+            "asin": "082340854X",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Baba Yaga: A Russian Folktale",
+            "normalizedName": "Baba Yaga: A Russian Folktale",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B005688T5E": {
+            "asin": "B005688T5E",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.4724409342
+            },
+            "name": "Ravensburger XXL Children's Globe 180 Piece Puzzleball",
+            "normalizedName": "Ravensburger XXL Children's Globe 180 Piece Puzzleball",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.37
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.3937007768
+            }
+        },
+        "B01B7OZIBI": {
+            "asin": "B01B7OZIBI",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Mega Bloks S-10V Destiny Sparrow Building Kit",
+            "normalizedName": "Mega Bloks S-10V Destiny Sparrow Building Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B01GKF28ZI": {
+            "asin": "B01GKF28ZI",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "Hudson Park Collection Luxe Turkish Tubmat",
+            "normalizedName": "Hudson Park Collection Luxe Turkish Tubmat",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 9.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

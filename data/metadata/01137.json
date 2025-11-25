@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009791CW0": {
+            "asin": "B009791CW0",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "MLB 13 The Show - PlayStation Vita",
+            "normalizedName": "MLB 13 The Show - PlayStation Vita",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00AWG652Y": {
+            "asin": "B00AWG652Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Footminders Casual Orthotic Arch Support Insoles for Dress Shoes (Pair) (MEDIUM: Men 7\u00bd - 9 Women 8\u00bd -10) - Relieve Foot Pain Due to Flat Feet and Plantar Fasciitis",
+            "normalizedName": "Footminders Casual Orthotic Arch Support Insoles for Dress Shoes (Pair) (MEDIUM: Men 7\u00bd - 9 Women 8\u00bd -10) - Relieve Foot Pain Due to Flat Feet and Plantar Fasciitis",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B01DN253G2": {
+            "asin": "B01DN253G2",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Pure McCartney [4 CD][Deluxe Edition]",
+            "normalizedName": "Pure McCartney [4 CD][Deluxe Edition]",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

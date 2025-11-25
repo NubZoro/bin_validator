@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003DD86R0": {
+            "asin": "B003DD86R0",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Shorty Tri-color Corgi 8\" by Douglas Cuddle Toys",
+            "normalizedName": "Shorty Tri-color Corgi 8\" by Douglas Cuddle Toys",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.799999997144
+            }
+        },
+        "B003JP6BOW": {
+            "asin": "B003JP6BOW",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "MLB Seattle Mariners Prismatic Decal, 4\" x 11\"",
+            "normalizedName": "MLB Seattle Mariners Prismatic Decal, 4\" x 11\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00V49LP3C": {
+            "asin": "B00V49LP3C",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Samsung Galaxy Tab A 8-Inch Tablet (16 GB, White)",
+            "normalizedName": "Samsung Galaxy Tab A 8-Inch Tablet (16 GB, White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B01FO3KQHO": {
+            "asin": "B01FO3KQHO",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.267716527
+            },
+            "name": "XTACER Ultralight Portable Tactical Camo Rain Pants (Yellow Camo)",
+            "normalizedName": "XTACER Ultralight Portable Tactical Camo Rain Pants (Yellow Camo)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.661386786
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.968503935
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

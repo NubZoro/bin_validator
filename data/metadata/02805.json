@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EO0K1M4": {
+            "asin": "B00EO0K1M4",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Thermos 12 Ounce Food Jar with Microwavable Container, Stainless Steel",
+            "normalizedName": "Thermos 12 Ounce Food Jar with Microwavable Container, Stainless Steel",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01GMIT5H2": {
+            "asin": "B01GMIT5H2",
+            "height": {
+                "unit": "IN",
+                "value": 0.00393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "name": "Fitbit One Buckle Bracelet - Adjustable Wristband and Wristwatch Style - Fitbit One Silicone Replacement Secure Band with Chrome Watch Clasp and Fastener Buckle - Fix the Tracker Fall Off Problem",
+            "normalizedName": "Fitbit One Buckle Bracelet - Adjustable Wristband and Wristwatch Style - Fitbit One Silicone Replacement Secure Band with Chrome Watch Clasp and Fastener Buckle - Fix the Tracker Fall Off Problem",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.149606296
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

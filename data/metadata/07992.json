@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001KG0B9I": {
+            "asin": "B001KG0B9I",
+            "height": {
+                "unit": "IN",
+                "value": 1.749999998215
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.249999991585002
+            },
+            "name": "Uchida 315-C-GLD Marvy Deco Color Chisel Tip Acrylic Paint Marker, Gold",
+            "normalizedName": "Uchida 315-C-GLD Marvy Deco Color Chisel Tip Acrylic Paint Marker, Gold",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.07
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.4499999975010005
+            }
+        },
+        "B0049LUI9O": {
+            "asin": "B0049LUI9O",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Panasonic ER-GN30-K Nose Ear Hair Trimmer",
+            "normalizedName": "Panasonic ER-GN30-K Nose Ear Hair Trimmer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3899999996729497
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

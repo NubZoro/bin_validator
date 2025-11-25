@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DRG2EF8": {
+            "asin": "B00DRG2EF8",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "40 Gold Slit Plastic Plates (20-dinner 20-dessert) Set Premium Heavyweight Plastic Wedding Like China (Cream/gold)",
+            "normalizedName": "40 Gold Slit Plastic Plates (20-dinner 20-dessert) Set Premium Heavyweight Plastic Wedding Like China (Cream/gold)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B01EWBTZOO": {
+            "asin": "B01EWBTZOO",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Sweets Salt Water Taffy, Assorted Flavors, 3 Pound",
+            "normalizedName": "Sweets Salt Water Taffy, Assorted Flavors, 3 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000052XZQ": {
+            "asin": "B000052XZQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Neutrogena T/Gel Therapeutic Shampoo, Extra Strength, 6 Ounce",
+            "normalizedName": "Neutrogena T/Gel Therapeutic Shampoo, Extra Strength, 6 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00USSYOQK": {
+            "asin": "B00USSYOQK",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Solmore Home Decorative Garden Decorative Window Curtain Festival Led Lights, 3X3-Meters, Warm White",
+            "normalizedName": "Solmore Home Decorative Garden Decorative Window Curtain Festival Led Lights, 3X3-Meters, Warm White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

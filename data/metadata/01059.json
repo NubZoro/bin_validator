@@ -1,0 +1,91 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00004THQ6": {
+            "asin": "B00004THQ6",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "David Barela  Romantic Piano",
+            "normalizedName": "David Barela  Romantic Piano",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770752888384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B008SKFLIA": {
+            "asin": "B008SKFLIA",
+            "height": null,
+            "length": null,
+            "name": "AdvoCare Mandarin Orange Spark Canister 10.5 Ounce - New",
+            "normalizedName": "AdvoCare Mandarin Orange Spark Canister 10.5 Ounce - New",
+            "quantity": 1,
+            "weight": null,
+            "width": null
+        },
+        "B00X9SIN3Q": {
+            "asin": "B00X9SIN3Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.6771653516
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "Ohuhu 8x40 Dual Focus Monocular Telescope / Monocular Scope for Hunting, Camping, Surveillance",
+            "normalizedName": "Ohuhu 8x40 Dual Focus Monocular Telescope / Monocular Scope for Hunting, Camping, Surveillance",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.755905509
+            }
+        },
+        "B014VAUXZG": {
+            "asin": "B014VAUXZG",
+            "height": null,
+            "length": null,
+            "name": "NCAA Pennsylvania Quakers Mascot Block Arch T-Shirt, Medium, White",
+            "normalizedName": "NCAA Pennsylvania Quakers Mascot Block Arch T-Shirt, Medium, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": null
+        },
+        "B01F1K0MWY": {
+            "asin": "B01F1K0MWY",
+            "height": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.629921249
+            },
+            "name": "Rossy&Nancy Cosmetology Mannequin Manikin Training Head with Brown Synthetic Hair for Practice and Make Up",
+            "normalizedName": "Rossy&Nancy Cosmetology Mannequin Manikin Training Head with Brown Synthetic Hair for Practice and Make Up",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.299212592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

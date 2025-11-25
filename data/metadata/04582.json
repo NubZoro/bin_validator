@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00F908YU4": {
+            "asin": "B00F908YU4",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "12Watt 4-inch High CRI Wet Location Dimmable Retrofit LED Recessed Lighting Fixture, Energy Star UL-classified 75W Equivalent Ceiling Light, 2700K Soft White 650lm Remodel Recessed Downlight",
+            "normalizedName": "12Watt 4-inch High CRI Wet Location Dimmable Retrofit LED Recessed Lighting Fixture, Energy Star UL-classified 75W Equivalent Ceiling Light, 2700K Soft White 650lm Remodel Recessed Downlight",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00UAR4HO8": {
+            "asin": "B00UAR4HO8",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Hoover 440005573 Filter, Hepa Exhaust",
+            "normalizedName": "Hoover 440005573 Filter, Hepa Exhaust",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

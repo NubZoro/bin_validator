@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001LGILLW": {
+            "asin": "B001LGILLW",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Disney Bolt Movie 14 Inch Deluxe Plush Figure Bolt",
+            "normalizedName": "Disney Bolt Movie 14 Inch Deluxe Plush Figure Bolt",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B0020XQWCA": {
+            "asin": "B0020XQWCA",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Dymatize Nutrition Super Mass Gainer, Gourmet Vanilla, 6-Pound",
+            "normalizedName": "Dymatize Nutrition Super Mass Gainer, Gourmet Vanilla, 6-Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00E95CDCU": {
+            "asin": "B00E95CDCU",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Scivation, Xtend BCAAs, Strawberry Kiwi, 90 Servings",
+            "normalizedName": "Scivation, Xtend BCAAs, Strawberry Kiwi, 90 Servings",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00O2Y2MZG": {
+            "asin": "B00O2Y2MZG",
+            "height": {
+                "unit": "IN",
+                "value": 4.9
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.4
+            },
+            "name": "Philips X2/27 Fidelio Premium Headphones, Black",
+            "normalizedName": "Philips X2/27 Fidelio Premium Headphones, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

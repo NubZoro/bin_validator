@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "151070177X": {
+            "asin": "151070177X",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Framed: Why Michael Skakel Spent Over a Decade in Prison For a Murder He Didn\u0092t Commit",
+            "normalizedName": "Framed: Why Michael Skakel Spent Over a Decade in Prison For a Murder He Didn\u0092t Commit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B018JA1M0E": {
+            "asin": "B018JA1M0E",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.0
+            },
+            "name": "Mitchell & Ness NBA Print Cuffed Ball Top Winter Knit Hat (San Antonio Spurs)",
+            "normalizedName": "Mitchell & Ness NBA Print Cuffed Ball Top Winter Knit Hat (San Antonio Spurs)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 8.0
+            }
+        },
+        "B01E4JT9R2": {
+            "asin": "B01E4JT9R2",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "HOTSHOT 6PK, 1.7 Fl Oz Bottles",
+            "normalizedName": "HOTSHOT 6PK, 1.7 Fl Oz Bottles",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1574894218": {
+            "asin": "1574894218",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Cavallini Decorative Stickers Americana, Assorted",
+            "normalizedName": "Cavallini Decorative Stickers Americana, Assorted",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "1619920689": {
+            "asin": "1619920689",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "Cavallini Vintage 100 Plus Assorted Labels Stickers",
+            "normalizedName": "Cavallini Vintage 100 Plus Assorted Labels Stickers",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        },
+        "B0041OHS74": {
+            "asin": "B0041OHS74",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Rothco Sniper Gloves, Black, X-Large",
+            "normalizedName": "Rothco Sniper Gloves, Black, X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B01COLK2VO": {
+            "asin": "B01COLK2VO",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995205999
+            },
+            "name": "UCMDA Wireless Charger Qi Wireless Charging Cradle for Motorola Mobility Moto360 and 2nd Gen Smartwatch(Not for Samsung Gear S2 and AC Adapter not included)-Black",
+            "normalizedName": "UCMDA Wireless Charger Qi Wireless Charging Cradle for Motorola Mobility Moto360 and 2nd Gen Smartwatch(Not for Samsung Gear S2 and AC Adapter not included)-Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

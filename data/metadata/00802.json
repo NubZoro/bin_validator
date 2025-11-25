@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009CI5Y02": {
+            "asin": "B009CI5Y02",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Eco Hold Rug Pad 5' x 8' - 100% Heavier and Thicker than Most Rug Pads, Provides Extra Cushion, For All Hard Surfaces, Earth Friendly",
+            "normalizedName": "Eco Hold Rug Pad 5' x 8' - 100% Heavier and Thicker than Most Rug Pads, Provides Extra Cushion, For All Hard Surfaces, Earth Friendly",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        },
+        "B01BLZ44J0": {
+            "asin": "B01BLZ44J0",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Sleep Guardian Premium King Mattress Encasement - Lab Tested Waterproof, Bed Bug Proof, Hypoallergenic Zippered Encasement - Protects from Bed Bugs, Dust Mites & Fluids",
+            "normalizedName": "Sleep Guardian Premium King Mattress Encasement - Lab Tested Waterproof, Bed Bug Proof, Hypoallergenic Zippered Encasement - Protects from Bed Bugs, Dust Mites & Fluids",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.649999996939144
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

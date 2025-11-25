@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0307950972": {
+            "asin": "0307950972",
+            "height": {
+                "unit": "IN",
+                "value": 0.7480314953
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.9921259761
+            },
+            "name": "El hacedor (Spanish Edition)",
+            "normalizedName": "El hacedor (Spanish Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.36
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.2362204671
+            }
+        },
+        "B0012KFVG0": {
+            "asin": "B0012KFVG0",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Set of 2 Wood Sandal Wall Hooks - New",
+            "normalizedName": "Set of 2  Wood Sandal Wall Hooks - New",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601897719786
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B001J0JHP4": {
+            "asin": "B001J0JHP4",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Sensodyne Toothpaste, Fresh Impact, 0.8 Ounce",
+            "normalizedName": "Sensodyne Toothpaste, Fresh Impact, 0.8 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.299999998674
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

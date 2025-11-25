@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009EC2260": {
+            "asin": "B009EC2260",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Enviroguard ChemSplash 1 Coverall, Disposable, Elastic Wrists, Yellow, Small (Case of 6)",
+            "normalizedName": "(Case of 6) Enviroguard ChemSplash 1 Coverall, Disposable, Elastic Wrists, Yellow, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

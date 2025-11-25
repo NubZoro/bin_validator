@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006HCE06": {
+            "asin": "B0006HCE06",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.199999983475998
+            },
+            "name": "Golden Gate Bridge, San Francisco 1500 Piece Puzzle",
+            "normalizedName": "Golden Gate Bridge, San Francisco 1500 Piece Puzzle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        },
+        "B005UPTFYC": {
+            "asin": "B005UPTFYC",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.199999983475998
+            },
+            "name": "Notre-Dame De Montreal, Canada 2000 Piece Puzzle",
+            "normalizedName": "Notre-Dame De Montreal, Canada 2000 Piece Puzzle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

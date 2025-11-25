@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004I2H14O": {
+            "asin": "B004I2H14O",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Brother Laminated Tape, Retail Packaging, 1/2 Inch, White, on Clear (TZe135) - Retail Packaging",
+            "normalizedName": "Brother Laminated Tape, Retail Packaging, 1/2 Inch, White, on Clear (TZe135) - Retail Packaging",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01EX4UXPU": {
+            "asin": "B01EX4UXPU",
+            "height": {
+                "unit": "IN",
+                "value": 0.9842519675
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "Paisley Compression Socks Womens & Mens - Pair of Medical Grade 20-30 mmHg Graduated Sock Support Stockings - Ideal for Running & Athletic Wear, Pregnancy/Maternity, Flight & Travel",
+            "normalizedName": "Paisley Compression Socks Womens & Mens - Pair of Medical Grade 20-30 mmHg Graduated Sock Support Stockings - Ideal for Running & Athletic Wear, Pregnancy/Maternity, Flight & Travel",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.1338582635
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

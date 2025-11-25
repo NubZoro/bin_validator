@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007VHFLF4": {
+            "asin": "B007VHFLF4",
+            "height": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "Ozark Mountain Kids Nursing Pillow \u2013 100% Cotton Chenille \u2013 Multipurpose, Machine Washable \u2013 Chocolate Mint",
+            "normalizedName": "Ozark Mountain Kids Nursing Pillow \u2013 100% Cotton Chenille \u2013 Multipurpose, Machine Washable \u2013 Chocolate Mint",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.099999986638
+            }
+        },
+        "B00I08JF50": {
+            "asin": "B00I08JF50",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Green Mountain Coffee Wild Mountain Blueberry, Keurig K-Cups, 72 Count",
+            "normalizedName": "Green Mountain Coffee Wild Mountain Blueberry, Keurig K-Cups, 72 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

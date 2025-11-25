@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321885171": {
+            "asin": "0321885171",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Campbell Biology: Concepts & Connections Plus MasteringBiology with eText -- Access Card Package (8th Edition)",
+            "normalizedName": "Campbell Biology: Concepts & Connections Plus MasteringBiology with eText -- Access Card Package (8th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "1608465624": {
+            "asin": "1608465624",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "From #BlackLivesMatter to Black Liberation",
+            "normalizedName": "From #BlackLivesMatter to Black Liberation",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

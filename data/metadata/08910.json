@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MKB6G8M": {
+            "asin": "B00MKB6G8M",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Miracle-Gro Succulent Plant Food, 8 OZ",
+            "normalizedName": "Miracle-Gro Succulent Plant Food, 8 OZ",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01CNPHS0E": {
+            "asin": "B01CNPHS0E",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Playwin cube Pyraminx Speedcubing Puzzle cube (black)",
+            "normalizedName": "Playwin cube Pyraminx Speedcubing Puzzle cube (black)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

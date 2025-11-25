@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005M1UR": {
+            "asin": "B00005M1UR",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Z: Steel Soldiers - PC",
+            "normalizedName": "Z: Steel Soldiers - PC",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942
+            }
+        },
+        "B0029U2XFE": {
+            "asin": "B0029U2XFE",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "WINEGARD WM-2040 4-Inch Galvanized Antenna Wall Mount",
+            "normalizedName": "WINEGARD WM-2040 4-Inch Galvanized Antenna Wall Mount",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01ABVEFSA": {
+            "asin": "B01ABVEFSA",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Litom Solar Powered Wireless 8 LED Security Motion Sensor Lamp Outdoor Light (2 Pack)",
+            "normalizedName": "(2 Pack) Litom Solar Powered Wireless 8 LED Security Motion Sensor Lamp Outdoor Light",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013USTHSY": {
+            "asin": "B013USTHSY",
+            "height": {
+                "unit": "IN",
+                "value": 5.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.400000000000002
+            },
+            "name": "Rosetti Darcy Satchel Grab Cross Body Bag, Smoke, One Size",
+            "normalizedName": "Rosetti Darcy Satchel Grab Cross Body Bag, Smoke, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.8
+            }
+        },
+        "B014JXU83W": {
+            "asin": "B014JXU83W",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Weatherbeeta Parka 1200D Dog Coat (24\", Black/Teal Plaid)",
+            "normalizedName": "Weatherbeeta Parka 1200D Dog Coat (24\", Black/Teal Plaid)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B01CG2RC2I": {
+            "asin": "B01CG2RC2I",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Greenco Super Strong Foldable Step Stool for Adults and Kids, 11\", Blue",
+            "normalizedName": "Greenco Super Strong Foldable Step Stool for Adults and Kids, 11\", Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4499999979454534
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.199999987556
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

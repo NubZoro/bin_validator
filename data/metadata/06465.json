@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NGKPS1W": {
+            "asin": "B00NGKPS1W",
+            "height": {
+                "unit": "IN",
+                "value": 2.1000000000000005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.4
+            },
+            "name": "PUMA Men's Fleece Track Jacket, Black/White, Large",
+            "normalizedName": "PUMA Men's Fleece Track Jacket, Black/White, Large",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.6
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

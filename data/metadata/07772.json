@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000035XGF": {
+            "asin": "B000035XGF",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "The Castlevania Adventure",
+            "normalizedName": "The Castlevania Adventure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "B00004TMG7": {
+            "asin": "B00004TMG7",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Yoshi",
+            "normalizedName": "Yoshi",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01EQAL9UO": {
+            "asin": "B01EQAL9UO",
+            "height": {
+                "unit": "IN",
+                "value": 1.4960629906
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "Sphero Ollie Wideboyz by Hexnub - Orange Tyres - Own the road!",
+            "normalizedName": "Sphero Ollie Wideboyz by Hexnub - Orange Tyres - Own the road!",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1763698096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7007873978
+            }
+        },
+        "B01G4B2C4A": {
+            "asin": "B01G4B2C4A",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Heinz Traditional Steak Sauce Individual Packets, 50 count",
+            "normalizedName": "Heinz Traditional Steak Sauce Individual Packets, 50 count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

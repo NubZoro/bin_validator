@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0003JBY6M": {
+            "asin": "B0003JBY6M",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.6535432952
+            },
+            "name": "No6 Desert Eagle 50AE silver model (electric blow back 10 years or more)",
+            "normalizedName": "No6 Desert Eagle 50AE silver model (electric blow back 10 years or more)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9700119065738
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.8503936938
+            }
+        },
+        "B004RIMJG4": {
+            "asin": "B004RIMJG4",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Intex Tote-N-Float Wave Inflatable Air Mat (58807EP),  90\" X 34\", (Colors May Vary), 1 Pack",
+            "normalizedName": "1 Pack Intex Tote-N-Float Wave Inflatable Air Mat (58807EP),  90\" X 34\", (Colors May Vary),",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B004U7JYXS": {
+            "asin": "B004U7JYXS",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995205999
+            },
+            "name": "Fuji 96090 Instax Mini Instant Film, 10 Sheet, 5 Piece",
+            "normalizedName": "Fuji 96090 Instax Mini Instant Film, 10 Sheet, 5 Piece",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995205999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

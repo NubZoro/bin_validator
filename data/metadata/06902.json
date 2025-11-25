@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001EQ5EJQ": {
+            "asin": "B001EQ5EJQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "La Tourangelle Roasted Walnut Oil, 16.9-Ounce Cans (Pack of 3)",
+            "normalizedName": "(Pack of 3) La Tourangelle Roasted Walnut Oil, 16.9-Ounce Cans",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B005VDUBS2": {
+            "asin": "B005VDUBS2",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Grace Digital Message and Music on Hold USB Digital MP3 Player, Silver (GDI-USBM10)",
+            "normalizedName": "Grace Digital Message and Music on Hold USB Digital MP3 Player, Silver (GDI-USBM10)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3999999971487918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00WV6AI1C": {
+            "asin": "B00WV6AI1C",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "SET of 2, 32 Oz. (Ounce) Large Clear Squeeze Bottle, Condiment Squeeze Bottle, Open-tip, Wide Screw-on Spout, Polyethylene Durable Plastic, Diner Style (2) by Update International",
+            "normalizedName": "SET of 2, 32 Oz. (Ounce) Large Clear Squeeze Bottle, Condiment Squeeze Bottle, Open-tip, Wide Screw-on Spout, Polyethylene Durable Plastic, Diner Style (2) by Update International",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

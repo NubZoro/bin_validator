@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008LDWUFG": {
+            "asin": "B008LDWUFG",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Blake Printing Supply \u00a9 8 Pack Compatible Ink Cartridge Replacements for Brother LC-71 , LC-75 2 Black, 2 Cyan, 2 Magenta, 2 Yellow (LC-71BK , LC-71C , LC-71M , LC-71Y , LC-75BK , LC-75C , LC-75M , LC-75Y)",
+            "normalizedName": "8 Pack Blake Printing Supply \u00a9 Compatible Ink Cartridge Replacements for Brother LC-71 , LC-75 2 Black, 2 Cyan, 2 Magenta, 2 Yellow (LC-71BK , LC-71C , LC-71M , LC-71Y , LC-75BK , LC-75C , LC-75M , LC-75Y)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B0128GGK1Q": {
+            "asin": "B0128GGK1Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Something Different",
+            "normalizedName": "Something Different",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

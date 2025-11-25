@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001E3U3WC": {
+            "asin": "B001E3U3WC",
+            "height": {
+                "unit": "IN",
+                "value": 1.18
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.37
+            },
+            "name": "Westinghouse 0328900, 40 Watt, 120 Volt White Incand B9.5 Light Bulb, 1500 Hour 350 Lumen",
+            "normalizedName": "Westinghouse 0328900, 40 Watt, 120 Volt White Incand B9.5 Light Bulb, 1500 Hour 350 Lumen",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.39
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

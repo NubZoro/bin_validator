@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00YLAWEV8": {
+            "asin": "B00YLAWEV8",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Contigo Astor 2-pack Vacuum-Insulated Autoseal Easy Clean Lid Travel Tumblers Stainless / Berry.",
+            "normalizedName": "Contigo Astor 2-pack Vacuum-Insulated Autoseal Easy Clean Lid Travel Tumblers Stainless / Berry.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B017WLZJVY": {
+            "asin": "B017WLZJVY",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.299999983374
+            },
+            "name": "Calista Tools Perfecter Ultra All-in-one Hair Styler, 2 lb.",
+            "normalizedName": "Calista Tools Perfecter Ultra All-in-one Hair Styler, 2 lb.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

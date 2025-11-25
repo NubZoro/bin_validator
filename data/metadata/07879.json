@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008YETL18": {
+            "asin": "B008YETL18",
+            "height": {
+                "unit": "IN",
+                "value": 3.149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.6377952678
+            },
+            "name": "De'Longhi EcoDeCalk Natural Descaler for Coffee Machines",
+            "normalizedName": "De'Longhi EcoDeCalk Natural Descaler for Coffee Machines",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.410944074725587
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.2283464534
+            }
+        },
+        "B00ATZJ5YS": {
+            "asin": "B00ATZJ5YS",
+            "height": {
+                "unit": "IN",
+                "value": 1.8999999961239997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.4999999847
+            },
+            "name": "Belkin 3-Outlet SurgePlus Mini Travel Swivel Charger Surge Protector with Dual USB Ports (2.1 AMP / 10 Watt), BST300",
+            "normalizedName": "Belkin 3-Outlet SurgePlus Mini Travel Swivel Charger Surge Protector with Dual USB Ports (2.1 AMP / 10 Watt), BST300",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999795820485744
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

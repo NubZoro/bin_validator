@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002LUJ3UU": {
+            "asin": "B002LUJ3UU",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Shaft Slicker",
+            "normalizedName": "Shaft Slicker",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B006G4PGJ4": {
+            "asin": "B006G4PGJ4",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Philips 415240 Landscape Lighting 50-Watt PAR36 Flood Light 12-Volt Multi-Purpose Base Light Bulb",
+            "normalizedName": "Philips 415240 Landscape Lighting 50-Watt PAR36 Flood Light 12-Volt Multi-Purpose Base Light Bulb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00AR51Y5I": {
+            "asin": "B00AR51Y5I",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Starbucks Gift Card $25",
+            "normalizedName": "Starbucks Gift Card $25",
+            "quantity": 15,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B014VZ7XBS": {
+            "asin": "B014VZ7XBS",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "For Galaxy S6 Edge [Heavy Duty] For Samsung Galaxy S6 Edge [Slide Card Armor] Hybrid Card Slot Wallet Cover, Dual Layer ZARUS Slide Card (Mint)",
+            "normalizedName": "For Galaxy S6 Edge [Heavy Duty] For Samsung Galaxy S6 Edge [Slide Card Armor] Hybrid Card Slot Wallet Cover, Dual Layer ZARUS Slide Card (Mint)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 18
+}

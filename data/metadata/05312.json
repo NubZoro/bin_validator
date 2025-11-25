@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004CLZRI8": {
+            "asin": "B004CLZRI8",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Intex 18-Pocket Suntanner Inflatable Lounge, 74\" X 28\", (Colors May Vary), 1 Pack",
+            "normalizedName": "1 Pack Intex 18-Pocket Suntanner Inflatable Lounge, 74\" X 28\", (Colors May Vary),",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B00UA7VA7K": {
+            "asin": "B00UA7VA7K",
+            "height": {
+                "unit": "IN",
+                "value": 4.0944881848
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.3464566844
+            },
+            "name": "Spy Optic Breakaway Adult Dirt Bike Motorcycle Goggles Eyewear - Black/Clear with Post / One Size Fits All",
+            "normalizedName": "Spy Optic Breakaway Adult Dirt Bike Motorcycle Goggles Eyewear - Black/Clear with Post / One Size Fits All",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.2519684996
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

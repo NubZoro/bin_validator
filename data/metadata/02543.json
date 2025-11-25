@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001F12LZA": {
+            "asin": "B001F12LZA",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "AIR LIFT 26229 200-psi Dual Needle Air Gauge",
+            "normalizedName": "AIR LIFT 26229 200-psi Dual Needle Air Gauge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B003UV4WN2": {
+            "asin": "B003UV4WN2",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Duo-Lock Reversible Felt and Rubber Non-Slip Rug Pad, Size: 2' x 8' Rug Pad",
+            "normalizedName": "Duo-Lock Reversible Felt and Rubber Non-Slip Rug Pad, Size: 2' x 8' Rug Pad",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.299999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.399999987352
+            }
+        },
+        "B00FFSBGSM": {
+            "asin": "B00FFSBGSM",
+            "height": {
+                "unit": "IN",
+                "value": 1.8110236202
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.8346456562
+            },
+            "name": "E-Table LD09 White/Black Laptop Table with 2 Fans, Mouse Pad and Cup Holder",
+            "normalizedName": "E-Table LD09 White/Black Laptop Table with 2 Fans, Mouse Pad and Cup Holder",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6155441945162776
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.6535432952
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

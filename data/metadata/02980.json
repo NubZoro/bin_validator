@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "082342748X": {
+            "asin": "082342748X",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "A Picture Book of Daniel Boone (Picture Book Biographies)",
+            "normalizedName": "A Picture Book of Daniel Boone (Picture Book Biographies)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B001CA6KK6": {
+            "asin": "B001CA6KK6",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Moog ES80574 Tie Rod End",
+            "normalizedName": "Moog ES80574 Tie Rod End",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B0037V001I": {
+            "asin": "B0037V001I",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Audubon Hummingbird Food 3-Ounce Packet, 3-Pack",
+            "normalizedName": "3-Pack Audubon Hummingbird Food 3-Ounce Packet,",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

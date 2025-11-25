@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00684AH9Q": {
+            "asin": "B00684AH9Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Starbucks Tazo Tea * Zen * Green Tea, 16 K-Cups for Keurig Brewers",
+            "normalizedName": "Starbucks Tazo Tea * Zen * Green Tea, 16 K-Cups for Keurig Brewers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B019NJSZ14": {
+            "asin": "B019NJSZ14",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "Selfie Stick, Premium Quality Cable Version By Seren All-in-one Monopod for Iphone, Android Phones, Lightweight and Portable. Foldable Secure Mount. Comes with Black Carry Bag. (Blue)",
+            "normalizedName": "Selfie Stick, Premium Quality Cable Version By Seren All-in-one Monopod for Iphone, Android Phones, Lightweight and Portable. Foldable Secure Mount. Comes with Black Carry Bag. (Blue)",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

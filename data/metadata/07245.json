@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0545861012": {
+            "asin": "0545861012",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "I Survived Collector's Toolbox (I Survived)",
+            "normalizedName": "I Survived Collector's Toolbox (I Survived)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.649999996939144
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "1600660940": {
+            "asin": "1600660940",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Breast Cancer and Me: The Hope-filled and Sometimes Humerous Story of a Breast Cancer Survivor",
+            "normalizedName": "Breast Cancer and Me: The Hope-filled and Sometimes Humerous Story of a Breast Cancer Survivor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00VTQ7ZK2": {
+            "asin": "B00VTQ7ZK2",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Milo's Kitchen Steak Grillers Recipe with Angus Dog Treats, 10 oz.",
+            "normalizedName": "Milo's Kitchen Steak Grillers Recipe with Angus Dog Treats, 10 oz.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00YAZGNPW": {
+            "asin": "B00YAZGNPW",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Elite First Aid Military IFAK Individual First Aid Kit Olive Drab",
+            "normalizedName": "Elite First Aid Military IFAK Individual First Aid Kit Olive Drab",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

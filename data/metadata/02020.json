@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EVSC8C": {
+            "asin": "B000EVSC8C",
+            "height": {
+                "unit": "IN",
+                "value": 8.40157479458
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Bethlehem Lighting Indoor/Outdoor Christmas Standard Star Sphere 100  , Amber",
+            "normalizedName": "Bethlehem Lighting Indoor/Outdoor Christmas Standard Star Sphere 100  , Amber",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.000033640864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B004S081T0": {
+            "asin": "B004S081T0",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Rotary Rotating Mirror Top Display Stand - 12\"",
+            "normalizedName": "Rotary Rotating Mirror Top Display Stand - 12\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

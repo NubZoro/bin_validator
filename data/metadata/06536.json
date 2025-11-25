@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LGLHFPU": {
+            "asin": "B00LGLHFPU",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Corningware 20-Ounce Oven Safe Meal Mug with Vented Lid,  French White",
+            "normalizedName": "Corningware 20-Ounce Oven Safe Meal Mug with Vented Lid,  French White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01EF539MQ": {
+            "asin": "B01EF539MQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "100pcs Black Paper Gift Tags with Free 100 Root Natural Jute Twine(Water Ripple)",
+            "normalizedName": "100pcs Black Paper Gift Tags with Free 100 Root Natural Jute Twine(Water Ripple)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.43999999963102016
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

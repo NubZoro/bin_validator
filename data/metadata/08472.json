@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FSQ7F4": {
+            "asin": "B000FSQ7F4",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "ClosetMaid 5629 Support for SuperSlide Hanging Bar, White",
+            "normalizedName": "ClosetMaid 5629 Support for SuperSlide Hanging Bar, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B003GISNGQ": {
+            "asin": "B003GISNGQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Franklin Covey Lexington, Ballpoint Pen and 0.9mm Pencil Set, Polished Chrome with Gold Appointments, by Cross (FC0011IM-3)",
+            "normalizedName": "Franklin Covey Lexington, Ballpoint Pen and 0.9mm Pencil Set, Polished Chrome with Gold Appointments, by Cross (FC0011IM-3)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B019ZI4YKO": {
+            "asin": "B019ZI4YKO",
+            "height": {
+                "unit": "IN",
+                "value": 2.149999997807
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.949999993931
+            },
+            "name": "LuminoLite Rechargeable Extra-Bright 6 SMD LED Book Light, Easy Clip On Light, 2 Brightness Levels, USB Cable & UL Listed Charger. Perfect As A Keyboard, Task & Music Stand Light (Silver Version Only)",
+            "normalizedName": "LuminoLite Rechargeable Extra-Bright 6 SMD LED Book Light, Easy Clip On Light, 2 Brightness Levels, USB Cable & UL Listed Charger. Perfect As A Keyboard, Task & Music Stand Light (Silver Version Only)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3549999997023004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

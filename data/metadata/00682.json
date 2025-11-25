@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0011YQR6U": {
+            "asin": "B0011YQR6U",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "R & M 1848 Christmas Linzer Cookie Cutter Set",
+            "normalizedName": "R & M 1848 Christmas Linzer Cookie Cutter Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B013HUMBZ6": {
+            "asin": "B013HUMBZ6",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Apple Watch Case,Biaoge Super Thin PC Plated Plating Protective Bumper Case for Apple Watch 42MM (PC Case Gray 42mm)",
+            "normalizedName": "Apple Watch Case,Biaoge Super Thin PC Plated Plating Protective Bumper Case for Apple Watch 42MM (PC Case Gray 42mm)",
+            "quantity": 19,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 20
+}

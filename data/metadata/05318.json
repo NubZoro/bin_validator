@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00N9WI1MA": {
+            "asin": "B00N9WI1MA",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Fisher-Price Roller Blocks Airplane",
+            "normalizedName": "Fisher-Price Roller Blocks Airplane",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B01AJ5KL9A": {
+            "asin": "B01AJ5KL9A",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "MXQ Pro1 Android 5.1 Amlogic Quad Core Kodi UHD 4K2K HDMI 1080P Smart TV Box Streaming Media Player With Bluetooth and External WIFI Antenna",
+            "normalizedName": "MXQ Pro1 Android 5.1 Amlogic Quad Core Kodi UHD 4K2K HDMI 1080P Smart TV Box Streaming Media Player With Bluetooth and External WIFI Antenna",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

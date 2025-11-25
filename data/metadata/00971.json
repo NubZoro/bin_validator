@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000A6Z9B4": {
+            "asin": "B000A6Z9B4",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991738
+            },
+            "name": "ACDelco A1615C Professional Air Filter",
+            "normalizedName": "ACDelco A1615C Professional Air Filter",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452
+            }
+        },
+        "B00EPD6UFM": {
+            "asin": "B00EPD6UFM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Full Extra Long (XL) SureGuard Mattress Protector - 100% Waterproof, Hypoallergenic - Premium Fitted Cotton Terry Cover - 10 Year Warranty",
+            "normalizedName": "Full Extra Long (XL) SureGuard Mattress Protector - 100% Waterproof, Hypoallergenic - Premium Fitted Cotton Terry Cover - 10 Year Warranty",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        },
+        "B00N2RBP02": {
+            "asin": "B00N2RBP02",
+            "height": {
+                "unit": "IN",
+                "value": 2.755905509
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.173228332
+            },
+            "name": "S-ZONE Retro Canvas Leather School Travel Backpack Rucksack 15.6-inch Laptop Bag",
+            "normalizedName": "S-ZONE Retro Canvas Leather School Travel Backpack Rucksack 15.6-inch Laptop Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.336876125723936
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.448818888
+            }
+        },
+        "B00QW06UQU": {
+            "asin": "B00QW06UQU",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Luxury Hotel & Spa Towel 100% Genuine Turkish Cotton (Bath Towel - Set of 4, Moss)",
+            "normalizedName": "Set of 4 Luxury Hotel & Spa Towel 100% Genuine Turkish Cotton (Bath Towel - , Moss)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

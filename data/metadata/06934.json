@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I796HS0": {
+            "asin": "B00I796HS0",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "name": "Subaru 15208AA12A Oil Filter",
+            "normalizedName": "Subaru 15208AA12A Oil Filter",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B017SCI1WG": {
+            "asin": "B017SCI1WG",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "OSIR 2 Black High Capacity Replacement For HP 950 951 Ink Cartridge Compatible With HP Officejet PRO 8600 8610 8620 8630 8640 8660 8615 8625 251dw",
+            "normalizedName": "OSIR 2 Black High Capacity Replacement For HP 950 951 Ink Cartridge Compatible With HP Officejet PRO 8600 8610 8620 8630 8640 8660 8615 8625 251dw",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

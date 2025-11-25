@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015KNBE2E": {
+            "asin": "B015KNBE2E",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Alice Through the Looking Glass 11.5\" Classic Alice Fashion Doll",
+            "normalizedName": "Alice Through the Looking Glass 11.5\" Classic Alice Fashion Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064933
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.7999999930640005
+            }
+        },
+        "B01B7P0MGS": {
+            "asin": "B01B7P0MGS",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Finding Dory Feature Figure, Destiny",
+            "normalizedName": "Finding Dory Feature Figure, Destiny",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007YJXW1E": {
+            "asin": "B007YJXW1E",
+            "height": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.4094488042
+            },
+            "name": "Cisco SPA512G IP Phone - Cable VoIP Phone and Device",
+            "normalizedName": "Cisco SPA512G IP Phone - Cable VoIP Phone and Device",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6455201423289836
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.2598425082
+            }
+        },
+        "B00MOF1TBI": {
+            "asin": "B00MOF1TBI",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Microbead Pillow Neck Roll Bolster Pillows - Squishy Mooshi Beads Offer Comfort &  Support, Grey - 1 Piece",
+            "normalizedName": "Microbead Pillow Neck Roll Bolster Pillows - Squishy Mooshi Beads Offer Comfort &  Support, Grey - 1 Piece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1841849537": {
+            "asin": "1841849537",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.9763779436
+            },
+            "name": "Lu's Basic Toxicology: Fundamentals, Target Organs, and Risk Assessment, Sixth Edition",
+            "normalizedName": "Lu's Basic Toxicology: Fundamentals, Target Organs, and Risk Assessment, Sixth Edition",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.32
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "B00IN6CLPU": {
+            "asin": "B00IN6CLPU",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Microfiber 4Pc Cal King Size Cream Sheet Set (Vanilla)",
+            "normalizedName": "Microfiber 4Pc Cal King Size Cream Sheet Set (Vanilla)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.799999996813355
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B00O7DY90S": {
+            "asin": "B00O7DY90S",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Smitten Teddy Bear Plush Valentine's Day with Red Heart (1317b-1, Red Heart)",
+            "normalizedName": "Smitten Teddy Bear Plush Valentine's Day with Red Heart (1317b-1, Red Heart)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

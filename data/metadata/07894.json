@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002TUU2HA": {
+            "asin": "B002TUU2HA",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Dirt Devil Steam Mop Shaggy Pads (2-Pack), AD50005",
+            "normalizedName": "(2-Pack) Dirt Devil Steam Mop Shaggy Pads , AD50005",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00M0MR522": {
+            "asin": "B00M0MR522",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Women's NFL Team Logo Retro Tank Top (New York Giants, Medium)",
+            "normalizedName": "Women's NFL Team Logo Retro Tank Top (New York Giants, Medium)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

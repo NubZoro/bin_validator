@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NF5EQDY": {
+            "asin": "B00NF5EQDY",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Pioneer TSG6845R 6 x 8 Inches 2-Way 250W Car Speakers",
+            "normalizedName": "Pioneer TSG6845R 6 x 8 Inches 2-Way 250W Car Speakers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B01ATTCMXO": {
+            "asin": "B01ATTCMXO",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Microwavable Food Container with Lid Bento Box, Black, 10-Pack 38oz",
+            "normalizedName": "10-Pack Microwavable Food Container with Lid Bento Box, Black, 38oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

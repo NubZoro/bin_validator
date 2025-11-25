@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001SN8G8Q": {
+            "asin": "B001SN8G8Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Monopoly The Nightmare Before Christmas Collector's Edition",
+            "normalizedName": "Monopoly The Nightmare Before Christmas Collector's Edition",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905373
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        },
+        "B00VGT9CFI": {
+            "asin": "B00VGT9CFI",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Rubie's Costume Co Men's Beetlejuice Kit, Multi, One Size",
+            "normalizedName": "Rubie's Costume Co Men's Beetlejuice Kit, Multi, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

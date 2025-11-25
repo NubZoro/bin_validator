@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000302ALY": {
+            "asin": "B000302ALY",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "McFarlane Toys NFL SportsPicks Series 9 Action Figure Jake Plummer (Denver Broncos) White Jersey",
+            "normalizedName": "McFarlane Toys NFL SportsPicks Series 9 Action Figure Jake Plummer (Denver Broncos) White Jersey",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B004GZ0LA4": {
+            "asin": "B004GZ0LA4",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "MLB San Francisco Giants Baby Bootie Slippers",
+            "normalizedName": "MLB San Francisco Giants Baby Bootie Slippers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01EBAXIJE": {
+            "asin": "B01EBAXIJE",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Vasta Pro Vegetable Spiral Slicer Bundle",
+            "normalizedName": "Vasta Pro Vegetable Spiral Slicer Bundle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

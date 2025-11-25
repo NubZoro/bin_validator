@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "111806786X": {
+            "asin": "111806786X",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "The Complete Adult Psychotherapy Treatment Planner: Includes DSM-5 Updates",
+            "normalizedName": "The Complete Adult Psychotherapy Treatment Planner: Includes DSM-5 Updates",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "1483333450": {
+            "asin": "1483333450",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Fundamentals of Research in Criminology and Criminal Justice",
+            "normalizedName": "Fundamentals of Research in Criminology and Criminal Justice",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3668520735366416
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "1566956404": {
+            "asin": "1566956404",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Alps (National Geographic Adventure Map)",
+            "normalizedName": "Alps (National Geographic Adventure Map)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B004SA3JDS": {
+            "asin": "B004SA3JDS",
+            "height": {
+                "unit": "IN",
+                "value": 0.1574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.9685039248
+            },
+            "name": "Amscan Cute Multicolor Fluffy, 16\", Pink/Teal/Green",
+            "normalizedName": "Amscan Cute Multicolor Fluffy, 16\", Pink/Teal/Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280213493476
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.842519675
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

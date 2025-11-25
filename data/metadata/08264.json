@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "3832732772": {
+            "asin": "3832732772",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.9685039248
+            },
+            "name": "Elliott Erwitt New York/Paris Box Set",
+            "normalizedName": "Elliott Erwitt New York/Paris Box Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.952420315248569
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.8976377862
+            }
+        },
+        "B002KFYSMY": {
+            "asin": "B002KFYSMY",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Sun Yin 100-Percent Cotton Twin Blanket, Burgundy",
+            "normalizedName": "Sun Yin 100-Percent Cotton Twin Blanket, Burgundy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B00EFFW0GI": {
+            "asin": "B00EFFW0GI",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Build Me Up From Bones [LP]",
+            "normalizedName": "Build Me Up From Bones [LP]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.799999986944
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

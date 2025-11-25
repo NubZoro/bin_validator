@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00R3MYENC": {
+            "asin": "B00R3MYENC",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "LeapFrog Scout's Learning Lights Remote",
+            "normalizedName": "LeapFrog Scout's Learning Lights Remote",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

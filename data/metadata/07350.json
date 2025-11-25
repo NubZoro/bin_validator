@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01B7OZI36": {
+            "asin": "B01B7OZI36",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Mega Bloks S-31V Destiny Sparrow Building Kit",
+            "normalizedName": "Mega Bloks S-31V Destiny Sparrow Building Kit",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

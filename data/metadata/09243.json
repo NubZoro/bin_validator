@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009LL61KW": {
+            "asin": "B009LL61KW",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Lollaland Lollacup, Blue Straw Sippy Cup",
+            "normalizedName": "Lollaland Lollacup, Blue Straw Sippy Cup",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

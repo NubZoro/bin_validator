@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008UMFVZE": {
+            "asin": "B008UMFVZE",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "SeaKlear Natural Clarifier for Spas, 1 Quart Bottle",
+            "normalizedName": "SeaKlear Natural Clarifier for Spas, 1 Quart Bottle",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00O4CTSHG": {
+            "asin": "B00O4CTSHG",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Homeland: Ssn 4",
+            "normalizedName": "Homeland: Ssn 4",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.349996427152004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.249999994645
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001ET5ZI8": {
+            "asin": "B001ET5ZI8",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Fox Run Stainless Steel Muffin Pan, 12 cup",
+            "normalizedName": "Fox Run Stainless Steel Muffin Pan, 12 cup",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B008IZHSKY": {
+            "asin": "B008IZHSKY",
+            "height": {
+                "unit": "IN",
+                "value": 2.2047244072
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.8818897486
+            },
+            "name": "Mike The Knight: Mike and His Friends Shaped Floor Puzzle, 24-Piece",
+            "normalizedName": "Mike The Knight: Mike and His Friends Shaped Floor Puzzle, 24-Piece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.72
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.7086614064
+            }
+        },
+        "B00NHQF65S": {
+            "asin": "B00NHQF65S",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "LEGO Classic Green Baseplate Supplement",
+            "normalizedName": "LEGO Classic Green Baseplate Supplement",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B01ERNVVBW": {
+            "asin": "B01ERNVVBW",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Kick Mat Back Seat Car Organizer 2 pack",
+            "normalizedName": "Kick Mat Back Seat Car Organizer 2 pack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

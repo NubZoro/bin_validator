@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009F3SAK": {
+            "asin": "B0009F3SAK",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Yogi Teas Detox,16 Tea Bags, (Pack of 6)",
+            "normalizedName": "(Pack of 6) Yogi Teas Detox,16 Tea Bags,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00NEPYNYM": {
+            "asin": "B00NEPYNYM",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Yoga Towel 24\" x 72\" by Youphoria Yoga (Gray Towel / Pink Stitching) - Improve Mat Grip During Bikram, Ashtanga, and Hot Yoga Sessions - Ultra Absorbent, Machine Washable Microfiber, Yoga Mat Length Towels - Stop Slipping, Order Today!",
+            "normalizedName": "Yoga Towel 24\" x 72\" by Youphoria Yoga (Gray Towel / Pink Stitching) - Improve Mat Grip During Bikram, Ashtanga, and Hot Yoga Sessions - Ultra Absorbent, Machine Washable Microfiber, Yoga Mat Length Towels - Stop Slipping, Order Today!",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

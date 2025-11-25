@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001IK3QEI": {
+            "asin": "B001IK3QEI",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Enchantmints Unicorn Music Box",
+            "normalizedName": "Enchantmints Unicorn Music Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B00WY7P908": {
+            "asin": "B00WY7P908",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Fox Outdoor Products Marines Seal Crewneck Sweatshirt, Grey, Large",
+            "normalizedName": "Fox Outdoor Products Marines Seal Crewneck Sweatshirt, Grey, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

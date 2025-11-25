@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017QZS4L8": {
+            "asin": "B017QZS4L8",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Poweradd USB 3.0 PCI-E Express Card with 4 USB 3.0 Ports and 5V 4-Pin Power Connector for Desktops [VL805 Chipset]",
+            "normalizedName": "Poweradd USB 3.0 PCI-E Express Card with 4 USB 3.0 Ports and 5V 4-Pin Power Connector for Desktops [VL805 Chipset]",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.019999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

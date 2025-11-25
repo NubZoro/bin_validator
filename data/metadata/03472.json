@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BOC3LY": {
+            "asin": "B000BOC3LY",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Blue Magic 800 Leather & Vinyl Cleaner - 16 fl. oz.",
+            "normalizedName": "Blue Magic 800 Leather & Vinyl Cleaner - 16 fl. oz.",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B000NSIF9C": {
+            "asin": "B000NSIF9C",
+            "height": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Galaxy Glassware 12-pc. Set",
+            "normalizedName": "Galaxy Glassware 12-pc. Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.999999993291275
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B00WIBB6I4": {
+            "asin": "B00WIBB6I4",
+            "height": {
+                "unit": "IN",
+                "value": 5.3543307032
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.4409448692
+            },
+            "name": "Benbat Yummigo Booster Seat, Green/White",
+            "normalizedName": "Benbat Yummigo Booster Seat, Green/White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.248692119093904
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.8897637674
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

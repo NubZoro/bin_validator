@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FDSM0W": {
+            "asin": "B000FDSM0W",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Westmark Cherry Stoner \"Kernex\"",
+            "normalizedName": "Westmark Cherry Stoner \"Kernex\"",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00JFBBTZU": {
+            "asin": "B00JFBBTZU",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Alta Health Magnesium Chloride (100 X 2)",
+            "normalizedName": "Alta Health Magnesium Chloride (100 X 2)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

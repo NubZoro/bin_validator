@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004ZQ5IGG": {
+            "asin": "B004ZQ5IGG",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Weaver Leather White Cotton Lead Rope with Nickel Plated Bull Snap, White",
+            "normalizedName": "Weaver Leather White Cotton Lead Rope with Nickel Plated Bull Snap, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B00C83F58Y": {
+            "asin": "B00C83F58Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Mead Graph Composition Book, Square Deal, Black Marble, 7.5 x 9.75 Inches (09000)",
+            "normalizedName": "Mead Graph Composition Book, Square Deal, Black Marble, 7.5 x 9.75 Inches (09000)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00DM8KL2Y": {
+            "asin": "B00DM8KL2Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "General Electric WB31T10014 6-Inch Burner Bowl",
+            "normalizedName": "General Electric WB31T10014 6-Inch Burner Bowl",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B01BB1BRGW": {
+            "asin": "B01BB1BRGW",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Triple Leaf Caffeine Free Herbal Tea 2 Flavor Variety Bundle: (1) Triple Leaf Chinese Detox Tea (20 count), and (1) Triple Leaf Super Slimming Tea (20 Count)",
+            "normalizedName": "Triple Leaf Caffeine Free Herbal Tea 2 Flavor Variety Bundle: (1) Triple Leaf Chinese Detox Tea (20 count), and (1) Triple Leaf Super Slimming Tea (20 Count)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3799999996813356
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

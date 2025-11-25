@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005OQ35CA": {
+            "asin": "B005OQ35CA",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Freedom no pull harness with leash training kit",
+            "normalizedName": "Freedom no pull harness with leash training kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B007FXC14S": {
+            "asin": "B007FXC14S",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Candy Cigarettes: 24 Count",
+            "normalizedName": "Candy Cigarettes: 24 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B010TZB14E": {
+            "asin": "B010TZB14E",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Fit Spirit\u00ae Tree of Life Exercise Yoga Mat Bag w/ 2 Cargo Pockets - Pink",
+            "normalizedName": "Fit Spirit\u00ae Tree of Life Exercise Yoga Mat Bag w/ 2 Cargo Pockets - Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

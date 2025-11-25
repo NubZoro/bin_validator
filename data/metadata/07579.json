@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EAAKXJY": {
+            "asin": "B00EAAKXJY",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Cinderella Light-up Shoes Size 9/10",
+            "normalizedName": "Cinderella Light-up Shoes Size 9/10",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B019QCZPH0": {
+            "asin": "B019QCZPH0",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "6.6 ft USB Type C,Omaker 6.6ft Type C to Type C Data Charging Cable ,Cord/ USB-C to USB-C Cable, USB-C Certified",
+            "normalizedName": "6.6 ft USB Type C,Omaker 6.6ft Type C to Type C Data Charging Cable ,Cord/ USB-C to USB-C Cable, USB-C Certified",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

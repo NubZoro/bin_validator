@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0736929754": {
+            "asin": "0736929754",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "A Woman's Passionate Pursuit of God: Six Motivating Sessions for a Positive and Purposeful Life",
+            "normalizedName": "A Woman's Passionate Pursuit of God: Six Motivating Sessions for a Positive and Purposeful Life",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00HYUW5IE": {
+            "asin": "B00HYUW5IE",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Yonka Creme 11 for Unisex, 3.52 Ounce",
+            "normalizedName": "Yonka Creme 11 for Unisex, 3.52 Ounce",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

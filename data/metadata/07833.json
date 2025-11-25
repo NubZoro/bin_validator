@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1504965655": {
+            "asin": "1504965655",
+            "height": {
+                "unit": "IN",
+                "value": 0.27
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.02
+            },
+            "name": "Fun with Corks After the Wine",
+            "normalizedName": "Fun with Corks After the Wine",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.74
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.5
+            }
+        },
+        "B001BSX1EM": {
+            "asin": "B001BSX1EM",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Calphalon Nonstick Bakeware Set, 6-Pieces",
+            "normalizedName": "Calphalon Nonstick Bakeware Set, 6-Pieces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.649999995261963
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B01ARGBY7Y": {
+            "asin": "B01ARGBY7Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Monster High Fright Roast Coffee Playset",
+            "normalizedName": "Monster High Fright Roast Coffee Playset",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645638
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B01CRAB3P6": {
+            "asin": "B01CRAB3P6",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Barbie Spaghetti Chef Doll & Playset",
+            "normalizedName": "Barbie Spaghetti Chef Doll & Playset",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

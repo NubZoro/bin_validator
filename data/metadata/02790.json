@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00854VQP6": {
+            "asin": "B00854VQP6",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Grohe 20294EN0 Eurosmart 2-handle Bathroom Faucet",
+            "normalizedName": "Grohe 20294EN0 Eurosmart 2-handle Bathroom Faucet",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        },
+        "B008TL6J4S": {
+            "asin": "B008TL6J4S",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "LinenTablecloth 60 x 102-Inch Rectangular Polyester Tablecloth Black",
+            "normalizedName": "LinenTablecloth 60 x 102-Inch Rectangular Polyester Tablecloth Black",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            }
+        },
+        "B009LQENVQ": {
+            "asin": "B009LQENVQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Broken Chain Photo Frame",
+            "normalizedName": "Broken Chain Photo Frame",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

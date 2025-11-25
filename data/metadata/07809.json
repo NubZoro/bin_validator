@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01ER7A72M": {
+            "asin": "B01ER7A72M",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Foreasy Pet Rabbit Woven Grass Play Ball",
+            "normalizedName": "Foreasy Pet Rabbit Woven Grass Play Ball",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995205999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

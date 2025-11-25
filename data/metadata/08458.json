@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00P06VWIS": {
+            "asin": "B00P06VWIS",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Popcorn Serving Tub 7.5\" X 7.5\"- Set of 4 Bowls",
+            "normalizedName": "Set of 4 Popcorn Serving Tub 7.5\" X 7.5\"- Bowls",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

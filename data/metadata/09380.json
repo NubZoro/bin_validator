@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000A0IL1A": {
+            "asin": "B000A0IL1A",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Mrs. Meyer's Clean Day Surface Scrub, Lavender, 11 Ounce Bottle",
+            "normalizedName": "Mrs. Meyer's Clean Day Surface Scrub, Lavender, 11 Ounce Bottle",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B004357TES": {
+            "asin": "B004357TES",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Creative Chatmax HS-420 Gaming Headset",
+            "normalizedName": "Creative Chatmax HS-420 Gaming Headset",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B0189SAQTY": {
+            "asin": "B0189SAQTY",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Christ The Way, The Truth and The Life - Christian Religious Baseball Cap Hat (Burgundy)",
+            "normalizedName": "Christ The Way, The Truth and The Life - Christian Religious Baseball Cap Hat (Burgundy)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

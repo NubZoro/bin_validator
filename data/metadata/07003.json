@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008HHOOC8": {
+            "asin": "B008HHOOC8",
+            "height": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Softsoap Liquid Hand Soap, Aquarium Series, 7.5 Oz Pump Bottle + 56 Oz Refill",
+            "normalizedName": "Softsoap Liquid Hand Soap, Aquarium Series, 7.5 Oz Pump Bottle + 56 Oz Refill",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

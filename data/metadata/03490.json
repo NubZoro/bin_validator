@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01FRGO714": {
+            "asin": "B01FRGO714",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Stroller Hook by Akeekah 2 Pack Multipurpose Hooks Hanger Clip for Baby Diaper Bags, Groceries, Shopping, Purse; Black",
+            "normalizedName": "2 Pack Stroller Hook by Akeekah Multipurpose Hooks Hanger Clip for Baby Diaper Bags, Groceries, Shopping, Purse; Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01GOVIJ3I": {
+            "asin": "B01GOVIJ3I",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Skippy Regular Creamy Double Peanut Butter Spread, 6 Ounce",
+            "normalizedName": "Skippy Regular Creamy Double Peanut Butter Spread, 6 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

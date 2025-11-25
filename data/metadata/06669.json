@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000H7MNDI": {
+            "asin": "B000H7MNDI",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "National Geographic June 2005",
+            "normalizedName": "National Geographic June 2005",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B000XJNTNS": {
+            "asin": "B000XJNTNS",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Mario Kart Wii with Wii Wheel",
+            "normalizedName": "Mario Kart Wii with Wii Wheel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B013KPLI7A": {
+            "asin": "B013KPLI7A",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "KingSeal Vinyl Disposable Gloves, Powder-Free, 4 mil, Clear, Large, 4 bx/100 per Case",
+            "normalizedName": "KingSeal Vinyl Disposable Gloves, Powder-Free, 4 mil, Clear, Large, 4 bx/100 per Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.7999999959747655
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

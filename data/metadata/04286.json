@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007L0DPE0": {
+            "asin": "B007L0DPE0",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Vitafusion Women's Gummy Vitamins, Natural Berry Flavors, 150 Count",
+            "normalizedName": "Vitafusion Women's Gummy Vitamins, Natural Berry Flavors, 150 Count",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0247251872511423
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

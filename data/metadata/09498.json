@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001265GI2": {
+            "asin": "B001265GI2",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Kingston Apple 4GB Kit (2x2GB Modules) 667MHz DDR2 SoDimm iMac and Macbook Memory (KTA-MB667K2/4GR)",
+            "normalizedName": "Kingston Apple 4GB Kit (2x2GB Modules) 667MHz DDR2 SoDimm iMac and Macbook Memory (KTA-MB667K2/4GR)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B002NJTUDO": {
+            "asin": "B002NJTUDO",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Pentair 520670 IntelliChlor Acid Washing Kit",
+            "normalizedName": "Pentair 520670 IntelliChlor Acid Washing Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

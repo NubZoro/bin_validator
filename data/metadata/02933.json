@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00028Q45A": {
+            "asin": "B00028Q45A",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Flax Seed (Organic) Arrowhead Mills 1 lbs Bulk",
+            "normalizedName": "Flax Seed (Organic) Arrowhead Mills 1 lbs Bulk",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00IO5QOO4": {
+            "asin": "B00IO5QOO4",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Amerock BP53001-ORB-10PK Allison Rope Knob 1-1/4-Inch Diameter, Oil Rubbed Bronze, 10 Pack",
+            "normalizedName": "10 Pack Amerock BP53001-ORB-10PK Allison Rope Knob 1-1/4-Inch Diameter, Oil Rubbed Bronze,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

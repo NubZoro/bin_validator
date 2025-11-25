@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1585360562": {
+            "asin": "1585360562",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "B Is For Bluegrass: A Kentucky Alphabet (Discover America State by State)",
+            "normalizedName": "B Is For Bluegrass: A Kentucky Alphabet (Discover America State by State)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B00RW0IBTS": {
+            "asin": "B00RW0IBTS",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "BaBylissPro Nano\u00a0Titanium 1-1/4\"\u00a0Titanium-Plated Straightening Iron, Blue",
+            "normalizedName": "BaBylissPro Nano\u00a0Titanium 1-1/4\"\u00a0Titanium-Plated Straightening Iron, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00VIJI9G4": {
+            "asin": "B00VIJI9G4",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "NETGEAR Smart WiFi Router R6300v2 Dual Band Gigabit",
+            "normalizedName": "NETGEAR Smart WiFi Router R6300v2 Dual Band Gigabit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

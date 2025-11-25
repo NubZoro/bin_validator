@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01C5GA0H4": {
+            "asin": "B01C5GA0H4",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128001
+            },
+            "name": "Carolina Sweethearts Damask Tote Bag Black and White Medium",
+            "normalizedName": "Carolina Sweethearts Damask Tote Bag Black and White Medium",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7099999994046008
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.399999986332
+            }
+        },
+        "B01GNFLK54": {
+            "asin": "B01GNFLK54",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.5
+            },
+            "name": "Brown Brazilian Cotton London Throw Blanket With Fringe 63x87 Inches",
+            "normalizedName": "Brown Brazilian Cotton London Throw Blanket With Fringe 63x87 Inches",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

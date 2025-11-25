@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0671631314": {
+            "asin": "0671631314",
+            "height": {
+                "unit": "IN",
+                "value": 0.85039369992
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.46062991365
+            },
+            "name": "Simon & Schuster's Guide to House Plants",
+            "normalizedName": "Simon & Schuster's Guide to House Plants",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0800225753118
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.53937007411
+            }
+        },
+        "B011SY4P9I": {
+            "asin": "B011SY4P9I",
+            "height": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Meal Prep Haven 3 Compartment Stackable Food Containers with Lids, Bento Box / Lunch Containers, Reusable, Set of 7",
+            "normalizedName": "Set of 7 Meal Prep Haven 3 Compartment Stackable Food Containers with Lids, Bento Box / Lunch Containers, Reusable,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.249999989545
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

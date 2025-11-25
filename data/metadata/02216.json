@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LBHBGW2": {
+            "asin": "B00LBHBGW2",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Intermatic ST01K Astronomic Digital In-Wall Timer",
+            "normalizedName": "Intermatic ST01K Astronomic Digital In-Wall Timer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ACC12DA": {
+            "asin": "B00ACC12DA",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Pepperidge Farm Candy Cane Milano Minis~ Seasonal Edition",
+            "normalizedName": "Pepperidge Farm Candy Cane Milano Minis~ Seasonal Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B012K7R2EC": {
+            "asin": "B012K7R2EC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "SF Fishing Spinning Rod Cover (White/Red /Blue)",
+            "normalizedName": "SF Fishing Spinning Rod Cover (White/Red /Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

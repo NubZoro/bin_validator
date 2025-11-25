@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C4G4I2Y": {
+            "asin": "B00C4G4I2Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "Rust-O-Less (Black, Large-Foam Sized)",
+            "normalizedName": "Rust-O-Less (Black, Large-Foam Sized)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00VILVV62": {
+            "asin": "B00VILVV62",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "FLIR ONE Thermal Imager for iOS",
+            "normalizedName": "FLIR ONE Thermal Imager for iOS",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

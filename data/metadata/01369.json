@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003L7XO5M": {
+            "asin": "B003L7XO5M",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Solgar Wild Alaskan Full Spectrum Omega Supplement, 120 Count",
+            "normalizedName": "Solgar Wild Alaskan Full Spectrum Omega Supplement, 120 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00WGLKLQY": {
+            "asin": "B00WGLKLQY",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0629921198
+            },
+            "name": "Lanxivi Jinhao 8812 Fountain Pen Rose Wood Barrel Vintage Style Pen Pouch",
+            "normalizedName": "Lanxivi Jinhao 8812 Fountain Pen Rose Wood Barrel Vintage Style Pen Pouch",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.574803148
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

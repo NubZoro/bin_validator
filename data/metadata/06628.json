@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0028LVLNY": {
+            "asin": "B0028LVLNY",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Good Cook 3-Quart Plastic Colander with Handle",
+            "normalizedName": "Good Cook 3-Quart Plastic Colander with Handle",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00NH65P4U": {
+            "asin": "B00NH65P4U",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999999999998
+            },
+            "name": "Quiksilver Men's Manic 22 Inch Boardshort, Quick Red, 31",
+            "normalizedName": "Quiksilver Men's Manic 22 Inch Boardshort, Quick Red, 31",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

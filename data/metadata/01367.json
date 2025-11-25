@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006GKHHY": {
+            "asin": "B0006GKHHY",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Accoutrements Moses Action Figure",
+            "normalizedName": "Accoutrements Moses Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B0052M5V0A": {
+            "asin": "B0052M5V0A",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Nespresso OriginalLine Capsules Variety, 100 Count",
+            "normalizedName": "Nespresso OriginalLine Capsules Variety, 100 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

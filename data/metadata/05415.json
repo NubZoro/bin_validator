@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IB0YL56": {
+            "asin": "B00IB0YL56",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.199999984496
+            },
+            "name": "Kenwood KFC-6965S 6 x 9 Inches 3-Way 400W Speakers, Pack of 2",
+            "normalizedName": "Pack of 2 Kenwood KFC-6965S 6 x 9 Inches 3-Way 400W Speakers,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.7999999959747655
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B00KM864PA": {
+            "asin": "B00KM864PA",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "FIXMat featuring Glock diagram (GEN 4), 11 X 17 Handgun Cleaning Mat featuring Glock diagram, Black",
+            "normalizedName": "FIXMat featuring Glock diagram (GEN 4), 11 X 17 Handgun Cleaning Mat featuring Glock diagram, Black",
+            "quantity": 19,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 20
+}

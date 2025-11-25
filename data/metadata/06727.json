@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000F4WS6A": {
+            "asin": "B000F4WS6A",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Nature's Way Evening Primrose Cold Pressed 1300mg, 120 Softgels",
+            "normalizedName": "Nature's Way Evening Primrose Cold Pressed 1300mg, 120 Softgels",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B008XKIFDS": {
+            "asin": "B008XKIFDS",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "ZoLi BOT XL Straw Sippy Cup - Orange 9 oz",
+            "normalizedName": "ZoLi BOT XL Straw Sippy Cup - Orange 9 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

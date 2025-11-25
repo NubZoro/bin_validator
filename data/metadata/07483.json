@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1933789050": {
+            "asin": "1933789050",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Exploration and Discovery: Treasures of the Yale Peabody Museum of Natural History",
+            "normalizedName": "Exploration and Discovery: Treasures of the Yale Peabody Museum of Natural History",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00HGYYSFQ": {
+            "asin": "B00HGYYSFQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Fox Outdoor Products Vietnam Jungle Boot, Olive Drab, Size 15",
+            "normalizedName": "Fox Outdoor Products Vietnam Jungle Boot, Olive Drab, Size 15",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3499999971907215
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B018VJOZIE": {
+            "asin": "B018VJOZIE",
+            "height": {
+                "unit": "IN",
+                "value": 1.949999998011
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "BaiFM Aluminum Fuel Brake Sport Foot AT Pedals Pads Plates For Land Rover Range Rover Sport Discovery 3 4 05-13",
+            "normalizedName": "BaiFM Aluminum Fuel Brake Sport Foot AT Pedals Pads Plates For Land Rover Range Rover Sport Discovery 3 4 05-13",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

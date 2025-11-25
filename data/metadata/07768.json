@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B019TUCOF0": {
+            "asin": "B019TUCOF0",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Orgain Organic Superfood Powder, Original, 0.62 Pound",
+            "normalizedName": "Orgain Organic Superfood Powder, Original, 0.62 Pound",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B01D4XM584": {
+            "asin": "B01D4XM584",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Gorilla Glue 6055001 Heavy Duty Mounting Tape, Black - 2 Pack",
+            "normalizedName": "2 Pack Gorilla Glue 6055001 Heavy Duty Mounting Tape, Black -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1999999998322819
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

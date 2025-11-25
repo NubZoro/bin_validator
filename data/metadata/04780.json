@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01CY2NJZE": {
+            "asin": "B01CY2NJZE",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "TAUPO New 49Wh Laptop Battery for HP Compaq Presario CQ32 CQ42 CQ62 CQ72 Series MU06 MU09 HSTNN-CBOW HSTNN-CBOX 586006-361 586006-321 593553-001 593554-001",
+            "normalizedName": "TAUPO New 49Wh Laptop Battery for HP Compaq Presario CQ32 CQ42 CQ62 CQ72 Series MU06 MU09 HSTNN-CBOW HSTNN-CBOX 586006-361 586006-321 593553-001 593554-001",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

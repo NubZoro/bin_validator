@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0047S4660": {
+            "asin": "B0047S4660",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Verso Clip on Light-Tourquoise color",
+            "normalizedName": "Verso Clip on Light-Tourquoise color",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B004BZKZ0U": {
+            "asin": "B004BZKZ0U",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "Life Extension Pyridoxal 5-Phosphate 100 Mg Vegetarian Capsules, 60-Count",
+            "normalizedName": "Life Extension Pyridoxal 5-Phosphate 100 Mg Vegetarian Capsules, 60-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B00H4HS2GQ": {
+            "asin": "B00H4HS2GQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "ReNew Life - Ultimate Flora Senior Formula 30 Billion - 60 Vegetarian Capsules",
+            "normalizedName": "ReNew Life - Ultimate Flora Senior Formula 30 Billion - 60 Vegetarian Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B00LFPXTXY": {
+            "asin": "B00LFPXTXY",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Bamboo Wrist Support by Vive (Pair) - Antimicrobial Wristband / Sweatband - Best Compression Wrist Wrap for Arthritis, Tendonitis, Carpal Tunnel Syndrome, Tennis - Vive Guarantee (Large / X-Large)",
+            "normalizedName": "Bamboo Wrist Support by Vive (Pair) - Antimicrobial Wristband / Sweatband - Best Compression Wrist Wrap for Arthritis, Tendonitis, Carpal Tunnel Syndrome, Tennis - Vive Guarantee (Large / X-Large)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

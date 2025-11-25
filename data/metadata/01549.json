@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LMI289U": {
+            "asin": "B00LMI289U",
+            "height": {
+                "unit": "IN",
+                "value": 2.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.4
+            },
+            "name": "adidas Unisex Ghost Guard Solar Green/Black Soccer Equipment LG",
+            "normalizedName": "adidas Unisex Ghost Guard Solar Green/Black Soccer Equipment LG",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.200000000000001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

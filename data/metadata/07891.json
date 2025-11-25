@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0316017930": {
+            "asin": "0316017930",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Outliers: The Story of Success",
+            "normalizedName": "Outliers: The Story of Success",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B0084B84ZK": {
+            "asin": "B0084B84ZK",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Alok International 325-110003 325 Thread Count Organic Cotton Sheet Set, Full, Latte",
+            "normalizedName": "Alok International 325-110003 325 Thread Count Organic Cotton Sheet Set, Full, Latte",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

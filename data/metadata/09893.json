@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004VYWK72": {
+            "asin": "B004VYWK72",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.1574803046
+            },
+            "name": "Sub Sports COLD Men's Thermal Compression Base Layer Long Sleeve Top - Black - L",
+            "normalizedName": "Sub Sports COLD Men's Thermal Compression Base Layer Long Sleeve Top - Black - L",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5291040284657967
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.2440944808
+            }
+        },
+        "B00U558H4G": {
+            "asin": "B00U558H4G",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "International Delight Variety 4 Pack (1 Cold Stone Sweet Cream, 1 Caramel Macchiato, 1 French Vanilla, 1 Hazelnut)",
+            "normalizedName": "4 Pack International Delight Variety (1 Cold Stone Sweet Cream, 1 Caramel Macchiato, 1 French Vanilla, 1 Hazelnut)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.649999996939144
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007KZ3FSC": {
+            "asin": "B007KZ3FSC",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Nunaturals Stevia Powder (1x100PKT )",
+            "normalizedName": "Nunaturals Stevia Powder (1x100PKT )",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B013RBJR3Y": {
+            "asin": "B013RBJR3Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "BLU Studio XL Android Smartphone - GSM Unlocked - White",
+            "normalizedName": "BLU Studio XL Android Smartphone - GSM Unlocked - White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

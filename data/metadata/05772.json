@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00002ND4D": {
+            "asin": "B00002ND4D",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Shop-vac 9064300 1-1/4\" Household Cleaning Kit",
+            "normalizedName": "Shop-vac 9064300 1-1/4\" Household Cleaning Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B008GVOVK0": {
+            "asin": "B008GVOVK0",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.1338582584
+            },
+            "name": "Fosmon HD1831 3-Port HDMI Switch with Pigtail Cable",
+            "normalizedName": "Fosmon HD1831 3-Port HDMI Switch with Pigtail Cable",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.1968503884
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0002624028": {
+            "asin": "0002624028",
+            "height": {
+                "unit": "IN",
+                "value": 1.4960629906
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.267716527
+            },
+            "name": "THE KREMLIN'S DILEMMA: The Struggle for Human Rights in Eastern Europe",
+            "normalizedName": "THE KREMLIN'S DILEMMA: The Struggle for Human Rights in Eastern Europe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.19
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6692913328
+            }
+        },
+        "B00125Q75Y": {
+            "asin": "B00125Q75Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Dixon Ticonderoga Wood-Cased #2 HB Pencils, Box of 96, Yellow (13872)",
+            "normalizedName": "Dixon Ticonderoga Wood-Cased #2 HB Pencils, Box of 96, Yellow (13872)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B010W2ODH6": {
+            "asin": "B010W2ODH6",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "HID-Warehouse&reg; HID Xenon Replacement Bulbs - 9012 10000K - Dark Blue (1 Pair) - 2 Year Warranty",
+            "normalizedName": "HID-Warehouse&reg; HID Xenon Replacement Bulbs - 9012 10000K - Dark Blue (1 Pair) - 2 Year Warranty",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280210165713
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

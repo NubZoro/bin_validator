@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1118378326": {
+            "asin": "1118378326",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Leadership Conversations: Challenging High Potential Managers to Become Great Leaders",
+            "normalizedName": "Leadership Conversations: Challenging High Potential Managers to Become Great Leaders",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B0006ZHCK0": {
+            "asin": "B0006ZHCK0",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Murphy's Oil Soap, 32-Ounce",
+            "normalizedName": "Murphy's Oil Soap, 32-Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

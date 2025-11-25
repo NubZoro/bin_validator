@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000MGZVSI": {
+            "asin": "B000MGZVSI",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Pinzon Luxury 820-Gram Washcloths - Set of 2, Sage",
+            "normalizedName": "Set of 2 Pinzon Luxury 820-Gram Washcloths - , Sage",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

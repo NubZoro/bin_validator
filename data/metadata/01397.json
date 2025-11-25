@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000I48M3A": {
+            "asin": "B000I48M3A",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Nature's Answer PassionFlower Vegetarian Capsules, 60-Count",
+            "normalizedName": "Nature's Answer PassionFlower Vegetarian Capsules, 60-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B00OJNMJ5I": {
+            "asin": "B00OJNMJ5I",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Nike Charge Kids Soccer Shin Guards Pink/Purple Size Large",
+            "normalizedName": "Nike Charge Kids Soccer Shin Guards Pink/Purple Size Large",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B013AQSCAU": {
+            "asin": "B013AQSCAU",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "2 Pack 2L+1L Thermoplastic Transparent Hot Water Bottle/Bag Warmer Relaxing Heat/Cold Therapy Home Outdoor (Green)",
+            "normalizedName": "2 Pack  2L+1L Thermoplastic Transparent Hot Water Bottle/Bag Warmer Relaxing Heat/Cold Therapy Home Outdoor (Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

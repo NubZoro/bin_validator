@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BUB5EO": {
+            "asin": "B000BUB5EO",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "RSVP White 6 cup Stoneware Chai Teapot",
+            "normalizedName": "RSVP White 6 cup Stoneware Chai Teapot",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

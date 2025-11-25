@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DM24HNE": {
+            "asin": "B00DM24HNE",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Huion H420 Osu Tablet Graphics Drawing Signature Pad with 3 Express Keys (4-by-2.23 Inches)",
+            "normalizedName": "Huion H420 Osu Tablet Graphics Drawing Signature Pad with 3 Express Keys (4-by-2.23 Inches)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00LA116IS": {
+            "asin": "B00LA116IS",
+            "height": {
+                "unit": "IN",
+                "value": 3.149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8110236151
+            },
+            "name": "Hobby Boss T-35 Heavy Tank Track Links Kit",
+            "normalizedName": "Hobby Boss T-35 Heavy Tank Track Links Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5070632026
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4488188931
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

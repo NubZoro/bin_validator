@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00Y89XW7W": {
+            "asin": "B00Y89XW7W",
+            "height": {
+                "unit": "IN",
+                "value": 2.2047244072
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7952755826
+            },
+            "name": "Fitbit Charge Wristband, Blue, Small",
+            "normalizedName": "Fitbit Charge Wristband, Blue, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26455201423289837
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.4409448794
+            }
+        },
+        "B00ZNH5QHW": {
+            "asin": "B00ZNH5QHW",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Multi USB Charger, Gembonics 40W 5 Port Desktop High Speed Charging Station with Auto Detect Technology + 5 Micro USB to USB Cable (3x 1ft + 1x 3ft + 1x 6ft)for iPhone Samsung HTC and More (Black)",
+            "normalizedName": "Multi USB Charger, Gembonics 40W 5 Port Desktop High Speed Charging Station with Auto Detect Technology + 5 Micro USB to USB Cable (3x 1ft + 1x 3ft + 1x 6ft)for iPhone Samsung HTC and More (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

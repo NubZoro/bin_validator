@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NB5M65S": {
+            "asin": "B00NB5M65S",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Giro Monaco Bike Glove - White/Black Large",
+            "normalizedName": "Giro Monaco Bike Glove - White/Black Large",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01CPFQECK": {
+            "asin": "B01CPFQECK",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "name": "Eco Shopping Tote Bag Animal Print Set (Bunny, Cub and Monkey)",
+            "normalizedName": "Eco Shopping Tote Bag Animal Print Set (Bunny, Cub and Monkey)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.110231131
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

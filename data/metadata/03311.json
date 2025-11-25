@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "013380772X": {
+            "asin": "013380772X",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Comparative Politics Today: A World View (11th Edition)",
+            "normalizedName": "Comparative Politics Today: A World View (11th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7899999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00DR3ZTNU": {
+            "asin": "B00DR3ZTNU",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Disney Princess Royal Event Door Curtain",
+            "normalizedName": "Disney Princess Royal Event Door Curtain",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B00ESOOO4C": {
+            "asin": "B00ESOOO4C",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Winter Snowman Christmas Ornaments",
+            "normalizedName": "Winter Snowman Christmas Ornaments",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

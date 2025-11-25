@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008J4KYOG": {
+            "asin": "B008J4KYOG",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Taco Stand Up Holders - 8 Pack",
+            "normalizedName": "8 Pack Taco Stand Up Holders -",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B014ER61G6": {
+            "asin": "B014ER61G6",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Bluetooth Receiver, Keedox Bluetooth 4.0 Music Receiver Handsfree Car Kit Bluetooth Audio Receiver A2DP 3.5mm for Home Streaming",
+            "normalizedName": "Bluetooth Receiver, Keedox Bluetooth 4.0 Music Receiver Handsfree Car Kit Bluetooth Audio Receiver A2DP 3.5mm for Home Streaming",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

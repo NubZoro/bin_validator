@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0049H9D3U": {
+            "asin": "B0049H9D3U",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Schlage FE575 PLY 716 ACC Plymouth Keypad Entry with Auto-Lock and Accent Levers, Aged Bronze",
+            "normalizedName": "Schlage FE575 PLY 716 ACC Plymouth Keypad Entry with Auto-Lock and Accent Levers, Aged Bronze",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00HV4MQ28": {
+            "asin": "B00HV4MQ28",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Dazzling Toys Neon Colored Plastic Gangster Hats Kids Costume Party Booth Hats 24 Pack",
+            "normalizedName": "24 Pack Dazzling Toys Neon Colored Plastic Gangster Hats Kids Costume Party Booth Hats",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

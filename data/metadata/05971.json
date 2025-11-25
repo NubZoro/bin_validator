@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0060566108": {
+            "asin": "0060566108",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Built to Last: Successful Habits of Visionary Companies",
+            "normalizedName": "Built to Last: Successful Habits of Visionary Companies",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B0001FFLUI": {
+            "asin": "B0001FFLUI",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.2992125869
+            },
+            "name": "GE Silicone II Clear Kitchen Sealant, 10.1-Ounce Cartridge #GE5040",
+            "normalizedName": "GE Silicone II Clear Kitchen Sealant, 10.1-Ounce Cartridge #GE5040",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000134563456
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.09842519471
+            }
+        },
+        "B01CWLORH6": {
+            "asin": "B01CWLORH6",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Irideon Cadence Knee Patch Breech Classic Tan --Large",
+            "normalizedName": "Irideon Cadence Knee Patch Breech Classic Tan --Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DQYUDRM": {
+            "asin": "B00DQYUDRM",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "adidas Outdoor Men's Terrex Scope GTX\u00ae White/Black/Tribe Blue Sneaker 7.5 D - Medium",
+            "normalizedName": "adidas Outdoor Men's Terrex Scope GTX\u00ae White/Black/Tribe Blue Sneaker 7.5 D - Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

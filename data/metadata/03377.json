@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013OUPXE": {
+            "asin": "B0013OUPXE",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "NOW Foods M.s.m 1000mg, 240 Vcaps",
+            "normalizedName": "NOW Foods M.s.m 1000mg, 240 Vcaps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B018SO95UU": {
+            "asin": "B018SO95UU",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Baby Car Seat Covers for Girls and Boys, Infant Canopy WITH Window-Flap System AND Bag",
+            "normalizedName": "Baby Car Seat Covers for Girls and Boys, Infant Canopy WITH Window-Flap System AND Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

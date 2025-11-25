@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0310521920": {
+            "asin": "0310521920",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Daniel, Volume 30 (Word Biblical Commentary)",
+            "normalizedName": "Daniel, Volume 30 (Word Biblical Commentary)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B005ZE9462": {
+            "asin": "B005ZE9462",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Sound Oasis S-850W Travel Sleep Sound Therapy System, White",
+            "normalizedName": "Sound Oasis S-850W Travel Sleep Sound Therapy System, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00KKAQYXM": {
+            "asin": "B00KKAQYXM",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "HAVIT HV-MS672 Ergonomic Wired Mouse, 2400 DPI, 7 Soothing LED Colors, 6 Buttons [ 2016 Model ]",
+            "normalizedName": "HAVIT HV-MS672 Ergonomic Wired Mouse, 2400 DPI, 7 Soothing LED Colors, 6 Buttons [ 2016 Model ]",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

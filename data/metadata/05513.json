@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00H3DCVNQ": {
+            "asin": "B00H3DCVNQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.699999981946
+            },
+            "name": "J.S. Hanger Beech Wooden Wide Shoulder Coat Hangers with Pearl Nickel Polished Hook, Natural, 3-Pack",
+            "normalizedName": "3-Pack J.S. Hanger Beech Wooden Wide Shoulder Coat Hangers with Pearl Nickel Polished Hook, Natural,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B00X3N9L8S": {
+            "asin": "B00X3N9L8S",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Cuisinart CSB-300 Smart Stick Variable Speed Cordless Rechargeable Hand Blender with Electric Knife, Stainless Steel",
+            "normalizedName": "Cuisinart CSB-300 Smart Stick Variable Speed Cordless Rechargeable Hand Blender with Electric Knife, Stainless Steel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.34999999551354
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988066
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

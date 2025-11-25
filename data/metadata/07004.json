@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008HHOOC8": {
+            "asin": "B008HHOOC8",
+            "height": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Softsoap Liquid Hand Soap, Aquarium Series, 7.5 Oz Pump Bottle + 56 Oz Refill",
+            "normalizedName": "Softsoap Liquid Hand Soap, Aquarium Series, 7.5 Oz Pump Bottle + 56 Oz Refill",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B010LHRWN4": {
+            "asin": "B010LHRWN4",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Wacom Intuos Photo Pen and Touch digital photo editing tablet (CTH490PK)",
+            "normalizedName": "Wacom Intuos Photo Pen and Touch digital photo editing tablet (CTH490PK)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

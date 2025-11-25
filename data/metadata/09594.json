@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NIGEWC": {
+            "asin": "B000NIGEWC",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Stanley 16-299 12 Piece Punch & Chisel Kit",
+            "normalizedName": "Stanley 16-299 12 Piece Punch & Chisel Kit",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B000Y9B16E": {
+            "asin": "B000Y9B16E",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Monster MC 200SV-1M High Performance S-Video Cable (1 meter)",
+            "normalizedName": "Monster MC 200SV-1M High Performance S-Video Cable (1 meter)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B004T6RUUY": {
+            "asin": "B004T6RUUY",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Park Designs Starfish Single Hook",
+            "normalizedName": "Park Designs Starfish Single Hook",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

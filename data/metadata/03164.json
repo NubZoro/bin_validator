@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00XIQJDLK": {
+            "asin": "B00XIQJDLK",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Giro Revel MIPS Equipped Bike Helmet - Black/Charcoal",
+            "normalizedName": "Giro Revel MIPS Equipped Bike Helmet - Black/Charcoal",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B012AR5GM2": {
+            "asin": "B012AR5GM2",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Ironclad EXO-MWR-06-XXL Modern Water Resistant Gloves, XX-Large",
+            "normalizedName": "Ironclad EXO-MWR-06-XXL Modern Water Resistant Gloves, XX-Large",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0015G862M": {
+            "asin": "B0015G862M",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Stella & Chewy's Freeze-Dried Raw Stella's Super Beef Dinner Patties for Dogs, 5.5 oz.",
+            "normalizedName": "Stella & Chewy's Freeze-Dried Raw Stella's Super Beef Dinner Patties for Dogs, 5.5 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B01GD6VAK8": {
+            "asin": "B01GD6VAK8",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "YHWSHINE60W T-Tip Magsafe Power Adapter Charger Replacement for Apple MacBook 13 inch And Macbook Pro 13-inch 15-inch",
+            "normalizedName": "YHWSHINE60W T-Tip Magsafe Power Adapter Charger Replacement for Apple MacBook 13 inch And Macbook Pro 13-inch 15-inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

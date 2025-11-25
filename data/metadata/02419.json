@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00400035S": {
+            "asin": "B00400035S",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "2.5\" x 3\" 4 Mil (Heavy Duty) Zipper Reclosable Storage Bags, Case of 1000",
+            "normalizedName": "Case of 1000 2.5\" x 3\" 4 Mil (Heavy Duty) Zipper Reclosable Storage Bags,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00631GZEU": {
+            "asin": "B00631GZEU",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "WD-40 300045 Specialist Rust Remover Soak, 1 Gallon (Pack of 1)",
+            "normalizedName": "(Pack of 1) WD-40 300045 Specialist Rust Remover Soak, 1 Gallon",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.950676481546394
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B00OLP8W8M": {
+            "asin": "B00OLP8W8M",
+            "height": {
+                "unit": "IN",
+                "value": 2.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.0
+            },
+            "name": "AUTO-VOX 32\" Pipeline LED Inflatable Turbo Lighting Snow Tube Sled for One Single Rider on Sledding Hill in Happy Winter (for Children Snow Play)",
+            "normalizedName": "AUTO-VOX 32\" Pipeline LED Inflatable Turbo Lighting Snow Tube Sled for One Single Rider on Sledding Hill in Happy Winter (for Children Snow Play)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

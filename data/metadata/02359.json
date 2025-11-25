@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004FO5APM": {
+            "asin": "B004FO5APM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Bahama Balm 16oz Aloe Vera Gel After Sun Skin Care",
+            "normalizedName": "Bahama Balm 16oz Aloe Vera Gel After Sun Skin Care",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

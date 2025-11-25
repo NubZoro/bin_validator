@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003ZUEJP4": {
+            "asin": "B003ZUEJP4",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Canon 4GB SDHC class 6 by Dane-Elec",
+            "normalizedName": "Canon 4GB SDHC class 6 by Dane-Elec",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B009KZUBG4": {
+            "asin": "B009KZUBG4",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Bouton 249-5907-400 5900 Traditional Eyewear with Smoke Propionate Full Frame and Clear Anti-Scratch/Fog Lens",
+            "normalizedName": "Bouton 249-5907-400 5900 Traditional Eyewear with Smoke Propionate Full Frame and Clear Anti-Scratch/Fog Lens",
+            "quantity": 15,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 16
+}

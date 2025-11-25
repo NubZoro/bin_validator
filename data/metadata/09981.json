@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0938256939": {
+            "asin": "0938256939",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Multiplication 0-12 Flash Cards",
+            "normalizedName": "Multiplication 0-12 Flash Cards",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.049999999958070473
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3799999965524
+            }
+        },
+        "B002PICMLA": {
+            "asin": "B002PICMLA",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "A&W Products Rubberbands, Assorted Size, Natural Color (35070.P)",
+            "normalizedName": "A&W Products Rubberbands, Assorted Size, Natural Color (35070.P)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00T72RT10": {
+            "asin": "B00T72RT10",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1299999917074
+            },
+            "name": "Irish Spring Signature 3 in 1 Body Wash, 15 Ounce",
+            "normalizedName": "Irish Spring Signature 3 in 1 Body Wash, 15 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.2299999967054
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

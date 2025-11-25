@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001E722ZY": {
+            "asin": "B001E722ZY",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Nature's Gate Natural Toothpaste, Creme de Peppermint, 6-Ounce Tubes (Pack of 6)",
+            "normalizedName": "(Pack of 6) Nature's Gate Natural Toothpaste, Creme de Peppermint, 6-Ounce Tubes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00D6M2PC0": {
+            "asin": "B00D6M2PC0",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8503936938
+            },
+            "name": "D-Link 5-Port Fast Ethernet Desktop Switch (GO-SW-5E)",
+            "normalizedName": "D-Link 5-Port Fast Ethernet Desktop Switch (GO-SW-5E)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280213493476
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.2519684996
+            }
+        },
+        "B00IT67MCQ": {
+            "asin": "B00IT67MCQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Rapid Dual Output Car Charger For Samsung Galaxy S7 (2.1amp Micro USB Power Port) (Car Charger)",
+            "normalizedName": "Rapid Dual Output Car Charger For Samsung Galaxy S7 (2.1amp Micro USB Power Port) (Car Charger)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

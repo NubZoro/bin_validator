@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "193362275X": {
+            "asin": "193362275X",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Mighty Bright 40516 XtraFlex2 Book Light, Pink",
+            "normalizedName": "Mighty Bright 40516 XtraFlex2 Book Light, Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00IMG2430": {
+            "asin": "B00IMG2430",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Papa Best Job Ever Porcelain Burgundy Coffee Tea Mug Cup 18oz Gift Box",
+            "normalizedName": "Papa Best Job Ever Porcelain Burgundy Coffee Tea Mug Cup 18oz Gift Box",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

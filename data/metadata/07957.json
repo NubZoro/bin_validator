@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008478JF4": {
+            "asin": "B008478JF4",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Mother Earth Products Freeze Dried Raspberries, 1 Full Quart",
+            "normalizedName": "Mother Earth Products Freeze Dried Raspberries, 1 Full Quart",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00X4JY24E": {
+            "asin": "B00X4JY24E",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "CATALYST\u00ae WATERPROOF CASE FOR IPHONE 6 - RESCUE RANGER",
+            "normalizedName": "CATALYST\u00ae WATERPROOF CASE FOR IPHONE 6 - RESCUE RANGER",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000012V6": {
+            "asin": "B0000012V6",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Symphonies Nos. 94 & 101",
+            "normalizedName": "Symphonies Nos. 94 & 101",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770752888384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00000FYGF": {
+            "asin": "B00000FYGF",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Das Beste Der Jahre 77-87",
+            "normalizedName": "Das Beste Der Jahre 77-87",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17707528883839999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00CY5Y8A2": {
+            "asin": "B00CY5Y8A2",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.6692913328
+            },
+            "name": "Disco Recharge: High Energy/Standing at the Crossr",
+            "normalizedName": "Disco Recharge: High Energy/Standing at the Crossr",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26455201423289837
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9606299162
+            }
+        },
+        "B01944DUWM": {
+            "asin": "B01944DUWM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Bluetooth Audio Receiver - Turn your Old Audio Device into Bluetooth-Ready",
+            "normalizedName": "Bluetooth Audio Receiver - Turn your Old Audio Device into Bluetooth-Ready",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B01CR9Q5R8": {
+            "asin": "B01CR9Q5R8",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.4330708606
+            },
+            "name": "Marvin Gaye: Prince Of Soul",
+            "normalizedName": "Marvin Gaye: Prince Of Soul",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0881849048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

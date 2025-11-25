@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DULR7UM": {
+            "asin": "B00DULR7UM",
+            "height": {
+                "unit": "IN",
+                "value": 0.019999999979600003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Doc McStuffins Happy Birthday Banner 3-piece 5 Feet Long",
+            "normalizedName": "Doc McStuffins Happy Birthday Banner 3-piece 5 Feet Long",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00JTHUCSK": {
+            "asin": "B00JTHUCSK",
+            "height": {
+                "unit": "IN",
+                "value": 0.019999999979600003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "How to Train Your Dragon 2 \"Happy Birthday Dragon Rider\" Banner 5.75 Ft",
+            "normalizedName": "How to Train Your Dragon 2 \"Happy Birthday Dragon Rider\" Banner 5.75 Ft",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B0159FR134": {
+            "asin": "B0159FR134",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "FINGON Winter Heavyweight Warm Windproof Balaclava Outdoor Sports Mask (Black)",
+            "normalizedName": "FINGON Winter Heavyweight Warm Windproof Balaclava Outdoor Sports Mask (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B018MVQQWO": {
+            "asin": "B018MVQQWO",
+            "height": {
+                "unit": "IN",
+                "value": 4.2519684996
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.3937007768
+            },
+            "name": "Hillary Clinton Bobblehead - 2016 Edition by Royal Bobbles",
+            "normalizedName": "Hillary Clinton Bobblehead - 2016 Edition by Royal Bobbles",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054792384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.330708657
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

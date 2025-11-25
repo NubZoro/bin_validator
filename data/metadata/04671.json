@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010C93X5M": {
+            "asin": "B010C93X5M",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "HP 11.6\" Chromebook 11 G4, 4 GB RAM, 16 GB SSD, Intel HD Graphics, Black (P0B78UT#ABA)",
+            "normalizedName": "HP 11.6\" Chromebook 11 G4, 4 GB RAM, 16 GB SSD, Intel HD Graphics, Black (P0B78UT#ABA)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.349999996352131
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

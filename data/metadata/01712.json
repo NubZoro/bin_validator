@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0018A32XS": {
+            "asin": "B0018A32XS",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Panasonic ES2207P Ladies Electric Shaver, 3-Blade Cordless Women's Electric Razor with Pop-Up Trimmer, Use Wet or Dry",
+            "normalizedName": "Panasonic ES2207P Ladies Electric Shaver, 3-Blade Cordless Women's Electric Razor with Pop-Up Trimmer, Use Wet or Dry",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00XMUZ0VY": {
+            "asin": "B00XMUZ0VY",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Undimmable 10X GU5.3 MR16 LED Bulbs,5W Equal to 50W Halogen Bulb, 12V, Cutting Edge Design, 300lm, Warm White, LED Light Bulbs",
+            "normalizedName": "Undimmable 10X GU5.3 MR16 LED Bulbs,5W Equal to 50W Halogen Bulb, 12V, Cutting Edge Design, 300lm, Warm White, LED Light Bulbs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1099999990691647
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

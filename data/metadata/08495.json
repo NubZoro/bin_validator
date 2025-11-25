@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K3HFU8W": {
+            "asin": "B00K3HFU8W",
+            "height": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Q Drinks, Q  Lemon, Sparkling Lemon Soda, 12 Ounce Slim Can (Pack of 12)",
+            "normalizedName": "(Pack of 12) Q Drinks, Q  Lemon, Sparkling Lemon Soda, 12 Ounce Slim Can",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.199999990607783
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00SK66UJG": {
+            "asin": "B00SK66UJG",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Vibrant Health - U.T. Vibrance - D-Mannose and Botanicals Designed to fight E. Coli and promote UT health, 50 count (FFP)",
+            "normalizedName": "Vibrant Health - U.T. Vibrance - D-Mannose and Botanicals Designed to fight E. Coli and promote UT health, 50 count (FFP)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601897719786
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007PK12GY": {
+            "asin": "B007PK12GY",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Ephrem's Original Bottle Cutter Kit",
+            "normalizedName": "Ephrem's Original Bottle Cutter Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2786680687923422
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B0196SVL22": {
+            "asin": "B0196SVL22",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Niubity Apple MFi Certified 4000mah Li-Polymer Rechargeable Battery Case for Apple iPhone 6 Plus / 6s Plus - Gray",
+            "normalizedName": "Niubity Apple MFi Certified 4000mah Li-Polymer Rechargeable Battery Case for Apple iPhone 6 Plus / 6s Plus - Gray",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01HHJJIJU": {
+            "asin": "B01HHJJIJU",
+            "height": {
+                "unit": "IN",
+                "value": 2.6
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.5
+            },
+            "name": "Adhesive Bra - Womens Backless Strapless Push-up Silicone Bra Invisible (BUTTERFLY BLACK, D)",
+            "normalizedName": "Adhesive Bra - Womens Backless Strapless Push-up Silicone Bra Invisible (BUTTERFLY BLACK, D)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.4
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

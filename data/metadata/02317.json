@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K0PU0RI": {
+            "asin": "B00K0PU0RI",
+            "height": {
+                "unit": "IN",
+                "value": 1.8110236202
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.8267716476
+            },
+            "name": "KMD 10' Controller USB Charge Cable Dual Pack, PlayStation 4",
+            "normalizedName": "KMD 10' Controller USB Charge Cable Dual Pack, PlayStation 4",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.968503935
+            }
+        },
+        "B012DT6IBA": {
+            "asin": "B012DT6IBA",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Dell Premier Sleeve S Fits XPS 13 (460-BBRZ)",
+            "normalizedName": "Dell Premier Sleeve S Fits XPS 13 (460-BBRZ)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988066
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

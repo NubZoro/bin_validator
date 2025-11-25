@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0133506975": {
+            "asin": "0133506975",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Preparing Effective Business Plans: An Entrepreneurial Approach (2nd Edition) (Pearson Entrepreneurship)",
+            "normalizedName": "Preparing Effective Business Plans: An Entrepreneurial Approach (2nd Edition) (Pearson Entrepreneurship)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B007QBD7YW": {
+            "asin": "B007QBD7YW",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "rooCASE Slim-Fit Folio Case for Asus Transformer PRIME (Black)",
+            "normalizedName": "rooCASE Slim-Fit Folio Case for Asus Transformer PRIME (Black)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1421837447": {
+            "asin": "1421837447",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Hope Is a Muscle",
+            "normalizedName": "Hope Is a Muscle",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B001KCFE8U": {
+            "asin": "B001KCFE8U",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "K&H 8125 Perfect Climate Deluxe 250-Watt Pond De Icer",
+            "normalizedName": "K&H 8125 Perfect Climate Deluxe 250-Watt Pond De Icer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013RY9M7W": {
+            "asin": "B013RY9M7W",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Quest Nutrition Protein Powder, (12 Count) 3 Vanilla, 3 Chocolate, 3 Peanut Butter, 3 Strawberry",
+            "normalizedName": "Quest Nutrition Protein Powder, (12 Count) 3 Vanilla, 3 Chocolate, 3 Peanut Butter, 3 Strawberry",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B019JY9A9E": {
+            "asin": "B019JY9A9E",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "AUKEY Quick Charge Micro USB Cable 5 Pack(6.6ft, 3.3ft, 1ft) for Galaxy S6/S7/Edge and More",
+            "normalizedName": "5 Pack AUKEY Quick Charge Micro USB Cable (6.6ft, 3.3ft, 1ft) for Galaxy S6/S7/Edge and More",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

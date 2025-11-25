@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009SJNRMC": {
+            "asin": "B009SJNRMC",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Duracell Powermat Wireless Charger Case for Samsung Galaxy SIII - Retail Packaging - White",
+            "normalizedName": "Duracell Powermat Wireless Charger Case for Samsung Galaxy SIII - Retail Packaging - White",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

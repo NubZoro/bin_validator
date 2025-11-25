@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005UVYDS4": {
+            "asin": "B005UVYDS4",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Retro Polka Dot Cat Eye Sunglasses (1 dz)",
+            "normalizedName": "Retro Polka Dot Cat Eye Sunglasses (1 dz)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B0188GZZPC": {
+            "asin": "B0188GZZPC",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Think Thin 20 Pack (2 X Box of 10)- (Maple Almond)",
+            "normalizedName": "20 Pack Think Thin (2 X Box of 10)- (Maple Almond)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.949999997526158
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B01DWIQO74": {
+            "asin": "B01DWIQO74",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Plastic Black Nomad Wayfarer Sunglasses (Qty. 12)",
+            "normalizedName": "Plastic Black Nomad Wayfarer Sunglasses (Qty. 12)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B01HONHXC8": {
+            "asin": "B01HONHXC8",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "name": "3 pair RETRO CATEYE Polka dot sunglasses",
+            "normalizedName": "3 pair RETRO CATEYE Polka dot sunglasses",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

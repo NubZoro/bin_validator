@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00028LS06": {
+            "asin": "B00028LS06",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Mrm Cordyceps CS-4 750 Mg Vegetarian Capsules, 60 Count",
+            "normalizedName": "Mrm Cordyceps CS-4 750 Mg Vegetarian Capsules, 60 Count",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B00M6HDTXK": {
+            "asin": "B00M6HDTXK",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Ecandy Bluetooth Wireless Waterproof Shower Speaker: Black,water Proof Bluetooth 3.0 Speaker, Mini Water Resistant Wireless Shower Speaker",
+            "normalizedName": "Ecandy Bluetooth Wireless Waterproof Shower Speaker: Black,water Proof Bluetooth 3.0 Speaker, Mini Water Resistant Wireless Shower Speaker",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

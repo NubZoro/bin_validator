@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0051VFG70": {
+            "asin": "B0051VFG70",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Hill's Science Diet Kitten Savory Salmon Entree Minced Cat Food, 5.5-Ounce Can, 24-Pack",
+            "normalizedName": "24-Pack Hill's Science Diet Kitten Savory Salmon Entree Minced Cat Food, 5.5-Ounce Can,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.400000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00H6X3VLY": {
+            "asin": "B00H6X3VLY",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.399999983272
+            },
+            "name": "bbq factory 92151(3-pack) Stainless Steel Heat Plate Replacement for Select Gas Grill Models By BBQ Grillware, Charbroil and Others",
+            "normalizedName": "bbq factory 92151(3-pack) Stainless Steel Heat Plate Replacement for Select Gas Grill Models By BBQ Grillware, Charbroil and Others",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

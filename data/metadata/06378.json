@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009IL1XS": {
+            "asin": "B0009IL1XS",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "name": "Jacquard Dye-Na-Flow Liquid Color 2-1/4 Ounces-Emerald Green",
+            "normalizedName": "Jacquard Dye-Na-Flow Liquid Color 2-1/4 Ounces-Emerald Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            }
+        },
+        "B019WWJ5F2": {
+            "asin": "B019WWJ5F2",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Womens Leather Cigarette Case & Lighter Holder Vintage Tan",
+            "normalizedName": "Womens Leather Cigarette Case & Lighter Holder Vintage Tan",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

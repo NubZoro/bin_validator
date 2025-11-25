@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0014HP9IQ": {
+            "asin": "B0014HP9IQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Hawk Performance HB180N.560 HP Plus Brake Pad",
+            "normalizedName": "Hawk Performance HB180N.560 HP Plus Brake Pad",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B003H468T8": {
+            "asin": "B003H468T8",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "3M Aqua-Pure Whole House Replacement Water Filter - Model AP110-NP (Pack of 2)",
+            "normalizedName": "(Pack of 2) 3M Aqua-Pure Whole House Replacement Water Filter - Model AP110-NP",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00U3ODTV0": {
+            "asin": "B00U3ODTV0",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Starbucks Veranda Blend Blonde, K-Cup for Keurig Brewers, 60 Count",
+            "normalizedName": "Starbucks Veranda Blend Blonde, K-Cup for Keurig Brewers, 60 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B010HWCEVS": {
+            "asin": "B010HWCEVS",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Boogie Board Play & Trace LCD eWriter, Red (PL0310001)",
+            "normalizedName": "Boogie Board Play & Trace LCD eWriter, Red (PL0310001)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

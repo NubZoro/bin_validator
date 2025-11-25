@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0393912671": {
+            "asin": "0393912671",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "America: A Narrative History (Brief Ninth Edition)  (Vol. 2)",
+            "normalizedName": "America: A Narrative History (Brief Ninth Edition)  (Vol. 2)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "1452241457": {
+            "asin": "1452241457",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "The Global Environment; Institutions, Law, and Policy",
+            "normalizedName": "The Global Environment; Institutions, Law, and Policy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B004T8WDMM": {
+            "asin": "B004T8WDMM",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Pure Protein Peanut Butter Caramel, 57 gram, 6 count",
+            "normalizedName": "Pure Protein Peanut Butter Caramel, 57 gram, 6 count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B005552S6E": {
+            "asin": "B005552S6E",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "AC Adapter/Power Supply&Cord for IBM/Lenovo 0225a2040 41R4441 45k2200 ADP-40NH B",
+            "normalizedName": "AC Adapter/Power Supply&Cord for IBM/Lenovo 0225a2040 41R4441 45k2200 ADP-40NH B",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

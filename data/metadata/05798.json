@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AEFY4CG": {
+            "asin": "B00AEFY4CG",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Ghost",
+            "normalizedName": "Ghost",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B016X62QPQ": {
+            "asin": "B016X62QPQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "MoboVida Dual Port USB Home and Travel Charger with 6 foot USB to Micro USB Data Sync Cable -Black",
+            "normalizedName": "MoboVida Dual Port USB Home and Travel Charger with 6 foot USB to Micro USB Data Sync Cable -Black",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

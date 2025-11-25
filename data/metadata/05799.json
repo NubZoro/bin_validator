@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LPRFY44": {
+            "asin": "B00LPRFY44",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Ivation Portable HDMI Projector - Black",
+            "normalizedName": "Ivation Portable HDMI Projector - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B01DMVUMKG": {
+            "asin": "B01DMVUMKG",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "name": "Yankee Candle Lot of 6 Sunset Breeze Votives",
+            "normalizedName": "Yankee Candle Lot of 6 Sunset Breeze Votives",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

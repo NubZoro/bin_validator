@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "178320012X": {
+            "asin": "178320012X",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.9763779436
+            },
+            "name": "Living and Sustaining a Creative Life: Essays by 40 Working Artists",
+            "normalizedName": "Living and Sustaining a Creative Life: Essays by 40 Working Artists",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1904840640480427
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

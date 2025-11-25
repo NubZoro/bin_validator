@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1438003706": {
+            "asin": "1438003706",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.7874015638
+            },
+            "name": "Barron's SAT Subject Test Chemistry, 12th Edition",
+            "normalizedName": "Barron's SAT Subject Test Chemistry, 12th Edition",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6754960901416898
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.3464566844
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

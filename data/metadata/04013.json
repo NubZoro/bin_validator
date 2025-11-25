@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EIQMHS": {
+            "asin": "B000EIQMHS",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Scosche Dash Kit for 1995-02 General Motors 1500 Series Full Size Truck Kit, Din/Iso",
+            "normalizedName": "Scosche Dash Kit for 1995-02 General Motors 1500 Series Full Size Truck Kit, Din/Iso",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.57
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

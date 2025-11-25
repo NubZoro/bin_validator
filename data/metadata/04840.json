@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003ZUEJP4": {
+            "asin": "B003ZUEJP4",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Canon 4GB SDHC class 6 by Dane-Elec",
+            "normalizedName": "Canon 4GB SDHC class 6 by Dane-Elec",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B009KZUBG4": {
+            "asin": "B009KZUBG4",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Bouton 249-5907-400 5900 Traditional Eyewear with Smoke Propionate Full Frame and Clear Anti-Scratch/Fog Lens",
+            "normalizedName": "Bouton 249-5907-400 5900 Traditional Eyewear with Smoke Propionate Full Frame and Clear Anti-Scratch/Fog Lens",
+            "quantity": 15,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B01HIZZINI": {
+            "asin": "B01HIZZINI",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.5
+            },
+            "name": "Galaxy J7 Case, Cellto PU Leather Wallet Cover with Sliding Camera [Adhesive] Function [Lifetime Warranty] Flip Cover for Samsung Galaxy J7 - Dark Brown w/Brown Interior",
+            "normalizedName": "Galaxy J7 Case, Cellto PU Leather Wallet Cover with Sliding Camera [Adhesive] Function [Lifetime Warranty] Flip Cover for Samsung Galaxy J7 - Dark Brown w/Brown Interior",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 17
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003N1ZSYG": {
+            "asin": "B003N1ZSYG",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Samsung Da29-00020b Refrigerator Water Filter, 1-pack",
+            "normalizedName": "Samsung Da29-00020b Refrigerator Water Filter, 1-pack",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LBZFLOS": {
+            "asin": "B00LBZFLOS",
+            "height": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8976377862
+            },
+            "name": "L'Oreal Professional Serie Expert Absolute Repair Lipidium Conditioner, 750 ml",
+            "normalizedName": "L'Oreal Professional Serie Expert Absolute Repair Lipidium Conditioner, 750 ml",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8077720972581388
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3070866108
+            }
+        },
+        "B00UAK0ZUA": {
+            "asin": "B00UAK0ZUA",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Chubby Puppies Polecourse Playset",
+            "normalizedName": "Chubby Puppies Polecourse Playset",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

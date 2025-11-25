@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0028AD6WO": {
+            "asin": "B0028AD6WO",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Centrum Silver Men Multivitamin/Multimineral Supplement (200-Count Tablets)",
+            "normalizedName": "Centrum Silver Men Multivitamin/Multimineral Supplement (200-Count Tablets)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B01BX97KJK": {
+            "asin": "B01BX97KJK",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Sulfate Free Color Safe Paraben Free Smoothing Shampoo (3 Pack)",
+            "normalizedName": "(3 Pack) Sulfate Free Color Safe Paraben Free Smoothing Shampoo",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

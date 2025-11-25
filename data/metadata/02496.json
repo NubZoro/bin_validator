@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002GPEOGI": {
+            "asin": "B002GPEOGI",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Cloud Star Teeny Buddy Biscuits Peanut Butter (8 oz)",
+            "normalizedName": "Cloud Star Teeny Buddy Biscuits Peanut Butter (8 oz)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01CMKA2SA": {
+            "asin": "B01CMKA2SA",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "iPhone 6s Plus Case, Apoptech Shockproof Shell iPhone 6s Plus Slim Case Fashion Back Panel + TPU Protective Soft Bumper Case with Long Lanyard Strap for Apple iPhone 6 Plus 6s Plus 5.5 Inch - Moo",
+            "normalizedName": "iPhone 6s Plus Case, Apoptech Shockproof Shell iPhone 6s Plus Slim Case Fashion Back Panel + TPU Protective Soft Bumper Case with Long Lanyard Strap for Apple iPhone 6 Plus 6s Plus 5.5 Inch - Moo",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.749999995178104
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

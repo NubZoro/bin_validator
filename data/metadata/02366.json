@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AVOGC6G": {
+            "asin": "B00AVOGC6G",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Hoosier Hill Farm Porcini Mushroom Powder 1 pound",
+            "normalizedName": "Hoosier Hill Farm Porcini Mushroom Powder 1 pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01B7AG0KK": {
+            "asin": "B01B7AG0KK",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.086614166
+            },
+            "name": "DEWALT DD5108 Impact Ready Titanium Drill Bit, 1/8\"",
+            "normalizedName": "DEWALT DD5108 Impact Ready Titanium Drill Bit, 1/8\"",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400467034919
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.755905509
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

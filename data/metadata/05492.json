@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00V0BXPGY": {
+            "asin": "B00V0BXPGY",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Disney Descendants Coronation Evie Isle of the Lost Doll",
+            "normalizedName": "Disney Descendants Coronation Evie Isle of the Lost Doll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

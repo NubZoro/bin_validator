@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EFNKLC": {
+            "asin": "B000EFNKLC",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Oxford Index Cards, Assorted Colors, 5\" x 8\", Ruled, 100-Pack (35810)",
+            "normalizedName": "100-Pack Oxford Index Cards, Assorted Colors, 5\" x 8\", Ruled, (35810)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B000EVPGSQ": {
+            "asin": "B000EVPGSQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Fino Pour Over Coffee and Tea Kettle, 4 1/4-Cup",
+            "normalizedName": "Fino Pour Over Coffee and Tea Kettle, 4 1/4-Cup",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

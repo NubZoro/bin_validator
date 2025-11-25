@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0822346761": {
+            "asin": "0822346761",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Asia as Method: Toward Deimperialization",
+            "normalizedName": "Asia as Method: Toward Deimperialization",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "0822349507": {
+            "asin": "0822349507",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "iVenceremos?: The Erotics of Black Self-making in Cuba",
+            "normalizedName": "iVenceremos?: The Erotics of Black Self-making in Cuba",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "0822358018": {
+            "asin": "0822358018",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.9763779436
+            },
+            "name": "The Limits of Okinawa: Japanese Capitalism, Living Labor, and Theorizations of Community (Asia-Pacific: Culture, Politics, and Society)",
+            "normalizedName": "The Limits of Okinawa: Japanese Capitalism, Living Labor, and Theorizations of Community (Asia-Pacific: Culture, Politics, and Society)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.146392061675893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

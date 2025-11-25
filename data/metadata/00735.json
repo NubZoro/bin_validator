@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VAROBCU": {
+            "asin": "B00VAROBCU",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Cayman Fitness Jump Rope - Premium Speed Rope for Crossfit WOD, Boxing and Fitness",
+            "normalizedName": "Cayman Fitness Jump Rope - Premium Speed Rope for Crossfit WOD, Boxing and Fitness",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B01B1PMGLI": {
+            "asin": "B01B1PMGLI",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "RASTAR BMW I8 Radio Remote Control Sport Racing Car RC 1 24 Scale,White",
+            "normalizedName": "RASTAR BMW I8 Radio Remote Control Sport Racing Car RC 1 24 Scale,White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

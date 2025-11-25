@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003BGJ4D4": {
+            "asin": "B003BGJ4D4",
+            "height": {
+                "unit": "IN",
+                "value": 2.799999997144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Ibis & Orchid Design Ladybug Daisies Night Light",
+            "normalizedName": "Ibis & Orchid Design Ladybug Daisies Night Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00E4LGVUO": {
+            "asin": "B00E4LGVUO",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Panasonic ErgoFit Best in Class In-Ear Earbuds Headphones with Mic/Controller RP-TCM125-K (Black) iPhone, Android Compatible",
+            "normalizedName": "Panasonic ErgoFit Best in Class In-Ear Earbuds Headphones with Mic/Controller RP-TCM125-K (Black) iPhone, Android Compatible",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

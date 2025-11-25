@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002MFYRDC": {
+            "asin": "B002MFYRDC",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Taffy Town Assorted Gourmet Salt Water Taffy, 5 Lb Bag",
+            "normalizedName": "Taffy Town Assorted Gourmet Salt Water Taffy, 5 Lb Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.599999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B00A2VMDFW": {
+            "asin": "B00A2VMDFW",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.749999984955
+            },
+            "name": "Glass Top Black Cufflinks Jewelry Showcase Storage Organizer Display Case Box",
+            "normalizedName": "Glass Top Black Cufflinks Jewelry Showcase Storage Organizer Display Case Box",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905373
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.249999991585
+            }
+        },
+        "B00KOJQTES": {
+            "asin": "B00KOJQTES",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Toland Home Garden Snowman Owls 12.5 x 18-Inch Decorative USA-Produced Garden Flag",
+            "normalizedName": "Toland Home Garden Snowman Owls 12.5 x 18-Inch Decorative USA-Produced Garden Flag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

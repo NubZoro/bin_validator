@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007PM9QLU": {
+            "asin": "B007PM9QLU",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Chock full o'Nuts Coffee Gourmet Roast Ground, 26 Ounce",
+            "normalizedName": "Chock full o'Nuts Coffee Gourmet Roast Ground, 26 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00O3XJASS": {
+            "asin": "B00O3XJASS",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Cinelinx: A Card Game for People Who Love Movies",
+            "normalizedName": "Cinelinx: A Card Game for People Who Love Movies",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.279999998926604
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

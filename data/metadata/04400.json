@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1457601990": {
+            "asin": "1457601990",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Real Writing with Readings: Paragraphs and Essays for College, Work, and Everyday Life",
+            "normalizedName": "Real Writing with Readings: Paragraphs and Essays for College, Work, and Everyday Life",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "1594633932": {
+            "asin": "1594633932",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "How We Got to Now: Six Innovations That Made the Modern World",
+            "normalizedName": "How We Got to Now: Six Innovations That Made the Modern World",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B0001ZV9KO": {
+            "asin": "B0001ZV9KO",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "name": "Dritz(R) Black Sew-On Snaps - Size 1 8/Pkg",
+            "normalizedName": "Dritz(R) Black Sew-On Snaps - Size 1 8/Pkg",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.599999998368
+            }
+        },
+        "B00A121WN6": {
+            "asin": "B00A121WN6",
+            "height": {
+                "unit": "IN",
+                "value": 4.0944881848
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.6141732216
+            },
+            "name": "TP-LINK 8-Port Gigabit Ethernet Desktop Switch (TL-SG108)",
+            "normalizedName": "TP-LINK 8-Port Gigabit Ethernet Desktop Switch (TL-SG108)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.190484063049714
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

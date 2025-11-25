@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0136079482": {
+            "asin": "0136079482",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.1338582584
+            },
+            "name": "Structural Steel Design (5th Edition)",
+            "normalizedName": "Structural Steel Design (5th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.43
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.086614166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

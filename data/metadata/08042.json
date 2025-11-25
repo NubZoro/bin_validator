@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000E95HP0": {
+            "asin": "B000E95HP0",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Isopure Zero Carb Protein Powder, Creamy Vanilla, 3 Pounds",
+            "normalizedName": "Isopure Zero Carb Protein Powder, Creamy Vanilla, 3 Pounds",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.299999997232651
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00176B9JC": {
+            "asin": "B00176B9JC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "BaByliss Pro BABNT3072 Nano Titanium-Plated Ultra-Thin Straightening Iron, 1 Inch",
+            "normalizedName": "BaByliss Pro BABNT3072 Nano Titanium-Plated Ultra-Thin Straightening Iron, 1 Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00NBB5MDU": {
+            "asin": "B00NBB5MDU",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Exterior Frutti Blue - YBII",
+            "normalizedName": "Exterior Frutti Blue - YBII",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0077837312": {
+            "asin": "0077837312",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Music: An Appreciation, Brief Edition",
+            "normalizedName": "Music: An Appreciation, Brief Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "0375826696": {
+            "asin": "0375826696",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "name": "Eragon (Inheritance, Book 1)",
+            "normalizedName": "Eragon (Inheritance, Book 1)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.118110231
+            }
+        },
+        "B001H4NMNA": {
+            "asin": "B001H4NMNA",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Playstation 3 Energizer Power & Play Charging System",
+            "normalizedName": "Playstation 3 Energizer Power & Play Charging System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B001TOMQTY": {
+            "asin": "B001TOMQTY",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Need For Speed Shift",
+            "normalizedName": "Need For Speed Shift",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

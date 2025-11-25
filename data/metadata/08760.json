@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014SH5UM8": {
+            "asin": "B014SH5UM8",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "*ENORMOUS* Premium Space Saver Vacuum Storage Bags, Three Pack. Largest Vacuum Bags on Amazon. For Blankets, Comforters & Cushions.",
+            "normalizedName": "*ENORMOUS* Premium Space Saver Vacuum Storage Bags, Three Pack. Largest Vacuum Bags on Amazon. For Blankets, Comforters & Cushions.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B01AGZJZMW": {
+            "asin": "B01AGZJZMW",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Oberhaus Premium Silicone Kitchen Tongs, 9-inch, Non Stick (Green)",
+            "normalizedName": "Oberhaus Premium Silicone Kitchen Tongs, 9-inch, Non Stick (Green)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

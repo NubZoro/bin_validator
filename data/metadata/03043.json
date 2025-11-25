@@ -1,0 +1,181 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321934180": {
+            "asin": "0321934180",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Elements of Ecology (9th Edition)",
+            "normalizedName": "Elements of Ecology (9th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "0393920305": {
+            "asin": "0393920305",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Give Me Liberty!: An American History (Seagull Fourth Edition)  (Vol. 1)",
+            "normalizedName": "Give Me Liberty!: An American History (Seagull Fourth Edition)  (Vol. 1)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "0415833825": {
+            "asin": "0415833825",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Political Psychology: Situations, Individuals, and Cases",
+            "normalizedName": "Political Psychology: Situations, Individuals, and Cases",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7899964065018067
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "0805838066": {
+            "asin": "0805838066",
+            "height": {
+                "unit": "IN",
+                "value": 0.79921259761
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.90157479407
+            },
+            "name": "What Writing Does and How It Does It: An Introduction to Analyzing Texts and Textual Practices",
+            "normalizedName": "What Writing Does and How It Does It: An Introduction to Analyzing Texts and Textual Practices",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1500193434968
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "0875089755": {
+            "asin": "0875089755",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Touching the Invisible",
+            "normalizedName": "Touching the Invisible",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "0878401466": {
+            "asin": "0878401466",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Introduction to Jewish and Catholic Bioethics: A Comparative Analysis (Moral Traditions)",
+            "normalizedName": "Introduction to Jewish and Catholic Bioethics: A Comparative Analysis (Moral Traditions)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "1457667266": {
+            "asin": "1457667266",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "The St. Martin's Handbook",
+            "normalizedName": "The St. Martin's Handbook",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01EQ702TG": {
+            "asin": "B01EQ702TG",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Mziart Fashion Reusable Picnic Lunch Bag Tote Cooler Insulated Travel Food Organizer Box Bento Pouch (Green & Blue Stripe)",
+            "normalizedName": "Mziart Fashion Reusable Picnic Lunch Bag Tote Cooler Insulated Travel Food Organizer Box Bento Pouch (Green & Blue Stripe)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

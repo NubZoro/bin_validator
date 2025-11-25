@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0531265501": {
+            "asin": "0531265501",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Abraham Lincoln (Cornerstones of Freedom. Third Series)",
+            "normalizedName": "Abraham Lincoln (Cornerstones of Freedom. Third Series)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "0802825494": {
+            "asin": "0802825494",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "The Eerdmans Dictionary of Early Judaism",
+            "normalizedName": "The Eerdmans Dictionary of Early Judaism",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B017I3T930": {
+            "asin": "B017I3T930",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Google Pixel C Keyboard case, KuGi \u00ae Google Pixel C case - High quality Ultra-thin Detachable Bluetooth Keyboard Stand Portfolio Case / Cover for Google nexus Pixel C tablet. (Black)",
+            "normalizedName": "Google Pixel C Keyboard case, KuGi \u00ae Google Pixel C case - High quality Ultra-thin Detachable Bluetooth Keyboard Stand Portfolio Case / Cover for Google nexus Pixel C tablet. (Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

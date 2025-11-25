@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006MY7EC": {
+            "asin": "B0006MY7EC",
+            "height": {
+                "unit": "IN",
+                "value": 4.59842519216
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.09842518451
+            },
+            "name": "6' Island Sun Tan Lounger",
+            "normalizedName": "6' Island Sun Tan Lounger",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.4500916713544
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.79921258843
+            }
+        },
+        "B003CGJAIM": {
+            "asin": "B003CGJAIM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Organo Gold Gourmet Cafe Noir, Black Coffee (1 Box of 30 Sachets)",
+            "normalizedName": "Organo Gold Gourmet Cafe Noir, Black Coffee (1 Box of 30 Sachets)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00457I1GO": {
+            "asin": "B00457I1GO",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Kay's Naturals Protein Cereal, Honey Almond.  1.2 oz. bags (Pack of 6)",
+            "normalizedName": "(Pack of 6) Kay's Naturals Protein Cereal, Honey Almond.  1.2 oz. bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B01B1K5U5C": {
+            "asin": "B01B1K5U5C",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "inntzone INTC-215X Stand-Type Laptop Sleeve cover case pouch up to 13.3 Macbook air Chromebook MacBook HP Pavilion Stream Dell Inspiron",
+            "normalizedName": "inntzone INTC-215X Stand-Type Laptop Sleeve cover case pouch up to 13.3 Macbook air Chromebook MacBook HP Pavilion Stream Dell Inspiron",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

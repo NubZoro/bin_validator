@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005GQ6606": {
+            "asin": "B005GQ6606",
+            "height": {
+                "unit": "IN",
+                "value": 0.9448818888
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "Eco Sprout Bottom Spray",
+            "normalizedName": "Eco Sprout Bottom Spray",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.181102361
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

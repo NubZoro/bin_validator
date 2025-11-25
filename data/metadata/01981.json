@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QCALE6G": {
+            "asin": "B00QCALE6G",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Monster High Brand-Boo Students Kjersti Trolls\u00f8n Doll",
+            "normalizedName": "Monster High Brand-Boo Students Kjersti Trolls\u00f8n Doll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B0170AQJKM": {
+            "asin": "B0170AQJKM",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Father's Day Gift for Grandpa Being Great You Nailed It DIY Gift Engraved Wood Handle Steel Hammer",
+            "normalizedName": "Father's Day Gift for Grandpa Being Great You Nailed It DIY Gift Engraved Wood Handle Steel Hammer",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

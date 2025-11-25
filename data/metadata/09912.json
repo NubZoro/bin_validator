@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000HRSGJ8": {
+            "asin": "B000HRSGJ8",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Puntini Italian Jujubes 1lb",
+            "normalizedName": "Puntini Italian Jujubes 1lb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00BX57IOC": {
+            "asin": "B00BX57IOC",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "AmLactin Alpha-Hydroxy Therapy Cerapeutic Restoring Body Lotion for Arms Legs Best Dermatologist Moisturizer for Dry Skin, 7.9 Ounce",
+            "normalizedName": "AmLactin Alpha-Hydroxy Therapy Cerapeutic Restoring Body Lotion for Arms Legs Best Dermatologist Moisturizer for Dry Skin, 7.9 Ounce",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

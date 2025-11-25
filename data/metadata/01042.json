@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00H2VUWFS": {
+            "asin": "B00H2VUWFS",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "ATD Tools 3198 2-Gauge Welding Regulator",
+            "normalizedName": "ATD Tools 3198 2-Gauge Welding Regulator",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.17
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00Q7O9ZM2": {
+            "asin": "B00Q7O9ZM2",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "AmazonBasics Microfiber Sheet Set - Full, Beige",
+            "normalizedName": "AmazonBasics Microfiber Sheet Set - Full, Beige",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B01GKKXXRU": {
+            "asin": "B01GKKXXRU",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168001
+            },
+            "name": "For iPad Air&reg; HD - Krofel&trade; Premium Tempered Glass Screen Protector - CLEAR - Retail Packaging - R103",
+            "normalizedName": "For iPad Air&reg; HD - Krofel&trade; Premium Tempered Glass Screen Protector - CLEAR - Retail Packaging - R103",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

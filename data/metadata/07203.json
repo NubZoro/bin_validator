@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005GDFGFU": {
+            "asin": "B005GDFGFU",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Morris 73118 Micro LED Emergency Light",
+            "normalizedName": "Morris 73118 Micro LED Emergency Light",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00GSWEUSW": {
+            "asin": "B00GSWEUSW",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "iPhone 5C Case - Leather Swiss Wallet Flip Cover for iPhone 5C, Brown with integrated magnetic closure",
+            "normalizedName": "iPhone 5C Case - Leather Swiss Wallet Flip Cover for iPhone 5C, Brown with integrated magnetic closure",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000V0DM9K": {
+            "asin": "B000V0DM9K",
+            "height": {
+                "unit": "IN",
+                "value": 2.199999997756
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Daron Southwest Airlines Plush Toy Airplane with Sound",
+            "normalizedName": "Daron Southwest Airlines Plush Toy Airplane with Sound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B015D9F5M0": {
+            "asin": "B015D9F5M0",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "BaoFeng UV-82HP (CAMO) High Power Dual Band Radio: 136-174mhz (VHF) 400-520mhz (UHF) Amateur (Ham) Portable Two-Way",
+            "normalizedName": "BaoFeng UV-82HP (CAMO) High Power Dual Band Radio: 136-174mhz (VHF) 400-520mhz (UHF) Amateur (Ham) Portable Two-Way",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

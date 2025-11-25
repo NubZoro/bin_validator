@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000M806Y0": {
+            "asin": "B000M806Y0",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Mountain House, Chicken Teriyaki with Rice",
+            "normalizedName": "Mountain House, Chicken Teriyaki with Rice",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00M1VNC1A": {
+            "asin": "B00M1VNC1A",
+            "height": {
+                "unit": "IN",
+                "value": 3.7795275552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "BlenderBottle Classic Loop Top Shaker Bottle, Aqua, 20 Ounce",
+            "normalizedName": "BlenderBottle Classic Loop Top Shaker Bottle, Aqua, 20 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086471668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9606299162
+            }
+        },
+        "B00QHGG6VS": {
+            "asin": "B00QHGG6VS",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "PAPAGO UDC-US Compact Mini USB Direct Hardwire Car Charger Cable Kit for Papago! Dashcam GoSafe110, GoSafe200, GoSafe260, GoSafe 272, GoSafe360, GoSafe372 & GoSafe381",
+            "normalizedName": "PAPAGO UDC-US Compact Mini USB Direct Hardwire Car Charger Cable Kit for Papago! Dashcam GoSafe110, GoSafe200, GoSafe260, GoSafe 272, GoSafe360, GoSafe372 & GoSafe381",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

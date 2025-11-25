@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0205455301": {
+            "asin": "0205455301",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Research in Education: Evidence Based Inquiry (6th Edition)",
+            "normalizedName": "Research in Education: Evidence Based Inquiry (6th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "140020674X": {
+            "asin": "140020674X",
+            "height": {
+                "unit": "IN",
+                "value": 1.11023621934
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.12992125053
+            },
+            "name": "52 Little Lessons from A Christmas Carol",
+            "normalizedName": "52 Little Lessons from A Christmas Carol",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5800089393016
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.57086613503
+            }
+        },
+        "9332536600": {
+            "asin": "9332536600",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.842519675
+            },
+            "name": "Macroeconomics: Principles Applications",
+            "normalizedName": "Macroeconomics: Principles Applications",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.7165354252
+            }
+        },
+        "B00H8YGOMO": {
+            "asin": "B00H8YGOMO",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Bell Plantation PB2 Powdered Peanut Butter, Net Wt. 16 Oz.",
+            "normalizedName": "Bell Plantation PB2 Powdered Peanut Butter, Net Wt. 16 Oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

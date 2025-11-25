@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003WRL8SG": {
+            "asin": "B003WRL8SG",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Pet-Ag Nursing Kit 2oz Bottle (Carded)",
+            "normalizedName": "Pet-Ag Nursing Kit 2oz Bottle (Carded)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B005DQD256": {
+            "asin": "B005DQD256",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "IAMS Pate With Tender Beef Canned Cat Food 3 Ounces (Pack of 24)",
+            "normalizedName": "(Pack of 24) IAMS Pate With Tender Beef Canned Cat Food 3 Ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B00HHU8AIA": {
+            "asin": "B00HHU8AIA",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Rofu 21100 Rim Housing, Silver, 8000 Series Magnet",
+            "normalizedName": "Rofu 21100 Rim Housing, Silver, 8000 Series Magnet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.73
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B016835WB4": {
+            "asin": "B016835WB4",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Fintie Folio Case for Fire HD 10 - Slim Fit Leather Standing Protective Cover with Auto Wake / Sleep for Amazon Fire HD 10 Tablet (10.1\" HD Display 5th Generation), Composition Book Green",
+            "normalizedName": "Fintie Folio Case for Fire HD 10 - Slim Fit Leather Standing Protective Cover with Auto Wake / Sleep for Amazon Fire HD 10 Tablet (10.1\" HD Display 5th Generation), Composition Book Green",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

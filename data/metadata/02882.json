@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017DOT5EW": {
+            "asin": "B017DOT5EW",
+            "height": {
+                "unit": "IN",
+                "value": 4.2519684996
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.3464566844
+            },
+            "name": "GROSCHE Milano Moka Stovetop Espresso Coffee Maker With Italian Safety Valve, Black, 6 cup",
+            "normalizedName": "GROSCHE Milano Moka Stovetop Espresso Coffee Maker With Italian Safety Valve, Black, 6 cup",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.0078740086
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

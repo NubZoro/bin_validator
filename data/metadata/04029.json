@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AEHG8E6": {
+            "asin": "B00AEHG8E6",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "PARTY FAVORS MEGA VALUE PACK SIDEWALK CHALK, 3 Piece, (Pack of 18)",
+            "normalizedName": "(Pack of 18) PARTY FAVORS MEGA VALUE PACK SIDEWALK CHALK, 3 Piece,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B00O11Z0H2": {
+            "asin": "B00O11Z0H2",
+            "height": {
+                "unit": "IN",
+                "value": 3.6220472404
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.9842519522
+            },
+            "name": "Asus STRIX-GTX980-DC2OC-4GD5 256 Bit Nvidia Gtx 980 Graphics Card (4GB, GDDR5, Dual Link, PCI Express)",
+            "normalizedName": "Asus STRIX-GTX980-DC2OC-4GD5 256 Bit Nvidia Gtx 980 Graphics Card (4GB, GDDR5, Dual Link, PCI Express)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.188740221841587
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.2913385732
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

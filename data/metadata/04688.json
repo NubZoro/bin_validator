@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000246GSE": {
+            "asin": "B000246GSE",
+            "height": {
+                "unit": "IN",
+                "value": 6.0629921198
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.1574803046
+            },
+            "name": "Zojirushi SL-JAE14SA Mr. Bento Stainless Steel Lunch Jar, Silver",
+            "normalizedName": "Zojirushi SL-JAE14SA Mr. Bento Stainless Steel Lunch Jar, Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7337041470732832
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.1417322772
+            }
+        },
+        "B01714EFWG": {
+            "asin": "B01714EFWG",
+            "height": {
+                "unit": "IN",
+                "value": 1.6141732267
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0236220411
+            },
+            "name": "Saicoo\u00ae 4-Port Portable Wall Charging Dock Station with Intelligent Full Speed Charge",
+            "normalizedName": "Saicoo\u00ae 4-Port Portable Wall Charging Dock Station with Intelligent Full Speed Charge",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

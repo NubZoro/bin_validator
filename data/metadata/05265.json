@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000C9GYUO": {
+            "asin": "B000C9GYUO",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "ACDelco 15-72736 GM Original Equipment Heating and Air Conditioning Control Panel with Rear Window Defogger Switch",
+            "normalizedName": "ACDelco 15-72736 GM Original Equipment Heating and Air Conditioning Control Panel with Rear Window Defogger Switch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B000Q5PG5I": {
+            "asin": "B000Q5PG5I",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Stanley 016013R 16\" Series 2000 Tool Box with Tray",
+            "normalizedName": "Stanley 016013R 16\" Series 2000 Tool Box with Tray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3999999979873827
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00ECOOREA": {
+            "asin": "B00ECOOREA",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "BigWood Boards 100-N Cutting Board, Monogrammed Cutting Board, Small Round Cheese Board, Maple Wood Serving Tray, \"N\"",
+            "normalizedName": "BigWood Boards 100-N Cutting Board, Monogrammed Cutting Board, Small Round Cheese Board, Maple Wood Serving Tray, \"N\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.399999987352
+            }
+        },
+        "B010K6LK1Q": {
+            "asin": "B010K6LK1Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Pool Mate 1-3749 Heavy-Duty 4-foot x 15-foot Winterizing Air Pillow for Above Ground Swimming Pools",
+            "normalizedName": "Pool Mate 1-3749 Heavy-Duty 4-foot x 15-foot Winterizing Air Pillow for Above Ground Swimming Pools",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.499999994549161
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

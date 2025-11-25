@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003R35NFY": {
+            "asin": "B003R35NFY",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "name": "Zippy All Purpose Cutter by Alvin UPC 088354600657",
+            "normalizedName": "Zippy All Purpose Cutter by Alvin UPC 088354600657",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.49999999949
+            }
+        },
+        "B00PQ2UVHY": {
+            "asin": "B00PQ2UVHY",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Fiio X1 High Resolution Lossless Music Player (Gold)",
+            "normalizedName": "Fiio X1 High Resolution Lossless Music Player (Gold)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

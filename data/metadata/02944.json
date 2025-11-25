@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ANGICPG": {
+            "asin": "B00ANGICPG",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "MURDOCH MYSTERIES COLLECTION: SEASONS 1-4",
+            "normalizedName": "MURDOCH MYSTERIES COLLECTION: SEASONS 1-4",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

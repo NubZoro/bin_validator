@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00134D3BA": {
+            "asin": "B00134D3BA",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Innovera Gel Mouse Pad with Wrist Rest, Nonskid Base, 9 X 7.5 - Inches Black (51450)",
+            "normalizedName": "Innovera Gel Mouse Pad with Wrist Rest, Nonskid Base, 9 X 7.5 - Inches Black (51450)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B01AJP50QY": {
+            "asin": "B01AJP50QY",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "iPad Pro 9.7 Case - MoKo Ultra Slim Lightweight Smart-shell Stand Cover with Translucent Frosted Back Protector for Apple iPad Pro 9.7 Inch 2016 Release Tablet, Tiffany BLUE (with Auto Wake / Sleep)",
+            "normalizedName": "iPad Pro 9.7 Case - MoKo Ultra Slim Lightweight Smart-shell Stand Cover with Translucent Frosted Back Protector for Apple iPad Pro 9.7 Inch 2016 Release Tablet, Tiffany BLUE (with Auto Wake / Sleep)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0249999991404446
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MX5A9ME": {
+            "asin": "B00MX5A9ME",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Fresh Products FRS3WDS60SAP Wave 3D Urinal Deodorizer Screen, Red, Spiced Apple Fragrance, 10 Screens/Box (Pack of 10)",
+            "normalizedName": "(Pack of 10) Fresh Products FRS3WDS60SAP Wave 3D Urinal Deodorizer Screen, Red, Spiced Apple Fragrance, 10 Screens/Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00QR0TA6M": {
+            "asin": "B00QR0TA6M",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Rutgers University Scarf - Rutgers Scarlet Knights Red Knitted",
+            "normalizedName": "Rutgers University Scarf - Rutgers Scarlet Knights Red Knitted",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

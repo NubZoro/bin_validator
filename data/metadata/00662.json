@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1133587496": {
+            "asin": "1133587496",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.1574803046
+            },
+            "name": "Legal Environment",
+            "normalizedName": "Legal Environment",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.321016232470673
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.5826771566
+            }
+        },
+        "B01A7VVIEI": {
+            "asin": "B01A7VVIEI",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "7\" Mid-Century Modern Tapered Legs (Acorn Finish) \u25ab Set of Four 100% Solid Wood Sofa Legs \u25ab Includes Removable Floor Protecting Glides",
+            "normalizedName": "7\" Mid-Century Modern Tapered Legs (Acorn Finish) \u25ab Set of Four 100% Solid Wood Sofa Legs \u25ab Includes Removable Floor Protecting Glides",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B01BD6DZDI": {
+            "asin": "B01BD6DZDI",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.299999984394
+            },
+            "name": "Bauxko 4\" x 4\" x 10\" Tall Corrugated Boxes, 6-Pack (4410-6)",
+            "normalizedName": "6-Pack Bauxko 4\" x 4\" x 10\" Tall Corrugated Boxes, (4410-6)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017ZMQ31K": {
+            "asin": "B017ZMQ31K",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Pirate Skull and Crossbones Metal Bottle Cap Hanging Sign for Bar",
+            "normalizedName": "Pirate Skull and Crossbones Metal Bottle Cap Hanging Sign for Bar",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B018M1WHNQ": {
+            "asin": "B018M1WHNQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Sun-title 57 Piece Building Set Car Designer",
+            "normalizedName": "Sun-title 57 Piece Building Set Car Designer",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

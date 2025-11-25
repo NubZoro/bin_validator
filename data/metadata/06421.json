@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FL3IJ4": {
+            "asin": "B000FL3IJ4",
+            "height": {
+                "unit": "IN",
+                "value": 2.4015748007
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.79921259149
+            },
+            "name": "Jeremiah's Pick Coffee Organic French Roast, Dark Roast Whole Bean Coffee, 10-Ounce Bag",
+            "normalizedName": "Jeremiah's Pick Coffee Organic French Roast, Dark Roast Whole Bean Coffee, 10-Ounce Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6500109332808
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7007873978
+            }
+        },
+        "B016UWFH22": {
+            "asin": "B016UWFH22",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Arkey Wireless Bluetooth HD Stereo Headphone with Microphone, Black/Silver",
+            "normalizedName": "Arkey Wireless Bluetooth HD Stereo Headphone with Microphone, Black/Silver",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C8EMG2Q": {
+            "asin": "B00C8EMG2Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "SET OF 6, 30 Oz. (Ounce) Malt Cup, Milkshake Cup, Blender Cup, Cocktail Mixing Cup, Stainless Steel, Commercial Grade",
+            "normalizedName": "SET OF 6, 30 Oz. (Ounce) Malt Cup, Milkshake Cup, Blender Cup, Cocktail Mixing Cup, Stainless Steel, Commercial Grade",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00TZSENWE": {
+            "asin": "B00TZSENWE",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995817999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987658
+            },
+            "name": "NUTRO Adult Tender Chicken, Rice and Oatmeal Premium Loaf Canned Dog Food 12.5 oz. (Pack of 12)",
+            "normalizedName": "(Pack of 12) NUTRO Adult Tender Chicken, Rice and Oatmeal Premium Loaf Canned Dog Food 12.5 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

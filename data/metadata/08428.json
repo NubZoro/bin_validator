@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GULU58": {
+            "asin": "B000GULU58",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Ergodyne GloWear\u00ae 8020HL Non-Certified Standard Vest",
+            "normalizedName": "Ergodyne GloWear\u00ae 8020HL Non-Certified Standard Vest",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        },
+        "B002BDTY2O": {
+            "asin": "B002BDTY2O",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Ergodyne GloWear\u00ae 8210Z Class 2 Economy Vest",
+            "normalizedName": "Ergodyne GloWear\u00ae 8210Z Class 2 Economy Vest",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00B9VH8VI": {
+            "asin": "B00B9VH8VI",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Ergodyne TREX (TM) 6315 Strap-On Heel Ice Traction Device, Black",
+            "normalizedName": "Ergodyne TREX (TM) 6315 Strap-On Heel Ice Traction Device, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.34999642744550774
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00WH69YTI": {
+            "asin": "B00WH69YTI",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Infusion Water Bottle - Create Your Own Naturally Flavored Fruit Infused Water, Juice, Iced Tea, Lemonade & Sparkling Beverages",
+            "normalizedName": "Infusion Water Bottle - Create Your Own Naturally Flavored Fruit Infused Water, Juice, Iced Tea, Lemonade & Sparkling Beverages",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

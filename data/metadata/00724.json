@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VSCDC6S": {
+            "asin": "B00VSCDC6S",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "Furla Women's SU4881 550700 Rectangular Sunglasses, Black/Leather/Gradient Grey Lens, 55 mm",
+            "normalizedName": "Furla Women's SU4881 550700 Rectangular Sunglasses, Black/Leather/Gradient Grey Lens, 55 mm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200237214973
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.2283464534
+            }
+        },
+        "B019FHWGJQ": {
+            "asin": "B019FHWGJQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Greenwich Bay Gardeners Exfoliating Hand Scrub - Enriched with Shea Butter, Cocoa Butter, Botanical Oils & Extracts and Blended with Loofah & Apricot Seed -No PARABENS- American Made-16 Oz.",
+            "normalizedName": "Greenwich Bay Gardeners Exfoliating Hand Scrub - Enriched with Shea Butter, Cocoa Butter, Botanical Oils & Extracts and Blended with Loofah & Apricot Seed -No PARABENS- American Made-16 Oz.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B01CA8YL72": {
+            "asin": "B01CA8YL72",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Greenwich Bay Black Orchid Body Scrub, Exfoliating Body Wash Enriched with Shea Butter and Cocoa Butter, Blended with Loofah and Apricot Seed - Romance Botanicals Collection 16 oz",
+            "normalizedName": "Greenwich Bay Black Orchid Body Scrub, Exfoliating Body Wash Enriched with Shea Butter and Cocoa Butter, Blended with Loofah and Apricot Seed - Romance Botanicals Collection 16 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

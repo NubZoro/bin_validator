@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VI071S": {
+            "asin": "B000VI071S",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Prime Products 12-6021 Auto/RV Compass",
+            "normalizedName": "Prime Products 12-6021 Auto/RV Compass",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B009DGWTXS": {
+            "asin": "B009DGWTXS",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Sno Seal - 7 oz 2 pack",
+            "normalizedName": "Sno Seal - 7 oz 2 pack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

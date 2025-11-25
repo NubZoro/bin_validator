@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005KG7U16": {
+            "asin": "B005KG7U16",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Boiron Camilia Teething Relief, 30 Count (0.034 fl oz each)",
+            "normalizedName": "Boiron Camilia Teething Relief, 30 Count (0.034 fl oz each)",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B005N1FNTE": {
+            "asin": "B005N1FNTE",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "LiteTite 30256 (4 Rolls) DYMO LabelWriter (LW) Compatible Shipping Labels, 2-5/16 x 4 Inches, White, Blank, 4-Pack (LT30256)",
+            "normalizedName": "4-Pack LiteTite 30256 (4 Rolls) DYMO LabelWriter (LW) Compatible Shipping Labels, 2-5/16 x 4 Inches, White, Blank, (LT30256)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B017JJM5OS": {
+            "asin": "B017JJM5OS",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "White Beeswax Pellets Cosmetic Grade - 1 Pound",
+            "normalizedName": "White Beeswax Pellets Cosmetic Grade - 1 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.43999999963102016
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186
+            }
+        },
+        "B01CQMGVK2": {
+            "asin": "B01CQMGVK2",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Purely Inspired Garcinia Cambogia, 50 gummies and 100 tablets",
+            "normalizedName": "Purely Inspired Garcinia Cambogia, 50 gummies and 100 tablets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

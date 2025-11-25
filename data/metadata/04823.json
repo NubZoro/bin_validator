@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000I08TXM": {
+            "asin": "B000I08TXM",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "The Hillman Group 122371 Hangman Picture Hanging System, 6-Inch",
+            "normalizedName": "The Hillman Group 122371 Hangman Picture Hanging System, 6-Inch",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B004074PA0": {
+            "asin": "B004074PA0",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "name": "Neocutis Hyalis 30 Ml, 1-ounce",
+            "normalizedName": "Neocutis Hyalis 30 Ml, 1-ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00XNMYOZO": {
+            "asin": "B00XNMYOZO",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "AmazonBasics Circular Polarizer Lens - 82 mm",
+            "normalizedName": "AmazonBasics Circular Polarizer Lens - 82 mm",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01A5TLEVO": {
+            "asin": "B01A5TLEVO",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Barkworthies Elk Antler Stick Treat, Large Split (2 Pack)",
+            "normalizedName": "(2 Pack) Barkworthies Elk Antler Stick Treat, Large Split",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

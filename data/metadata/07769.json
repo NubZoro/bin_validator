@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009WC30RC": {
+            "asin": "B009WC30RC",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Kate Spade New York Womens Grace Avenue Ring Holder Silver One Size",
+            "normalizedName": "Kate Spade New York Womens Grace Avenue Ring Holder Silver One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6238730989442325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00V49ECZU": {
+            "asin": "B00V49ECZU",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "HOSL 11PCS Makeup Brush Set Powder Foundation blusher Cosmetic Bamboo Handle with a brush bag",
+            "normalizedName": "HOSL 11PCS Makeup Brush Set Powder Foundation blusher Cosmetic Bamboo Handle with a brush bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B0172A795E": {
+            "asin": "B0172A795E",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Masters Hammer and Chisel Cardio DVD",
+            "normalizedName": "Masters Hammer and Chisel Cardio DVD",
+            "quantity": 17,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 19
+}

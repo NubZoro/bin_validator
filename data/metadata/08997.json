@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0143104810": {
+            "asin": "0143104810",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.6377952678
+            },
+            "name": "Between Past and Future (Penguin Classics)",
+            "normalizedName": "Between Past and Future (Penguin Classics)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4899994235212
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.118110231
+            }
+        },
+        "B007N01PM2": {
+            "asin": "B007N01PM2",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Schiff MegaRed Extra Strength 500mg Omega 3 Krill Oil Softgel, (80 ct)",
+            "normalizedName": "Schiff MegaRed Extra Strength 500mg Omega 3 Krill Oil Softgel, (80 ct)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01GHKJDTU": {
+            "asin": "B01GHKJDTU",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Ldex Solar Outdoor String Lights 19.7 ft 50 LED Warm White Crystal Ball Christmas Globe Lights for Garden Path, Party, Bedroom Decoration",
+            "normalizedName": "Ldex Solar Outdoor String Lights 19.7 ft 50 LED Warm White Crystal Ball Christmas Globe Lights for Garden Path, Party, Bedroom Decoration",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

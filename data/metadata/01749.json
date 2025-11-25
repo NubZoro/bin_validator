@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00Q2VIW9M": {
+            "asin": "B00Q2VIW9M",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.9527558974
+            },
+            "name": "Bluedio Turbine T2s Wireless Bluetooth Headphones with Mic, 57mm Drivers/Rotary Folding (Black)",
+            "normalizedName": "Bluedio Turbine T2s Wireless Bluetooth Headphones with Mic, 57mm Drivers/Rotary Folding (Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9700240513738411
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.8503936938
+            }
+        },
+        "B015YF5YIS": {
+            "asin": "B015YF5YIS",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Roku 4 Streaming Media Player (4400R) 4K UHD",
+            "normalizedName": "Roku 4 Streaming Media Player (4400R) 4K UHD",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

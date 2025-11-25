@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002XV20MA": {
+            "asin": "B002XV20MA",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024
+            },
+            "name": "Hayward AXV230DWH Automatic Pool Cleaner Lower Body, White",
+            "normalizedName": "Hayward AXV230DWH Automatic Pool Cleaner Lower Body, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009OL8ZI": {
+            "asin": "B0009OL8ZI",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Degrassi Junior High - The Complete Collection",
+            "normalizedName": "Degrassi Junior High - The Complete Collection",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994288
+            }
+        },
+        "B00FXKCVV8": {
+            "asin": "B00FXKCVV8",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "ATG 34-874/S MaxiFlex Ultimate - Nylon, Micro-Foam Nitrile Grip Gloves - Black/Gray - Small - 12 Pair Per Pack",
+            "normalizedName": "ATG 34-874/S MaxiFlex Ultimate - Nylon, Micro-Foam Nitrile Grip Gloves - Black/Gray - Small - 12 Pair Per Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B01AS5RGH6": {
+            "asin": "B01AS5RGH6",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Selfie Stick GEMS Compact One-piece Cable Control Extendable Wired Self-portrait with Remote Shutter for Iphone 6/6s Plus Iphone 5s Samsung Galaxy S6 Edge Note5 S5 Android Smartphone, (Purple)",
+            "normalizedName": "Selfie Stick GEMS Compact One-piece Cable Control Extendable Wired Self-portrait with Remote Shutter for Iphone 6/6s Plus Iphone 5s Samsung Galaxy S6 Edge Note5 S5 Android Smartphone, (Purple)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

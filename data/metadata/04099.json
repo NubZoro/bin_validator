@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006KVRARO": {
+            "asin": "B006KVRARO",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Pez Star Wars Chewbacca",
+            "normalizedName": "Pez Star Wars Chewbacca",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00FIRHI5A": {
+            "asin": "B00FIRHI5A",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Bag Ladies Tea Happy Birthday Tea Tin, 25 Teabags of English Breakfast Tea",
+            "normalizedName": "Bag Ladies Tea Happy Birthday Tea Tin, 25 Teabags of English Breakfast Tea",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00LN74W3U": {
+            "asin": "B00LN74W3U",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Siemens MP120DF  20-Amp Afci/Gfci Dual Function Circuit Breaker, Plug on Load Center Style",
+            "normalizedName": "Siemens MP120DF  20-Amp Afci/Gfci Dual Function Circuit Breaker, Plug on Load Center Style",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

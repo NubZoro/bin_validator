@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013OQC72": {
+            "asin": "B0013OQC72",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Enzymatic Therapy -  Ginkgo Phytosome, 120 Softgels",
+            "normalizedName": "Enzymatic Therapy -  Ginkgo Phytosome, 120 Softgels",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00ILXRPQ0": {
+            "asin": "B00ILXRPQ0",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Wilkinson Sword Double Edge single Razor Cartridge, 20 blades",
+            "normalizedName": "Wilkinson Sword Double Edge single Razor Cartridge, 20 blades",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00QEX83LA": {
+            "asin": "B00QEX83LA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Quick Charge 2.0 AUKEY Wall Charger with Micro-USB Cable for Samsung S7/S6/Edge, LG G4, Moto X, Blackberry Priv | Qualcomm Certified",
+            "normalizedName": "Quick Charge 2.0 AUKEY Wall Charger with Micro-USB Cable for Samsung S7/S6/Edge, LG G4, Moto X, Blackberry Priv | Qualcomm Certified",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

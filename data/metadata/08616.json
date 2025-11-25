@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01D88C9U4": {
+            "asin": "B01D88C9U4",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Prolight Jamaican Polarized Sport Sunglasses (Cyan limited)",
+            "normalizedName": "Prolight Jamaican Polarized Sport Sunglasses (Cyan limited)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B01GFS9D7G": {
+            "asin": "B01GFS9D7G",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Cooling Towel Chilly Pad (Pack of 2) Ice Scarf Bandana For Running Biking Hiking Gym Yoga Golf Working in Hot Environment(Red & Blue)",
+            "normalizedName": "(Pack of 2) Cooling Towel Chilly Pad Ice Scarf Bandana For Running Biking Hiking Gym Yoga Golf Working in Hot Environment(Red & Blue)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000MD3NLS": {
+            "asin": "B000MD3NLS",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "MidWest Snap'y Fit Water and Feed Bowl with Bracket, 1 Quart",
+            "normalizedName": "MidWest Snap'y Fit Water and Feed Bowl with Bracket, 1 Quart",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005KDEIZ0": {
+            "asin": "B005KDEIZ0",
+            "height": {
+                "unit": "IN",
+                "value": 1.6535433054
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.2204724346
+            },
+            "name": "Rubbermaid Commercial Oven Thermometer, Stainless Steel, FGTH0550",
+            "normalizedName": "Rubbermaid Commercial Oven Thermometer, Stainless Steel, FGTH0550",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5669291292
+            }
+        },
+        "B00L8TCSMU": {
+            "asin": "B00L8TCSMU",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "GU Hydration Drink Mix, Watermelon, 24 Count",
+            "normalizedName": "GU Hydration Drink Mix, Watermelon, 24 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

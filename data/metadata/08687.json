@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012JZ2EOI": {
+            "asin": "B012JZ2EOI",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.749999991075
+            },
+            "name": "2 Pack Pedal Straps for Exercise Bike Bicycle Home Gym Life Cycle",
+            "normalizedName": "2 Pack  Pedal Straps for Exercise Bike Bicycle Home Gym Life Cycle",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01FX8ZM5G": {
+            "asin": "B01FX8ZM5G",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "name": "Cougar's Choice\u00ae Silver-Tone Mini Braiding Hair Clips Hair Pins Bobby Pins Hair Accessories (Set of 5) (Star)",
+            "normalizedName": "(Set of 5) Cougar's Choice\u00ae Silver-Tone Mini Braiding Hair Clips Hair Pins Bobby Pins Hair Accessories (Star)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.034999999970649336
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

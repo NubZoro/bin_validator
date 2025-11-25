@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DWC53N2": {
+            "asin": "B00DWC53N2",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Kotobukiya New 52 DC Comics Black Adam ArtFX Statue",
+            "normalizedName": "Kotobukiya New 52 DC Comics Black Adam ArtFX Statue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2389869064291428
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00JDP0QJ8": {
+            "asin": "B00JDP0QJ8",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Funny Guy Mugs Plain Black Ceramic Coffee Mug, Black, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Plain Black Ceramic Coffee Mug, Black, 11-Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01AOKZO10": {
+            "asin": "B01AOKZO10",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Furyu Fairy Tales Series 7\" Super Sonico Mermaid Version Figure",
+            "normalizedName": "Furyu Fairy Tales Series 7\" Super Sonico Mermaid Version Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

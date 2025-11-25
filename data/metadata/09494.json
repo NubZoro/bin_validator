@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00L4DHZ4G": {
+            "asin": "B00L4DHZ4G",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Tresemme Keratin Smooth Infusing Shampoo And Conditioner, 25 Ounce (Shampoo+Conditioner Combo)",
+            "normalizedName": "Tresemme Keratin Smooth Infusing Shampoo And Conditioner, 25 Ounce (Shampoo+Conditioner Combo)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

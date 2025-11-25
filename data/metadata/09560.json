@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000CAQ8D": {
+            "asin": "B0000CAQ8D",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Fiesta 13-5/8-Inch Oval Platter, White",
+            "normalizedName": "Fiesta 13-5/8-Inch Oval Platter, White",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2499999972745806
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00N4J7EBC": {
+            "asin": "B00N4J7EBC",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "LOUISE MAELYS Elegant Princess Queen Short Wig Anime Cosplay Bun Hair",
+            "normalizedName": "LOUISE MAELYS Elegant Princess Queen Short Wig Anime Cosplay Bun Hair",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B00P6TNGQU": {
+            "asin": "B00P6TNGQU",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Air 2 Case, iPad Air 2 Case, SGM (TM) Case for iPad Air 2, Ultra Slim Lightweight Stand with Smart Cover With 360 Degree Rotating Feature (Sky Blue)",
+            "normalizedName": "Air 2 Case, iPad Air 2 Case, SGM (TM) Case for iPad Air 2, Ultra Slim Lightweight Stand with Smart Cover With 360 Degree Rotating Feature (Sky Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

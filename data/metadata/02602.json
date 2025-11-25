@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0060088737": {
+            "asin": "0060088737",
+            "height": {
+                "unit": "IN",
+                "value": 1.4960629906
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8188976288
+            },
+            "name": "A Year in the Life of William Shakespeare: 1599",
+            "normalizedName": "A Year in the Life of William Shakespeare: 1599",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7200245218978
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "B00GM02BUO": {
+            "asin": "B00GM02BUO",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Funny Guy Mugs Have You Tried Turning It Off And On Again? Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Have You Tried Turning It Off And On Again? Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

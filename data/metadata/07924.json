@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0040LU3Y8": {
+            "asin": "B0040LU3Y8",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Jokari 16930 Baggy Rack Storage Bag Opener and Holder",
+            "normalizedName": "Jokari 16930 Baggy Rack Storage Bag Opener and Holder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00IUQFA9C": {
+            "asin": "B00IUQFA9C",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Guardians of the Galaxy Character Walkie Talkies",
+            "normalizedName": "Guardians of the Galaxy Character Walkie Talkies",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00PSZLHWM": {
+            "asin": "B00PSZLHWM",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Minecraft Figure 4-pack Hostile Mobs Set",
+            "normalizedName": "Minecraft Figure 4-pack Hostile Mobs Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011D028K0": {
+            "asin": "B011D028K0",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Creative Co-Op Metal Hook with Three Seahorse Hooks",
+            "normalizedName": "Creative Co-Op Metal Hook with Three Seahorse Hooks",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01DNDLUJU": {
+            "asin": "B01DNDLUJU",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Amerzam 3D VR Virtual Reality Headset 3D Glasses VR BOX for iPhone6/SamsungGalaxy/ ios Android smartphone(white)",
+            "normalizedName": "Amerzam 3D VR Virtual Reality Headset 3D Glasses VR BOX for iPhone6/SamsungGalaxy/ ios Android smartphone(white)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

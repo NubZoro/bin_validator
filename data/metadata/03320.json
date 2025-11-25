@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005LEXM": {
+            "asin": "B00005LEXM",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Mr. Heater 75,000 BTU 12-Foot Propane Hose Assembly #F273702",
+            "normalizedName": "Mr. Heater 75,000 BTU 12-Foot Propane Hose Assembly #F273702",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B00A82FZFK": {
+            "asin": "B00A82FZFK",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "16pcs Advanced 3 Million Color UFO Style 288 LED Car Truck ATV Undercar Underbody Glow Wireless Remote Control Light Kit",
+            "normalizedName": "16pcs Advanced 3 Million Color UFO Style 288 LED Car Truck ATV Undercar Underbody Glow Wireless Remote Control Light Kit",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.749999997693876
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

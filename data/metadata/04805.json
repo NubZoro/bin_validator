@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JDP7FVU": {
+            "asin": "B00JDP7FVU",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Funny Guy Mugs Plain Pink Ceramic Coffee Mug, Pink, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Plain Pink Ceramic Coffee Mug, Pink, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01C5D4WMG": {
+            "asin": "B01C5D4WMG",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "Padgene DZ09 Bluetooth Smart Watch with Camera for Samsung S5 / Note 2 / 3 / 4, Nexus 6, Htc, Sony and Other Android Smartphones, Black (Black Band)",
+            "normalizedName": "Padgene DZ09 Bluetooth Smart Watch with Camera for Samsung S5 / Note 2 / 3 / 4, Nexus 6, Htc, Sony and Other Android Smartphones, Black (Black Band)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.049999999958070473
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0012FKF9S": {
+            "asin": "B0012FKF9S",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.1968503884
+            },
+            "name": "Camco 42733 Fabric Party Light Holders",
+            "normalizedName": "Camco 42733 Fabric Party Light Holders",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0157480274
+            }
+        },
+        "B015GXOEXY": {
+            "asin": "B015GXOEXY",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Bundle:Nitecore P12 2015 Version 1000 Lumens CREE XM-L2 U2 LED Tactical Flashlight 253 Yards Beam Distance Waterproof Searchlight by EASTSHINE E35 3500mAh 18650 Li-ion Battery with EB182 Battery Case",
+            "normalizedName": "Bundle:Nitecore P12 2015 Version 1000 Lumens CREE XM-L2 U2 LED Tactical Flashlight 253 Yards Beam Distance Waterproof Searchlight by EASTSHINE E35 3500mAh 18650 Li-ion Battery with EB182 Battery Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

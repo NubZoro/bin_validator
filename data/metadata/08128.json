@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007BTNFRS": {
+            "asin": "B007BTNFRS",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Gund Sesame Street Super Grover Beanbag Stuffed Animal",
+            "normalizedName": "Gund Sesame Street Super Grover Beanbag Stuffed Animal",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

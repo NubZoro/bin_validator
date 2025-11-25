@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B018M1WHNQ": {
+            "asin": "B018M1WHNQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Sun-title 57 Piece Building Set Car Designer",
+            "normalizedName": "Sun-title 57 Piece Building Set Car Designer",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

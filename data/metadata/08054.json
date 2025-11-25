@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00022KDLM": {
+            "asin": "B00022KDLM",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Thermoskin Arthritis Knee Wrap, Beige, Medium",
+            "normalizedName": "Thermoskin Arthritis Knee Wrap, Beige, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B000UXROTC": {
+            "asin": "B000UXROTC",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862
+            },
+            "name": "Baby K'tan ORIGINAL Baby Carrier, Black, X-Large",
+            "normalizedName": "Baby K'tan ORIGINAL Baby Carrier, Black, X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.59
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B00VKEEY8E": {
+            "asin": "B00VKEEY8E",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "PureSpa Essential Oil Diffuser \u2014 Compact Ultrasonic Aromatherapy Diffuser With Ionizer and Color-Changing Light",
+            "normalizedName": "PureSpa Essential Oil Diffuser \u2014 Compact Ultrasonic Aromatherapy Diffuser With Ionizer and Color-Changing Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

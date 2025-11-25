@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004XBHHY4": {
+            "asin": "B004XBHHY4",
+            "height": {
+                "unit": "IN",
+                "value": 5.1968503884
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.1023621934
+            },
+            "name": "Motul 102870-4PK Motor Oil - 5 Liter, (Pack of 4)",
+            "normalizedName": "(Pack of 4) Motul 102870-4PK Motor Oil - 5 Liter,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.920700525414283
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.5590551104
+            }
+        },
+        "B0084JUNVU": {
+            "asin": "B0084JUNVU",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986025999
+            },
+            "name": "Crayola Light Up Tracing Pad Pink",
+            "normalizedName": "Crayola Light Up Tracing Pad Pink",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999987658
+            }
+        },
+        "B00HG9108E": {
+            "asin": "B00HG9108E",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Mexican Train Game",
+            "normalizedName": "Mexican Train Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B00HVDFSQ0": {
+            "asin": "B00HVDFSQ0",
+            "height": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "MTM Tactical Mag Can 15 for 223/5.56 Magazine Storage TMC15",
+            "normalizedName": "MTM Tactical Mag Can 15 for 223/5.56 Magazine Storage TMC15",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009X3UW2G": {
+            "asin": "B009X3UW2G",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "ASUS Google Nexus 7 Tablet (7-Inch, 32GB) 2012 Model",
+            "normalizedName": "ASUS Google Nexus 7 Tablet (7-Inch, 32GB) 2012 Model",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

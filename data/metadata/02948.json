@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0027YZBJC": {
+            "asin": "B0027YZBJC",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Mariani Pitted Dates 100% Natural Fat Free, 40-Ounce",
+            "normalizedName": "Mariani Pitted Dates 100% Natural Fat Free, 40-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01FR8EOWO": {
+            "asin": "B01FR8EOWO",
+            "height": {
+                "unit": "IN",
+                "value": 4.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "2016 Newest \"COMMANDO HAMMOCK\" Double Camping Hammock Made of parachute nylon, ultra light,best for Backpacking, Travel, Beach, Yard",
+            "normalizedName": "2016 Newest \"COMMANDO HAMMOCK\" Double Camping Hammock Made of parachute nylon, ultra light,best for Backpacking, Travel, Beach, Yard",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

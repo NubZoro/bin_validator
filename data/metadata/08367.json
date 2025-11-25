@@ -1,0 +1,178 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0141192496": {
+            "asin": "0141192496",
+            "height": {
+                "unit": "IN",
+                "value": 1.4960629906
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "Oliver Twist (A Penguin Classics Hardcover)",
+            "normalizedName": "Oliver Twist (A Penguin Classics Hardcover)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "6140107024": {
+            "asin": "6140107024",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.267716527
+            },
+            "name": "\u0643\u062a\u0627\u0628 \u0627\u0644\u0631\u0633\u0627\u0626\u0644",
+            "normalizedName": "\u0643\u062a\u0627\u0628 \u0627\u0644\u0631\u0633\u0627\u0626\u0644",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B00006674K": {
+            "asin": "B00006674K",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Chabrier - L'Etoile / Gardiner, Alliot-Lugaz, Gautier, Opera National de Lyon",
+            "normalizedName": "Chabrier - L'Etoile / Gardiner, Alliot-Lugaz, Gautier, Opera National de Lyon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B0000694WG": {
+            "asin": "B0000694WG",
+            "height": {
+                "unit": "IN",
+                "value": 0.59842519624
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.4015747956
+            },
+            "name": "The Brotherhood of Satan",
+            "normalizedName": "The Brotherhood of Satan",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2000033640864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.29921259302
+            }
+        },
+        "B0013D8L72": {
+            "asin": "B0013D8L72",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Partition",
+            "normalizedName": "Partition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B0018CWESA": {
+            "asin": "B0018CWESA",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452
+            },
+            "name": "The Mummy Returns (Two-Disc Deluxe Edition)",
+            "normalizedName": "The Mummy Returns (Two-Disc Deluxe Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B003WM5WL0": {
+            "asin": "B003WM5WL0",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Once Fallen",
+            "normalizedName": "Once Fallen",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B008L0N0WQ": {
+            "asin": "B008L0N0WQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Iron Jawed Angels : Widescreen Edition",
+            "normalizedName": "Iron Jawed Angels : Widescreen Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

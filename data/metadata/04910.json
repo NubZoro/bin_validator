@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CON4MA": {
+            "asin": "B000CON4MA",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Moroso 74101 Heavy-Duty Battery Disconnect Switch",
+            "normalizedName": "Moroso 74101 Heavy-Duty Battery Disconnect Switch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B000K3CNQ6": {
+            "asin": "B000K3CNQ6",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Scosche Dash Kit for 1999-Up Jeep Grand Cherokee/1998-Up Dodge Intrepid/Chrysler Concorde Kit",
+            "normalizedName": "Scosche Dash Kit for 1999-Up Jeep Grand Cherokee/1998-Up Dodge Intrepid/Chrysler Concorde Kit",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.03
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991738
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

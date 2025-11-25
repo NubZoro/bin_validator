@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00E8AVN9U": {
+            "asin": "B00E8AVN9U",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Murder, She Wrote: The Complete Series",
+            "normalizedName": "Murder, She Wrote: The Complete Series",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B01FJ4UXLW": {
+            "asin": "B01FJ4UXLW",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.661417314
+            },
+            "name": "Lamshaw Fitbit Alta Band, Classic Replacement Band for Fitbit Alta (Classic Red_Large)",
+            "normalizedName": "Lamshaw Fitbit Alta Band, Classic Replacement Band for Fitbit Alta (Classic Red_Large)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.968503935
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

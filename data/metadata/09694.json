@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0037TYXHM": {
+            "asin": "B0037TYXHM",
+            "height": {
+                "unit": "IN",
+                "value": 0.009999999989800001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "BallQube \"The Stand\" Football Display - Made in U.S.A.",
+            "normalizedName": "BallQube \"The Stand\" Football Display - Made in U.S.A.",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

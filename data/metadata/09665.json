@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003UW8S1S": {
+            "asin": "B003UW8S1S",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "ABC Products Replacement Sony Alpha / Cybershot USB Cable Cord Lead (For Image Transfer / Battery Charger - Supports Charging in Select models) for Select Alpha D-SLR / Cyber-Shot Digital Camera (Models Stated Below)",
+            "normalizedName": "ABC Products Replacement Sony Alpha / Cybershot USB Cable Cord Lead (For Image Transfer / Battery Charger - Supports Charging in Select models) for Select Alpha D-SLR / Cyber-Shot Digital Camera (Models Stated Below)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999795837257375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B00B2SEHG2": {
+            "asin": "B00B2SEHG2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "name": "Pandas Pink Shot Glass 1 oz.",
+            "normalizedName": "Pandas Pink Shot Glass 1 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        },
+        "B00WU8U7FS": {
+            "asin": "B00WU8U7FS",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Gtide Handheld Mini 2.4G RF Wireless Backlit Keyboard with Touchpad and Flashlight for Google Android Smart TV HTPC PC Windows 8 IPKW250FUSK",
+            "normalizedName": "Gtide Handheld Mini 2.4G RF Wireless Backlit Keyboard with Touchpad and Flashlight for Google Android Smart TV HTPC PC Windows 8 IPKW250FUSK",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

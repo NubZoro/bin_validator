@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0152563474": {
+            "asin": "0152563474",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988576
+            },
+            "name": "The Mysterious Giant of Barletta: An Italian Folktale",
+            "normalizedName": "The Mysterious Giant of Barletta: An Italian Folktale",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B001LGAK8Y": {
+            "asin": "B001LGAK8Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "BJC Series-1 HDMI Cable, Belden Bonded-Pair, 30 foot, Black",
+            "normalizedName": "BJC Series-1 HDMI Cable, Belden Bonded-Pair, 30 foot, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00BSX8FPA": {
+            "asin": "B00BSX8FPA",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Meal Measure 1 Portion Control Tool Color Blue",
+            "normalizedName": "Meal Measure 1 Portion Control Tool Color Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

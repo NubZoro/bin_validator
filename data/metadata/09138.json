@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015CY8SYS": {
+            "asin": "B015CY8SYS",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Barbie The Look Doll, African-American",
+            "normalizedName": "Barbie The Look Doll, African-American",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645638
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.249999992605
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

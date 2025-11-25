@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00304IK96": {
+            "asin": "B00304IK96",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "name": "Terrasil Original Therapeutic Skin Treatment Parent (44 gram jar)",
+            "normalizedName": "Terrasil Original Therapeutic Skin Treatment Parent (44 gram jar)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00HQZP3EU": {
+            "asin": "B00HQZP3EU",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "iSaddle\u00ae CH-151-159 Removable Dashboard Mount and Windshield Suction Mount for Garmin Nuvi 1400 1450 1450T 1490T",
+            "normalizedName": "iSaddle\u00ae CH-151-159 Removable Dashboard Mount and Windshield Suction Mount for Garmin Nuvi 1400 1450 1450T 1490T",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

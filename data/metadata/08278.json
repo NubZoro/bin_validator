@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00J90CI98": {
+            "asin": "B00J90CI98",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Asobu Imperial Beverage Insulated Cup, Blue",
+            "normalizedName": "Asobu Imperial Beverage Insulated Cup, Blue",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B014JPTDFO": {
+            "asin": "B014JPTDFO",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Dancing Water Mini Music Speaker, Costech Fountain Colorful LED Light Dual Speakers for Iphone,Ipad,Samsung,Tablets,Devices with 3.5mm Port (Black)",
+            "normalizedName": "Dancing Water Mini Music Speaker, Costech Fountain Colorful LED Light Dual Speakers for Iphone,Ipad,Samsung,Tablets,Devices with 3.5mm Port (Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

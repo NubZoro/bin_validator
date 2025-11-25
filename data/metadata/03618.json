@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0674025598": {
+            "asin": "0674025598",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "The Singing Neanderthals: The Origins of Music, Language, Mind, and Body",
+            "normalizedName": "The Singing Neanderthals: The Origins of Music, Language, Mind, and Body",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "0826128637": {
+            "asin": "0826128637",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Fast Facts for the L&D Nurse, Second Edition: Labor and Delivery Orientation in a Nutshell",
+            "normalizedName": "Fast Facts for the L&D Nurse, Second Edition: Labor and Delivery Orientation in a Nutshell",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "1481476017": {
+            "asin": "1481476017",
+            "height": {
+                "unit": "IN",
+                "value": 1.7322834628
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.5590551104
+            },
+            "name": "The Adventures of Sophie Mouse 4 Books in 1!: A New Friend; The Emerald Berries; Forget-Me-Not Lake; Looking for Winston",
+            "normalizedName": "The Adventures of Sophie Mouse 4 Books in 1!: A New Friend; The Emerald Berries; Forget-Me-Not Lake; Looking for Winston",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05820805604419
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.7086614115
+            }
+        },
+        "B0030GBU32": {
+            "asin": "B0030GBU32",
+            "height": {
+                "unit": "IN",
+                "value": 0.59842519624
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Morphx - Xbox 360",
+            "normalizedName": "Morphx - Xbox 360",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2000033640864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.29921259302
+            }
+        },
+        "B00ZPHICN0": {
+            "asin": "B00ZPHICN0",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Batman #42",
+            "normalizedName": "Batman #42",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

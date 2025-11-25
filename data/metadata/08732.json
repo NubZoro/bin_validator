@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013OUYQ2K": {
+            "asin": "B013OUYQ2K",
+            "height": {
+                "unit": "IN",
+                "value": 2.399995197552005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.999987993880012
+            },
+            "name": "iClever USB-C to 3-Port USB 3.0 Hub with Ethernet Adapter, Silver Aluminum",
+            "normalizedName": "iClever USB-C to 3-Port USB 3.0 Hub with Ethernet Adapter, Silver Aluminum",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.34999998087649326
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599990795308009
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

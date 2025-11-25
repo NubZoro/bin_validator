@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007OEDYI": {
+            "asin": "B0007OEDYI",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Staedtler Triplus Fineliner 0.3 mm Porous Point Pen 334 - SB10",
+            "normalizedName": "Staedtler Triplus Fineliner 0.3 mm Porous Point Pen 334 - SB10",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

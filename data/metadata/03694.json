@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008L502Z4": {
+            "asin": "B008L502Z4",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Rene Furterer Okara Light Activating Shampoo, 6.76 oz",
+            "normalizedName": "Rene Furterer Okara Light Activating Shampoo, 6.76 oz",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B0101SIK48": {
+            "asin": "B0101SIK48",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Canon CLI-271 XL 3 Pack Value Pack, Compatible to MG7720,MG6820,MG6821,MG6822,MG5720,MG5722,MG5721",
+            "normalizedName": "3 Pack Canon CLI-271 XL Value Pack, Compatible to MG7720,MG6820,MG6821,MG6822,MG5720,MG5722,MG5721",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999744796571724
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1285839390": {
+            "asin": "1285839390",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Gardner's Art through the Ages: A Global History, Volume II",
+            "normalizedName": "Gardner's Art through the Ages: A Global History, Volume II",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.849999995932835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00HG912FU": {
+            "asin": "B00HG912FU",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Molkky Original Game",
+            "normalizedName": "Molkky Original Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

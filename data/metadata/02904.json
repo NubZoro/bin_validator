@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0062202553": {
+            "asin": "0062202553",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Liberace Extravaganza!",
+            "normalizedName": "Liberace Extravaganza!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B003F2MK1W": {
+            "asin": "B003F2MK1W",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "StealStreet SS-G-41353 Wind Chime Round Top Motorcycle Hanging Garden Decoration Windchime",
+            "normalizedName": "StealStreet SS-G-41353 Wind Chime Round Top Motorcycle Hanging Garden Decoration Windchime",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00KNK0M1O": {
+            "asin": "B00KNK0M1O",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Savvy Infusion Water Bottle - 24 Oz - Create Your Own Naturally Flavored Fruit Infused Water, Juice, Iced Tea, Lemonade and Sparkling Beverages - Choice of Dazzling Colors",
+            "normalizedName": "Savvy Infusion Water Bottle - 24 Oz - Create Your Own Naturally Flavored Fruit Infused Water, Juice, Iced Tea, Lemonade and Sparkling Beverages - Choice of Dazzling Colors",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MEB1RLE": {
+            "asin": "B00MEB1RLE",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Rocheoper Ltd Accu Chek Performa (Without Chip) - 100 Strips",
+            "normalizedName": "Rocheoper Ltd Accu Chek Performa (Without Chip) - 100 Strips",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

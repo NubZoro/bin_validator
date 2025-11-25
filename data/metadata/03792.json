@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005AJFR22": {
+            "asin": "B005AJFR22",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Dora The Explorer & Boots The Monkey Messenger Bag",
+            "normalizedName": "Dora The Explorer & Boots The Monkey Messenger Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B00W8FASNO": {
+            "asin": "B00W8FASNO",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "The Stone Earth Pan by Ozeri, with 100% PFOA-Free Stone-Derived Non-Stick Coating from Germany",
+            "normalizedName": "The Stone Earth Pan by Ozeri, with 100% PFOA-Free Stone-Derived Non-Stick Coating from Germany",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B018Q3QU7O": {
+            "asin": "B018Q3QU7O",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.299999984394
+            },
+            "name": "Deconovo Home Fashion Grommet Top Foil Print Thermal Insulated Blackout Curtains for Dining Room 52\"w X 84\"l, 1 Pair, Dark Grey",
+            "normalizedName": "Deconovo Home Fashion Grommet Top Foil Print Thermal Insulated Blackout Curtains for Dining Room 52\"w X 84\"l, 1 Pair, Dark Grey",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6999999968972146
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

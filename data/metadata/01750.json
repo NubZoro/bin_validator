@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00X7VVUN0": {
+            "asin": "B00X7VVUN0",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "KabelDirekt Universal Mirror Car Holder for Smartphones",
+            "normalizedName": "KabelDirekt Universal Mirror Car Holder for Smartphones",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B0198P2K2S": {
+            "asin": "B0198P2K2S",
+            "height": {
+                "unit": "IN",
+                "value": 1.6999999982660001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995817999
+            },
+            "name": "AZAQUA 4-in-1 Pool and Spa Test Strip, Precise and Accurate Check Kit, 50 Count",
+            "normalizedName": "AZAQUA 4-in-1 Pool and Spa Test Strip, Precise and Accurate Check Kit, 50 Count",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.049999999958070473
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.6999999982660001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

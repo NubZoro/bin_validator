@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00749SYYO": {
+            "asin": "B00749SYYO",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "UTG 3.9\" Ambidextrous Pocket Holster",
+            "normalizedName": "UTG 3.9\" Ambidextrous Pocket Holster",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.03
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00934NGDC": {
+            "asin": "B00934NGDC",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Crayola 12 Count Washable Bulk Markers, Black",
+            "normalizedName": "Crayola 12 Count Washable Bulk Markers, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B013HKLK8K": {
+            "asin": "B013HKLK8K",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Bear Motion for Note 5 - Bear Motion Ultra Slim Translucent Back Cover Case for Galaxy Note 5 - Black",
+            "normalizedName": "Bear Motion for Note 5 - Bear Motion Ultra Slim Translucent Back Cover Case for Galaxy Note 5 - Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B0147XXAYI": {
+            "asin": "B0147XXAYI",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Lavender Orange Sleep Aromatherapy Natural Body Oil ~ Scented Oils for Body ~ After Bath Oil to Help You Fall Asleep Fast and Get Healthy, Soft, Moisturized Skin! ~ 4 Oz. Bottle",
+            "normalizedName": "Lavender Orange Sleep Aromatherapy Natural Body Oil ~ Scented Oils for Body ~ After Bath Oil to Help You Fall Asleep Fast and Get Healthy, Soft, Moisturized Skin! ~ 4 Oz. Bottle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

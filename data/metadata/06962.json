@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DPLAM0E": {
+            "asin": "B00DPLAM0E",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "GE Lighting 68472 Crystal Clear 40-Watt, 280-Lumen Bent Tip Light Bulb with Candelabra Base, 20-Pack",
+            "normalizedName": "20-Pack GE Lighting 68472 Crystal Clear 40-Watt, 280-Lumen Bent Tip Light Bulb with Candelabra Base,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

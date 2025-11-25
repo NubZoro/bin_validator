@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000W9U1QW": {
+            "asin": "B000W9U1QW",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.3307086468
+            },
+            "name": "Leg Avenue Women's Pink Princess Costume, Pink, Medium",
+            "normalizedName": "Leg Avenue Women's Pink Princess Costume, Pink, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.146392061675893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.5511810916
+            }
+        },
+        "B010TFQZA4": {
+            "asin": "B010TFQZA4",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Star Wars Furbacca",
+            "normalizedName": "Star Wars Furbacca",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B01AK9RFL2": {
+            "asin": "B01AK9RFL2",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Round Rich 100ft Latex Expanding Hose Magic Flexible Expandable Garden Water Hose with 8 Functions Spray Nozzle, Hose hook including.(Blue, 100FT)",
+            "normalizedName": "Round Rich 100ft Latex Expanding Hose Magic Flexible Expandable Garden Water Hose with 8 Functions Spray Nozzle, Hose hook including.(Blue, 100FT)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.8999999975680875
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

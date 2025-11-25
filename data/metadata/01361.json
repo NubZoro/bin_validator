@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00H36XXBM": {
+            "asin": "B00H36XXBM",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "NOCO XGrid XGS4USB 4W Portable Solar Panel and USB Kit",
+            "normalizedName": "NOCO XGrid XGS4USB 4W Portable Solar Panel and USB Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B00RDCDGMW": {
+            "asin": "B00RDCDGMW",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Plain 100% Cotton Hat Men Women One Size Baseball Cap (30+ Colors) Aqua,One Size",
+            "normalizedName": "Plain 100% Cotton Hat Men Women One Size Baseball Cap (30+ Colors) Aqua,One Size",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228198
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

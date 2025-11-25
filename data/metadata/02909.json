@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009SPS8W": {
+            "asin": "B0009SPS8W",
+            "height": {
+                "unit": "IN",
+                "value": 1.40157480172
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.79921258945
+            },
+            "name": "ALEX Toys Do-it-Yourself Wear Watch It Kit",
+            "normalizedName": "ALEX Toys Do-it-Yourself Wear Watch It Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3500058871512
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.90157479815
+            }
+        },
+        "B009KZUBG4": {
+            "asin": "B009KZUBG4",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Bouton 249-5907-400 5900 Traditional Eyewear with Smoke Propionate Full Frame and Clear Anti-Scratch/Fog Lens",
+            "normalizedName": "Bouton 249-5907-400 5900 Traditional Eyewear with Smoke Propionate Full Frame and Clear Anti-Scratch/Fog Lens",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

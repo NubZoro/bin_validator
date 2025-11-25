@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006IUX5": {
+            "asin": "B00006IUX5",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Proctor Silex E160BY Fresh Grind Coffee Grinder, White",
+            "normalizedName": "Proctor Silex E160BY Fresh Grind Coffee Grinder, White",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B016OVD668": {
+            "asin": "B016OVD668",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Bestten USB 4-Outlet Surge Protector / 4X 2.4A USB Charging Ports (4.2A Shared), 6-foot Cord",
+            "normalizedName": "Bestten USB 4-Outlet Surge Protector / 4X 2.4A USB Charging Ports (4.2A Shared), 6-foot Cord",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

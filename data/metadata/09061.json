@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000J51O06": {
+            "asin": "B000J51O06",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Rothco Thermal Knit Underwear Bottom, Olive Drab, Medium",
+            "normalizedName": "Rothco Thermal Knit Underwear Bottom, Olive Drab, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00BWYO0CM": {
+            "asin": "B00BWYO0CM",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Honeywell True HEPA Replacement Filter, HRF-R2 - 2 Pack",
+            "normalizedName": "2 Pack Honeywell True HEPA Replacement Filter, HRF-R2 -",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

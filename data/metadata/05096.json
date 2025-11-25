@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01879VFQS": {
+            "asin": "B01879VFQS",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Ovonni 26 Mix Size Cosmetic Makeup Brush Dryer Air Drying Tower Tree Rack Holder (Black)",
+            "normalizedName": "Ovonni 26 Mix Size Cosmetic Makeup Brush Dryer Air Drying Tower Tree Rack Holder (Black)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B01BH43FCM": {
+            "asin": "B01BH43FCM",
+            "height": {
+                "unit": "IN",
+                "value": 4.6456692866
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.4724409342
+            },
+            "name": "Lillian Rose Satin Bouquet Holder - White 9.75\" L X 4\" H X 4\" W, 9.75\" X 4\" X 4\"\"",
+            "normalizedName": "Lillian Rose Satin Bouquet Holder - White 9.75\" L X 4\" H X 4\" W, 9.75\" X 4\" X 4\"\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.48501202568692053
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.236220462
+            }
+        },
+        "B01D4Z6S8K": {
+            "asin": "B01D4Z6S8K",
+            "height": {
+                "unit": "IN",
+                "value": 2.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "Cracked Pepper Coated Summer Sausage",
+            "normalizedName": "Cracked Pepper Coated Summer Sausage",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

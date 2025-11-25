@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009Y9QCCS": {
+            "asin": "B009Y9QCCS",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "4pairs Mens Socks Char Blk X 2pairs, Nvy X1pair, Brwn X1pair (Mixed) Large",
+            "normalizedName": "4pairs Mens Socks Char Blk X 2pairs, Nvy X1pair, Brwn X1pair (Mixed) Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00BD2BA1C": {
+            "asin": "B00BD2BA1C",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "Classic Accessories 53112-EC Terrazzo Standup Heater Cover",
+            "normalizedName": "Classic Accessories 53112-EC Terrazzo Standup Heater Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        },
+        "B00FSKWFBY": {
+            "asin": "B00FSKWFBY",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Gary Fong Fashion and Commercial Lighting Flash Modifying Kit (Black/White/Gray/Amber)",
+            "normalizedName": "Gary Fong Fashion and Commercial Lighting Flash Modifying Kit (Black/White/Gray/Amber)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

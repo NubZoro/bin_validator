@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000F8QTSE": {
+            "asin": "B000F8QTSE",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "The Velveteen Rabbit 10\" Soft Toy",
+            "normalizedName": "The Velveteen Rabbit 10\" Soft Toy",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B01CSG3I2A": {
+            "asin": "B01CSG3I2A",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "UNMCORE (3 PACK) Combination Security Lock Cable For Notebook Laptop pc With Numbers fits in Kensington slot (1M) - Silver",
+            "normalizedName": "UNMCORE (3 PACK) Combination Security Lock Cable For Notebook Laptop pc With Numbers fits in Kensington slot (1M) - Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

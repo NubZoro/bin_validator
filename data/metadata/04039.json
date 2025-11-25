@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IJDVIUQ": {
+            "asin": "B00IJDVIUQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "Garmin GPSMAP&reg; 640 All-In-One Marine & Automotive GPS",
+            "normalizedName": "Garmin GPSMAP&reg; 640 All-In-One Marine & Automotive GPS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B00SLBH2HY": {
+            "asin": "B00SLBH2HY",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "SADES SA906 7.1 USB Surround Sound Stereo Over-the-Ear Gaming Headsets with Microphone Vibration LED Light for PC gamers (Black)",
+            "normalizedName": "SADES SA906 7.1 USB Surround Sound Stereo Over-the-Ear Gaming Headsets with Microphone Vibration LED Light for PC gamers (Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B01B6LRXUG": {
+            "asin": "B01B6LRXUG",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Kenwood DPX502BT Double-Din CD Receiver with USB Interface & Bluetooth",
+            "normalizedName": "Kenwood DPX502BT Double-Din CD Receiver with USB Interface & Bluetooth",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4499999962682715
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

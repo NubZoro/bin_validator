@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AFGG3JG": {
+            "asin": "B00AFGG3JG",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "1 X Cute Black Bear / Honey Pot Toothpick Holder - Decorative Lodge Cabin Bear Cub Decor",
+            "normalizedName": "1 X Cute Black Bear / Honey Pot Toothpick Holder - Decorative Lodge Cabin Bear Cub Decor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01CPF1TJS": {
+            "asin": "B01CPF1TJS",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.3779527494
+            },
+            "name": "Funko POP Marvel: Spider Gwen Vinyl Figure",
+            "normalizedName": "Funko POP Marvel: Spider Gwen Vinyl Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2645547144
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5669291292
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

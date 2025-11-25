@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CH1776U": {
+            "asin": "B00CH1776U",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Twinlab 100% Whey Fuel Nutritional Shake, Vanilla Rush, 2 Pound",
+            "normalizedName": "Twinlab 100% Whey Fuel Nutritional Shake, Vanilla Rush, 2 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00K8MU7SK": {
+            "asin": "B00K8MU7SK",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "TYC 700253 Replacement Blower Assembly for Nissan Rogue",
+            "normalizedName": "TYC 700253 Replacement Blower Assembly for Nissan Rogue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B00OGA203K": {
+            "asin": "B00OGA203K",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Jeweled Headbands",
+            "normalizedName": "Jeweled Headbands",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        },
+        "B016RK3NVY": {
+            "asin": "B016RK3NVY",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "WEATHERBEETA LITE FETLOCK BOOTS BLACK WARMBLOOD",
+            "normalizedName": "WEATHERBEETA LITE FETLOCK BOOTS BLACK WARMBLOOD",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

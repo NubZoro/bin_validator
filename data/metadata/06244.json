@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000S6LS70": {
+            "asin": "B000S6LS70",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Man vs. Wild",
+            "normalizedName": "Man vs. Wild",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B004V3HD7K": {
+            "asin": "B004V3HD7K",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "All Together Dead (Original MM Art) Publisher: Ace Trade; Reprint edition",
+            "normalizedName": "All Together Dead (Original MM Art) Publisher: Ace Trade; Reprint edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00Z9XVXV8": {
+            "asin": "B00Z9XVXV8",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "LQM\u00ae New Replacement Laptop Battery for for HP Pavilion DV4-5000 DV6-7000 DV6-7099 DV6-8000 DV7-7000,Compatible 671567-421 671567-831 672412-001 HSTNN-LB3P HSTNN-LB3N HSTNN-YB3N MO06 MO09 TPN-P102",
+            "normalizedName": "LQM\u00ae New Replacement Laptop Battery for for HP Pavilion DV4-5000 DV6-7000 DV6-7099 DV6-8000 DV7-7000,Compatible 671567-421 671567-831 672412-001 HSTNN-LB3P HSTNN-LB3N HSTNN-YB3N MO06 MO09 TPN-P102",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B015TC63LI": {
+            "asin": "B015TC63LI",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "My Little Pony POP and Starter Kits",
+            "normalizedName": "My Little Pony POP and Starter Kits",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

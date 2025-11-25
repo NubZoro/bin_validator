@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C2BGIWE": {
+            "asin": "B00C2BGIWE",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Mud Pie Cheese Spreader",
+            "normalizedName": "Mud Pie Cheese Spreader",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00KQ3UH18": {
+            "asin": "B00KQ3UH18",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Incase Neoprene Pro Sleeve for iPad Air & iPad 2,3,4 (Tropic Blue-CL60403)",
+            "normalizedName": "Incase Neoprene Pro Sleeve for iPad Air & iPad 2,3,4 (Tropic Blue-CL60403)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B016LBWC7A": {
+            "asin": "B016LBWC7A",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Aurora World Blossoms Chick Plush, Medium",
+            "normalizedName": "Aurora World Blossoms Chick Plush, Medium",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B019VJZBDG": {
+            "asin": "B019VJZBDG",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Teenage Mutant Ninja Turtles Bath Set 4 Pc",
+            "normalizedName": "Teenage Mutant Ninja Turtles Bath Set 4 Pc",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I3U2NNQ": {
+            "asin": "B00I3U2NNQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "JYinstyle Men's Horizontal Stripes Cotton Dress Socks Us Size 10-13 Purple",
+            "normalizedName": "JYinstyle Men's Horizontal Stripes Cotton Dress Socks Us Size 10-13 Purple",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00L77191E": {
+            "asin": "B00L77191E",
+            "height": {
+                "unit": "IN",
+                "value": 1.6
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "Ikea Frakta Storage Bag,Extra Large - Blue (2 PACK)",
+            "normalizedName": "Ikea Frakta Storage Bag,Extra Large - Blue (2 PACK)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.440924524
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.2
+            }
+        },
+        "B01EQ4H8TG": {
+            "asin": "B01EQ4H8TG",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "ORG RD GR BK 1/2 INCH OFG Sports Headband No Slip with Silicone",
+            "normalizedName": "ORG RD GR BK 1/2 INCH OFG Sports Headband No Slip with Silicone",
+            "quantity": 25,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 28
+}

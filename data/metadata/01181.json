@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GGFYRW": {
+            "asin": "B000GGFYRW",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Midol Complete Caplets, 40-Count Box",
+            "normalizedName": "Midol Complete Caplets, 40-Count Box",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.199999997756
+            }
+        },
+        "B00KCXLBZI": {
+            "asin": "B00KCXLBZI",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Scented Candles(Lavender)Soy Wax Aromatherapy Candles 8oz tinplate Made in USA",
+            "normalizedName": "Scented Candles(Lavender)Soy Wax Aromatherapy Candles 8oz tinplate Made in USA",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B015PRWT7E": {
+            "asin": "B015PRWT7E",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Star Wars Silver Buffalo SE0144 Disney Star Wars Ep7 Rule the Galaxy Oval Ceramic Mug, 18 oz, Multicolor",
+            "normalizedName": "Star Wars Silver Buffalo SE0144 Disney Star Wars Ep7 Rule the Galaxy Oval Ceramic Mug, 18 oz, Multicolor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

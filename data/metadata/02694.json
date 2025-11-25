@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PLJI3LI": {
+            "asin": "B00PLJI3LI",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Homecube Pink Lint Fabric Shaver Remover Fabric Pills, Lint and Fuzz From Sweaters, Blankets, Yoga Pants",
+            "normalizedName": "Homecube Pink Lint Fabric Shaver Remover Fabric Pills, Lint and Fuzz From Sweaters, Blankets, Yoga Pants",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

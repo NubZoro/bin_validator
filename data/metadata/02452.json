@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01AWGZKT2": {
+            "asin": "B01AWGZKT2",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Ever After High Epic Winter Briar Beauty Doll",
+            "normalizedName": "Ever After High Epic Winter Briar Beauty Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B01B7FKJE8": {
+            "asin": "B01B7FKJE8",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.799999981844
+            },
+            "name": "Charmin 94045  PGCCT Ultra Soft Bathroom Tissue, 2-Ply, 4\" x 3.92\", White, 154 per Roll, 16 Roll per Pack (Pack of 16)",
+            "normalizedName": "(Pack of 16) Charmin 94045  PGCCT Ultra Soft Bathroom Tissue, 2-Ply, 4\" x 3.92\", White, 154 per Roll, 16 Roll per Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.949999997526158
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

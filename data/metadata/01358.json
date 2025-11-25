@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004M8GZBY": {
+            "asin": "B004M8GZBY",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Herbalife Ready Herbal Aloe, Quart Size, 32oz",
+            "normalizedName": "Herbalife Ready Herbal Aloe, Quart Size, 32oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B01AQG9FIA": {
+            "asin": "B01AQG9FIA",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Zizo Bolt Cover For Galaxy Amp Prime | Galaxy J3 [.33mm 9H Tempered Glass Screen Protector] Dual-Layered [Military Grade] Case Kickstand Belt Clip-Black/Neon Green",
+            "normalizedName": "Zizo Bolt Cover For Galaxy Amp Prime | Galaxy J3 [.33mm 9H Tempered Glass Screen Protector] Dual-Layered [Military Grade] Case Kickstand Belt Clip-Black/Neon Green",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645638
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

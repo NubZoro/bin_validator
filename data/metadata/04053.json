@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ISW92F6": {
+            "asin": "B00ISW92F6",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "Remington S7211 Wet 2 Straight Straightener, 1-Inch, Black",
+            "normalizedName": "Remington S7211 Wet 2 Straight Straightener, 1-Inch, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00KXBFDOO": {
+            "asin": "B00KXBFDOO",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Babyganics Fluoride Free Toothpaste, Strawberry, 4oz Tube (Pack of 2)",
+            "normalizedName": "(Pack of 2) Babyganics Fluoride Free Toothpaste, Strawberry, 4oz Tube",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B0125KULYW": {
+            "asin": "B0125KULYW",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Disney Princess Royal Shimmer Merida Doll",
+            "normalizedName": "Disney Princess Royal Shimmer Merida Doll",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

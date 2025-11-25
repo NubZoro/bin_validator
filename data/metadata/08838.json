@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000AM8BLI": {
+            "asin": "B000AM8BLI",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "SYLVANIA 3157 Long Life Miniature Bulb, (Pack of 2)",
+            "normalizedName": "(Pack of 2) SYLVANIA 3157 Long Life Miniature Bulb,",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B0098U0RS8": {
+            "asin": "B0098U0RS8",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Garden of Life Vitamin Code RAW D3, 2000 IU, 120 Capsules",
+            "normalizedName": "Garden of Life Vitamin Code RAW D3, 2000 IU, 120 Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

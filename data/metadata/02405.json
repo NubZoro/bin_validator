@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1118509315": {
+            "asin": "1118509315",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Repase y escriba: Curso avanzado de gram&aacute;tica y composici&oacute;n",
+            "normalizedName": "Repase y escriba: Curso avanzado de gram&aacute;tica y composici&oacute;n",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B01DXAOGIA": {
+            "asin": "B01DXAOGIA",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "name": "Phenas Cable Management Sleeve, [2 Pack], Management System for TV / Computer / Home Entertainment, 19 inch Flexible Cable Sleeve Wrap Cover Cable Cord Organizer",
+            "normalizedName": "2 Pack Phenas Cable Management Sleeve, [ ], Management System for TV / Computer / Home Entertainment, 19 inch Flexible Cable Sleeve Wrap Cover Cable Cord Organizer",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 1.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

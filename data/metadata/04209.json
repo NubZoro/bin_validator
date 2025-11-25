@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002KZE7C": {
+            "asin": "B0002KZE7C",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Fender Pickguard Screws",
+            "normalizedName": "Fender Pickguard Screws",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B003BYQM1I": {
+            "asin": "B003BYQM1I",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "EPSON ELPLP15 OEM PROJECTOR LAMP EQUIVALENT WITH HOUSING",
+            "normalizedName": "EPSON ELPLP15 OEM PROJECTOR LAMP EQUIVALENT WITH HOUSING",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B0196H75KA": {
+            "asin": "B0196H75KA",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.7007873978
+            },
+            "name": "LE \u00ae 33ft LED String Lights, 100 LEDs Waterproof Copper Wire Lights, Flexible Fairy Lights, Warm White, Indoor and Outdoor Starry String Lights for Garden, Patio, Wedding, Tree, Party, Christmas",
+            "normalizedName": "LE \u00ae 33ft LED String Lights, 100 LEDs Waterproof Copper Wire Lights, Flexible Fairy Lights, Warm White, Indoor and Outdoor Starry String Lights for Garden, Patio, Wedding, Tree, Party, Christmas",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.28218881494511733
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6220472404
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

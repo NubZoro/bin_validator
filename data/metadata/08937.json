@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DPK11ZA": {
+            "asin": "B00DPK11ZA",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.49999998215
+            },
+            "name": "Syma S107/S107G 3 Channel RC Heli with Gyro - Yellow",
+            "normalizedName": "Syma S107/S107G 3 Channel RC Heli with Gyro - Yellow",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.249999992605
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

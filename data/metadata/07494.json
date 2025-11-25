@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001330XFA": {
+            "asin": "B001330XFA",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Infiniti Pro by Conair Tourmaline Ceramic Styler Dryer",
+            "normalizedName": "Infiniti Pro by Conair Tourmaline Ceramic Styler Dryer",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B018EYYVB2": {
+            "asin": "B018EYYVB2",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Swiffer Bissell Symphony Steamboost Kit, 1513",
+            "normalizedName": "Swiffer Bissell Symphony Steamboost Kit, 1513",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

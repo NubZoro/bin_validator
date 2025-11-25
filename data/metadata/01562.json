@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000J4K0YS": {
+            "asin": "B000J4K0YS",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Anthony Alcohol Free Deodorant, 2.5 oz.",
+            "normalizedName": "Anthony Alcohol Free Deodorant, 2.5 oz.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B005F1QBMK": {
+            "asin": "B005F1QBMK",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.4566929068
+            },
+            "name": "Funko Darth Maul POP",
+            "normalizedName": "Funko Darth Maul POP",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26455201423289837
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

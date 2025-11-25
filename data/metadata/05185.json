@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NGUC7XE": {
+            "asin": "B00NGUC7XE",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.749999994135
+            },
+            "name": "Ikea E26 LED Light Bulb 400 Lumen (2 Pack)",
+            "normalizedName": "(2 Pack) Ikea E26 LED Light Bulb 400 Lumen",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00OE38HGI": {
+            "asin": "B00OE38HGI",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Leaps & Bounds Cuddle Monkey Catnip Cat Toy, 4.5\" Length, Brown",
+            "normalizedName": "Leaps & Bounds Cuddle Monkey Catnip Cat Toy, 4.5\" Length, Brown",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

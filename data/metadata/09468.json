@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ZL3D2Q": {
+            "asin": "B000ZL3D2Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "American Red Cross Soft-Tip Medicine Dispenser",
+            "normalizedName": "American Red Cross Soft-Tip Medicine Dispenser",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.699999996226
+            }
+        },
+        "B019RC1EI8": {
+            "asin": "B019RC1EI8",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Circle with Disney",
+            "normalizedName": "Circle with Disney",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01AQ6FQ1K": {
+            "asin": "B01AQ6FQ1K",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "New Professional Double Sided Hair Sponge used to Curl and Twist, Barber Recommended, Long Lasting, and More Durable (Yellow)",
+            "normalizedName": "New Professional Double Sided Hair Sponge used to Curl and Twist, Barber Recommended, Long Lasting, and More Durable (Yellow)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B01D89QRDI": {
+            "asin": "B01D89QRDI",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Can Opener - Manual - Stainless Steel - 2 Pack - Dual Handle - Large Knob with Good Grip and Easy Turn- Durable Materials and Construction - Bottle Cap Opener - Black - Kitchen Gadgets Retail Package",
+            "normalizedName": "2 Pack Can Opener - Manual - Stainless Steel - - Dual Handle - Large Knob with Good Grip and Easy Turn- Durable Materials and Construction - Bottle Cap Opener - Black - Kitchen Gadgets Retail Package",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0199765537": {
+            "asin": "0199765537",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514
+            },
+            "name": "From Colony to Superpower: U.S. Foreign Relations since 1776 (Oxford History of the United States)",
+            "normalizedName": "From Colony to Superpower: U.S. Foreign Relations since 1776 (Oxford History of the United States)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B01B8L5M9S": {
+            "asin": "B01B8L5M9S",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "Shopkins Season 4 Surprise Pack - 1 Shopkin in a Shopping Bag",
+            "normalizedName": "Shopkins Season 4 Surprise Pack - 1 Shopkin in a Shopping Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.019999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.899999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

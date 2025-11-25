@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001A36BSG": {
+            "asin": "B001A36BSG",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.2755905458
+            },
+            "name": "Puppy Kong",
+            "normalizedName": "Puppy Kong",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1543235834
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.8897637776
+            }
+        },
+        "B010AH24OW": {
+            "asin": "B010AH24OW",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Deconovo\u00ae Microfiber Decorative Pillowcase Cushion Cover With Invisible Zipper For Sofa 24x24-Inch, Rose Red, Double Lined",
+            "normalizedName": "Deconovo\u00ae Microfiber Decorative Pillowcase Cushion Cover With Invisible Zipper For Sofa 24x24-Inch, Rose Red, Double Lined",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01BQCHEPY": {
+            "asin": "B01BQCHEPY",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9212598375
+            },
+            "name": "Silicon Power 64GB Jewel J50 USB 3.0 Zinc-Alloy Compact Flash Drive, Titanium Edition (SP064GBUF3J50V1T)",
+            "normalizedName": "Silicon Power 64GB Jewel J50 USB 3.0 Zinc-Alloy Compact Flash Drive, Titanium Edition (SP064GBUF3J50V1T)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3070866108
+            }
+        },
+        "B01CY93MS6": {
+            "asin": "B01CY93MS6",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Raogoodcx\u00ae 15\" x 15\"Cargo Net, Heavy-Duty Stretchable Mesh Cargo Net for Motorcycles, ATVs - Stretches to 30\" with Hooks (Red)",
+            "normalizedName": "Raogoodcx\u00ae 15\" x 15\"Cargo Net, Heavy-Duty Stretchable Mesh Cargo Net for Motorcycles, ATVs - Stretches to 30\" with Hooks (Red)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

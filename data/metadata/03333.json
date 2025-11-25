@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1477825282": {
+            "asin": "1477825282",
+            "height": {
+                "unit": "IN",
+                "value": 0.9
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.2
+            },
+            "name": "Ticker",
+            "normalizedName": "Ticker",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6
+            }
+        },
+        "B009E7YBEQ": {
+            "asin": "B009E7YBEQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Bell Plantation PB2 Powdered Peanut Butter, 16 oz (Pack of 2)",
+            "normalizedName": "(Pack of 2) Bell Plantation PB2 Powdered Peanut Butter, 16 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00TYLP4MU": {
+            "asin": "B00TYLP4MU",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.2834645544
+            },
+            "name": "Amscan Bright Birthday Party Cub Bag Value Pack, 8-1/2 x 5-1/4 x 3-1/2\", Robins Egg Blue",
+            "normalizedName": "Amscan Bright Birthday Party Cub Bag Value Pack, 8-1/2 x 5-1/4 x 3-1/2\", Robins Egg Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440163462221
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B01AMOIFHS": {
+            "asin": "B01AMOIFHS",
+            "height": {
+                "unit": "IN",
+                "value": 1.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "Onion Yellow Sweet Spanish Great Heirloom Vegetable 1 Lb Seeds",
+            "normalizedName": "Onion Yellow Sweet Spanish Great Heirloom Vegetable 1 Lb Seeds",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

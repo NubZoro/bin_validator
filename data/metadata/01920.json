@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "110198273X": {
+            "asin": "110198273X",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2913385732
+            },
+            "name": "The Devils of Cardona",
+            "normalizedName": "The Devils of Cardona",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.410944074725587
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.5354330642
+            }
+        },
+        "B00004RAGL": {
+            "asin": "B00004RAGL",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Apex REM 15 15-Foot Connector Hose Remnants, Colors May Vary",
+            "normalizedName": "Apex REM 15 15-Foot Connector Hose Remnants, Colors May Vary",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999816268626116
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

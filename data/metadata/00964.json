@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1465049487": {
+            "asin": "1465049487",
+            "height": {
+                "unit": "IN",
+                "value": 0.1968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.7322834526
+            },
+            "name": "5 Seconds of Summer 2016 Square 12x12 Bravado",
+            "normalizedName": "5 Seconds of Summer 2016 Square 12x12 Bravado",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880326924443
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.6535432952
+            }
+        },
+        "B00R1QSDT6": {
+            "asin": "B00R1QSDT6",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Kitchen Utensils Cooking Set by Chefcoo&trade; Includes 8 Pieces Non-stick Cookware Gadgets - Masher, Spaghetti Server, Skimmer, Soup Ladle, Fish Slotted Turner, Whisk, Turner, Fork",
+            "normalizedName": "Kitchen Utensils Cooking Set by Chefcoo&trade; Includes 8 Pieces Non-stick Cookware Gadgets - Masher, Spaghetti Server, Skimmer, Soup Ladle, Fish Slotted Turner, Whisk, Turner, Fork",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B01ARGC0QI": {
+            "asin": "B01ARGC0QI",
+            "height": {
+                "unit": "IN",
+                "value": 2.1252
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.75
+            },
+            "name": "Barbie Holiday Dress Doll",
+            "normalizedName": "Barbie Holiday Dress Doll",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4872
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

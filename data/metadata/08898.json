@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001AMRVO0": {
+            "asin": "B001AMRVO0",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "Naturepedic PT65W Organic Waterproof Twin Mattress Pad",
+            "normalizedName": "Naturepedic PT65W Organic Waterproof Twin Mattress Pad",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.299999986434
+            }
+        },
+        "B01EWB91ZC": {
+            "asin": "B01EWB91ZC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.699999982966
+            },
+            "name": "LINGBAO JIGUANSHI 87 Keys Computer Wired USB Gaming Backlit Metal Panels Mechanical Keyboard (Blue Light, Sliver Bezel, White Cap, Blue Switches)",
+            "normalizedName": "LINGBAO JIGUANSHI 87 Keys Computer Wired USB Gaming Backlit Metal Panels Mechanical Keyboard (Blue Light, Sliver Bezel, White Cap, Blue Switches)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0723241097532057
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

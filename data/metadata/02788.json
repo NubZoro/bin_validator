@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004IM8I50": {
+            "asin": "B004IM8I50",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Hairdo Clip-In Bangs by Jessica Simpson and Ken Paves - R14/25",
+            "normalizedName": "Hairdo Clip-In Bangs by Jessica Simpson and Ken Paves - R14/25",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B0077QI5Q6": {
+            "asin": "B0077QI5Q6",
+            "height": {
+                "unit": "IN",
+                "value": 1.249999998725
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "name": "Nature's Kiss Peppermint India Essential Oil, 0.34-Ounce",
+            "normalizedName": "Nature's Kiss Peppermint India Essential Oil, 0.34-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B0161IJ5F0": {
+            "asin": "B0161IJ5F0",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "LIFX Color 1000 A19 Wi-Fi Smart LED Light Bulb, Adjustable, Multicolor, Dimmable, No Hub Required, Works with Alexa",
+            "normalizedName": "LIFX Color 1000 A19 Wi-Fi Smart LED Light Bulb, Adjustable, Multicolor, Dimmable, No Hub Required, Works with Alexa",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

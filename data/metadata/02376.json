@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0071834265": {
+            "asin": "0071834265",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "CompTIA Security+ Certification Bundle, Second Edition (Exam SY0-401) (Certification Press)",
+            "normalizedName": "CompTIA Security+ Certification Bundle, Second Edition (Exam SY0-401) (Certification Press)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B01ASVCTGI": {
+            "asin": "B01ASVCTGI",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Fisher-Price Laugh & Learn Light Up Learning Speaker",
+            "normalizedName": "Fisher-Price Laugh & Learn Light Up Learning Speaker",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

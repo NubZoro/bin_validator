@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008872BTU": {
+            "asin": "B008872BTU",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "Ludwig Atlas Pro II Snare Stand",
+            "normalizedName": "Ludwig Atlas Pro II Snare Stand",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.199999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

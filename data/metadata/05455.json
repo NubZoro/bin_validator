@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1590581849": {
+            "asin": "1590581849",
+            "height": {
+                "unit": "IN",
+                "value": 0.90157480223
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.40157479458
+            },
+            "name": "Three Can Keep A Secret (Stella Crown Series)",
+            "normalizedName": "Three Can Keep A Secret (Stella Crown Series)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0500176614536
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.59842519114
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000PDLXI0": {
+            "asin": "B000PDLXI0",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Powermaster 17294 Alternator",
+            "normalizedName": "Powermaster 17294 Alternator",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B000Q5PG5I": {
+            "asin": "B000Q5PG5I",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Stanley 016013R 16\" Series 2000 Tool Box with Tray",
+            "normalizedName": "Stanley 016013R 16\" Series 2000 Tool Box with Tray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3999999979873827
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B0095APEOI": {
+            "asin": "B0095APEOI",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "American Fireglass Fireplace and Firepit Eco Glass, 10-Pound, Sapphire Blue",
+            "normalizedName": "American Fireglass Fireplace and Firepit Eco Glass, 10-Pound, Sapphire Blue",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.34999999551354
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B009DL2TBA": {
+            "asin": "B009DL2TBA",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "PlayStation 3 500 GB System",
+            "normalizedName": "PlayStation 3 500 GB System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.449999994591091
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.199999986536
+            }
+        },
+        "B01DUOFOIK": {
+            "asin": "B01DUOFOIK",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Simian Insulated 40oz Water Bottle Travel Flask for Hot or Cold Drinks (Green)",
+            "normalizedName": "Simian Insulated 40oz Water Bottle Travel Flask for Hot or Cold Drinks (Green)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

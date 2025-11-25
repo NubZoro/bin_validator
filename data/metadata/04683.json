@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HSOAS1M": {
+            "asin": "B00HSOAS1M",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Arc'teryx Lunara 10 Black One Size",
+            "normalizedName": "Arc'teryx Lunara 10 Black One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7472162237070574
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B00IAY6HAA": {
+            "asin": "B00IAY6HAA",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "PackIt Freezable Lunch Bag with Zip Closure, Ziggy",
+            "normalizedName": "PackIt Freezable Lunch Bag with Zip Closure, Ziggy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00TCIK6BY": {
+            "asin": "B00TCIK6BY",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Galaxy Note 2 Case,[Pink] [Back Pocket Case] [5 Card Slot] [KickStand] Finger Holder Clip PU Leather TPU Bumper Clutch Case [Drop Protection] For Samsung Galaxy Note 2 ACN2PK",
+            "normalizedName": "Galaxy Note 2 Case,[Pink] [Back Pocket Case] [5 Card Slot] [KickStand] Finger Holder Clip PU Leather TPU Bumper Clutch Case [Drop Protection] For Samsung Galaxy Note 2 ACN2PK",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00YXTOMEY": {
+            "asin": "B00YXTOMEY",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Arc'teryx Perimeter Short - Men's Castor Grey 32",
+            "normalizedName": "Arc'teryx Perimeter Short - Men's Castor Grey 32",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.23999999979873823
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000WIUKIW": {
+            "asin": "B000WIUKIW",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Luxury Brands Noodler's Bottle 3 Ounce Refill, Eel Blue (19203)",
+            "normalizedName": "Luxury Brands Noodler's Bottle 3 Ounce Refill, Eel Blue (19203)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B00UJGTPQU": {
+            "asin": "B00UJGTPQU",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Blend Friend Tanning Mitt Set",
+            "normalizedName": "Blend Friend Tanning Mitt Set",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

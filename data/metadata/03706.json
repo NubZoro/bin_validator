@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004J4W7D6": {
+            "asin": "B004J4W7D6",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Scilogex 71311106 MicroPette Plus Single-Channel Variable Volume Pipettor, 5-50 microliter Volume",
+            "normalizedName": "Scilogex 71311106 MicroPette Plus Single-Channel Variable Volume Pipettor, 5-50 microliter Volume",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B005I0363U": {
+            "asin": "B005I0363U",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Goody Styling Essentials Goody Brush/Comb, Purse Professional (Pack of 3)",
+            "normalizedName": "(Pack of 3) Goody Styling Essentials Goody Brush/Comb, Purse Professional",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B01AMBFD80": {
+            "asin": "B01AMBFD80",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Mele & Co. Clarice Girl's Musical Ballerina Jewelry Box",
+            "normalizedName": "Mele & Co. Clarice Girl's Musical Ballerina Jewelry Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

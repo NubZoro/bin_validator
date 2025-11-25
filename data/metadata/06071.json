@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014VBH29U": {
+            "asin": "B014VBH29U",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "AmazonBasics 4-Piece Packing Cube Set - Small, Red",
+            "normalizedName": "AmazonBasics 4-Piece Packing Cube Set - Small, Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B018FSZOUO": {
+            "asin": "B018FSZOUO",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Ink Blue Table Linen 4 Seater Round Tablecloth- Premium Cotton Fabric 60 Inch Diameter",
+            "normalizedName": "Ink Blue Table Linen 4 Seater Round Tablecloth- Premium Cotton Fabric 60 Inch Diameter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B01AUIM5D6": {
+            "asin": "B01AUIM5D6",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "uxcell\u00ae AC90~250V to DC12V 150 Watt Transformer IP67 Waterproof LED Driver Power Supply",
+            "normalizedName": "uxcell\u00ae AC90~250V to DC12V 150 Watt Transformer IP67 Waterproof LED Driver Power Supply",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

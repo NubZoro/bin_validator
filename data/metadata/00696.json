@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009GZNIY": {
+            "asin": "B0009GZNIY",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "Oreck Vacuum Cleaner Bags To Fit Style 713 or type CC Upright Models 8 pk.",
+            "normalizedName": "Oreck Vacuum Cleaner Bags To Fit Style 713 or type CC Upright Models 8 pk.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00VTCBQS8": {
+            "asin": "B00VTCBQS8",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "6 Units - Mogami 2524 - 6 Inch - Guitar Bass Effects Instrument, Patch Cable with Premium Gold Plated \u00bc Inch (6.35mm) Low-Profile, Right Angled Pancake type TS Connectors",
+            "normalizedName": "6 Units - Mogami 2524 - 6 Inch - Guitar Bass Effects Instrument, Patch Cable with Premium Gold Plated \u00bc Inch (6.35mm) Low-Profile, Right Angled Pancake type TS Connectors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

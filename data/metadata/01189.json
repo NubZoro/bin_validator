@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LSUK3YY": {
+            "asin": "B00LSUK3YY",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "TheraFlu Multi Symptom Severe Cold Cough, Green Tea and Honey Lemon, 12 Count",
+            "normalizedName": "TheraFlu Multi Symptom Severe Cold Cough, Green Tea and Honey Lemon, 12 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B0156J3PUQ": {
+            "asin": "B0156J3PUQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Ultra Seal 1 Gallon Pitcher",
+            "normalizedName": "Ultra Seal 1 Gallon Pitcher",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

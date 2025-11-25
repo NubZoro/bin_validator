@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "630306678X": {
+            "asin": "630306678X",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "The Johnny Carson Collection - The Tonight Show [VHS]",
+            "normalizedName": "The Johnny Carson Collection - The Tonight Show [VHS]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B003YUOP0O": {
+            "asin": "B003YUOP0O",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "My Butterfly Collection - Animated Butterfly in a Jar - Blue Morpho",
+            "normalizedName": "My Butterfly Collection - Animated Butterfly in a Jar - Blue Morpho",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00T2CS46E": {
+            "asin": "B00T2CS46E",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Ruggies\u2122 16-Piece Non-Slip Rug Gripper Value Pack (As Seen On TV)",
+            "normalizedName": "Ruggies\u2122 16-Piece Non-Slip Rug Gripper Value Pack (As Seen On TV)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00UF60ELO": {
+            "asin": "B00UF60ELO",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "2 CLASSIC WHITE CANDLES IN GLASS, 8-INCHES TALL",
+            "normalizedName": "2 CLASSIC WHITE CANDLES IN GLASS, 8-INCHES TALL",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

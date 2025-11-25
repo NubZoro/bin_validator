@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004BSUY1W": {
+            "asin": "B004BSUY1W",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "Hello Kitty Bluetooth Headset Kit (KT4700)",
+            "normalizedName": "Hello Kitty Bluetooth Headset Kit (KT4700)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

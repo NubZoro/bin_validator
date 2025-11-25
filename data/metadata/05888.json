@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00L0YLJJG": {
+            "asin": "B00L0YLJJG",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "NZXT Kraken X61 280mm All-in-One Liquid Cooling System RL-KRX61-01",
+            "normalizedName": "NZXT Kraken X61 280mm All-in-One Liquid Cooling System RL-KRX61-01",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B00MUEHPGQ": {
+            "asin": "B00MUEHPGQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "PriorityChef Potato Ricer and Masher, Premium Anti-Rust 18/10 Stainless Steel, Soft Touch Black Silicone Handles",
+            "normalizedName": "PriorityChef Potato Ricer and Masher, Premium Anti-Rust 18/10 Stainless Steel, Soft Touch Black Silicone Handles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0018DPN00": {
+            "asin": "B0018DPN00",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Jumbo Pokeno Game",
+            "normalizedName": "Jumbo Pokeno Game",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

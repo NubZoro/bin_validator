@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000G71HYA": {
+            "asin": "B000G71HYA",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "CytoSport Cyto Gainer Protein Drink Mix, Chocolate Malt, 6 Pound",
+            "normalizedName": "CytoSport Cyto Gainer Protein Drink Mix, Chocolate Malt, 6 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B000GLQALG": {
+            "asin": "B000GLQALG",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "Genuine Joe GJO02152 2-Ply Low Density Can Liner, 60 gallon Capacity, 0.90 mil Thickness, Black/Brown (Case of 100)",
+            "normalizedName": "(Case of 100) Genuine Joe GJO02152 2-Ply Low Density Can Liner, 60 gallon Capacity, 0.90 mil Thickness, Black/Brown",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.399999987352
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

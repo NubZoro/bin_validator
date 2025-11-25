@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DYE2I7W": {
+            "asin": "B00DYE2I7W",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Harley Davidson Camo Fleece Throw",
+            "normalizedName": "Harley Davidson Camo Fleece Throw",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B016EY33P4": {
+            "asin": "B016EY33P4",
+            "height": {
+                "unit": "IN",
+                "value": 1.499996998470003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099985792758014
+            },
+            "name": "Innoo Tech Digital Infrared Thermometer Forehead Baby Thermometer Non-Contact Medical Measurement. Infrared Thermometer Home Pediatric Use Instant Results with 30 Reading Memory Recall",
+            "normalizedName": "Innoo Tech Digital Infrared Thermometer Forehead Baby Thermometer Non-Contact Medical Measurement. Infrared Thermometer Home Pediatric Use Instant Results with 30 Reading Memory Recall",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.32999998196926505
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.8999921960220085
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

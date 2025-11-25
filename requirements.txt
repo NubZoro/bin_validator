@@ -1,0 +1,22 @@
+streamlit>=1.25
+pillow
+pandas
+numpy
+opencv-python
+tqdm
+bcrypt
+git+https://github.com/openai/CLIP.git
+faiss-cpu
+git+https://github.com/IDEA-Research/GroundingDINO.git
+opencv-python
+numpy
+Pillow
+torch
+tqdm
+transformers
+scikit-learn
+
+# add your framework below if used:
+# torch
+# torchvision
+# tensorflow

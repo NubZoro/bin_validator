@@ -1,0 +1,87 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005MTVBRA": {
+            "asin": "B005MTVBRA",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Grohe 20294000 Eurosmart 2-handle Bathroom Faucet",
+            "normalizedName": "Grohe 20294000 Eurosmart 2-handle Bathroom Faucet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        },
+        "B00HNI4Q6Q": {
+            "asin": "B00HNI4Q6Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Dazzling Toys Neon Colored Plastic Gangster Hats Kids Costume Party Booth Hats 12 Pack",
+            "normalizedName": "12 Pack Dazzling Toys Neon Colored Plastic Gangster Hats Kids Costume Party Booth Hats",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B01F3CBKJO": {
+            "asin": "B01F3CBKJO",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.0
+            },
+            "name": "2Tuf2Tap Muay Thai Gloves Silver and Black (14 oz)",
+            "normalizedName": "2Tuf2Tap Muay Thai Gloves Silver and Black (14 oz)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        },
+        "B01FOKCJOK": {
+            "asin": "B01FOKCJOK",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.0
+            },
+            "name": "2Tuf2Tap Pro Boxing Leather Gloves 100% Cowhide MMA Muay Thai Kickboxing Gloves Adult 10, 12, 14 ,16 oz Black and White (14 oz)",
+            "normalizedName": "2Tuf2Tap Pro Boxing Leather Gloves 100% Cowhide MMA Muay Thai Kickboxing Gloves Adult 10, 12, 14 ,16 oz Black and White (14 oz)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

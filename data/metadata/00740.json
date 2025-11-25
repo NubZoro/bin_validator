@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D7H9LIA": {
+            "asin": "B00D7H9LIA",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "HotHands Hand Warmers 10 Pair Value Pack",
+            "normalizedName": "HotHands Hand Warmers 10 Pair Value Pack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B01FM13SWI": {
+            "asin": "B01FM13SWI",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "iPhone 5s Case, Roybens TPU Shockproof Case Cover with Carbon Fiber Grip Back Pattern for Apple iPhone SE (2016) / 5s (2013) / 5 (2012), Carbon Fiber Black",
+            "normalizedName": "iPhone 5s Case, Roybens TPU Shockproof Case Cover with Carbon Fiber Grip Back Pattern for Apple iPhone SE (2016) / 5s (2013) / 5 (2012), Carbon Fiber Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.07999999993291275
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

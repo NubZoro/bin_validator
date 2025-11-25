@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00T0BUBI6": {
+            "asin": "B00T0BUBI6",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Gatorade Whey Protein Recover Bars, Chocolate Chip 2.8 ounce bars (12 Count)",
+            "normalizedName": "Gatorade Whey Protein Recover Bars, Chocolate Chip 2.8 ounce bars (12 Count)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00T4Y7UR4": {
+            "asin": "B00T4Y7UR4",
+            "height": {
+                "unit": "IN",
+                "value": 0.749999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Vega Holsters IWB James Bond. Suede Holster, Brown Suede, Medium Autos. V",
+            "normalizedName": "Vega Holsters IWB James Bond. Suede Holster, Brown Suede, Medium Autos. V",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

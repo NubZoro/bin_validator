@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KSTC47K": {
+            "asin": "B00KSTC47K",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Towall Black Short Sports Leather Motorcycle Motorbike Summer Gloves (XL)",
+            "normalizedName": "Towall Black Short Sports Leather Motorcycle Motorbike Summer Gloves (XL)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00N12UZ3Q": {
+            "asin": "B00N12UZ3Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Baldwin 5080.150.IDM Solid Brass Door Knob",
+            "normalizedName": "Baldwin 5080.150.IDM Solid Brass Door Knob",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

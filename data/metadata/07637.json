@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JH8M28O": {
+            "asin": "B00JH8M28O",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "Fisher-Price Loving Family Mom Figure",
+            "normalizedName": "Fisher-Price Loving Family Mom Figure",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.4645669256
+            }
+        },
+        "B00XQ37ZF6": {
+            "asin": "B00XQ37ZF6",
+            "height": {
+                "unit": "IN",
+                "value": 2.9921259812
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299212592
+            },
+            "name": "Urbanears PLATTAN ADV Wireless On-Ear Headphones (Dark Grey)",
+            "normalizedName": "Urbanears PLATTAN ADV Wireless On-Ear Headphones (Dark Grey)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560420331426
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0629921198
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

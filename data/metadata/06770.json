@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00SOGBIBM": {
+            "asin": "B00SOGBIBM",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Outdoor Water Bottle 32 Ounce - Leakproof - Sturdy - Lightweight - Unbreakable - Easy to Carry - Great for Hiking - Camping - Traveling",
+            "normalizedName": "Outdoor Water Bottle 32 Ounce - Leakproof - Sturdy - Lightweight - Unbreakable - Easy to Carry - Great for Hiking - Camping - Traveling",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00UDIO1SQ": {
+            "asin": "B00UDIO1SQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Organic Sambar Powder - \u2605 USDA Certified Organic - \u2605 European Union Certified Organic - \u2605 Pesticides Free - \u2605 Adulteration Free - \u2605 Sodium Free - Pack of 4 X 3.5 Ounces (14 Ounces) - 24 Mantra Organic",
+            "normalizedName": "Pack of 4 Organic Sambar Powder - \u2605 USDA Certified Organic - \u2605 European Union Certified Organic - \u2605 Pesticides Free - \u2605 Adulteration Free - \u2605 Sodium Free - X 3.5 Ounces (14 Ounces) - 24 Mantra Organic",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

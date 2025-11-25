@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "2035700035": {
+            "asin": "2035700035",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Larousse Pocket French-English/English-French Dictionary (English and French Edition)",
+            "normalizedName": "Larousse Pocket French-English/English-French Dictionary (English and French Edition)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00HUJ4KAU": {
+            "asin": "B00HUJ4KAU",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Wrights Disney Mickey Mouse Mickey with Silhouette Iron-On Applique",
+            "normalizedName": "Wrights Disney Mickey Mouse Mickey with Silhouette Iron-On Applique",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00ZC4R5HU": {
+            "asin": "B00ZC4R5HU",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Carry360 20M 66FT Garden Outdoor Patio Home Misting Cooling System With 20PCS Plastic Mist Nozzle And Quick Coupling",
+            "normalizedName": "Carry360 20M 66FT Garden Outdoor Patio Home Misting Cooling System With 20PCS Plastic Mist Nozzle And Quick Coupling",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

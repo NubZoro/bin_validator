@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01DGIKB9M": {
+            "asin": "B01DGIKB9M",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Crayola Erasable Colored Pencils Boxes (Set of 12)",
+            "normalizedName": "(Set of 12) Crayola Erasable Colored Pencils Boxes",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

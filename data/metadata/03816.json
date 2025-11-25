@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0027Z8VES": {
+            "asin": "B0027Z8VES",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Kicking Horse Coffee, Kick Ass, Whole Bean Coffee, 2.2 Pound",
+            "normalizedName": "Kicking Horse Coffee, Kick Ass, Whole Bean Coffee, 2.2 Pound",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.449999997945453
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993777999
+            }
+        },
+        "B00DTV0UDE": {
+            "asin": "B00DTV0UDE",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Spinrite Wonderart Latch Hook Kit, 8 by 8-Inch, Sailboat",
+            "normalizedName": "Spinrite Wonderart Latch Hook Kit, 8 by 8-Inch, Sailboat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00T595B7E": {
+            "asin": "B00T595B7E",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Duck Brand 240979 Color Duck Tape, You're A Sage, 1.88-Inch by 20 Yards, Single Roll",
+            "normalizedName": "Duck Brand 240979 Color Duck Tape, You're A Sage, 1.88-Inch by 20 Yards, Single Roll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B017OQ1RB8": {
+            "asin": "B017OQ1RB8",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Lumia 550 Case, LK [Heavy Duty] Dual Layer Armor Holster Defender Full Body Protective Hybrid Case Cover with Belt Clip for Microsoft Lumia 550",
+            "normalizedName": "Lumia 550 Case, LK [Heavy Duty] Dual Layer Armor Holster Defender Full Body Protective Hybrid Case Cover with Belt Clip for Microsoft Lumia 550",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

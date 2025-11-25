@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012MGT7IA": {
+            "asin": "B012MGT7IA",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Marvel Legends Series Agents of Shield Mockingbird",
+            "normalizedName": "Marvel Legends Series Agents of Shield Mockingbird",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B0172IER1K": {
+            "asin": "B0172IER1K",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Delicates Laundry Bag - 6 Lingerie Bags for Laundry - Premium Quality Mesh - Perfect to protect Bras in Washing Machine & Dryer - Essential to Separate, Sort and Organize during Travel - Black & White",
+            "normalizedName": "Delicates Laundry Bag - 6 Lingerie Bags for Laundry - Premium Quality Mesh - Perfect to protect Bras in Washing Machine & Dryer - Essential to Separate, Sort and Organize during Travel - Black & White",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

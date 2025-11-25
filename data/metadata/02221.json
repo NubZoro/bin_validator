@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013L0D2A": {
+            "asin": "B0013L0D2A",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "BoatMates Stainless 3 Rod Organizer",
+            "normalizedName": "BoatMates Stainless 3 Rod Organizer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.799999985924
+            }
+        },
+        "B0013REXO8": {
+            "asin": "B0013REXO8",
+            "height": {
+                "unit": "IN",
+                "value": 4.1732283422
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.7086614064
+            },
+            "name": "Rugged Ridge 11226.02 Black Rear Euro Tail Light Guard - Pair",
+            "normalizedName": "Rugged Ridge 11226.02 Black Rear Euro Tail Light Guard - Pair",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8800962054953643
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.267716527
+            }
+        },
+        "B01ATYK3M6": {
+            "asin": "B01ATYK3M6",
+            "height": {
+                "unit": "IN",
+                "value": 1.6999999982660001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.399999983271996
+            },
+            "name": "EatSmart Precision 550 Extra Wide Digital Bath Scale w/ 550 LB Capacity Stainless Steel",
+            "normalizedName": "EatSmart Precision 550 Extra Wide Digital Bath Scale w/ 550 LB Capacity Stainless Steel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.549999993668641
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.99999998572
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

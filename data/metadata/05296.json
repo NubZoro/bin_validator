@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001P3NU30": {
+            "asin": "B001P3NU30",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Virbac C.E.T. Enzymatic Oral Hygiene Chews, Large Dog, 30 Count",
+            "normalizedName": "Virbac C.E.T. Enzymatic Oral Hygiene Chews, Large Dog, 30 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00YXFI0FK": {
+            "asin": "B00YXFI0FK",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "mkool Cute Frog Potty Training Urinal for Boys with Funny Aiming Target",
+            "normalizedName": "mkool Cute Frog Potty Training Urinal for Boys with Funny Aiming Target",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000XANGL2": {
+            "asin": "B000XANGL2",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Jolees Boutique Vellum Layered Dimensional Stickers, Waves",
+            "normalizedName": "Jolees Boutique Vellum Layered Dimensional Stickers, Waves",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00368CAV0": {
+            "asin": "B00368CAV0",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Franklin Brass 64044 Paisley Single Duplex Outlet Wall Plate / Switch Plate / Cover, Brushed Satin Pewter",
+            "normalizedName": "Franklin Brass 64044 Paisley Single Duplex Outlet Wall Plate / Switch Plate / Cover, Brushed Satin Pewter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B017AD1TNG": {
+            "asin": "B017AD1TNG",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Bauxko 1 3/4\" x 1 3/4\" x 6\" Kraft Reverse Tuck Folding Cartons, 25-Pack (xRTS87-25)",
+            "normalizedName": "25-Pack Bauxko 1 3/4\" x 1 3/4\" x 6\" Kraft Reverse Tuck Folding Cartons, (xRTS87-25)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01G0WCO82": {
+            "asin": "B01G0WCO82",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Haven 4 in 1 Multiple USB Charging Cable Adapter Connector with 8 Pin Lighting / 30 Pin / Micro USB / Mini USB Ports for iPhone 6s, iPad, Samsung, More (White/Blue)",
+            "normalizedName": "Haven 4 in 1 Multiple USB Charging Cable Adapter Connector with 8 Pin Lighting / 30 Pin / Micro USB / Mini USB Ports for iPhone 6s, iPad, Samsung, More (White/Blue)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

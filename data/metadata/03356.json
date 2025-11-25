@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005SD2606": {
+            "asin": "B005SD2606",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "U2: From The Sky Down [Blu-ray]",
+            "normalizedName": "U2: From The Sky Down [Blu-ray]",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00AD5KK7K": {
+            "asin": "B00AD5KK7K",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "mophie juice pack Helium for iPhone 5/5s/5se (1,500mAh) - Silver",
+            "normalizedName": "mophie juice pack Helium for iPhone 5/5s/5se (1,500mAh) - Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01FX0IF2G": {
+            "asin": "B01FX0IF2G",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "LED Headlamp, Levin Zoomable LED Track Light 3 Modes Rechargeable Battery Powered Hands-free Perfect for Night Walk, Riding, Climbing, Fishing, Camping and Other Outdoor Sports",
+            "normalizedName": "LED Headlamp, Levin Zoomable LED Track Light 3 Modes Rechargeable Battery Powered Hands-free Perfect for Night Walk, Riding, Climbing, Fishing, Camping and Other Outdoor Sports",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995205999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

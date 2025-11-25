@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "059306612X": {
+            "asin": "059306612X",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.6850393602
+            },
+            "name": "Magic of Reality: How We Know What's Really True",
+            "normalizedName": "Magic of Reality: How We Know What's Really True",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.56
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.7165354252
+            }
+        },
+        "B00F3ZTW56": {
+            "asin": "B00F3ZTW56",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "2850871 Hella Lighting",
+            "normalizedName": "2850871 Hella Lighting",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00OXQ132G": {
+            "asin": "B00OXQ132G",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "It's Exciting Lighting Lighting Battery Powered Burlwood Style LED Indoor/Outdoor Wall Sconce",
+            "normalizedName": "It's Exciting Lighting Lighting Battery Powered Burlwood Style LED Indoor/Outdoor Wall Sconce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

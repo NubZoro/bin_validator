@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00451UN84": {
+            "asin": "B00451UN84",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.49999998317
+            },
+            "name": "Blue Monkey 100% Natural Coconut Water, 11.2-Ounce (Pack of 24)",
+            "normalizedName": "(Pack of 24) Blue Monkey 100% Natural Coconut Water, 11.2-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 20.699999982641174
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        },
+        "B00R2C9O0G": {
+            "asin": "B00R2C9O0G",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "The 4th Magic Generation Convenient Adjustable Clothes Folding Board",
+            "normalizedName": "The 4th Magic Generation Convenient Adjustable Clothes Folding Board",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

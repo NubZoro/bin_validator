@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00188IFHS": {
+            "asin": "B00188IFHS",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "WEN Lavender Cleansing Conditioner 16oz",
+            "normalizedName": "WEN Lavender Cleansing Conditioner 16oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B001DZ7AIQ": {
+            "asin": "B001DZ7AIQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Motorola H505 Bluetooth Headset (Black) [Bulk Packaging]",
+            "normalizedName": "Motorola H505 Bluetooth Headset (Black) [Bulk Packaging]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

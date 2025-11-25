@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000223T7": {
+            "asin": "B0000223T7",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Mirka 23-615-120 5-Inch 8-Hole 120-Grit Dustless Hook and Loop Sanding Discs, 50-Pack",
+            "normalizedName": "50-Pack Mirka 23-615-120 5-Inch 8-Hole 120-Grit Dustless Hook and Loop Sanding Discs,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00ZBHK0N4": {
+            "asin": "B00ZBHK0N4",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "MDW Silicon Holder for Fitbit Flex- Wear Your Fitbit Flex in Style on Necklace, Key Chain (1 pcs red)",
+            "normalizedName": "MDW Silicon Holder for Fitbit Flex- Wear Your Fitbit Flex in Style on Necklace, Key Chain (1 pcs red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

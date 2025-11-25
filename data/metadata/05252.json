@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IRH7RQI": {
+            "asin": "B00IRH7RQI",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "PaciGrip - Universal Pacifier Holder with Clip, that is compatible with all types of pacifiers",
+            "normalizedName": "PaciGrip - Universal Pacifier Holder with Clip, that is compatible with all types of pacifiers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00WKUC0SI": {
+            "asin": "B00WKUC0SI",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Keurig, Green Mountain Coffee, Nantucket Blend, K-Cup packs, 12 count",
+            "normalizedName": "Keurig, Green Mountain Coffee, Nantucket Blend, K-Cup packs, 12 count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00XM0GIQU": {
+            "asin": "B00XM0GIQU",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Camilia Teething Relief 10 Dose",
+            "normalizedName": "Camilia Teething Relief 10 Dose",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

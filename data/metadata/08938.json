@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000TS6OGM": {
+            "asin": "B000TS6OGM",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "Alka-seltzer Extra Strength, 24-Count",
+            "normalizedName": "Alka-seltzer Extra Strength, 24-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00A9X4XII": {
+            "asin": "B00A9X4XII",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Funny Guy Mugs Calm You Shall Keep And Carry On You Must Ceramic Coffee Mug, Green, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Calm You Shall Keep And Carry On You Must Ceramic Coffee Mug, Green, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01463U4D4": {
+            "asin": "B01463U4D4",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "name": "CoverGirl Star Wars Limited Edition Colorlicious Lipstick, Red No. 30, 0.12 Ounce",
+            "normalizedName": "CoverGirl Star Wars Limited Edition Colorlicious Lipstick, Red No. 30, 0.12 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.07999999993291275
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.799999999184
+            }
+        },
+        "B019BE97ZE": {
+            "asin": "B019BE97ZE",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Angelique Monet \u2013 Anti Aging Cream with Natural Plant Stem Cell & Vitamin C, 1 oz.",
+            "normalizedName": "Angelique Monet \u2013 Anti Aging Cream with Natural Plant Stem Cell & Vitamin C, 1 oz.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

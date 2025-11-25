@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0023541458": {
+            "asin": "0023541458",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Petrography to Petrogenesis",
+            "normalizedName": "Petrography to Petrogenesis",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B00LTYZSLC": {
+            "asin": "B00LTYZSLC",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Covered Charcoal Cooking",
+            "normalizedName": "Covered Charcoal Cooking",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00U190D1Q": {
+            "asin": "B00U190D1Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.0944881848
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.1968503833
+            },
+            "name": "Frostfire Solar Wall Light with PIR Motion Sensor",
+            "normalizedName": "Frostfire Solar Wall Light with PIR Motion Sensor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2345760664201924
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.3228346382
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

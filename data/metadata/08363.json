@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FZMTRFW": {
+            "asin": "B00FZMTRFW",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.236220462
+            },
+            "name": "MODONA 6960-A Towel Ring Chrome Victoria Series",
+            "normalizedName": "MODONA 6960-A Towel Ring Chrome Victoria Series",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.086614166
+            }
+        },
+        "B01DNC0REU": {
+            "asin": "B01DNC0REU",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "GoFriend\u00ae 2000pcs Artificial Fabric Silk Flower Rose Petals Wedding Party Bridal Decoration (White)",
+            "normalizedName": "GoFriend\u00ae 2000pcs Artificial Fabric Silk Flower Rose Petals Wedding Party Bridal Decoration (White)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

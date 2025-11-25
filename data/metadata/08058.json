@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CMWCT26": {
+            "asin": "B00CMWCT26",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "HP Prime Graphing Calculator",
+            "normalizedName": "HP Prime Graphing Calculator",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00KWHIZPI": {
+            "asin": "B00KWHIZPI",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Disney Infinity: Marvel Super Heroes (2.0 Edition) Spider Man Play Set - Not Machine Specific",
+            "normalizedName": "Disney Infinity: Marvel Super Heroes (2.0 Edition) Spider Man Play Set - Not Machine Specific",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

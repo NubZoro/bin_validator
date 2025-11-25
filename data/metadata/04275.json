@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0028OOHHS": {
+            "asin": "B0028OOHHS",
+            "height": {
+                "unit": "IN",
+                "value": 2.2047244072
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.448818888
+            },
+            "name": "Dawn Ultra Antibacterial Hand Soap Dishwashing Liquid, Green, Apple Blossom Scent,  24 Ounce (Pack of 2)",
+            "normalizedName": "(Pack of 2) Dawn Ultra Antibacterial Hand Soap Dishwashing Liquid, Green, Apple Blossom Scent,  24 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7195880925138394
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        },
+        "B00MJRPFU2": {
+            "asin": "B00MJRPFU2",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Dogswell Vitality Grillers Duck Tenders, 13.5oz.",
+            "normalizedName": "Dogswell Vitality Grillers Duck Tenders, 13.5oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

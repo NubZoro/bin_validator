@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0312515839": {
+            "asin": "0312515839",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "First 100 Words Bilingual (Spanish Edition)",
+            "normalizedName": "First 100 Words Bilingual (Spanish Edition)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B00FH0U90Y": {
+            "asin": "B00FH0U90Y",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Michelle Obama Bobblehead",
+            "normalizedName": "Michelle Obama Bobblehead",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00YQUDZNE": {
+            "asin": "B00YQUDZNE",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Etekcity 60 Glow Sticks Glasses / Eyeglasses Party Favors Supplies (Assorted Colors)",
+            "normalizedName": "Etekcity 60 Glow Sticks Glasses / Eyeglasses Party Favors Supplies (Assorted Colors)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.8999999975680875
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

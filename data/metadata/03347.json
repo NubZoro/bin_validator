@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003FGE1TC": {
+            "asin": "B003FGE1TC",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Kandoo Flushable Cleansing Kids Wipes for Travel, Sensitive, 42 Count (Pack of 12)",
+            "normalizedName": "(Pack of 12) Kandoo Flushable Cleansing Kids Wipes for Travel, Sensitive, 42 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.399999995471611
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00PNG3ENG": {
+            "asin": "B00PNG3ENG",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "name": "Avance WattPlus 2100mAh Ultra-Slim Battery Case for iPhone 5s - Retail Packaging - Red",
+            "normalizedName": "Avance WattPlus 2100mAh Ultra-Slim Battery Case for iPhone 5s - Retail Packaging - Red",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1565495306": {
+            "asin": "1565495306",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "The Nonprofit World: Civil Society and the Rise of the Nonprofit Sector",
+            "normalizedName": "The Nonprofit World: Civil Society and the Rise of the Nonprofit Sector",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B00LC8UOXW": {
+            "asin": "B00LC8UOXW",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "HemingWeigh Himalayan 5 1/2 - 6 Lb Salt Rock Animal Licks with Rope",
+            "normalizedName": "HemingWeigh Himalayan 5 1/2 - 6 Lb Salt Rock Animal Licks with Rope",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.700000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00YLAWEV8": {
+            "asin": "B00YLAWEV8",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Contigo Astor 2-pack Vacuum-Insulated Autoseal Easy Clean Lid Travel Tumblers Stainless / Berry.",
+            "normalizedName": "Contigo Astor 2-pack Vacuum-Insulated Autoseal Easy Clean Lid Travel Tumblers Stainless / Berry.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

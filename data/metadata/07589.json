@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000F839FA": {
+            "asin": "B000F839FA",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Intrepid International Engraved Roping Stirrups 2pack",
+            "normalizedName": "Intrepid International Engraved Roping Stirrups 2pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

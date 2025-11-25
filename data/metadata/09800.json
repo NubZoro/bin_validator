@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005AKZV5O": {
+            "asin": "B005AKZV5O",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "foneGear Universal Screen Protector for Most Small Tablets/Smartphones/GPS Devices - Retail Packaging - Clear",
+            "normalizedName": "foneGear Universal Screen Protector for Most Small Tablets/Smartphones/GPS Devices - Retail Packaging - Clear",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00BQYR0MA": {
+            "asin": "B00BQYR0MA",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Fisher-Price Disney's Jake and The Never Land Pirates: Never Land Treasure Pack",
+            "normalizedName": "Fisher-Price Disney's Jake and The Never Land Pirates: Never Land Treasure Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00KR79BMY": {
+            "asin": "B00KR79BMY",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Magnetic Door Stop (Pack of 2)",
+            "normalizedName": "(Pack of 2) Magnetic Door Stop",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

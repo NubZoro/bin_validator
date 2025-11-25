@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009KU344A": {
+            "asin": "B009KU344A",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.749999991075
+            },
+            "name": "Toysmith Ink-a-Do Tattoo Pens",
+            "normalizedName": "Toysmith Ink-a-Do Tattoo Pens",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B0155F4Z28": {
+            "asin": "B0155F4Z28",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Aubros Digital Luggage Scale Includes Bonus Lock & Tag for Stress-Free Travel",
+            "normalizedName": "Aubros Digital Luggage Scale Includes Bonus Lock & Tag for Stress-Free Travel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

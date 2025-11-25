@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003MR4QE4": {
+            "asin": "B003MR4QE4",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452
+            },
+            "name": "Staedtler Caligraphy Duo Markers, 3002C5",
+            "normalizedName": "Staedtler Caligraphy Duo Markers, 3002C5",
+            "quantity": 21,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.799999997144
+            }
+        },
+        "B01CQB7W7Y": {
+            "asin": "B01CQB7W7Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Orange Is The New Black: Season 3 [DVD + Digital]",
+            "normalizedName": "Orange Is The New Black: Season 3 [DVD + Digital]",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 23
+}

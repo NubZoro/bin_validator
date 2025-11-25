@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000V6BW14": {
+            "asin": "B000V6BW14",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Noni Mangosteen Goji Acai Juice Blend LifeTime 32 oz Liquid",
+            "normalizedName": "Noni Mangosteen Goji Acai Juice Blend LifeTime 32 oz Liquid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00KYQI7G4": {
+            "asin": "B00KYQI7G4",
+            "height": {
+                "unit": "IN",
+                "value": 6.13
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.06
+            },
+            "name": "Tervis Fiesta Sunny Plaid Tumbler, 16-Ounce, 4-Pack",
+            "normalizedName": "4-Pack Tervis Fiesta Sunny Plaid Tumbler, 16-Ounce,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.0
+            }
+        },
+        "B00MI50SIE": {
+            "asin": "B00MI50SIE",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Dixon Ticonderoga Beginners Primary Pencils, #2, Yellow, Box of 12 (13308) 2 Pack",
+            "normalizedName": "2 Pack Dixon Ticonderoga Beginners Primary Pencils, #2, Yellow, Box of 12 (13308)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

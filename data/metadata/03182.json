@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01A00BPKS": {
+            "asin": "B01A00BPKS",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "iPad Mini Case, iPad mini 2/3 Case - TheONE Stand Case with Auto Sleep/Wake Function for Apple iPad Mini, iPad Mini 2 & 3-\u00a0Dark Green",
+            "normalizedName": "iPad Mini Case, iPad mini 2/3 Case - TheONE Stand Case with Auto Sleep/Wake Function for Apple iPad Mini, iPad Mini 2 & 3-\u00a0Dark Green",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B01EHZ5CJM": {
+            "asin": "B01EHZ5CJM",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Blue TOGUARD 2.46\" LCD Full HD 1080P Dashcam Car Dvr Camera,Novatek NT96220,G-sensor,Motion Detection,Loop Recording,16GB Micro SDHC card included",
+            "normalizedName": "Blue TOGUARD 2.46\" LCD Full HD 1080P Dashcam Car Dvr Camera,Novatek NT96220,G-sensor,Motion Detection,Loop Recording,16GB Micro SDHC card included",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

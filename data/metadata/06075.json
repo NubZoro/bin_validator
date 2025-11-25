@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "6305090580": {
+            "asin": "6305090580",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Kundun",
+            "normalizedName": "Kundun",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B001I9TI4Q": {
+            "asin": "B001I9TI4Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "TerraLUX TLE-6EXB MiniStar5 140 Lumens, Led Conversion Kit for 2-3 Cell C&D MagLites",
+            "normalizedName": "TerraLUX TLE-6EXB MiniStar5 140 Lumens, Led Conversion Kit for 2-3 Cell C&D MagLites",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00IBGBN7O": {
+            "asin": "B00IBGBN7O",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Fisher-Price Little People Disney Ariel and Friends",
+            "normalizedName": "Fisher-Price Little People Disney Ariel and Friends",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

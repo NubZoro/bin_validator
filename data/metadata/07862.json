@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1285194942": {
+            "asin": "1285194942",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Great Writing 4: From Great Paragraphs to Great Essays",
+            "normalizedName": "Great Writing 4: From Great Paragraphs to Great Essays",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "1452203466": {
+            "asin": "1452203466",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Rhetoric in Popular Culture",
+            "normalizedName": "Rhetoric in Popular Culture",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B001T7GZQQ": {
+            "asin": "B001T7GZQQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Streamlight 69220 TLR-3 Weapon Mounted Tactical Light with Rail Locating Keys",
+            "normalizedName": "Streamlight 69220 TLR-3 Weapon Mounted Tactical Light with Rail Locating Keys",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01F6IVNO2": {
+            "asin": "B01F6IVNO2",
+            "height": {
+                "unit": "IN",
+                "value": 4.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "Meiliy Silk Artificial Hanging Lily Flower Bush for Wedding Home Party Garden Decor,White",
+            "normalizedName": "Meiliy Silk Artificial Hanging Lily Flower Bush for Wedding Home Party Garden Decor,White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.12
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

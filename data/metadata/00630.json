@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002138O4I": {
+            "asin": "B002138O4I",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Honey Stinger Organic Energy Chews, Cherry Blossom, 1.8 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Honey Stinger Organic Energy Chews, Cherry Blossom, 1.8 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00MGBMIEW": {
+            "asin": "B00MGBMIEW",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "MEE audio M9 Classic Hi-Fi Sound-Isolating In-Ear Headphones",
+            "normalizedName": "MEE audio M9 Classic Hi-Fi Sound-Isolating In-Ear Headphones",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

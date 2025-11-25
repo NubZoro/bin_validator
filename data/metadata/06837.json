@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008I1XPKA": {
+            "asin": "B008I1XPKA",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Brooklyn Beans Assorted Variety Pack Single-Cup Coffee for Keurig K-Cup Brewers, 40 Count",
+            "normalizedName": "Brooklyn Beans Assorted Variety Pack Single-Cup Coffee for Keurig K-Cup Brewers, 40 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00HK9HYFI": {
+            "asin": "B00HK9HYFI",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "SmartSign Aluminum OSHA Safety Sign, Legend \"Danger: Hard Hat Area\", 10\" high x 14\" wide, Black/Red on White",
+            "normalizedName": "SmartSign Aluminum OSHA Safety Sign, Legend \"Danger: Hard Hat Area\", 10\" high x 14\" wide, Black/Red on White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00UJPQMIK": {
+            "asin": "B00UJPQMIK",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "BigMouth Inc Pac-Man with Ghost Pool Float",
+            "normalizedName": "BigMouth Inc Pac-Man with Ghost Pool Float",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B01FNZKXTO": {
+            "asin": "B01FNZKXTO",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Zoostliss Hair Straightener Brush Electric Ceramic Straightening Brush Anti-Scald Hair Massage Straightening Irons",
+            "normalizedName": "Zoostliss Hair Straightener Brush Electric Ceramic Straightening Brush Anti-Scald Hair Massage Straightening Irons",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

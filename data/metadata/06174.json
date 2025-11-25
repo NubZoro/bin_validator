@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006P1VRB4": {
+            "asin": "B006P1VRB4",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "MEDLINE VENCV300XXL Coverall",
+            "normalizedName": "MEDLINE VENCV300XXL Coverall",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B01AWGZKX8": {
+            "asin": "B01AWGZKX8",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Ever After High Epic Winter Ashlynn Ella Doll",
+            "normalizedName": "Ever After High Epic Winter Ashlynn Ella Doll",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

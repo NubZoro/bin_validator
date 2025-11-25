@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01B19YW3Y": {
+            "asin": "B01B19YW3Y",
+            "height": {
+                "unit": "IN",
+                "value": 7.749999992095
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.849999986893
+            },
+            "name": "Metakoo HB 1/18 RC Car 2.4G 4WD 25km/h Rock Crawler Car Radio Remote Control Vehicle P1802 (Blue)",
+            "normalizedName": "Metakoo HB 1/18 RC Car 2.4G 4WD 25km/h Rock Crawler Car Radio Remote Control Vehicle P1802 (Blue)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9149999975555083
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.149999990667
+            }
+        },
+        "B01FZX2XX8": {
+            "asin": "B01FZX2XX8",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 19.399999980211998
+            },
+            "name": "Dell Optiplex 990 SFF Desktop Business Computer PC (Intel Quad-Core i5-2400 3.1GHz, 4GB DDR3 Memory, 250GB HDD, DVDRW, Windows 7 Professional) (Certified Refurbished)",
+            "normalizedName": "Dell Optiplex 990 SFF Desktop Business Computer PC (Intel Quad-Core i5-2400 3.1GHz, 4GB DDR3 Memory, 250GB HDD, DVDRW, Windows 7 Professional) (Certified Refurbished)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 15.799999986750269
+            },
+            "width": {
+                "unit": "IN",
+                "value": 15.599999984088
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

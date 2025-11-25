@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0052GFQCY": {
+            "asin": "B0052GFQCY",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.0708661386
+            },
+            "name": "SleepRight Nasal Breathe Aid, 1 ct.",
+            "normalizedName": "SleepRight Nasal Breathe Aid, 1 ct.",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.8346456664
+            }
+        },
+        "B0061P83MK": {
+            "asin": "B0061P83MK",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Flowline LM52-2410 PVC Reducer Bushing, 3\" Slip x 2\" NPT Thread",
+            "normalizedName": "Flowline LM52-2410 PVC Reducer Bushing, 3\" Slip x 2\" NPT Thread",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

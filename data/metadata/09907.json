@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00L47A9CC": {
+            "asin": "B00L47A9CC",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.799999983884002
+            },
+            "name": "PORTER-CABLE PCE606K 3-Amp Oscillating Multi-Tool Kit with 11 Accessories",
+            "normalizedName": "PORTER-CABLE PCE606K 3-Amp Oscillating Multi-Tool Kit with 11 Accessories",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006MY7HE": {
+            "asin": "B0006MY7HE",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Log Flume Joust Set",
+            "normalizedName": "Log Flume Joust Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6999999968972146
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00715CUEG": {
+            "asin": "B00715CUEG",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "National Geographic NG 2346 Earth Explorer Midi Messenger Bag",
+            "normalizedName": "National Geographic NG 2346 Earth Explorer Midi Messenger Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        },
+        "B00BR668J8": {
+            "asin": "B00BR668J8",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "3dRose fl_10719_1 Polar Bear Close-Up Garden Flag, 12 by 18-Inch",
+            "normalizedName": "3dRose fl_10719_1 Polar Bear Close-Up Garden Flag, 12 by 18-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000JTMCO4": {
+            "asin": "B000JTMCO4",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "STAEDTLER Triplus Mobile Office",
+            "normalizedName": "STAEDTLER Triplus Mobile Office",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.8110236202
+            }
+        },
+        "B008HQ8M6I": {
+            "asin": "B008HQ8M6I",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Always Xtra Protection Long Daily Liners Unscented 108 Count",
+            "normalizedName": "Always Xtra Protection Long Daily Liners Unscented 108 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

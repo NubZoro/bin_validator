@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1780747829": {
+            "asin": "1780747829",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Misquoting Muhammad: The Challenge and Choices of Interpreting the Prophet's Legacy",
+            "normalizedName": "Misquoting Muhammad: The Challenge and Choices of Interpreting the Prophet's Legacy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01AJTZ1AK": {
+            "asin": "B01AJTZ1AK",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999998878
+            },
+            "name": "Sanwood Matte PU Leather Mini Crossbody Shoulder Bag Cellphone Pouch (Black)",
+            "normalizedName": "Sanwood Matte PU Leather Mini Crossbody Shoulder Bag Cellphone Pouch (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999949684564
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

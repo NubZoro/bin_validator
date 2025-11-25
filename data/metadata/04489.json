@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001PR0B24": {
+            "asin": "B001PR0B24",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "NCAA Miami Hurricanes Laser Cut Auto Tag",
+            "normalizedName": "NCAA Miami Hurricanes Laser Cut Auto Tag",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00DD0P0TK": {
+            "asin": "B00DD0P0TK",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "The Grilled Cheesus Sandwich Press",
+            "normalizedName": "The Grilled Cheesus Sandwich Press",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.22
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B00M2HMAMA": {
+            "asin": "B00M2HMAMA",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "WEATHERBEETA PARKA 1200D DELUXE DOG COAT NAVY/GREY/WHITE 14\"",
+            "normalizedName": "WEATHERBEETA PARKA 1200D DELUXE DOG COAT NAVY/GREY/WHITE 14\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.93
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B019HA65HU": {
+            "asin": "B019HA65HU",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "name": "Roma Brights Lead (Bright Lime)",
+            "normalizedName": "Roma Brights Lead (Bright Lime)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.0708661386
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

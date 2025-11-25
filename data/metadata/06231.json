@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0008D6WBA": {
+            "asin": "B0008D6WBA",
+            "height": {
+                "unit": "IN",
+                "value": 2.5984251942
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.4015747956
+            },
+            "name": "Great Lakes Unflavored Beef Gelatin, Kosher, 16 Ounce Can",
+            "normalizedName": "Great Lakes Unflavored Beef Gelatin, Kosher, 16 Ounce Can",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1904962148
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.4645669256
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001L1RDYI": {
+            "asin": "B001L1RDYI",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Smead SuperTab\u00ae File Folder, Oversized 1/3-Cut Tab, Letter Size, Assorted Colors, 24 per Pack (11927)",
+            "normalizedName": "24 per Pack Smead SuperTab\u00ae File Folder, Oversized 1/3-Cut Tab, Letter Size, Assorted Colors, (11927)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B00Z9OH0SW": {
+            "asin": "B00Z9OH0SW",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Lanxivi 72 Marco Colored Pencils with Pen Pouch Set / Color Professional Art Drawing Pencils for Artist Sketch Drawing Oil Base High Quality Drawing",
+            "normalizedName": "Lanxivi 72 Marco Colored Pencils with Pen Pouch Set / Color Professional Art Drawing Pencils for Artist Sketch Drawing Oil Base High Quality Drawing",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

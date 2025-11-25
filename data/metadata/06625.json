@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BFZU1I": {
+            "asin": "B000BFZU1I",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Active Ankle T2 Rigid Ankle Brace For Injured Ankle Protection and Sprain Support, M, White",
+            "normalizedName": "Active Ankle T2 Rigid Ankle Brace For Injured Ankle Protection and Sprain Support, M, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B014JYXHN4": {
+            "asin": "B014JYXHN4",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Paylak CNT400 Set of 2 Large Modern Acrylic Holders Cotton Ball Swabs Cotton Organizer",
+            "normalizedName": "Set of 2 Paylak CNT400 Large Modern Acrylic Holders Cotton Ball Swabs Cotton Organizer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

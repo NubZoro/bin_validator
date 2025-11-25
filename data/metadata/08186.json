@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008JJLXO6": {
+            "asin": "B008JJLXO6",
+            "height": {
+                "unit": "IN",
+                "value": 3.149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "WD Red 1TB NAS Hard Disk Drive - 5400 RPM Class SATA 6 Gb/s 64MB Cache 3.5 Inch - WD10EFRX",
+            "normalizedName": "WD Red 1TB NAS Hard Disk Drive - 5400 RPM Class SATA 6 Gb/s 64MB Cache 3.5 Inch - WD10EFRX",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2786811196
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

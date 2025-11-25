@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EMHWUA": {
+            "asin": "B000EMHWUA",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "150 Cartoon Classics",
+            "normalizedName": "150 Cartoon Classics",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00FWMVVK4": {
+            "asin": "B00FWMVVK4",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Northern Exposure: Season 3",
+            "normalizedName": "Northern Exposure: Season 3",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01DL3VS4O": {
+            "asin": "B01DL3VS4O",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "XISE Mini Cute Silicone Vibrator 12 Speed Strong Sex Vibration Massager Female Sex Toys",
+            "normalizedName": "XISE Mini Cute Silicone Vibrator 12 Speed Strong Sex Vibration Massager Female Sex Toys",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

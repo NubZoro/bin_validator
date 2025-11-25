@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008DIFJT8": {
+            "asin": "B008DIFJT8",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Thera-Band Mini Ball, 9-Inch",
+            "normalizedName": "Thera-Band Mini Ball, 9-Inch",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

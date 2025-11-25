@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000R208LC": {
+            "asin": "B000R208LC",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Purple Rain [Blu-ray]",
+            "normalizedName": "Purple Rain [Blu-ray]",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B004LB5CTS": {
+            "asin": "B004LB5CTS",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Whistler SWRA-36 Pro-3600 Laser-Radar Detector Antenna Module Accessory",
+            "normalizedName": "Whistler SWRA-36 Pro-3600 Laser-Radar Detector Antenna Module Accessory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

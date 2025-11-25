@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004FYY364": {
+            "asin": "B004FYY364",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989086
+            },
+            "name": "McGuire-Nicholas 23020 The Carpenter Mini Carpenter's Work Pouch",
+            "normalizedName": "McGuire-Nicholas 23020 The Carpenter Mini Carpenter's Work Pouch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00IFUPUAM": {
+            "asin": "B00IFUPUAM",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "Plush Penguin Pocket Pillow Pals by Fiesta",
+            "normalizedName": "Plush Penguin Pocket Pillow Pals by Fiesta",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004GCFFNA": {
+            "asin": "B004GCFFNA",
+            "height": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "OE Replacement Mitsubishi Galant Driver Side Mirror Outside Rear View (Partslink Number MI1320122)",
+            "normalizedName": "OE Replacement Mitsubishi Galant Driver Side Mirror Outside Rear View (Partslink Number MI1320122)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B01789JOK2": {
+            "asin": "B01789JOK2",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Bug Racer Vehicle",
+            "normalizedName": "Bug Racer Vehicle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.249999998113171
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.599999987148
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

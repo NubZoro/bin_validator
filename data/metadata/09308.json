@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004VYWJXW": {
+            "asin": "B004VYWJXW",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Sub Sports COLD Men's Thermal Compression Base Layer Long Sleeve Top - Black - XL",
+            "normalizedName": "Sub Sports COLD Men's Thermal Compression Base Layer Long Sleeve Top - Black - XL",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00KYTKJD0": {
+            "asin": "B00KYTKJD0",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "Anagram International Frozen Orbz Balloon Pack, 16\", Multicolor",
+            "normalizedName": "Anagram International Frozen Orbz Balloon Pack, 16\", Multicolor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

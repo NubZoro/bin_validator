@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00009VRFR": {
+            "asin": "B00009VRFR",
+            "height": {
+                "unit": "IN",
+                "value": 1.8110236202
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.6850393602
+            },
+            "name": "Math Missions: The Race to Spectacle City Arcade Grades K-2  [OLD VERSION]",
+            "normalizedName": "Math Missions: The Race to Spectacle City Arcade Grades K-2  [OLD VERSION]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8818400474429946
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1102362122
+            }
+        },
+        "B00024DA5G": {
+            "asin": "B00024DA5G",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Nature's Way Turmeric, 120 Tablets",
+            "normalizedName": "Nature's Way Turmeric, 120 Tablets",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B0059B85L6": {
+            "asin": "B0059B85L6",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "name": "Der Traumzauberbaum 3: Rosenhuf",
+            "normalizedName": "Der Traumzauberbaum 3: Rosenhuf",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

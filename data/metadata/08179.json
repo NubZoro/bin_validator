@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ATZ9JZI": {
+            "asin": "B00ATZ9JZI",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Canon CLI-251 Creative Park Premium Ink Cartridges Black, Cyan, Magenta, Yellow - 4 color pack",
+            "normalizedName": "Canon CLI-251 Creative Park Premium Ink Cartridges Black, Cyan, Magenta, Yellow - 4 color pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00ATZ9K0C": {
+            "asin": "B00ATZ9K0C",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Canon PGI-250XL Black Twin Value Pack",
+            "normalizedName": "Canon PGI-250XL Black Twin Value Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00EB7Z6SY": {
+            "asin": "B00EB7Z6SY",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Advanced G Shape Police Earpiece Headset PTT Mic for 2-pin Motorola Radio CP040 CP200 XTNi DTR VL50",
+            "normalizedName": "Advanced G Shape Police Earpiece Headset PTT Mic for 2-pin Motorola Radio CP040 CP200 XTNi DTR VL50",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

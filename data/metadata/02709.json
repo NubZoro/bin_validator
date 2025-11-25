@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CGYNMJE": {
+            "asin": "B00CGYNMJE",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Prime-Line Products S 4380 Sliding Door Loop Lock, 13/16-Inch, Stainless",
+            "normalizedName": "Prime-Line Products S 4380 Sliding Door Loop Lock, 13/16-Inch, Stainless",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

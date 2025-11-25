@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008FWM21U": {
+            "asin": "B008FWM21U",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Schwarzkopf Professional BlondMe Brilliance Color Shampoo - Warm Caramel  (8 oz.)",
+            "normalizedName": "Schwarzkopf Professional BlondMe Brilliance Color Shampoo - Warm Caramel  (8 oz.)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B016QO86V8": {
+            "asin": "B016QO86V8",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "SEAGATE NAS HDD 6TB SATA 6Gb/s NCQ 128 MB Cache Bare Drive ST6000VN0021",
+            "normalizedName": "SEAGATE NAS HDD 6TB SATA 6Gb/s NCQ 128 MB Cache Bare Drive ST6000VN0021",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

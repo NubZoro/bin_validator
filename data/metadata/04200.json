@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001WPNA4": {
+            "asin": "B0001WPNA4",
+            "height": {
+                "unit": "IN",
+                "value": 2.2834645646
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.3385826656
+            },
+            "name": "Chicago Metallic Non-Stick 4-Piece Toaster Oven Set",
+            "normalizedName": "Chicago Metallic Non-Stick 4-Piece Toaster Oven Set",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4250601284346027
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.1653543234
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

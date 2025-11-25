@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0012QJ1NS": {
+            "asin": "B0012QJ1NS",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Sloan 3365001 N/A Optima Faucet Parts & Accessories Check Valve 3365001",
+            "normalizedName": "Sloan 3365001 N/A Optima Faucet Parts & Accessories Check Valve 3365001",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00164E8TI": {
+            "asin": "B00164E8TI",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Free & Clear Set, includes Shampoo-12 Oz and Conditioner-12 Oz - One each.",
+            "normalizedName": "Free & Clear Set, includes Shampoo-12 Oz and Conditioner-12 Oz - One each.",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

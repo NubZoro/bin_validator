@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000056W74": {
+            "asin": "B000056W74",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.5590551104
+            },
+            "name": "Palmer's Cocoa Butter Formula Moisturizing Body Oil with Vitamin E -- 8.5 fl oz",
+            "normalizedName": "Palmer's Cocoa Butter Formula Moisturizing Body Oil with Vitamin E -- 8.5 fl oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880332100962
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.149606296
+            }
+        },
+        "B00I5RIR5K": {
+            "asin": "B00I5RIR5K",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "240 Pocket Dental Floss Packs Individually Wrapped Single Use Travel Waxed Mint",
+            "normalizedName": "240 Pocket Dental Floss Packs Individually Wrapped Single Use Travel Waxed Mint",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B010A5HT4O": {
+            "asin": "B010A5HT4O",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Cute Characters Sticky Note Collection (Cats)",
+            "normalizedName": "Cute Characters Sticky Note Collection (Cats)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B018F02T2S": {
+            "asin": "B018F02T2S",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Mens Brown Leather Belt by Vellette (36, BR146)",
+            "normalizedName": "Mens Brown Leather Belt by Vellette (36, BR146)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B01DM98VJC": {
+            "asin": "B01DM98VJC",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Call of Duty Modern Warfare Collection - PlayStation 3",
+            "normalizedName": "Call of Duty Modern Warfare Collection - PlayStation 3",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

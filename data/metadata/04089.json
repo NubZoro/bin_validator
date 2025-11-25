@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00002N7QG": {
+            "asin": "B00002N7QG",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "Plumb 11419 16 oz Regular Fiberglass Rip Claw Hammer",
+            "normalizedName": "Plumb 11419 16 oz Regular Fiberglass Rip Claw Hammer",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.199999987556
+            }
+        },
+        "B004L9DGCK": {
+            "asin": "B004L9DGCK",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "Polk Audio 255C-RT In-wall / In-ceiling center channel speaker",
+            "normalizedName": "Polk Audio 255C-RT In-wall / In-ceiling center channel speaker",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.649999992746192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

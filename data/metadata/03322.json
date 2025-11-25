@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002HYCKA": {
+            "asin": "B0002HYCKA",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "Max Clutching Toy",
+            "normalizedName": "Max Clutching Toy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00CQASZOA": {
+            "asin": "B00CQASZOA",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.699999996226
+            },
+            "name": "Chewy Tubes P' and Q'",
+            "normalizedName": "Chewy Tubes P' and Q'",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

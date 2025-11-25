@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006I8I2I": {
+            "asin": "B0006I8I2I",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "CliC Adjustable Front Connect Reader, 1.50 Strength, Tortoise Frame",
+            "normalizedName": "CliC Adjustable Front Connect Reader, 1.50 Strength, Tortoise Frame",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00CD32OTC": {
+            "asin": "B00CD32OTC",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "NSKI Dentist Wireless Curing Light-cordless LED Light Lamp Cure Dental Curing Device Black",
+            "normalizedName": "NSKI Dentist Wireless Curing Light-cordless LED Light Lamp Cure Dental Curing Device Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00TV5H46I": {
+            "asin": "B00TV5H46I",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "Lenox Holiday Serve and Store",
+            "normalizedName": "Lenox Holiday Serve and Store",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.14999999819703
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MW8G62E": {
+            "asin": "B00MW8G62E",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "AmazonBasics Pet Training and Puppy Pads, Regular - 100-Count",
+            "normalizedName": "AmazonBasics Pet Training and Puppy Pads, Regular - 100-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.679999994398215
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

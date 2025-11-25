@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002TT36G": {
+            "asin": "B0002TT36G",
+            "height": {
+                "unit": "IN",
+                "value": 2.8346456664
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.7322834526
+            },
+            "name": "Ultra Pro 3\" Collectors Album (Black)",
+            "normalizedName": "Ultra Pro 3\" Collectors Album (Black)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5432200817311106
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.417322823
+            }
+        },
+        "B01087LT72": {
+            "asin": "B01087LT72",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Luxury Padded Mesh Laundry Bags for Bras, with Signature Hot Pink Hang Loop, Set of 2, by Delicatesse Laundry Care, Bra Bag for Washing Machine Lingerie Bag",
+            "normalizedName": "Set of 2 Luxury Padded Mesh Laundry Bags for Bras, with Signature Hot Pink Hang Loop, , by Delicatesse Laundry Care, Bra Bag for Washing Machine Lingerie Bag",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3699999996897215
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

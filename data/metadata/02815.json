@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013OOJY0": {
+            "asin": "B0013OOJY0",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Enzymatic Therapy Curazyme, 60 Capsules",
+            "normalizedName": "Enzymatic Therapy Curazyme, 60 Capsules",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01EPLBSJG": {
+            "asin": "B01EPLBSJG",
+            "height": {
+                "unit": "IN",
+                "value": 0.249999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.749999995155
+            },
+            "name": "Fitbit Charge, Fitbit Charge HR/Flex, Jawbone Up Jewelry - Fitness Tracker Accessory Bracelet - Modern Abstract Gold Geometric MALTA Accessory (White, Fitbit Flex OR Jawbone Up)",
+            "normalizedName": "Fitbit Charge, Fitbit Charge HR/Flex, Jawbone Up Jewelry - Fitness Tracker Accessory Bracelet - Modern Abstract Gold Geometric MALTA Accessory (White, Fitbit Flex OR Jawbone Up)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.049999999958070473
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.749999997195
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002IKLOAA": {
+            "asin": "B002IKLOAA",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Polaris K13 Vac-Sweep All Purpose Zipper Pool Cleaner Replacement Bag for 280",
+            "normalizedName": "Polaris K13 Vac-Sweep All Purpose Zipper Pool Cleaner Replacement Bag for 280",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00HEBJERS": {
+            "asin": "B00HEBJERS",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Remedios Ivory Satin Rhinestone 2 Hearts Wedding Flower Girl Basket",
+            "normalizedName": "Remedios Ivory Satin Rhinestone 2 Hearts Wedding Flower Girl Basket",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

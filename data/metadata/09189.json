@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006GCF74": {
+            "asin": "B0006GCF74",
+            "height": {
+                "unit": "IN",
+                "value": 4.70078739678
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.29921258588
+            },
+            "name": "Swiss Diamond 7\" Tempered Glass Lid",
+            "normalizedName": "Swiss Diamond 7\" Tempered Glass Lid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4000235486048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.20078739219
+            }
+        },
+        "B003UEFLIE": {
+            "asin": "B003UEFLIE",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "PM Company Admit One Ticket Rolls, 2000 per Roll, 4 Rolls in Assorted Colors (59002)",
+            "normalizedName": "PM Company Admit One Ticket Rolls, 2000 per Roll, 4 Rolls in Assorted Colors (59002)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00451SGZ6": {
+            "asin": "B00451SGZ6",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Coffee-mate Coffee Creamer, Original Liquid Singles, 0.375-Ounce Creamers (Pack of 180)",
+            "normalizedName": "(Pack of 180) Coffee-mate Coffee Creamer, Original Liquid Singles, 0.375-Ounce Creamers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.109999995714802
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012SV61BK": {
+            "asin": "B012SV61BK",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Antique Brushed Nickel Stainless Steel Countertop Kitchen Sink Soap Dispenser, Built in Hand Liquid Soap Dispenser Pump",
+            "normalizedName": "Antique Brushed Nickel Stainless Steel Countertop Kitchen Sink Soap Dispenser, Built in Hand Liquid Soap Dispenser Pump",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B01BT16Y9Y": {
+            "asin": "B01BT16Y9Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999985719998
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999982048002
+            },
+            "name": "Samsung Galaxy S7 Glass Screen Protector, Tech Armor Premium Ballistic Glass Samsung Galaxy S7 Screen Protectors [1]",
+            "normalizedName": "Samsung Galaxy S7 Glass Screen Protector, Tech Armor Premium Ballistic Glass Samsung Galaxy S7 Screen Protectors [1]",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

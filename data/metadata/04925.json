@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1848602243": {
+            "asin": "1848602243",
+            "height": {
+                "unit": "IN",
+                "value": 0.9448818888
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Early Childhood: A Guide for Students",
+            "normalizedName": "Early Childhood: A Guide for Students",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.16
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.4015747956
+            }
+        },
+        "B00B5AAWD4": {
+            "asin": "B00B5AAWD4",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Fresh Prince of Bel-Air, The Complete Series",
+            "normalizedName": "Fresh Prince of Bel-Air, The Complete Series",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B01EMJIH4A": {
+            "asin": "B01EMJIH4A",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Essential Oil Diffuser, Aptoyu 120ml Aromatherapy Ultrasonic Cool Mist Humidifier with 7 Color Changing LED Lamps, Mist Mode Adjustment and Waterless Auto Shut-off Function for Home Office Bedroom",
+            "normalizedName": "Essential Oil Diffuser, Aptoyu 120ml Aromatherapy Ultrasonic Cool Mist Humidifier with 7 Color Changing LED Lamps, Mist Mode Adjustment and Waterless Auto Shut-off Function for Home Office Bedroom",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.039999998289275
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

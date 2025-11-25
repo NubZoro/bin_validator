@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007OVWZQ": {
+            "asin": "B0007OVWZQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Schylling Handcuffs",
+            "normalizedName": "Schylling Handcuffs",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B008P731LK": {
+            "asin": "B008P731LK",
+            "height": {
+                "unit": "IN",
+                "value": 6.249999993625
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Signature 100% Colombian Coffee Supremo Bean Dark Roast-Fine Grind, 3 Pound",
+            "normalizedName": "Signature 100% Colombian Coffee Supremo Bean Dark Roast-Fine Grind, 3 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6999999968972146
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.249999993625
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000083E76": {
+            "asin": "B000083E76",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Columbian #10 Self-Seal Security Tinted Envelopes,  4-1/8 x 9-1/2 Inch, White, 100 Per Box (CO284)",
+            "normalizedName": "Columbian #10 Self-Seal Security Tinted Envelopes,  4-1/8 x 9-1/2 Inch, White, 100 Per Box (CO284)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B0193JR7IQ": {
+            "asin": "B0193JR7IQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "MOJOTrek EB-1 Bluetooth V4.1 Wireless Sport Stereo In-Ear, Noise-Cancelling Headphones. Sweatproof Headset with APT-X/Mic for iPhone 6, 6 plus, 5S, 4S, Galaxy S6, S5, Android Phone, Bluetooth Devices",
+            "normalizedName": "MOJOTrek EB-1 Bluetooth V4.1 Wireless Sport Stereo In-Ear, Noise-Cancelling Headphones. Sweatproof Headset with APT-X/Mic for iPhone 6, 6 plus, 5S, 4S, Galaxy S6, S5, Android Phone, Bluetooth Devices",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.049999999958070473
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

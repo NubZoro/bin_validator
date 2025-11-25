@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0110NI9CQ": {
+            "asin": "B0110NI9CQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Motorola Moto G (3rd Generation) Case Cimo [Grip] Premium Slim TPU Flexible Soft Case for Motorola Moto G G3 (3rd Gen, 2015) - Purple",
+            "normalizedName": "Motorola Moto G (3rd Generation) Case Cimo [Grip] Premium Slim TPU Flexible Soft Case for Motorola Moto G G3 (3rd Gen, 2015) - Purple",
+            "quantity": 15,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B0162YQHJA": {
+            "asin": "B0162YQHJA",
+            "height": {
+                "unit": "IN",
+                "value": 0.1968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.5275590505
+            },
+            "name": "Kingston Digital 64GB microSDXC Class 10 UHS-I 45MB/s Read Card with SD Adapter (SDC10G2/64GB)",
+            "normalizedName": "Kingston Digital 64GB microSDXC Class 10 UHS-I 45MB/s Read Card with SD Adapter (SDC10G2/64GB)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0440924524
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.330708657
+            }
+        },
+        "B01BPC50CY": {
+            "asin": "B01BPC50CY",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "The Walking Dead Zombic Comic Artist Tony Moore Gel Pens 0.7mm Black , 12-Pack",
+            "normalizedName": "12-Pack The Walking Dead Zombic Comic Artist Tony Moore Gel Pens 0.7mm Black ,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645638
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 19
+}

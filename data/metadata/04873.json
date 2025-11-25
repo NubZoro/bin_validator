@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B019CWVEKQ": {
+            "asin": "B019CWVEKQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Star Wars\u2122 Deluxe Darth Maul Sith Overhead Latex Mask",
+            "normalizedName": "Star Wars\u2122 Deluxe Darth Maul Sith Overhead Latex Mask",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.749999988015
+            }
+        },
+        "B019D9HESO": {
+            "asin": "B019D9HESO",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "RTIC 30 oz. Tumbler",
+            "normalizedName": "RTIC 30 oz. Tumbler",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1399999990440066
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

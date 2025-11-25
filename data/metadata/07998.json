@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00002X1XS": {
+            "asin": "B00002X1XS",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Stanley 55-045 7-1/2-Inch Wonder Bar II Pry Bar",
+            "normalizedName": "Stanley 55-045 7-1/2-Inch Wonder Bar II Pry Bar",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B003L2ADQA": {
+            "asin": "B003L2ADQA",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "M-Tape Colored Athletic Tape - Pink, 6 Rolls",
+            "normalizedName": "M-Tape Colored Athletic Tape - Pink, 6 Rolls",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B005KKMPJY": {
+            "asin": "B005KKMPJY",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Slinky Jungle Strike Disc Launcher",
+            "normalizedName": "Slinky Jungle Strike Disc Launcher",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MJ475W6": {
+            "asin": "B00MJ475W6",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Belt Holster for Taurus Raging Bull 44 Mag & 454 Casull with 8 3/8\" Barrel",
+            "normalizedName": "Belt Holster for Taurus Raging Bull 44 Mag & 454 Casull with 8 3/8\" Barrel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B015GCF8I0": {
+            "asin": "B015GCF8I0",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Scotch Expressions Masking Tape, 0.94 \" x 20 yd, Chalkboard Alphabet, 6 Rolls (3437-P11)",
+            "normalizedName": "Scotch Expressions Masking Tape, 0.94 \" x 20 yd, Chalkboard Alphabet, 6 Rolls (3437-P11)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

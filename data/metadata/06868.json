@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0307988295": {
+            "asin": "0307988295",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Rudolph the Red-Nosed Reindeer (Rudolph the Red-Nosed Reindeer) (Little Golden Book)",
+            "normalizedName": "Rudolph the Red-Nosed Reindeer (Rudolph the Red-Nosed Reindeer) (Little Golden Book)",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00X965GCE": {
+            "asin": "B00X965GCE",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Disney Frozen \" I am Olaf \" Premium Quality Party Favor Reusable Goodie Small Gift Bags 12 (12 Bags)",
+            "normalizedName": "Disney Frozen \" I am Olaf \" Premium Quality Party Favor Reusable Goodie Small Gift Bags 12 (12 Bags)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B01D8YBSOG": {
+            "asin": "B01D8YBSOG",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Ole's Pancake & Waffle Mix (pack of 3)",
+            "normalizedName": "Ole's Pancake & Waffle Mix (pack of 3)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098323
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

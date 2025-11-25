@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009PVZL4": {
+            "asin": "B0009PVZL4",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Martin Chuzzlewit",
+            "normalizedName": "Martin Chuzzlewit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B0018YCF50": {
+            "asin": "B0018YCF50",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "The Remains of the Day / Sense & Sensibility",
+            "normalizedName": "The Remains of the Day / Sense & Sensibility",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B003UN2IAY": {
+            "asin": "B003UN2IAY",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "TCM Greatest Classic Film Collection: Gangsters - Prohibition Era (The Public Enemy / The Roaring Twenties / Little Caesar / Smart Money)",
+            "normalizedName": "TCM Greatest Classic Film Collection: Gangsters - Prohibition Era (The Public Enemy / The Roaring Twenties / Little Caesar / Smart Money)",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

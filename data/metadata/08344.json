@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0035RRPQM": {
+            "asin": "B0035RRPQM",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Mini Wooden Fiesta Maracas Assorted color and design (1 dz)",
+            "normalizedName": "Mini Wooden Fiesta Maracas Assorted color and design (1 dz)",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B0178O1OGO": {
+            "asin": "B0178O1OGO",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Click Home Design - Clear Plastic Micowave Dish Cover with Cooling Vent - 11....",
+            "normalizedName": "Click Home Design - Clear Plastic Micowave Dish Cover with Cooling Vent - 11....",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B017T3ZVDQ": {
+            "asin": "B017T3ZVDQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Harmony Linens Bed Sheet Set - 1800 Double Brushed Microfiber Bedding - 4 Piece (King, Burgundy)",
+            "normalizedName": "Harmony Linens Bed Sheet Set - 1800 Double Brushed Microfiber Bedding - 4 Piece (King, Burgundy)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.649999996939144
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001FHC15Y": {
+            "asin": "B001FHC15Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Wagner ThermoQuiet QC1339 Ceramic Disc Pad Set With Installation Hardware, Front",
+            "normalizedName": "Wagner ThermoQuiet QC1339 Ceramic Disc Pad Set With Installation Hardware, Front",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994288
+            }
+        },
+        "B00FNXU4SC": {
+            "asin": "B00FNXU4SC",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Franklin Sports NCAA Arizona Wildcats Collegiate Mini Soft Foam Air Tech Football",
+            "normalizedName": "Franklin Sports NCAA Arizona Wildcats Collegiate Mini Soft Foam Air Tech Football",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

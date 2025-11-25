@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004I2F49I": {
+            "asin": "B004I2F49I",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Brother P-touch ~1/2\" (0.47\") Black on Clear Standard Laminated Tape - 26.2 ft. (8m)",
+            "normalizedName": "Brother P-touch ~1/2\" (0.47\") Black on Clear Standard Laminated Tape - 26.2 ft. (8m)",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B004I2H14O": {
+            "asin": "B004I2H14O",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Brother Laminated Tape, Retail Packaging, 1/2 Inch, White, on Clear (TZe135) - Retail Packaging",
+            "normalizedName": "Brother Laminated Tape, Retail Packaging, 1/2 Inch, White, on Clear (TZe135) - Retail Packaging",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

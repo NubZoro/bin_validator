@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0764147439": {
+            "asin": "0764147439",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Shiba Inus (Complete Pet Owner's Manual)",
+            "normalizedName": "Shiba Inus (Complete Pet Owner's Manual)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "1624385362": {
+            "asin": "1624385362",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.749999991075
+            },
+            "name": "2017 Academic Year Around the World Spiral Engagement Planner",
+            "normalizedName": "2017 Academic Year Around the World Spiral Engagement Planner",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033389
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.249999992605
+            }
+        },
+        "B00BG4R3WM": {
+            "asin": "B00BG4R3WM",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Indescribable",
+            "normalizedName": "Indescribable",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18333454586339856
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

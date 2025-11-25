@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004JP8PBS": {
+            "asin": "B004JP8PBS",
+            "height": {
+                "unit": "IN",
+                "value": 4.38
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.25
+            },
+            "name": "Heater PowerAlley Soft Lite-balls (6 Pack)",
+            "normalizedName": "(6 Pack) Heater PowerAlley Soft Lite-balls",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 8.25
+            }
+        },
+        "B00OIH9KGG": {
+            "asin": "B00OIH9KGG",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "ECOSUSI Portable Travel Case Underwear Bra Drawer Closet Organizers Storage Bag",
+            "normalizedName": "ECOSUSI Portable Travel Case Underwear Bra Drawer Closet Organizers Storage Bag",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004PX8BC2": {
+            "asin": "B004PX8BC2",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.699999981946
+            },
+            "name": "Torin T10152 Scissor Jack - 1.5 Ton",
+            "normalizedName": "Torin T10152 Scissor Jack - 1.5 Ton",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00IZS7U4I": {
+            "asin": "B00IZS7U4I",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Paldo Jjajangmen Chajang Noodle Vegan No MSG 16-pack",
+            "normalizedName": "Paldo Jjajangmen Chajang Noodle Vegan No MSG 16-pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        },
+        "B014AHO50O": {
+            "asin": "B014AHO50O",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Barbie Sisters Skipper Doll with Bath Vanity",
+            "normalizedName": "Barbie Sisters Skipper Doll with Bath Vanity",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

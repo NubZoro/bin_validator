@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NWGCZ2": {
+            "asin": "B000NWGCZ2",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Vanicream Moisturizing Skin Cream with Pump Dispenser, 1 Pound",
+            "normalizedName": "Vanicream Moisturizing Skin Cream with Pump Dispenser, 1 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2299999989685335
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00GWBR5N6": {
+            "asin": "B00GWBR5N6",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Fullips Lip Plumping Enhancer - Medium Oval (Plus Large Round Bonus & Extra Gift!!!)",
+            "normalizedName": "Fullips Lip Plumping Enhancer - Medium Oval (Plus Large Round Bonus & Extra Gift!!!)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

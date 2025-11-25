@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0043SOSEY": {
+            "asin": "B0043SOSEY",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Electrified 5J.J2C01.001 Replacement Lamp with Housing for BenQ Projectors",
+            "normalizedName": "Electrified 5J.J2C01.001 Replacement Lamp with Housing for BenQ Projectors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B008OHWBKI": {
+            "asin": "B008OHWBKI",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Electrified RLC-073 / 5J.J3S05.001 Replacement Lamp with Housing for Viewsonic Projectors",
+            "normalizedName": "Electrified RLC-073 / 5J.J3S05.001 Replacement Lamp with Housing for Viewsonic Projectors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00PAE80VW": {
+            "asin": "B00PAE80VW",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Playskool Heroes Transformers Rescue Bots Elite Rescue Heatwave Figure",
+            "normalizedName": "Playskool Heroes Transformers Rescue Bots Elite Rescue Heatwave Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

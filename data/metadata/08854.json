@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01613QBL6": {
+            "asin": "B01613QBL6",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "L'il Critters Gummy Vites Complete Multivitamin, 190 Count",
+            "normalizedName": "L'il Critters Gummy Vites Complete Multivitamin, 190 Count",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000L8CB76": {
+            "asin": "B000L8CB76",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Harney & Sons Black Tea, Earl Grey Supreme, 20 Sachets",
+            "normalizedName": "Harney & Sons Black Tea, Earl Grey Supreme, 20 Sachets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00O4OR4GQ": {
+            "asin": "B00O4OR4GQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Fujifilm Instax Mini Instant Film (3 Twin Packs, 60 Total Pictures) Value Set",
+            "normalizedName": "Fujifilm Instax Mini Instant Film (3 Twin Packs, 60 Total Pictures) Value Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B012P11NCA": {
+            "asin": "B012P11NCA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Royal Designs Lamp Cord with Rotary Switch and Molded Plug, Clear Gold, 9 feet, SPT-2, Set of 2 (CO-2001-GL-9-2)",
+            "normalizedName": "Set of 2 Royal Designs Lamp Cord with Rotary Switch and Molded Plug, Clear Gold, 9 feet, SPT-2, (CO-2001-GL-9-2)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B01EJHWY6W": {
+            "asin": "B01EJHWY6W",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.1653543234
+            },
+            "name": "StilGut Book Type with Clip, Genuine Leather Case for HTC 10, Cognac Brown",
+            "normalizedName": "StilGut Book Type with Clip, Genuine Leather Case for HTC 10, Cognac Brown",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1763698096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5669291292
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

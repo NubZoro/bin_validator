@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MI8IDRE": {
+            "asin": "B00MI8IDRE",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "ASUS Sound Card Xonar U5",
+            "normalizedName": "ASUS Sound Card Xonar U5",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

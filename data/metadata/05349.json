@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001E0P4ME": {
+            "asin": "B001E0P4ME",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Espresso Supply Chrome Pour Spouts, 1-Dozen",
+            "normalizedName": "Espresso Supply Chrome Pour Spouts, 1-Dozen",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B001G8Y9JI": {
+            "asin": "B001G8Y9JI",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Applied Nutrition Green Tea Fat Burner, Maximum Strength with 400 mg EGCG, Fast-Acting, 90 Liquid Soft-Gels (Pack of 2)",
+            "normalizedName": "(Pack of 2) Applied Nutrition Green Tea Fat Burner, Maximum Strength with 400 mg EGCG, Fast-Acting, 90 Liquid Soft-Gels",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

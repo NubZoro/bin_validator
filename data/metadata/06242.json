@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006I0ONY": {
+            "asin": "B0006I0ONY",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "RV Designer H241 Three Screw Mount Positive Latch",
+            "normalizedName": "RV Designer H241 Three Screw Mount Positive Latch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00BPEFVGI": {
+            "asin": "B00BPEFVGI",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "SCHMETZ Universal (130/705 H) Household Sewing Machine Needles - Carded - Assortment - 10 Pack",
+            "normalizedName": "10 Pack SCHMETZ Universal (130/705 H) Household Sewing Machine Needles - Carded - Assortment -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B00X77CME0": {
+            "asin": "B00X77CME0",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "efluky 3.0Ah 12V NI-CD Replacement Power Tools Battery for Makita 1222, 1233s, 1233sa, 1233sb, 1235, 1235a, 1235b, 192598-2, 192681-5, 193981-6, 638347-8, 6316D 6317D 6835D 6914D 6916D",
+            "normalizedName": "efluky 3.0Ah 12V NI-CD Replacement Power Tools Battery for Makita 1222, 1233s, 1233sa, 1233sb, 1235, 1235a, 1235b, 192598-2, 192681-5, 193981-6, 638347-8, 6316D 6317D 6835D 6914D 6916D",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

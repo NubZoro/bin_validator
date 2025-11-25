@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000I4PXBO": {
+            "asin": "B000I4PXBO",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Victorian Inn Instant Cappuccino, French Vanilla, 16-Ounce Canisters (Pack of 6)",
+            "normalizedName": "(Pack of 6) Victorian Inn Instant Cappuccino, French Vanilla, 16-Ounce Canisters",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.849999994255654
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

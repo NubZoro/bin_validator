@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009POHG2M": {
+            "asin": "B009POHG2M",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "3M Advanced Particulate Filter 2291, P100 Respiratory Protection (Pack of 2)",
+            "normalizedName": "(Pack of 2) 3M Advanced Particulate Filter 2291, P100 Respiratory Protection",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01BZYSCP4": {
+            "asin": "B01BZYSCP4",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "ANART\u00ae Action Camera Accessories Kit Head Strap Chest Harness Mount J-Hook w/ 2 Long Screws for GoPro Hero 1 2 3 3+ 4 GeekPro ANART",
+            "normalizedName": "ANART\u00ae Action Camera Accessories Kit Head Strap Chest Harness Mount J-Hook w/ 2 Long Screws for GoPro Hero 1 2 3 3+ 4 GeekPro ANART",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00000K4LB": {
+            "asin": "B00000K4LB",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Kensington K64211 Mouse-in-a-Box for PC",
+            "normalizedName": "Kensington K64211 Mouse-in-a-Box for PC",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B0009VPFSW": {
+            "asin": "B0009VPFSW",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Transcend TS512MCF80 512MB 80x Type I Compact Flash Card",
+            "normalizedName": "Transcend TS512MCF80 512MB 80x Type I Compact Flash Card",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

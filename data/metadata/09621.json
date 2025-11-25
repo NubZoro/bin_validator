@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004A2LRGU": {
+            "asin": "B004A2LRGU",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Champion 88121 Power Sport Spark Plug, Pack of 1",
+            "normalizedName": "Pack of 1 Champion 88121 Power Sport Spark Plug,",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.599999998368
+            }
+        },
+        "B00E1TAYMK": {
+            "asin": "B00E1TAYMK",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Zoo Med Bearded Dragon Lamp Combo Pack",
+            "normalizedName": "Zoo Med Bearded Dragon Lamp Combo Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

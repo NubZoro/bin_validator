@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00004C8SJ": {
+            "asin": "B00004C8SJ",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Gunship! - PC",
+            "normalizedName": "Gunship! - PC",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942
+            }
+        },
+        "B00LAZMCV4": {
+            "asin": "B00LAZMCV4",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "amazing-zone\u00ae ~ Touch Glass screen Digitizer Replacement Samsung Galaxy TAB 3 Sprint SM-T217S",
+            "normalizedName": "amazing-zone\u00ae ~ Touch Glass screen Digitizer Replacement Samsung Galaxy TAB 3 Sprint SM-T217S",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00Q4OSXA0": {
+            "asin": "B00Q4OSXA0",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Dropcases Nest Cam & Dropcam Pro Case Outdoor Enclosure, 3.9 by 2.1-Inches, Black",
+            "normalizedName": "Dropcases Nest Cam & Dropcam Pro Case Outdoor Enclosure, 3.9 by 2.1-Inches, Black",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00V5VR1DW": {
+            "asin": "B00V5VR1DW",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Yiteng Portable Mini USB Humidifier Air Purifier Aroma Diffuser for Office Home Room",
+            "normalizedName": "Yiteng Portable Mini USB Humidifier Air Purifier Aroma Diffuser for Office Home Room",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B01F2EDLEK": {
+            "asin": "B01F2EDLEK",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "F02 Pekalongan Batik Fabric",
+            "normalizedName": "F02 Pekalongan Batik Fabric",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

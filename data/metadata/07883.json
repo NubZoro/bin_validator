@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001UQXAT6": {
+            "asin": "B001UQXAT6",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "HotHands Insole Foot Warmers (16 pairs)",
+            "normalizedName": "HotHands Insole Foot Warmers (16 pairs)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00HZ68TKK": {
+            "asin": "B00HZ68TKK",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Med Heavyweight Karate Gi Uniform Black 12oz by Kaizen Athletic",
+            "normalizedName": "Med Heavyweight Karate Gi Uniform Black 12oz by Kaizen Athletic",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8999999967294965
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

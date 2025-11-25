@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00WVG0R0Y": {
+            "asin": "B00WVG0R0Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Ultra Pro Value Gift Pack: One Blue Baseball D-Ring Binder (Album) with 25 9 Pocket Pages",
+            "normalizedName": "Ultra Pro Value Gift Pack: One Blue Baseball D-Ring Binder (Album) with 25 9 Pocket Pages",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        },
+        "B0182IZEFM": {
+            "asin": "B0182IZEFM",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Fisher Price Little People Zoo Animal Collection",
+            "normalizedName": "Fisher Price Little People Zoo Animal Collection",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            }
+        },
+        "B01AS3HADS": {
+            "asin": "B01AS3HADS",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "TRU Lite Bedding - Non Slip Mattress Grip Pad - Queen Size - Rug Pad for 5' x 7' Rug",
+            "normalizedName": "TRU Lite Bedding - Non Slip Mattress Grip Pad - Queen Size - Rug Pad for 5' x 7' Rug",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.099999986638
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

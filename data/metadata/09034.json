@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003WX73OI": {
+            "asin": "B003WX73OI",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Tachikara SV5WSC Competition Volleyball",
+            "normalizedName": "Tachikara SV5WSC Competition Volleyball",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B0192FXDWU": {
+            "asin": "B0192FXDWU",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "United Linens Shower Curtain Liner Blue,72x72, PEVA, , Mildew Free, Resistant, Mold Resistant , Eco Friendly , Vinyl , No Chemical Odor High quality liner",
+            "normalizedName": "United Linens Shower Curtain Liner Blue,72x72, PEVA, , Mildew Free, Resistant, Mold Resistant , Eco Friendly , Vinyl , No Chemical Odor High quality liner",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

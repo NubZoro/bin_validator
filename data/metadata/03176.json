@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0026SSGXM": {
+            "asin": "B0026SSGXM",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "McGuire-Nicholas 804 The Organizer Mini Work Organizer",
+            "normalizedName": "McGuire-Nicholas 804 The Organizer Mini Work Organizer",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

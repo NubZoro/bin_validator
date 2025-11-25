@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A7EY7QM": {
+            "asin": "B00A7EY7QM",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Beautiful Nutrition Cocoa Curl High Definition Moisture Gel, 14.1 Ounce",
+            "normalizedName": "Beautiful Nutrition Cocoa Curl High Definition Moisture Gel, 14.1 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B0136ZJLE6": {
+            "asin": "B0136ZJLE6",
+            "height": {
+                "unit": "IN",
+                "value": 0.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "NFL Football 2015 Polyester Player Hoody Tee - Pick Team (Houston Texans J Watt #99, Medium)",
+            "normalizedName": "NFL Football 2015 Polyester Player Hoody Tee - Pick Team (Houston Texans J Watt #99, Medium)",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

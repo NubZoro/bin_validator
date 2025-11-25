@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001EWNAJQ": {
+            "asin": "B001EWNAJQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Annin Flagmakers 199132 Nylon SolarGuard Nyl-Glo Burkina-Faso Flag, 2 x 3'",
+            "normalizedName": "Annin Flagmakers 199132 Nylon SolarGuard Nyl-Glo Burkina-Faso Flag, 2 x 3'",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00CD24MXO": {
+            "asin": "B00CD24MXO",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Dentek Triple Clean Floss Picks, 150 Count (Pack of 6)",
+            "normalizedName": "(Pack of 6) Dentek Triple Clean Floss Picks, 150 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B0199R50KY": {
+            "asin": "B0199R50KY",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Disney Tsum Tsum Lights & Sounds Stitch Plush",
+            "normalizedName": "Disney Tsum Tsum Lights & Sounds Stitch Plush",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

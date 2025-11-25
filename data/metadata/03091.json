@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002YKBV2": {
+            "asin": "B0002YKBV2",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "3M 8511 Particulate N95 Respirator with Valve, 10-Pack",
+            "normalizedName": "10-Pack 3M 8511 Particulate N95 Respirator with Valve,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

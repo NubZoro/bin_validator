@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015T7CT3E": {
+            "asin": "B015T7CT3E",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988167998
+            },
+            "name": "Giro Privateer R Shoe - Men's Dark Shadow/Flame 39",
+            "normalizedName": "Giro Privateer R Shoe - Men's Dark Shadow/Flame 39",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

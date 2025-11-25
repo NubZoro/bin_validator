@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002VIDP24": {
+            "asin": "B002VIDP24",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Wagner ThermoQuiet QC1378 Ceramic Disc Pad Set With Installation Hardware, Front",
+            "normalizedName": "Wagner ThermoQuiet QC1378 Ceramic Disc Pad Set With Installation Hardware, Front",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

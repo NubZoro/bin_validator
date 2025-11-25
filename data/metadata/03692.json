@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IDHMJ4W": {
+            "asin": "B00IDHMJ4W",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "PackIt Freezable Lunch Bag with Zip Closure, Hearts",
+            "normalizedName": "PackIt Freezable Lunch Bag with Zip Closure, Hearts",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

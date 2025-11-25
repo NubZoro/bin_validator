@@ -1,0 +1,65 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008C9JT0I": {
+            "asin": "B008C9JT0I",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "name": "Nine West ** Love Fury ** Body Lotion 2 fl oz",
+            "normalizedName": "Nine West ** Love Fury ** Body Lotion 2 fl oz",
+            "quantity": 9,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.0
+            }
+        },
+        "B0138L3DH4": {
+            "asin": "B0138L3DH4",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "COOLcessories Apple iPhone Smart Watch Charging Station \u2013 Anti Scratch TPU Stand with Cord Management and Comfortable Viewing Angle \u2013 Fits Both Watch Sizes (Gray)",
+            "normalizedName": "COOLcessories Apple iPhone Smart Watch Charging Station \u2013 Anti Scratch TPU Stand with Cord Management and Comfortable Viewing Angle \u2013 Fits Both Watch Sizes (Gray)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B01F79N5XM": {
+            "asin": "B01F79N5XM",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299212592
+            },
+            "name": "Baby Motek Washable Organic Nursing Pads \u2013 Hypoallergenic, Leak Proof Reusable Bamboo Pads For Nursing Moms With Washing Bag, Pink Rubber Feeding Reminder Bracelet \u2013 Breastfeeding Essential \u2013 10 Count",
+            "normalizedName": "Baby Motek Washable Organic Nursing Pads \u2013 Hypoallergenic, Leak Proof Reusable Bamboo Pads For Nursing Moms With Washing Bag, Pink Rubber Feeding Reminder Bracelet \u2013 Breastfeeding Essential \u2013 10 Count",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.299212592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

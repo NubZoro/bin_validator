@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000W3S0CA": {
+            "asin": "B000W3S0CA",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.699999982966
+            },
+            "name": "Elf Stor Premium Christmas Tree Bag Holiday Extra Large for up to 9' Tree Storage",
+            "normalizedName": "Elf Stor Premium Christmas Tree Bag Holiday Extra Large for up to 9' Tree Storage",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988066
+            }
+        },
+        "B00594CSES": {
+            "asin": "B00594CSES",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Hewlett-Packard - HP Premium Plus Glossy Photo Inkjet Paper, 8.5 x 11 inch, 25 Sheets",
+            "normalizedName": "Hewlett-Packard - HP Premium Plus Glossy Photo Inkjet Paper, 8.5 x 11 inch, 25 Sheets",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B00JY4Q52U": {
+            "asin": "B00JY4Q52U",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "ASUS CHROMEBOX-M075U Desktop Bundle  with Wireless Keyboard and Mouse (Discontinued by Manufacturer)",
+            "normalizedName": "ASUS CHROMEBOX-M075U Desktop Bundle  with Wireless Keyboard and Mouse (Discontinued by Manufacturer)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.609999996134097
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

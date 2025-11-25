@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1412977614": {
+            "asin": "1412977614",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Cognitive Science: An Introduction to the Study of Mind",
+            "normalizedName": "Cognitive Science: An Introduction to the Study of Mind",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452
+            }
+        },
+        "B00ICBT9YW": {
+            "asin": "B00ICBT9YW",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Aurora World Dreamy Eyes Ranger Bull Plush, 10\"",
+            "normalizedName": "Aurora World Dreamy Eyes Ranger Bull Plush, 10\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

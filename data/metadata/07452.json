@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0032ZB03G": {
+            "asin": "B0032ZB03G",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Blue Diamond Almonds 100 Calories Per Bag - 32 Grab and Go Bags,.625 Oz (Individual),20 Oz (net Weight)",
+            "normalizedName": "Blue Diamond Almonds 100 Calories Per Bag - 32 Grab and Go Bags,.625 Oz (Individual),20 Oz (net Weight)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00DMLLHA6": {
+            "asin": "B00DMLLHA6",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Renewable Toner 53A / HP Q7553A MICR Toner Cartridge (3k yield) for P2015; M2727 Printers",
+            "normalizedName": "Renewable Toner 53A / HP Q7553A MICR Toner Cartridge (3k yield) for P2015; M2727 Printers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00DVMDFRO": {
+            "asin": "B00DVMDFRO",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Slant Preppy Pink Stripe. Double Wall Acrylic Wine Glass With Straw [Kitchen]",
+            "normalizedName": "Slant Preppy Pink Stripe. Double Wall Acrylic Wine Glass With Straw [Kitchen]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

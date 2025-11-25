@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AH9JUH8": {
+            "asin": "B00AH9JUH8",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Canon Ink CLI-251 GY XL Individual Ink Tank",
+            "normalizedName": "Canon Ink CLI-251 GY XL Individual Ink Tank",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B010SOB5T2": {
+            "asin": "B010SOB5T2",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "efluky 2Pack 3.0Ah 10.8V BAT411 Lithium-Ion Battery Replacement Cordless li-ion Drill Driver for Bosch 2 607 336 013,2 607 336 014,BAT411,BAT411A,BAT412A GSR V-Li GWI PS10-2 2607336013 2607336014",
+            "normalizedName": "2Pack efluky 3.0Ah 10.8V BAT411 Lithium-Ion Battery Replacement Cordless li-ion Drill Driver for Bosch 2 607 336 013,2 607 336 014,BAT411,BAT411A,BAT412A GSR V-Li GWI PS10-2 2607336013 2607336014",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5432200817311106
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

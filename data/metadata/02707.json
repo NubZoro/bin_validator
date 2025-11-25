@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002VT5EOK": {
+            "asin": "B002VT5EOK",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Marathon 8\" Swivel Caster with Flat Free Tire",
+            "normalizedName": "Marathon 8\" Swivel Caster with Flat Free Tire",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

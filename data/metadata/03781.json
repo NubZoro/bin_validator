@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IA94432": {
+            "asin": "B00IA94432",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "POWERADE Orange, 12 ct, 12 FL OZ Bottle",
+            "normalizedName": "POWERADE Orange, 12 ct, 12 FL OZ Bottle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B01A4GE8KW": {
+            "asin": "B01A4GE8KW",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "ValentinA Slimming Neoprene Vest Hot Sweat Shirt Body Shapers for Weight Loss Mens",
+            "normalizedName": "ValentinA Slimming Neoprene Vest Hot Sweat Shirt Body Shapers for Weight Loss Mens",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

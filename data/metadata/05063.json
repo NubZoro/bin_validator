@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B018LRJ8P6": {
+            "asin": "B018LRJ8P6",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Funko POP Movies: Clueless - Amber Action Figure",
+            "normalizedName": "Funko POP Movies: Clueless - Amber Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

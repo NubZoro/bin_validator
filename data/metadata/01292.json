@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0985444851": {
+            "asin": "0985444851",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Life Can Be Beautiful",
+            "normalizedName": "Life Can Be Beautiful",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B0082C0RHO": {
+            "asin": "B0082C0RHO",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Primal Pet Foods Freeze-Dried Canine Lamb Formula Nt. Wt. 14 Oz",
+            "normalizedName": "Primal Pet Foods Freeze-Dried Canine Lamb Formula Nt. Wt. 14 Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

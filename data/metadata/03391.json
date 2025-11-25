@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017M1AFYU": {
+            "asin": "B017M1AFYU",
+            "height": {
+                "unit": "IN",
+                "value": 1.7322834628
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.6377952678
+            },
+            "name": "COBI Small Army 1942 BMW R75 Building Kit",
+            "normalizedName": "COBI Small Army 1942 BMW R75 Building Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.1653543234
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003294J4O": {
+            "asin": "B003294J4O",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Fiddyment Farms 1 Lb Lightly Salted Pistachios in Green Burlap Bag",
+            "normalizedName": "Fiddyment Farms 1 Lb Lightly Salted Pistachios in Green Burlap Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B005X1Y7I2": {
+            "asin": "B005X1Y7I2",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Anker PowerCore+ mini 3350mAh Lipstick-Sized Portable Charger (3rd Generation, Premium Aluminum Power Bank) One of the Most Compact External Battery, Uses High-Quality Panasonic Cells",
+            "normalizedName": "Anker PowerCore+ mini 3350mAh Lipstick-Sized Portable Charger (3rd Generation, Premium Aluminum Power Bank) One of the Most Compact External Battery, Uses High-Quality Panasonic Cells",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00JJI6MQU": {
+            "asin": "B00JJI6MQU",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "name": "100pc Assorted 18x15mm Acrylic Turtle Beads Beading Supplies [Office Product]",
+            "normalizedName": "100pc Assorted 18x15mm Acrylic Turtle Beads Beading Supplies [Office Product]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00KOCLVZC": {
+            "asin": "B00KOCLVZC",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Glade 2-in-1 Jar Candle, Creamy Custard/Apple Cinnamon, 3.8 Ounce",
+            "normalizedName": "Glade 2-in-1 Jar Candle, Creamy Custard/Apple Cinnamon, 3.8 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

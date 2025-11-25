@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003VUAOOI": {
+            "asin": "B003VUAOOI",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Infusium 23 Repair & Renew Leave In Treatment, 16 oz",
+            "normalizedName": "Infusium 23 Repair & Renew Leave In Treatment, 16 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B003YJ6I78": {
+            "asin": "B003YJ6I78",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Unite 7Seconds Condition Leave in Detangler,8fl.oz/236ml",
+            "normalizedName": "Unite 7Seconds Condition Leave in Detangler,8fl.oz/236ml",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            }
+        },
+        "B00B6IM3GE": {
+            "asin": "B00B6IM3GE",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Red Leaf Pre-Workout Energizer - Best Tasting Fitness Supplement - Beta-Alanine, BCAAs, Glutamine, L-Arginine, Green Tea, Cranberry, Raspberry Ketones - Natural Cranberry Lime Flavor - Easy Mix Powder - 30 Servings",
+            "normalizedName": "Red Leaf Pre-Workout Energizer - Best Tasting Fitness Supplement - Beta-Alanine, BCAAs, Glutamine, L-Arginine, Green Tea, Cranberry, Raspberry Ketones - Natural Cranberry Lime Flavor - Easy Mix Powder - 30 Servings",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

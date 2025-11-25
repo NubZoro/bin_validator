@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EM74SK": {
+            "asin": "B000EM74SK",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Weller WSA350 120v Bench Top Smoke Absorber",
+            "normalizedName": "Weller WSA350 120v Bench Top Smoke Absorber",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B0013CQEOU": {
+            "asin": "B0013CQEOU",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Simple Green 11101CT Clean Building Bathroom Cleaner Concentrate, Unscented, 1gal Bottle (Case of 2)",
+            "normalizedName": "(Case of 2) Simple Green 11101CT Clean Building Bathroom Cleaner Concentrate, Unscented, 1gal Bottle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01AQWRUWC": {
+            "asin": "B01AQWRUWC",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Measuring Cups Plastic Cup Set, 1 Quart, 2 Cup and 1 Cup Sizes, Nesting and Stackable for Baking and Cooking with Rubberized Handles and Bases.",
+            "normalizedName": "Measuring Cups Plastic Cup Set, 1 Quart, 2 Cup and 1 Cup Sizes, Nesting and Stackable for Baking and Cooking with Rubberized Handles and Bases.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

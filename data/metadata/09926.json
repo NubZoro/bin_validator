@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0064GZQ2G": {
+            "asin": "B0064GZQ2G",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Pectic Enzyme (powder) - 1 lb.",
+            "normalizedName": "Pectic Enzyme (powder) - 1 lb.",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00KOF1VTA": {
+            "asin": "B00KOF1VTA",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "BoxWave OnePlus One Wall Charger Direct",
+            "normalizedName": "BoxWave OnePlus One Wall Charger Direct",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B0126TBTO8": {
+            "asin": "B0126TBTO8",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "iPhone 6 Case AOFFLY&reg; Nice Saying When Words Fail Music Speaks Black PC Hard Case For Apple iPhone 6 4.7Inch",
+            "normalizedName": "iPhone 6 Case AOFFLY&reg; Nice Saying When Words Fail Music Speaks Black PC Hard Case For Apple iPhone 6 4.7Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0849999999287198
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.7999999930640005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

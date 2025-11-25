@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BQHFM9K": {
+            "asin": "B00BQHFM9K",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Woodstock Chimes Crystal Spiral Suncatcher, Rainbow Heart",
+            "normalizedName": "Woodstock Chimes Crystal Spiral Suncatcher, Rainbow Heart",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00WH3V55C": {
+            "asin": "B00WH3V55C",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Blue and Gold Feathered Chevron Pattern- 8 by Rosie Parker",
+            "normalizedName": "Blue and Gold Feathered Chevron Pattern- 8 by Rosie Parker",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B01468RJ4Q": {
+            "asin": "B01468RJ4Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Tervis Star Wars Force Awakens Bb8 Tumbler with Travel Lid, 16 oz, Clear",
+            "normalizedName": "Tervis Star Wars Force Awakens Bb8 Tumbler with Travel Lid, 16 oz, Clear",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.019999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

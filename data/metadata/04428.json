@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DURIOGW": {
+            "asin": "B00DURIOGW",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Hills Science Diet Adult Indoor Long Coat Cat Food, 3.5-Pound Bag",
+            "normalizedName": "Hills Science Diet Adult Indoor Long Coat Cat Food, 3.5-Pound Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00OS5TB26": {
+            "asin": "B00OS5TB26",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Premium Allergy Pillow Protectors - Hypoallergenic Dust Mite & Bed Bug Free 400 Thread Count 100% Cotton Zippered Pillow Covers - 4 Pack By Home Fashion Designs (King)",
+            "normalizedName": "4 Pack Premium Allergy Pillow Protectors - Hypoallergenic Dust Mite & Bed Bug Free 400 Thread Count 100% Cotton Zippered Pillow Covers - By Home Fashion Designs (King)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00YO2HY8Q": {
+            "asin": "B00YO2HY8Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Turkish Blue Evil Eye (Nazar) 3 Butterflies Amulet Wall Hanging Home Decor Protection Blessing Housewarming Birthday Gift US Seller",
+            "normalizedName": "Turkish Blue Evil Eye (Nazar) 3 Butterflies Amulet Wall Hanging Home Decor Protection Blessing Housewarming Birthday Gift US Seller",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

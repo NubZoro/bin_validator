@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00063E98U": {
+            "asin": "B00063E98U",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.49999998215
+            },
+            "name": "TRIPP LITE SUPER6OMNI Surge Strip 250V German, France Plug 6 Universal Outlets 6 feet Cord 750J",
+            "normalizedName": "TRIPP LITE SUPER6OMNI Surge Strip 250V German, France Plug 6 Universal Outlets 6 feet Cord 750J",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00BUER7EC": {
+            "asin": "B00BUER7EC",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "OmniMount OMH TV Mount for 32-Inch to 60-Inch TVs - Silver",
+            "normalizedName": "OmniMount OMH TV Mount for 32-Inch to 60-Inch TVs - Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007YZGFIU": {
+            "asin": "B007YZGFIU",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Dixon G200-A-AL Aluminum A380 Global Type A Cam and Groove Hose Fitting, 2\" Plug x 2\" NPT Female",
+            "normalizedName": "Dixon G200-A-AL Aluminum A380 Global Type A Cam and Groove Hose Fitting, 2\" Plug x 2\" NPT Female",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B015PXX7AG": {
+            "asin": "B015PXX7AG",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "MFLABEL 200 Half Sheet Laser/Ink Jet Shipping Labels USPS Mailing Labels",
+            "normalizedName": "MFLABEL 200 Half Sheet Laser/Ink Jet Shipping Labels USPS Mailing Labels",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

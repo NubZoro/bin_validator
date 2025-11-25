@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005FQH3B8": {
+            "asin": "B005FQH3B8",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "WHISKAS TENDER BITES Favorite Selections Variety Pack Wet Cat Food 3 Ounces (Pack of 24)",
+            "normalizedName": "(Pack of 24) WHISKAS TENDER BITES Favorite Selections Variety Pack Wet Cat Food 3 Ounces",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.749999996016695
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

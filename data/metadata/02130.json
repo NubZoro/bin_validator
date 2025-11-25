@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FVV0UVC": {
+            "asin": "B00FVV0UVC",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Petal Shaped Royal Silver Incense Stick Burner (Designs may vary)",
+            "normalizedName": "Petal Shaped Royal Silver Incense Stick Burner (Designs may vary)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01DTOZPQW": {
+            "asin": "B01DTOZPQW",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Ultra Rugged Solar USB Charger Power Bank (8000 mAH)- Blue",
+            "normalizedName": "Ultra Rugged Solar USB Charger Power Bank (8000 mAH)- Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0451227530": {
+            "asin": "0451227530",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "Dying for Revenge",
+            "normalizedName": "Dying for Revenge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B0050OWMKW": {
+            "asin": "B0050OWMKW",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "35 and Ticking",
+            "normalizedName": "35 and Ticking",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00M1CFTJM": {
+            "asin": "B00M1CFTJM",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Dragonfly Squadron",
+            "normalizedName": "Dragonfly Squadron",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18333454586339856
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B0124WZYOI": {
+            "asin": "B0124WZYOI",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Lingerie Bag for Laundry from Wash Essentials 5 Piece Set with Cute Print and Durable Zippered Top Saves Money on Clothing Replacement and are Great Travel Bags for Organization",
+            "normalizedName": "5 Piece Set Lingerie Bag for Laundry from Wash Essentials with Cute Print and Durable Zippered Top Saves Money on Clothing Replacement and are Great Travel Bags for Organization",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

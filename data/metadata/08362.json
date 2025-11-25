@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FZMTRFW": {
+            "asin": "B00FZMTRFW",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.236220462
+            },
+            "name": "MODONA 6960-A Towel Ring Chrome Victoria Series",
+            "normalizedName": "MODONA 6960-A Towel Ring Chrome Victoria Series",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.086614166
+            }
+        },
+        "B00V6BSCF2": {
+            "asin": "B00V6BSCF2",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "iPhone 6&6s(4.7\" inch)case,Aluminum Metal Bumper Frame Case with Acrylic Back Plate Cover with HD Screen Protector,for Apple i6&6s,Metal PC-Black",
+            "normalizedName": "iPhone 6&6s(4.7\" inch)case,Aluminum Metal Bumper Frame Case with Acrylic Back Plate Cover with HD Screen Protector,for Apple i6&6s,Metal PC-Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B01DNC0REU": {
+            "asin": "B01DNC0REU",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "GoFriend\u00ae 2000pcs Artificial Fabric Silk Flower Rose Petals Wedding Party Bridal Decoration (White)",
+            "normalizedName": "GoFriend\u00ae 2000pcs Artificial Fabric Silk Flower Rose Petals Wedding Party Bridal Decoration (White)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

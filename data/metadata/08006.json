@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JDQKJGM": {
+            "asin": "B00JDQKJGM",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Amazon.com $200 Gift Card in a Diamond Plate (Classic Black Card Design)",
+            "normalizedName": "Amazon.com $200 Gift Card in a Diamond Plate (Classic Black Card Design)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

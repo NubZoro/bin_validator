@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001P3NU30": {
+            "asin": "B001P3NU30",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Virbac C.E.T. Enzymatic Oral Hygiene Chews, Large Dog, 30 Count",
+            "normalizedName": "Virbac C.E.T. Enzymatic Oral Hygiene Chews, Large Dog, 30 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B01D3IHNI2": {
+            "asin": "B01D3IHNI2",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Ultimate Bamboo Pillow with Stay Cool Cover and USA Hypoallergenic Down Alternative Poly Fiber Fill",
+            "normalizedName": "Ultimate Bamboo Pillow with Stay Cool Cover and USA Hypoallergenic Down Alternative Poly Fiber Fill",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

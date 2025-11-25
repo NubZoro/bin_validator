@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "9332518432": {
+            "asin": "9332518432",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.842519675
+            },
+            "name": "Framework for Human Resource Management",
+            "normalizedName": "Framework for Human Resource Management",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2345760664201924
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.9527558974
+            }
+        },
+        "B00IJBCBPE": {
+            "asin": "B00IJBCBPE",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Joseph Joseph 81009 Nest Storage Plastic Food Storage Containers Set Food Saver Resuable Tupperware Lunch Box Pantry Storage Microwave-Safe, 12-Piece, Multicolored",
+            "normalizedName": "Joseph Joseph 81009 Nest Storage Plastic Food Storage Containers Set Food Saver Resuable Tupperware Lunch Box Pantry Storage Microwave-Safe, 12-Piece, Multicolored",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

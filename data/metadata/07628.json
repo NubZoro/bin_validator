@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0161TCR9A": {
+            "asin": "B0161TCR9A",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "New Year's Eve - Gold Candy Boxes Party Favors (Set of 12)",
+            "normalizedName": "(Set of 12) New Year's Eve - Gold Candy Boxes Party Favors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B018E4KR74": {
+            "asin": "B018E4KR74",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "TANGCHU Russia Icing Piping Nozzles Large Size Pastry Tips Cake Sugarcraft Decorating Tool Set Of 7 Pieces",
+            "normalizedName": "Set Of 7 TANGCHU Russia Icing Piping Nozzles Large Size Pastry Tips Cake Sugarcraft Decorating Tool Pieces",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

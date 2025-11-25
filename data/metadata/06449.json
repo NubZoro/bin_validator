@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001CCGYU0": {
+            "asin": "B001CCGYU0",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Thermaltake CL-P0497 Intel Heatsink with Fan",
+            "normalizedName": "Thermaltake CL-P0497 Intel Heatsink with Fan",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00WSB9DLG": {
+            "asin": "B00WSB9DLG",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Anleolife Makeup Sponge Beauty Blender Sponge Cosmetic Puff Flawless Smooth Shaped Water Droplets Puff Random Color bright orange blue light purple rose red 4pcs/lot(mix color 4pcs-1)",
+            "normalizedName": "Anleolife Makeup Sponge Beauty Blender Sponge Cosmetic Puff Flawless Smooth Shaped Water Droplets Puff Random Color bright orange blue light purple rose red 4pcs/lot(mix color 4pcs-1)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01ABPRWJA": {
+            "asin": "B01ABPRWJA",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Motorola Droid Turbo 2 Case - Asmart Stand Pu Leather Wallet Flip Cover TPU Back Case with Card Slot for Motorola Moto X Force , Droid Turbo 2 (Red)",
+            "normalizedName": "Motorola Droid Turbo 2 Case - Asmart Stand Pu Leather Wallet Flip Cover TPU Back Case with Card Slot for Motorola Moto X Force , Droid Turbo 2 (Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1899999998406678
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00S05KTOO": {
+            "asin": "B00S05KTOO",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Vibrant Splash Water/Beverage Highball Glasses, 13.25 Ounce - Set of 6",
+            "normalizedName": "Set of 6 Vibrant Splash Water/Beverage Highball Glasses, 13.25 Ounce -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B0134V3KIA": {
+            "asin": "B0134V3KIA",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "AmazonBasics Mini DisplayPort to HDMI Cable - 6 Feet",
+            "normalizedName": "AmazonBasics Mini DisplayPort to HDMI Cable - 6 Feet",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.319999999731651
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

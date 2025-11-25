@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005H3GXOM": {
+            "asin": "B005H3GXOM",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "New Balance Insoles IAS3720 Stability Insole,12 US Mens",
+            "normalizedName": "New Balance Insoles IAS3720 Stability Insole,12 US Mens",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00YU3ZVPM": {
+            "asin": "B00YU3ZVPM",
+            "height": {
+                "unit": "IN",
+                "value": 3.4645669256
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.3937007768
+            },
+            "name": "Bluedio BS-3 (Camel) Portable Bluetooth Wireless Stereo Speaker with Microphone for Calls,Black",
+            "normalizedName": "Bluedio BS-3 (Camel) Portable Bluetooth Wireless Stereo Speaker with Microphone for Calls,Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4250601284346027
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.5590551104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

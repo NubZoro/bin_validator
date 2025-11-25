@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003YKPO3Q": {
+            "asin": "B003YKPO3Q",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "My Butterfly Collection - Animated Butterfly in a Jar - Monarch",
+            "normalizedName": "My Butterfly Collection - Animated Butterfly in a Jar - Monarch",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00AJECIUW": {
+            "asin": "B00AJECIUW",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Wildkin Gray Camo Lunch Box",
+            "normalizedName": "Wildkin Gray Camo Lunch Box",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

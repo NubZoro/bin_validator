@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321984242": {
+            "asin": "0321984242",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Human Geography: Places and Regions in Global Context (7th Edition)",
+            "normalizedName": "Human Geography: Places and Regions in Global Context (7th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "148330390X": {
+            "asin": "148330390X",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9212598324
+            },
+            "name": "Dimensions of Human Behavior: The Changing Life Course",
+            "normalizedName": "Dimensions of Human Behavior: The Changing Life Course",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4691521328403847
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0314960548
+            }
+        },
+        "B000052036": {
+            "asin": "B000052036",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "M-D Building Products 3749 Garage Door Bottom Rubber, 16 Feet, Black",
+            "normalizedName": "M-D Building Products 3749 Garage Door Bottom Rubber, 16 Feet, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B0042M7PS2": {
+            "asin": "B0042M7PS2",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Rodelle Gourmet Baking Cocoa, 1.54 pound",
+            "normalizedName": "Rodelle Gourmet Baking Cocoa, 1.54 pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00J2LGV42": {
+            "asin": "B00J2LGV42",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "C&E CNE44542 High-Speed Supports Ethernet, 3D and Audio Return ULTRA Series 50 Feet HDMI Cable",
+            "normalizedName": "C&E CNE44542 High-Speed Supports Ethernet, 3D and Audio Return ULTRA Series 50 Feet HDMI Cable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008MCVA8O": {
+            "asin": "B008MCVA8O",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "3M Particulate Respirator 8576, P95, with Nuisance Level Acid Gas Relief (Pack of 10)",
+            "normalizedName": "(Pack of 10) 3M Particulate Respirator 8576, P95, with Nuisance Level Acid Gas Relief",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B0132X6CH6": {
+            "asin": "B0132X6CH6",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "100% Egyptian Cotton 400 Thread Count Soft and Smooth 2 Piece Pillowcases, King, Solid Teal",
+            "normalizedName": "100% Egyptian Cotton 400 Thread Count Soft and Smooth 2 Piece Pillowcases, King, Solid Teal",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.249999993625
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

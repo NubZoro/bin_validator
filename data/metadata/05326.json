@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IRLJUPU": {
+            "asin": "B00IRLJUPU",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Walnut Hollow Wood Letter, 5 by 0.63-Inch, Ampersand",
+            "normalizedName": "Walnut Hollow Wood Letter, 5 by 0.63-Inch, Ampersand",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01982PJNI": {
+            "asin": "B01982PJNI",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Apple Watch Band, Biaoge Ultra Slim 2.0mm Light Weight 65 g Watchband Steel Watchband Match with Plated Apple Watch Case for Apple Watch (Ultra-thin 2.0mm - Silver 42mm)",
+            "normalizedName": "Apple Watch Band, Biaoge Ultra Slim 2.0mm Light Weight 65 g Watchband Steel Watchband Match with Plated Apple Watch Case for Apple Watch (Ultra-thin 2.0mm - Silver 42mm)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

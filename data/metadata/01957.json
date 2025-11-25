@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006MOXWD0": {
+            "asin": "B006MOXWD0",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Playtex BPA Free Premium Nurser with Drop In Liners, 5 Pack",
+            "normalizedName": "5 Pack Playtex BPA Free Premium Nurser with Drop In Liners,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

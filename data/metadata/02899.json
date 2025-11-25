@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M8VSKW4": {
+            "asin": "B00M8VSKW4",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Thai Kitchen Organic Coconut Milk, Premium, 13.66 Ounce (Pack of 6)",
+            "normalizedName": "(Pack of 6) Thai Kitchen Organic Coconut Milk, Premium, 13.66 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.449999994591091
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B010TFQZA4": {
+            "asin": "B010TFQZA4",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Star Wars Furbacca",
+            "normalizedName": "Star Wars Furbacca",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

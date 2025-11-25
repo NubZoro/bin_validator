@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A46NFJS": {
+            "asin": "B00A46NFJS",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Bon 13-320 14-Inch by 8-Inch Sanding Rasp with Wood Handle",
+            "normalizedName": "Bon 13-320 14-Inch by 8-Inch Sanding Rasp with Wood Handle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00Y7D9QBU": {
+            "asin": "B00Y7D9QBU",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.199999982456
+            },
+            "name": "Grey/black Bagpack",
+            "normalizedName": "Grey/black Bagpack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 14.199999985516
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

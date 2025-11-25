@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007AZ3R2Q": {
+            "asin": "B007AZ3R2Q",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.299999982354
+            },
+            "name": "Scandishake Instant Shake Mix, Vanilla 3 oz (Pack of 36)",
+            "normalizedName": "(Pack of 36) Scandishake Instant Shake Mix, Vanilla 3 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B0187Q723G": {
+            "asin": "B0187Q723G",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Aluminum Architect Scale 12-inch - With Case",
+            "normalizedName": "Aluminum Architect Scale 12-inch - With Case",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

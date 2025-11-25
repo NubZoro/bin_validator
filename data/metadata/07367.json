@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1118974638": {
+            "asin": "1118974638",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "The Secrets of Picking a College (and Getting In!) (Professors' Guide)",
+            "normalizedName": "The Secrets of Picking a College (and Getting In!) (Professors' Guide)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B008OKYB6M": {
+            "asin": "B008OKYB6M",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "name": "HemePlex Fe - 60c",
+            "normalizedName": "HemePlex Fe - 60c",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.299999998674
+            }
+        },
+        "B00WH47TOM": {
+            "asin": "B00WH47TOM",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Seidio New Surface Case with Shock Absorbent Inner Layer and Holster Combo for use with Samsung Galaxy S6 - Black",
+            "normalizedName": "Seidio New Surface Case with Shock Absorbent Inner Layer and Holster Combo for use with Samsung Galaxy S6 - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

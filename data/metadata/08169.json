@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002FCH5QS": {
+            "asin": "B002FCH5QS",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Speedo Kids' Skoogles Swim Goggle, Blue",
+            "normalizedName": "Speedo Kids' Skoogles Swim Goggle, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B002LMV7R0": {
+            "asin": "B002LMV7R0",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "The Taking of Pelham 1 2 3",
+            "normalizedName": "The Taking of Pelham 1 2 3",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00G2BIAEE": {
+            "asin": "B00G2BIAEE",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Kate Spade Women's Letti Rectangular Reading Glasses,Black, White Dot 10,51 mm",
+            "normalizedName": "Kate Spade Women's Letti Rectangular Reading Glasses,Black, White Dot 10,51 mm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01CZMRYY0": {
+            "asin": "B01CZMRYY0",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "name": "S7 Edge Case, Galaxy S7 Edge Case, Harryshell(TM) Red Wallet Folio Leather Flip Case Cover with Card Holder for Samsung Galaxy S7 Edge",
+            "normalizedName": "S7 Edge Case, Galaxy S7 Edge Case, Harryshell(TM) Red Wallet Folio Leather Flip Case Cover with Card Holder for Samsung Galaxy S7 Edge",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 1.968503935
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

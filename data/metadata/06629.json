@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JKK3MAG": {
+            "asin": "B00JKK3MAG",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Natrol Biotin Fast Dissolve Tablets, 10,000 mcg, 60 Count",
+            "normalizedName": "Natrol Biotin Fast Dissolve Tablets, 10,000 mcg, 60 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005DHN5BQ": {
+            "asin": "B005DHN5BQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.0599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Amazon.com $25 Gift Card in a Greeting Card (Oh, Baby! Design)",
+            "normalizedName": "Amazon.com $25 Gift Card in a Greeting Card (Oh, Baby! Design)",
+            "quantity": 14,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.099999999898
+            }
+        },
+        "B014ZHCQJG": {
+            "asin": "B014ZHCQJG",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "[Apple MFI Certified ]Feilky 1m Nylon Braided Jacket 2-in-1 Lightning Cable with 8 Pin& Micro USB Connectors for Iphone 5,iphone5s,iphone 5c,6,6plus,ipad Air Mini,ipod5,sumsung,htc,huawei(silver)",
+            "normalizedName": "[Apple MFI Certified ]Feilky 1m Nylon Braided Jacket 2-in-1 Lightning Cable with 8 Pin& Micro USB Connectors for Iphone 5,iphone5s,iphone 5c,6,6plus,ipad Air Mini,ipod5,sumsung,htc,huawei(silver)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B0185S5XU0": {
+            "asin": "B0185S5XU0",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Apple iPad Mini 4 Flip Cover, Collen\u00ae [Mother's Day Gifts] [ULTRA IMK TECH] Premium Bumper [ULTRA FOLDING KICKSTAND] Folio Smart Leather Cover for New 2015 Apple Mini 4 A09 gold",
+            "normalizedName": "Apple iPad Mini 4 Flip Cover, Collen\u00ae [Mother's Day Gifts] [ULTRA IMK TECH] Premium Bumper [ULTRA FOLDING KICKSTAND] Folio Smart Leather Cover for New 2015 Apple Mini 4 A09 gold",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200233517459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 19
+}

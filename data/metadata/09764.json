@@ -1,0 +1,112 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000053VAX": {
+            "asin": "B000053VAX",
+            "height": {
+                "unit": "IN",
+                "value": 0.59842519624
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "River's Edge",
+            "normalizedName": "River's Edge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.250004205108
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.09842519165
+            }
+        },
+        "B00QWNQMPG": {
+            "asin": "B00QWNQMPG",
+            "height": {
+                "unit": "IN",
+                "value": 4.6
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.2
+            },
+            "name": "DRY Sparkling Rainier Cherry, 12 Ounce, 4 Count",
+            "normalizedName": "DRY Sparkling Rainier Cherry, 12 Ounce, 4 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3499999971907215
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.7
+            }
+        },
+        "B00S0OM4F2": {
+            "asin": "B00S0OM4F2",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "ACDelco 46A1157A Advantage Outer Steering Tie Rod End with Hardware",
+            "normalizedName": "ACDelco 46A1157A Advantage Outer Steering Tie Rod End with Hardware",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B018F4PX9K": {
+            "asin": "B018F4PX9K",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "MyMemories Suite 7 Digital Scrapbooking Software [Mac and PC]",
+            "normalizedName": "MyMemories Suite 7 Digital Scrapbooking Software [Mac and PC]",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01DE9ICRG": {
+            "asin": "B01DE9ICRG",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "name": "Safety Solutions Gun Accessories Mount Anywhere Single Shotgun Rifle Vinyl Coated Metal Gun Rack (Hand made in USA) (Rifle Rack)",
+            "normalizedName": "Safety Solutions Gun Accessories Mount Anywhere Single Shotgun Rifle Vinyl Coated Metal Gun Rack (Hand made in USA) (Rifle Rack)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

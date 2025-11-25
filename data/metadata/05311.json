@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IVC7W3C": {
+            "asin": "B00IVC7W3C",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "name": "AC/DC 12V 5W MR16 LED Bulb, 50W Halogen Equivalent 5000K Daylight LED MR16 Spotlight, 340 Lumen 36 Degree Beam Angle Bi Pin GU5.3 Base for Home, Recessed, Accent, Landscape, Track Lighting",
+            "normalizedName": "AC/DC 12V 5W MR16 LED Bulb, 50W Halogen Equivalent 5000K Daylight LED MR16 Spotlight, 340 Lumen 36 Degree Beam Angle Bi Pin GU5.3 Base for Home, Recessed, Accent, Landscape, Track Lighting",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00K9A2KQS": {
+            "asin": "B00K9A2KQS",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Carstens Realtree AP 2 Piece Baby Bib, Pink",
+            "normalizedName": "Carstens Realtree AP 2 Piece Baby Bib, Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

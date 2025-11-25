@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002BF9698": {
+            "asin": "B002BF9698",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.899999980722
+            },
+            "name": "Body Glove Women's Pro 3 Full Wetsuit, 5/6 mm",
+            "normalizedName": "Body Glove Women's Pro 3 Full Wetsuit, 5/6 mm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

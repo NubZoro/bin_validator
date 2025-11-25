@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000TCD51A": {
+            "asin": "B000TCD51A",
+            "height": {
+                "unit": "IN",
+                "value": 2.4803149581
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.3149606194
+            },
+            "name": "ORGANIC Cotton Makeup Puff, Medium",
+            "normalizedName": "ORGANIC Cotton Makeup Puff, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25132441352125345
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.480314953
+            }
+        },
+        "B002889LDO": {
+            "asin": "B002889LDO",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "WAC Lighting QP-501-BN Socket Set for G500 Series QC Glass with 72-Inch Cord",
+            "normalizedName": "WAC Lighting QP-501-BN Socket Set for G500 Series QC Glass with 72-Inch Cord",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00N1XCABK": {
+            "asin": "B00N1XCABK",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Citrus Magic Odor Absorbing Solid Air Freshener, Pure Linen, 8-Ounce, 6-Pack",
+            "normalizedName": "6-Pack Citrus Magic Odor Absorbing Solid Air Freshener, Pure Linen, 8-Ounce,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.099999996561778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

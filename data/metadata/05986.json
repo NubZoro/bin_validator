@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0545867479": {
+            "asin": "0545867479",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Kill the Boy Band",
+            "normalizedName": "Kill the Boy Band",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B015MHYH0O": {
+            "asin": "B015MHYH0O",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "EMeskymall 5Pcs Horizontal Style Grey Name ID Tag Badge Card Holder With White Lanyard",
+            "normalizedName": "EMeskymall 5Pcs Horizontal Style Grey Name ID Tag Badge Card Holder With White Lanyard",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

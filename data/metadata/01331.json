@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0029XHTDC": {
+            "asin": "B0029XHTDC",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Margaret Holmes, Cajun Style Boiled Peanuts, 13.5oz (Pack of 6)",
+            "normalizedName": "(Pack of 6) Margaret Holmes, Cajun Style Boiled Peanuts, 13.5oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00U6I9TV2": {
+            "asin": "B00U6I9TV2",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Flonase Allergy Relief Nasal Spray (Pack of 3 (120 ct ea))",
+            "normalizedName": "Pack of 3 Flonase Allergy Relief Nasal Spray ( (120 ct ea))",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B010HWDPKW": {
+            "asin": "B010HWDPKW",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "EVGA SuperNOVA 650 P2 80+ PLATINUM, 650W ECO Mode Fully Modular NVIDIA SLI and Crossfire Ready 10 Year Warranty Power Supply",
+            "normalizedName": "EVGA SuperNOVA 650 P2 80+ PLATINUM, 650W ECO Mode Fully Modular NVIDIA SLI and Crossfire Ready 10 Year Warranty Power Supply",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.6699999944066
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00063E98U": {
+            "asin": "B00063E98U",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.49999998215
+            },
+            "name": "TRIPP LITE SUPER6OMNI Surge Strip 250V German, France Plug 6 Universal Outlets 6 feet Cord 750J",
+            "normalizedName": "TRIPP LITE SUPER6OMNI Surge Strip 250V German, France Plug 6 Universal Outlets 6 feet Cord 750J",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B000ELP7TY": {
+            "asin": "B000ELP7TY",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "Quality-Built 6492SN Supreme Domestic Starter - New",
+            "normalizedName": "Quality-Built 6492SN Supreme Domestic Starter - New",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

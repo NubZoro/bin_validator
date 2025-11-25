@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1582381356": {
+            "asin": "1582381356",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Bird Life (A Golden Guide from St. Martin's Press)",
+            "normalizedName": "Bird Life (A Golden Guide from St. Martin's Press)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B00KOCLVZC": {
+            "asin": "B00KOCLVZC",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Glade 2-in-1 Jar Candle, Creamy Custard/Apple Cinnamon, 3.8 Ounce",
+            "normalizedName": "Glade 2-in-1 Jar Candle, Creamy Custard/Apple Cinnamon, 3.8 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

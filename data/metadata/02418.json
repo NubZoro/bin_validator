@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00631GZEU": {
+            "asin": "B00631GZEU",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "WD-40 300045 Specialist Rust Remover Soak, 1 Gallon (Pack of 1)",
+            "normalizedName": "(Pack of 1) WD-40 300045 Specialist Rust Remover Soak, 1 Gallon",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.950676481546394
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B00OLP8W8M": {
+            "asin": "B00OLP8W8M",
+            "height": {
+                "unit": "IN",
+                "value": 2.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.0
+            },
+            "name": "AUTO-VOX 32\" Pipeline LED Inflatable Turbo Lighting Snow Tube Sled for One Single Rider on Sledding Hill in Happy Winter (for Children Snow Play)",
+            "normalizedName": "AUTO-VOX 32\" Pipeline LED Inflatable Turbo Lighting Snow Tube Sled for One Single Rider on Sledding Hill in Happy Winter (for Children Snow Play)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

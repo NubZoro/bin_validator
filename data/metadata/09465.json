@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0671581910": {
+            "asin": "0671581910",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "name": "How To Get Your Point Across In 30 Seconds Or Less",
+            "normalizedName": "How To Get Your Point Across In 30 Seconds Or Less",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        },
+        "B00JQVV9WW": {
+            "asin": "B00JQVV9WW",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Bob Dale 90-0-615 Knitted Acrylic Balaclava 1-Hole with C-40 Thinsulate, Size 1, Black",
+            "normalizedName": "Bob Dale 90-0-615 Knitted Acrylic Balaclava 1-Hole with C-40 Thinsulate, Size 1, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

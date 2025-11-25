@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006JNK2": {
+            "asin": "B00006JNK2",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Expo 2 Low-Odor Dry Erase Markers, Chisel Tip, 12-Pack, Black",
+            "normalizedName": "12-Pack Expo 2 Low-Odor Dry Erase Markers, Chisel Tip, , Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B001U8PRY0": {
+            "asin": "B001U8PRY0",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Swingline Staples, Optima Premium, 0.25 Inch Leg Length, 210 per Strip, 3,750 Staples per Box (S7035556)",
+            "normalizedName": "Swingline Staples, Optima Premium, 0.25 Inch Leg Length, 210 per Strip, 3,750 Staples per Box (S7035556)",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B01E8OQUSE": {
+            "asin": "B01E8OQUSE",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "name": "Kamisafe KM-T601 Super Bright Handheld LED Tactical Flashlight Lamp Cree XML T6 5 Modes Waterproof Flashlight with Wrist Strap",
+            "normalizedName": "Kamisafe KM-T601 Super Bright Handheld LED Tactical Flashlight Lamp Cree XML T6 5 Modes Waterproof Flashlight with Wrist Strap",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.42
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

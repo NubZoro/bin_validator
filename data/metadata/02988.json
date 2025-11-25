@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006SW71G": {
+            "asin": "B0006SW71G",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Advil Tablets Pain Reliever Refill,200 mg, 50 Two-Packs per Box",
+            "normalizedName": "Advil Tablets Pain Reliever Refill,200 mg, 50 Two-Packs per Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01EHMQW08": {
+            "asin": "B01EHMQW08",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Marsway First Aid Kit 180 Pieces Portable Emergency Survival Bag (23*14*6CM) for Car, Home, Travel, Office, School, Camping, Hunting and Sports",
+            "normalizedName": "Marsway First Aid Kit 180 Pieces Portable Emergency Survival Bag (23*14*6CM) for Car, Home, Travel, Office, School, Camping, Hunting and Sports",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01GHRC7H8": {
+            "asin": "B01GHRC7H8",
+            "height": {
+                "unit": "IN",
+                "value": 4.33
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.52
+            },
+            "name": "TRUE STAR\u00ae 20pcs 25mm 1\" Rubber Soft Black Disposable Tattoo Tubes with Clear Long Tips Diamond (7F)",
+            "normalizedName": "TRUE STAR\u00ae 20pcs 25mm 1\" Rubber Soft Black Disposable Tattoo Tubes with Clear Long Tips Diamond (7F)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.52
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

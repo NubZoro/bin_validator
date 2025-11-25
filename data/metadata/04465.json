@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006OQ48OI": {
+            "asin": "B006OQ48OI",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Camco 42801 Picnic Blanket (51\" x 59\", Red/White)",
+            "normalizedName": "Camco 42801 Picnic Blanket (51\" x 59\", Red/White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00LV46BVQ": {
+            "asin": "B00LV46BVQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Purrfect Arch Groom Toy",
+            "normalizedName": "Purrfect Arch Groom Toy",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        },
+        "B00TKUCZ5Y": {
+            "asin": "B00TKUCZ5Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "HOUDINI TAPHW8814 Wine-Preserving Stopper",
+            "normalizedName": "HOUDINI TAPHW8814 Wine-Preserving Stopper",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

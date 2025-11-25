@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001Q3LYDW": {
+            "asin": "B001Q3LYDW",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8188976288
+            },
+            "name": "RUKO 106160 High Speed Steel Bi-Metal Hole Saw, 6-5/16\"",
+            "normalizedName": "RUKO 106160 High Speed Steel Bi-Metal Hole Saw, 6-5/16\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.16
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.7401574714
+            }
+        },
+        "B00RLYLC5A": {
+            "asin": "B00RLYLC5A",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Quilted Microfiber Pet Dog Couch Sofa Furniture Protector Cover, Kashi, 5 Colors, 3 Sizes (Love Seat 88\" X 71\", Black)",
+            "normalizedName": "Quilted Microfiber Pet Dog Couch Sofa Furniture Protector Cover, Kashi, 5 Colors, 3 Sizes (Love Seat 88\" X 71\", Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B014DEI2OY": {
+            "asin": "B014DEI2OY",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Barbie Gymnastic Coach Dolls & Playset",
+            "normalizedName": "Barbie Gymnastic Coach Dolls & Playset",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

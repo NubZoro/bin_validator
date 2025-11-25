@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ZLZMRU": {
+            "asin": "B000ZLZMRU",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Godinger Dublin Wine Decanter",
+            "normalizedName": "Godinger Dublin Wine Decanter",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

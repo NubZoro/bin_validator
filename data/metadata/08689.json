@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003FW0YZG": {
+            "asin": "B003FW0YZG",
+            "height": {
+                "unit": "IN",
+                "value": 4.9606299162
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.173228332
+            },
+            "name": "Hot Wheels Basic Car 50-Pack (Packaging May Vary)",
+            "normalizedName": "50-Pack Hot Wheels Basic Car (Packaging May Vary)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.202856275550602
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.267716527
+            }
+        },
+        "B008G7LDJQ": {
+            "asin": "B008G7LDJQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Nescafe Espresso 100% Arabica 100g (3-pack)",
+            "normalizedName": "Nescafe Espresso 100% Arabica 100g (3-pack)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B016U7VROE": {
+            "asin": "B016U7VROE",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Microfiber Sheet Set Quality Bedding 1800 Count Series 6 Piece Classic Soft Bed Linens Designed To Add An Elegant Touch To Your Bedroom (King, Camel)",
+            "normalizedName": "Microfiber Sheet Set Quality Bedding 1800 Count Series 6 Piece Classic Soft Bed Linens Designed To Add An Elegant Touch To Your Bedroom (King, Camel)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.099999996561778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

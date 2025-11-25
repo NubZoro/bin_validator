@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000AOGM9E": {
+            "asin": "B000AOGM9E",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Littelfuse 0MEG150.XP MEGA BP Slo-Blo Automotive Bolt-Down Fuse",
+            "normalizedName": "Littelfuse 0MEG150.XP MEGA BP Slo-Blo Automotive Bolt-Down Fuse",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.699999996226
+            }
+        },
+        "B01317F9OA": {
+            "asin": "B01317F9OA",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "IPhone 6 6S Plus 5.5 Sleeve , [ ULTRA SLIM ] Elastic Pull Strap , Synthetic Leather Protective Sleeve Pouch Cover Case , Professional Executive Case Design . - Brown",
+            "normalizedName": "IPhone 6 6S Plus 5.5 Sleeve , [ ULTRA SLIM ] Elastic Pull Strap , Synthetic Leather Protective Sleeve Pouch Cover Case , Professional Executive Case Design . - Brown",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

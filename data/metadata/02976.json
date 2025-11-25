@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FH188G": {
+            "asin": "B000FH188G",
+            "height": {
+                "unit": "IN",
+                "value": 3.79921259455
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.20078738709
+            },
+            "name": "Two Leaves Tea Company Organic African Sunset Red Tea, 100-Count",
+            "normalizedName": "Two Leaves Tea Company Organic African Sunset Red Tea, 100-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3000218665616
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.5984251891
+            }
+        },
+        "B0027HCXO0": {
+            "asin": "B0027HCXO0",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Educational Insights Quiz Shark - Card Game Using Quizshark Software Interactive Quiz System ''Educational''",
+            "normalizedName": "Educational Insights Quiz Shark - Card Game Using Quizshark Software Interactive Quiz System ''Educational''",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B00GOO5AAQ": {
+            "asin": "B00GOO5AAQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.5
+            },
+            "name": "Genuine Ricoh D014-2441 (D0142441) Charge Roller Unit-by-Toshiba",
+            "normalizedName": "Genuine Ricoh D014-2441 (D0142441) Charge Roller Unit-by-Toshiba",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.9
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013J9KOVI": {
+            "asin": "B013J9KOVI",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Funny Guy Mugs Coffee Makes Me Poop Glass Coffee Mug",
+            "normalizedName": "Funny Guy Mugs Coffee Makes Me Poop Glass Coffee Mug",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

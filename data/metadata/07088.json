@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00362RVG0": {
+            "asin": "B00362RVG0",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "US Toy Toy Dogs Toy Figure (1 Dozen), 4\" Long",
+            "normalizedName": "US Toy Toy Dogs Toy Figure (1 Dozen), 4\" Long",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01DF3IEZQ": {
+            "asin": "B01DF3IEZQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Bnad Cover For Fitbit Charge/Fitbit Charge HR Slim Designer Sleeve - Band Cover",
+            "normalizedName": "Bnad Cover For Fitbit Charge/Fitbit Charge HR Slim Designer Sleeve - Band Cover",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

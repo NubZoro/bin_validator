@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009F3RQA": {
+            "asin": "B0009F3RQA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Nature's Way Ginkgold Eyes, 60 Tablets",
+            "normalizedName": "Nature's Way Ginkgold Eyes, 60 Tablets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00M0SP26C": {
+            "asin": "B00M0SP26C",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "NFL Ladies Tri-Blend Long Sleeve U-Neck Tee, New York Giants, Small",
+            "normalizedName": "NFL Ladies Tri-Blend Long Sleeve U-Neck Tee, New York Giants, Small",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

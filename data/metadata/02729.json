@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000C9KKKE": {
+            "asin": "B000C9KKKE",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "ACDelco 349V GM Original Equipment Spark Plug Wire",
+            "normalizedName": "ACDelco 349V GM Original Equipment Spark Plug Wire",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B009B2Y98C": {
+            "asin": "B009B2Y98C",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "3M 70071559465 Virtua 11228-00000-100 Clear Polycarbonate Safety Glasses, Uncoated Lens, Clear Temple, Price Per Each",
+            "normalizedName": "3M 70071559465 Virtua 11228-00000-100 Clear Polycarbonate Safety Glasses, Uncoated Lens, Clear Temple, Price Per Each",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.019999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00MBR6BRQ": {
+            "asin": "B00MBR6BRQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Nine Naturals Natural Unscented Pregnancy Deodorant",
+            "normalizedName": "Nine Naturals Natural Unscented Pregnancy Deodorant",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B01B424U8A": {
+            "asin": "B01B424U8A",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Onion Ceramic Carb Cap Universal 10mm 14mm 18mm",
+            "normalizedName": "Onion Ceramic Carb Cap Universal 10mm 14mm 18mm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

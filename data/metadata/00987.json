@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002YFCWU": {
+            "asin": "B0002YFCWU",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "name": "Source Naturals Acetyl L-Carnitine, 250mg, 30 Tablets",
+            "normalizedName": "Source Naturals Acetyl L-Carnitine, 250mg, 30 Tablets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.599999998368
+            }
+        },
+        "B000L7EGMA": {
+            "asin": "B000L7EGMA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Pathfinders Medieval Catapult Wooden Kit",
+            "normalizedName": "Pathfinders Medieval Catapult Wooden Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00ZG7DF6S": {
+            "asin": "B00ZG7DF6S",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Grey MacBook 12 Cover. Handmade Synthetic Felt Case. Brown leather strap. Unique Sleeve.",
+            "normalizedName": "Grey MacBook 12 Cover. Handmade Synthetic Felt Case. Brown leather strap. Unique Sleeve.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B01CAFJKY4": {
+            "asin": "B01CAFJKY4",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999971439996
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999694
+            },
+            "name": "FriendlyTomato PS4 Cooling Station Vertical Stand with 2 Controller Charging Dock",
+            "normalizedName": "FriendlyTomato PS4 Cooling Station Vertical Stand with 2 Controller Charging Dock",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

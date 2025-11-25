@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000J0AQO6": {
+            "asin": "B000J0AQO6",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Fellowes Plastic Comb Binding Spines, 3/4 Inch Diameter, Black, 150 Sheets, 100 Pack (52367)",
+            "normalizedName": "100 Pack Fellowes Plastic Comb Binding Spines, 3/4 Inch Diameter, Black, 150 Sheets, (52367)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B0092TUO10": {
+            "asin": "B0092TUO10",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Fellowes Binding Linen Presentation Covers, Letter, Black, 200 Pack (5217001)",
+            "normalizedName": "200 Pack Fellowes Binding Linen Presentation Covers, Letter, Black, (5217001)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.34999999467495
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B0179D1KXG": {
+            "asin": "B0179D1KXG",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "Loctek Height Adjustable Articulating Dual Arm Desk Monitor Mount Spring Gas LCD Arm 10 - 24 Inch 20\" 21\" 22\" 23\" Samsung/dell/asus/acer/hp/lcd/pdp (Dual Arm with USB Ports)",
+            "normalizedName": "Loctek Height Adjustable Articulating Dual Arm Desk Monitor Mount Spring Gas LCD Arm 10 - 24 Inch 20\" 21\" 22\" 23\" Samsung/dell/asus/acer/hp/lcd/pdp (Dual Arm with USB Ports)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.649999989391832
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.399999986332
+            }
+        },
+        "B01ASVVJRI": {
+            "asin": "B01ASVVJRI",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Pinty 2L Hiking Backpack Hydration Pack with Water Bladder Cycling Climbing Camping Bag (Orange)",
+            "normalizedName": "Pinty 2L Hiking Backpack Hydration Pack with Water Bladder Cycling Climbing Camping Bag (Orange)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

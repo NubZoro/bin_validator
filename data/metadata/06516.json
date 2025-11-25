@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000092OX4": {
+            "asin": "B000092OX4",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Olay Regenerist Regenerating Face Lotion Moisturizer with Broad Spectrum SPF 2.5 Fl Oz",
+            "normalizedName": "Olay Regenerist Regenerating Face Lotion Moisturizer with Broad Spectrum SPF 2.5 Fl Oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B000LL0R8I": {
+            "asin": "B000LL0R8I",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Vita Coco Coconut Water, Pure, 11.1 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Vita Coco Coconut Water, Pure, 11.1 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.299999992201107
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B007L0DPE0": {
+            "asin": "B007L0DPE0",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Vitafusion Women's Gummy Vitamins, Natural Berry Flavors, 150 Count",
+            "normalizedName": "Vitafusion Women's Gummy Vitamins, Natural Berry Flavors, 150 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0247251872511423
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

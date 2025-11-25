@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C43H6BC": {
+            "asin": "B00C43H6BC",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Nutramigen with Enflora LGG Toddler Formula - 12.6 oz Powder Can",
+            "normalizedName": "Nutramigen with Enflora LGG Toddler Formula - 12.6 oz Powder Can",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01DCY7OP4": {
+            "asin": "B01DCY7OP4",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Soccer Player Cristiano Ronaldo White Rubber TPU iPhone 6 Plus and iPhone 6s Plus Protective Phone Case Cover",
+            "normalizedName": "Soccer Player Cristiano Ronaldo White Rubber TPU iPhone 6 Plus and iPhone 6s Plus Protective Phone Case Cover",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

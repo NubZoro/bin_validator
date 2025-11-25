@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013OXKHC": {
+            "asin": "B0013OXKHC",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "NOW Foods Super Enzymes, 180 Capsules",
+            "normalizedName": "NOW Foods Super Enzymes, 180 Capsules",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B001QVWX98": {
+            "asin": "B001QVWX98",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Mr. Gasket 3420G Hex Head Header Bolt",
+            "normalizedName": "Mr. Gasket 3420G Hex Head Header Bolt",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00G5K45VY": {
+            "asin": "B00G5K45VY",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Burt's Bees Baby Bee Lovey - Sky",
+            "normalizedName": "Burt's Bees Baby Bee Lovey - Sky",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00P7XCMK6": {
+            "asin": "B00P7XCMK6",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Prop Clockwise Rotation Clear (2): Nano QX",
+            "normalizedName": "Prop Clockwise Rotation Clear (2): Nano QX",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

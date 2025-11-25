@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000UVQSYQ": {
+            "asin": "B000UVQSYQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "US Forge Welding Flint Striker Triple #00509",
+            "normalizedName": "US Forge Welding Flint Striker Triple #00509",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B006FRQZOW": {
+            "asin": "B006FRQZOW",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "4 Buttons Remote Flip Key Shell For VW Passat Jetta GOLF No Chips Inside",
+            "normalizedName": "4 Buttons Remote Flip Key Shell For VW Passat Jetta GOLF No Chips Inside",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B00KH2OXUY": {
+            "asin": "B00KH2OXUY",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Denise Needles Interchangeable Knitting Tools Set, Medium",
+            "normalizedName": "Denise Needles Interchangeable Knitting Tools Set, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

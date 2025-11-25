@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000002MNA": {
+            "asin": "B000002MNA",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "The Hits 2",
+            "normalizedName": "The Hits 2",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770734815265533
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B003LAKE3E": {
+            "asin": "B003LAKE3E",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.3779527494
+            },
+            "name": "Wilton Foil Candy Wrappers, 4 by 4-Inch, Silver, 50-Pack",
+            "normalizedName": "50-Pack Wilton Foil Candy Wrappers, 4 by 4-Inch, Silver,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6692913328
+            }
+        },
+        "B006ODBWOK": {
+            "asin": "B006ODBWOK",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Thumbs Up! Day and Night Heat Sensitive Mug",
+            "normalizedName": "Thumbs Up! Day and Night Heat Sensitive Mug",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

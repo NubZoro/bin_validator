@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0037QGELI": {
+            "asin": "B0037QGELI",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Tom's of Maine Fragrance-Free Natural Confidence Roll-On Deodorant, 2.40-Ounce Bottles (Pack of 6)",
+            "normalizedName": "(Pack of 6) Tom's of Maine Fragrance-Free Natural Confidence Roll-On Deodorant, 2.40-Ounce Bottles",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01COZX8FW": {
+            "asin": "B01COZX8FW",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Smash-It Samsung Galaxy S7 Premium High Definition Tempered Glass Screen Protector + Matt PET Film for Back with Crystal Clear/Anti-Scratch and Bubble-Free Installation",
+            "normalizedName": "Smash-It Samsung Galaxy S7 Premium High Definition Tempered Glass Screen Protector + Matt PET Film for Back with Crystal Clear/Anti-Scratch and Bubble-Free Installation",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000YF99GM": {
+            "asin": "B000YF99GM",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Bob's Red Mill, Coconut Flour, Organic, 16 oz",
+            "normalizedName": "Bob's Red Mill, Coconut Flour, Organic, 16 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00SZXANL0": {
+            "asin": "B00SZXANL0",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.5511810916
+            },
+            "name": "Arkon Tripod Tablet Mount for iPad Air 2 iPad Pro iPad 4 3 2 Galaxy Note 10.1 Galaxy Tab Pro Retail Black",
+            "normalizedName": "Arkon Tripod Tablet Mount for iPad Air 2 iPad Pro iPad 4 3 2 Galaxy Note 10.1 Galaxy Tab Pro Retail Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800355822459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1889763696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

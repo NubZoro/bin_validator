@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003TXDZS4": {
+            "asin": "B003TXDZS4",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Perfecto Premium Peanut Oil (1 Gallon)",
+            "normalizedName": "Perfecto Premium Peanut Oil (1 Gallon)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00MFPBW4Q": {
+            "asin": "B00MFPBW4Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "BOOMco. Ultimate Rounds Pack",
+            "normalizedName": "BOOMco. Ultimate Rounds Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

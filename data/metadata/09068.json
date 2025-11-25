@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015NIRCBS": {
+            "asin": "B015NIRCBS",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Halo Master Chief Dog Leash",
+            "normalizedName": "Halo Master Chief Dog Leash",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B01AGZJZMW": {
+            "asin": "B01AGZJZMW",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Oberhaus Premium Silicone Kitchen Tongs, 9-inch, Non Stick (Green)",
+            "normalizedName": "Oberhaus Premium Silicone Kitchen Tongs, 9-inch, Non Stick (Green)",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

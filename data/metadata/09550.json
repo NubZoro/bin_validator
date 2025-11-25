@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003U82VTC": {
+            "asin": "B003U82VTC",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Broadway Basketeers Gift Tower of Sweets",
+            "normalizedName": "Broadway Basketeers Gift Tower of Sweets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B011JC4NBO": {
+            "asin": "B011JC4NBO",
+            "height": {
+                "unit": "IN",
+                "value": 1.949999998011
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.349999985363
+            },
+            "name": "Large Fitted Round Sculptured Vinyl Table Cover fits 49\" to 62\" Stainless Steel Aluminum",
+            "normalizedName": "Large Fitted Round Sculptured Vinyl Table Cover fits 49\" to 62\" Stainless Steel Aluminum",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9899999991697953
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.599999986128001
+            }
+        },
+        "B016QXT10O": {
+            "asin": "B016QXT10O",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Fishers Finery Day At the Beach Beach Bag, Individual Size",
+            "normalizedName": "Fishers Finery Day At the Beach Beach Bag, Individual Size",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B019BJ5EN8": {
+            "asin": "B019BJ5EN8",
+            "height": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Insignia\u2122 - 10-cup Coffeemaker - Pink",
+            "normalizedName": "Insignia\u2122 - 10-cup Coffeemaker - Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

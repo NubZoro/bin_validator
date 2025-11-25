@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001M09BQQ": {
+            "asin": "B001M09BQQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Quaker Instant Oatmeal, Original, Breakfast Cereal, 12 Packets Per Box (Pack of 4)",
+            "normalizedName": "(Pack of 4) Quaker Instant Oatmeal, Original, Breakfast Cereal, 12 Packets Per Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B01CU4IYPQ": {
+            "asin": "B01CU4IYPQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "1800 Series Egyptian Collection Solid Microfiber 6 Piece Sheet Set (Queen,Chocolate)",
+            "normalizedName": "1800 Series Egyptian Collection Solid Microfiber 6 Piece Sheet Set (Queen,Chocolate)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.19999999647792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B01DMBTCLQ": {
+            "asin": "B01DMBTCLQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "KOBEST Pocket document file Poly Expanding Letter Size File Organizer, 5 Pockets, stylish colorful and very lightweight(Blue and yelow)",
+            "normalizedName": "KOBEST Pocket document file Poly Expanding Letter Size File Organizer, 5 Pockets, stylish colorful and very lightweight(Blue and yelow)",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3299999997232651
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A78GZOA": {
+            "asin": "B00A78GZOA",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "AGPtek\u00ae Portable Dual Nozzle Rose Red 110V 600W Electric Balloon Blower Pump/Electric Balloon Inflator For Decoration",
+            "normalizedName": "AGPtek\u00ae Portable Dual Nozzle Rose Red 110V 600W Electric Balloon Blower Pump/Electric Balloon Inflator For Decoration",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00TY40K5I": {
+            "asin": "B00TY40K5I",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Kinetic Sand, Butterfly Garden Set",
+            "normalizedName": "Kinetic Sand, Butterfly Garden Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

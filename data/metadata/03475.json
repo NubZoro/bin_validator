@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321908449": {
+            "asin": "0321908449",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Chemistry: An Introduction to General, Organic, and Biological Chemistry (12th Edition)",
+            "normalizedName": "Chemistry: An Introduction to General, Organic, and Biological Chemistry (12th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "128546091X": {
+            "asin": "128546091X",
+            "height": {
+                "unit": "IN",
+                "value": 1.3385826758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.023622036
+            },
+            "name": "Understandable Statistics",
+            "normalizedName": "Understandable Statistics",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.321016232470673
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.661417314
+            }
+        },
+        "1305105427": {
+            "asin": "1305105427",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Abnormal Child Psychology",
+            "normalizedName": "Abnormal Child Psychology",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "1613773501": {
+            "asin": "1613773501",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "G.I. JOE: Field Manual Volume 1 (GI Joe Field Manual SC)",
+            "normalizedName": "G.I. JOE: Field Manual Volume 1 (GI Joe Field Manual SC)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00NR2VMNC": {
+            "asin": "B00NR2VMNC",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "TP-LINK AC750 Dual Band Wi-Fi Range Extender (RE200)",
+            "normalizedName": "TP-LINK AC750 Dual Band Wi-Fi Range Extender (RE200)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

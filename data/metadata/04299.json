@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FIUQB0": {
+            "asin": "B000FIUQB0",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Hormel White & Dark Chunk Turkey, 5-Ounce Cans (Pack of 12)",
+            "normalizedName": "(Pack of 12) Hormel White & Dark Chunk Turkey, 5-Ounce Cans",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B000MGXS88": {
+            "asin": "B000MGXS88",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.199999982456
+            },
+            "name": "Pinzon Luxury 820-Gram Bath Sheet - White",
+            "normalizedName": "Pinzon Luxury 820-Gram Bath Sheet - White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        },
+        "B000PH0G84": {
+            "asin": "B000PH0G84",
+            "height": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "Trans Glob Lighting 69903 RBZ Outdoor Pendant Light",
+            "normalizedName": "Trans Glob Lighting 69903 RBZ Outdoor Pendant Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        },
+        "B01A5RZUAW": {
+            "asin": "B01A5RZUAW",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Mega Bloks Teenage Mutant Ninja Turtles Jungle Takedown Set",
+            "normalizedName": "Mega Bloks Teenage Mutant Ninja Turtles Jungle Takedown Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

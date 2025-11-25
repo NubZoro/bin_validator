@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01ACUPAO8": {
+            "asin": "B01ACUPAO8",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Apple Pencil Case Cover Sleeve Bag Pouch Holder - 1 PEN M-c14 Washable (Light Brown)",
+            "normalizedName": "Apple Pencil Case Cover Sleeve Bag Pouch Holder - 1 PEN M-c14 Washable (Light Brown)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

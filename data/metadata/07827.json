@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ASSR264": {
+            "asin": "B00ASSR264",
+            "height": {
+                "unit": "IN",
+                "value": 3.9
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.9
+            },
+            "name": "Allen Sports Aluminum Folding 2-Bike Rack",
+            "normalizedName": "Allen Sports Aluminum Folding 2-Bike Rack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.6
+            }
+        },
+        "B01DVOBESS": {
+            "asin": "B01DVOBESS",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Hippih Silent Wall Clock Wood 9 inch Non Ticking Digital Quiet Sweep Decorative Vintage Wooden Clocks A",
+            "normalizedName": "Hippih Silent Wall Clock Wood 9 inch Non Ticking Digital Quiet Sweep Decorative Vintage Wooden Clocks A",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

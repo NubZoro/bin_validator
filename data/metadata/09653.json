@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I3BQJNA": {
+            "asin": "B00I3BQJNA",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Kingston Digital 64GB SDXC UHS-I Speed Class 3 Flash Card (SDA3/64GB)",
+            "normalizedName": "Kingston Digital 64GB SDXC UHS-I Speed Class 3 Flash Card (SDA3/64GB)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00LBAGLGA": {
+            "asin": "B00LBAGLGA",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Bastex Heavy Duty Hybrid Case for Apple iPhone 5, 5S, 5G, 5th Generation - Powder Sky Blue Silicone Cover with Black and White Zebra Print Design Hard Shell",
+            "normalizedName": "Bastex Heavy Duty Hybrid Case for Apple iPhone 5, 5S, 5G, 5th Generation - Powder Sky Blue Silicone Cover with Black and White Zebra Print Design Hard Shell",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

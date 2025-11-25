@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HST0UEM": {
+            "asin": "B00HST0UEM",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Nokia Lumia 1320 Black Factory Unlocked GSM - International Version phone - No Warranty",
+            "normalizedName": "Nokia Lumia 1320 Black Factory Unlocked GSM - International Version phone - No Warranty",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00MRZ7JF0": {
+            "asin": "B00MRZ7JF0",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Ella's Kitchen Organic Stage 2, Apples + Strawberries, 3.5 Ounce (Pack of 6)",
+            "normalizedName": "(Pack of 6) Ella's Kitchen Organic Stage 2, Apples + Strawberries, 3.5 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B00ZELEKIS": {
+            "asin": "B00ZELEKIS",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Zookki Camera Accessory Kit for GoPro Hero 4/ 3+/ 3/ 2/ 1/ SJ4000/ SJ5000/ SJ6000 - Black Silver (19 Items)",
+            "normalizedName": "Zookki Camera Accessory Kit for GoPro Hero 4/ 3+/ 3/ 2/ 1/ SJ4000/ SJ5000/ SJ6000 - Black Silver (19 Items)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

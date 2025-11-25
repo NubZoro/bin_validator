@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0878939784": {
+            "asin": "0878939784",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Developmental Biology, Tenth Edition",
+            "normalizedName": "Developmental Biology, Tenth Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "130509414X": {
+            "asin": "130509414X",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Essentials of Abnormal Psychology",
+            "normalizedName": "Essentials of Abnormal Psychology",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

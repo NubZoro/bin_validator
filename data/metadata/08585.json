@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M76Q5UO": {
+            "asin": "B00M76Q5UO",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "LOOPACELL AG10 LR1130 389 Alkaline Watch Batteries X 20",
+            "normalizedName": "LOOPACELL AG10 LR1130 389 Alkaline Watch Batteries X 20",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00W2DHGJQ": {
+            "asin": "B00W2DHGJQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Designs for Health - Hair Skin & Nails Complex Collagen Formula - 360 Grams",
+            "normalizedName": "Designs for Health - Hair Skin & Nails Complex Collagen Formula - 360 Grams",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

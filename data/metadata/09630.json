@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0016BEX00": {
+            "asin": "B0016BEX00",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Weleda Travel Size Salt Toothpaste .34 oz",
+            "normalizedName": "Weleda Travel Size Salt Toothpaste .34 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        },
+        "B01EZBZWUW": {
+            "asin": "B01EZBZWUW",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "iPhone 6 Cable, 2 Pack OoRange USB Data Cable Charger For iPhone 6S iPhone 6 Plus, iPhone Se",
+            "normalizedName": "2 Pack iPhone 6 Cable, OoRange USB Data Cable Charger For iPhone 6S iPhone 6 Plus, iPhone Se",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OAV9QBY": {
+            "asin": "B00OAV9QBY",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Amazing Grass Green SuperFood Alkalize & Detox, 30 Servings, 8.5 Ounces",
+            "normalizedName": "Amazing Grass Green SuperFood Alkalize & Detox, 30 Servings, 8.5 Ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

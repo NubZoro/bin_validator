@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0017WU5MI": {
+            "asin": "B0017WU5MI",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Large Rainbow Abalone Seashell",
+            "normalizedName": "Large Rainbow Abalone Seashell",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B002JPEVMC": {
+            "asin": "B002JPEVMC",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Hydrofarm  AAPA15L 6-Watt 15-LPM Active Aqua Air Pump with 4 Outlets",
+            "normalizedName": "Hydrofarm  AAPA15L 6-Watt 15-LPM Active Aqua Air Pump with 4 Outlets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.949999997526158
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

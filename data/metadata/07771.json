@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000LB61EC": {
+            "asin": "B000LB61EC",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Tie Down 50570 Tie Down Engineering 50570, Galvanized Security Cable, Vinyl Coated, 1/4\" ID x 3/8\" OD, 6 Feet",
+            "normalizedName": "Tie Down 50570 Tie Down Engineering 50570, Galvanized Security Cable, Vinyl Coated, 1/4\" ID x 3/8\" OD, 6 Feet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B00Q7OBS7C": {
+            "asin": "B00Q7OBS7C",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "AmazonBasics Lightweight 200 Thread Count Sheet Set - Full, White",
+            "normalizedName": "AmazonBasics Lightweight 200 Thread Count Sheet Set - Full, White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

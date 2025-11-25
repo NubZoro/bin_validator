@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EXUB3E": {
+            "asin": "B000EXUB3E",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "NuGo All-Natural Nutrition Bar, Vanilla Yogurt, 1.76-Ounce Bars (Pack of 15)",
+            "normalizedName": "(Pack of 15) NuGo All-Natural Nutrition Bar, Vanilla Yogurt, 1.76-Ounce Bars",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00BTYOG8S": {
+            "asin": "B00BTYOG8S",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Dozenegg Waterproof Shower Curtain With Tree Design 180 cm X 180 cm",
+            "normalizedName": "Dozenegg Waterproof Shower Curtain With Tree Design 180 cm X 180 cm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

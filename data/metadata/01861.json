@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NHBBZ62": {
+            "asin": "B00NHBBZ62",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Old Spice Cruise Control Forming Creme' (Pack of 2)",
+            "normalizedName": "(Pack of 2) Old Spice Cruise Control Forming Creme'",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B016DDRA2S": {
+            "asin": "B016DDRA2S",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "YI 88002 16 MP Action Camera with Sony Sensor, 1080p 60 HD Video, 155\u00b0 Wide Angle Lens, Lime Green (Official U.S. Edition)",
+            "normalizedName": "YI 88002 16 MP Action Camera with Sony Sensor, 1080p 60 HD Video, 155\u00b0 Wide Angle Lens, Lime Green (Official U.S. Edition)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

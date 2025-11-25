@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000I0QC2C": {
+            "asin": "B000I0QC2C",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Milton 1626 Hose Ferrule Crimping Tool",
+            "normalizedName": "Milton 1626 Hose Ferrule Crimping Tool",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.219999991429605
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B002UGIP7W": {
+            "asin": "B002UGIP7W",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Hospeco HS-6141 Waxed Paper Feminine Hygiene Liner (Case of 250)",
+            "normalizedName": "(Case of 250) Hospeco HS-6141 Waxed Paper Feminine Hygiene Liner",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.509999996217957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B003TFDR0I": {
+            "asin": "B003TFDR0I",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Darice VL33, Flower Basket Design You Own, White",
+            "normalizedName": "Darice VL33, Flower Basket Design You Own, White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

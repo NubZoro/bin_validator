@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004ME11FS": {
+            "asin": "B004ME11FS",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Camco 22783 TastePURE Drinking Water Hose (5/8\"ID x 25') - Lead Free",
+            "normalizedName": "Camco 22783 TastePURE Drinking Water Hose (5/8\"ID x 25') - Lead Free",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.599973461023773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B00GBR9ISQ": {
+            "asin": "B00GBR9ISQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Dickies Work Gear 57054 Black 8-Pocket Utility Pouch",
+            "normalizedName": "Dickies Work Gear 57054 Black 8-Pocket Utility Pouch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

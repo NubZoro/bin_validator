@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0804177902": {
+            "asin": "0804177902",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "The Murder of Mary Russell: A novel of suspense featuring Mary Russell and Sherlock Holmes",
+            "normalizedName": "The Murder of Mary Russell: A novel of suspense featuring Mary Russell and Sherlock Holmes",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

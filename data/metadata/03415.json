@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00H33SFJU": {
+            "asin": "B00H33SFJU",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "EVGA 500 W1 80+, 500W Continuous Power, 3 Year Warranty Power Supply 100-W1-0500-KR",
+            "normalizedName": "EVGA 500 W1 80+, 500W Continuous Power, 3 Year Warranty Power Supply 100-W1-0500-KR",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4499999962682715
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B01FS8IULO": {
+            "asin": "B01FS8IULO",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Zebella Black Large Travel Duffel Tote Sports Gym Weekender Shoulder Bag Handbag",
+            "normalizedName": "Zebella Black Large Travel Duffel Tote Sports Gym Weekender Shoulder Bag Handbag",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

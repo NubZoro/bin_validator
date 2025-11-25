@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002MWB7IS": {
+            "asin": "B002MWB7IS",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "NFL Pittsburgh Steelers Small Static Decal",
+            "normalizedName": "NFL Pittsburgh Steelers Small Static Decal",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B002NFUNHA": {
+            "asin": "B002NFUNHA",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Joe Gibbs Driven Racing Oil 00728 Extreme Pressure Engine Assembly Grease - 16 oz. Tub",
+            "normalizedName": "Joe Gibbs Driven Racing Oil 00728 Extreme Pressure Engine Assembly Grease - 16 oz. Tub",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B005OK3JT0": {
+            "asin": "B005OK3JT0",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Giant Microbes Plush MRSA Multiple-Resistant Staphylococcus Aureus Microbe, 5 to 7\"",
+            "normalizedName": "Giant Microbes Plush MRSA Multiple-Resistant Staphylococcus Aureus Microbe, 5 to 7\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

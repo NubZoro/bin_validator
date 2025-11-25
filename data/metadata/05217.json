@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0912381035": {
+            "asin": "0912381035",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8976377862
+            },
+            "name": "Traditional Acupuncture: The Law of the Five Elements",
+            "normalizedName": "Traditional Acupuncture: The Law of the Five Elements",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5300133240742
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "B000JUSHEM": {
+            "asin": "B000JUSHEM",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Batman Deluxe Child Belt Standard",
+            "normalizedName": "Batman Deluxe Child Belt Standard",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B017NRGAFQ": {
+            "asin": "B017NRGAFQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Noza Tec Expandable Garden Hose with Solid Brass Connectors Ends and 8-pattern Sprayer, Extra Strength Fabric, Double Latex Core, (8 in 1) (50Ft)",
+            "normalizedName": "Noza Tec Expandable Garden Hose with Solid Brass Connectors Ends and 8-pattern Sprayer, Extra Strength Fabric, Double Latex Core, (8 in 1) (50Ft)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

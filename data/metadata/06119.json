@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0085LI28S": {
+            "asin": "B0085LI28S",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "name": "Heliopan 704637  46mm Neutral Density 8x (0.9) Filter (Black)",
+            "normalizedName": "Heliopan 704637  46mm Neutral Density 8x (0.9) Filter (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00O4IMT12": {
+            "asin": "B00O4IMT12",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Funko POP Marvel: X-Men Deadpool Figure",
+            "normalizedName": "Funko POP Marvel: X-Men Deadpool Figure",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01AG247N2": {
+            "asin": "B01AG247N2",
+            "height": {
+                "unit": "IN",
+                "value": 1.549999998419
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.849999990973
+            },
+            "name": "Apple Watch Band, Biaoge Steel Milanese Loop Replacement Wrist Band with Plated Case for Apple Watch (Rose Gold 42mm)",
+            "normalizedName": "Apple Watch Band, Biaoge Steel Milanese Loop Replacement Wrist Band with Plated Case for Apple Watch (Rose Gold 42mm)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.21499999981970302
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006MY7EC": {
+            "asin": "B0006MY7EC",
+            "height": {
+                "unit": "IN",
+                "value": 4.59842519216
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.09842518451
+            },
+            "name": "6' Island Sun Tan Lounger",
+            "normalizedName": "6' Island Sun Tan Lounger",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.4500916713544
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.79921258843
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

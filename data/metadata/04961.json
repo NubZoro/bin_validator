@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005FTFFYW": {
+            "asin": "B005FTFFYW",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Glass Bowls with Lids by Imperial",
+            "normalizedName": "Glass Bowls with Lids by Imperial",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B00W0J4OTM": {
+            "asin": "B00W0J4OTM",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "DC Comics 12\" Batman Action Figure",
+            "normalizedName": "DC Comics 12\" Batman Action Figure",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01CXD1H3A": {
+            "asin": "B01CXD1H3A",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Magicjack Plus! 12 Months Free Unlimited Local & Long Distance",
+            "normalizedName": "Magicjack Plus! 12 Months Free Unlimited Local & Long Distance",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01FV1EE2M": {
+            "asin": "B01FV1EE2M",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "AVermedia Technology ER130 EzRecorder 130 CaptureHD Video",
+            "normalizedName": "AVermedia Technology ER130 EzRecorder 130 CaptureHD Video",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

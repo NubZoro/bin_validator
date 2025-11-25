@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0684822679": {
+            "asin": "0684822679",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "The RVer's Bible: Everything You Need to Know About Choosing, Using, & Enjoying Your RV",
+            "normalizedName": "The RVer's Bible: Everything You Need to Know About Choosing, Using, & Enjoying Your RV",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "158980385X": {
+            "asin": "158980385X",
+            "height": {
+                "unit": "IN",
+                "value": 1.40157480172
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.20078739219
+            },
+            "name": "Michael Owens and the Glass Industry",
+            "normalizedName": "Michael Owens and the Glass Industry",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2000201845184
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299212592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

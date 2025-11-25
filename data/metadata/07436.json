@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K2PIC2Q": {
+            "asin": "B00K2PIC2Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "India Beach Clothing Sarong Wrap Cover Ups",
+            "normalizedName": "India Beach Clothing Sarong Wrap Cover Ups",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432002
+            }
+        },
+        "B00KI1EIU4": {
+            "asin": "B00KI1EIU4",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Doggie Swim Vest Size Small (Yellow)",
+            "normalizedName": "Doggie Swim Vest Size Small (Yellow)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

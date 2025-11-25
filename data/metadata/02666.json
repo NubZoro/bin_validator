@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VAPCK2": {
+            "asin": "B000VAPCK2",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Educational Insights Stamp Pad/Hot Pink",
+            "normalizedName": "Educational Insights Stamp Pad/Hot Pink",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00IBKWL08": {
+            "asin": "B00IBKWL08",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Spiceologist - Chile Margarita BBQ Rub and Seasoning - Mexican Spice Blend - 9 oz.",
+            "normalizedName": "Spiceologist - Chile Margarita BBQ Rub and Seasoning - Mexican Spice Blend - 9 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B01F8UGBXQ": {
+            "asin": "B01F8UGBXQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.9
+            },
+            "name": "OUTAD Calf Compression Sleeve (Sold as Single)",
+            "normalizedName": "OUTAD Calf Compression Sleeve (Sold as Single)",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.9
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

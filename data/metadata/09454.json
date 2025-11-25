@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000SSS4CA": {
+            "asin": "B000SSS4CA",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Norpro 12 Inch Nonstick Bread Pan",
+            "normalizedName": "Norpro 12 Inch Nonstick Bread Pan",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B019QRU8B8": {
+            "asin": "B019QRU8B8",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Mega Super Fun Candy Gift Pack (Mega Jumbo)",
+            "normalizedName": "Mega Super Fun Candy Gift Pack (Mega Jumbo)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9799999991781811
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

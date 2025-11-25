@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009AQZM30": {
+            "asin": "B009AQZM30",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "YMC Chrome-Tuning-Peg-Round220-3L3R 6 Pieces 3L3R Semiclosed Guitar Tuning Pegs Tuners Machine Heads",
+            "normalizedName": "YMC Chrome-Tuning-Peg-Round220-3L3R 6 Pieces 3L3R Semiclosed Guitar Tuning Pegs Tuners Machine Heads",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B0163RMFXI": {
+            "asin": "B0163RMFXI",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Oxo Good Grips 6 Piece Locktop Condiment and Snack Set with Tray, Green",
+            "normalizedName": "Oxo Good Grips 6 Piece Locktop Condiment and Snack Set with Tray, Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

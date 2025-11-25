@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CREY5OY": {
+            "asin": "B00CREY5OY",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Nestle Cerelac Wheat with Milk Cereal, 14.10 Ounce",
+            "normalizedName": "Nestle Cerelac Wheat with Milk Cereal, 14.10 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00YG18ASS": {
+            "asin": "B00YG18ASS",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Shellkey SK-2 Teal Includes Quick-Release and Drum Key",
+            "normalizedName": "Shellkey SK-2 Teal Includes Quick-Release and Drum Key",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

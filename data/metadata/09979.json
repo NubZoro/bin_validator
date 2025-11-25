@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00USLG98S": {
+            "asin": "B00USLG98S",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "One Size Fits All Book Cover",
+            "normalizedName": "One Size Fits All Book Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B012LGEHEU": {
+            "asin": "B012LGEHEU",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Heavy Duty Retractable Dog Leash By Hertzko - Great for Small, Medium & Large Dogs up to 110lbs - Strong Nylon Ribbon Extends 16ft",
+            "normalizedName": "Heavy Duty Retractable Dog Leash By Hertzko - Great for Small, Medium & Large Dogs up to 110lbs - Strong Nylon Ribbon Extends 16ft",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

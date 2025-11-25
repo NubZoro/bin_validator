@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EIKN2XU": {
+            "asin": "B00EIKN2XU",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Funny Guy Mugs Diner Ceramic Coffee Mug, Cream, 10 Ounces",
+            "normalizedName": "Funny Guy Mugs Diner Ceramic Coffee Mug, Cream, 10 Ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

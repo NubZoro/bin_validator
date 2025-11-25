@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00U0V35A6": {
+            "asin": "B00U0V35A6",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.7086614115
+            },
+            "name": "Stellar Labs 6\" Extension Cord with Flat Rotating Plug - Black",
+            "normalizedName": "Stellar Labs 6\" Extension Cord with Flat Rotating Plug - Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001186074865
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.118110231
+            }
+        },
+        "B0153T3TJ6": {
+            "asin": "B0153T3TJ6",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Apple BLACK 3-PACK 10ft USB to Lightning Charging Cable - Fast Charge, Sync and Data Transfer for All Apple Accessories and iOS Devices!",
+            "normalizedName": "Apple BLACK 3-PACK 10ft USB to Lightning Charging Cable - Fast Charge, Sync and Data Transfer for All Apple Accessories and iOS Devices!",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

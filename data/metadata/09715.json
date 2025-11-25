@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007Y8VIQ6": {
+            "asin": "B007Y8VIQ6",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9212598324
+            },
+            "name": "Wildkin Owls Lunch Box",
+            "normalizedName": "Wildkin Owls Lunch Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280213493476
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.4251968418
+            }
+        },
+        "B014AHMW5Y": {
+            "asin": "B014AHMW5Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Barbie Fashionistas Doll 30 White & Pink Pizzazz - Tall",
+            "normalizedName": "Barbie Fashionistas Doll 30 White & Pink Pizzazz - Tall",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01GX5YWAO": {
+            "asin": "B01GX5YWAO",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "EVGA GeForce GTX 1070 SC GAMING ACX 3.0 Graphic Card 08G-P4-6173-KR",
+            "normalizedName": "EVGA GeForce GTX 1070 SC GAMING ACX 3.0 Graphic Card 08G-P4-6173-KR",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002JSL6QI": {
+            "asin": "B002JSL6QI",
+            "height": {
+                "unit": "IN",
+                "value": 4.0157480274
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.2834645544
+            },
+            "name": "Babyliss Pro BABTT5585 Tourmaline Titanium 3000 Dryer",
+            "normalizedName": "Babyliss Pro BABTT5585 Tourmaline Titanium 3000 Dryer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.11641611208838
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.8976377862
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

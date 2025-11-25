@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LTTK8W6": {
+            "asin": "B00LTTK8W6",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Buffalo Bills Natural (White) Rock Candy On A Stick (36-ct tub white rock candy crystal sticks)",
+            "normalizedName": "Buffalo Bills Natural (White) Rock Candy On A Stick (36-ct tub white rock candy crystal sticks)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B017X51F26": {
+            "asin": "B017X51F26",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Soap Dispenser Stainless Steel Brushed Metal or Lotion Dispenser - 9 Ounce - Refillable - Kitchen and Bathroom",
+            "normalizedName": "Soap Dispenser Stainless Steel Brushed Metal or Lotion Dispenser - 9 Ounce - Refillable - Kitchen and Bathroom",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

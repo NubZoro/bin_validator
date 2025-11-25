@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000JMJ4A6": {
+            "asin": "B000JMJ4A6",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Four Paws Ultimate Touch Pro 2 in1 Slicker Brush with Shed N Blade Medium",
+            "normalizedName": "Four Paws Ultimate Touch Pro 2 in1 Slicker Brush with Shed N Blade Medium",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B00FPZFNBQ": {
+            "asin": "B00FPZFNBQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Cranberry DMannose Urinary Tract Support (60 Tabs)",
+            "normalizedName": "Cranberry DMannose Urinary Tract Support (60 Tabs)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

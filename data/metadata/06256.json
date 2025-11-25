@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002DIBT2": {
+            "asin": "B0002DIBT2",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.9291338512
+            },
+            "name": "Exo Terra Worm Dish Mealworm Feeder",
+            "normalizedName": "Exo Terra Worm Dish Mealworm Feeder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.84
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.2755905458
+            }
+        },
+        "B00X69YJWM": {
+            "asin": "B00X69YJWM",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "GardenHOME Outdoor Garden LED Solar Powered Spotlight Landscape Lighting Security Night Lights - Waterproof, 180\u00b0 Angle Adjustable",
+            "normalizedName": "GardenHOME Outdoor Garden LED Solar Powered Spotlight Landscape Lighting Security Night Lights - Waterproof, 180\u00b0 Angle Adjustable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

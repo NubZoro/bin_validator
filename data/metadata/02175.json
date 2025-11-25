@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00E4W654A": {
+            "asin": "B00E4W654A",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Colorbasket 51301-202 Hand Woven Waterproof Oval Basket, Lime Green, Gift Box, Set of 3",
+            "normalizedName": "Set of 3 Colorbasket 51301-202 Hand Woven Waterproof Oval Basket, Lime Green, Gift Box,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B01A07QUXS": {
+            "asin": "B01A07QUXS",
+            "height": {
+                "unit": "IN",
+                "value": 3.7007873978
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.3700787306
+            },
+            "name": "Chastep Soft PU Sport Soccer football 8 inch Orange",
+            "normalizedName": "Chastep Soft PU Sport Soccer football 8 inch Orange",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800350276188
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0078XHOMO": {
+            "asin": "B0078XHOMO",
+            "height": {
+                "unit": "IN",
+                "value": 2.9921259812
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0314960548
+            },
+            "name": "KINTO fee accepted Caf Suites Wood RD 22580 (japan import)",
+            "normalizedName": "KINTO fee accepted Caf Suites Wood RD 22580 (japan import)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.1417322772
+            }
+        },
+        "B00V3A0LLE": {
+            "asin": "B00V3A0LLE",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "name": "Philips M1MKIIBO/27 Fidelio M1 MKII Premium Headphones with In-line control and mic switch between music and calls and stitched fine leather, Black/Orange",
+            "normalizedName": "Philips M1MKIIBO/27 Fidelio M1 MKII Premium Headphones with In-line control and mic switch between music and calls and stitched fine leather, Black/Orange",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.6141732216
+            }
+        },
+        "B00YXFI0FK": {
+            "asin": "B00YXFI0FK",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "mkool Cute Frog Potty Training Urinal for Boys with Funny Aiming Target",
+            "normalizedName": "mkool Cute Frog Potty Training Urinal for Boys with Funny Aiming Target",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

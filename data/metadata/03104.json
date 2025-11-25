@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009F3POY": {
+            "asin": "B0009F3POY",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995205999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991738
+            },
+            "name": "Traditional Medicinals Organic Mother\u2019s Milk Tea, 16 Tea Bags (Pack of 6)",
+            "normalizedName": "(Pack of 6) Traditional Medicinals Organic Mother\u2019s Milk Tea, 16 Tea Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B016175ZSW": {
+            "asin": "B016175ZSW",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Shimano CN-HG701 11-Speed Chain Gray, One Size",
+            "normalizedName": "Shimano CN-HG701 11-Speed Chain Gray, One Size",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B01AO8BT1G": {
+            "asin": "B01AO8BT1G",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Optix LED Headlight Conversion Kit - Dual Hi / Lo Beam Bulbs - 80W - 8,000LM - 6000K 6K Cool White - H13 9008 - 2 Year Warranty",
+            "normalizedName": "Optix LED Headlight Conversion Kit - Dual Hi / Lo Beam Bulbs - 80W - 8,000LM - 6000K 6K Cool White - H13 9008 - 2 Year Warranty",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

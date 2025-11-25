@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002DHZKS": {
+            "asin": "B0002DHZKS",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Tetra 26160 Whisper Bio-Bag Cartridge, Unassembled, Medium, 12-Pack",
+            "normalizedName": "12-Pack Tetra 26160 Whisper Bio-Bag Cartridge, Unassembled, Medium,",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

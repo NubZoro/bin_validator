@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006JL0Q": {
+            "asin": "B00006JL0Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.90157479917
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.29921258588
+            },
+            "name": "Chef's Choice 839 Krumkake Express",
+            "normalizedName": "Chef's Choice 839 Krumkake Express",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.500075691944
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.79921258639
+            }
+        },
+        "B01BTQL7K0": {
+            "asin": "B01BTQL7K0",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.0
+            },
+            "name": "American vogue Elsa Coronation Dress Costume + Cape + Gloves + Tiara Crown (5-6 Years, Light Blue)",
+            "normalizedName": "American vogue Elsa Coronation Dress Costume + Cape + Gloves + Tiara Crown (5-6 Years, Light Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0625
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

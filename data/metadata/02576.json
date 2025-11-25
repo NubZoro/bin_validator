@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001XAMT0": {
+            "asin": "B0001XAMT0",
+            "height": {
+                "unit": "IN",
+                "value": 0.40157480274
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Free As a Bird",
+            "normalizedName": "Free As a Bird",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2000033640864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B001QVCSZC": {
+            "asin": "B001QVCSZC",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "name": "Jet Alert Double Strength Alertness Aid Caplets, 200mg-90 ct",
+            "normalizedName": "Jet Alert Double Strength Alertness Aid Caplets, 200mg-90 ct",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B002MT3BSA": {
+            "asin": "B002MT3BSA",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "Jerry Christmas",
+            "normalizedName": "Jerry Christmas",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "B00EZCQ8BO": {
+            "asin": "B00EZCQ8BO",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Momma Goose 18 Inch Adult Amber Necklace (Olive, Cognac)",
+            "normalizedName": "Momma Goose 18 Inch Adult Amber Necklace (Olive, Cognac)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

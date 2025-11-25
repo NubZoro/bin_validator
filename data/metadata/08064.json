@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000V44B4G": {
+            "asin": "B000V44B4G",
+            "height": {
+                "unit": "IN",
+                "value": 7.1653543234
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.0157480172
+            },
+            "name": "Kaboost Booster Seat for Dining, Chocolate - Goes Under the Chair - Portable Chair Booster for Toddlers",
+            "normalizedName": "Kaboost Booster Seat for Dining, Chocolate - Goes Under the Chair - Portable Chair Booster for Toddlers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.232832227726374
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.1496062858
+            }
+        },
+        "B01AFNACQS": {
+            "asin": "B01AFNACQS",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "SJCAM SJ5000X Elite Action Camera 4K 1080P WiFi Waterproof 170\u00b0Wide Angle Lens 12MP SONY IMX078 Gyro AV or HDMI Out And OSD Enabled (Black)",
+            "normalizedName": "SJCAM SJ5000X Elite Action Camera 4K 1080P WiFi Waterproof 170\u00b0Wide Angle Lens 12MP SONY IMX078 Gyro AV or HDMI Out And OSD Enabled (Black)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

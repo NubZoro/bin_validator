@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0471515736": {
+            "asin": "0471515736",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.09842518757
+            },
+            "name": "Toward a New Personology: An Evolutionary Model",
+            "normalizedName": "Toward a New Personology: An Evolutionary Model",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9500159794104
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.20078739525
+            }
+        },
+        "B017M0EKUG": {
+            "asin": "B017M0EKUG",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Zyliss \"Fresh\" Plastic Food Storage Container, Rectangle 87.9 oz",
+            "normalizedName": "Zyliss \"Fresh\" Plastic Food Storage Container, Rectangle 87.9 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

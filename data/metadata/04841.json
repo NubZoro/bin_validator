@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GWKK02": {
+            "asin": "B000GWKK02",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Bulbrite 60G25HM Half Chrome 60W Globe Shape Bulb, Pack of 1",
+            "normalizedName": "Pack of 1 Bulbrite 60G25HM Half Chrome 60W Globe Shape Bulb,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B003982KVM": {
+            "asin": "B003982KVM",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Natural Balance L.I.T. Limited Ingredient Treats Potato & Duck Formula Small Breed Dry Dog Treats, 8-Ounce",
+            "normalizedName": "Natural Balance L.I.T. Limited Ingredient Treats Potato & Duck Formula Small Breed Dry Dog Treats, 8-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

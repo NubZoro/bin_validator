@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009OL96Q": {
+            "asin": "B0009OL96Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Me Being Me",
+            "normalizedName": "Me Being Me",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770752888384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B000WRZWOA": {
+            "asin": "B000WRZWOA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Frontier Bulk Cheese, White Cheddar Cheese Powder, CERTIFIED ORGANIC, 1 lb. package",
+            "normalizedName": "Frontier Bulk Cheese, White Cheddar Cheese Powder, CERTIFIED ORGANIC, 1 lb. package",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

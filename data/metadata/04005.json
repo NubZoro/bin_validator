@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001TJGXBQ": {
+            "asin": "B001TJGXBQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Special EffectsHair Dye -Blue Velvet #9",
+            "normalizedName": "Special EffectsHair Dye -Blue Velvet #9",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B01GGL73ZQ": {
+            "asin": "B01GGL73ZQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "E-TRENDS&reg; Portable LED Lantern Light Bulb for Camping Hiking Night Fishing Emergency Light, Battery Powered for Outdoor & Indoor, Set of 2",
+            "normalizedName": "Set of 2 E-TRENDS&reg; Portable LED Lantern Light Bulb for Camping Hiking Night Fishing Emergency Light, Battery Powered for Outdoor & Indoor,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.21164377152
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.330708657
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

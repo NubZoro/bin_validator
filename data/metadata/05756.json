@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1455806439": {
+            "asin": "1455806439",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Familyhood",
+            "normalizedName": "Familyhood",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00139YMUQ": {
+            "asin": "B00139YMUQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Michelin MN-12279 Digital Programmable Tire Gauge with Light",
+            "normalizedName": "Michelin MN-12279 Digital Programmable Tire Gauge with Light",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B003Y7NCLK": {
+            "asin": "B003Y7NCLK",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "D1055 Reindeer Games - 36 Christmas Pencils",
+            "normalizedName": "D1055 Reindeer Games - 36 Christmas Pencils",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00VNM0UUY": {
+            "asin": "B00VNM0UUY",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "NBA Orlando Magic Premium Pennant, 12 x 30\", Team Color",
+            "normalizedName": "NBA Orlando Magic Premium Pennant, 12 x 30\", Team Color",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

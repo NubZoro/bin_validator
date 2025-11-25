@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00REOWR60": {
+            "asin": "B00REOWR60",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Mojo Graduated Compression Calf Sleeve for Men and Women's - Helps Shin Splints, Best Leg Sleeves for Running (Large, Black)",
+            "normalizedName": "Mojo Graduated Compression Calf Sleeve for Men and Women's - Helps Shin Splints, Best Leg Sleeves for Running (Large, Black)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00XZ3DXSK": {
+            "asin": "B00XZ3DXSK",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Collapsible Measuring Cups - 4pc Nesting Silicone Set By Good Cooking",
+            "normalizedName": "Collapsible Measuring Cups - 4pc Nesting Silicone Set By Good Cooking",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

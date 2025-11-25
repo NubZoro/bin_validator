@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009Z3K4E": {
+            "asin": "B0009Z3K4E",
+            "height": {
+                "unit": "IN",
+                "value": 0.90157480223
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.4015747956
+            },
+            "name": "Karaoke Revolution Party",
+            "normalizedName": "Karaoke Revolution Party",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2000033640864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.40157479764
+            }
+        },
+        "B003YZYWIY": {
+            "asin": "B003YZYWIY",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Organics Rx Sea Kelp 100 Seaweed Fertilizer, 18 fl. oz.",
+            "normalizedName": "Organics Rx Sea Kelp 100 Seaweed Fertilizer, 18 fl. oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00AQ64BG2": {
+            "asin": "B00AQ64BG2",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "3M 03456C Scotchlite Reflective Tape, 2-Inch x 36-Inch, Silver (Pack of 4)",
+            "normalizedName": "(Pack of 4) 3M 03456C Scotchlite Reflective Tape, 2-Inch x 36-Inch, Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

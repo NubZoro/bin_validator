@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000065V7L": {
+            "asin": "B000065V7L",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "The Columbia Hits Collection",
+            "normalizedName": "The Columbia Hits Collection",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17707528883839999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B0002ISTLW": {
+            "asin": "B0002ISTLW",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "Favorites of the Roaring Twenties",
+            "normalizedName": "Favorites of the Roaring Twenties",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B015R0J54Y": {
+            "asin": "B015R0J54Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "SunbowStar 10pcs Mini LED Light Lamp Keychain Purple",
+            "normalizedName": "SunbowStar 10pcs Mini LED Light Lamp Keychain Purple",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1899999998406678
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B015R0J6IE": {
+            "asin": "B015R0J6IE",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "SunbowStar 10pcs Mini LED Light Lamp Keychain Red",
+            "normalizedName": "SunbowStar 10pcs Mini LED Light Lamp Keychain Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1899999998406678
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B0195SDS10": {
+            "asin": "B0195SDS10",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Volume",
+            "normalizedName": "Volume",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17707528883839999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

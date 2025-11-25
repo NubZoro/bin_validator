@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GNKIVGQ": {
+            "asin": "B00GNKIVGQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "New Balance Men's Tempo Running Singlet",
+            "normalizedName": "New Balance Men's Tempo Running Singlet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B017FEBTVM": {
+            "asin": "B017FEBTVM",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "TempResist Heart Patterned Blue Silicone Oven Mitts & Pot Holders",
+            "normalizedName": "TempResist Heart Patterned Blue Silicone Oven Mitts & Pot Holders",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B017HY7YIM": {
+            "asin": "B017HY7YIM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Elf On The Shelf(Relaxing Robe and Slippers)",
+            "normalizedName": "Elf On The Shelf(Relaxing Robe and Slippers)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

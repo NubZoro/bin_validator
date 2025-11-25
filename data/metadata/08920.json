@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007CX64PS": {
+            "asin": "B007CX64PS",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Custom Leathercraft SV264X Sleeved Vest Class 3, 4X-Large, Lime",
+            "normalizedName": "Custom Leathercraft SV264X Sleeved Vest Class 3, 4X-Large, Lime",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00AN8RROQ": {
+            "asin": "B00AN8RROQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Sony MDR-XB400 XB Series Extra Bass Headphones (Pink)",
+            "normalizedName": "Sony MDR-XB400 XB Series Extra Bass Headphones (Pink)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

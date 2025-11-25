@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0052M5V0A": {
+            "asin": "B0052M5V0A",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Nespresso OriginalLine Capsules Variety, 100 Count",
+            "normalizedName": "Nespresso OriginalLine Capsules Variety, 100 Count",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            }
+        },
+        "B01E709TK0": {
+            "asin": "B01E709TK0",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "name": "PowerLead Pqad D017 X163 2MP Remote Control Plane Unmanned Aerial Vehicle Four Axis Aircraft Quadcopter Drone with HD Camera",
+            "normalizedName": "PowerLead Pqad D017 X163 2MP Remote Control Plane Unmanned Aerial Vehicle Four Axis Aircraft Quadcopter Drone with HD Camera",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

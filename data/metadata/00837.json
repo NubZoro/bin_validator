@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0133985008": {
+            "asin": "0133985008",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Social Problems Plus MySocLab without Pearson eText -- Access Card Package (6th Edition)",
+            "normalizedName": "Social Problems Plus MySocLab without Pearson eText -- Access Card Package (6th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B001OYQ4QK": {
+            "asin": "B001OYQ4QK",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Willow Tree Generations",
+            "normalizedName": "Willow Tree Generations",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

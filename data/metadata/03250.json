@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005MHRE14": {
+            "asin": "B005MHRE14",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Plum Organics Baby Second Blends, Peach, Apricot and Banana, 4 Ounce Pouches (Pack of 12)",
+            "normalizedName": "(Pack of 12) Plum Organics Baby Second Blends, Peach, Apricot and Banana, 4 Ounce Pouches",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5999999969810736
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

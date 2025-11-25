@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00S69FVHY": {
+            "asin": "B00S69FVHY",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.599999984088
+            },
+            "name": "ThreeZero Mass Effect 3: Legion 1:6 Scale Action Figure",
+            "normalizedName": "ThreeZero Mass Effect 3: Legion 1:6 Scale Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B01BRMDLW8": {
+            "asin": "B01BRMDLW8",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "2 Pack: Floral Chic Luxurious Curtain Panels by GoodGram\u00ae - Assorted Colors (Teal)",
+            "normalizedName": "2 Pack  : Floral Chic Luxurious Curtain Panels by GoodGram\u00ae - Assorted Colors (Teal)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3999999979873827
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

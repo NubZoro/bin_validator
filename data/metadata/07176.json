@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0073524212": {
+            "asin": "0073524212",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Integrated Principles of Zoology",
+            "normalizedName": "Integrated Principles of Zoology",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "0077861027": {
+            "asin": "0077861027",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "M: Marketing",
+            "normalizedName": "M: Marketing",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "0078028930": {
+            "asin": "0078028930",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "ABC's of Relationship Selling through Service",
+            "normalizedName": "ABC's of Relationship Selling through Service",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00K30H1QI": {
+            "asin": "B00K30H1QI",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Eagles Nest Outfitters - DoubleNest Hammock, Khaki/Black (FFP)",
+            "normalizedName": "Eagles Nest Outfitters - DoubleNest Hammock, Khaki/Black (FFP)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

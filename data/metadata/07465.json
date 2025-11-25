@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0028637178": {
+            "asin": "0028637178",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Betty Crocker's Healthy New Choices: A Fresh Approach to Eating Well",
+            "normalizedName": "Betty Crocker's Healthy New Choices: A Fresh Approach to Eating Well",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "0778804186": {
+            "asin": "0778804186",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "The Big Book of Babycakes Cake Pop Maker Recipes: Homemade Bite-Sized Fun!",
+            "normalizedName": "The Big Book of Babycakes Cake Pop Maker Recipes: Homemade Bite-Sized Fun!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "0963952102": {
+            "asin": "0963952102",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "The Great Melaleuca Fact Book",
+            "normalizedName": "The Great Melaleuca Fact Book",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B008DBZBV6": {
+            "asin": "B008DBZBV6",
+            "height": {
+                "unit": "IN",
+                "value": 2.2834645646
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Teenage Mutant Ninja Turtles Donatello",
+            "normalizedName": "Teenage Mutant Ninja Turtles Donatello",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.3228346382
+            }
+        },
+        "B015Z6JETQ": {
+            "asin": "B015Z6JETQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Fintie Dragon Touch X10 / KingPad K100 Slim Shell Case - Ultra Slim Lightweight Stand Cover for Dragon Touch X10 / KingPad K100 10-Inch Android Tablet, Black",
+            "normalizedName": "Fintie Dragon Touch X10 / KingPad K100 Slim Shell Case - Ultra Slim Lightweight Stand Cover for Dragon Touch X10 / KingPad K100 10-Inch Android Tablet, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

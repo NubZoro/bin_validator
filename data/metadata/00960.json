@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BFVF120": {
+            "asin": "B00BFVF120",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "3dRose mug_100061_3 A Steering Wheel on a Cadillac Magic Transforming Mug, 11-Ounce",
+            "normalizedName": "3dRose mug_100061_3 A Steering Wheel on a Cadillac Magic Transforming Mug, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

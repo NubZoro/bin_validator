@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000IY9MES": {
+            "asin": "B000IY9MES",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Centric Parts 300.03230 Semi Metallic Brake Pad with Shim",
+            "normalizedName": "Centric Parts 300.03230 Semi Metallic Brake Pad with Shim",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00UYY2GW2": {
+            "asin": "B00UYY2GW2",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "WUNDERBROW - Perfect Eyebrows in 2 Mins - Auburn",
+            "normalizedName": "WUNDERBROW - Perfect Eyebrows in 2 Mins - Auburn",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00UR46VP2": {
+            "asin": "B00UR46VP2",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "HUACAM HPI04CP 4-48v-60w Passive POE 4 Port Power Over Ethernet Injector/Switch For IP Camera, Wireless Access Points",
+            "normalizedName": "HUACAM HPI04CP 4-48v-60w Passive POE 4 Port Power Over Ethernet Injector/Switch For IP Camera, Wireless Access Points",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01A05RWSW": {
+            "asin": "B01A05RWSW",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Vitality's Effecto Fix Hair Lotion - 24 Pack",
+            "normalizedName": "24 Pack Vitality's Effecto Fix Hair Lotion -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

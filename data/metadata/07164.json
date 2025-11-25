@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003YLEXBO": {
+            "asin": "B003YLEXBO",
+            "height": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Cuisinart Blending/Chopping System CPB-300, 15-Piece, Black",
+            "normalizedName": "Cuisinart Blending/Chopping System CPB-300, 15-Piece, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.599999994465302
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B00HPZEMR0": {
+            "asin": "B00HPZEMR0",
+            "height": {
+                "unit": "IN",
+                "value": 4.249999995665
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Science Diet Feline Adult Perfect Weight 3 lb",
+            "normalizedName": "Science Diet Feline Adult Perfect Weight 3 lb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.749999992095
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

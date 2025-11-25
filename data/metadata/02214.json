@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002G9TX42": {
+            "asin": "B002G9TX42",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Filexec 1720, Poly Envelope, Velcro Closure, Letter Size, Set of 12 in 6 Assorted Colors, 2 Each Smoke, Blue, Red, Clear, Purple, Green",
+            "normalizedName": "Set of 12 Filexec 1720, Poly Envelope, Velcro Closure, Letter Size, in 6 Assorted Colors, 2 Each Smoke, Blue, Red, Clear, Purple, Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514
+            }
+        },
+        "B002ZVOM9W": {
+            "asin": "B002ZVOM9W",
+            "height": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987658
+            },
+            "name": "Kandoo Flushable Sensitive Wipes, 50 Count Tub, 6 Pack",
+            "normalizedName": "6 Pack Kandoo Flushable Sensitive Wipes, 50 Count Tub,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00HUTQOWM": {
+            "asin": "B00HUTQOWM",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "iCracked iPhone 5C Screen Replacement Kit (AT&T/Verizon/Sprint/T-Mobile) - Retail Packaging - Black",
+            "normalizedName": "iCracked iPhone 5C Screen Replacement Kit (AT&T/Verizon/Sprint/T-Mobile) - Retail Packaging - Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01D1NQL2I": {
+            "asin": "B01D1NQL2I",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Masino\u00ae Silicone Keyboard Cover Ultra Thin Keyboard Skin for MacBook Air 13\" MacBook Pro with or without Retina Display 13\"15\" 17\" Apple Wireless Bluetooth Keyboard MC184LL/B (Fish&Starfish)",
+            "normalizedName": "Masino\u00ae Silicone Keyboard Cover Ultra Thin Keyboard Skin for MacBook Air 13\" MacBook Pro with or without Retina Display 13\"15\" 17\" Apple Wireless Bluetooth Keyboard MC184LL/B (Fish&Starfish)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09374904298714398
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

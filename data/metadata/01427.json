@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00004TT3S": {
+            "asin": "B00004TT3S",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.417322823
+            },
+            "name": "BOOMWHACKERS Octavator Caps 8-Pack",
+            "normalizedName": "8-Pack BOOMWHACKERS Octavator Caps",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.180007436923
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7007873978
+            }
+        },
+        "B005PVLDVE": {
+            "asin": "B005PVLDVE",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.4251968418
+            },
+            "name": "Clarks Magura Hydraulic Louise FR Louise Hose Lime Green",
+            "normalizedName": "Clarks Magura Hydraulic Louise FR Louise Hose Lime Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.44
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.3464566844
+            }
+        },
+        "B005PVLFCQ": {
+            "asin": "B005PVLFCQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.5039369992
+            },
+            "name": "Clarks Men's Avid Juicy Front & Rear Hydraulic Hose Kit Pink",
+            "normalizedName": "Clarks Men's Avid Juicy Front & Rear Hydraulic Hose Kit Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.49
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1102362122
+            }
+        },
+        "B017RMTYEG": {
+            "asin": "B017RMTYEG",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Pet Magasin Rawhide Bone Treats for Dogs, 4-5 Inch Natural Beef Rawhide Chews, 10-Count Bag",
+            "normalizedName": "Pet Magasin Rawhide Bone Treats for Dogs, 4-5 Inch Natural Beef Rawhide Chews, 10-Count Bag",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

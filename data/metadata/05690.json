@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006HVEAW": {
+            "asin": "B0006HVEAW",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Smead Desk File/Sorter, Daily (1-31) and Monthly (Jan.-Dec.), 43 Dividers, Letter Size, Blue (89235)",
+            "normalizedName": "Smead Desk File/Sorter, Daily (1-31) and Monthly (Jan.-Dec.), 43 Dividers, Letter Size, Blue (89235)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00CM5RTMI": {
+            "asin": "B00CM5RTMI",
+            "height": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.799999981844
+            },
+            "name": "Elegant Designs LT1025-BLK Modern Genuine Leather Table Lamp, Black",
+            "normalizedName": "Elegant Designs LT1025-BLK Modern Genuine Leather Table Lamp, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.899999995890907
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

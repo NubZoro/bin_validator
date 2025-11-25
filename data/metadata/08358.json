@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OZ7K5EA": {
+            "asin": "B00OZ7K5EA",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "E-best Portable Mini Travel Garment Steamer with Travel Pouch",
+            "normalizedName": "E-best Portable Mini Travel Garment Steamer with Travel Pouch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01ACL4Q42": {
+            "asin": "B01ACL4Q42",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Java Batiks 9 inch Strip Pack Set of 20 Precut Batik Strips CC177",
+            "normalizedName": "Set of 20 Java Batiks 9 inch Strip Pack Precut Batik Strips CC177",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

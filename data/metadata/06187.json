@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002U3VABI": {
+            "asin": "B002U3VABI",
+            "height": {
+                "unit": "IN",
+                "value": 2.799999997144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Scotch Transparent Tape, 3/4 in x 850 Inches, 4 Rolls (4814)",
+            "normalizedName": "Scotch Transparent Tape, 3/4 in x 850 Inches, 4 Rolls (4814)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

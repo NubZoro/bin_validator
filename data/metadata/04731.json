@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D1DP00S": {
+            "asin": "B00D1DP00S",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "True Lime Limeade Stick Pack, Black Cherry, 10 Count (1.06oz)",
+            "normalizedName": "True Lime Limeade Stick Pack, Black Cherry, 10 Count (1.06oz)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B01DBHZJ3Q": {
+            "asin": "B01DBHZJ3Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "Madhu's COLLECTION MG786137J Photo Frame, 4\" by 6\", Multicolor",
+            "normalizedName": "Madhu's COLLECTION MG786137J Photo Frame, 4\" by 6\", Multicolor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

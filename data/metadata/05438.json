@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000YNKELI": {
+            "asin": "B000YNKELI",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985720002
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.699999996226
+            },
+            "name": "Methylcobalamin Vitamin B-12 5000 Mcg By - 60 Chewable Tablets",
+            "normalizedName": "Methylcobalamin Vitamin B-12 5000 Mcg By - 60 Chewable Tablets",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B00173MSPY": {
+            "asin": "B00173MSPY",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Intellinet Network Solutions Cat5e RJ-45 Male/RJ-45 Male UTP Network Patch Cable, 14-Feet (319836)",
+            "normalizedName": "Intellinet Network Solutions Cat5e RJ-45 Male/RJ-45 Male UTP Network Patch Cable, 14-Feet (319836)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00J4T6ZHK": {
+            "asin": "B00J4T6ZHK",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Fisher-Price Imaginext Alpha Pod",
+            "normalizedName": "Fisher-Price Imaginext Alpha Pod",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999744817536274
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.249999993625
+            }
+        },
+        "B00PR2K04C": {
+            "asin": "B00PR2K04C",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Colon Plush - You Move Me - I Heart Guts Series",
+            "normalizedName": "Colon Plush - You Move Me - I Heart Guts Series",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B01FLXPWFS": {
+            "asin": "B01FLXPWFS",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "Jade Li Hing Powder (Dried Plum) 10 ounce bag",
+            "normalizedName": "Jade Li Hing Powder (Dried Plum) 10 ounce bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.625
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

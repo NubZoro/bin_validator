@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000IDAICE": {
+            "asin": "B000IDAICE",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Tassimo Gevalia Decaf Coffee Bag, Signature Blend, 16 T Discs, Medium ,4.45 Ounce",
+            "normalizedName": "Tassimo Gevalia Decaf Coffee Bag, Signature Blend, 16 T Discs, Medium ,4.45 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B007BUWQ0O": {
+            "asin": "B007BUWQ0O",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Pantry Moth Traps, Set of Five",
+            "normalizedName": "Pantry Moth Traps, Set of Five",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00NAZM5Y6": {
+            "asin": "B00NAZM5Y6",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Keurig 2.0 the Original Donut Shop Coffee K-carafe Packs (8)",
+            "normalizedName": "Keurig 2.0 the Original Donut Shop Coffee K-carafe Packs (8)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

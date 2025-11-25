@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015QA77H2": {
+            "asin": "B015QA77H2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Mary Crafts Simple Buffalo Horn Hair Fork, Hairfork, Hair Pin, Hairpin 6.6\"",
+            "normalizedName": "Mary Crafts Simple Buffalo Horn Hair Fork, Hairfork, Hair Pin, Hairpin 6.6\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

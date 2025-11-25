@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0038LSS5M": {
+            "asin": "B0038LSS5M",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Jockey Men's T-Shirts Classic Crew Neck - 6 Pack, diamond white, 2XL",
+            "normalizedName": "6 Pack Jockey Men's T-Shirts Classic Crew Neck - , diamond white, 2XL",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B01A78LJUY": {
+            "asin": "B01A78LJUY",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.699999983986
+            },
+            "name": "Kitchen Active Bamboo Cutting Board. Premium Natural Eco Friendly Boards Are Best For Chopping Brie Cheese, Vegetable, Pastry Lemon, Watermelon, French Bread. 15\"X12\" With Big Wood One Handed Handle",
+            "normalizedName": "Kitchen Active Bamboo Cutting Board. Premium Natural Eco Friendly Boards Are Best For Chopping Brie Cheese, Vegetable, Pastry Lemon, Watermelon, French Bread. 15\"X12\" With Big Wood One Handed Handle",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5599999995303894
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

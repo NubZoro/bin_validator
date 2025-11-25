@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01CWGKFAY": {
+            "asin": "B01CWGKFAY",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Plush Pair of Hopping Wind-Up Friends! 2 Chick - Combo Pack of 2",
+            "normalizedName": "Pack of 2 Plush Pair of Hopping Wind-Up Friends! 2 Chick - Combo",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

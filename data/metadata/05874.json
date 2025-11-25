@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0893892467": {
+            "asin": "0893892467",
+            "height": {
+                "unit": "IN",
+                "value": 0.29921259812
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Happiness is Your Creation",
+            "normalizedName": "Happiness is Your Creation",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5500092512376
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "0975366289": {
+            "asin": "0975366289",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "The Gita: A New Translation of Hindu Sacred Scripture",
+            "normalizedName": "The Gita: A New Translation of Hindu Sacred Scripture",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "1493015273": {
+            "asin": "1493015273",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Essential Survival Gear: A Pro's Guide to Your Most Practical and Portable Survival Kit",
+            "normalizedName": "Essential Survival Gear: A Pro's Guide to Your Most Practical and Portable Survival Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01EWUR5AQ": {
+            "asin": "B01EWUR5AQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Bluetooth Headset, Bluetooth 4.1 Wireless Stereo Headphones Earphones Neckband with Retractable and Foldable Design Style Earbuds with Mic for IOS and Android Cell Phones",
+            "normalizedName": "Bluetooth Headset, Bluetooth 4.1 Wireless Stereo Headphones Earphones Neckband with Retractable and Foldable Design Style Earbuds with Mic for IOS and Android Cell Phones",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

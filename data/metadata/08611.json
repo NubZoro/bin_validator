@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0833552953": {
+            "asin": "0833552953",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988576
+            },
+            "name": "How Many Days To America? (Turtleback School & Library Binding Edition)",
+            "normalizedName": "How Many Days To America? (Turtleback School & Library Binding Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514
+            }
+        },
+        "B019BEJO52": {
+            "asin": "B019BEJO52",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Disney Store Star Wars Darth Maul Mug - 20 oz.",
+            "normalizedName": "Disney Store Star Wars Darth Maul Mug - 20 oz.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

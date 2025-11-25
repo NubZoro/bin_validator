@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0077861035": {
+            "asin": "0077861035",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Marketing",
+            "normalizedName": "Marketing",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B01BJ44BX2": {
+            "asin": "B01BJ44BX2",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995817999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Ideal Linens Bed Sheet Set - 1800 Double Brushed Microfiber Bedding - 4 Piece (Queen, White)",
+            "normalizedName": "Ideal Linens Bed Sheet Set - 1800 Double Brushed Microfiber Bedding - 4 Piece (Queen, White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.149999997358439
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

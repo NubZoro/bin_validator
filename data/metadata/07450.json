@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002OJLUJ0": {
+            "asin": "B002OJLUJ0",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Aveda Pure Formance Firm Hold Gel for Men, 5 Ounce",
+            "normalizedName": "Aveda Pure Formance Firm Hold Gel for Men, 5 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01GAFRFME": {
+            "asin": "B01GAFRFME",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "58\"x27\" USA Patriotic Nylong Bunting Pleated Flag, 2 Sided, Embroidered Stars, Grommets, July 4th American Flag for Outdoor Use",
+            "normalizedName": "58\"x27\" USA Patriotic Nylong Bunting Pleated Flag, 2 Sided, Embroidered Stars, Grommets, July 4th American Flag for Outdoor Use",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

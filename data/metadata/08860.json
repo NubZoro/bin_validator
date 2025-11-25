@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00B99JUBQ": {
+            "asin": "B00B99JUBQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.6771653516
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299212592
+            },
+            "name": "Seagate 1TB Gaming SSHD SATA 8GB NAND SATA 6Gb/s 2.5-Inch Internal Bare Drive (ST1000LM014)",
+            "normalizedName": "Seagate 1TB Gaming SSHD SATA 8GB NAND SATA 6Gb/s 2.5-Inch Internal Bare Drive (ST1000LM014)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601868139676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8031496014
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

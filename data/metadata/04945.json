@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K0KC7GA": {
+            "asin": "B00K0KC7GA",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Square Glass Butter Dish",
+            "normalizedName": "Square Glass Butter Dish",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B010QSYUCE": {
+            "asin": "B010QSYUCE",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Dallas Cowboys MARVEL Shield Force Tee (Large)",
+            "normalizedName": "Dallas Cowboys MARVEL Shield Force Tee (Large)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B01DDA2LZ0": {
+            "asin": "B01DDA2LZ0",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "iPhone SE Case, iPhone 5S Bumper Cover Slim Case, Pasonomi\u00ae [Shock Absorbing] Flexible Protective Double Color Back Shell Defender Carrying Case for Apple iPhone SE / 5s / 5 (Purple)",
+            "normalizedName": "iPhone SE Case, iPhone 5S Bumper Cover Slim Case, Pasonomi\u00ae [Shock Absorbing] Flexible Protective Double Color Back Shell Defender Carrying Case for Apple iPhone SE / 5s / 5 (Purple)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7007873978
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

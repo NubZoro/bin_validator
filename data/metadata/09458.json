@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003ADVAJY": {
+            "asin": "B003ADVAJY",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "ADCO 1738 Black Vinyl Spare Tire Cover L (Fits 25 1/2\" Diameter Wheel)",
+            "normalizedName": "ADCO 1738 Black Vinyl Spare Tire Cover L (Fits 25 1/2\" Diameter Wheel)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00B9GU2XY": {
+            "asin": "B00B9GU2XY",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Sightron SI Hunter 3.5-10X50 Riflescope with Duplex Reticle",
+            "normalizedName": "Sightron SI Hunter 3.5-10X50 Riflescope with Duplex Reticle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01GEVR5AG": {
+            "asin": "B01GEVR5AG",
+            "height": {
+                "unit": "IN",
+                "value": 1.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.75
+            },
+            "name": "Set Silicone Car Placemat and Matching Mommy and Baby Panda Bib Kids Babies Toddlers Meal Plate (Orange)",
+            "normalizedName": "Set Silicone Car Placemat and Matching Mommy and Baby Panda Bib Kids Babies Toddlers Meal Plate (Orange)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

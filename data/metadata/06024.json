@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KY605W8": {
+            "asin": "B00KY605W8",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Black Berkey Primer",
+            "normalizedName": "Black Berkey Primer",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B00OGT0AWE": {
+            "asin": "B00OGT0AWE",
+            "height": {
+                "unit": "IN",
+                "value": 0.9448818888
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "name": "LEEF iBridge 16GB Mobile Storage (LIB000KK016E6)",
+            "normalizedName": "LEEF iBridge 16GB Mobile Storage (LIB000KK016E6)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.6456692866
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

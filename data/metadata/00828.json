@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013TOWZ9C": {
+            "asin": "B013TOWZ9C",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Disney Sofia the First - Metal Tin Case Pencil Box",
+            "normalizedName": "Disney Sofia the First - Metal Tin Case Pencil Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B017QZ571I": {
+            "asin": "B017QZ571I",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "iArtker Adults and Kids Art Supplies Trilateral Long Colored Pencils with Sharpener (set of 24)",
+            "normalizedName": "iArtker Adults and Kids Art Supplies Trilateral Long Colored Pencils with Sharpener (set of 24)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B01CGGW918": {
+            "asin": "B01CGGW918",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Bestten Multi-Functional Wall Tap, 3 Outlets and 2 USB Charging Ports (2.4A/Port, 3.1A Total) with Surge Protector, ETL Listed",
+            "normalizedName": "Bestten Multi-Functional Wall Tap, 3 Outlets and 2 USB Charging Ports (2.4A/Port, 3.1A Total) with Surge Protector, ETL Listed",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

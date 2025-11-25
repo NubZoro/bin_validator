@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014EOHTMY": {
+            "asin": "B014EOHTMY",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "iEGrow Flexible USB Touch LED Desk Lamp with 3-Level Dimmer and Decor Plant Pencil Holder(Green)",
+            "normalizedName": "iEGrow Flexible USB Touch LED Desk Lamp with 3-Level Dimmer and Decor Plant Pencil Holder(Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B0166159QQ": {
+            "asin": "B0166159QQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Let's Party Treat Boxes",
+            "normalizedName": "Let's Party Treat Boxes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

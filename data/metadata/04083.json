@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BGEC96M": {
+            "asin": "B00BGEC96M",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Centaur Waterproof Fleece Lined Saddle Cover (Navy Blue)",
+            "normalizedName": "Centaur Waterproof Fleece Lined Saddle Cover (Navy Blue)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B00LGCUPQU": {
+            "asin": "B00LGCUPQU",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "Brother Printer TN630 Standard Yield Toner",
+            "normalizedName": "Brother Printer TN630 Standard Yield Toner",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

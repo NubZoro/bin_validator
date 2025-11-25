@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009LDCVAE": {
+            "asin": "B009LDCVAE",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "2 Broke Girls: The Complete Second Season",
+            "normalizedName": "2 Broke Girls: The Complete Second Season",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601897719786
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B00Q30JU7U": {
+            "asin": "B00Q30JU7U",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Bluedio T2 Plus Turbine Wireless Bluetooth Headphones with Mic/Micro SD Card Slot/FM Radio (White) \tBluedio T2 Plus Turbine Wireless Bluetooth Headphones with Mic/Micro SD Card Slot/FM Radio (White)",
+            "normalizedName": "Bluedio T2 Plus Turbine Wireless Bluetooth Headphones with Mic/Micro SD Card Slot/FM Radio (White) \tBluedio T2 Plus Turbine Wireless Bluetooth Headphones with Mic/Micro SD Card Slot/FM Radio (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

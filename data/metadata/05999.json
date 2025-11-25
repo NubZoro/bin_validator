@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00O9QPF1A": {
+            "asin": "B00O9QPF1A",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "American Fireglass Fireplace and Fire Pit Glass,  Sapphire Blue Eco Fireglass, 5-Pound",
+            "normalizedName": "American Fireglass Fireplace and Fire Pit Glass,  Sapphire Blue Eco Fireglass, 5-Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

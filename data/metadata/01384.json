@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017SVI564": {
+            "asin": "B017SVI564",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Solia SuperHot Professional Lightweight Hair Dryer",
+            "normalizedName": "Solia SuperHot Professional Lightweight Hair Dryer",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0499999974422987
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

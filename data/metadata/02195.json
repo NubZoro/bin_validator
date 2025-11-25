@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004R37X24": {
+            "asin": "B004R37X24",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Draw-Tite 75685 Max-Frame Receiver",
+            "normalizedName": "Draw-Tite 75685 Max-Frame Receiver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00AMNLK7M": {
+            "asin": "B00AMNLK7M",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Dura International BR34180 Rear Solid Disc Brake Rotor",
+            "normalizedName": "Dura International BR34180 Rear Solid Disc Brake Rotor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 15.199999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.799999986944
+            }
+        },
+        "B00OXHV5MI": {
+            "asin": "B00OXHV5MI",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Soccer Challenge Perfect Goal With score keeper",
+            "normalizedName": "Soccer Challenge Perfect Goal With score keeper",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        },
+        "B00TZI3YZ6": {
+            "asin": "B00TZI3YZ6",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "NUTRO Kitten Chicken and Whole Brown Rice Recipe Natural Kitten Food 6.5 Pounds",
+            "normalizedName": "NUTRO Kitten Chicken and Whole Brown Rice Recipe Natural Kitten Food 6.5 Pounds",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.700000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B01E3Z4ZOE": {
+            "asin": "B01E3Z4ZOE",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "essential oil 30 bottles black",
+            "normalizedName": "essential oil 30 bottles black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

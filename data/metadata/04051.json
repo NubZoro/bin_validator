@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002V74YOS": {
+            "asin": "B002V74YOS",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "Classic Fjord 3-piece Cast Aluminum Salad Set by Dansk\u00ae",
+            "normalizedName": "Classic Fjord 3-piece Cast Aluminum Salad Set by Dansk\u00ae",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.199999986536
+            }
+        },
+        "B00CPKIQ6I": {
+            "asin": "B00CPKIQ6I",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "PSPC Phycox Max HA 90 Count Canine Soft Chews",
+            "normalizedName": "PSPC Phycox Max HA 90 Count Canine Soft Chews",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00UGHNIWO": {
+            "asin": "B00UGHNIWO",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Calily Therapeutic Grade Essential Oil Set, 10ml - Pack of 14",
+            "normalizedName": "Pack of 14 Calily Therapeutic Grade Essential Oil Set, 10ml -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

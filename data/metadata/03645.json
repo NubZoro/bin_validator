@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01BS06F22": {
+            "asin": "B01BS06F22",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "O'Neill men's 24/7 sun tee (including Big & Tall sizes) King 3X Tall Lunar/lime (4452)",
+            "normalizedName": "O'Neill men's 24/7 sun tee (including Big & Tall sizes) King 3X Tall Lunar/lime (4452)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.249999991585002
+            }
+        },
+        "B01GOZPZRC": {
+            "asin": "B01GOZPZRC",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Key Whip Keeper Belt Key Holder - Made In USA (Olive Drab)",
+            "normalizedName": "Key Whip Keeper Belt Key Holder - Made In USA (Olive Drab)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

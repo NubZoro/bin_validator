@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000E0OE44": {
+            "asin": "B000E0OE44",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Paradise Now",
+            "normalizedName": "Paradise Now",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00IF7RCU6": {
+            "asin": "B00IF7RCU6",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "3M 6503QL Rugged Comfort Quick Latch Half Facepiece Reusable Respirator, Large",
+            "normalizedName": "3M 6503QL Rugged Comfort Quick Latch Half Facepiece Reusable Respirator, Large",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016LPWT5G": {
+            "asin": "B016LPWT5G",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "King of Games - Yugi's Legendary Decks SW",
+            "normalizedName": "King of Games - Yugi's Legendary Decks SW",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01DFSG1I8": {
+            "asin": "B01DFSG1I8",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999967564
+            },
+            "name": "LL Womens White Lace Scarf with Rain Drop Tassels All Season Fashion Accessory",
+            "normalizedName": "LL Womens White Lace Scarf with Rain Drop Tassels All Season Fashion Accessory",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001130612156
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999984394
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

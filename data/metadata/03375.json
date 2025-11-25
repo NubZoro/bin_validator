@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KC5SZJG": {
+            "asin": "B00KC5SZJG",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "EliteTek RG-14 Football Gloves Youth and Adult (Blue, Youth S)",
+            "normalizedName": "EliteTek RG-14 Football Gloves Youth and Adult (Blue, Youth S)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00SNLRQT6": {
+            "asin": "B00SNLRQT6",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Funny Guy Mugs I Love My Uncle Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs I Love My Uncle Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01EVTV5P4": {
+            "asin": "B01EVTV5P4",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.0
+            },
+            "name": "4 Pack Aluminum Fine Mist Spray Bottles 2.7oz (80ml)",
+            "normalizedName": "4 Pack  Aluminum Fine Mist Spray Bottles 2.7oz (80ml)",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

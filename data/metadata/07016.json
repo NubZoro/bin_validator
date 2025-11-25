@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GR4Q16": {
+            "asin": "B000GR4Q16",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Wiss A11N 2-1/2-Inch Cut Capacity 9-3/4-Inch Straight Pattern Tinner's Snip",
+            "normalizedName": "Wiss A11N 2-1/2-Inch Cut Capacity 9-3/4-Inch Straight Pattern Tinner's Snip",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "B003U83NXA": {
+            "asin": "B003U83NXA",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.299999983374
+            },
+            "name": "Eurow Microfiber 16 x 16in 300 GSM Cleaning Towels 12-Pack (Red)",
+            "normalizedName": "12-Pack Eurow Microfiber 16 x 16in 300 GSM Cleaning Towels (Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B00L3DL53O": {
+            "asin": "B00L3DL53O",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Stephen Joseph Boys 2-7 Quilted Backpack, Firetruck, One Size Color: Firetruck Size: One Size Toy, Kids, Play, Children",
+            "normalizedName": "Stephen Joseph Boys 2-7 Quilted Backpack, Firetruck, One Size Color: Firetruck Size: One Size Toy, Kids, Play, Children",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988066
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

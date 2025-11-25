@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001534R00": {
+            "asin": "B001534R00",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Celsius Sparkling Orange, 12-Ounce Cans (Pack of 24)",
+            "normalizedName": "(Pack of 24) Celsius Sparkling Orange, 12-Ounce Cans",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 19.899999983312046
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B007AJ554A": {
+            "asin": "B007AJ554A",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Banzai Speed Blast Dual Racing Slide",
+            "normalizedName": "Banzai Speed Blast Dual Racing Slide",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8999999967294965
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

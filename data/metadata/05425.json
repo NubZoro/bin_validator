@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "014241381X": {
+            "asin": "014241381X",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Boy",
+            "normalizedName": "Boy",
+            "quantity": 14,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B002OLV3SG": {
+            "asin": "B002OLV3SG",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452
+            },
+            "name": "Leslie Sansone: Walk Away the Pounds - For Your Week",
+            "normalizedName": "Leslie Sansone: Walk Away the Pounds - For Your Week",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

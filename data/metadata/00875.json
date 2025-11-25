@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000RI6C7K": {
+            "asin": "B000RI6C7K",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.3858267682
+            },
+            "name": "Feliway - Refill, 48 ml",
+            "normalizedName": "Feliway - Refill, 48 ml",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800934069835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.0472440924
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

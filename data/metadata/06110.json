@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0044FR9J2": {
+            "asin": "B0044FR9J2",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Celebrations Mini Window Icicle Light Set",
+            "normalizedName": "Celebrations Mini Window Icicle Light Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B005KDE0V2": {
+            "asin": "B005KDE0V2",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Rubbermaid Commercial FGE23600BL00 Universal Headband Wet Mop Head, Blue Blended Fiber, 16-ounce, Blue",
+            "normalizedName": "Rubbermaid Commercial FGE23600BL00 Universal Headband Wet Mop Head, Blue Blended Fiber, 16-ounce, Blue",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00WGRLJQO": {
+            "asin": "B00WGRLJQO",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Atkins Caramel Chocolate Nut Roll, 17 Count",
+            "normalizedName": "Atkins Caramel Chocolate Nut Roll, 17 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

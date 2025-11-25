@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00002NB0L": {
+            "asin": "B00002NB0L",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Siemens Q1515 Two 15-Amp Single Pole 120-Volt Circuit Breakers, for use only where Type QT breakers are allowed",
+            "normalizedName": "Siemens Q1515 Two 15-Amp Single Pole 120-Volt Circuit Breakers, for use only where Type QT breakers are allowed",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B0053FJK8K": {
+            "asin": "B0053FJK8K",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Fisher-Price Octonauts Kwazii and The Vampire Squid",
+            "normalizedName": "Fisher-Price Octonauts Kwazii and The Vampire Squid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B008194UIU": {
+            "asin": "B008194UIU",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "name": "4 Pack Panasonic NiMH AAA Rechargeable Battery for Cordless Phones",
+            "normalizedName": "4 Pack  Panasonic NiMH AAA Rechargeable Battery for Cordless Phones",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.599999998368
+            }
+        },
+        "B00K0KC7GA": {
+            "asin": "B00K0KC7GA",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Square Glass Butter Dish",
+            "normalizedName": "Square Glass Butter Dish",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KVQYJR8": {
+            "asin": "B00KVQYJR8",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "Minecraft - PlayStation 4",
+            "normalizedName": "Minecraft - PlayStation 4",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.2755905458
+            }
+        },
+        "B00NFHE1GY": {
+            "asin": "B00NFHE1GY",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "TORCHSTAR High CRI 10W 5/6inch Gimbal LED Recessed Light Retrofit Kit 75W Equivalent, Energy Star UL Classified Light Fixture, Directional LED Ceiling Down Light Fits Recessed Can - 2700K Warm White",
+            "normalizedName": "TORCHSTAR High CRI 10W 5/6inch Gimbal LED Recessed Light Retrofit Kit 75W Equivalent, Energy Star UL Classified Light Fixture, Directional LED Ceiling Down Light Fits Recessed Can - 2700K Warm White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

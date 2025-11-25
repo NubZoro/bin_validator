@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0019N258M": {
+            "asin": "B0019N258M",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Mosquito Barrier 2001 Liquid Spray Repellent, 1-Quart",
+            "normalizedName": "Mosquito Barrier 2001 Liquid Spray Repellent, 1-Quart",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

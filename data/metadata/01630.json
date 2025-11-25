@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006ZNFLU": {
+            "asin": "B0006ZNFLU",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Bronson Labs: Super Vitamin B Complex (Vitamin B1, B2, B3, B6, B9 - Folic Acid, B12), 250 Super B Tablets, GMO Free Premium Formula, Made in USA",
+            "normalizedName": "Bronson Labs: Super Vitamin B Complex (Vitamin B1, B2, B3, B6, B9 - Folic Acid, B12), 250 Super B Tablets, GMO Free Premium Formula, Made in USA",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

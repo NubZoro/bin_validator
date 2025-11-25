@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0375872809": {
+            "asin": "0375872809",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Duck & Goose, Here Comes the Easter Bunny!",
+            "normalizedName": "Duck & Goose, Here Comes the Easter Bunny!",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00J4T75ME": {
+            "asin": "B00J4T75ME",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Fisher-Price Octonauts Barnacles' Octopod Steering Deck",
+            "normalizedName": "Fisher-Price Octonauts Barnacles' Octopod Steering Deck",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01EMNKN8Y": {
+            "asin": "B01EMNKN8Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Baby Car Seat Cover, Nursing Cover and Shopping Cart Cover (3-in-1) (Black)",
+            "normalizedName": "Baby Car Seat Cover, Nursing Cover and Shopping Cart Cover (3-in-1) (Black)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

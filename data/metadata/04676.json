@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000W7DBWA": {
+            "asin": "B000W7DBWA",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "name": "Combi-Cam 7850R-L Combination Cam Lock, 1-1/8\" Chrome Finish",
+            "normalizedName": "Combi-Cam 7850R-L Combination Cam Lock, 1-1/8\" Chrome Finish",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B00PQ83DDC": {
+            "asin": "B00PQ83DDC",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Bestface\u00ae Two Way Radio Handheld Speaker Mic Specially for Pofung for Baofeng UV-82",
+            "normalizedName": "Bestface\u00ae Two Way Radio Handheld Speaker Mic Specially for Pofung for Baofeng UV-82",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002I5QHW": {
+            "asin": "B0002I5QHW",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Norpro Meat Grinder, Mincer, and Pasta Maker",
+            "normalizedName": "Norpro Meat Grinder, Mincer, and Pasta Maker",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00BYPJH40": {
+            "asin": "B00BYPJH40",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Sizzix Movers and Shapers Base Die by Tim Holtz, 5.5 by 6-Inch, Arch Frame",
+            "normalizedName": "Sizzix Movers and Shapers Base Die by Tim Holtz, 5.5 by 6-Inch, Arch Frame",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

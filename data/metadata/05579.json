@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IMEMX6A": {
+            "asin": "B00IMEMX6A",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "BESTORQ A27 or 4L290 Rubber V-Belt, Wrapped, Black, 29\" Length x 0.5\" Width x 0.32\" Height",
+            "normalizedName": "BESTORQ A27 or 4L290 Rubber V-Belt, Wrapped, Black, 29\" Length x 0.5\" Width x 0.32\" Height",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00PHL48Y6": {
+            "asin": "B00PHL48Y6",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Assorted Heat Shrink KIT - 590 Pieces - 2:1 Shrink Ratio - Size Range: 3/64\" to 1\" - Color: Multicolors",
+            "normalizedName": "Assorted Heat Shrink KIT - 590 Pieces - 2:1 Shrink Ratio - Size Range: 3/64\" to 1\" - Color: Multicolors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B01CSH5XFE": {
+            "asin": "B01CSH5XFE",
+            "height": {
+                "unit": "IN",
+                "value": 1.4999999969400002
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999694
+            },
+            "name": "Anne Klein New Recruits Satchel LG Bag, Bone/Black/Tulip, One Size",
+            "normalizedName": "Anne Klein New Recruits Satchel LG Bag, Bone/Black/Tulip, One Size",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999647792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999986944
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

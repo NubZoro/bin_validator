@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007KI6OU": {
+            "asin": "B0007KI6OU",
+            "height": {
+                "unit": "IN",
+                "value": 5.0393700736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.2519684894
+            },
+            "name": "Brother Black Toner Cartridge (TN-350)",
+            "normalizedName": "Brother Black Toner Cartridge (TN-350)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7636800934069836
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.6141732216
+            }
+        },
+        "B008R9M342": {
+            "asin": "B008R9M342",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.399999983272
+            },
+            "name": "Reclaimed Barnwood Planter Box Mini Herb Garden Kit - Grow Cooking Herbs from Seed: Basil, Dill, Thyme, Parsley, Oregano, Cilantro",
+            "normalizedName": "Reclaimed Barnwood Planter Box Mini Herb Garden Kit - Grow Cooking Herbs from Seed: Basil, Dill, Thyme, Parsley, Oregano, Cilantro",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00AT1G32Y": {
+            "asin": "B00AT1G32Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "FULL SIZE 1500 Thread Count STRIPED Sheet set, LIGHT BLUE",
+            "normalizedName": "FULL SIZE 1500 Thread Count STRIPED Sheet set, LIGHT BLUE",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        },
+        "B00G1RFWZO": {
+            "asin": "B00G1RFWZO",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Mossy Oak Camo Zipper Binder",
+            "normalizedName": "Mossy Oak Camo Zipper Binder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.399999987352
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

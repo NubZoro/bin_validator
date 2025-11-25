@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GATFH8": {
+            "asin": "B000GATFH8",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Custom Leathercraft 527X Suede Construction Work Apron, Heavy Duty, 12 Pocket",
+            "normalizedName": "Custom Leathercraft 527X Suede Construction Work Apron, Heavy Duty, 12 Pocket",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B002XULCB6": {
+            "asin": "B002XULCB6",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Pure Protein 35g Shake - Vanilla Cream, 11 ounce, (Pack of 12)",
+            "normalizedName": "(Pack of 12) Pure Protein 35g Shake - Vanilla Cream, 11 ounce,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00N3IUCAY": {
+            "asin": "B00N3IUCAY",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "DonJoy Cold Therapy Wraps (Knee/Thigh Cold Wrap)",
+            "normalizedName": "DonJoy Cold Therapy Wraps (Knee/Thigh Cold Wrap)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

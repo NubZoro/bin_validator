@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000YBZIAC": {
+            "asin": "B000YBZIAC",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Nippon Kodo Deitanseki Soap 5.3oz",
+            "normalizedName": "Nippon Kodo Deitanseki Soap 5.3oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B01AZ3DT7C": {
+            "asin": "B01AZ3DT7C",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Misiri MSR608 HiCo Credit Card Magnetic Card Reader Writer Support Mac Compatible with MSR206 MSR605 MSR606",
+            "normalizedName": "Misiri MSR608 HiCo Credit Card Magnetic Card Reader Writer Support Mac Compatible with MSR206 MSR605 MSR606",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

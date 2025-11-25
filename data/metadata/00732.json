@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0345418921": {
+            "asin": "0345418921",
+            "height": {
+                "unit": "IN",
+                "value": 0.59842519624
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy)",
+            "normalizedName": "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4500075691944
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.29921259302
+            }
+        },
+        "0393319296": {
+            "asin": "0393319296",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Invisible Monsters: A Novel",
+            "normalizedName": "Invisible Monsters: A Novel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00I1AUH6S": {
+            "asin": "B00I1AUH6S",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "NECA The Simpsons 25th Anniversary - Series 1 - Tom Hanks Action Figure, 5\"",
+            "normalizedName": "NECA The Simpsons 25th Anniversary - Series 1 - Tom Hanks Action Figure, 5\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00M11NF62": {
+            "asin": "B00M11NF62",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Enerlites 62000-4USB-I 4-Port USB In-Wall Charger, 4A Total Output, Includes Child-Safe Screwless Wall Plate, Ivory",
+            "normalizedName": "Enerlites 62000-4USB-I 4-Port USB In-Wall Charger, 4A Total Output, Includes Child-Safe Screwless Wall Plate, Ivory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

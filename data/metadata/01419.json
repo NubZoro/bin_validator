@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0553126075": {
+            "asin": "0553126075",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Sweet and Dangerous",
+            "normalizedName": "Sweet and Dangerous",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "0736423117": {
+            "asin": "0736423117",
+            "height": {
+                "unit": "IN",
+                "value": 0.29921259812
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.79921259047
+            },
+            "name": "Scamp (Little Golden Book)",
+            "normalizedName": "Scamp (Little Golden Book)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.250004205108
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B004XNQL2Q": {
+            "asin": "B004XNQL2Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Miniature Green Plastic Topper Party Accessory (1 count) (1/Pkg)",
+            "normalizedName": "Miniature Green Plastic Topper Party Accessory (1 count) (1/Pkg)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01CYUPBO8": {
+            "asin": "B01CYUPBO8",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "LXLG Unlocked Cell Phones 5.0\" Android 5.1 MTK6580 Quad Core ROM 4GB 5.0MP Camera Dual SIM Dual Standby GSM/3G Quadband Smartphones WIFI Bluetooth Black",
+            "normalizedName": "LXLG Unlocked Cell Phones 5.0\" Android 5.1 MTK6580 Quad Core ROM 4GB 5.0MP Camera Dual SIM Dual Standby GSM/3G Quadband Smartphones WIFI Bluetooth Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

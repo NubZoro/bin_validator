@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00H5UJ068": {
+            "asin": "B00H5UJ068",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "LOT of 10 White Pencil Starfish Wedding Decor 5\" - 6\"",
+            "normalizedName": "LOT of 10 White Pencil Starfish Wedding Decor 5\" - 6\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00N9LZM82": {
+            "asin": "B00N9LZM82",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "40-Pack Purple Holographic Glitter Soft Nail Caps For Cat Claws * Purrdy Paws Brand (Medium)",
+            "normalizedName": "40-Pack  Purple Holographic Glitter Soft Nail Caps For Cat Claws * Purrdy Paws Brand (Medium)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

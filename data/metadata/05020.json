@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PXLX2TC": {
+            "asin": "B00PXLX2TC",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993777999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Sennheiser HD 800 S Reference Headphone System",
+            "normalizedName": "Sennheiser HD 800 S Reference Headphone System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.649999995261963
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B00QWB35N0": {
+            "asin": "B00QWB35N0",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Sherman Toner Cartridges \u00ae CE285A (85A) Compatible Black Laser Toner Cartridge for HP Laserjet Pro P1102W, M1130, M1210,",
+            "normalizedName": "Sherman Toner Cartridges \u00ae CE285A (85A) Compatible Black Laser Toner Cartridge for HP Laserjet Pro P1102W, M1130, M1210,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

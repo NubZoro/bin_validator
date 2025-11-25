@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003U4AEGI": {
+            "asin": "B003U4AEGI",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "NCAA Michigan Wolverines Hoodie Purse",
+            "normalizedName": "NCAA Michigan Wolverines Hoodie Purse",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

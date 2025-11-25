@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00T7MMCQM": {
+            "asin": "B00T7MMCQM",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Contigo Auto Seal Cortland Water Bottle, 24-Ounce, Sangria",
+            "normalizedName": "Contigo Auto Seal Cortland Water Bottle, 24-Ounce, Sangria",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B017L8MJL6": {
+            "asin": "B017L8MJL6",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.023622036
+            },
+            "name": "Best Cr\u00e8me Brulee Torch, Culinary Torch That Burns An Amazing 2400 Degrees, Wow Your Family With Ease Making World Class Desserts Toasted With Your Kitchen Torch, And Delight Your Children By Roasting Marshmallows With Your Food Torch. Happiness.Guaranteed.",
+            "normalizedName": "Best Cr\u00e8me Brulee Torch, Culinary Torch That Burns An Amazing 2400 Degrees, Wow Your Family With Ease Making World Class Desserts Toasted With Your Kitchen Torch, And Delight Your Children By Roasting Marshmallows With Your Food Torch. Happiness.Guaranteed.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CR3UMG": {
+            "asin": "B000CR3UMG",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Wagner Lighting 4049 Sealed Beam - Box of 1",
+            "normalizedName": "Wagner Lighting 4049 Sealed Beam - Box of 1",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B01DF2PW5W": {
+            "asin": "B01DF2PW5W",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "TAKESUMI EcoConcept - Set of Bamboo Charcoal Shoe Deodorizer Bags and Storage Bag - Natural shoes & fridge & car & luggage deodorizer - Odor & Moisture absorber - Air purifier \u2013 Eco-Friendly-Non-Toxic",
+            "normalizedName": "TAKESUMI EcoConcept - Set of Bamboo Charcoal Shoe Deodorizer Bags and Storage Bag - Natural shoes & fridge & car & luggage deodorizer - Odor & Moisture absorber - Air purifier \u2013 Eco-Friendly-Non-Toxic",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JW1VXZY": {
+            "asin": "B00JW1VXZY",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Dorman 38668 Left Side Tailgate Latch",
+            "normalizedName": "Dorman 38668 Left Side Tailgate Latch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00Z7SAZXC": {
+            "asin": "B00Z7SAZXC",
+            "height": {
+                "unit": "IN",
+                "value": 1.949999998011
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.749999990055
+            },
+            "name": "OtterBox uniVERSE iPhone 6 Plus/6s Plus Module Case - Retail Packaging - SNOWCAPPED (BRIGHT WHITE/SLEET)",
+            "normalizedName": "OtterBox uniVERSE iPhone 6 Plus/6s Plus Module Case - Retail Packaging - SNOWCAPPED (BRIGHT WHITE/SLEET)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.519999999563933
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.749999993115
+            }
+        },
+        "B01AWAGUYC": {
+            "asin": "B01AWAGUYC",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Kingway Ink Cartridge Replacement for HP 950XL 951XL Use for HP Officejet Pro 8100 8600 8610 8615 8620 8625 8630 251dw 276dw Printers (2BK+1C+1M+1Y)",
+            "normalizedName": "Kingway Ink Cartridge Replacement for HP 950XL 951XL Use for HP Officejet Pro 8100 8600 8610 8615 8620 8625 8630 251dw 276dw Printers (2BK+1C+1M+1Y)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

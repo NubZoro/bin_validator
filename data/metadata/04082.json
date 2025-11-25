@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BGEC96M": {
+            "asin": "B00BGEC96M",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Centaur Waterproof Fleece Lined Saddle Cover (Navy Blue)",
+            "normalizedName": "Centaur Waterproof Fleece Lined Saddle Cover (Navy Blue)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

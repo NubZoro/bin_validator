@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001VUTZY": {
+            "asin": "B0001VUTZY",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Nature's Answer Alcohol-Free Ashwagandha Root, 2-Fluid Ounces",
+            "normalizedName": "Nature's Answer Alcohol-Free Ashwagandha Root, 2-Fluid Ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00NF1QP14": {
+            "asin": "B00NF1QP14",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Dorman 918-039 Variable Valve Timing Solenoid",
+            "normalizedName": "Dorman 918-039 Variable Valve Timing Solenoid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

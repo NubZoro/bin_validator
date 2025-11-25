@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005YH05GI": {
+            "asin": "B005YH05GI",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "CKLS (Colon, Kidney, Liver, Spleen)",
+            "normalizedName": "CKLS (Colon, Kidney, Liver, Spleen)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B01DLVS6ZA": {
+            "asin": "B01DLVS6ZA",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "FOCUSPOWER [Upgrade Version Qy7] QY8 Bluetooth Headphones V4.1 Wireless Sport Stereo In-Ear Noise Cancelling Sweatproof Headset with Mic /Apt-X for iPhone 6s Plus Samsung S7 and Android Phones (Black)",
+            "normalizedName": "FOCUSPOWER [Upgrade Version Qy7] QY8 Bluetooth Headphones V4.1 Wireless Sport Stereo In-Ear Noise Cancelling Sweatproof Headset with Mic /Apt-X for iPhone 6s Plus Samsung S7 and Android Phones (Black)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

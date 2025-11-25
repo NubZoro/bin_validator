@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007TSREJQ": {
+            "asin": "B007TSREJQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "NZXT Technologies NZXT FZ-140mm Green LED Cooling (RF-FZ140-G1)",
+            "normalizedName": "NZXT Technologies NZXT FZ-140mm Green LED Cooling (RF-FZ140-G1)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00OJGBH08": {
+            "asin": "B00OJGBH08",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Cable Matters 4-Rotating Outlet Wall Mount Surge Protector with 3.4A Dual USB Charging",
+            "normalizedName": "Cable Matters 4-Rotating Outlet Wall Mount Surge Protector with 3.4A Dual USB Charging",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

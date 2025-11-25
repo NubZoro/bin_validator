@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1604270888": {
+            "asin": "1604270888",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Achieve PMP Exam Success, 5th Edition: A Concise Study Guide for the Busy Project Manager",
+            "normalizedName": "Achieve PMP Exam Success, 5th Edition: A Concise Study Guide for the Busy Project Manager",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B0014DYEAE": {
+            "asin": "B0014DYEAE",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Go Clean Daily Care Shampoo Men Shampoo by Redken, 33.8 Ounce",
+            "normalizedName": "Go Clean Daily Care Shampoo Men Shampoo by Redken, 33.8 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B007ZHDWB0": {
+            "asin": "B007ZHDWB0",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "name": "Cutie Claw Back Scratcher 4 Pack - Grab Bag",
+            "normalizedName": "4 Pack Cutie Claw Back Scratcher - Grab Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.799999999184
+            }
+        },
+        "B00HV88Z7E": {
+            "asin": "B00HV88Z7E",
+            "height": {
+                "unit": "IN",
+                "value": 2.5590551155
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.2283464483
+            },
+            "name": "Disney/Pixar Toy Story Two Aliens Figures, 2.5 inch",
+            "normalizedName": "Disney/Pixar Toy Story Two Aliens Figures, 2.5 inch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1763698096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

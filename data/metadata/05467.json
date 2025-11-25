@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00025666U": {
+            "asin": "B00025666U",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Lifegard Aquatics Filter Media, 3-Pound Bottle",
+            "normalizedName": "Lifegard Aquatics Filter Media, 3-Pound Bottle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00596QVHG": {
+            "asin": "B00596QVHG",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "3M 38191 Static Mixing Nozzle for 50 ml Cartridges, 12 Nozzles",
+            "normalizedName": "3M 38191 Static Mixing Nozzle for 50 ml Cartridges, 12 Nozzles",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B005BZNE2A": {
+            "asin": "B005BZNE2A",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "HP 951 Cyan, Magenta & Yellow Original Ink Cartridges, 3 pack (CR314FN)",
+            "normalizedName": "HP 951 Cyan, Magenta & Yellow Original Ink Cartridges, 3 pack (CR314FN)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

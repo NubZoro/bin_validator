@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K7FI8D4": {
+            "asin": "B00K7FI8D4",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "iHome iDL46 Lightning Dock Clock Radio and USB Charge/Play for iPad/iPod and iPhone 5/5S and 6/6Plus iPad Air /iPad Mini (Gray)",
+            "normalizedName": "iHome iDL46 Lightning Dock Clock Radio and USB Charge/Play for iPad/iPod and iPhone 5/5S and 6/6Plus iPad Air /iPad Mini (Gray)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B01ARGB43I": {
+            "asin": "B01ARGB43I",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.699999980926
+            },
+            "name": "Batman Unlimited Ultimate Bat-Mech Figure",
+            "normalizedName": "Batman Unlimited Ultimate Bat-Mech Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4499999979454534
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.599999987148
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

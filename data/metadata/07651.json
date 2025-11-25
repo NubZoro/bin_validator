@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BISGKJI": {
+            "asin": "B00BISGKJI",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Okamoto CROWN condoms - 100 condoms",
+            "normalizedName": "Okamoto CROWN condoms - 100 condoms",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B01B9UDGNW": {
+            "asin": "B01B9UDGNW",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Samsung Galaxy J1 2016 J120M DUOS 8GB Unlocked GSM 4G LTE Android Smartphone - Black",
+            "normalizedName": "Samsung Galaxy J1 2016 J120M DUOS 8GB Unlocked GSM 4G LTE Android Smartphone - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

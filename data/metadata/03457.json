@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004CF2VC4": {
+            "asin": "B004CF2VC4",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Toysmith 32-Piece Strike Force Playset",
+            "normalizedName": "Toysmith 32-Piece Strike Force Playset",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B0107V8Z4E": {
+            "asin": "B0107V8Z4E",
+            "height": {
+                "unit": "IN",
+                "value": 0.1181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.724409444
+            },
+            "name": "BRCbeads Gorgeous Natural White Coral Gemstone Faceted Rondelle Loose Beads2*4mm Approxi 15.5 inch 180pcs 1 Strand per Bag for Jewelry Making",
+            "normalizedName": "BRCbeads Gorgeous Natural White Coral Gemstone Faceted Rondelle Loose Beads2*4mm Approxi 15.5 inch 180pcs 1 Strand per Bag for Jewelry Making",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.149606296
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

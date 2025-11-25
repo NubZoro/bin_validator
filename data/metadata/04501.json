@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002JAKRAM": {
+            "asin": "B002JAKRAM",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.0708661284
+            },
+            "name": "Frigidaire ULTRAWF Refrigerator Water Filter",
+            "normalizedName": "Frigidaire ULTRAWF Refrigerator Water Filter",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560420331426
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.0708661386
+            }
+        },
+        "B00ELKDD4U": {
+            "asin": "B00ELKDD4U",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Boy Meets World: The Complete Collection",
+            "normalizedName": "Boy Meets World: The Complete Collection",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00KQW9ZKI": {
+            "asin": "B00KQW9ZKI",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Visible Science Certified Organic Cold Pressed Argan Oil Treatment with Resveratrol - BEST Moroccan Oil Serum for all Hair and Skin types - Sulfate Free, Paraben Free, Cruetly Free - Repair, protect hair, add shine - Hydrate and restore skin radiance",
+            "normalizedName": "Visible Science Certified Organic Cold Pressed Argan Oil Treatment with Resveratrol - BEST Moroccan Oil Serum for all Hair and Skin types - Sulfate Free, Paraben Free, Cruetly Free - Repair, protect hair, add shine - Hydrate and restore skin radiance",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001UL5JNG": {
+            "asin": "B001UL5JNG",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Continental Gatorskin Bicycle Tire (700x23, Folding, Black)",
+            "normalizedName": "Continental Gatorskin Bicycle Tire (700x23, Folding, Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B0188A3N16": {
+            "asin": "B0188A3N16",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "AmazonBasics Wood-cased #2 HB Pencils -  Box of 96",
+            "normalizedName": "AmazonBasics Wood-cased #2 HB Pencils -  Box of 96",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B01D9H6BB2": {
+            "asin": "B01D9H6BB2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "iPhone 6/6S Case,Blingy's\u00ae Creative Design Funny Animal High Quality Transparent Clear Flexible Soft Slim Rubber Case for iPhone 6/6S(Clear Dinosaur)",
+            "normalizedName": "iPhone 6/6S Case,Blingy's\u00ae Creative Design Funny Animal High Quality Transparent Clear Flexible Soft Slim Rubber Case for iPhone 6/6S(Clear Dinosaur)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014603H3Q": {
+            "asin": "B014603H3Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Garcinia Cambogia",
+            "normalizedName": "Garcinia Cambogia",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

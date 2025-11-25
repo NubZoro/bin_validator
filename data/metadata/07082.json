@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00SAMJ45W": {
+            "asin": "B00SAMJ45W",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Knee Sleeves for Kids (1 Pair - Black S) Compression - Boys, Girls, Youth, Children Basketball Brace Support - Best to Strap & Wrap Knee Patella for Running, Crossfit, Football, Sports",
+            "normalizedName": "Knee Sleeves for Kids (1 Pair - Black S) Compression - Boys, Girls, Youth, Children Basketball Brace Support - Best to Strap & Wrap Knee Patella for Running, Crossfit, Football, Sports",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00VY3XJ5U": {
+            "asin": "B00VY3XJ5U",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "LG G4 Case, SUPCASE Full-body Rugged Holster Case with Built-in Screen Protector for LG G4 2015 Release, Unicorn Beetle PRO Series - Retail Package (Black/Black)",
+            "normalizedName": "LG G4 Case, SUPCASE Full-body Rugged Holster Case with Built-in Screen Protector for LG G4 2015 Release, Unicorn Beetle PRO Series - Retail Package (Black/Black)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

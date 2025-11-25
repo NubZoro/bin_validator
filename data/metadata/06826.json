@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BCM1BKS": {
+            "asin": "B00BCM1BKS",
+            "height": {
+                "unit": "IN",
+                "value": 1.34
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.3
+            },
+            "name": "Readers.com The Bowman +2.25 Black Unisex Rectangle Reading Glasses",
+            "normalizedName": "Readers.com The Bowman +2.25 Black Unisex Rectangle Reading Glasses",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.13
+            }
+        },
+        "B00WG51X12": {
+            "asin": "B00WG51X12",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8503936938
+            },
+            "name": "Double Dog Leash Coupler, PETBABA 1.4m/4.6FT Length Braided No Tangle Padded Handle Dog Lead for 2 Dogs Blue",
+            "normalizedName": "Double Dog Leash Coupler, PETBABA 1.4m/4.6FT Length Braided No Tangle Padded Handle Dog Lead for 2 Dogs Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800350276188
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.7716535364
+            }
+        },
+        "B01CIL5FYO": {
+            "asin": "B01CIL5FYO",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.2755905458
+            },
+            "name": "iPhone SE Case, Snugg\u00ae - Leather Wallet Cover Case with Lifetime Guarantee (Hot Pink) for Apple iPhone SE",
+            "normalizedName": "iPhone SE Case, Snugg\u00ae - Leather Wallet Cover Case with Lifetime Guarantee (Hot Pink) for Apple iPhone SE",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.149606296
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PO9HF46": {
+            "asin": "B00PO9HF46",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Voss Artesian Sparkling Water Large 800ml/27oz Glass Bottle",
+            "normalizedName": "Voss Artesian Sparkling Water Large 800ml/27oz Glass Bottle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01EZESBRU": {
+            "asin": "B01EZESBRU",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "2016 Newest acer Flagship 11.6-Inch chromebook (Intel celeron-2955U, 2GB RAM, 16GB SSD,Chrome OS)",
+            "normalizedName": "2016 Newest acer Flagship 11.6-Inch chromebook (Intel celeron-2955U, 2GB RAM, 16GB SSD,Chrome OS)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.099999996561778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

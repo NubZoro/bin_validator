@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BQI4HB8": {
+            "asin": "B00BQI4HB8",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Triangle Bulbs T10289-6 (6 pack) - Q35MR16/FL/GU10, 35 Watt, MR16 With UV Glass Cover, 120 Volt, GU10 Base, Halogen Flood Light Bulb, 6  Pack",
+            "normalizedName": "(6 pack) Triangle Bulbs T10289-6 - Q35MR16/FL/GU10, 35 Watt, MR16 With UV Glass Cover, 120 Volt, GU10 Base, Halogen Flood Light Bulb, 6  Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00T5D4RHU": {
+            "asin": "B00T5D4RHU",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Big Bang Theory: Season 8 Blu-ray",
+            "normalizedName": "Big Bang Theory: Season 8 Blu-ray",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B00WGXRG1U": {
+            "asin": "B00WGXRG1U",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Bragg - Apple Cider Vinegar, 16 Oz",
+            "normalizedName": "Bragg - Apple Cider Vinegar, 16 Oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

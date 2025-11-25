@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "081186992X": {
+            "asin": "081186992X",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Southern Pies: A Gracious Plenty of Pie Recipes, From Lemon Chess to Chocolate Pecan",
+            "normalizedName": "Southern Pies: A Gracious Plenty of Pie Recipes, From Lemon Chess to Chocolate Pecan",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942
+            }
+        },
+        "B01EWUR5AQ": {
+            "asin": "B01EWUR5AQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Bluetooth Headset, Bluetooth 4.1 Wireless Stereo Headphones Earphones Neckband with Retractable and Foldable Design Style Earbuds with Mic for IOS and Android Cell Phones",
+            "normalizedName": "Bluetooth Headset, Bluetooth 4.1 Wireless Stereo Headphones Earphones Neckband with Retractable and Foldable Design Style Earbuds with Mic for IOS and Android Cell Phones",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

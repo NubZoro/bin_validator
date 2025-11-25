@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NQM9UU": {
+            "asin": "B000NQM9UU",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "DSM2 Remote Receiver",
+            "normalizedName": "DSM2 Remote Receiver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B000QCPNYA": {
+            "asin": "B000QCPNYA",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Krusteaz Light & Crispy Belgian Waffle Mix, 28 oz",
+            "normalizedName": "Krusteaz Light & Crispy Belgian Waffle Mix, 28 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B017RU8B9C": {
+            "asin": "B017RU8B9C",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.204724397
+            },
+            "name": "iPad Pro Case , Exact [SLENDER Series] iPad Pro 12.9inch Case - Ultra Slim Lightweight Smart-shell Stand Case for Apple iPad Pro (2015 release) (With Auto Wakes/Sleep Function) Navy Blue",
+            "normalizedName": "iPad Pro Case , Exact [SLENDER Series] iPad Pro 12.9inch Case - Ultra Slim Lightweight Smart-shell Stand Case for Apple iPad Pro (2015 release) (With Auto Wakes/Sleep Function) Navy Blue",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054720373627935
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.8582677075
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

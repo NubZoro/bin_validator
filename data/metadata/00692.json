@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000WSLF0E": {
+            "asin": "B000WSLF0E",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Health From The Sun My-Grastick Roll-On, 0.1-ounce (Pack of 2)",
+            "normalizedName": "(Pack of 2) Health From The Sun My-Grastick Roll-On, 0.1-ounce",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B016IRR7S6": {
+            "asin": "B016IRR7S6",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "French Girl Organics - Organic / Vegan Sea Salt Body Polish (Rose / Vervaine)",
+            "normalizedName": "French Girl Organics - Organic / Vegan Sea Salt Body Polish (Rose / Vervaine)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

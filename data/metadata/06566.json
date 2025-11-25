@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000IF3D38": {
+            "asin": "B000IF3D38",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Conair 1875 Watt Thermal Shine Ionic Conditioning Hair Dryer",
+            "normalizedName": "Conair 1875 Watt Thermal Shine Ionic Conditioning Hair Dryer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B000MOL2GU": {
+            "asin": "B000MOL2GU",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "71\" Suntan Tub",
+            "normalizedName": "71\" Suntan Tub",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B002LMBLTY": {
+            "asin": "B002LMBLTY",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Trader Joe's Tea Tree Tingle Shampoo with Peppermint, Tea Tree and Eucalyptus Botanicals, 16-Ounces",
+            "normalizedName": "Trader Joe's Tea Tree Tingle Shampoo with Peppermint, Tea Tree and Eucalyptus Botanicals, 16-Ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00767NRXW": {
+            "asin": "B00767NRXW",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Strawberry Shortcake 'Dolls' Jumbo Letter Banner Kit (1ct)",
+            "normalizedName": "Strawberry Shortcake 'Dolls' Jumbo Letter Banner Kit (1ct)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B00ZFXFXZ4": {
+            "asin": "B00ZFXFXZ4",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Click & Grow Indoor Smart Herb Garden with 3 Basil Cartridges, White Lid",
+            "normalizedName": "Click & Grow Indoor Smart Herb Garden with 3 Basil Cartridges, White Lid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

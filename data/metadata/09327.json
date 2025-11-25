@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0037TSTUO": {
+            "asin": "B0037TSTUO",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Doodles Inflatable Pool Noodle Float - 6 Pack",
+            "normalizedName": "6 Pack Doodles Inflatable Pool Noodle Float -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4991280806530909
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B0199R4ZSW": {
+            "asin": "B0199R4ZSW",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Disney Tsum Tsum Lights & Sounds Mickey Plush",
+            "normalizedName": "Disney Tsum Tsum Lights & Sounds Mickey Plush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000O2P21Q": {
+            "asin": "B000O2P21Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Fake Bake Tanning Lotion Self Tanner, 6 Fluid Ounce",
+            "normalizedName": "Fake Bake Tanning Lotion Self Tanner, 6 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

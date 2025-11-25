@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HZSGD4C": {
+            "asin": "B00HZSGD4C",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "7 Day XXL Twice a Day Weekly Pill Organizer (Pack of 2)",
+            "normalizedName": "(Pack of 2) 7 Day XXL Twice a Day Weekly Pill Organizer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01BQLPZLA": {
+            "asin": "B01BQLPZLA",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Paw Patrol Beach Towel For Kids - Paw Patrol Puppy Run Theme 28 x 58 in",
+            "normalizedName": "Paw Patrol Beach Towel For Kids - Paw Patrol Puppy Run Theme 28 x 58 in",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

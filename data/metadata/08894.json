@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001P7GQJG": {
+            "asin": "B001P7GQJG",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "F Prism Lo Profile Tire,Purple(2):Jato,NST,NR,NSP",
+            "normalizedName": "F Prism Lo Profile Tire,Purple(2):Jato,NST,NR,NSP",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B007N6988E": {
+            "asin": "B007N6988E",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Gund Sesame Street Abby with Flowers Stuffed Animal",
+            "normalizedName": "Gund Sesame Street Abby with Flowers Stuffed Animal",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

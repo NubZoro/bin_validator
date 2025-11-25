@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015XTDBVM": {
+            "asin": "B015XTDBVM",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.199999983475998
+            },
+            "name": "Lucentee\u00ae Large Muffin Pans - Top Non Stick Bakeware for Muffins, Cakes and Cupcakes - 12 Cups Texas Jumbo Silicone Mold / Baking Tray - Heat Resistant Tins up to 450\u00b0F- Easy to Clean - Blue",
+            "normalizedName": "Lucentee\u00ae Large Muffin Pans - Top Non Stick Bakeware for Muffins, Cakes and Cupcakes - 12 Cups Texas Jumbo Silicone Mold / Baking Tray - Heat Resistant Tins up to 450\u00b0F- Easy to Clean - Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B01BIXAIG8": {
+            "asin": "B01BIXAIG8",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Nine West 9S Jacquard Satchel Bag, Light Khaki, One Size",
+            "normalizedName": "Nine West 9S Jacquard Satchel Bag, Light Khaki, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

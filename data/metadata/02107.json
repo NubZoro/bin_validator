@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GSPHTJG": {
+            "asin": "B00GSPHTJG",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Intex Recreation 29003E 3-Pack Type-A Filter Cartridge for Pools",
+            "normalizedName": "3-Pack Intex Recreation 29003E Type-A Filter Cartridge for Pools",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B019ZG5SWY": {
+            "asin": "B019ZG5SWY",
+            "height": {
+                "unit": "IN",
+                "value": 4.4094488144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.8661417212
+            },
+            "name": "1800 Series Egyptian Collection 3 Line Microfiber 4 Piece Bed Sheet Set (King, Spa Mint)",
+            "normalizedName": "1800 Series Egyptian Collection 3 Line Microfiber 4 Piece Bed Sheet Set (King, Spa Mint)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1999999973165107
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.842519675
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

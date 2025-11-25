@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00F9MDUSS": {
+            "asin": "B00F9MDUSS",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Little Buddy Toys Bowser Jr. 7\" Plush",
+            "normalizedName": "Little Buddy Toys Bowser Jr. 7\" Plush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00J47LEMS": {
+            "asin": "B00J47LEMS",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Perfect Desiccated Liver - Grass Fed Undefatted Argentine Beef Liver (120 capsules, 750mg per capsule, Net wt 90g)",
+            "normalizedName": "Perfect Desiccated Liver - Grass Fed Undefatted Argentine Beef Liver (120 capsules, 750mg per capsule, Net wt 90g)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00M7X5SC8": {
+            "asin": "B00M7X5SC8",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Damero Black Portable Electronic Accessories Travel Organizer Case/hard Drive Bag/cosmetic Bag",
+            "normalizedName": "Damero Black Portable Electronic Accessories Travel Organizer Case/hard Drive Bag/cosmetic Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

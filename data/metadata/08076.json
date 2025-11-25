@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009GOC3F6": {
+            "asin": "B009GOC3F6",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Dingo Brand Dog Rawhide Chews, Mini, White, 26 Count per Pack",
+            "normalizedName": "Dingo Brand Dog Rawhide Chews, Mini, White, 26 Count per Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00UJW1GPM": {
+            "asin": "B00UJW1GPM",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "Revant Replacement Lenses for Oakley Fives 2.0 Fire Red MirrorShield&reg;",
+            "normalizedName": "Revant Replacement Lenses for Oakley Fives 2.0 Fire Red MirrorShield&reg;",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B01348LE2M": {
+            "asin": "B01348LE2M",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Set of 24 Rainbow Swirl Pops",
+            "normalizedName": "Set of 24  Rainbow Swirl Pops",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01AUG7MHC": {
+            "asin": "B01AUG7MHC",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "180ml*2 Glass Salt and Pepper Mill Grinder Set",
+            "normalizedName": "180ml*2 Glass Salt and Pepper Mill Grinder Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1199999990607787
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993777999
+            }
+        },
+        "B01D9NZC20": {
+            "asin": "B01D9NZC20",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "JR Pack of 12 Protable 20g Scented Sachets with Hanger suitable for Room, Wardrobe, Bathrooms, Cars, Laundry Baskets,etc (The delicate fragrance of flower, Sweet smelling - Camellia)",
+            "normalizedName": "Pack of 12 JR Protable 20g Scented Sachets with Hanger suitable for Room, Wardrobe, Bathrooms, Cars, Laundry Baskets,etc (The delicate fragrance of flower, Sweet smelling - Camellia)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K4XHHA4": {
+            "asin": "B00K4XHHA4",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Classic Graduation Luncheon Napkins, 20ct",
+            "normalizedName": "Classic Graduation Luncheon Napkins, 20ct",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00OJNZ11W": {
+            "asin": "B00OJNZ11W",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "iPad Air 2 Case, BoxWave\u00ae [Crystal Shell with BONUS Keychain Charger] Slim-Fit, Ultra Lightweight, Hard Shell Cover for Apple iPad Air 2 - Crystal Clear",
+            "normalizedName": "iPad Air 2 Case, BoxWave\u00ae [Crystal Shell with BONUS Keychain Charger] Slim-Fit, Ultra Lightweight, Hard Shell Cover for Apple iPad Air 2 - Crystal Clear",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

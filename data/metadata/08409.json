@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0062332090": {
+            "asin": "0062332090",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Chineasy: The New Way to Read Chinese",
+            "normalizedName": "Chineasy: The New Way to Read Chinese",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "0321102118": {
+            "asin": "0321102118",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Historical Viewpoints: Notable Articles from American Heritage, Volume 2 (9th Edition)",
+            "normalizedName": "Historical Viewpoints: Notable Articles from American Heritage, Volume 2 (9th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452
+            }
+        },
+        "B007F6TZAI": {
+            "asin": "B007F6TZAI",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "I go East : learning from the Japanese experience",
+            "normalizedName": "I go East : learning from the Japanese experience",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B012CLC4QC": {
+            "asin": "B012CLC4QC",
+            "height": {
+                "unit": "IN",
+                "value": 1.5999999999999999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.6
+            },
+            "name": "D-FantiX&reg; Bicycle Cycling Underwear Quick Dry Gel 3D Padded Shorts Pant Unisex (XXL, Black-Orange Pad)",
+            "normalizedName": "D-FantiX&reg; Bicycle Cycling Underwear Quick Dry Gel 3D Padded Shorts Pant Unisex (XXL, Black-Orange Pad)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

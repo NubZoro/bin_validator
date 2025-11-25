@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005BJ2O": {
+            "asin": "B00005BJ2O",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Moulin Rouge! Music from Baz Luhrmann's Film",
+            "normalizedName": "Moulin Rouge! Music from Baz Luhrmann's Film",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17707528883839999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B0141GPH9C": {
+            "asin": "B0141GPH9C",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "ShaggyDogz Pet Training Collar for Dogs Offers Vibration, Sound & Shock Stimulation for Small to Large Dogs, Rainproof Rechargeable Shock Collar for Dogs with Remote",
+            "normalizedName": "ShaggyDogz Pet Training Collar for Dogs Offers Vibration, Sound & Shock Stimulation for Small to Large Dogs, Rainproof Rechargeable Shock Collar for Dogs with Remote",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

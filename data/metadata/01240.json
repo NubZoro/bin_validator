@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0136079482": {
+            "asin": "0136079482",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.1338582584
+            },
+            "name": "Structural Steel Design (5th Edition)",
+            "normalizedName": "Structural Steel Design (5th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.43
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.086614166
+            }
+        },
+        "B015GZASVO": {
+            "asin": "B015GZASVO",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "STREET CRAFT Drinkware Accessories Hammered Copper Moscow Mule Mug 16 Oz Brown Set of 4",
+            "normalizedName": "Set of 4 STREET CRAFT Drinkware Accessories Hammered Copper Moscow Mule Mug 16 Oz Brown",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

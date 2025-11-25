@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013DV2W8": {
+            "asin": "B0013DV2W8",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Whink Wash Away Laundry Stain Remover, 10 Ounce",
+            "normalizedName": "Whink Wash Away Laundry Stain Remover, 10 Ounce",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00JQVZLU8": {
+            "asin": "B00JQVZLU8",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Urban Explorer - Brown Motorcycle Jacket with Paperboy Hat, Dress and Boots - 18 Inch American Girl Doll Clothes (doll not included)",
+            "normalizedName": "Urban Explorer - Brown Motorcycle Jacket with Paperboy Hat, Dress and Boots - 18 Inch American Girl Doll Clothes (doll not included)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

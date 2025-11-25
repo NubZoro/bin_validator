@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0671894307": {
+            "asin": "0671894307",
+            "height": {
+                "unit": "IN",
+                "value": 0.36999999962260005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "The Perfect Date (Fear Street, No. 37)",
+            "normalizedName": "The Perfect Date (Fear Street, No. 37)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5299999995555469
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00LXIW8Q2": {
+            "asin": "B00LXIW8Q2",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Zeiss Pre-moistened Lens Cloths Wipes 240 Count, Compare with 200ct",
+            "normalizedName": "Zeiss Pre-moistened Lens Cloths Wipes 240 Count, Compare with 200ct",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006MY5KJO": {
+            "asin": "B006MY5KJO",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Hoffman 10404 Organic Cactus and Succulent Soil Mix, 4 Quarts",
+            "normalizedName": "Hoffman 10404 Organic Cactus and Succulent Soil Mix, 4 Quarts",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00WJBEJRS": {
+            "asin": "B00WJBEJRS",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Care Bears Funshine Sing-a-Long Bear Plush",
+            "normalizedName": "Care Bears Funshine Sing-a-Long Bear Plush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

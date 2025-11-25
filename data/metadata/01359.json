@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I8T4OLG": {
+            "asin": "B00I8T4OLG",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "AmazonBasics 8-Inch Tablet Sleeve",
+            "normalizedName": "AmazonBasics 8-Inch Tablet Sleeve",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

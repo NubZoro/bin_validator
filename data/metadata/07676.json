@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00SE1H2T4": {
+            "asin": "B00SE1H2T4",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "LEGO City Garbage Truck Mini Set #30313 [Bagged]",
+            "normalizedName": "LEGO City Garbage Truck Mini Set #30313 [Bagged]",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

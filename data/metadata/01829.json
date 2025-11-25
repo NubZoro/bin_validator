@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000C9LBUW": {
+            "asin": "B000C9LBUW",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "ACDelco 219-208 GM Original Equipment Secondary Air Injection Pipe",
+            "normalizedName": "ACDelco 219-208 GM Original Equipment Secondary Air Injection Pipe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B0013FY5KW": {
+            "asin": "B0013FY5KW",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "ACDelco U7000 Professional Fuel Tank Selector Valve",
+            "normalizedName": "ACDelco U7000 Professional Fuel Tank Selector Valve",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00HX46XQG": {
+            "asin": "B00HX46XQG",
+            "height": {
+                "unit": "IN",
+                "value": 1.0629921249
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.3228346382
+            },
+            "name": "Post-it Note Holder, Evernote Collection, Quad (NH-654-EV4)",
+            "normalizedName": "Post-it Note Holder, Evernote Collection, Quad (NH-654-EV4)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2918956695039872
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.2834645595
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

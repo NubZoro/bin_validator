@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013BG2GG": {
+            "asin": "B0013BG2GG",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Fat Daddio's Anodized Aluminum Round Cake Pan, 8-Inch x 4-Inch",
+            "normalizedName": "Fat Daddio's Anodized Aluminum Round Cake Pan, 8-Inch x 4-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B013X0NQT0": {
+            "asin": "B013X0NQT0",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Etekcity Lasergrip 1022 Non-contact Digital Laser Infrared Thermometer Temperature Gun, -58~+1022\u00b0F, MAX Display and Emissivity Adjustable",
+            "normalizedName": "Etekcity Lasergrip 1022 Non-contact Digital Laser Infrared Thermometer Temperature Gun, -58~+1022\u00b0F, MAX Display and Emissivity Adjustable",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

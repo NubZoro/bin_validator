@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0692466886": {
+            "asin": "0692466886",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Torah! Torah! Torah!",
+            "normalizedName": "Torah! Torah! Torah!",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B004LOERSW": {
+            "asin": "B004LOERSW",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Lixit Corporation SLX0352 Cage Snuggler Small Animal Water Bottle, 5-Ounce",
+            "normalizedName": "Lixit Corporation SLX0352 Cage Snuggler Small Animal Water Bottle, 5-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00LS72AT8": {
+            "asin": "B00LS72AT8",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Set of 12 Little Pony PVC Toy Cake Topper Twilight Sparkle Figure Set",
+            "normalizedName": "Set of 12  Little Pony PVC Toy Cake Topper Twilight Sparkle Figure Set",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

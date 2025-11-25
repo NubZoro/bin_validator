@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001O3UE9E": {
+            "asin": "B001O3UE9E",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Proviable DC for Cats and Dogs, 80 Capsules",
+            "normalizedName": "Proviable DC for Cats and Dogs, 80 Capsules",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B019M0VJQC": {
+            "asin": "B019M0VJQC",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "name": "Zen Active Anti Aging Cream Anti Wrinkle Moisturizer Treatment Clinically Proven to Reduce Fine Lines and Wrinkles Containing Vitamin C, Hyaluronic Acid, Retinol and Peptides",
+            "normalizedName": "Zen Active Anti Aging Cream Anti Wrinkle Moisturizer Treatment Clinically Proven to Reduce Fine Lines and Wrinkles Containing Vitamin C, Hyaluronic Acid, Retinol and Peptides",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

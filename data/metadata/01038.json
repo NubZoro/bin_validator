@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0226921840": {
+            "asin": "0226921840",
+            "height": {
+                "unit": "IN",
+                "value": 0.7899999991942
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Aristotle's \"Politics\": Second Edition",
+            "normalizedName": "Aristotle's \"Politics\": Second Edition",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

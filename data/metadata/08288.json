@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000A6V8FU": {
+            "asin": "B000A6V8FU",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Rayovac UltraPro Alkaline D Batteries, 12-Pack with Recloseable Lid (ALD-12)",
+            "normalizedName": "12-Pack Rayovac UltraPro Alkaline D Batteries, with Recloseable Lid (ALD-12)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1499999973584396
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00J3W2J00": {
+            "asin": "B00J3W2J00",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Motorola SCOUT1000PU Digital Video Pet Monitor Camera",
+            "normalizedName": "Motorola SCOUT1000PU Digital Video Pet Monitor Camera",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

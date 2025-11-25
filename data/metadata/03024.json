@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00821J8UC": {
+            "asin": "B00821J8UC",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "DuPont Tyvek TY122S  Disposable Coverall with Hood and Boots, Elastic Cuff, White, Medium (Pack of 6)",
+            "normalizedName": "(Pack of 6) DuPont Tyvek TY122S  Disposable Coverall with Hood and Boots, Elastic Cuff, White, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

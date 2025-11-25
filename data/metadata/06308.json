@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0016JGTU4": {
+            "asin": "B0016JGTU4",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Bump Fighter Mens Disposable Razors Mens - 12-4packs (48 count)",
+            "normalizedName": "Bump Fighter Mens Disposable Razors Mens - 12-4packs (48 count)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B0071LNHIS": {
+            "asin": "B0071LNHIS",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Sunshine Joy Sun Wave Surf Tapestry Tablecloth Beach Sheet Wall Art 60x 90 Inches - Sunset",
+            "normalizedName": "Sunshine Joy Sun Wave Surf Tapestry Tablecloth Beach Sheet Wall Art 60x 90 Inches - Sunset",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

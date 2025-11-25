@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QUGUML0": {
+            "asin": "B00QUGUML0",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Funny Guy Mugs Plain Black Travel Tumbler, Black, 16-Ounce",
+            "normalizedName": "Funny Guy Mugs Plain Black Travel Tumbler, Black, 16-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00Z9LCCKG": {
+            "asin": "B00Z9LCCKG",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Blackcell Infant Toddler Baby Knee Pad Crawling Safety Protector (green+orange)",
+            "normalizedName": "Blackcell Infant Toddler Baby Knee Pad Crawling Safety Protector (green+orange)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B01FDLAR7Q": {
+            "asin": "B01FDLAR7Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.8
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.4
+            },
+            "name": "L'Oreal Paris Skin Care Collagen Moisture Filler Day/Night Cream, 1.7 Fluid Ounce, Pack of 3",
+            "normalizedName": "Pack of 3 L'Oreal Paris Skin Care Collagen Moisture Filler Day/Night Cream, 1.7 Fluid Ounce,",
+            "quantity": 3,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.1
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

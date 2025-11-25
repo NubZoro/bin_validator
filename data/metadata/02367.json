@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0014VX2M2": {
+            "asin": "B0014VX2M2",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Glock GT03374 Disassembly Takedown Tool Punch",
+            "normalizedName": "Glock GT03374 Disassembly Takedown Tool Punch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00AVOGC6G": {
+            "asin": "B00AVOGC6G",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Hoosier Hill Farm Porcini Mushroom Powder 1 pound",
+            "normalizedName": "Hoosier Hill Farm Porcini Mushroom Powder 1 pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B018Y1XXT6": {
+            "asin": "B018Y1XXT6",
+            "height": {
+                "unit": "IN",
+                "value": 0.1181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "name": "YubiKey 4 Nano",
+            "normalizedName": "YubiKey 4 Nano",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.044092002335174595
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.8897637776
+            }
+        },
+        "B01B7AG0KK": {
+            "asin": "B01B7AG0KK",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.086614166
+            },
+            "name": "DEWALT DD5108 Impact Ready Titanium Drill Bit, 1/8\"",
+            "normalizedName": "DEWALT DD5108 Impact Ready Titanium Drill Bit, 1/8\"",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400467034919
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.755905509
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

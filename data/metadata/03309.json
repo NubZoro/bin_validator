@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008JF7DOE": {
+            "asin": "B008JF7DOE",
+            "height": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "LENNON & MCCARTNEY Cup & Saucer, She Loves You",
+            "normalizedName": "LENNON & MCCARTNEY Cup & Saucer, She Loves You",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B01BUKIWO4": {
+            "asin": "B01BUKIWO4",
+            "height": {
+                "unit": "IN",
+                "value": 3.7
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "Boy Needs Girl 1 Spit Bud Portable Spittoon with Can Opener: The Ultimate Spill-Proof Spitter by Spitbud",
+            "normalizedName": "Boy Needs Girl 1 Spit Bud Portable Spittoon with Can Opener: The Ultimate Spill-Proof Spitter by Spitbud",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.7
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

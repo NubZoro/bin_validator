@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002SJFC2M": {
+            "asin": "B002SJFC2M",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.7637795176
+            },
+            "name": "Belkin 6-Outlet Power Strip with 5-Foot Right-Angled Power Plug, F9P609-05R-DP",
+            "normalizedName": "Belkin 6-Outlet Power Strip with 5-Foot Right-Angled Power Plug, F9P609-05R-DP",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.330708657
+            }
+        },
+        "B019HUV4MQ": {
+            "asin": "B019HUV4MQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Star Peppa Pig Pencil Case/Pouch Set of 3",
+            "normalizedName": "Set of 3 Star Peppa Pig Pencil Case/Pouch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

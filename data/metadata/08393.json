@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01B575N6M": {
+            "asin": "B01B575N6M",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Cocktail Boston Shaker Set By Kotai (Gold)",
+            "normalizedName": "Cocktail Boston Shaker Set By Kotai (Gold)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0804179239": {
+            "asin": "0804179239",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "The Sun & The Moon & The Rolling Stones",
+            "normalizedName": "The Sun & The Moon & The Rolling Stones",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "0898632498": {
+            "asin": "0898632498",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Basic Business Math and Electronic Calculators",
+            "normalizedName": "Basic Business Math and Electronic Calculators",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B010EX6JSY": {
+            "asin": "B010EX6JSY",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Bolkin Defender Series Case with Screen Protector and Stand for Ipad 4 (4th Generation), Ipad 2 and 3 - Orange",
+            "normalizedName": "Bolkin Defender Series Case with Screen Protector and Stand for Ipad 4 (4th Generation), Ipad 2 and 3 - Orange",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

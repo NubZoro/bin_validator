@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000MR8W92": {
+            "asin": "B000MR8W92",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "24: Season 6",
+            "normalizedName": "24: Season 6",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B004I5OXLK": {
+            "asin": "B004I5OXLK",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Boogie Board 8.5 Inch LCD Writing Tablet (Pink)",
+            "normalizedName": "Boogie Board 8.5 Inch LCD Writing Tablet (Pink)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

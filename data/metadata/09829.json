@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0051IIXVY": {
+            "asin": "B0051IIXVY",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Tilos 3mm Nylon II Honeycomb Silkscreen Sole Low Cut Socks (2X-Large)",
+            "normalizedName": "Tilos 3mm Nylon II Honeycomb Silkscreen Sole Low Cut Socks (2X-Large)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

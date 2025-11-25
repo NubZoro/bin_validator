@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0039GB46Q": {
+            "asin": "B0039GB46Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Aquascape 98502 Fabric Aquatic Plant Pot, 8 by 6 Inches, 2-Pack",
+            "normalizedName": "2-Pack Aquascape 98502 Fabric Aquatic Plant Pot, 8 by 6 Inches,",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00CQA309A": {
+            "asin": "B00CQA309A",
+            "height": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.8661417212
+            },
+            "name": "WABA Fun Laptop Tray",
+            "normalizedName": "WABA Fun Laptop Tray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.7874015638
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

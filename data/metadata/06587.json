@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000M8YMEU": {
+            "asin": "B000M8YMEU",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Wilton 570-1121 Easy Flex 3-Piece Silicone Spatula Set, Blue",
+            "normalizedName": "Wilton 570-1121 Easy Flex 3-Piece Silicone Spatula Set, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B00OD01MO6": {
+            "asin": "B00OD01MO6",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Apple iPad 4 with Retina Display 16GB Wi-Fi Only Tablet, White (Certified Refurbished)",
+            "normalizedName": "Apple iPad 4 with Retina Display 16GB Wi-Fi Only Tablet, White (Certified Refurbished)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.14999999819703
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B01B65I77K": {
+            "asin": "B01B65I77K",
+            "height": {
+                "unit": "IN",
+                "value": 2.249999997705
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Barbie Fashionista Tall Blonde Doll with 2 Additional Outfits, Blue Print",
+            "normalizedName": "Barbie Fashionista Tall Blonde Doll with 2 Additional Outfits, Blue Print",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B01EGUSWFE": {
+            "asin": "B01EGUSWFE",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "2016 Disney Finding Dory Pencil Holder/Pouch/ Case-PINK (PINK)",
+            "normalizedName": "2016 Disney Finding Dory Pencil Holder/Pouch/ Case-PINK (PINK)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1401225756": {
+            "asin": "1401225756",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "The Sandman Vol. 1: Preludes & Nocturnes (New Edition)",
+            "normalizedName": "The Sandman Vol. 1: Preludes & Nocturnes (New Edition)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "1555976824": {
+            "asin": "1555976824",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Second Childhood: Poems",
+            "normalizedName": "Second Childhood: Poems",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B004FSIWOO": {
+            "asin": "B004FSIWOO",
+            "height": {
+                "unit": "IN",
+                "value": 4.4488188931
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.7637795125
+            },
+            "name": "Mask M2 Deluxe",
+            "normalizedName": "Mask M2 Deluxe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.74
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.6771653414
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

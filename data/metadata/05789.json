@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ILZB3W": {
+            "asin": "B000ILZB3W",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "Derwent Watercolor Pencils, 3.4mm Core, Metal Tin, 12 Count (32881)",
+            "normalizedName": "Derwent Watercolor Pencils, 3.4mm Core, Metal Tin, 12 Count (32881)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.49
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4094488144
+            }
+        },
+        "B01CY9UX10": {
+            "asin": "B01CY9UX10",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Square 5 oz Mini Dessert Party Cup and Clear Plastic Shot Glass Parfait Cube Bowl - 40 Count with FREE BONUS 40 Mini Plastic Spoons by Shindig Essentials",
+            "normalizedName": "Square 5 oz Mini Dessert Party Cup and Clear Plastic Shot Glass Parfait Cube Bowl - 40 Count with FREE BONUS 40 Mini Plastic Spoons by Shindig Essentials",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098323
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

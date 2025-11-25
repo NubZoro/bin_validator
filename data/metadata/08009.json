@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004GW6O9E": {
+            "asin": "B004GW6O9E",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "L\u00c4RABAR Gluten Free Fruit & Nut Food Bar, Peanut Butter Cookie, 1.7 oz, 16 Count",
+            "normalizedName": "L\u00c4RABAR Gluten Free Fruit & Nut Food Bar, Peanut Butter Cookie, 1.7 oz, 16 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.299999998071242
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00F01E3PC": {
+            "asin": "B00F01E3PC",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Hydration Running Belt by Camden Gear - Fits iPhone 6 Plus - with 2 BPA Free Water Bottles",
+            "normalizedName": "Hydration Running Belt by Camden Gear - Fits iPhone 6 Plus - with 2 BPA Free Water Bottles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01C5SA7IO": {
+            "asin": "B01C5SA7IO",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Pest No More GP511 Clothes Moth Trap (2 Traps Per Pack)",
+            "normalizedName": "Pest No More GP511 Clothes Moth Trap (2 Traps Per Pack)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

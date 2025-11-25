@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0079O0B2C": {
+            "asin": "B0079O0B2C",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Paddywax Eco Green Fragrance Diffuser, Bamboo and Green Tea",
+            "normalizedName": "Paddywax Eco Green Fragrance Diffuser, Bamboo and Green Tea",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00GMPFJU8": {
+            "asin": "B00GMPFJU8",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Banana Boat Spf#50 Sport Cool Zone Lotion 6oz (3 Pack)",
+            "normalizedName": "(3 Pack) Banana Boat Spf#50 Sport Cool Zone Lotion 6oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.39
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00HVG7SYW": {
+            "asin": "B00HVG7SYW",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Reynolds Metals 00504 Slow Cooker Liners 13\"X21\" - 2 Pack",
+            "normalizedName": "2 Pack Reynolds Metals 00504 Slow Cooker Liners 13\"X21\" -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

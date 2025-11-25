@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005Q4S4IK": {
+            "asin": "B005Q4S4IK",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Acme Sponge and Chamois (TS0) 1 sq. ft. Chamois",
+            "normalizedName": "Acme Sponge and Chamois (TS0) 1 sq. ft. Chamois",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.299999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

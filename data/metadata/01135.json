@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013AV2WQ": {
+            "asin": "B0013AV2WQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.3858267682
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7165354252
+            },
+            "name": "Canon DM-100 Directional Stereo Microphone",
+            "normalizedName": "Canon DM-100 Directional Stereo Microphone",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5070580272797219
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B00363E3UQ": {
+            "asin": "B00363E3UQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "DeWalt 18V Compact Battery DC9098",
+            "normalizedName": "DeWalt 18V Compact Battery DC9098",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

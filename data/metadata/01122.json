@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000N9FBZW": {
+            "asin": "B000N9FBZW",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Intex Whale Spray Pool, 82\" X 62\" X 39\", for Ages 2+",
+            "normalizedName": "Intex Whale Spray Pool, 82\" X 62\" X 39\", for Ages 2+",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B000VI70Z4": {
+            "asin": "B000VI70Z4",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Sound of Silver [Vinyl]",
+            "normalizedName": "Sound of Silver [Vinyl]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

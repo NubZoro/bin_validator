@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BERHTNY": {
+            "asin": "B00BERHTNY",
+            "height": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Decorative Ceramic Electric Oil/Wax Warmer with Wood Base (Purple Sphere)",
+            "normalizedName": "Decorative Ceramic Electric Oil/Wax Warmer with Wood Base (Purple Sphere)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B0186T4NUY": {
+            "asin": "B0186T4NUY",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Portion Perfect Premium Meal Prep Containers/Portion Control Containers/Bento Lunch Box, (Set of 5)",
+            "normalizedName": "(Set of 5) Portion Perfect Premium Meal Prep Containers/Portion Control Containers/Bento Lunch Box,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

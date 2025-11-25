@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0415530180": {
+            "asin": "0415530180",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.7637795176
+            },
+            "name": "Surveys In Social Research (Social Research Today)",
+            "normalizedName": "Surveys In Social Research (Social Research Today)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.480314953
+            }
+        },
+        "B00AI1TBEW": {
+            "asin": "B00AI1TBEW",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166002
+            },
+            "name": "In Style Eyes\u00ae Feel the Funk Round Reading Glasses. Imagine Yourself a Little Bit John Lennon and a Little Bit Rock n Roll/gold/3.25",
+            "normalizedName": "In Style Eyes\u00ae Feel the Funk Round Reading Glasses. Imagine Yourself a Little Bit John Lennon and a Little Bit Rock n Roll/gold/3.25",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00ASCQWF2": {
+            "asin": "B00ASCQWF2",
+            "height": {
+                "unit": "IN",
+                "value": 2.6771653516
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "Cavemen: The Quest for Fire",
+            "normalizedName": "Cavemen: The Quest for Fire",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B018Z0TE3K": {
+            "asin": "B018Z0TE3K",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "GlowBowl GB001 Motion Activated Toilet Nightlight",
+            "normalizedName": "GlowBowl GB001 Motion Activated Toilet Nightlight",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

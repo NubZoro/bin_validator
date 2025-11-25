@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000RI6C7K": {
+            "asin": "B000RI6C7K",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.3858267682
+            },
+            "name": "Feliway - Refill, 48 ml",
+            "normalizedName": "Feliway - Refill, 48 ml",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800934069835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.0472440924
+            }
+        },
+        "B005H4I6SC": {
+            "asin": "B005H4I6SC",
+            "height": {
+                "unit": "IN",
+                "value": 1.6535433054
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "WITZ Waterproof Passport Locker, Black",
+            "normalizedName": "WITZ Waterproof Passport Locker, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.23
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9212598375
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

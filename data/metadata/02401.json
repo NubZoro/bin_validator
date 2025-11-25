@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VKYKY7E": {
+            "asin": "B00VKYKY7E",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Fast & Furious 1-7 Collection - Limited Edition",
+            "normalizedName": "Fast & Furious 1-7 Collection - Limited Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

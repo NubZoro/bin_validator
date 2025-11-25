@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008JVME38": {
+            "asin": "B008JVME38",
+            "height": {
+                "unit": "IN",
+                "value": 4.349999995563
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Delta Faucet T17097 Cassidy MultiChoice 17 Series Valve Trim, Chrome",
+            "normalizedName": "Delta Faucet T17097 Cassidy MultiChoice 17 Series Valve Trim, Chrome",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00HAZXBMC": {
+            "asin": "B00HAZXBMC",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Mitre CROWN Rugby Ball",
+            "normalizedName": "Mitre CROWN Rugby Ball",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00W4WDRRU": {
+            "asin": "B00W4WDRRU",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "First Aid Kit \u2013 275 Pieces \u2013 Bag. Packed with hospital grade medical supplies for emergency and survival situations. Ideal for the Car, Camping, Hiking, Travel, Office, Sports, Pets, Hunting, Home",
+            "normalizedName": "First Aid Kit \u2013 275 Pieces \u2013 Bag. Packed with hospital grade medical supplies for emergency and survival situations. Ideal for the Car, Camping, Hiking, Travel, Office, Sports, Pets, Hunting, Home",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

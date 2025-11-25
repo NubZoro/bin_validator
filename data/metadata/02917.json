@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1594633975": {
+            "asin": "1594633975",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Paper Love: Searching for the Girl My Grandfather Left Behind",
+            "normalizedName": "Paper Love: Searching for the Girl My Grandfather Left Behind",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

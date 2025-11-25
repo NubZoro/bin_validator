@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0849948568": {
+            "asin": "0849948568",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Man, Myth, Messiah: Answering History's Greatest Question",
+            "normalizedName": "Man, Myth, Messiah: Answering History's Greatest Question",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B000EZ7ZYU": {
+            "asin": "B000EZ7ZYU",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "A Knight's Tale [Blu-ray]",
+            "normalizedName": "A Knight's Tale [Blu-ray]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B01F5ZY41K": {
+            "asin": "B01F5ZY41K",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Midnight Special (DVD)",
+            "normalizedName": "Midnight Special (DVD)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

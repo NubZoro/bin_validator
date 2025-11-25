@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GG2HOU": {
+            "asin": "B000GG2HOU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "L'Oreal Paris Sublime Bronze Self-Tanning Body Towelettes, 6 Count",
+            "normalizedName": "L'Oreal Paris Sublime Bronze Self-Tanning Body Towelettes, 6 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B0017ZJWD8": {
+            "asin": "B0017ZJWD8",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Yonka Gel Nettoyant",
+            "normalizedName": "Yonka Gel Nettoyant",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B001C6OYG2": {
+            "asin": "B001C6OYG2",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Dorman 604-204 Air Door Actuator",
+            "normalizedName": "Dorman 604-204 Air Door Actuator",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00HUJJOQU": {
+            "asin": "B00HUJJOQU",
+            "height": {
+                "unit": "IN",
+                "value": 1.9
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.9
+            },
+            "name": "Organic Red Lentil Penne 12 oz (340 grams) Box",
+            "normalizedName": "Organic Red Lentil Penne 12 oz (340 grams) Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.6
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

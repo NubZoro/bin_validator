@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003KV7798": {
+            "asin": "B003KV7798",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Masterbuilt 40-Inch Electric Smoker Cover",
+            "normalizedName": "Masterbuilt 40-Inch Electric Smoker Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        },
+        "B015PRCBBI": {
+            "asin": "B015PRCBBI",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Ubiquiti UAP-AC-LR Networks Enterprise Wi-Fi System",
+            "normalizedName": "Ubiquiti UAP-AC-LR Networks Enterprise Wi-Fi System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

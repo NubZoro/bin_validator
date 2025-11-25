@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006IUTQ": {
+            "asin": "B00006IUTQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Melitta Cone Coffee Filters Natural Brown #4 100 count",
+            "normalizedName": "Melitta Cone Coffee Filters Natural Brown #4 100 count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B0027J7M1C": {
+            "asin": "B0027J7M1C",
+            "height": {
+                "unit": "IN",
+                "value": 0.9448818888
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0629921198
+            },
+            "name": "Nylabone Dental Chew Medium Bacon flavored Pro Action Bone Dog Chew Toy",
+            "normalizedName": "Nylabone Dental Chew Medium Bacon flavored Pro Action Bone Dog Chew Toy",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.31
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

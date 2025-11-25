@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0011DHK62": {
+            "asin": "B0011DHK62",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Hyland's Cell Salts #2 Calcarea Phosphorica, 6X Tablets, Natural Homeopathic Relief of Teething and Sore Throats, 1000 Count",
+            "normalizedName": "Hyland's Cell Salts #2 Calcarea Phosphorica, 6X Tablets, Natural Homeopathic Relief of Teething and Sore Throats, 1000 Count",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B016OQIL22": {
+            "asin": "B016OQIL22",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.118110231
+            },
+            "name": "iATO Cherry wood cover case \"Marco Polo\" for the iPhone 5S 4 inch - real natural wooden overlay on PC. Slim back case as premium accessory for the original Apple iPhone 5S.",
+            "normalizedName": "iATO Cherry wood cover case \"Marco Polo\" for the iPhone 5S 4 inch - real natural wooden overlay on PC. Slim back case as premium accessory for the original Apple iPhone 5S.",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1322773572
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.149606296
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

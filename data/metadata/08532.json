@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "184545684X": {
+            "asin": "184545684X",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024
+            },
+            "name": "Consuming the Inedible: Neglected Dimensions of Food Choice (Anthropology of Food & Nutrition)",
+            "normalizedName": "Consuming the Inedible: Neglected Dimensions of Food Choice (Anthropology of Food & Nutrition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "1892769395": {
+            "asin": "1892769395",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Fundamentals Of Electricity For Agricuture, 3rd Edition",
+            "normalizedName": "Fundamentals Of Electricity For Agricuture, 3rd Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B002SF9YMU": {
+            "asin": "B002SF9YMU",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Acting Shakespeare",
+            "normalizedName": "Acting Shakespeare",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

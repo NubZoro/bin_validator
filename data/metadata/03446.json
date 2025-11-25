@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0083XPAU6": {
+            "asin": "B0083XPAU6",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Laptop Battery for HP/Compaq Pavilion DV7-2273CL, 12 cells 6600mAh Black",
+            "normalizedName": "Laptop Battery for HP/Compaq Pavilion DV7-2273CL, 12 cells 6600mAh Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00R1V33M8": {
+            "asin": "B00R1V33M8",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Blackout, Room Darkening Curtains Window Panel Drapes - (Black Color) 2 Panel Set, 52 inch wide by 63 inch long each panel, 7 Back Loops per Panel, 2 Tie Back Included - By Utopia Bedding",
+            "normalizedName": "Blackout, Room Darkening Curtains Window Panel Drapes - (Black Color) 2 Panel Set, 52 inch wide by 63 inch long each panel, 7 Back Loops per Panel, 2 Tie Back Included - By Utopia Bedding",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B01BZYLT9K": {
+            "asin": "B01BZYLT9K",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Vbiger Women's Casual Vintage Fashion Backpack School Bag (Blue)",
+            "normalizedName": "Vbiger Women's Casual Vintage Fashion Backpack School Bag (Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

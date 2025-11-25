@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005DKZTKS": {
+            "asin": "B005DKZTKS",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Logitech Stereo Headset H130 - Cloud White",
+            "normalizedName": "Logitech Stereo Headset H130 - Cloud White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B010DF2NZ6": {
+            "asin": "B010DF2NZ6",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Etekcity 1500L Emergency Camping Water Filter Chemical Free: Filter to 0.01 Microns - Survival Gear, Blue",
+            "normalizedName": "Etekcity 1500L Emergency Camping Water Filter Chemical Free: Filter to 0.01 Microns - Survival Gear, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

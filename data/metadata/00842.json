@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0073XGI3K": {
+            "asin": "B0073XGI3K",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "6-cell C1295 Replacement Laptop Battery for Dell Inspiron 500m, Dell Inspiron 510m, Dell Inspiron 600m, Dell Latitude D500, Dell Latitude D505, Dell Latitude D510, Dell Latitude D520, Dell Latitude D530, Dell Latitude D600, Dell Latitude D610 and Dell Precision M20.",
+            "normalizedName": "6-cell C1295 Replacement Laptop Battery for Dell Inspiron 500m, Dell Inspiron 510m, Dell Inspiron 600m, Dell Latitude D500, Dell Latitude D505, Dell Latitude D510, Dell Latitude D520, Dell Latitude D530, Dell Latitude D600, Dell Latitude D610 and Dell Precision M20.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B009VBQRW4": {
+            "asin": "B009VBQRW4",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "OmniPet Velvet Rhinestone Breakaway\u00a0Cat Collar, Purple, 14\"",
+            "normalizedName": "OmniPet Velvet Rhinestone Breakaway\u00a0Cat Collar, Purple, 14\"",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.99999998572
+            }
+        },
+        "B011BVZOKC": {
+            "asin": "B011BVZOKC",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "4 X Whirlpool 8206232A Light Bulb",
+            "normalizedName": "4 X Whirlpool 8206232A Light Bulb",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

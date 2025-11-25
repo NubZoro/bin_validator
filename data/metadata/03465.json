@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VPVNHJY": {
+            "asin": "B00VPVNHJY",
+            "height": {
+                "unit": "IN",
+                "value": 2.4
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.1
+            },
+            "name": "Nine West Jaya Cross Body Bag, Black, One Size",
+            "normalizedName": "Nine West Jaya Cross Body Bag, Black, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

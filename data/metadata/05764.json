@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ENAUCG": {
+            "asin": "B000ENAUCG",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Danze D443171PBV Opulence Robe Hook, Polished Brass",
+            "normalizedName": "Danze D443171PBV Opulence Robe Hook, Polished Brass",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.44
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00J2N8LAC": {
+            "asin": "B00J2N8LAC",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Ultima Replenisher Stick Packs, Grape, 4.5 Ounce",
+            "normalizedName": "Ultima Replenisher Stick Packs, Grape, 4.5 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00VSHTGUY": {
+            "asin": "B00VSHTGUY",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Replacement Globe Light Bulb, G30, 5W/130V, E12 Base, Clear, 25 Pack",
+            "normalizedName": "25 Pack Replacement Globe Light Bulb, G30, 5W/130V, E12 Base, Clear,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

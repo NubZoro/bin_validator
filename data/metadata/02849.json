@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016PW9UH0": {
+            "asin": "B016PW9UH0",
+            "height": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.2992125818
+            },
+            "name": "POC Tectal Bike Helmet, Uranium Black, X-Large",
+            "normalizedName": "POC Tectal Bike Helmet, Uranium Black, X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.11641611208838
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.6850393602
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

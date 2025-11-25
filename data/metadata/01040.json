@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001U3ULQO": {
+            "asin": "B001U3ULQO",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024
+            },
+            "name": "PAC C2R-CHY4 Radio Replacement Interface for Chrysler",
+            "normalizedName": "PAC C2R-CHY4 Radio Replacement Interface for Chrysler",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024
+            }
+        },
+        "B00BSK750Y": {
+            "asin": "B00BSK750Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Cricut 2001974 Adhesive Cutting Mat, Standard Grip, 12 x 12-Inch, Pack of 2",
+            "normalizedName": "Pack of 2 Cricut 2001974 Adhesive Cutting Mat, Standard Grip, 12 x 12-Inch,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499954059609291
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999997348
+            }
+        },
+        "B00Y0Z0G82": {
+            "asin": "B00Y0Z0G82",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Japanese Chopsticks Gift Sets (#11- Angelfish Red)",
+            "normalizedName": "Japanese Chopsticks Gift Sets (#11- Angelfish Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

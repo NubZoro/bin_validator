@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000QRB1GE": {
+            "asin": "B000QRB1GE",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Proctor Silex 62509RY 5-Speed Hand Mixer, White",
+            "normalizedName": "Proctor Silex 62509RY 5-Speed Hand Mixer, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B01BTNMGXU": {
+            "asin": "B01BTNMGXU",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Organic Lavender Flowers (Extra Grade - Dried) - 4oz Resealable Bag - 100% Raw From France - by Feel Good Organics",
+            "normalizedName": "Organic Lavender Flowers (Extra Grade - Dried) - 4oz Resealable Bag - 100% Raw From France - by Feel Good Organics",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

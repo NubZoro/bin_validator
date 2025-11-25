@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006JW4STM": {
+            "asin": "B006JW4STM",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Campbell's Old Fashioned Tomato Rice Soup, 11 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Campbell's Old Fashioned Tomato Rice Soup, 11 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B01CO2M7HK": {
+            "asin": "B01CO2M7HK",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "FriendlyTomato Xbox One Console and Controller Skin Set - Football NFL - PlayStation 4 Vinyl",
+            "normalizedName": "FriendlyTomato Xbox One Console and Controller Skin Set - Football NFL - PlayStation 4 Vinyl",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

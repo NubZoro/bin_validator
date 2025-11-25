@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0017U48KK": {
+            "asin": "B0017U48KK",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Dr. McDougall's Right Foods Vegan Chicken Flavor Noodle Soup, Light Sodium, 1.4-Ounce Cups (Pack of 6)",
+            "normalizedName": "(Pack of 6) Dr. McDougall's Right Foods Vegan Chicken Flavor Noodle Soup, Light Sodium, 1.4-Ounce Cups",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B012W4MPP4": {
+            "asin": "B012W4MPP4",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Galaxy S5 Case, Vofolen&reg; Flip Cover Galaxy S5 Wallet Case Folio PU Leather Holster Protective Shell Magnetic Removable Slim Back Cover Card Holder Slots Wrist Strap for Samsung Galaxy S5 (Rose)",
+            "normalizedName": "Galaxy S5 Case, Vofolen&reg; Flip Cover Galaxy S5 Wallet Case Folio PU Leather Holster Protective Shell Magnetic Removable Slim Back Cover Card Holder Slots Wrist Strap for Samsung Galaxy S5 (Rose)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

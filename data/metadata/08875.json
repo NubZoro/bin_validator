@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004U9TECM": {
+            "asin": "B004U9TECM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "InkJoy 300 RT Retractable Ballpoint Pens, Medium Point, Blue Ink, 12-Pack",
+            "normalizedName": "12-Pack InkJoy 300 RT Retractable Ballpoint Pens, Medium Point, Blue Ink,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00JR5AAQI": {
+            "asin": "B00JR5AAQI",
+            "height": {
+                "unit": "IN",
+                "value": 4.0944881848
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0787401472
+            },
+            "name": "Hamilton Beach 62620 6-Speed Hand Mixer with Snap on Case",
+            "normalizedName": "Hamilton Beach 62620 6-Speed Hand Mixer with Snap on Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5714521891491424
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

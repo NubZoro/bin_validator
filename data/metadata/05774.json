@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002LA3UPE": {
+            "asin": "B002LA3UPE",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "name": "Mineral Fusion Bronzer, Luster, .29 Ounce",
+            "normalizedName": "Mineral Fusion Bronzer, Luster, .29 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B0083GJKQS": {
+            "asin": "B0083GJKQS",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Orbit White Bubblemint Sugarfree Gum, (Pack of 8)",
+            "normalizedName": "(Pack of 8) Orbit White Bubblemint Sugarfree Gum,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00QCAIOC8": {
+            "asin": "B00QCAIOC8",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "WWE Figure Series #47 - Superstar #13 Alicia Fox",
+            "normalizedName": "WWE Figure Series #47 - Superstar #13 Alicia Fox",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "030788743X": {
+            "asin": "030788743X",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Ready Player One",
+            "normalizedName": "Ready Player One",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B01F6P6EK8": {
+            "asin": "B01F6P6EK8",
+            "height": {
+                "unit": "IN",
+                "value": 2.749999997195
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.249999993625
+            },
+            "name": "Soucolor Gel Pens for Adult Coloring Books, Set of 60, Color Gel Pens with Case Ideal for Writing and Drawing",
+            "normalizedName": "Set of 60 Soucolor Gel Pens for Adult Coloring Books, , Color Gel Pens with Case Ideal for Writing and Drawing",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.1249999937525
+            }
+        },
+        "B01FJ2MGEG": {
+            "asin": "B01FJ2MGEG",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "GOSO Waterproof Sport Action Camera WiFi HD 1080P 12MP 170 Degree View Angle & 2.0 inch LCD with Mounting Accessories",
+            "normalizedName": "GOSO Waterproof Sport Action Camera WiFi HD 1080P 12MP 170 Degree View Angle & 2.0 inch LCD with Mounting Accessories",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

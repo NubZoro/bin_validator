@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0762787252": {
+            "asin": "0762787252",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Gaining Ground: A Story Of Farmers' Markets, Local Food, And Saving The Family Farm",
+            "normalizedName": "Gaining Ground: A Story Of Farmers' Markets, Local Food, And Saving The Family Farm",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "0762790040": {
+            "asin": "0762790040",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2125984158
+            },
+            "name": "Rock Climbing: The AMGA Single Pitch Manual (How To Climb Series)",
+            "normalizedName": "Rock Climbing: The AMGA Single Pitch Manual (How To Climb Series)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.455036078280941
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.4015747956
+            }
+        },
+        "0937381802": {
+            "asin": "0937381802",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "The Compleat Meadmaker : Home Production of Honey Wine From Your First Batch to Award-winning Fruit and Herb Variations",
+            "normalizedName": "The Compleat Meadmaker : Home Production of Honey Wine From Your First Batch to Award-winning Fruit and Herb Variations",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

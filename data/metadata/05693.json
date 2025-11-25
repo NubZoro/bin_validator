@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000OUZC18": {
+            "asin": "B000OUZC18",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Plush Noah's Ark with Animals - Six (6) Stuffed Animals (Lion, Zebra, Tiger, Giraffe, Elephant, and White Tiger) in Play Ark Carrying Case",
+            "normalizedName": "Plush Noah's Ark with Animals - Six (6) Stuffed Animals (Lion, Zebra, Tiger, Giraffe, Elephant, and White Tiger) in Play Ark Carrying Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B0141SHEUU": {
+            "asin": "B0141SHEUU",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Locs Two Tone Original Gangsta Shades Fashion Statement Translucent Frame Sunglasses",
+            "normalizedName": "Locs Two Tone Original Gangsta Shades Fashion Statement Translucent Frame Sunglasses",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

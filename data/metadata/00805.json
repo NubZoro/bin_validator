@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GHYKQU2": {
+            "asin": "B00GHYKQU2",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Disney Frozen Figurine Play Set",
+            "normalizedName": "Disney Frozen Figurine Play Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        },
+        "B00NUC8UO8": {
+            "asin": "B00NUC8UO8",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Theater Solutions SA200 Subwoofer Amplifier",
+            "normalizedName": "Theater Solutions SA200 Subwoofer Amplifier",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

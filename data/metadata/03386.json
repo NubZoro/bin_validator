@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BDMN9H0": {
+            "asin": "B00BDMN9H0",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "ALEX Toys ALEX Jr. 6 Tots Finger Paints",
+            "normalizedName": "ALEX Toys ALEX Jr. 6 Tots Finger Paints",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B01BFKVVLA": {
+            "asin": "B01BFKVVLA",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "AT-A-GLANCE Academic Year Weekly Appointment Book / Planner, July 2016 - August 2017, 6-3/4\"x8-3/4\", Black (70-958-05)",
+            "normalizedName": "AT-A-GLANCE Academic Year Weekly Appointment Book / Planner, July 2016 - August 2017, 6-3/4\"x8-3/4\", Black (70-958-05)",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

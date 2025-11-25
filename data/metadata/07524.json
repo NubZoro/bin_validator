@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006NYO8IW": {
+            "asin": "B006NYO8IW",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Precious Moments, Baptism Gifts, \"Child Of God\", Girl, Bisque Porcelain Figurine, #113021",
+            "normalizedName": "Precious Moments, Baptism Gifts, \"Child Of God\", Girl, Bisque Porcelain Figurine, #113021",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B0080GDJWC": {
+            "asin": "B0080GDJWC",
+            "height": {
+                "unit": "IN",
+                "value": 3.4645669256
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.4015747956
+            },
+            "name": "Sony PSP \"Street\" Ice White",
+            "normalizedName": "Sony PSP \"Street\" Ice White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.06
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5669291292
+            }
+        },
+        "B00D25G9T6": {
+            "asin": "B00D25G9T6",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Redcat Racing 02016 Drive Cup B, Black, 2-Piece",
+            "normalizedName": "Redcat Racing 02016 Drive Cup B, Black, 2-Piece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B00FBNAFYW": {
+            "asin": "B00FBNAFYW",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.749999992095
+            },
+            "name": "Polk Audio Hinge Headphones - Brown/Gold - with 3 button remote and in-linemicrophone",
+            "normalizedName": "Polk Audio Hinge Headphones - Brown/Gold - with 3 button remote and in-linemicrophone",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.249999994645
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

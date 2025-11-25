@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00F8P624K": {
+            "asin": "B00F8P624K",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "1- New Pillow Insert Form 20 X 20 Hypo-allergenic Square Pillow Form Insert Made in USA",
+            "normalizedName": "1- New Pillow Insert Form 20 X 20 Hypo-allergenic Square Pillow Form Insert Made in USA",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905373
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        },
+        "B01GKMICM4": {
+            "asin": "B01GKMICM4",
+            "height": {
+                "unit": "IN",
+                "value": 2.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.875
+            },
+            "name": "Fisherbrand Stackable Polypropylene Cups/Beakers, 120cc (3 Pack)",
+            "normalizedName": "(3 Pack) Fisherbrand Stackable Polypropylene Cups/Beakers, 120cc",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

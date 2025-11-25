@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00SNM6SIA": {
+            "asin": "B00SNM6SIA",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Hemp, Chia, Flax Seed Raw Mix by Gerbs - 2LBS - Top 11 Food Allergen Free & NON GMO - Vegan & Kosher \u2013 Made in USA",
+            "normalizedName": "Hemp, Chia, Flax Seed Raw Mix by Gerbs - 2LBS - Top 11 Food Allergen Free & NON GMO - Vegan & Kosher \u2013 Made in USA",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B013UHK0TK": {
+            "asin": "B013UHK0TK",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "name": "Samsung 64GB USB 3.0 Flash Drive Duo (MUF-64CB/AM)",
+            "normalizedName": "Samsung 64GB USB 3.0 Flash Drive Duo (MUF-64CB/AM)",
+            "quantity": 16,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 17
+}

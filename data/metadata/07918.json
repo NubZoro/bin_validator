@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000WE8HWW": {
+            "asin": "B000WE8HWW",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Beach Pails and Shovels - 5 inch, assorted colors (12/PKG) [Toy]",
+            "normalizedName": "Beach Pails and Shovels - 5 inch, assorted colors (12/PKG) [Toy]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B01BHUSQZ2": {
+            "asin": "B01BHUSQZ2",
+            "height": {
+                "unit": "IN",
+                "value": 7.266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.188
+            },
+            "name": "EveryDrop by Whirlpool Water DBPIT2M1 PopOut Pitcher System",
+            "normalizedName": "EveryDrop by Whirlpool Water DBPIT2M1 PopOut Pitcher System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.987
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.266
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

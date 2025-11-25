@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00011KNL4": {
+            "asin": "B00011KNL4",
+            "height": {
+                "unit": "IN",
+                "value": 2.29921259608
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.7007873927
+            },
+            "name": "Digipower DPS-1800 10 Hour AA/AAA Rechargeable Battery Kit with 2 AA 2300 mAh Batteries",
+            "normalizedName": "Digipower DPS-1800 10 Hour AA/AAA Rechargeable Battery Kit with 2 AA 2300 mAh Batteries",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6000100922592
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.09842519063
+            }
+        },
+        "B00QMX65FS": {
+            "asin": "B00QMX65FS",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Adorox Felt Pirate Eyepatches Party Favors Costume (24 Eyepatches)",
+            "normalizedName": "Adorox Felt Pirate Eyepatches Party Favors Costume (24 Eyepatches)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0810954966": {
+            "asin": "0810954966",
+            "height": {
+                "unit": "IN",
+                "value": 1.09842519573
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.09842518553
+            },
+            "name": "The New Eighteenth-Century Style",
+            "normalizedName": "The New Eighteenth-Century Style",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4000740099008
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B002UL0XD6": {
+            "asin": "B002UL0XD6",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "PYLE PRJS66B 6.5-Inch 40 Watts 70v Ceiling Hanging Pendent Speaker With 70v, Transformer (Black)",
+            "normalizedName": "PYLE PRJS66B 6.5-Inch 40 Watts 70v Ceiling Hanging Pendent Speaker With 70v, Transformer (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00MG2SQOW": {
+            "asin": "B00MG2SQOW",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Ideal Home Range 8 Count Maple Folder Paper Plates, 10.5-Inch, Cream",
+            "normalizedName": "Ideal Home Range 8 Count Maple Folder Paper Plates, 10.5-Inch, Cream",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B01DEJZCO2": {
+            "asin": "B01DEJZCO2",
+            "height": {
+                "unit": "IN",
+                "value": 0.1
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.0
+            },
+            "name": "Silver Brushed Aluminum skin decal wrap skin Case for Dell Inspiron 15 7559 15.6\" Laptop",
+            "normalizedName": "Silver Brushed Aluminum skin decal wrap skin Case for Dell Inspiron 15 7559 15.6\" Laptop",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 8.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

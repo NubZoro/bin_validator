@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00UUCE2QG": {
+            "asin": "B00UUCE2QG",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Pot Lid Organizer Stainless Steel",
+            "normalizedName": "Pot Lid Organizer Stainless Steel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

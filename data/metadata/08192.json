@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DZKEBNO": {
+            "asin": "B00DZKEBNO",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Thames and Kosmos Gyrobot-Gyroscopic Robot Kit",
+            "normalizedName": "Thames and Kosmos Gyrobot-Gyroscopic Robot Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B00F1ZM3FY": {
+            "asin": "B00F1ZM3FY",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Rothco Special Ops Soft Shell Jacket, Woodland, Small",
+            "normalizedName": "Rothco Special Ops Soft Shell Jacket, Woodland, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

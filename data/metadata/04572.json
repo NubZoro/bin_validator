@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004BOZ1LY": {
+            "asin": "B004BOZ1LY",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Vale Easy Clean Body Brush",
+            "normalizedName": "Vale Easy Clean Body Brush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B004OGIHUQ": {
+            "asin": "B004OGIHUQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "SmartBones Peanut Butter Dog Chew, Mini, 24-count-14 oz",
+            "normalizedName": "SmartBones Peanut Butter Dog Chew, Mini, 24-count-14 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00F0N61AU": {
+            "asin": "B00F0N61AU",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "name": "Midnight Memories",
+            "normalizedName": "Midnight Memories",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9606299162
+            }
+        },
+        "B00O37TLM4": {
+            "asin": "B00O37TLM4",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "WODSaver Hand Grips for Pull Ups, Chin Ups, Cross Fitness WODs, Kettlebell training, Power lifting and Gymnastics, Small",
+            "normalizedName": "WODSaver Hand Grips for Pull Ups, Chin Ups, Cross Fitness WODs, Kettlebell training, Power lifting and Gymnastics, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

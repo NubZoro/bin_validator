@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0065WQ0M4": {
+            "asin": "B0065WQ0M4",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Palmer's Cocoa Butter Formula Men's Lotion, 13.5 Fluid Ounce (Pack of 2)",
+            "normalizedName": "(Pack of 2) Palmer's Cocoa Butter Formula Men's Lotion, 13.5 Fluid Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00IARPC8A": {
+            "asin": "B00IARPC8A",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Bungalow 360 Mini Backpack, Cat",
+            "normalizedName": "Bungalow 360 Mini Backpack, Cat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

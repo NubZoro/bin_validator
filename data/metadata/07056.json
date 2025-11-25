@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1590525876": {
+            "asin": "1590525876",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "The Christy Miller Collection, Vol. 4: A Time to Cherish / Sweet Dreams / A Promise Is Forever (Books 10-12)",
+            "normalizedName": "The Christy Miller Collection, Vol. 4: A Time to Cherish / Sweet Dreams / A Promise Is Forever (Books 10-12)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B0002DIKN4": {
+            "asin": "B0002DIKN4",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "F.M. Brown's Falfa Cravins Heart-Shaped Alfalfa Cookies, 7-Ounce",
+            "normalizedName": "F.M. Brown's Falfa Cravins Heart-Shaped Alfalfa Cookies, 7-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B01G6NT0U0": {
+            "asin": "B01G6NT0U0",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Powseed 70W 18V-20V Laptop Power Adapter Multi Tips for HP Stream 11 13 14, x360, Elitebook Folio 1040 G1, Pavilion G7 G72, Dv6 Dv7 Compaq Presario Cq70, Probook 450 G1 G2, Revolve 810 G1, DV8000",
+            "normalizedName": "Powseed 70W 18V-20V Laptop Power Adapter Multi Tips for HP Stream 11 13 14, x360, Elitebook Folio 1040 G1, Pavilion G7 G72, Dv6 Dv7 Compaq Presario Cq70, Probook 450 G1 G2, Revolve 810 G1, DV8000",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

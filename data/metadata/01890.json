@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00F1GCZNS": {
+            "asin": "B00F1GCZNS",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Tea, 95 Percent organic, Herbal, Fenugreek, 24 bag ( Multi-Pack)",
+            "normalizedName": "Tea, 95 Percent organic, Herbal, Fenugreek, 24 bag ( Multi-Pack)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.011874878778371569
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01DYOFN1Y": {
+            "asin": "B01DYOFN1Y",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Chef's Star Glass water Bottle 6 Pack 16oz Bottles For Beverage and Juice, Stainless Steel Caps with Carrying Loop",
+            "normalizedName": "6 Pack Chef's Star Glass water Bottle 16oz Bottles For Beverage and Juice, Stainless Steel Caps with Carrying Loop",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8499999967714262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

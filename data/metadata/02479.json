@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0137047053": {
+            "asin": "0137047053",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Teaching in K-12 Schools: A Reflective Action Approach (5th Edition)",
+            "normalizedName": "Teaching in K-12 Schools: A Reflective Action Approach (5th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "0545747813": {
+            "asin": "0545747813",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "The 39 Clues: Doublecross Book 1: Mission Titanic",
+            "normalizedName": "The 39 Clues: Doublecross Book 1: Mission Titanic",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B0027AAIB2": {
+            "asin": "B0027AAIB2",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Strathmore 370900 25-Pound 50-Sheet Strathmore Tracing Paper Pad, 9 by 12-Inch",
+            "normalizedName": "Strathmore 370900 25-Pound 50-Sheet Strathmore Tracing Paper Pad, 9 by 12-Inch",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024
+            }
+        },
+        "B005GY7VKW": {
+            "asin": "B005GY7VKW",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "MLB Colorado Rockies Fathead Logo Decal",
+            "normalizedName": "MLB Colorado Rockies Fathead Logo Decal",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B00AX334M0": {
+            "asin": "B00AX334M0",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Elegant Comfort 1500 Thread Count Egyptian Quality Super Soft Wrinkle Free 4-Piece Sheet Set, California King, Mocha Chocolate",
+            "normalizedName": "Elegant Comfort 1500 Thread Count Egyptian Quality Super Soft Wrinkle Free 4-Piece Sheet Set, California King, Mocha Chocolate",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.77
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

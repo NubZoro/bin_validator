@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0093XTHHM": {
+            "asin": "B0093XTHHM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Coby Kyros 7-Inch Android 4.0 4 GB Internet Tablet 16:9 Resistive Touchscreen, Black MID7034-4",
+            "normalizedName": "Coby Kyros 7-Inch Android 4.0 4 GB Internet Tablet 16:9 Resistive Touchscreen, Black MID7034-4",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00U0HR998": {
+            "asin": "B00U0HR998",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Posh Mobile Revel Pro X510 GSM Unlocked 4G HSDPA+ 4GB 5.0\" LCD Android Smartphone Dual Sim - White",
+            "normalizedName": "Posh Mobile Revel Pro X510 GSM Unlocked 4G HSDPA+ 4GB 5.0\" LCD Android Smartphone Dual Sim - White",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

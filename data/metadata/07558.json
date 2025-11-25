@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HS95LAA": {
+            "asin": "B00HS95LAA",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Kyasi Power To Go 5000 mAh USB Battery Pack, Silver",
+            "normalizedName": "Kyasi Power To Go 5000 mAh USB Battery Pack, Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

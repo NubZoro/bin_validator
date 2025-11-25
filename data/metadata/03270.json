@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0415954932": {
+            "asin": "0415954932",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "The Political Economy Reader: Markets as Institutions",
+            "normalizedName": "The Political Economy Reader: Markets as Institutions",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "1455568872": {
+            "asin": "1455568872",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.249999990565
+            },
+            "name": "Crisis of Character: A White House Secret Service Officer Discloses His Firsthand Experience with Hillary, Bill, and How They Operate",
+            "normalizedName": "Crisis of Character: A White House Secret Service Officer Discloses His Firsthand Experience with Hillary, Bill, and How They Operate",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00HVLUR86": {
+            "asin": "B00HVLUR86",
+            "height": {
+                "unit": "IN",
+                "value": 4.2519684996
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.4960629804
+            },
+            "name": "Audio-Technica ATH-M50x Professional Studio Monitor Headphones",
+            "normalizedName": "Audio-Technica ATH-M50x Professional Studio Monitor Headphones",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1605081144235547
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.236220462
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

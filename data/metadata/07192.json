@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0094GWALI": {
+            "asin": "B0094GWALI",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Halo Recessed 953P 4-Inch Metal Trim with Black Baffle, White",
+            "normalizedName": "Halo Recessed 953P 4-Inch Metal Trim with Black Baffle, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B012YLRXB6": {
+            "asin": "B012YLRXB6",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "AT&T Go Phone - Microsoft Lumia 640 (Black) - No Contract",
+            "normalizedName": "AT&T Go Phone - Microsoft Lumia 640 (Black) - No Contract",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.769155345155894
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0310435307": {
+            "asin": "0310435307",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "NIV, Giant Print Compact Bible, Imitation Leather, Burgundy",
+            "normalizedName": "NIV, Giant Print Compact Bible, Imitation Leather, Burgundy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B007W8RDAS": {
+            "asin": "B007W8RDAS",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Welcome to My World",
+            "normalizedName": "Welcome to My World",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770752888384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00KI7QCAC": {
+            "asin": "B00KI7QCAC",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "O Piano De",
+            "normalizedName": "O Piano De",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17707528883839999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00W33223U": {
+            "asin": "B00W33223U",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "iPhone SE Case, iPhone 5S Case, ULAK Anti Slip iPhone 5 Case Dust Scratch Shock Resistance Protective Cover for Apple iPhone SE 5S 5 with Hybrid High Soft Silicone + Hard PC Case (Ocean-Blue)",
+            "normalizedName": "iPhone SE Case, iPhone 5S Case, ULAK Anti Slip iPhone 5 Case Dust Scratch Shock Resistance Protective Cover for Apple iPhone SE 5S 5 with Hybrid High Soft Silicone + Hard PC Case (Ocean-Blue)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0882820737": {
+            "asin": "0882820737",
+            "height": {
+                "unit": "IN",
+                "value": 1.20866141609
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.94094487277
+            },
+            "name": "Crime Incorporated: The Inside Story of the Mafia's First 100 Years",
+            "normalizedName": "Crime Incorporated: The Inside Story of the Mafia's First 100 Years",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4000235486048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.09055117489
+            }
+        },
+        "1438001940": {
+            "asin": "1438001940",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Barron's New York State Grade 6 English Language Arts Test, 2nd Edition",
+            "normalizedName": "Barron's New York State Grade 6 English Language Arts Test, 2nd Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B008PBTXAO": {
+            "asin": "B008PBTXAO",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "eBoTrade Dirct New Xenon HID H11 6000K Replacement Bulbs - 1 Pair",
+            "normalizedName": "eBoTrade Dirct New Xenon HID H11 6000K Replacement Bulbs - 1 Pair",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KVL0SIM": {
+            "asin": "B00KVL0SIM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Tom Clancy's The Division - PC",
+            "normalizedName": "Tom Clancy's The Division - PC",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00OXP4GWG": {
+            "asin": "B00OXP4GWG",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "DSTE\u00ae Pro IR Remote BG-E6 Vertical Battery Grip + 2x LP-E6 LP-E6N for Canon EOS 5D Mark II 5D2 SLR Digital Camera",
+            "normalizedName": "DSTE\u00ae Pro IR Remote BG-E6 Vertical Battery Grip + 2x LP-E6 LP-E6N for Canon EOS 5D Mark II 5D2 SLR Digital Camera",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B013KPFZVU": {
+            "asin": "B013KPFZVU",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.7637795176
+            },
+            "name": "Incipio Clarion Folio Fire HD 8 Case (5th Generation - 2015 release), Plum Purple",
+            "normalizedName": "Incipio Clarion Folio Fire HD 8 Case (5th Generation - 2015 release), Plum Purple",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200233517459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.3543307032
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

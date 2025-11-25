@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DPJ3CYO": {
+            "asin": "B00DPJ3CYO",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Swiss Chalet Dipping Sauce - 12x36g",
+            "normalizedName": "Swiss Chalet Dipping Sauce - 12x36g",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00W8K19DM": {
+            "asin": "B00W8K19DM",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Adrenal Fatigue Support Supplement \u2022 Adrenal Complex Packed w/ Essential Nutrients & Herbs to Support Healthy Adrenal Cortex Function and Response to Stress, Immune System Strength, and Energy Levels.",
+            "normalizedName": "Adrenal Fatigue Support Supplement \u2022 Adrenal Complex Packed w/ Essential Nutrients & Herbs to Support Healthy Adrenal Cortex Function and Response to Stress, Immune System Strength, and Energy Levels.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

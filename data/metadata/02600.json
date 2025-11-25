@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00886E6RG": {
+            "asin": "B00886E6RG",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Wolfe Palettes - Essentials (12/colors)",
+            "normalizedName": "Wolfe Palettes - Essentials (12/colors)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00ENQCIVQ": {
+            "asin": "B00ENQCIVQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.2047244072
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "name": "Microfiber 3-Pack, Pro-Clean Mopping Cloths for Braava Floor Mopping Robot",
+            "normalizedName": "3-Pack Microfiber , Pro-Clean Mopping Cloths for Braava Floor Mopping Robot",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.8346456664
+            }
+        },
+        "B00KZMCKVU": {
+            "asin": "B00KZMCKVU",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Red and White Chevron Stripe 9 inch Lunch/Dinner Plates (8 ct)",
+            "normalizedName": "Red and White Chevron Stripe 9 inch Lunch/Dinner Plates (8 ct)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00Y1J8NNC": {
+            "asin": "B00Y1J8NNC",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Zipper Bags Poly Cloth Value Package of 2 Bags (Orange)",
+            "normalizedName": "Zipper Bags Poly Cloth Value Package of 2 Bags (Orange)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

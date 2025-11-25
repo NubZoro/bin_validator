@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0073406732": {
+            "asin": "0073406732",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "The Art of Public Speaking, 11th Edition",
+            "normalizedName": "The Art of Public Speaking, 11th Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.739999998540852
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "0205236405": {
+            "asin": "0205236405",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Research Writing Simplified: A Documentation Guide (7th Edition)",
+            "normalizedName": "Research Writing Simplified: A Documentation Guide (7th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00SHMYCO8": {
+            "asin": "B00SHMYCO8",
+            "height": {
+                "unit": "IN",
+                "value": 2.3599999975928
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Willow Beans Baby Bamboo Swaddle Blankets, Pack of 4",
+            "normalizedName": "Pack of 4 Willow Beans Baby Bamboo Swaddle Blankets,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.4399999903712
+            }
+        },
+        "B014KOHYK0": {
+            "asin": "B014KOHYK0",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Intex Rainbow Baby Pool for Ages 1-3, 34 x 10\", Pink/Yellow/Blue",
+            "normalizedName": "Intex Rainbow Baby Pool for Ages 1-3, 34 x 10\", Pink/Yellow/Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

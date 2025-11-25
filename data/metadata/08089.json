@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KB87WSY": {
+            "asin": "B00KB87WSY",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Funny Guy Mugs World's Okayest Sister Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs World's Okayest Sister Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01CNPWA2K": {
+            "asin": "B01CNPWA2K",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "G & F MiniGardenn 10026 Miniature Fairy Garden Wire Accessory Set",
+            "normalizedName": "G & F MiniGardenn 10026 Miniature Fairy Garden Wire Accessory Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

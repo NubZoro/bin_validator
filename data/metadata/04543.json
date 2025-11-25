@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0061208493": {
+            "asin": "0061208493",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "The Complete C. S. Lewis Signature Classics",
+            "normalizedName": "The Complete C. S. Lewis Signature Classics",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B001FB5PUS": {
+            "asin": "B001FB5PUS",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "TheraTears Liquid Gel, 28-Count Package (Pack of 3)",
+            "normalizedName": "(Pack of 3) TheraTears Liquid Gel, 28-Count Package",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

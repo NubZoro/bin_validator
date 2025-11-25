@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OZ7LH5Q": {
+            "asin": "B00OZ7LH5Q",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Dial Complete Foaming Anti-bacterial Hand Wash Variety (8 pack)",
+            "normalizedName": "Dial Complete Foaming Anti-bacterial Hand Wash Variety (8 pack)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.199999995639329
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B00P06VWIS": {
+            "asin": "B00P06VWIS",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Popcorn Serving Tub 7.5\" X 7.5\"- Set of 4 Bowls",
+            "normalizedName": "Set of 4 Popcorn Serving Tub 7.5\" X 7.5\"- Bowls",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LDR5A4U": {
+            "asin": "B00LDR5A4U",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.3779527494
+            },
+            "name": "Nillkin New Leather Case for Motorola Moto E - Retail Packaging - Blue",
+            "normalizedName": "Nillkin New Leather Case for Motorola Moto E - Retail Packaging - Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        },
+        "B016POC43A": {
+            "asin": "B016POC43A",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Best Plush, Childrens Blanket Coral Fleece 40X30 Inches with Stuffed Bear Toy, Brown",
+            "normalizedName": "Best Plush, Childrens Blanket Coral Fleece 40X30 Inches with Stuffed Bear Toy, Brown",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

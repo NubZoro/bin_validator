@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005I64CA0": {
+            "asin": "B005I64CA0",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Tea Cup Cover and Mug Lid with Tea Bag Caddy",
+            "normalizedName": "Tea Cup Cover and Mug Lid with Tea Bag Caddy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01A7YYETQ": {
+            "asin": "B01A7YYETQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.2
+            },
+            "name": "GVDV USB 3.1 Type-C (USB-C) to USB Type-A 3.0 Male Sync & Charging Cable W Reversible Design for the New MacBook, Google Nexus 6P 5X, OnePlus 2 ,Nokia N1, Type-C Supported Devices (Rose gold(1.8m))",
+            "normalizedName": "GVDV USB 3.1 Type-C (USB-C) to USB Type-A 3.0 Male Sync & Charging Cable W Reversible Design for the New MacBook, Google Nexus 6P 5X, OnePlus 2 ,Nokia N1, Type-C Supported Devices (Rose gold(1.8m))",
+            "quantity": 8,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

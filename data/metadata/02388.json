@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009LQA5KY": {
+            "asin": "B009LQA5KY",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Simply Pine Natural Cat Litter, 7 lb",
+            "normalizedName": "Simply Pine Natural Cat Litter, 7 lb",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B017W1H6AG": {
+            "asin": "B017W1H6AG",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "Lipper International Wire Flatware Tray, 5 Compartments, Silver",
+            "normalizedName": "Lipper International Wire Flatware Tray, 5 Compartments, Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

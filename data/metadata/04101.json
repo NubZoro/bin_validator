@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IFWSNLS": {
+            "asin": "B00IFWSNLS",
+            "height": {
+                "unit": "IN",
+                "value": 3.1899999967462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Play-Doh Launch Game",
+            "normalizedName": "Play-Doh Launch Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B014JOU43U": {
+            "asin": "B014JOU43U",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 19.599999980008004
+            },
+            "name": "O'Neill Wetsuits Wake Waterski Womens Superlite USCG Life Vest, Black/Smoke/Black/UV, Large",
+            "normalizedName": "O'Neill Wetsuits Wake Waterski Womens Superlite USCG Life Vest, Black/Smoke/Black/UV, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 18.599999981028002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

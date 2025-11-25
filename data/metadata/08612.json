@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002H49BC": {
+            "asin": "B0002H49BC",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Leatherman 830039 Wave Multitool with Leather/Nylon Combination Sheath, Silver",
+            "normalizedName": "Leatherman 830039 Wave Multitool with Leather/Nylon Combination Sheath, Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B007N0JTHK": {
+            "asin": "B007N0JTHK",
+            "height": {
+                "unit": "IN",
+                "value": 3.249999996685
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.249999991585002
+            },
+            "name": "Striiv Smart Pedometer, Accessory Bundle",
+            "normalizedName": "Striiv Smart Pedometer, Accessory Bundle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B0088R7938": {
+            "asin": "B0088R7938",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Play-Doh Transformers Dark of the Moon Art Dough Set",
+            "normalizedName": "Play-Doh Transformers Dark of the Moon Art Dough Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00A671RR2": {
+            "asin": "B00A671RR2",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Play-Doh Mickey Mouse Clubhouse Set (Mickey)",
+            "normalizedName": "Play-Doh Mickey Mouse Clubhouse Set (Mickey)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

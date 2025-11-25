@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ZPPURH6": {
+            "asin": "B00ZPPURH6",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "mDesign Chevron Sweater Organizer - 6 Shelves",
+            "normalizedName": "mDesign Chevron Sweater Organizer - 6 Shelves",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        },
+        "B01560EUCC": {
+            "asin": "B01560EUCC",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "name": "Beoplay S3 White",
+            "normalizedName": "Beoplay S3 White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.649999996100553
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

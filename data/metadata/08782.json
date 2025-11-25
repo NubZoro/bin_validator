@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000C9OXDO": {
+            "asin": "B000C9OXDO",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "ACDelco PT1015 GM Original Equipment 5-Way Female Gray Multi-Purpose Pigtail",
+            "normalizedName": "ACDelco PT1015 GM Original Equipment 5-Way Female Gray Multi-Purpose Pigtail",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B001S8EC2K": {
+            "asin": "B001S8EC2K",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "ACDelco 15-50812 GM Original Equipment Air Conditioning Refrigerant Pressure Switch",
+            "normalizedName": "ACDelco 15-50812 GM Original Equipment Air Conditioning Refrigerant Pressure Switch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00A47KEYQ": {
+            "asin": "B00A47KEYQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Zodiac X73010 Dura Life Diaphragm Replacement",
+            "normalizedName": "Zodiac X73010 Dura Life Diaphragm Replacement",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00S0G18Z2": {
+            "asin": "B00S0G18Z2",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "ACDelco 15123628 GM Original Equipment Positive Crank Ventilation (PCV) Hose",
+            "normalizedName": "ACDelco 15123628 GM Original Equipment Positive Crank Ventilation (PCV) Hose",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

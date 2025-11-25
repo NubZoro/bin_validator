@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000A0IBV0": {
+            "asin": "B000A0IBV0",
+            "height": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Toysmith 2418AM Beach Set",
+            "normalizedName": "Toysmith 2418AM Beach Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

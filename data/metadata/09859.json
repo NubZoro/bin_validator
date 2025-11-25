@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003KOJVE4": {
+            "asin": "B003KOJVE4",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Bulbrite 50BR30FL2 50-Watt 120-Volt Incandescent BR30 Indoor Reflector, Flood",
+            "normalizedName": "Bulbrite 50BR30FL2 50-Watt 120-Volt Incandescent BR30 Indoor Reflector, Flood",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00NF6PAJC": {
+            "asin": "B00NF6PAJC",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Twist and Glide Gel Bible Highlighters",
+            "normalizedName": "Twist and Glide Gel Bible Highlighters",
+            "quantity": 16,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 18
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004IM8I50": {
+            "asin": "B004IM8I50",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Hairdo Clip-In Bangs by Jessica Simpson and Ken Paves - R14/25",
+            "normalizedName": "Hairdo Clip-In Bangs by Jessica Simpson and Ken Paves - R14/25",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B0077QI5Q6": {
+            "asin": "B0077QI5Q6",
+            "height": {
+                "unit": "IN",
+                "value": 1.249999998725
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "name": "Nature's Kiss Peppermint India Essential Oil, 0.34-Ounce",
+            "normalizedName": "Nature's Kiss Peppermint India Essential Oil, 0.34-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

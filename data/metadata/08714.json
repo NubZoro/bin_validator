@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01D1QFJBY": {
+            "asin": "B01D1QFJBY",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Resin Sitting Fox Figurine Brown and Rust 5.7 inches",
+            "normalizedName": "Resin Sitting Fox Figurine Brown and Rust 5.7 inches",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

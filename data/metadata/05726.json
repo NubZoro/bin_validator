@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KMXW3ZA": {
+            "asin": "B00KMXW3ZA",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "QualGear QG-AM-017 Mount for Apple TV/AirPort Express Base Station (For 2nd & 3rd Generation Apple TVs)",
+            "normalizedName": "QualGear QG-AM-017 Mount for Apple TV/AirPort Express Base Station (For 2nd & 3rd Generation Apple TVs)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01FVD0CF8": {
+            "asin": "B01FVD0CF8",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Winters Corp Dimmable Multicolored LED Light Bulb With Bluetooth Speaker Compatible with Apple iPhone, iPad and Android Phone with remote control",
+            "normalizedName": "Winters Corp Dimmable Multicolored LED Light Bulb With Bluetooth Speaker Compatible with Apple iPhone, iPad and Android Phone with remote control",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

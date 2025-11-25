@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00B9L7ZFW": {
+            "asin": "B00B9L7ZFW",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Amscan Minnie Mouse 1st Birthday Headband, Black/Pink",
+            "normalizedName": "Amscan Minnie Mouse 1st Birthday Headband, Black/Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

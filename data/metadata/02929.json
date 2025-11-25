@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MEXP2SQ": {
+            "asin": "B00MEXP2SQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "The Voice Bundle with Microphone - Xbox 360",
+            "normalizedName": "The Voice Bundle with Microphone - Xbox 360",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00UMMIHS8": {
+            "asin": "B00UMMIHS8",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "QCLED 200led Solar Powered Net Light Garden Net Lights Solar String Lights Solar Lights (warm white)",
+            "normalizedName": "QCLED 200led Solar Powered Net Light Garden Net Lights Solar String Lights Solar Lights (warm white)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B013FA10G4": {
+            "asin": "B013FA10G4",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Silverlit Blu-Bot Programmable Robot",
+            "normalizedName": "Silverlit Blu-Bot Programmable Robot",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

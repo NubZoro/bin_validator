@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LL2SHK6": {
+            "asin": "B00LL2SHK6",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.699999983986
+            },
+            "name": "Optoma HD26 1080p 3D DLP Home Theater Projector",
+            "normalizedName": "Optoma HD26 1080p 3D DLP Home Theater Projector",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.299999993878288
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        },
+        "B010AMVF8I": {
+            "asin": "B010AMVF8I",
+            "height": {
+                "unit": "IN",
+                "value": 1.8
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.700000000000001
+            },
+            "name": "Copi Women's Casual PU Leather Backpack Bag, Fashion Cute Backpacks for School Backpack Camel",
+            "normalizedName": "Copi Women's Casual PU Leather Backpack Bag, Fashion Cute Backpacks for School Backpack Camel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.599999999999998
+            }
+        },
+        "B01EHIQAUE": {
+            "asin": "B01EHIQAUE",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Jaybird - Freedom F5 In-Ear Wireless Headphones - Ocean",
+            "normalizedName": "Jaybird - Freedom F5 In-Ear Wireless Headphones - Ocean",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

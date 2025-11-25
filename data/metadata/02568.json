@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008Z19SJ0": {
+            "asin": "B008Z19SJ0",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Vivitar VIV-13MM-P 13mm F2.8 lens for Pentax",
+            "normalizedName": "Vivitar VIV-13MM-P 13mm F2.8 lens for Pentax",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

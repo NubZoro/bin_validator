@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0316348406": {
+            "asin": "0316348406",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Shrill: Notes from a Loud Woman",
+            "normalizedName": "Shrill: Notes from a Loud Woman",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B005D0QJQ6": {
+            "asin": "B005D0QJQ6",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Dingo P-26032 1 Pouch Dental Sticks (35 Pack), Any",
+            "normalizedName": "(35 Pack) Dingo P-26032 1 Pouch Dental Sticks , Any",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.82
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B01AXL6RZ2": {
+            "asin": "B01AXL6RZ2",
+            "height": {
+                "unit": "IN",
+                "value": 2.1653543285
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.6771653465
+            },
+            "name": "Gemtune Wireless Mini Keyboard & Mouse Remote Control for Android Smart TV Box G Box HTPC Mini PC Windows iOS MAC Linux PS3 Xbox 360(F9)",
+            "normalizedName": "Gemtune Wireless Mini Keyboard & Mouse Remote Control for Android Smart TV Box G Box HTPC Mini PC Windows iOS MAC Linux PS3 Xbox 360(F9)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.330708657
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

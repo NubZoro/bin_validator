@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0528013165": {
+            "asin": "0528013165",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Rand McNally 2016 Gift Road Atlas (Rand Mcnally Road Atlas United States/ Canada/Mexico (Gift Edition))",
+            "normalizedName": "Rand McNally 2016 Gift Road Atlas (Rand Mcnally Road Atlas United States/ Canada/Mexico (Gift Edition))",
+            "quantity": 15,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        },
+        "B014HIRFQW": {
+            "asin": "B014HIRFQW",
+            "height": {
+                "unit": "IN",
+                "value": 5.7480314902
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.535433054
+            },
+            "name": "Remote Control Robot For Kids \u2013 Superb Fun Toy RC Robot \u2013 Shoots Foam Missiles, Walks, Talks & Dances By ThinkGizmos &reg;",
+            "normalizedName": "Remote Control Robot For Kids \u2013 Superb Fun Toy RC Robot \u2013 Shoots Foam Missiles, Walks, Talks & Dances By ThinkGizmos &reg;",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.086471668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.1023621934
+            }
+        },
+        "B01CLJCO8I": {
+            "asin": "B01CLJCO8I",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "5 Drawer Desktop Storage Organizer",
+            "normalizedName": "5 Drawer Desktop Storage Organizer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 17
+}

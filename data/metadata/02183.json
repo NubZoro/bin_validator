@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0071548084": {
+            "asin": "0071548084",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Microsoft SQL Server 2008 Reporting Services",
+            "normalizedName": "Microsoft SQL Server 2008 Reporting Services",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B0040ZOMVO": {
+            "asin": "B0040ZOMVO",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "GOJO 536202 Premium Foam Antibacterial Hand Wash, Fresh Fruit Scent, 1200mL, 2/Carton",
+            "normalizedName": "GOJO 536202 Premium Foam Antibacterial Hand Wash, Fresh Fruit Scent, 1200mL, 2/Carton",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.949999995010386
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

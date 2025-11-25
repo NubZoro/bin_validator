@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002TXT502": {
+            "asin": "B002TXT502",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Bob's Red Mill Gluten Free Old Fashioned Rolled Oats, 32-ounce (Pack of 4)",
+            "normalizedName": "(Pack of 4) Bob's Red Mill Gluten Free Old Fashioned Rolled Oats, 32-ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B00KU4G9NS": {
+            "asin": "B00KU4G9NS",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Wilson Advisory Staff Dustin Pedroia Youth Baseball Glove, Saddle Tan, Right Hand Throw, 10.75-Inch",
+            "normalizedName": "Wilson Advisory Staff Dustin Pedroia Youth Baseball Glove, Saddle Tan, Right Hand Throw, 10.75-Inch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00SKDU554": {
+            "asin": "B00SKDU554",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "EOOPRO Warm Weather Sleeping Bag - Outdoor Camping, Backpacking & Hiking - Fit for Kids, Teens and Adults - Spring, Summer & Fall - Lightweight, Waterproof & Compact Orange",
+            "normalizedName": "EOOPRO Warm Weather Sleeping Bag - Outdoor Camping, Backpacking & Hiking - Fit for Kids, Teens and Adults - Spring, Summer & Fall - Lightweight, Waterproof & Compact Orange",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

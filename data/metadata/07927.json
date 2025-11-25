@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001D1FVRC": {
+            "asin": "B001D1FVRC",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "name": "Duracell MN9100/E90/LR1 Medical Battery 1.5 V Card 2 Size N",
+            "normalizedName": "Duracell MN9100/E90/LR1 Medical Battery 1.5 V Card 2 Size N",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00EZV48AS": {
+            "asin": "B00EZV48AS",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Seacret Salt & Oil Scrub Pure 14.1 oz - 400gr",
+            "normalizedName": "Seacret Salt & Oil Scrub Pure 14.1 oz - 400gr",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00FB6NBNG": {
+            "asin": "B00FB6NBNG",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Umbra Capella Holdbacks for Curtain Panels, Set of 2, Black",
+            "normalizedName": "Set of 2 Umbra Capella Holdbacks for Curtain Panels, , Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00K1RZ6V0": {
+            "asin": "B00K1RZ6V0",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Scentsy Bar: Aussie Plum",
+            "normalizedName": "Scentsy Bar: Aussie Plum",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

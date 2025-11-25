@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001XUR4FU": {
+            "asin": "B001XUR4FU",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "Attitude Apron Santa Apron, White, One Size Fits Most",
+            "normalizedName": "Attitude Apron Santa Apron, White, One Size Fits Most",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        },
+        "B005MMNB6G": {
+            "asin": "B005MMNB6G",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "KitchenAid KHB2351OB 3-Speed Hand Blender - Onyx Black",
+            "normalizedName": "KitchenAid KHB2351OB 3-Speed Hand Blender - Onyx Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B016WFJ64M": {
+            "asin": "B016WFJ64M",
+            "height": {
+                "unit": "IN",
+                "value": 3.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.0
+            },
+            "name": "Mizuno Comp Long Sleeve Crew Top, Purple, Large",
+            "normalizedName": "Mizuno Comp Long Sleeve Crew Top, Purple, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        },
+        "B01CD8AT8E": {
+            "asin": "B01CD8AT8E",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Blaze and the Monster Machines Mega Bloks Jungle Ramp Rush Building Set",
+            "normalizedName": "Blaze and the Monster Machines Mega Bloks Jungle Ramp Rush Building Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4499999979454534
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

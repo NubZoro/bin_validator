@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0800794052": {
+            "asin": "0800794052",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "The Hiding Place",
+            "normalizedName": "The Hiding Place",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "1565496434": {
+            "asin": "1565496434",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922002
+            },
+            "name": "Hungry for Change: Farmers, Food Justice and the Agrarian Question",
+            "normalizedName": "Hungry for Change: Farmers, Food Justice and the Agrarian Question",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "1588260402": {
+            "asin": "1588260402",
+            "height": {
+                "unit": "IN",
+                "value": 1.09842519573
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.29921258894
+            },
+            "name": "Capital City Politics in Latin America: Democratization and Empowerment",
+            "normalizedName": "Capital City Politics in Latin America: Democratization and Empowerment",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4500243896264
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.79921259251
+            }
+        },
+        "B00251AWQ4": {
+            "asin": "B00251AWQ4",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Canvas panels 5 x 7 inch (pack of 12)",
+            "normalizedName": "Canvas panels 5 x 7 inch (pack of 12)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B003AUOJTK": {
+            "asin": "B003AUOJTK",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Cura-Heat Heat Therapy Patches, Air-Activated, Back & Large Areas, Value Pack 4 patches",
+            "normalizedName": "Cura-Heat Heat Therapy Patches, Air-Activated, Back & Large Areas, Value Pack 4 patches",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000WZ4KBS": {
+            "asin": "B000WZ4KBS",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Reese Towpower 74337 600 Pound Capacity Winch",
+            "normalizedName": "Reese Towpower 74337 600 Pound Capacity Winch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B003DR0JF8": {
+            "asin": "B003DR0JF8",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.3385826656
+            },
+            "name": "Pro Shot Industrial Re-Newing Floor Restorer, 32-Ounces",
+            "normalizedName": "Pro Shot Industrial Re-Newing Floor Restorer, 32-Ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.336876125723936
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0944881848
+            }
+        },
+        "B00KC6IUO0": {
+            "asin": "B00KC6IUO0",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Fire HD 6 Tablet, 6\" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Black",
+            "normalizedName": "Fire HD 6 Tablet, 6\" HD Display, Wi-Fi, 16 GB - Includes Special Offers, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

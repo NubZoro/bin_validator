@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00004T7FK": {
+            "asin": "B00004T7FK",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Freud 34-119 3/16-Inch Radius Rounding Over Router Bit with 1/2-Inch Shank",
+            "normalizedName": "Freud 34-119 3/16-Inch Radius Rounding Over Router Bit with 1/2-Inch Shank",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1500025230648
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5984251942
+            }
+        },
+        "B001U1BHSW": {
+            "asin": "B001U1BHSW",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.699999996226
+            },
+            "name": "Banana Boat Aloe Vera with Vitamin E Sunscreen Lip Balm, SPF 45 .15 oz (4.25 g)",
+            "normalizedName": "Banana Boat Aloe Vera with Vitamin E Sunscreen Lip Balm, SPF 45 .15 oz (4.25 g)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.799999997144
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

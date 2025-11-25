@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JTFBC7W": {
+            "asin": "B00JTFBC7W",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "[Iope] Water Fit Lipstick (#44 Forever Pink) 3.2g -Korea Cosmetics",
+            "normalizedName": "[Iope] Water Fit Lipstick (#44 Forever Pink) 3.2g -Korea Cosmetics",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B019QXN2L0": {
+            "asin": "B019QXN2L0",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Ziggy Baby Jersey Cotton Changing Pad Cover Set, Blue & Grey, 2 Pack",
+            "normalizedName": "2 Pack Ziggy Baby Jersey Cotton Changing Pad Cover Set, Blue & Grey,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.7999999930640005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BMXMDE": {
+            "asin": "B000BMXMDE",
+            "height": {
+                "unit": "IN",
+                "value": 4.724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.8503936836
+            },
+            "name": "HP 501A (Q6470A) Black Original LaserJet Toner Cartridge",
+            "normalizedName": "HP 501A (Q6470A) Black Original LaserJet Toner Cartridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2187161704677454
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1889763696
+            }
+        },
+        "B00WJBEJRS": {
+            "asin": "B00WJBEJRS",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Care Bears Funshine Sing-a-Long Bear Plush",
+            "normalizedName": "Care Bears Funshine Sing-a-Long Bear Plush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

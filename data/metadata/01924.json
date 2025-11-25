@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NI39SY": {
+            "asin": "B000NI39SY",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Marinco Mini Twin Electric Horn",
+            "normalizedName": "Marinco Mini Twin Electric Horn",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499821372275395
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B000W9U1QW": {
+            "asin": "B000W9U1QW",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.3307086468
+            },
+            "name": "Leg Avenue Women's Pink Princess Costume, Pink, Medium",
+            "normalizedName": "Leg Avenue Women's Pink Princess Costume, Pink, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.146392061675893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.5511810916
+            }
+        },
+        "B010TFQZA4": {
+            "asin": "B010TFQZA4",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Star Wars Furbacca",
+            "normalizedName": "Star Wars Furbacca",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

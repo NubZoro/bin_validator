@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00X9NWTO0": {
+            "asin": "B00X9NWTO0",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.799999981844
+            },
+            "name": "Timbuk2 Q Laptop Backpack, multi, One Size",
+            "normalizedName": "Timbuk2 Q Laptop Backpack, multi, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.799999985924
+            }
+        },
+        "B014AHMW5Y": {
+            "asin": "B014AHMW5Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Barbie Fashionistas Doll 30 White & Pink Pizzazz - Tall",
+            "normalizedName": "Barbie Fashionistas Doll 30 White & Pink Pizzazz - Tall",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

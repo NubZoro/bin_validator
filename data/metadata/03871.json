@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003LX8MBW": {
+            "asin": "B003LX8MBW",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Women's Viking Princess Costume",
+            "normalizedName": "Women's Viking Princess Costume",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        },
+        "B004U9LUAQ": {
+            "asin": "B004U9LUAQ",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Mechatars - Kodar",
+            "normalizedName": "Mechatars - Kodar",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B00UYYGRPO": {
+            "asin": "B00UYYGRPO",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Teenage Mutant Ninja Turtles Net Catch Game (Diecut Eva Characters)",
+            "normalizedName": "Teenage Mutant Ninja Turtles Net Catch Game (Diecut Eva Characters)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

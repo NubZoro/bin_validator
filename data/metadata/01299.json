@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006IF22": {
+            "asin": "B00006IF22",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Smead File Folder, 1/3-Cut Tab, Letter Size, Red, 100 per Box (12743)",
+            "normalizedName": "Smead File Folder, 1/3-Cut Tab, Letter Size, Red, 100 per Box (12743)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494
+            }
+        },
+        "B006K0HWXC": {
+            "asin": "B006K0HWXC",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Sanford Rolodex Distinctions Self-Stacking Desk Tray (1813916)",
+            "normalizedName": "Sanford Rolodex Distinctions Self-Stacking Desk Tray (1813916)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6299999977945068
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

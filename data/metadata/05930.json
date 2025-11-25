@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000HV9HYW": {
+            "asin": "B000HV9HYW",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "CIA Masters Collection Stainless Steel 12-Inch Locking Tongs",
+            "normalizedName": "CIA Masters Collection Stainless Steel 12-Inch Locking Tongs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00OX2HPZ4": {
+            "asin": "B00OX2HPZ4",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "The Pad: Ergonomic Mousepad with Wrist Support - Protect Your Wrists and De-clutter Your Desk - Premium Mouse Pad with Wrist Rest - Latest Custom Non-slip Design - Free ebooks - Lifetime Guarantee",
+            "normalizedName": "The Pad: Ergonomic Mousepad with Wrist Support - Protect Your Wrists and De-clutter Your Desk - Premium Mouse Pad with Wrist Rest - Latest Custom Non-slip Design - Free ebooks - Lifetime Guarantee",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B01G8UORX6": {
+            "asin": "B01G8UORX6",
+            "height": {
+                "unit": "IN",
+                "value": 5.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.5
+            },
+            "name": "Marvel Captain America, \"First Avenger\" Youth Fleece Comfy Throw by The Northwest Company, 48\" by 48\"",
+            "normalizedName": "Marvel Captain America, \"First Avenger\" Youth Fleece Comfy Throw by The Northwest Company, 48\" by 48\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.88
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

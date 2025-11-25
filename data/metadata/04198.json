@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FSKYE22": {
+            "asin": "B00FSKYE22",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Print.Save.Repeat. Lexmark 601X Extra High Yield Remanufactured Toner Cartridge for MX510, MX511, MX610, MX611 [20,000 Pages]",
+            "normalizedName": "Print.Save.Repeat. Lexmark 601X Extra High Yield Remanufactured Toner Cartridge for MX510, MX511, MX610, MX611 [20,000 Pages]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B0182S0THA": {
+            "asin": "B0182S0THA",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995205999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Isotoner Womens Smartzone Gel Comfort Slipper Shoe MD 7.5-8 Dark Chocolate",
+            "normalizedName": "Isotoner Womens Smartzone Gel Comfort Slipper Shoe MD 7.5-8 Dark Chocolate",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

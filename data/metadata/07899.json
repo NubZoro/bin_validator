@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ITRUA2Y": {
+            "asin": "B00ITRUA2Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Entertaining with Caspari Cocktail Napkins, Berry Chintz Ivory, Box of 40",
+            "normalizedName": "Entertaining with Caspari Cocktail Napkins, Berry Chintz Ivory, Box of 40",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01CXT0JP6": {
+            "asin": "B01CXT0JP6",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Wireless Bluetooth Speaker,Naturalrays Ultra-Portable Outdoor Waterproof Boombox Speaker for iPhone, iPad Mini, iPad 4/3/2, iTouch, Nexus, Samsung,other Smart Phones and Mp3 Players Blue",
+            "normalizedName": "Wireless Bluetooth Speaker,Naturalrays Ultra-Portable Outdoor Waterproof Boombox Speaker for iPhone, iPad Mini, iPad 4/3/2, iTouch, Nexus, Samsung,other Smart Phones and Mp3 Players Blue",
+            "quantity": 15,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 16
+}

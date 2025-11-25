@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007O3S6P2": {
+            "asin": "B007O3S6P2",
+            "height": {
+                "unit": "IN",
+                "value": 2.9921259812
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.1968503782
+            },
+            "name": "California Costumes Men's King Arthur Adult, Silver/Red, Medium",
+            "normalizedName": "California Costumes Men's King Arthur Adult, Silver/Red, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0723241114910373
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.4645669154
+            }
+        },
+        "B01D4KQHI6": {
+            "asin": "B01D4KQHI6",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Ling's moment LARGE Mr & Mrs Wooden Letters for Wedding Decoration",
+            "normalizedName": "Ling's moment LARGE Mr & Mrs Wooden Letters for Wedding Decoration",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

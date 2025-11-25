@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1338054597": {
+            "asin": "1338054597",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Harry Potter Magical Creatures Postcard Coloring Book",
+            "normalizedName": "Harry Potter Magical Creatures Postcard Coloring Book",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00XVG29MW": {
+            "asin": "B00XVG29MW",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "1byone Easy Chime Wireless Doorbell Operating at 500 feet with 2 Plug-in Receivers, CD Quality Sound and LED Flash, 36 Melodies to Choose, White",
+            "normalizedName": "1byone Easy Chime Wireless Doorbell Operating at 500 feet with 2 Plug-in Receivers, CD Quality Sound and LED Flash, 36 Melodies to Choose, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

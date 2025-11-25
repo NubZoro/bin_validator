@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001BLRYMO": {
+            "asin": "B001BLRYMO",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Conair Compact Hairsetter, Blue",
+            "normalizedName": "Conair Compact Hairsetter, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B01D8O8YU2": {
+            "asin": "B01D8O8YU2",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Sumer Fun Pool Party Flannel Back Vinyl Umbrella Tablecloths With Hole and Zipper-Assorted Sizes (70 Round)",
+            "normalizedName": "Sumer Fun Pool Party Flannel Back Vinyl Umbrella Tablecloths With Hole and Zipper-Assorted Sizes (70 Round)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,137 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0849760097": {
+            "asin": "0849760097",
+            "height": {
+                "unit": "IN",
+                "value": 0.0787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.7322834526
+            },
+            "name": "GP10 - Piano Literature Volume 2 - Bastien",
+            "normalizedName": "GP10 - Piano Literature Volume 2 - Bastien",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.31
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.7401574714
+            }
+        },
+        "155440732X": {
+            "asin": "155440732X",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "TRP02 - Royal Conservatory Technical Requirements for Piano Level 2 2015 Edition",
+            "normalizedName": "TRP02 - Royal Conservatory Technical Requirements for Piano Level 2 2015 Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "161727013X": {
+            "asin": "161727013X",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "JRP02 - Mini-Monster Book of Rock Drumming",
+            "normalizedName": "JRP02 - Mini-Monster Book of Rock Drumming",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "1617270253": {
+            "asin": "1617270253",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "JRP48 - Musical Studies for Intermediate Snare Drum",
+            "normalizedName": "JRP48 - Musical Studies for Intermediate Snare Drum",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B004ZWV012": {
+            "asin": "B004ZWV012",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494
+            },
+            "name": "Halls Mountain Menthol, Sugar Free, 70-Count Bag (Pack of 4)",
+            "normalizedName": "(Pack of 4) Halls Mountain Menthol, Sugar Free, 70-Count Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B01A05RWSW": {
+            "asin": "B01A05RWSW",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Vitality's Effecto Fix Hair Lotion - 24 Pack",
+            "normalizedName": "24 Pack Vitality's Effecto Fix Hair Lotion -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

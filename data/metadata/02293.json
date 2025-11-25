@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0062369539": {
+            "asin": "0062369539",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "When the Rancher Came to Town: A Valentine Valley Novella",
+            "normalizedName": "When the Rancher Came to Town: A Valentine Valley Novella",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B000NWEJWA": {
+            "asin": "B000NWEJWA",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Scosche SAC656 1995-up Neon 5.25/6.5-Inch Jeep Speaker Adapter - Pair",
+            "normalizedName": "Scosche SAC656 1995-up Neon 5.25/6.5-Inch Jeep Speaker Adapter - Pair",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00H9HJSFU": {
+            "asin": "B00H9HJSFU",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "ROBERTSON 3P20132 Fluorescent eBallast for 2 F40T12 Linear Lamps, Preheat- Rapid Start, 120Vac, 50-60Hz, Normal Ballast Factor, NPF, Model RSW234T12120 /A (Crosses to 3P20010 Model RSW240T12120 /B)",
+            "normalizedName": "ROBERTSON 3P20132 Fluorescent eBallast for 2 F40T12 Linear Lamps, Preheat- Rapid Start, 120Vac, 50-60Hz, Normal Ballast Factor, NPF, Model RSW234T12120 /A (Crosses to 3P20010 Model RSW240T12120 /B)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

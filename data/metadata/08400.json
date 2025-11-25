@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FBWOIA": {
+            "asin": "B000FBWOIA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Grote 67090 Economy 90 Three Wire Plug-In Pigtail Lamp",
+            "normalizedName": "Grote 67090 Economy 90 Three Wire Plug-In Pigtail Lamp",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B0057D8728": {
+            "asin": "B0057D8728",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Futuro Ultra Sheer Pantyhose for Women, Nude, Mild (8-15 mm/Hg)",
+            "normalizedName": "Futuro Ultra Sheer Pantyhose for Women, Nude, Mild (8-15 mm/Hg)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

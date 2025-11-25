@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002NGSIW6": {
+            "asin": "B002NGSIW6",
+            "height": {
+                "unit": "IN",
+                "value": 1.9
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.8
+            },
+            "name": "Atkins Endulge Treats, Chocolate Caramel Mousse Bar, 1.2 oz., 5 Count Bars",
+            "normalizedName": "Atkins Endulge Treats, Chocolate Caramel Mousse Bar, 1.2 oz., 5 Count Bars",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9
+            }
+        },
+        "B0141CBO0M": {
+            "asin": "B0141CBO0M",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "DR JK- Comprehensive Bunion Corrector & Bunion Relief ToePal kit-5 Piece Hallux Valgus & Bunion Pads, Toe Spacers, Toe Separators, Bunion Splint, Toe Straightener, Bunion Protector, Bunion Cushions",
+            "normalizedName": "DR JK- Comprehensive Bunion Corrector & Bunion Relief ToePal kit-5 Piece Hallux Valgus & Bunion Pads, Toe Spacers, Toe Separators, Bunion Splint, Toe Straightener, Bunion Protector, Bunion Cushions",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

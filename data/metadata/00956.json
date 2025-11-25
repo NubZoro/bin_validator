@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002LUTRCY": {
+            "asin": "B002LUTRCY",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Pro Chop, Cheater Chopstick Hinges #PCH-1",
+            "normalizedName": "Pro Chop, Cheater Chopstick Hinges #PCH-1",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00EMKKHRK": {
+            "asin": "B00EMKKHRK",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Xbox 360 Clear Full Parts Set (Thumbsticks, D-pad, Buttons, Triggers, Bumpers, Bottom Trim) for your controller (ABXY,Guide,Start, Back)",
+            "normalizedName": "Xbox 360 Clear Full Parts Set (Thumbsticks, D-pad, Buttons, Triggers, Bumpers, Bottom Trim) for your controller (ABXY,Guide,Start, Back)",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00OTBXSWI": {
+            "asin": "B00OTBXSWI",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Loc-Line 79054 Acetal HPT Nozzles (XR Style) with Adjustment Lever, 0.160\" x 0.5\", Thread Size 1/8\" (Pack of 11)",
+            "normalizedName": "(Pack of 11) Loc-Line 79054 Acetal HPT Nozzles (XR Style) with Adjustment Lever, 0.160\" x 0.5\", Thread Size 1/8\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00OTBY6Y2": {
+            "asin": "B00OTBY6Y2",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Loc-Line 79048 Acetal HPT Nozzles (XR Style), 0.117\", Thread Size 1/8\" (Pack of 10)",
+            "normalizedName": "(Pack of 10) Loc-Line 79048 Acetal HPT Nozzles (XR Style), 0.117\", Thread Size 1/8\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

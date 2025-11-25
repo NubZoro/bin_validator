@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GWSODHA": {
+            "asin": "B00GWSODHA",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Whitecoat Clipboard- Lilac - Nursing Edition",
+            "normalizedName": "Whitecoat Clipboard- Lilac - Nursing Edition",
+            "quantity": 16,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B015XW8128": {
+            "asin": "B015XW8128",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "GLW\u00ae 30W Remote Control RGB Flood Light, 4 Models with 16 Color Tones Spotlight, Dimmable Color Changing Outdoor Security Light",
+            "normalizedName": "GLW\u00ae 30W Remote Control RGB Flood Light, 4 Models with 16 Color Tones Spotlight, Dimmable Color Changing Outdoor Security Light",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.14999999819703
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 18
+}

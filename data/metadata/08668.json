@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000XJL3EU": {
+            "asin": "B000XJL3EU",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "Mysterious Kuddle Kup Cat Bed, Charcoal",
+            "normalizedName": "Mysterious Kuddle Kup Cat Bed, Charcoal",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B00J5HLZU8": {
+            "asin": "B00J5HLZU8",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "Nature's Variety Instinct Limited Ingredient Diet Grain-Free Lamb Meal & Peas Formula Dry Dog Food, 13.2 lb. Bag",
+            "normalizedName": "Nature's Variety Instinct Limited Ingredient Diet Grain-Free Lamb Meal & Peas Formula Dry Dog Food, 13.2 lb. Bag",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 13.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.699999986026
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

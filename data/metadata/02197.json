@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DCL6Q6Q": {
+            "asin": "B00DCL6Q6Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "name": "Oral IV Ultra Concentrate Hydration Fluid, 4-pack",
+            "normalizedName": "Oral IV Ultra Concentrate Hydration Fluid, 4-pack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00YJPUGQU": {
+            "asin": "B00YJPUGQU",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Samsung EP-TA20JWE/ECB-DU4EWE Adaptive Fast Charging Charger for Galaxy S6/Edge/Edge-6/Note 4 with Micro USB Charging Cable - White",
+            "normalizedName": "Samsung EP-TA20JWE/ECB-DU4EWE Adaptive Fast Charging Charger for Galaxy S6/Edge/Edge-6/Note 4 with Micro USB Charging Cable - White",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

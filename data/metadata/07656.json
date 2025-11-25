@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HIBZIBU": {
+            "asin": "B00HIBZIBU",
+            "height": {
+                "unit": "IN",
+                "value": 2.5196850368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.5354330642
+            },
+            "name": "ORICO 5 Port Super Charger with 12V 3A Power Adapter (ORICO DCP-5U-BK)",
+            "normalizedName": "ORICO 5 Port Super Charger with 12V 3A Power Adapter (ORICO DCP-5U-BK)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9259320498151443
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

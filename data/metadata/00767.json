@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009G7Z3XM": {
+            "asin": "B009G7Z3XM",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Johnny B Hair Gel, 8 Ounce",
+            "normalizedName": "Johnny B Hair Gel, 8 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00THRB1Q4": {
+            "asin": "B00THRB1Q4",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "MLB Mariners Bling Medium Die Cut Decal, 9 x 5\", Logo Color",
+            "normalizedName": "MLB Mariners Bling Medium Die Cut Decal, 9 x 5\", Logo Color",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00YNZK4OU": {
+            "asin": "B00YNZK4OU",
+            "height": {
+                "unit": "IN",
+                "value": 0.5299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Cousin Swarovski Create Your Style Crystal Beads-Bicone Birthstone Mix (26 Pack)",
+            "normalizedName": "(26 Pack) Cousin Swarovski Create Your Style Crystal Beads-Bicone Birthstone Mix",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B01AWRD0HK": {
+            "asin": "B01AWRD0HK",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "S7 Edge Case, Galaxy S7 Edge Case, SGM\u00ae Premium Hybrid High Impact *Shock Absorbent* Defender Case With Anti-Slip Grip For Galaxy S7 Edge",
+            "normalizedName": "S7 Edge Case, Galaxy S7 Edge Case, SGM\u00ae Premium Hybrid High Impact *Shock Absorbent* Defender Case With Anti-Slip Grip For Galaxy S7 Edge",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3999999965320002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

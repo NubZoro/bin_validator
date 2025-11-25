@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005K9CK": {
+            "asin": "B00005K9CK",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Neutrogena Healthy Skin Anti-Wrinkle Night Cream, 1.4 oz.",
+            "normalizedName": "Neutrogena Healthy Skin Anti-Wrinkle Night Cream, 1.4 oz.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

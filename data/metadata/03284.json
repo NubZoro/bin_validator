@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006UPHRKA": {
+            "asin": "B006UPHRKA",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Aurora World Sweet and Softer 12\" Rocky Raccoon",
+            "normalizedName": "Aurora World Sweet and Softer 12\" Rocky Raccoon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.485012026093647
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00MB1CX5G": {
+            "asin": "B00MB1CX5G",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Aurora World My Little Pony Spike Plush, 10\"",
+            "normalizedName": "Aurora World My Little Pony Spike Plush, 10\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B019O8ZAGW": {
+            "asin": "B019O8ZAGW",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Funko POP Heroes: Batman vs Superman - Superman Action Figure",
+            "normalizedName": "Funko POP Heroes: Batman vs Superman - Superman Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

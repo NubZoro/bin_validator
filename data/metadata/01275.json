@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002EAL58": {
+            "asin": "B0002EAL58",
+            "height": {
+                "unit": "IN",
+                "value": 3.699999996226
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Johnson Controls A19AAT-2C Freezer Temperature Controller",
+            "normalizedName": "Johnson Controls A19AAT-2C Freezer Temperature Controller",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B000EXROSE": {
+            "asin": "B000EXROSE",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Refrigerator or Freezer Thermostat (Temperature Controller)",
+            "normalizedName": "Refrigerator or Freezer Thermostat (Temperature Controller)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

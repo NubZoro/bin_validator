@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NYGVIEO": {
+            "asin": "B00NYGVIEO",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Gemmy Inflateables Holiday G08 87191 Air Blown Santa on Fire Scene Decor",
+            "normalizedName": "Gemmy Inflateables Holiday G08 87191 Air Blown Santa on Fire Scene Decor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B01DEM7DO6": {
+            "asin": "B01DEM7DO6",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Ohuhu Lawn Aerator Sandals with Metal Spikes, Free Size",
+            "normalizedName": "Ohuhu Lawn Aerator Sandals with Metal Spikes, Free Size",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

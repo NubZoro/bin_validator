@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1401218660": {
+            "asin": "1401218660",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Suicide Squad: From the Ashes",
+            "normalizedName": "Suicide Squad: From the Ashes",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

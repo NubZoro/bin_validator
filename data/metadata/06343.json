@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0199978468": {
+            "asin": "0199978468",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "The Jewish Study Bible: Second Edition",
+            "normalizedName": "The Jewish Study Bible: Second Edition",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2000000000000006
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "0825144914": {
+            "asin": "0825144914",
+            "height": {
+                "unit": "IN",
+                "value": 0.70078740086
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.70078739066
+            },
+            "name": "Understanding Psychology",
+            "normalizedName": "Understanding Psychology",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8500142973672
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.29921258996
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

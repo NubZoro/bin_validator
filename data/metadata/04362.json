@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00B2HH10M": {
+            "asin": "B00B2HH10M",
+            "height": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.9842519522
+            },
+            "name": "Disney Mickey Mouse: Fly N Slide Clubhouse",
+            "normalizedName": "Disney Mickey Mouse: Fly N Slide Clubhouse",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.0708661284
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

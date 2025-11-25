@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00T703I5S": {
+            "asin": "B00T703I5S",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.299999983374
+            },
+            "name": "Leathario Mens Leather Briefcases Laptop Tote Bags",
+            "normalizedName": "Leathario Mens Leather Briefcases Laptop Tote Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.799999986944
+            }
+        },
+        "B018ZT6LV4": {
+            "asin": "B018ZT6LV4",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "CGK Unlimited - Queen Size Sheet Set - 6 Piece Set - Hotel Luxury Bed Sheets - Extra Soft - Deep Pockets - Breathable & Cooling Sheets - Wrinkle Free - Beige Bed Sheets",
+            "normalizedName": "6 Piece Set CGK Unlimited - Queen Size Sheet Set - - Hotel Luxury Bed Sheets - Extra Soft - Deep Pockets - Breathable & Cooling Sheets - Wrinkle Free - Beige Bed Sheets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6999999968972146
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B01CW307D2": {
+            "asin": "B01CW307D2",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Premium American Pillowcase Massage Table Sheets - 3-piece Luxury Spa Quality Linens Sheet Set (White)",
+            "normalizedName": "Premium American Pillowcase Massage Table Sheets - 3-piece Luxury Spa Quality Linens Sheet Set (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6999999977358056
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

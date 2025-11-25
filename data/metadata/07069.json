@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000IGEPSO": {
+            "asin": "B000IGEPSO",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Heath Outdoor Products DD-23 Citrus Grove Suet Cake, Case Of 16",
+            "normalizedName": "Case Of 16 Heath Outdoor Products DD-23 Citrus Grove Suet Cake,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

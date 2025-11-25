@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FFJ5UFG": {
+            "asin": "B00FFJ5UFG",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Goody Round Straighten It Out Hair Brush- Quick Dry Ceramic (17131)",
+            "normalizedName": "Goody Round Straighten It Out Hair Brush- Quick Dry Ceramic (17131)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00P7S3U02": {
+            "asin": "B00P7S3U02",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "WIN Detergent Green 32oz (Pack of 2 Bottles)",
+            "normalizedName": "Pack of 2 WIN Detergent Green 32oz ( Bottles)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

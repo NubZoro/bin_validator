@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GAZBPI": {
+            "asin": "B000GAZBPI",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "name": "S.P. Richards Company Tally Counter with Base, Silver (SPR24200)",
+            "normalizedName": "S.P. Richards Company Tally Counter with Base, Silver (SPR24200)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B000VDVUA0": {
+            "asin": "B000VDVUA0",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.799999997144
+            },
+            "name": "Beanne Extra Pearl Cream Green - 0.3 oz (Solstice)",
+            "normalizedName": "Beanne Extra Pearl Cream Green - 0.3 oz (Solstice)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

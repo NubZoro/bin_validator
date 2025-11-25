@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K85X23O": {
+            "asin": "B00K85X23O",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "EVGA SuperNOVA 750 B1 80+ BRONZE, 750W Semi Modular 5 Year Warranty Power Supply 110-B1-0750-VR",
+            "normalizedName": "EVGA SuperNOVA 750 B1 80+ BRONZE, 750W Semi Modular 5 Year Warranty Power Supply 110-B1-0750-VR",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.400000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

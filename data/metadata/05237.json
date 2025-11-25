@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MXZML1G": {
+            "asin": "B00MXZML1G",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Sakroots Artist Circle Convertible Backpack, Hot Pink Flower Power, One Size",
+            "normalizedName": "Sakroots Artist Circle Convertible Backpack, Hot Pink Flower Power, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.49999998623
+            }
+        },
+        "B00SAJEUG8": {
+            "asin": "B00SAJEUG8",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "P36S2 1/2 Tray 36-pk/Insert Soil (Pack of 3)",
+            "normalizedName": "(Pack of 3) P36S2 1/2 Tray 36-pk/Insert Soil",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

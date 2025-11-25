@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000HG964S": {
+            "asin": "B000HG964S",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "100 - 9x12 Light Grey POLY VALUEMAILERS MAILERS ENVELOPES BAGS",
+            "normalizedName": "100 - 9x12 Light Grey POLY VALUEMAILERS MAILERS ENVELOPES BAGS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00CFX8UPW": {
+            "asin": "B00CFX8UPW",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Victorian Inn Creamer, Hazelnut, 12 Ounce (Pack of 6)",
+            "normalizedName": "(Pack of 6) Victorian Inn Creamer, Hazelnut, 12 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

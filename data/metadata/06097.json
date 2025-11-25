@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007ETG8CY": {
+            "asin": "B007ETG8CY",
+            "height": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.6692913328
+            },
+            "name": "Plus-Plus 1200-Piece Basic Assortment",
+            "normalizedName": "Plus-Plus 1200-Piece Basic Assortment",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5432200830252405
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6692913328
+            }
+        },
+        "B018C2OKYE": {
+            "asin": "B018C2OKYE",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Jamkik IPX6 Waterproof Portable Wireless Bluetooth Speaker with Built In Microphone/ Carrying Clip (Black)",
+            "normalizedName": "Jamkik IPX6 Waterproof Portable Wireless Bluetooth Speaker with Built In Microphone/ Carrying Clip (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

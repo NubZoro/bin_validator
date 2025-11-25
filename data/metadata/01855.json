@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CHEK8GS": {
+            "asin": "B00CHEK8GS",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.6141732216
+            },
+            "name": "Vulli Toy, Margot the Turtle",
+            "normalizedName": "Vulli Toy, Margot the Turtle",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400474429947
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8031496014
+            }
+        },
+        "B00EQ32DF2": {
+            "asin": "B00EQ32DF2",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.199999983475998
+            },
+            "name": "3 PIECE SET: Womens Cosy Fluffy Thermal Winter Scarf, Hat & Gloves Set - Black",
+            "normalizedName": "3 PIECE SET: Womens Cosy Fluffy Thermal Winter Scarf, Hat & Gloves Set - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B00PJ8GN3G": {
+            "asin": "B00PJ8GN3G",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Bamboobies Premium Super Soft Disposable Nursing Pads - Breathable Milk-Proof Backing - Eco-Friendly - 60 Disposable Nursing Pads",
+            "normalizedName": "Bamboobies Premium Super Soft Disposable Nursing Pads - Breathable Milk-Proof Backing - Eco-Friendly - 60 Disposable Nursing Pads",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

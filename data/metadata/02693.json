@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321921313": {
+            "asin": "0321921313",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Prentice Hall Reference Guide (9th Edition)",
+            "normalizedName": "Prentice Hall Reference Guide (9th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "0800733150": {
+            "asin": "0800733150",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Organizing Your Day: Time Management Techniques That Will Work for You",
+            "normalizedName": "Organizing Your Day: Time Management Techniques That Will Work for You",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "0811710556": {
+            "asin": "0811710556",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "The Face of Courage: The 98 Men Who Received the Knight's Cross and the Close-Combat Clasp in Gold (Stackpole Military History Series)",
+            "normalizedName": "The Face of Courage: The 98 Men Who Received the Knight's Cross and the Close-Combat Clasp in Gold (Stackpole Military History Series)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "0826410596": {
+            "asin": "0826410596",
+            "height": {
+                "unit": "IN",
+                "value": 0.79921259761
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.79921258945
+            },
+            "name": "The Enneagram and Spiritual Direction: Nine Paths to Spiritual Guidance",
+            "normalizedName": "The Enneagram and Spiritual Direction: Nine Paths to Spiritual Guidance",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000134563456
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.90157479713
+            }
+        },
+        "0826414168": {
+            "asin": "0826414168",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024
+            },
+            "name": "American Muslims: The New Generation Second Edition",
+            "normalizedName": "American Muslims: The New Generation Second Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

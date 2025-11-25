@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0096D6RHC": {
+            "asin": "B0096D6RHC",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Cleto Reyes Official Fight Boxing Gloves, Yellow, 8-Ounce",
+            "normalizedName": "Cleto Reyes Official Fight Boxing Gloves, Yellow, 8-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B0186QBZA8": {
+            "asin": "B0186QBZA8",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8188976288
+            },
+            "name": "Most Beautiful Moments in Life Part 2",
+            "normalizedName": "Most Beautiful Moments in Life Part 2",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054720373627935
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        },
+        "B01AOB3RXG": {
+            "asin": "B01AOB3RXG",
+            "height": {
+                "unit": "IN",
+                "value": 0.1181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.3464566895
+            },
+            "name": "TESLA Patch Sew Iron on Embroidered",
+            "normalizedName": "TESLA Patch Sew Iron on Embroidered",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.755905509
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

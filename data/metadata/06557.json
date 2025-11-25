@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003B2GTYU": {
+            "asin": "B003B2GTYU",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Polaroid PIC-300 Instant Film Camera (Red)",
+            "normalizedName": "Polaroid PIC-300 Instant Film Camera (Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9259320498151443
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00CAO444C": {
+            "asin": "B00CAO444C",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "SecureLine NPC5503210B 5/32-Inch X 100-Feet Military Grade 550 Nylon Paracord, Black",
+            "normalizedName": "SecureLine NPC5503210B 5/32-Inch X 100-Feet Military Grade 550 Nylon Paracord, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B013CO3N9A": {
+            "asin": "B013CO3N9A",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Zuke's G-Zees Salmon Grain-Free Cat Treats, 3-Ounce 4 Pack",
+            "normalizedName": "4 Pack Zuke's G-Zees Salmon Grain-Free Cat Treats, 3-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

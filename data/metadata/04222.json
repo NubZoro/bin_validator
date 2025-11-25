@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I9LCTSI": {
+            "asin": "B00I9LCTSI",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Clorox Disinfecting Wipes Value Pack, Fresh Scent and Citrus Blend, 225 Count - Amazon Vine",
+            "normalizedName": "Clorox Disinfecting Wipes Value Pack, Fresh Scent and Citrus Blend, 225 Count - Amazon Vine",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00J8UMNV2": {
+            "asin": "B00J8UMNV2",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "LD &copy; Dell Compatible C2660/C2665dnf Set of 4 High Yield Toner Cartridges Includes: 1 593-BBBU Black, 1 593-BBBT Cyan, 1 593-BBBS Magenta, and 1 593-BBBR Yellow",
+            "normalizedName": "Set of 4 LD &copy; Dell Compatible C2660/C2665dnf High Yield Toner Cartridges Includes: 1 593-BBBU Black, 1 593-BBBT Cyan, 1 593-BBBS Magenta, and 1 593-BBBR Yellow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1999999973165107
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

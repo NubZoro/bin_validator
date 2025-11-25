@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LOMOA7M": {
+            "asin": "B00LOMOA7M",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Santa's Reindeers 8 Inch Dessert Plate Set of 4 - Comet, Cupid, Blitzen and Donner",
+            "normalizedName": "Set of 4 Santa's Reindeers 8 Inch Dessert Plate - Comet, Cupid, Blitzen and Donner",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

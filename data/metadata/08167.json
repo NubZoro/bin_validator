@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004T4LRS2": {
+            "asin": "B004T4LRS2",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Waterford Wishes for Joy Flute, Premiere Edition",
+            "normalizedName": "Waterford Wishes for Joy Flute, Premiere Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B01DPC425S": {
+            "asin": "B01DPC425S",
+            "height": {
+                "unit": "IN",
+                "value": 4.549999995359
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.649999983017
+            },
+            "name": "KAKA Laptop Backpack Computer Bag Travel Backpack Hiking Bag Camping Bag Weekend Bag Travel Backpack School Bag College Bag Book Bag Satchel Black",
+            "normalizedName": "KAKA Laptop Backpack Computer Bag Travel Backpack Hiking Bag Camping Bag Weekend Bag Travel Backpack School Bag College Bag Book Bag Satchel Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.36999999801254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.449999987300998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

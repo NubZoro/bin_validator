@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ZA07SZA": {
+            "asin": "B00ZA07SZA",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Adorable \"I Love You to the Moon and Back\" Engraved Pendant Charm Bracelet",
+            "normalizedName": "Adorable \"I Love You to the Moon and Back\" Engraved Pendant Charm Bracelet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B012OAA7SI": {
+            "asin": "B012OAA7SI",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Vera Bradley US Office Product Ball Point Pen in Parisian Paisley (11002-340)",
+            "normalizedName": "Vera Bradley US Office Product Ball Point Pen in Parisian Paisley (11002-340)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

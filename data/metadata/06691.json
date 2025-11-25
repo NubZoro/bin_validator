@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008WMPBKM": {
+            "asin": "B008WMPBKM",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Adidas aS101s Lycra Solid Wrestling Singlet - Navy - Medium",
+            "normalizedName": "Adidas aS101s Lycra Solid Wrestling Singlet - Navy - Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00C5GBHBS": {
+            "asin": "B00C5GBHBS",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Cutters Gloves Adult The ShockSkin Gamer Streamlined Glove, Royal, Small",
+            "normalizedName": "Cutters Gloves Adult The ShockSkin Gamer Streamlined Glove, Royal, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00QA9IAE8": {
+            "asin": "B00QA9IAE8",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "19Watt 5/6-inch High CRI Wet Location Dimmable Retrofit LED Recessed Lighting Fixture, Energy Star UL-classified 120W Equivalent Ceiling Light, 2700K Soft White 1200lm Remodel Recessed Downlight",
+            "normalizedName": "19Watt 5/6-inch High CRI Wet Location Dimmable Retrofit LED Recessed Lighting Fixture, Energy Star UL-classified 120W Equivalent Ceiling Light, 2700K Soft White 1200lm Remodel Recessed Downlight",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B01DUJ541C": {
+            "asin": "B01DUJ541C",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "iPhone 6 Plus Case, iPhone 6s Plus Case, iMangoo Shockproof Protective Soft Bumper iPhone 6 Plus Durable Kickstand Shell Stylish Ring Drop Resistance Cases for Apple iPhone 6/6s Plus 5.5'' Gold",
+            "normalizedName": "iPhone 6 Plus Case, iPhone 6s Plus Case, iMangoo Shockproof Protective Soft Bumper iPhone 6 Plus Durable Kickstand Shell Stylish Ring Drop Resistance Cases for Apple iPhone 6/6s Plus 5.5'' Gold",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

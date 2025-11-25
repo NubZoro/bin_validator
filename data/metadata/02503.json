@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002DUD6ZQ": {
+            "asin": "B002DUD6ZQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "CytoSport Cytomax Sport Energy Drink, Pomegranate Berry, 4.5 Pound",
+            "normalizedName": "CytoSport Cytomax Sport Energy Drink, Pomegranate Berry, 4.5 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B0184VSPB2": {
+            "asin": "B0184VSPB2",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "TOSSWARE 18oz Shatterproof Beer & Cocktail Glass, SET OF 12 BPA-Free Upscale Recyclable/Disposable Plastic Beer Pints",
+            "normalizedName": "TOSSWARE 18oz Shatterproof Beer & Cocktail Glass, SET OF 12 BPA-Free Upscale Recyclable/Disposable Plastic Beer Pints",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

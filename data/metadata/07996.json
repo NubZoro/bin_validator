@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00V86BJX2": {
+            "asin": "B00V86BJX2",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Charizard amiibo (Super Smash Bros Series)",
+            "normalizedName": "Charizard amiibo (Super Smash Bros Series)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

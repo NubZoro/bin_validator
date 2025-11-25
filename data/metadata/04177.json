@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GG85FU": {
+            "asin": "B000GG85FU",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Blue Lizard Australian Sunscreen SPF 30+, Baby, 3-Ounce Tube",
+            "normalizedName": "Blue Lizard Australian Sunscreen SPF 30+, Baby, 3-Ounce Tube",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00KV8U20O": {
+            "asin": "B00KV8U20O",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "GE 9003 NHS/BP2 Nighthawk Sport Replacement Bulb, (Pack of 2)",
+            "normalizedName": "(Pack of 2) GE 9003 NHS/BP2 Nighthawk Sport Replacement Bulb,",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00V03Z0V0": {
+            "asin": "B00V03Z0V0",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Spoontiques Ninja Turtles Travel Mug, Multicolor",
+            "normalizedName": "Spoontiques Ninja Turtles Travel Mug, Multicolor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

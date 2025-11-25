@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0134522184": {
+            "asin": "0134522184",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Starting Out with Visual Basic Plus MyProgrammingLab with Pearson eText -- Access Card Package (7th Edition)",
+            "normalizedName": "Starting Out with Visual Basic Plus MyProgrammingLab with Pearson eText -- Access Card Package (7th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.874999992557509
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "1484752619": {
+            "asin": "1484752619",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Disney Baby My First Words",
+            "normalizedName": "Disney Baby My First Words",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B014FEDDY6": {
+            "asin": "B014FEDDY6",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Amaonm\u00ae 19 Pcs Removable Diy Pvc 3d Colorful Butterfly Wall Sticker Murals Wall Decals Wall Decorations Art Decor Decal for Nursery Room Classroom Offices Kids Bedroom Bathroom Living Room(color B)",
+            "normalizedName": "Amaonm\u00ae 19 Pcs Removable Diy Pvc 3d Colorful Butterfly Wall Sticker Murals Wall Decals Wall Decorations Art Decor Decal for Nursery Room Classroom Offices Kids Bedroom Bathroom Living Room(color B)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13999999988259734
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

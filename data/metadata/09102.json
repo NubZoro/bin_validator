@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000589UV": {
+            "asin": "B0000589UV",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Nature of Music 6",
+            "normalizedName": "Nature of Music 6",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770752888384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B001KYO6M8": {
+            "asin": "B001KYO6M8",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Scotch-Brite Multi-purpose Non-scratch Scrub Sponge (9-pack)",
+            "normalizedName": "Scotch-Brite Multi-purpose Non-scratch Scrub Sponge (9-pack)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00AO7DCLI": {
+            "asin": "B00AO7DCLI",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "name": "Horizon",
+            "normalizedName": "Horizon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26455201423289837
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9606299162
+            }
+        },
+        "B00KVQUMKQ": {
+            "asin": "B00KVQUMKQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Shepherd Hardware 3946 2-Inch Adhesive, Triangle, Slide Glide Furniture Sliders, 4-Pack",
+            "normalizedName": "4-Pack Shepherd Hardware 3946 2-Inch Adhesive, Triangle, Slide Glide Furniture Sliders,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00TV6BTX6": {
+            "asin": "B00TV6BTX6",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Nightingale",
+            "normalizedName": "Nightingale",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

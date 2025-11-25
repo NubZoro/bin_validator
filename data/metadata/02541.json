@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1439129061": {
+            "asin": "1439129061",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "The Chemistry of Calm: A Powerful, Drug-Free Plan to Quiet Your Fears and Overcome Your Anxiety",
+            "normalizedName": "The Chemistry of Calm: A Powerful, Drug-Free Plan to Quiet Your Fears and Overcome Your Anxiety",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B002HI4GYE": {
+            "asin": "B002HI4GYE",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Performers 1st Choice Nylon German Martingale Rein Set",
+            "normalizedName": "Performers 1st Choice Nylon German Martingale Rein Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

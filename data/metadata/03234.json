@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002NGMEVC": {
+            "asin": "B002NGMEVC",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "BaByliss Pro BABTTW5586 TT Tourmaline Titanium 5000 Dryer",
+            "normalizedName": "BaByliss Pro BABTTW5586 TT Tourmaline Titanium 5000 Dryer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B002QCERWW": {
+            "asin": "B002QCERWW",
+            "height": {
+                "unit": "IN",
+                "value": 2.799999997144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802
+            },
+            "name": "13.75 Inches High Jesus on the Cross-crucifix By Joseph's Studio 11359",
+            "normalizedName": "13.75 Inches High Jesus on the Cross-crucifix By Joseph's Studio 11359",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B008LXRB7S": {
+            "asin": "B008LXRB7S",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Guardian Fall Protection 1703 Velocity Economy Harness HUV Pass Thru Chest and Tongue Buckle Legs, Small/Large",
+            "normalizedName": "Guardian Fall Protection 1703 Velocity Economy Harness HUV Pass Thru Chest and Tongue Buckle Legs, Small/Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

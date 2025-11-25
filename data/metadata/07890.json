@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00J8WK1GO": {
+            "asin": "B00J8WK1GO",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "LUNASIDUS Bergamo, Luxury Hotel / Spa Washcloths, 100 Percent Turkish Cotton, Set of 12, White",
+            "normalizedName": "Set of 12 LUNASIDUS Bergamo, Luxury Hotel / Spa Washcloths, 100 Percent Turkish Cotton, , White",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.49999998623
+            }
+        },
+        "B00Z69JKLA": {
+            "asin": "B00Z69JKLA",
+            "height": {
+                "unit": "IN",
+                "value": 4.9606299162
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.2755905356
+            },
+            "name": "Fisher-Price Imaginext DC Super Friends Hall of Justice",
+            "normalizedName": "Fisher-Price Imaginext DC Super Friends Hall of Justice",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3069001751380944
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.6771653414
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

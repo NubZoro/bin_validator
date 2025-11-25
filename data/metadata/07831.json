@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1504965655": {
+            "asin": "1504965655",
+            "height": {
+                "unit": "IN",
+                "value": 0.27
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.02
+            },
+            "name": "Fun with Corks After the Wine",
+            "normalizedName": "Fun with Corks After the Wine",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.74
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.5
+            }
+        },
+        "B001BSX1EM": {
+            "asin": "B001BSX1EM",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Calphalon Nonstick Bakeware Set, 6-Pieces",
+            "normalizedName": "Calphalon Nonstick Bakeware Set, 6-Pieces",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.649999995261963
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B01CF5AQ88": {
+            "asin": "B01CF5AQ88",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.299999983374
+            },
+            "name": "Plantar Fasciitis Therapy Solution - Nighttime Plantar Fasciitis Therapy Boot and Daytime Arch Support Wrap / Sock - Large",
+            "normalizedName": "Plantar Fasciitis Therapy Solution - Nighttime Plantar Fasciitis Therapy Boot and Daytime Arch Support Wrap / Sock - Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

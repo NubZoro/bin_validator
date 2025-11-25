@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00173MSPY": {
+            "asin": "B00173MSPY",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Intellinet Network Solutions Cat5e RJ-45 Male/RJ-45 Male UTP Network Patch Cable, 14-Feet (319836)",
+            "normalizedName": "Intellinet Network Solutions Cat5e RJ-45 Male/RJ-45 Male UTP Network Patch Cable, 14-Feet (319836)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00J4T6ZHK": {
+            "asin": "B00J4T6ZHK",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Fisher-Price Imaginext Alpha Pod",
+            "normalizedName": "Fisher-Price Imaginext Alpha Pod",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999744817536274
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.249999993625
+            }
+        },
+        "B01FLXPWFS": {
+            "asin": "B01FLXPWFS",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "Jade Li Hing Powder (Dried Plum) 10 ounce bag",
+            "normalizedName": "Jade Li Hing Powder (Dried Plum) 10 ounce bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.625
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

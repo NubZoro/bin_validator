@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00004SGFH": {
+            "asin": "B00004SGFH",
+            "height": {
+                "unit": "IN",
+                "value": 4.2519684996
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8188976288
+            },
+            "name": "KitchenAid FGA Food Grinder Attachment for Stand Mixers",
+            "normalizedName": "KitchenAid FGA Food Grinder Attachment for Stand Mixers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0282321074180314
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.5590551104
+            }
+        },
+        "B015CPSC02": {
+            "asin": "B015CPSC02",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.6062992028
+            },
+            "name": "Mega Bloks Teenage Mutant Ninja Turtles Baxter Mutation Lab Playset",
+            "normalizedName": "Mega Bloks Teenage Mutant Ninja Turtles Baxter Mutation Lab Playset",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.1417322772
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

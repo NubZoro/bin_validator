@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001QGGNPS": {
+            "asin": "B001QGGNPS",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.3543307032
+            },
+            "name": "Duck Tub Tattoo",
+            "normalizedName": "Duck Tub Tattoo",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001186074865
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0157480274
+            }
+        },
+        "B011HGAHWG": {
+            "asin": "B011HGAHWG",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Hydracol Vitamin C Serum, Natural Organic Moisturizer with Hyaluronic Acid, Anti Aging",
+            "normalizedName": "Hydracol Vitamin C Serum, Natural Organic Moisturizer with Hyaluronic Acid, Anti Aging",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

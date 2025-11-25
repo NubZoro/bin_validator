@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007KWXFK8": {
+            "asin": "B007KWXFK8",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "IAMS Filets Variety Pack With Salmon and Tuna in Sauce Canned Cat Food 3 Ounces (Pack of 12)",
+            "normalizedName": "(Pack of 12) IAMS Filets Variety Pack With Salmon and Tuna in Sauce Canned Cat Food 3 Ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00LD6KJTC": {
+            "asin": "B00LD6KJTC",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Nerf N-Strike Mega BigShock Blaster",
+            "normalizedName": "Nerf N-Strike Mega BigShock Blaster",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

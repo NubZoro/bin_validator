@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00T69VDQQ": {
+            "asin": "B00T69VDQQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.8582677126
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8188976288
+            },
+            "name": "Fisher-Price Imaginext DC Super Friends The Penguin Copter",
+            "normalizedName": "Fisher-Price Imaginext DC Super Friends The Penguin Copter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9700240513738411
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.7165354252
+            }
+        },
+        "B00UTD2CNG": {
+            "asin": "B00UTD2CNG",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Panasonic ES-ED50-N Multi-Functional Wet/Dry Shaver and Epilator for Women, Women's with Four Hair Removal Attachments and Travel Pouch",
+            "normalizedName": "Panasonic ES-ED50-N Multi-Functional Wet/Dry Shaver and Epilator for Women, Women's with Four Hair Removal Attachments and Travel Pouch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

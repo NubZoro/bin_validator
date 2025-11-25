@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HQD7R00": {
+            "asin": "B00HQD7R00",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Zocks Print Helmet Cover by OV - (809 Flow Zebra, One)",
+            "normalizedName": "Zocks Print Helmet Cover by OV - (809 Flow Zebra, One)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B01FWTHU7O": {
+            "asin": "B01FWTHU7O",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Source One Tri Fold Brochure Holder 4X9 (1 Pack, Blue)",
+            "normalizedName": "1 Pack Source One Tri Fold Brochure Holder 4X9 ( , Blue)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

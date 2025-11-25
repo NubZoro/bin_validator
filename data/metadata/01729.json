@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KGGH0UQ": {
+            "asin": "B00KGGH0UQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "J.R. Liggett's Old Fashioned Shampoo Bar 3.5 Ounces (Variety 3 Pack)",
+            "normalizedName": "3 Pack J.R. Liggett's Old Fashioned Shampoo Bar 3.5 Ounces (Variety )",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01EFGBM9W": {
+            "asin": "B01EFGBM9W",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Credit Card Wallet,YOUNA Rfid Blocking Genuine Leather Credit Card Wallet for Women With ID Window Dark Blue",
+            "normalizedName": "Credit Card Wallet,YOUNA Rfid Blocking Genuine Leather Credit Card Wallet for Women With ID Window Dark Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228198
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B01G2Z4GKQ": {
+            "asin": "B01G2Z4GKQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "LCD Touch Screen Digitizer Frame Assembly Full Set LCD Touch Screen Replacement for iPhone 5 5G (White)",
+            "normalizedName": "LCD Touch Screen Digitizer Frame Assembly Full Set LCD Touch Screen Replacement for iPhone 5 5G (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.21999999981551008
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

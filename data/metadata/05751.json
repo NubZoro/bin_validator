@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1419708694": {
+            "asin": "1419708694",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Eddie Trunk's Essential Hard Rock and Heavy Metal Volume II",
+            "normalizedName": "Eddie Trunk's Essential Hard Rock and Heavy Metal Volume II",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00CWK2G4Y": {
+            "asin": "B00CWK2G4Y",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Funny Guy Mugs Mooning Gnome Statue",
+            "normalizedName": "Funny Guy Mugs Mooning Gnome Statue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00ZE6NQHE": {
+            "asin": "B00ZE6NQHE",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Brushed Stainless Steel Salt Mill and Pepper Grinder Set With Glass Bottle - Isa Cucina",
+            "normalizedName": "Brushed Stainless Steel Salt Mill and Pepper Grinder Set With Glass Bottle - Isa Cucina",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B015QZNE4M": {
+            "asin": "B015QZNE4M",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "WWE Figure 2-Pack, Enzo & Big Cass",
+            "normalizedName": "2-Pack WWE Figure , Enzo & Big Cass",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006SVK1VS": {
+            "asin": "B006SVK1VS",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "BUNN 12-Cup Glass Coffee Decanter, Black",
+            "normalizedName": "BUNN 12-Cup Glass Coffee Decanter, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

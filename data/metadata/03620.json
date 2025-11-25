@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NBK9XL8": {
+            "asin": "B00NBK9XL8",
+            "height": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Barilla Whole Grain Penne Pasta, 13.25 oz, 8 count",
+            "normalizedName": "Barilla Whole Grain Penne Pasta, 13.25 oz, 8 count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.449999993752501
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B01DJKPIX6": {
+            "asin": "B01DJKPIX6",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Hoover Multi-Color LED Accent Lights with Remote Control (5 pack)",
+            "normalizedName": "Hoover Multi-Color LED Accent Lights with Remote Control (5 pack)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

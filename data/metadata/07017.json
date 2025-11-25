@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GR4Q16": {
+            "asin": "B000GR4Q16",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Wiss A11N 2-1/2-Inch Cut Capacity 9-3/4-Inch Straight Pattern Tinner's Snip",
+            "normalizedName": "Wiss A11N 2-1/2-Inch Cut Capacity 9-3/4-Inch Straight Pattern Tinner's Snip",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "B00CI6J5JQ": {
+            "asin": "B00CI6J5JQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.599999984088
+            },
+            "name": "Crayola; Inspiration Art Case; Art Tools; 140 Pieces; Crayons; Colored Pencils; Washable Markers; Paper; Portable Storage",
+            "normalizedName": "Crayola; Inspiration Art Case; Art Tools; 140 Pieces; Crayons; Colored Pencils; Washable Markers; Paper; Portable Storage",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B00L3DL53O": {
+            "asin": "B00L3DL53O",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Stephen Joseph Boys 2-7 Quilted Backpack, Firetruck, One Size Color: Firetruck Size: One Size Toy, Kids, Play, Children",
+            "normalizedName": "Stephen Joseph Boys 2-7 Quilted Backpack, Firetruck, One Size Color: Firetruck Size: One Size Toy, Kids, Play, Children",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988066
+            }
+        },
+        "B00ZSJMPLU": {
+            "asin": "B00ZSJMPLU",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "LEGO Ideas WALL E 21303 Building Kit",
+            "normalizedName": "LEGO Ideas WALL E 21303 Building Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

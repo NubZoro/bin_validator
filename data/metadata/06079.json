@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00H56KCUU": {
+            "asin": "B00H56KCUU",
+            "height": {
+                "unit": "IN",
+                "value": 0.9448818888
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.6692913328
+            },
+            "name": "Maybelline New York Baby Skin Instant Pore Eraser Primer, 0.67 Fluid Ounce",
+            "normalizedName": "Maybelline New York Baby Skin Instant Pore Eraser Primer, 0.67 Fluid Ounce",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400467034919
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.755905509
+            }
+        },
+        "B00JKDH7WM": {
+            "asin": "B00JKDH7WM",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "Lifestyles Skyn Selection Condoms, 24 Count",
+            "normalizedName": "Lifestyles Skyn Selection Condoms, 24 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B017A6GMUS": {
+            "asin": "B017A6GMUS",
+            "height": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.7007873978
+            },
+            "name": "180 Cosmetics Salt and Oil Body Scrub, Pink Candy, 8.45 Oz",
+            "normalizedName": "180 Cosmetics Salt and Oil Body Scrub, Pink Candy, 8.45 Oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9700240513738411
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7007873978
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

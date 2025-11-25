@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1433549816": {
+            "asin": "1433549816",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "ESV Reader's Gospels (Cloth over Board, Timeless)",
+            "normalizedName": "ESV Reader's Gospels (Cloth over Board, Timeless)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B0002438IA": {
+            "asin": "B0002438IA",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Lenox Tools 3008080L Bi-Metal Speed Slot Hole Saw, 5-Inch",
+            "normalizedName": "Lenox Tools 3008080L Bi-Metal Speed Slot Hole Saw, 5-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B007HEATZI": {
+            "asin": "B007HEATZI",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Rothco Reflective T-Shirt (Security), 2X",
+            "normalizedName": "Rothco Reflective T-Shirt (Security), 2X",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

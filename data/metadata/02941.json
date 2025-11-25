@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002IEZJMA": {
+            "asin": "B002IEZJMA",
+            "height": {
+                "unit": "IN",
+                "value": 4.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8
+            },
+            "name": "illy issimo Coffee Drink, Caff\u00e8, 6.8-Ounce Cans (Pack of 12)",
+            "normalizedName": "(Pack of 12) illy issimo Coffee Drink, Caff\u00e8, 6.8-Ounce Cans",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.5
+            }
+        },
+        "B00TU8DEC4": {
+            "asin": "B00TU8DEC4",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Laser and Inkjet Printer Postcards 4 up Per Page, (400 Cards) White, Same Size As Avery 05689 - Avery 08387",
+            "normalizedName": "Laser and Inkjet Printer Postcards 4 up Per Page, (400 Cards) White, Same Size As Avery 05689 - Avery 08387",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00X99RMNW": {
+            "asin": "B00X99RMNW",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "The Sentinel [Blu-ray]",
+            "normalizedName": "The Sentinel [Blu-ray]",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

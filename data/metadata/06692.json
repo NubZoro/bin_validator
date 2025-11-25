@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JBKMYAE": {
+            "asin": "B00JBKMYAE",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Rockin Beads Brand, 200 Curved Tube Beads 3x30mm Silver Plated Smooth Spacer Metal Bead 2mm Hole Pkg of 200",
+            "normalizedName": "Rockin Beads Brand, 200 Curved Tube Beads 3x30mm Silver Plated Smooth Spacer Metal Bead 2mm Hole Pkg of 200",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00QJFJFM4": {
+            "asin": "B00QJFJFM4",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Terrasoul Superfoods Organic Hemp Seeds (Shelled), 24-ounce",
+            "normalizedName": "Terrasoul Superfoods Organic Hemp Seeds (Shelled), 24-ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

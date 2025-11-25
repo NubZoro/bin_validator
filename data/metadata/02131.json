@@ -1,0 +1,181 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0226731448": {
+            "asin": "0226731448",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Capitalist Development and Democracy",
+            "normalizedName": "Capitalist Development and Democracy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "061877713X": {
+            "asin": "061877713X",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Gym Candy",
+            "normalizedName": "Gym Candy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "0809001055": {
+            "asin": "0809001055",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "The Urban Nation (The Making of America)",
+            "normalizedName": "The Urban Nation (The Making of America)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "0825435862": {
+            "asin": "0825435862",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "The Post-Racial Church: A Biblical Framework for Multiethnic Reconciliation",
+            "normalizedName": "The Post-Racial Church: A Biblical Framework for Multiethnic Reconciliation",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "1576600785": {
+            "asin": "1576600785",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514
+            },
+            "name": "Tales from the Boom-Boom Room: Women vs. Wall Street",
+            "normalizedName": "Tales from the Boom-Boom Room: Women vs. Wall Street",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "1581820348": {
+            "asin": "1581820348",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Daring and Suffering: A History of the Andrews Railroad Raid",
+            "normalizedName": "Daring and Suffering: A History of the Andrews Railroad Raid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B000K2VE1M": {
+            "asin": "B000K2VE1M",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Scottish Christmas Celebration",
+            "normalizedName": "Scottish Christmas Celebration",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B007395TJS": {
+            "asin": "B007395TJS",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Cinematic Titanic Presents: Santa Claus Conquers the Martians",
+            "normalizedName": "Cinematic Titanic Presents: Santa Claus Conquers the Martians",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

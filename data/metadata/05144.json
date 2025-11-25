@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1421585847": {
+            "asin": "1421585847",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.4015747956
+            },
+            "name": "One Piece, Vol. 78",
+            "normalizedName": "One Piece, Vol. 78",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200233517459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9606299162
+            }
+        },
+        "B00DF6OOBM": {
+            "asin": "B00DF6OOBM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Tajin Clasico Seasoning With Lime, 14 Ounce (Pack of 2)",
+            "normalizedName": "(Pack of 2) Tajin Clasico Seasoning With Lime, 14 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B0196ADCT0": {
+            "asin": "B0196ADCT0",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Flag Mini Small Boxing Gloves to Hang Over Car Automobile Mirror \u2013 Americas (Country: USA)",
+            "normalizedName": "Flag Mini Small Boxing Gloves to Hang Over Car Automobile Mirror \u2013 Americas (Country: USA)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

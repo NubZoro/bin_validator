@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B018RUP3V0": {
+            "asin": "B018RUP3V0",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.399999983272
+            },
+            "name": "Bellotte Large Diaper Tote Satchel Bags With Shoulder Straps",
+            "normalizedName": "Bellotte Large Diaper Tote Satchel Bags With Shoulder Straps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0099999974758425
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

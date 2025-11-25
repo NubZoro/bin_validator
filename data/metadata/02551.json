@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K7BCWEE": {
+            "asin": "B00K7BCWEE",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Adventures of Ichabod & Mr. Toad",
+            "normalizedName": "Adventures of Ichabod & Mr. Toad",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01FCHQ34W": {
+            "asin": "B01FCHQ34W",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Adorable French Bulldog Frenchies With Bone Kennel 12oz Ceramic Mug Coffee Cup Home & Kitchen Decor Accessory",
+            "normalizedName": "Adorable French Bulldog Frenchies With Bone Kennel 12oz Ceramic Mug Coffee Cup Home & Kitchen Decor Accessory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

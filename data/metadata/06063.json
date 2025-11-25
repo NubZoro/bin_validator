@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0033G9NT2": {
+            "asin": "B0033G9NT2",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.1574802995
+            },
+            "name": "Painkiller (Ogv) [Vinyl]",
+            "normalizedName": "Painkiller (Ogv) [Vinyl]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.63
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.6771653414
+            }
+        },
+        "B00CQAZNDQ": {
+            "asin": "B00CQAZNDQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Tate's Bake Shop All Natural Oatmeal Raisin Cookies 7oz (Pack of 3)",
+            "normalizedName": "(Pack of 3) Tate's Bake Shop All Natural Oatmeal Raisin Cookies 7oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B017C5Q5DQ": {
+            "asin": "B017C5Q5DQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.023622036
+            },
+            "name": "mDesign Silverware, Flatware Caddy Organizer for Kitchen Countertop Storage, Dining Table - Clear",
+            "normalizedName": "mDesign Silverware, Flatware Caddy Organizer for Kitchen Countertop Storage, Dining Table - Clear",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8818400467034918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.086614166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

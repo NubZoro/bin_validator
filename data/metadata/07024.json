@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00UM9UCE8": {
+            "asin": "B00UM9UCE8",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "FRAM CF11819 Fresh Breeze Cabin Air Filter",
+            "normalizedName": "FRAM CF11819 Fresh Breeze Cabin Air Filter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00WXVISQW": {
+            "asin": "B00WXVISQW",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Rawlings Heart of the Hide Players Series Baseball Gloves, Red, 11.75\", Left Hand",
+            "normalizedName": "Rawlings Heart of the Hide Players Series Baseball Gloves, Red, 11.75\", Left Hand",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B01E1D5N80": {
+            "asin": "B01E1D5N80",
+            "height": {
+                "unit": "IN",
+                "value": 0.7
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.2
+            },
+            "name": "Egiant-Macbook 12\" Retina New Case(A1534) - Rubberized Hard Shell Protective Case With Soft Keyboard Skin Cover For Macbook 12 Inch With Retina Display(Purple)",
+            "normalizedName": "Egiant-Macbook 12\" Retina New Case(A1534) - Rubberized Hard Shell Protective Case With Soft Keyboard Skin Cover For Macbook 12 Inch With Retina Display(Purple)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 7.9
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

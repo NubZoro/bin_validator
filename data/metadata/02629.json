@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GOZZBE": {
+            "asin": "B000GOZZBE",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Lettering Aid Template",
+            "normalizedName": "Lettering Aid Template",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00AJCNN8K": {
+            "asin": "B00AJCNN8K",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Fisher-Price Thomas the Train Wooden Railway Happy Birthday",
+            "normalizedName": "Fisher-Price Thomas the Train Wooden Railway Happy Birthday",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B018I2IVIE": {
+            "asin": "B018I2IVIE",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Smiling Shark XB-E6 1000 Lumens Adjustable Focus Zoomable Handheld Flashlight, Super Bright CREE XML-T6 LED Flashlights, Water Resistant Camping Torch for Outdoor Sports, Black",
+            "normalizedName": "Smiling Shark XB-E6 1000 Lumens Adjustable Focus Zoomable Handheld Flashlight, Super Bright CREE XML-T6 LED Flashlights, Water Resistant Camping Torch for Outdoor Sports, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2599999997819665
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995205999
+            }
+        },
+        "B01DTZKOGM": {
+            "asin": "B01DTZKOGM",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Morecoo Art LED Desk Lamp with Flexible Neck USB Rechargeable Eye-care Night Lights(Blue)",
+            "normalizedName": "Morecoo Art LED Desk Lamp with Flexible Neck USB Rechargeable Eye-care Night Lights(Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.539999999547161
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

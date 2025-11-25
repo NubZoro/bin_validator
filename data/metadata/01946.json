@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003AOFNM8": {
+            "asin": "B003AOFNM8",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Genuine Bayer Aspirin 50/2s - 50 packets of 2",
+            "normalizedName": "Genuine Bayer Aspirin 50/2s - 50 packets of 2",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00ND1ZB3Y": {
+            "asin": "B00ND1ZB3Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "J&J Fashion Stainless Steel Business Name Card Case Holder - Curve",
+            "normalizedName": "J&J Fashion Stainless Steel Business Name Card Case Holder - Curve",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B0141Y4IRG": {
+            "asin": "B0141Y4IRG",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Car Charger, Jelly Comb&reg; 6 Ports 65W/13A Lightning Car Charger W Smart Identification Technology for Apple, Android and Other USB Powered Devices",
+            "normalizedName": "Car Charger, Jelly Comb&reg; 6 Ports 65W/13A Lightning Car Charger W Smart Identification Technology for Apple, Android and Other USB Powered Devices",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

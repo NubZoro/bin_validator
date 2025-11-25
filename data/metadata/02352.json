@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IF1W45U": {
+            "asin": "B00IF1W45U",
+            "height": {
+                "unit": "IN",
+                "value": 3.149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.74803148
+            },
+            "name": "PLAYMOBIL Advent Calendar \"Fire Rescue Operation\" Set with Card Game",
+            "normalizedName": "PLAYMOBIL Advent Calendar \"Fire Rescue Operation\" Set with Card Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7196056436
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.81102361
+            }
+        },
+        "B00YU4M316": {
+            "asin": "B00YU4M316",
+            "height": {
+                "unit": "IN",
+                "value": 3.29921259506
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Bluedio BS-3 (Camel) Portable Bluetooth Wireless Stereo Speaker with Microphone for Calls,Gold",
+            "normalizedName": "Bluedio BS-3 (Camel) Portable Bluetooth Wireless Stereo Speaker with Microphone for Calls,Gold",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.425084882
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.40157479662
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0310752795": {
+            "asin": "0310752795",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "NKJV, Teen Study Bible, Imitation Leather, Gray",
+            "normalizedName": "NKJV, Teen Study Bible, Imitation Leather, Gray",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

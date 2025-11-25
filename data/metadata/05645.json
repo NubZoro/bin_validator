@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0073513903": {
+            "asin": "0073513903",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "The Physics of Everyday Phenomena",
+            "normalizedName": "The Physics of Everyday Phenomena",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B000WJVVF2": {
+            "asin": "B000WJVVF2",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "Warp Brothers SP-4CH10-C 4 Mil Carry Home Coverall Clear Plastic Sheeting, 10-Foot by 25-Foot",
+            "normalizedName": "Warp Brothers SP-4CH10-C 4 Mil Carry Home Coverall Clear Plastic Sheeting, 10-Foot by 25-Foot",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00YOI20FW": {
+            "asin": "B00YOI20FW",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Fetco Home Decor Dennisport Reclaimed Wood with Linen Liner Photo Frame, 8 x 10\", Blue",
+            "normalizedName": "Fetco Home Decor Dennisport Reclaimed Wood with Linen Liner Photo Frame, 8 x 10\", Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988065999
+            }
+        },
+        "B016N85VTW": {
+            "asin": "B016N85VTW",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862
+            },
+            "name": "\"Love Heart\" - Valentine - Garden Size, 12 Inch X 18 Inch, Decorative Double Sided Flag",
+            "normalizedName": "\"Love Heart\" - Valentine - Garden Size, 12 Inch X 18 Inch, Decorative Double Sided Flag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00252BSWK": {
+            "asin": "B00252BSWK",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Mann-Filter C 28 125 Air Filter",
+            "normalizedName": "Mann-Filter C 28 125 Air Filter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B0144OSZ40": {
+            "asin": "B0144OSZ40",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Party Essentials N342561 Hard Plastic 160-Ounce Serving Bowl, Red",
+            "normalizedName": "Party Essentials N342561 Hard Plastic 160-Ounce Serving Bowl, Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B01C5TFAU8": {
+            "asin": "B01C5TFAU8",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Little Tikes Count 'n Play Cash Register Playset",
+            "normalizedName": "Little Tikes Count 'n Play Cash Register Playset",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

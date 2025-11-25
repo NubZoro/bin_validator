@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005BZNF42": {
+            "asin": "B005BZNF42",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "HP 951 Yellow Original Ink Cartridge (CN052AN)",
+            "normalizedName": "HP 951 Yellow Original Ink Cartridge (CN052AN)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00NH86LVO": {
+            "asin": "B00NH86LVO",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Soundtrack",
+            "normalizedName": "Soundtrack",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770734815265533
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B01CQV8V24": {
+            "asin": "B01CQV8V24",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Varylala 10 Pcs Hook and Loop Securing Straps Tie downs Fasteners Stabilizer Straps \u2013 Assorted Colors (Colorful, 12\"x4/5\")",
+            "normalizedName": "Varylala 10 Pcs Hook and Loop Securing Straps Tie downs Fasteners Stabilizer Straps \u2013 Assorted Colors (Colorful, 12\"x4/5\")",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

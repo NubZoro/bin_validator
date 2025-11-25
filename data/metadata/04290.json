@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005LDPTT8": {
+            "asin": "B005LDPTT8",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Universal Charge Kit for New 3DS/ New 3DS XL/ 2DS/ 3DS XL/ 3DS/ DSi XL/ DSi/ DS Lite - Tomee",
+            "normalizedName": "Universal Charge Kit for New 3DS/ New 3DS XL/ 2DS/ 3DS XL/ 3DS/ DSi XL/ DSi/ DS Lite - Tomee",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00L5K3902": {
+            "asin": "B00L5K3902",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Betty Lou's Energy Balls, Coconut Macadamia, 1.4 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Betty Lou's Energy Balls, Coconut Macadamia, 1.4 Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

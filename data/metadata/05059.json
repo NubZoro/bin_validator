@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "044046126X": {
+            "asin": "044046126X",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Nate the Great",
+            "normalizedName": "Nate the Great",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00GM02DYI": {
+            "asin": "B00GM02DYI",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Funny Guy Mugs 70th Birthday - 25,567 Days Young Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs 70th Birthday - 25,567 Days Young Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01CIK21TM": {
+            "asin": "B01CIK21TM",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "John Frieda Beach Blonde Cool Dip Purifying Shampoo and Smooth Seas Detangling Conditioner Duo Set, 10 ounce",
+            "normalizedName": "John Frieda Beach Blonde Cool Dip Purifying Shampoo and Smooth Seas Detangling Conditioner Duo Set, 10 ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

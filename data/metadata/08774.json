@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "125958965X": {
+            "asin": "125958965X",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Content Inc.: How Entrepreneurs Use Content to Build Massive Audiences and Create Radically  Successful Businesses",
+            "normalizedName": "Content Inc.: How Entrepreneurs Use Content to Build Massive Audiences and Create Radically  Successful Businesses",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00A82A2ZS": {
+            "asin": "B00A82A2ZS",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "ExpertPower EXP12120 12 Volt 12 Amp Rechargeable battery",
+            "normalizedName": "ExpertPower EXP12120 12 Volt 12 Amp Rechargeable battery",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007HD16PQ": {
+            "asin": "B007HD16PQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Weber 6479 Grill Press",
+            "normalizedName": "Weber 6479 Grill Press",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

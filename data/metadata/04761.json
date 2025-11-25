@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003MZ80L6": {
+            "asin": "B003MZ80L6",
+            "height": {
+                "unit": "IN",
+                "value": 6.2204724346
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.842519675
+            },
+            "name": "Artland Simplicity Artisan Pitcher, 70-Ounce, Clear",
+            "normalizedName": "Artland Simplicity Artisan Pitcher, 70-Ounce, Clear",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.30690017791123
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.3779527494
+            }
+        },
+        "B00ATZJ5YS": {
+            "asin": "B00ATZJ5YS",
+            "height": {
+                "unit": "IN",
+                "value": 1.8999999961239997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.4999999847
+            },
+            "name": "Belkin 3-Outlet SurgePlus Mini Travel Swivel Charger Surge Protector with Dual USB Ports (2.1 AMP / 10 Watt), BST300",
+            "normalizedName": "Belkin 3-Outlet SurgePlus Mini Travel Swivel Charger Surge Protector with Dual USB Ports (2.1 AMP / 10 Watt), BST300",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999795820485744
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B0176IQMD2": {
+            "asin": "B0176IQMD2",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Lightning Cable, JETech\u00ae 2-Pack 3.2ft APPLE CERTIFIED USB Sync and Charging Lightning Cable for iPhone 6/6s/5/5S/5C, iPad 4, iPad Air 1/2, iPad Mini 1/2/3 (2-Pack)",
+            "normalizedName": "(2-Pack) Lightning Cable, JETech\u00ae 2-Pack 3.2ft APPLE CERTIFIED USB Sync and Charging Lightning Cable for iPhone 6/6s/5/5S/5C, iPad 4, iPad Air 1/2, iPad Mini 1/2/3",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

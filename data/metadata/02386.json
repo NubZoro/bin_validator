@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007VAR2F8": {
+            "asin": "B007VAR2F8",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "IMAX 83101 Moody Swirl Glass Bowl",
+            "normalizedName": "IMAX 83101 Moody Swirl Glass Bowl",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

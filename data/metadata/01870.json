@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01859SAOA": {
+            "asin": "B01859SAOA",
+            "height": {
+                "unit": "IN",
+                "value": 1.6999999982660001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Premium 4-Piece Silicone Kitchen Utensil Set: 3 silicone spatula and 1 brush (Green)",
+            "normalizedName": "Premium 4-Piece Silicone Kitchen Utensil Set: 3 silicone spatula and 1 brush (Green)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B01DW008A6": {
+            "asin": "B01DW008A6",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "50 Counts Kevenz Plastic Sport Soccer Disc Cones Markers for Football Training (50-pack)(Yellow/Orange)",
+            "normalizedName": "50 Counts Kevenz Plastic Sport Soccer Disc Cones Markers for Football Training (50-pack)(Yellow/Orange)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0999999974003694
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001797XPI": {
+            "asin": "B001797XPI",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "GREENIES Dental Chews Large Treats for Dogs - Treat TUB-PAK Package 27 oz. 17 Treats",
+            "normalizedName": "GREENIES Dental Chews Large Treats for Dogs - Treat TUB-PAK Package 27 oz. 17 Treats",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OTVCYV4": {
+            "asin": "B00OTVCYV4",
+            "height": {
+                "unit": "IN",
+                "value": 1.6999999999999997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.5
+            },
+            "name": "Joseph Abboud Men\u2019s 2 Pack Button Fly Boxer Briefs (L ( 36-38), White)",
+            "normalizedName": "2 Pack Joseph Abboud Men\u2019s Button Fly Boxer Briefs (L ( 36-38), White)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

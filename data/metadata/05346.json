@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010LWGDMA": {
+            "asin": "B010LWGDMA",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Atkins Endulge Treats, Caramel Nut Chew Bar, 1.2oz Bar, 10 Count",
+            "normalizedName": "Atkins Endulge Treats, Caramel Nut Chew Bar, 1.2oz Bar, 10 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B0171UBGBS": {
+            "asin": "B0171UBGBS",
+            "height": {
+                "unit": "IN",
+                "value": 3.149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.5826771566
+            },
+            "name": "iGadgitz Black Plain Glossy TPU Gel Skin Case Cover for LG G4 Beat H735 (G4s) + Screen Protector",
+            "normalizedName": "iGadgitz Black Plain Glossy TPU Gel Skin Case Cover for LG G4 Beat H735 (G4s) + Screen Protector",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5669291292
+            }
+        },
+        "B01BPEQ7XS": {
+            "asin": "B01BPEQ7XS",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "RuMe Bags Medium Tote Bag Trio (Set of 3) (Spring Greenwich-Emerson-Spring Hamptons)",
+            "normalizedName": "(Set of 3) RuMe Bags Medium Tote Bag Trio (Spring Greenwich-Emerson-Spring Hamptons)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

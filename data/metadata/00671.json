@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0155KHDZO": {
+            "asin": "B0155KHDZO",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Dr. Brown's Lovey with Pink One-Piece Silicone Pacifier, Zebra",
+            "normalizedName": "Dr. Brown's Lovey with Pink One-Piece Silicone Pacifier, Zebra",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800934069835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B016IHDBFY": {
+            "asin": "B016IHDBFY",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Disney/Pixar Cars Sedanya Oskanian Vehicle",
+            "normalizedName": "Disney/Pixar Cars Sedanya Oskanian Vehicle",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01C308RG8": {
+            "asin": "B01C308RG8",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "Smash Terminator\u00ae Sports Running Jogging Gym Armband Arm Band Case Cover Holder with Key Holder For The Samsung Galaxy S7 with Key Holder Slot by AllThingsAccessory\u00ae (White)",
+            "normalizedName": "Smash Terminator\u00ae Sports Running Jogging Gym Armband Arm Band Case Cover Holder with Key Holder For The Samsung Galaxy S7 with Key Holder Slot by AllThingsAccessory\u00ae (White)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0881849048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299212592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

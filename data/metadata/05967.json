@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LV0Z4TK": {
+            "asin": "B00LV0Z4TK",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "ALEX Toys Artist Studio 12 Gray Oil Pastels",
+            "normalizedName": "ALEX Toys Artist Studio 12 Gray Oil Pastels",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00QJCHWRM": {
+            "asin": "B00QJCHWRM",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Lemon (Organic) 100% Pure, Best Therapeutic Grade Essential Oil - 10ml",
+            "normalizedName": "Lemon (Organic) 100% Pure, Best Therapeutic Grade Essential Oil - 10ml",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

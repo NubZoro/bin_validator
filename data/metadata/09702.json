@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001UE6MJ8": {
+            "asin": "B001UE6MJ8",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Motorola MR350R 35-Mile Range 22-Channel FRS/GMRS Two-Way Radio (Pair)",
+            "normalizedName": "Motorola MR350R 35-Mile Range 22-Channel FRS/GMRS Two-Way Radio (Pair)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

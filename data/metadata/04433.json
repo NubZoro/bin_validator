@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001ELXI6C": {
+            "asin": "B001ELXI6C",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Dot Line DL-6566 AP Automatic Slide Viewer",
+            "normalizedName": "Dot Line DL-6566 AP Automatic Slide Viewer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B009YJ7V6E": {
+            "asin": "B009YJ7V6E",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Black 1/8\" Round 36\" Braid Non-Breakaway Lanyard, Swivel Hook (100/bag)",
+            "normalizedName": "Black 1/8\" Round 36\" Braid Non-Breakaway Lanyard, Swivel Hook (100/bag)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B00X3VQST0": {
+            "asin": "B00X3VQST0",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "All Natural Freeze Dried Salmon Treats, Made in the USA (5 ounce)",
+            "normalizedName": "All Natural Freeze Dried Salmon Treats, Made in the USA (5 ounce)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

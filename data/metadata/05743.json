@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004QN4GZC": {
+            "asin": "B004QN4GZC",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Putco 401922 Fuel Tank Cover",
+            "normalizedName": "Putco 401922 Fuel Tank Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B008Y5A0IA": {
+            "asin": "B008Y5A0IA",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Pro Armor (A114230) 4-Point Harness with 3\" Pads",
+            "normalizedName": "Pro Armor (A114230) 4-Point Harness with 3\" Pads",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.700000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00GGQMWO4": {
+            "asin": "B00GGQMWO4",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Instant IAP-224 IEEE 802.11ac 1.27 Gbps Wireless Access Point - ISM Band - UNII Band",
+            "normalizedName": "Instant IAP-224 IEEE 802.11ac 1.27 Gbps Wireless Access Point - ISM Band - UNII Band",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.199999987556
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

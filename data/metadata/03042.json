@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I2QLQZ2": {
+            "asin": "B00I2QLQZ2",
+            "height": {
+                "unit": "IN",
+                "value": 3.3464566895
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.5196850317
+            },
+            "name": "My Neighbor Totoro/Medium Totoro Stuffed Plush S",
+            "normalizedName": "My Neighbor Totoro/Medium Totoro Stuffed Plush S",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1278668068792342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.6850393653
+            }
+        },
+        "B00MVOHHZ4": {
+            "asin": "B00MVOHHZ4",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Medique Products MS71170 Pain-Off Pain Reliever Tablets (200)",
+            "normalizedName": "Medique Products MS71170 Pain-Off Pain Reliever Tablets (200)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

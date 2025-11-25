@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001LHQBMC": {
+            "asin": "B001LHQBMC",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Autel MaxiScan MS309 CAN OBD-II Diagnostic Code Scanner",
+            "normalizedName": "Autel MaxiScan MS309 CAN OBD-II Diagnostic Code Scanner",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

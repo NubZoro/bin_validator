@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0062399799": {
+            "asin": "0062399799",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Black Man, White House: An Oral History of the Obama Years",
+            "normalizedName": "Black Man, White House: An Oral History of the Obama Years",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00GWUXKWM": {
+            "asin": "B00GWUXKWM",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Farm Rooster on Sunflowers Kitchen Napkin Holder",
+            "normalizedName": "Farm Rooster on Sunflowers Kitchen Napkin Holder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

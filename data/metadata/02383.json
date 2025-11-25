@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0052MIH88": {
+            "asin": "B0052MIH88",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "DEWALT DCD785C2 20V MAX Lithium Ion Compact 1.5 Ah Hammer Drill/Driver Kit",
+            "normalizedName": "DEWALT DCD785C2 20V MAX Lithium Ion Compact 1.5 Ah Hammer Drill/Driver Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B00KVX5O3E": {
+            "asin": "B00KVX5O3E",
+            "height": {
+                "unit": "IN",
+                "value": 0.249999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Dorman 917-362 Oil Dipstick",
+            "normalizedName": "Dorman 917-362 Oil Dipstick",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

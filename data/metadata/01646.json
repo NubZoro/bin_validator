@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000N8M3PE": {
+            "asin": "B000N8M3PE",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "MRM All Natural Whey, Rich Vanilla, 2.03-Pound",
+            "normalizedName": "MRM All Natural Whey, Rich Vanilla, 2.03-Pound",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01HCLKREI": {
+            "asin": "B01HCLKREI",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "name": "ProgramX Bluetooth Headphones Wireless Stereo Sports Earbuds Earphones In-Ear Sweatproof Headsets For Running with Mic, Noise Cancellation (Black)",
+            "normalizedName": "ProgramX Bluetooth Headphones Wireless Stereo Sports Earbuds Earphones In-Ear Sweatproof Headsets For Running with Mic, Noise Cancellation (Black)",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

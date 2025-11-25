@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CAH4LG": {
+            "asin": "B000CAH4LG",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "name": "Tango en el Mate",
+            "normalizedName": "Tango en el Mate",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        },
+        "B001DM3MMC": {
+            "asin": "B001DM3MMC",
+            "height": {
+                "unit": "IN",
+                "value": 0.1574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.3543307032
+            },
+            "name": "Spread the Word",
+            "normalizedName": "Spread the Word",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.79
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8031496014
+            }
+        },
+        "B00CFTLJHW": {
+            "asin": "B00CFTLJHW",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "C2G / Cables To Go 39702 HDMI and USB Pass Through Decora Style Wall Plate, White",
+            "normalizedName": "C2G / Cables To Go 39702 HDMI and USB Pass Through Decora Style Wall Plate, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B013B8TK4Y": {
+            "asin": "B013B8TK4Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Power Bank, Idaye\u00ae 14000mAh Quick & Portable External Battery Pack Charger with Smart Tech(Dual USB, 5V/3.5A), Good for Android, Apple ,Most Tablet and Phones.One Year Warranty. (14000mah-black)",
+            "normalizedName": "Power Bank, Idaye\u00ae 14000mAh Quick & Portable External Battery Pack Charger with Smart Tech(Dual USB, 5V/3.5A), Good for Android, Apple ,Most Tablet and Phones.One Year Warranty. (14000mah-black)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

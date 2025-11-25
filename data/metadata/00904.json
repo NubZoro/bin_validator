@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DBDPOZ4": {
+            "asin": "B00DBDPOZ4",
+            "height": {
+                "unit": "IN",
+                "value": 1.8110236202
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.8267716476
+            },
+            "name": "Xbox One Play and Charge Kit",
+            "normalizedName": "Xbox One Play and Charge Kit",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.485012026093647
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5905511754
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

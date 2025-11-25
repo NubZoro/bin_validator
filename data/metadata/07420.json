@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001T0HI1E": {
+            "asin": "B001T0HI1E",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Champion KidsLine Neoprene Slip-on Ankle Support, Black, Youth",
+            "normalizedName": "Champion KidsLine Neoprene Slip-on Ankle Support, Black, Youth",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B01GOQWP6U": {
+            "asin": "B01GOQWP6U",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "name": "Pro Ohm SureLink Tangle-Free 6ft Lightning and MicroUSB 2-in-1 Cable (Apple MFi Certified) 2-PACK (Graphite)",
+            "normalizedName": "Pro Ohm SureLink Tangle-Free 6ft Lightning and MicroUSB 2-in-1 Cable (Apple MFi Certified) 2-PACK (Graphite)",
+            "quantity": 9,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

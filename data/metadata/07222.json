@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JPL1HP2": {
+            "asin": "B00JPL1HP2",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Funny Guy Mugs Hippie Gnome Statue",
+            "normalizedName": "Funny Guy Mugs Hippie Gnome Statue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00KWHFGH8": {
+            "asin": "B00KWHFGH8",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Chef's Star Smooth Edge Automatic Electric Can Opener (Red) 4 AA batteries are included",
+            "normalizedName": "Chef's Star Smooth Edge Automatic Electric Can Opener (Red) 4 AA batteries are included",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00NHUVFGS": {
+            "asin": "B00NHUVFGS",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Foster Grant Conan Multifocus Glasses, Tortoise, 2.5",
+            "normalizedName": "Foster Grant Conan Multifocus Glasses, Tortoise, 2.5",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

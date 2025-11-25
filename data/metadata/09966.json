@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0316410608": {
+            "asin": "0316410608",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "And Soon I Heard a Roaring Wind: A Natural History of Moving Air",
+            "normalizedName": "And Soon I Heard a Roaring Wind: A Natural History of Moving Air",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B004413OCW": {
+            "asin": "B004413OCW",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "all High Efficiency, 50-ounce (Pack of 2)",
+            "normalizedName": "(Pack of 2) all High Efficiency, 50-ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

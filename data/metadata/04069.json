@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007JGB0EI": {
+            "asin": "B007JGB0EI",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Apricorn Aegis Padlock 1 TB USB 3.0 256-bit AES XTS Hardware Encrypted Portable External Hard Drive (A25-3PL256-1000)",
+            "normalizedName": "Apricorn Aegis Padlock 1 TB USB 3.0 256-bit AES XTS Hardware Encrypted Portable External Hard Drive (A25-3PL256-1000)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

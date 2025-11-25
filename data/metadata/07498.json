@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001O0CNMI": {
+            "asin": "B001O0CNMI",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Gorilla Automotive 70027 Acorn Open End Lug Nuts (12mm x 1.25 Thread Size)",
+            "normalizedName": "Gorilla Automotive 70027 Acorn Open End Lug Nuts (12mm x 1.25 Thread Size)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B017QEB2WM": {
+            "asin": "B017QEB2WM",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Glass Votive Candle Holders Set of 3 Black Wooden Bases Hour Glass Shape",
+            "normalizedName": "Set of 3 Glass Votive Candle Holders Black Wooden Bases Hour Glass Shape",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B017T421I8": {
+            "asin": "B017T421I8",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Harmony Linens Bed Sheet Set - 1800 Double Brushed Microfiber Bedding - 4 Piece (Queen, Baby Blue)",
+            "normalizedName": "Harmony Linens Bed Sheet Set - 1800 Double Brushed Microfiber Bedding - 4 Piece (Queen, Baby Blue)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.299999997232651
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004X6J2HE": {
+            "asin": "B004X6J2HE",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.0393700634
+            },
+            "name": "Rivanna Junction",
+            "normalizedName": "Rivanna Junction",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.93
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.7559054988
+            }
+        },
+        "B013UJS35G": {
+            "asin": "B013UJS35G",
+            "height": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "TaoTronics TT-AH002 30W Ultrasonic Humidifier with Cool Mist, Classic Dial Knob Control, 3.5L Large Capacity, Two 360 degree Rotatable Outlets",
+            "normalizedName": "TaoTronics TT-AH002 30W Ultrasonic Humidifier with Cool Mist, Classic Dial Knob Control, 3.5L Large Capacity, Two 360 degree Rotatable Outlets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.19999999647792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B017LTGIPS": {
+            "asin": "B017LTGIPS",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "inkint 5-In-1 Hair Curling Iron with Glove Hair Styling Kit-Barrel Curling Iron with Worldwide Voltage Good Choice for Travel Adjustable Temperature Hair Curler/ Curling Wand with 5 Curling Heads",
+            "normalizedName": "inkint 5-In-1 Hair Curling Iron with Glove Hair Styling Kit-Barrel Curling Iron with Worldwide Voltage Good Choice for Travel Adjustable Temperature Hair Curler/ Curling Wand with 5 Curling Heads",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

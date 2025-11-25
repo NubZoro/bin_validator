@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CLD74U8": {
+            "asin": "B00CLD74U8",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Garden of Life Raw Fit Protein Nutritional Supplement, 451 Gram",
+            "normalizedName": "Garden of Life Raw Fit Protein Nutritional Supplement, 451 Gram",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

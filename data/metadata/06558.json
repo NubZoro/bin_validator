@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003B2GTYU": {
+            "asin": "B003B2GTYU",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Polaroid PIC-300 Instant Film Camera (Red)",
+            "normalizedName": "Polaroid PIC-300 Instant Film Camera (Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9259320498151443
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B013CO3N9A": {
+            "asin": "B013CO3N9A",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Zuke's G-Zees Salmon Grain-Free Cat Treats, 3-Ounce 4 Pack",
+            "normalizedName": "4 Pack Zuke's G-Zees Salmon Grain-Free Cat Treats, 3-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

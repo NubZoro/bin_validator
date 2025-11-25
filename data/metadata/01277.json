@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1616855711": {
+            "asin": "1616855711",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Barnes & Noble 7\" Mary Phillip Chocolate NOOK Case, Black",
+            "normalizedName": "Barnes & Noble 7\" Mary Phillip Chocolate NOOK Case, Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00I9I8WGY": {
+            "asin": "B00I9I8WGY",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Scosche MAGWDM MagicMOUNT Magnetic Window Mount for Mobile Devices",
+            "normalizedName": "Scosche MAGWDM MagicMOUNT Magnetic Window Mount for Mobile Devices",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.58
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

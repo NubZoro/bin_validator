@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EED9X9S": {
+            "asin": "B00EED9X9S",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.7
+            },
+            "name": "North Pole Christmas Scene Setters",
+            "normalizedName": "North Pole Christmas Scene Setters",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.5
+            }
+        },
+        "B015L5FFVM": {
+            "asin": "B015L5FFVM",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Giro Raze Helmet - Kid's Black/Charcoal",
+            "normalizedName": "Giro Raze Helmet - Kid's Black/Charcoal",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4499999979454534
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

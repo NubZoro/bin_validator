@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BIV038E": {
+            "asin": "B00BIV038E",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Skylanders Giants Halloween Sensations Jet Vac Costume, Medium",
+            "normalizedName": "Skylanders Giants Halloween Sensations Jet Vac Costume, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B0177KNUUM": {
+            "asin": "B0177KNUUM",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Heshe Womens Vintage Casual Style Shoulder Handbags Totes Top Handle Bags Cross body Bag Satchel Purses for Ladies (Black-R)",
+            "normalizedName": "Heshe Womens Vintage Casual Style Shoulder Handbags Totes Top Handle Bags Cross body Bag Satchel Purses for Ladies (Black-R)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

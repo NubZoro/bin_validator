@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00O4OR4GQ": {
+            "asin": "B00O4OR4GQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Fujifilm Instax Mini Instant Film (3 Twin Packs, 60 Total Pictures) Value Set",
+            "normalizedName": "Fujifilm Instax Mini Instant Film (3 Twin Packs, 60 Total Pictures) Value Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B01DNNTWZE": {
+            "asin": "B01DNNTWZE",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Galaxy S7 case, Samsung Galaxy S7 Case Shockproof Case [Impact Resistant] [Heavy Duty] Protective Case Cover for Samsung Galaxy S7 Case",
+            "normalizedName": "Galaxy S7 case, Samsung Galaxy S7 Case Shockproof Case [Impact Resistant] [Heavy Duty] Protective Case Cover for Samsung Galaxy S7 Case",
+            "quantity": 14,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

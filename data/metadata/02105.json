@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001GS4LU0": {
+            "asin": "B001GS4LU0",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "UniquExceptional UMA20 Motion Activated Alarm with Keypad (White)",
+            "normalizedName": "UniquExceptional UMA20 Motion Activated Alarm with Keypad (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00E423APC": {
+            "asin": "B00E423APC",
+            "height": {
+                "unit": "IN",
+                "value": 4.349999995563
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Le Creuset of America Stoneware Set of 2 Mugs, 12-Ounce, Marseille",
+            "normalizedName": "Set of 2 Le Creuset of America Stoneware Mugs, 12-Ounce, Marseille",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9999999966456374
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.349999993522999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

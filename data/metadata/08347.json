@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1452256551": {
+            "asin": "1452256551",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Understanding Business Ethics",
+            "normalizedName": "Understanding Business Ethics",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7899964065018067
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B006Z98NOU": {
+            "asin": "B006Z98NOU",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "name": "It Cosmetics Naturally Pretty Eyeshadow Trio - Color - Luxe Pearl",
+            "normalizedName": "It Cosmetics Naturally Pretty Eyeshadow Trio - Color - Luxe Pearl",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00JJ6MVP8": {
+            "asin": "B00JJ6MVP8",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "ARM & HAMMER Spinbrush Truly Radiant Extra White Replacement Brush Heads Soft - 2 ct",
+            "normalizedName": "ARM & HAMMER Spinbrush Truly Radiant Extra White Replacement Brush Heads Soft - 2 ct",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B00Q2VPI8A": {
+            "asin": "B00Q2VPI8A",
+            "height": {
+                "unit": "IN",
+                "value": 3.3858267682
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "name": "Bluedio T2s Turbine Bluetooth Wireless Stereo Headphones with Microphone 57mm Drivers Rotary Folding(White)",
+            "normalizedName": "Bluedio T2s Turbine Bluetooth Wireless Stereo Headphones with Microphone 57mm Drivers Rotary Folding(White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9259415004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

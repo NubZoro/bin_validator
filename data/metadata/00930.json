@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001E52VJS": {
+            "asin": "B001E52VJS",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Crystal Light On The Go Wild Strawberry with Caffeine, 10-Count Boxes (Pack of 6)",
+            "normalizedName": "(Pack of 6) Crystal Light On The Go Wild Strawberry with Caffeine, 10-Count Boxes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B018R6493W": {
+            "asin": "B018R6493W",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Elf On The Shelf Plush Dolls Girl Figure Christmas Tradition Novelty Toy Gift red",
+            "normalizedName": "Elf On The Shelf Plush Dolls Girl Figure Christmas Tradition Novelty Toy Gift red",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

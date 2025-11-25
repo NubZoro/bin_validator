@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VJ4IGDY": {
+            "asin": "B00VJ4IGDY",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Ultimate Kitchen Stainless Steel Sink Soap Dispenser - Model SSD2 (Satin Finish)",
+            "normalizedName": "Ultimate Kitchen Stainless Steel Sink Soap Dispenser - Model SSD2 (Satin Finish)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01DSA300U": {
+            "asin": "B01DSA300U",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.75
+            },
+            "name": "Reflective Safety Vest for Running",
+            "normalizedName": "Reflective Safety Vest for Running",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10625
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

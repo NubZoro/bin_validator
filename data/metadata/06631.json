@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0231139616": {
+            "asin": "0231139616",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Sex Trafficking: Inside the Business of Modern Slavery",
+            "normalizedName": "Sex Trafficking: Inside the Business of Modern Slavery",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "1472231988": {
+            "asin": "1472231988",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Live Fast, Lose Weight: Fat to Fit: 80 recipes for a healthy lifestyle",
+            "normalizedName": "Live Fast, Lose Weight: Fat to Fit: 80 recipes for a healthy lifestyle",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4550360770607615
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.1653543234
+            }
+        },
+        "B00IRFQILU": {
+            "asin": "B00IRFQILU",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "J0082 Jumbo Funny Mother's Day Card: Poke Your Eye Out With Envelope (Extra Large Version: 8.5'' x 11'')",
+            "normalizedName": "J0082 Jumbo Funny Mother's Day Card: Poke Your Eye Out With Envelope (Extra Large Version: 8.5'' x 11'')",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

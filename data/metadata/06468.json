@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1450847099": {
+            "asin": "1450847099",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Baby's First Year Memory Keeper",
+            "normalizedName": "Baby's First Year Memory Keeper",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B01ETOCR94": {
+            "asin": "B01ETOCR94",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Mat Board Center Crescent 11x14 Black Picture Mat Sets for 8x10 Photo. Includes a Pack of 25 White Core Bevel Pre-cut White Core Matte & 25 Backing Board & 25 Clear Bags",
+            "normalizedName": "Pack of 25 Mat Board Center Crescent 11x14 Black Picture Mat Sets for 8x10 Photo. Includes a White Core Bevel Pre-cut White Core Matte & 25 Backing Board & 25 Clear Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.649999993584782
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

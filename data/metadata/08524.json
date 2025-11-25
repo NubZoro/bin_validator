@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004E3NWJU": {
+            "asin": "B004E3NWJU",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Kleer-Fax Letter-Size Index Dividers, Collated Plain Die Cut Sets, Side Tab, 1/25th Cut, 1 Bank of 25 Unprinted Tabs, White (81199)",
+            "normalizedName": "Kleer-Fax Letter-Size Index Dividers, Collated Plain Die Cut Sets, Side Tab, 1/25th Cut, 1 Bank of 25 Unprinted Tabs, White (81199)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B00T1NN4AA": {
+            "asin": "B00T1NN4AA",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Amir LED Solar Outdoor Spotlight Wall Light (Changing Color)",
+            "normalizedName": "Amir LED Solar Outdoor Spotlight Wall Light (Changing Color)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

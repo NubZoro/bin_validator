@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KXYH6VE": {
+            "asin": "B00KXYH6VE",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Monster Power - Home Office 1200 USB",
+            "normalizedName": "Monster Power - Home Office 1200 USB",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B017TA1FWA": {
+            "asin": "B017TA1FWA",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Quest Nutrition Protein Bars, Double Chocolate Chunk (2-Pack of 12)",
+            "normalizedName": "Pack of 12 Quest Nutrition Protein Bars, Double Chocolate Chunk (2- )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4999999970649336
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B01ASBJNOE": {
+            "asin": "B01ASBJNOE",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "DRAGONN Top 10-piece Kitchen Tools and Gadgets Set",
+            "normalizedName": "DRAGONN Top 10-piece Kitchen Tools and Gadgets Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

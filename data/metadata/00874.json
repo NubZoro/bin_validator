@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FN1WTA": {
+            "asin": "B000FN1WTA",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Titanium Machine Screw, Plain Finish, Binding Head, Slotted Drive, 1/8\" Length, #000-120 UNM Threads, Made in US (Pack of 10)",
+            "normalizedName": "(Pack of 10) Titanium Machine Screw, Plain Finish, Binding Head, Slotted Drive, 1/8\" Length, #000-120 UNM Threads, Made in US",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B000RI6C7K": {
+            "asin": "B000RI6C7K",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.3858267682
+            },
+            "name": "Feliway - Refill, 48 ml",
+            "normalizedName": "Feliway - Refill, 48 ml",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800934069835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.0472440924
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

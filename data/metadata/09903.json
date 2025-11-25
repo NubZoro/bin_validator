@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002OKFAM2": {
+            "asin": "B002OKFAM2",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Beadsmith Hemp Cord, Natural",
+            "normalizedName": "Beadsmith Hemp Cord, Natural",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B019QXN2L0": {
+            "asin": "B019QXN2L0",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Ziggy Baby Jersey Cotton Changing Pad Cover Set, Blue/Grey, 2 Pack",
+            "normalizedName": "2 Pack Ziggy Baby Jersey Cotton Changing Pad Cover Set, Blue/Grey,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.7999999930640005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

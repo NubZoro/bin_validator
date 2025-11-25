@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002XM592M": {
+            "asin": "B002XM592M",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "RV Designer H316 Black Push Latch",
+            "normalizedName": "RV Designer H316 Black Push Latch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B00MCMCHSC": {
+            "asin": "B00MCMCHSC",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Ty Frizzys Zinger",
+            "normalizedName": "Ty Frizzys Zinger",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

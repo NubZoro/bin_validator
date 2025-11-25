@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "141301349X": {
+            "asin": "141301349X",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Writing Analytically with Readings",
+            "normalizedName": "Writing Analytically with Readings",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

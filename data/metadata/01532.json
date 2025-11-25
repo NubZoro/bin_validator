@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GUR8RM": {
+            "asin": "B000GUR8RM",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Radians - G4 Junior Child Safety Glass-Clear Lens",
+            "normalizedName": "Radians - G4 Junior Child Safety Glass-Clear Lens",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.25196850164
+            }
+        },
+        "B003EVOD8M": {
+            "asin": "B003EVOD8M",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "StealStreet SS-G-98708 Acrylic Mobile Swinging Dolphin Statue Design Decoration Collection",
+            "normalizedName": "StealStreet SS-G-98708 Acrylic Mobile Swinging Dolphin Statue Design Decoration Collection",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

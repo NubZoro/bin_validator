@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000H2217G": {
+            "asin": "B000H2217G",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Dynasty Jasmine Tea, Tea Bags, 16-Count Boxes (Pack of 12)",
+            "normalizedName": "(Pack of 12) Dynasty Jasmine Tea, Tea Bags, 16-Count Boxes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.250037845972
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.09842518757
+            }
+        },
+        "B003N1ZSYG": {
+            "asin": "B003N1ZSYG",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Samsung Da29-00020b Refrigerator Water Filter, 1-pack",
+            "normalizedName": "Samsung Da29-00020b Refrigerator Water Filter, 1-pack",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B004S2G2P8": {
+            "asin": "B004S2G2P8",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Green Eats 2 Pack Divided Plates, Blue",
+            "normalizedName": "2 Pack Green Eats Divided Plates, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

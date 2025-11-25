@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003PGCUKO": {
+            "asin": "B003PGCUKO",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Organic India Triphala, 90-Count",
+            "normalizedName": "Organic India Triphala, 90-Count",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00BM8MHKK": {
+            "asin": "B00BM8MHKK",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Funny Guy Mugs Customary Hot Beverage Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Customary Hot Beverage Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00IN7867Q": {
+            "asin": "B00IN7867Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Renew Life Ultimate Flora Extra Care Probiotic 150 Billion (formerly Mega Potent), 30 Count",
+            "normalizedName": "Renew Life Ultimate Flora Extra Care Probiotic 150 Billion (formerly Mega Potent), 30 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

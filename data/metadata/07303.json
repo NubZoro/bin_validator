@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000J6F21M": {
+            "asin": "B000J6F21M",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "name": "Dymo 18443 3/8\" Vinyl tape Rhino Labels - White",
+            "normalizedName": "Dymo 18443 3/8\" Vinyl tape Rhino Labels - White",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B019ZS97CO": {
+            "asin": "B019ZS97CO",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "iPhone 6S Plus Case, iMangoo Multi-functional Cover iPhone 6 Plus Wallet Case Card Slot Shell Soft Rubber Bumper Case Kickstand Hand Grip Strap Armor for Apple iPhone 6s 6 Plus 5.5'' Black/Brown",
+            "normalizedName": "iPhone 6S Plus Case, iMangoo Multi-functional Cover iPhone 6 Plus Wallet Case Card Slot Shell Soft Rubber Bumper Case Kickstand Hand Grip Strap Armor for Apple iPhone 6s 6 Plus 5.5'' Black/Brown",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

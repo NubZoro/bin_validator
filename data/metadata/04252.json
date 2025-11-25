@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0399184414": {
+            "asin": "0399184414",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Seven Brief Lessons on Physics",
+            "normalizedName": "Seven Brief Lessons on Physics",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "0743521242": {
+            "asin": "0743521242",
+            "height": {
+                "unit": "IN",
+                "value": 0.77165354252
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.16141731553
+            },
+            "name": "The 10 Qualities Of Charismatic People: Secrets of Personal Magnetism",
+            "normalizedName": "The 10 Qualities Of Charismatic People: Secrets of Personal Magnetism",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2199992912498
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.53937007411
+            }
+        },
+        "0913836699": {
+            "asin": "0913836699",
+            "height": {
+                "unit": "IN",
+                "value": 0.66141732216
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.68110235335
+            },
+            "name": "Theology and the Church",
+            "normalizedName": "Theology and the Church",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6500109332808
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.53937007309
+            }
+        },
+        "B0006YS1E2": {
+            "asin": "B0006YS1E2",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Food Enzymes for Health and Longevity",
+            "normalizedName": "Food Enzymes for Health and Longevity",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

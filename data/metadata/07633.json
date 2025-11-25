@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008DW23OI": {
+            "asin": "B008DW23OI",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "White Mountain Puzzles Best Sellers - 1000 Piece Jigsaw Puzzle",
+            "normalizedName": "White Mountain Puzzles Best Sellers - 1000 Piece Jigsaw Puzzle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

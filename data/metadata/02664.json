@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ND5ZBOO": {
+            "asin": "B00ND5ZBOO",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Marvel Avengers Hawkeye Longshot Bow Toy",
+            "normalizedName": "Marvel Avengers Hawkeye Longshot Bow Toy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00P3XW8YK": {
+            "asin": "B00P3XW8YK",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Transformers Robots in Disguise 3-Step Changers Sideswipe Figure",
+            "normalizedName": "Transformers Robots in Disguise 3-Step Changers Sideswipe Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

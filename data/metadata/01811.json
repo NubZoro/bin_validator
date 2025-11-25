@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013OXD38": {
+            "asin": "B0013OXD38",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "NOW Foods Creatine Powder, 2.2 Pounds",
+            "normalizedName": "NOW Foods Creatine Powder, 2.2 Pounds",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B004YPJKBC": {
+            "asin": "B004YPJKBC",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Kirkland Signature chicken breast, packed in water, premium chunk, 6 12.5-ounce cans",
+            "normalizedName": "Kirkland Signature chicken breast, packed in water, premium chunk, 6 12.5-ounce cans",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00NCYWZ7M": {
+            "asin": "B00NCYWZ7M",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "FurReal Friends Li'l Big Paws Sneezy Kiki Koala Pet",
+            "normalizedName": "FurReal Friends Li'l Big Paws Sneezy Kiki Koala Pet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MIAPBKO": {
+            "asin": "B00MIAPBKO",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.354330693
+            },
+            "name": "Pleasure Yourself",
+            "normalizedName": "Pleasure Yourself",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0141160545594439
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.3622047118
+            }
+        },
+        "B016AKOOG4": {
+            "asin": "B016AKOOG4",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Giro Air Attack Helmet Bright Red/Black, M",
+            "normalizedName": "Giro Air Attack Helmet Bright Red/Black, M",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.587312084066285
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

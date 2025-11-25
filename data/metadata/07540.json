@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DDULUIA": {
+            "asin": "B00DDULUIA",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.330708657
+            },
+            "name": "Twisted Veins ACHRA3 Three (3) Pack of HDMI 90 Degree/Right Angle Connectors/Adapters",
+            "normalizedName": "Twisted Veins ACHRA3 Three (3) Pack of HDMI 90 Degree/Right Angle Connectors/Adapters",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        },
+        "B00UOUT6TW": {
+            "asin": "B00UOUT6TW",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "OneTigris Compact MOLLE EDC Pouch Utility Gadget Pouch for for iPhone 6 Plus (Black/White stitches))",
+            "normalizedName": "OneTigris Compact MOLLE EDC Pouch Utility Gadget Pouch for for iPhone 6 Plus (Black/White stitches))",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

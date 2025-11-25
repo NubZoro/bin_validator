@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GZY9DS": {
+            "asin": "B000GZY9DS",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Near East Whole Grain Blends, Roasted Pecan & Garlic, with Brown Rice and Bulgur (Pack of 12 Boxes)",
+            "normalizedName": "Pack of 12 Near East Whole Grain Blends, Roasted Pecan & Garlic, with Brown Rice and Bulgur ( Boxes)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B008HSN7OI": {
+            "asin": "B008HSN7OI",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.199999984496
+            },
+            "name": "Peerless Performer Microphone",
+            "normalizedName": "Peerless Performer Microphone",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

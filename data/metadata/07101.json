@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002GWUDZM": {
+            "asin": "B002GWUDZM",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.299999984394
+            },
+            "name": "Batman The Dark Knight Joker Pet Costume, Medium",
+            "normalizedName": "Batman The Dark Knight Joker Pet Costume, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B002X7D29Y": {
+            "asin": "B002X7D29Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "EyeLine Golf Edge Putting Mirror",
+            "normalizedName": "EyeLine Golf Edge Putting Mirror",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B01C5TFAU8": {
+            "asin": "B01C5TFAU8",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Little Tikes Count 'n Play Cash Register Playset",
+            "normalizedName": "Little Tikes Count 'n Play Cash Register Playset",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B01F2LNZO4": {
+            "asin": "B01F2LNZO4",
+            "height": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.49999998215
+            },
+            "name": "Petories dreamy soft and cozy pet bed (24\"L x 19.5\"W x 7\"H, Black)",
+            "normalizedName": "Petories dreamy soft and cozy pet bed (24\"L x 19.5\"W x 7\"H, Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

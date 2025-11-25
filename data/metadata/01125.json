@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00G3Q9PGK": {
+            "asin": "B00G3Q9PGK",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "San Francisco Giants 47 Brand Black Mesh Blue Mountain Franchise Flexfit Hat Cap",
+            "normalizedName": "San Francisco Giants 47 Brand Black Mesh Blue Mountain Franchise Flexfit Hat Cap",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

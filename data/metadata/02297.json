@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002PMV76C": {
+            "asin": "B002PMV76C",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Cambro RFS2PPSW3190 2-Quart Round Food-Storage Container with Lid, Set of 3",
+            "normalizedName": "Set of 3 Cambro RFS2PPSW3190 2-Quart Round Food-Storage Container with Lid,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00G7L20ZY": {
+            "asin": "B00G7L20ZY",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Hedstrom Monsters Hopper, 18-Inch",
+            "normalizedName": "Hedstrom Monsters Hopper, 18-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

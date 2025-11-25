@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EI0A41S": {
+            "asin": "B00EI0A41S",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Canarm IVL455A01CH Zen1 Light Vanity Lights, Chrome",
+            "normalizedName": "Canarm IVL455A01CH Zen1 Light Vanity Lights, Chrome",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B01H00OWH4": {
+            "asin": "B01H00OWH4",
+            "height": {
+                "unit": "IN",
+                "value": 3.149999996787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 21.949999977611
+            },
+            "name": "Multi functional Waist Pack, WOTOW Military Single Shoulder Hip Belt Bag Fanny Packs Water Resistant Waist Bag Pouch Hiking Climbing Outdoor Bumbag with Water Bottle Pocket Holder (Brown)",
+            "normalizedName": "Multi functional Waist Pack, WOTOW Military Single Shoulder Hip Belt Bag Fanny Packs Water Resistant Waist Bag Pouch Hiking Climbing Outdoor Bumbag with Water Bottle Pocket Holder (Brown)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098323
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.199999987555998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

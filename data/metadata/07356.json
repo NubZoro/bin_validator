@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01F31XIBI": {
+            "asin": "B01F31XIBI",
+            "height": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.0
+            },
+            "name": "The Big One Super Soft Plush Throw, Geometric Key (Navy Key)",
+            "normalizedName": "The Big One Super Soft Plush Throw, Geometric Key (Navy Key)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

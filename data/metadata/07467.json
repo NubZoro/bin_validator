@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003L911X2": {
+            "asin": "B003L911X2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Faber-Castell 12 Oil Pastels",
+            "normalizedName": "Faber-Castell 12 Oil Pastels",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B005DSTC6W": {
+            "asin": "B005DSTC6W",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Anderson Metals 57001 Brass Hose Fitting, Adapter, 3/8\" Barb x 3/8\" NPT Male Pipe",
+            "normalizedName": "Anderson Metals 57001 Brass Hose Fitting, Adapter, 3/8\" Barb x 3/8\" NPT Male Pipe",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            }
+        },
+        "B011BD7OZ8": {
+            "asin": "B011BD7OZ8",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Star Wars Darth Vader & Stormtrooper Confetti",
+            "normalizedName": "Star Wars Darth Vader & Stormtrooper Confetti",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01C3J2BQ6": {
+            "asin": "B01C3J2BQ6",
+            "height": {
+                "unit": "IN",
+                "value": 1.249999998725
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.249999995665
+            },
+            "name": "Yoobi 12ct Jumbo Crayons - Mullticolor",
+            "normalizedName": "Yoobi 12ct Jumbo Crayons - Mullticolor",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

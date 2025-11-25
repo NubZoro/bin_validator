@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0015ZZ1H6": {
+            "asin": "B0015ZZ1H6",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Bostitch B8  Xtreme Duty 45 Sheet Plier Stapler, Black (B8HDP)",
+            "normalizedName": "Bostitch B8  Xtreme Duty 45 Sheet Plier Stapler, Black (B8HDP)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00B5LIE4C": {
+            "asin": "B00B5LIE4C",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Shaun T's Rockin' Body DVD Workout",
+            "normalizedName": "Shaun T's Rockin' Body DVD Workout",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

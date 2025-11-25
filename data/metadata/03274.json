@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1484775031": {
+            "asin": "1484775031",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Serafina and the Twisted Staff (A Serafina Novel)",
+            "normalizedName": "Serafina and the Twisted Staff (A Serafina Novel)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01BUHHI1K": {
+            "asin": "B01BUHHI1K",
+            "height": {
+                "unit": "IN",
+                "value": 1.25
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "Monica [ZIPPER POUCH] Premium Leather [STANDING] [CARD SLOT] Flip Cover Wallet Case for LG G3 (Red)",
+            "normalizedName": "Monica [ZIPPER POUCH] Premium Leather [STANDING] [CARD SLOT] Flip Cover Wallet Case for LG G3 (Red)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

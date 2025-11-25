@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000001FOD": {
+            "asin": "B000001FOD",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "name": "Velvet Underground Live 1969 volume 1",
+            "normalizedName": "Velvet Underground Live 1969 volume 1",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        },
+        "B00SX88JIQ": {
+            "asin": "B00SX88JIQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Black Box G1W-X Dashboard Dash Cam - Ultra Wide 170\u00b0 4X Zoom 6G Glass Lens - Full HD 1080P 2.7\" LCD Car DVR Camera Video Recorder with G-Sensor WDR Night Vision Motion Detection - NT96650 + AR0330",
+            "normalizedName": "Black Box G1W-X Dashboard Dash Cam - Ultra Wide 170\u00b0 4X Zoom 6G Glass Lens - Full HD 1080P 2.7\" LCD Car DVR Camera Video Recorder with G-Sensor WDR Night Vision Motion Detection - NT96650 + AR0330",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

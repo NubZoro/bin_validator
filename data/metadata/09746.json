@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00842LUYG": {
+            "asin": "B00842LUYG",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.199999984496
+            },
+            "name": "Globe-Weis Standard File Pockets, 5.25-Inch Expansion, Legal Size, Brown, Box of 10 (64234GW)",
+            "normalizedName": "Globe-Weis Standard File Pockets, 5.25-Inch Expansion, Legal Size, Brown, Box of 10 (64234GW)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00B5HOJF4": {
+            "asin": "B00B5HOJF4",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Dr. Mercola Children's Chewable Multivitamin - 60 Tablets - Natural Fruit Flavored - Complete Nutritional Balance Of 28 Vitamins, Minerals, And Trace Elements",
+            "normalizedName": "Dr. Mercola Children's Chewable Multivitamin - 60 Tablets - Natural Fruit Flavored - Complete Nutritional Balance Of 28 Vitamins, Minerals, And Trace Elements",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

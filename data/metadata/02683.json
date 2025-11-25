@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0078025664": {
+            "asin": "0078025664",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Managerial Accounting: Creating Value in a Dynamic Business Environment, 10th Edition",
+            "normalizedName": "Managerial Accounting: Creating Value in a Dynamic Business Environment, 10th Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B0000DDXPC": {
+            "asin": "B0000DDXPC",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Cuisinart FP-631AGTX 7-Cup Work Bowl with Handle, Clear",
+            "normalizedName": "Cuisinart FP-631AGTX 7-Cup Work Bowl with Handle, Clear",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B002ZNHIVO": {
+            "asin": "B002ZNHIVO",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Safco Products 2059BL Power Module for Rumba and Impromptu Tables (Tables sold separately), Black",
+            "normalizedName": "Safco Products 2059BL Power Module for Rumba and Impromptu Tables (Tables sold separately), Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B01DSY01UI": {
+            "asin": "B01DSY01UI",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Bark Solution \u00ae Rechargeable and Rainproof 330 yd Remote Dog Training E-collar with Beep/Vibration/Shock Electric Collar",
+            "normalizedName": "Bark Solution \u00ae Rechargeable and Rainproof 330 yd Remote Dog Training E-collar with Beep/Vibration/Shock Electric Collar",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

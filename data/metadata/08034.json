@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BKXVRU8": {
+            "asin": "B00BKXVRU8",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Reflective Vest for Running or Cycling Including Two 3M Safety Reflective Bands (Women and Men, with Pockets, Gear for Jogging, Biking, Walking)",
+            "normalizedName": "Reflective Vest for Running or Cycling Including Two 3M Safety Reflective Bands (Women and Men, with Pockets, Gear for Jogging, Biking, Walking)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B00UD0UVMO": {
+            "asin": "B00UD0UVMO",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Nerf Rival 50-Round Refill Pack",
+            "normalizedName": "Nerf Rival 50-Round Refill Pack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

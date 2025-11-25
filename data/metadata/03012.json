@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002E2GQU": {
+            "asin": "B0002E2GQU",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Lavazza Crema e Aroma - Coffee Beans, 2.2-Pound Bag",
+            "normalizedName": "Lavazza Crema e Aroma - Coffee Beans, 2.2-Pound Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00D901B4W": {
+            "asin": "B00D901B4W",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Kenu Airframe | Car Mount for Smartphones (Non Phablets) | Black",
+            "normalizedName": "Kenu Airframe | Car Mount for Smartphones (Non Phablets) | Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01CWK9WE0": {
+            "asin": "B01CWK9WE0",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Fritesla 16000mah Power Bank Portable Charger for Smartphones-Gold",
+            "normalizedName": "Fritesla 16000mah Power Bank Portable Charger for Smartphones-Gold",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

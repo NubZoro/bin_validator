@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005SI8YZC": {
+            "asin": "B005SI8YZC",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Handheld Multi-Purpose Pressurized Steam Cleaner for Stain Removal, Curtains, Crevasses, Bed Bug Control, Car Seats, Wallpaper Removal and More",
+            "normalizedName": "Handheld Multi-Purpose Pressurized Steam Cleaner for Stain Removal, Curtains, Crevasses, Bed Bug Control, Car Seats, Wallpaper Removal and More",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B01DKD9RIE": {
+            "asin": "B01DKD9RIE",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "HIGH PRESSURE-RESISTANCE DURABLE Garden Hose, Strongest Hose, Water Hose, Expandable Hose, with 8-way Spray Nozzle\uff0c Shutoff Valve and Hose Holder, 50 Feet Green",
+            "normalizedName": "HIGH PRESSURE-RESISTANCE DURABLE Garden Hose, Strongest Hose, Water Hose, Expandable Hose, with 8-way Spray Nozzle\uff0c Shutoff Valve and Hose Holder, 50 Feet Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5149999987295353
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

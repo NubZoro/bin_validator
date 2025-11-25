@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00014I2NW": {
+            "asin": "B00014I2NW",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Body Breakthrough Diet Trim-Maxx Tea Lemon - 30 Tea Bags",
+            "normalizedName": "Body Breakthrough Diet Trim-Maxx Tea Lemon - 30 Tea Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B005FEGYCO": {
+            "asin": "B005FEGYCO",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.0393700736
+            },
+            "name": "LE Adjustable Focus Mini CREE LED Flashlight Torch, Super Bright, Batteries Included, Zoomable LED Flashlights",
+            "normalizedName": "LE Adjustable Focus Mini CREE LED Flashlight Torch, Super Bright, Batteries Included, Zoomable LED Flashlights",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.6535433054
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

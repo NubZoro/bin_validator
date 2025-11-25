@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01C4PP8FK": {
+            "asin": "B01C4PP8FK",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "AA Energizer Ultimate Lithium L91 1.5V 24 Batteries \"In Original Box\"",
+            "normalizedName": "AA Energizer Ultimate Lithium L91 1.5V 24 Batteries \"In Original Box\"",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

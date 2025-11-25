@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ULQTE0": {
+            "asin": "B000ULQTE0",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "CAD U1 USB Dynamic Recording Microphone",
+            "normalizedName": "CAD U1 USB Dynamic Recording Microphone",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B00VFVGFWU": {
+            "asin": "B00VFVGFWU",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "GLW\u00ae 50w Outdoor LED Flood Lights Daylight White Security Light, Waterproof Floodlight Lamp 3700lm 350w Halogen Bulb Equivalent [Added Plug]",
+            "normalizedName": "GLW\u00ae 50w Outdoor LED Flood Lights Daylight White Security Light, Waterproof Floodlight Lamp 3700lm 350w Halogen Bulb Equivalent [Added Plug]",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2499999972745806
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

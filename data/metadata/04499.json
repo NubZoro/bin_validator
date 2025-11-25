@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GG0152": {
+            "asin": "B000GG0152",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "France Luxe 1/2\" Ultracomfort Headband - Tokyo",
+            "normalizedName": "France Luxe 1/2\" Ultracomfort Headband - Tokyo",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00TVE7X8I": {
+            "asin": "B00TVE7X8I",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Plarmia Hairserum Treatment M - 1.8 Oz",
+            "normalizedName": "Plarmia Hairserum Treatment M - 1.8 Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B012PSAZUE": {
+            "asin": "B012PSAZUE",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Lexar Professional Workflow CFR1 CompactFlash USB 3.0 Reader - LRWCFR1TBNA",
+            "normalizedName": "Lexar Professional Workflow CFR1 CompactFlash USB 3.0 Reader - LRWCFR1TBNA",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B016HL4CAY": {
+            "asin": "B016HL4CAY",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "VicTsing Gold-Plated HDMI to VGA Converter Adapter for PC, Laptop, DVD, Desktop (VS1-VC38BVT-VD)",
+            "normalizedName": "VicTsing Gold-Plated HDMI to VGA Converter Adapter for PC, Laptop, DVD, Desktop (VS1-VC38BVT-VD)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

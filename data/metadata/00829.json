@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CN8AGE2": {
+            "asin": "B00CN8AGE2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "LeapFrog LeapPad Ultra Gel Skin, Purple",
+            "normalizedName": "LeapFrog LeapPad Ultra Gel Skin, Purple",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B01BBG7Q1W": {
+            "asin": "B01BBG7Q1W",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Generic Replacement TV Remote Control Fit for AKB72914207 for LG AKB72914240 AKB72914003",
+            "normalizedName": "Generic Replacement TV Remote Control Fit for AKB72914207 for LG AKB72914240 AKB72914003",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1498722687": {
+            "asin": "1498722687",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Mathematical Statistics: Basic Ideas and Selected Topics, Volume II (Chapman & Hall/CRC Texts in Statistical Science)",
+            "normalizedName": "Mathematical Statistics: Basic Ideas and Selected Topics, Volume II (Chapman & Hall/CRC Texts in Statistical Science)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B00GHY5F3K": {
+            "asin": "B00GHY5F3K",
+            "height": {
+                "unit": "IN",
+                "value": 4.330708657
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.4251968418
+            },
+            "name": "AmazonBasics USB Powered Computer Speakers (A100)",
+            "normalizedName": "AmazonBasics USB Powered Computer Speakers (A100)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7636800934069836
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6692913328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

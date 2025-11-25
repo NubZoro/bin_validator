@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006JNK2": {
+            "asin": "B00006JNK2",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Expo 2 Low-Odor Dry Erase Markers, Chisel Tip, 12-Pack, Black",
+            "normalizedName": "12-Pack Expo 2 Low-Odor Dry Erase Markers, Chisel Tip, , Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

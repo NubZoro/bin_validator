@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CXVJWKI": {
+            "asin": "B00CXVJWKI",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Philips AVENT Natural Infant Starter Set, Pink",
+            "normalizedName": "Philips AVENT Natural Infant Starter Set, Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

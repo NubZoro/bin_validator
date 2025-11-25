@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GSY59PS": {
+            "asin": "B00GSY59PS",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Home Basics 2-Piece Velvet Scarf Hanger, Turquoise Flowers",
+            "normalizedName": "Home Basics 2-Piece Velvet Scarf Hanger, Turquoise Flowers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.649986730579609
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

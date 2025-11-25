@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FSKX266": {
+            "asin": "B00FSKX266",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Baby K'tan ORIGINAL Baby Carrier, Denim, Medium",
+            "normalizedName": "Baby K'tan ORIGINAL Baby Carrier, Denim, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B0192ZH6PU": {
+            "asin": "B0192ZH6PU",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Kingibon Wood Gymnastic Rings for home and professional crossfit strength training",
+            "normalizedName": "Kingibon Wood Gymnastic Rings for home and professional crossfit strength training",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.849999997610017
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

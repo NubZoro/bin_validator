@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003JO85GU": {
+            "asin": "B003JO85GU",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Rear Rack, Genuine Buddy - Chrome Prima",
+            "normalizedName": "Rear Rack, Genuine Buddy - Chrome Prima",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.199999987556
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

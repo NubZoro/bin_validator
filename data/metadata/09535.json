@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1592858945": {
+            "asin": "1592858945",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "The Interventionist",
+            "normalizedName": "The Interventionist",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "1609136977": {
+            "asin": "1609136977",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.9763779436
+            },
+            "name": "Applying Nursing Process: The Foundation for Clinical Reasoning",
+            "normalizedName": "Applying Nursing Process: The Foundation for Clinical Reasoning",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.0078740086
+            }
+        },
+        "B01DZ0GA78": {
+            "asin": "B01DZ0GA78",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.661417314
+            },
+            "name": "Soft Microfiber Non-Slip Yoga Mat Towel (24\" x 72\"). Great for Hot Yoga, Bikram Yoga, Ashtanga Yoga, pilates and more. +1 tree planted with every purchase (Grey) - FiveFourTen",
+            "normalizedName": "Soft Microfiber Non-Slip Yoga Mat Towel (24\" x 72\"). Great for Hot Yoga, Bikram Yoga, Ashtanga Yoga, pilates and more. +1 tree planted with every purchase (Grey) - FiveFourTen",
+            "quantity": 3,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

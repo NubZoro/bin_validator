@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0030L1J8S": {
+            "asin": "B0030L1J8S",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "XLC Pro Cable and Housing Cutter",
+            "normalizedName": "XLC Pro Cable and Housing Cutter",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00F8NAC66": {
+            "asin": "B00F8NAC66",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Bath and Body Works Silver Linings Pumpkin Wallflower",
+            "normalizedName": "Bath and Body Works Silver Linings Pumpkin Wallflower",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B01E5TFE0M": {
+            "asin": "B01E5TFE0M",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Yeti Rambler Straw Lid - 30oz",
+            "normalizedName": "Yeti Rambler Straw Lid - 30oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

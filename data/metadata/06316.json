@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005SAKW7S": {
+            "asin": "B005SAKW7S",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Asus Dual Band Wireless-N 600 SOHO Router, Fast Ethernet, 8 Guest SSID, Parental Access Time Control (RT-N53)",
+            "normalizedName": "Asus Dual Band Wireless-N 600 SOHO Router, Fast Ethernet, 8 Guest SSID, Parental Access Time Control (RT-N53)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B00BSKQIIE": {
+            "asin": "B00BSKQIIE",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Centaur Fleece Saddle Cover - Navy Standard",
+            "normalizedName": "Centaur Fleece Saddle Cover - Navy Standard",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

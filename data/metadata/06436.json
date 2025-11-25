@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0027UPPDI": {
+            "asin": "B0027UPPDI",
+            "height": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "KFI Products 100430 Winch Mount for Polaris",
+            "normalizedName": "KFI Products 100430 Winch Mount for Polaris",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

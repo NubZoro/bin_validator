@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000WOOR1M": {
+            "asin": "B000WOOR1M",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004
+            },
+            "name": "Kendall Sharps Container with Rotor Lid - 2 Gallon",
+            "normalizedName": "Kendall Sharps Container with Rotor Lid - 2 Gallon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B009SZ2R04": {
+            "asin": "B009SZ2R04",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Luxury Hotel-Spa Tub-Shower Bath Mat - Floor Mat - 2 Pack, Sage Green, 100% Ringspun Cotton, Luxury Size, Maximum Absorbency, Machine Washable (21 inch by 34 inch) by Utopia Towel",
+            "normalizedName": "2 Pack Luxury Hotel-Spa Tub-Shower Bath Mat - Floor Mat - , Sage Green, 100% Ringspun Cotton, Luxury Size, Maximum Absorbency, Machine Washable (21 inch by 34 inch) by Utopia Towel",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

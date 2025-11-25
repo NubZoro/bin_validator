@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000CD5FR": {
+            "asin": "B0000CD5FR",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Eagles : The Very Best Of (2CD)",
+            "normalizedName": "Eagles : The Very Best Of (2CD)",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00ENEHCEG": {
+            "asin": "B00ENEHCEG",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "name": "Schlage SC70Z 716 Hinge Pin Door Stop, Aged Bronze",
+            "normalizedName": "Schlage SC70Z 716 Hinge Pin Door Stop, Aged Bronze",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B013KIT27A": {
+            "asin": "B013KIT27A",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "[TeleSkins] - Hipster Astronaut Llama Galaxy - iPhone 6 / iPhone 6S Case - Ultra Durable Slim Fit,Protective Plastic Snap On Back Case / Cover for Girls [Fits (4.7 \") only]",
+            "normalizedName": "[TeleSkins] - Hipster Astronaut Llama Galaxy - iPhone 6 / iPhone 6S Case - Ultra Durable Slim Fit,Protective Plastic Snap On Back Case / Cover for Girls [Fits (4.7 \") only]",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

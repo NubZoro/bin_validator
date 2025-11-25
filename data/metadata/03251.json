@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013F7GKI": {
+            "asin": "B0013F7GKI",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Diaper Dekor Plus 2-Pack Refill Biodegradable",
+            "normalizedName": "2-Pack Diaper Dekor Plus Refill Biodegradable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00TV293UG": {
+            "asin": "B00TV293UG",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Shamrock 83013-L-BX Nitrile Industrial Grade Work Glove, Powder-Free, Textured, Non Sterile, Latex Free and Allergy Free, 5.5 mil-6 mil, Large, Black (Pack of 100)",
+            "normalizedName": "(Pack of 100) Shamrock 83013-L-BX Nitrile Industrial Grade Work Glove, Powder-Free, Textured, Non Sterile, Latex Free and Allergy Free, 5.5 mil-6 mil, Large, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

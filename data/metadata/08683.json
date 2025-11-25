@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001ODZIPE": {
+            "asin": "B001ODZIPE",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.204724397
+            },
+            "name": "Oxbow Animal Health Guinea Pig Bene Terra Organic Food and Treats, 3-Pound",
+            "normalizedName": "Oxbow Animal Health Guinea Pig Bene Terra Organic Food and Treats, 3-Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.09
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.086614166
+            }
+        },
+        "B00IU3ET24": {
+            "asin": "B00IU3ET24",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.699999981946
+            },
+            "name": "Dreamhome - 20\" X 20\" Square Poly Pillow Insert (1, White)",
+            "normalizedName": "Dreamhome - 20\" X 20\" Square Poly Pillow Insert (1, White)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

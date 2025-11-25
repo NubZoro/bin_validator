@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0310733898": {
+            "asin": "0310733898",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Baby Wren and the Great Gift",
+            "normalizedName": "Baby Wren and the Great Gift",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B00G6TG5YE": {
+            "asin": "B00G6TG5YE",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "StarTech.com USB 3.0 to 2.5/3.5in SATA Hard Drive Duplicator Docking Station - HDD / SSD Duplication - Standalone Hard Drive / HDD Clone",
+            "normalizedName": "StarTech.com USB 3.0 to 2.5/3.5in SATA Hard Drive Duplicator Docking Station - HDD / SSD Duplication - Standalone Hard Drive / HDD Clone",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01DNEL3ZK": {
+            "asin": "B01DNEL3ZK",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "8\" Digital Calendar Alarm Day Clock by Svinz with Extra Large Non-Abbreviated Day & Month SDC008 - 3 Alarm Settings",
+            "normalizedName": "8\" Digital Calendar Alarm Day Clock by Svinz with Extra Large Non-Abbreviated Day & Month SDC008 - 3 Alarm Settings",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001NQIPMU": {
+            "asin": "B001NQIPMU",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Fairy Tales Rosemary Repel Cr\u00e8me Conditioner, 32 oz",
+            "normalizedName": "Fairy Tales Rosemary Repel Cr\u00e8me Conditioner, 32 oz",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00967J4PK": {
+            "asin": "B00967J4PK",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Southern Homewares  Pesticide Powder Duster",
+            "normalizedName": "Southern Homewares  Pesticide Powder Duster",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

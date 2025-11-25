@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B019CWVEKQ": {
+            "asin": "B019CWVEKQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Star Wars\u2122 Deluxe Darth Maul Sith Overhead Latex Mask",
+            "normalizedName": "Star Wars\u2122 Deluxe Darth Maul Sith Overhead Latex Mask",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.749999988015
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

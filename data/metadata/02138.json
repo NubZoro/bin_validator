@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001AHT2FQ": {
+            "asin": "B001AHT2FQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Play-Doh Super Molding Mania",
+            "normalizedName": "Play-Doh Super Molding Mania",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

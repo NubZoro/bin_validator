@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DS842HS": {
+            "asin": "B00DS842HS",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Viva Labs The Finest Organic Extra Virgin Coconut Oil, 16 Ounce",
+            "normalizedName": "Viva Labs The Finest Organic Extra Virgin Coconut Oil, 16 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00FWUKJ2M": {
+            "asin": "B00FWUKJ2M",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Zwilling J.A. Henckels Rotating Nail Clipper",
+            "normalizedName": "Zwilling J.A. Henckels Rotating Nail Clipper",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00WH1ROHC": {
+            "asin": "B00WH1ROHC",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Funny Guy Mugs I Heart My Wife Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs I Heart My Wife Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01B25Q4MY": {
+            "asin": "B01B25Q4MY",
+            "height": {
+                "unit": "IN",
+                "value": 0.9448818888
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "Fitbit Alta Classic Accessory Band, Teal Large",
+            "normalizedName": "Fitbit Alta Classic Accessory Band, Teal Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7795275552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

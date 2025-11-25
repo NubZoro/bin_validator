@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006L7STWW": {
+            "asin": "B006L7STWW",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Hoover 2X SteamPlus Cleaning Solution 32 oz, WH00015",
+            "normalizedName": "Hoover 2X SteamPlus Cleaning Solution 32 oz, WH00015",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00F7VQNLM": {
+            "asin": "B00F7VQNLM",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "BulkSupplements Pure Zinc Oxide Powder (250 grams)",
+            "normalizedName": "BulkSupplements Pure Zinc Oxide Powder (250 grams)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

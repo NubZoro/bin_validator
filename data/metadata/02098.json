@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0520225228": {
+            "asin": "0520225228",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9212598324
+            },
+            "name": "The Visual Culture of American Religions",
+            "normalizedName": "The Visual Culture of American Religions",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.16
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.0078740086
+            }
+        },
+        "B013HY0X6G": {
+            "asin": "B013HY0X6G",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Ankway Ceramic Cutlery Kitchen Knives 4 pieces with 1 Peeler -White",
+            "normalizedName": "Ankway Ceramic Cutlery Kitchen Knives 4 pieces with 1 Peeler -White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

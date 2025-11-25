@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0017KGFCO": {
+            "asin": "B0017KGFCO",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Ademco Honeywell 5815 Wireless Door / Window Transmitter",
+            "normalizedName": "Ademco Honeywell 5815 Wireless Door / Window Transmitter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B003TZ9YZU": {
+            "asin": "B003TZ9YZU",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "2gig DW10 Thin Door Window Contact ETL Listed",
+            "normalizedName": "2gig DW10 Thin Door Window Contact ETL Listed",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.199999997756
+            }
+        },
+        "B00ITRUA2Y": {
+            "asin": "B00ITRUA2Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Entertaining with Caspari Cocktail Napkins, Berry Chintz Ivory, Box of 40",
+            "normalizedName": "Entertaining with Caspari Cocktail Napkins, Berry Chintz Ivory, Box of 40",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01CXT0JP6": {
+            "asin": "B01CXT0JP6",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Wireless Bluetooth Speaker,Naturalrays Ultra-Portable Outdoor Waterproof Boombox Speaker for iPhone, iPad Mini, iPad 4/3/2, iTouch, Nexus, Samsung,other Smart Phones and Mp3 Players Blue",
+            "normalizedName": "Wireless Bluetooth Speaker,Naturalrays Ultra-Portable Outdoor Waterproof Boombox Speaker for iPhone, iPad Mini, iPad 4/3/2, iTouch, Nexus, Samsung,other Smart Phones and Mp3 Players Blue",
+            "quantity": 15,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 19
+}

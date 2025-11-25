@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011IH67NC": {
+            "asin": "B011IH67NC",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Bose SoundTouch 10 Wireless Music System- White",
+            "normalizedName": "Bose SoundTouch 10 Wireless Music System- White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.049999996603708
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B017GAA7IG": {
+            "asin": "B017GAA7IG",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Halo 100% Cotton Muslin Sleep Sack Wearable Blanket, Gray Tree Leaf, Small",
+            "normalizedName": "Halo 100% Cotton Muslin Sleep Sack Wearable Blanket, Gray Tree Leaf, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

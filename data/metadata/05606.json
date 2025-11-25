@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00G2G3UPS": {
+            "asin": "B00G2G3UPS",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.599999983068
+            },
+            "name": "32\" Folding Pick up & Reaching Tool - Ez Reacher - Easy Reach. Change That Bulb!",
+            "normalizedName": "32\" Folding Pick up & Reaching Tool - Ez Reacher - Easy Reach. Change That Bulb!",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B00W1XN60A": {
+            "asin": "B00W1XN60A",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "2 Pack Standard Plastic Adult Hangers - Hot Lime",
+            "normalizedName": "2 Pack  Standard Plastic Adult Hangers - Hot Lime",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

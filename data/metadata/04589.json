@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0821851683": {
+            "asin": "0821851683",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Representation Theory of Groups and Algebras (Contemporary Mathematics)",
+            "normalizedName": "Representation Theory of Groups and Algebras (Contemporary Mathematics)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "1580137962": {
+            "asin": "1580137962",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "A Year in a Castle (Time Goes By)",
+            "normalizedName": "A Year in a Castle (Time Goes By)",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B00UEAI3OQ": {
+            "asin": "B00UEAI3OQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Sodynee Jewelry and Cosmetic Storage  2 Piece Acrylic Makeup Organizer",
+            "normalizedName": "Sodynee Jewelry and Cosmetic Storage  2 Piece Acrylic Makeup Organizer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

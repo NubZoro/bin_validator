@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001NIEK3Q": {
+            "asin": "B001NIEK3Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Belkin Screen Cleaning Kit",
+            "normalizedName": "Belkin Screen Cleaning Kit",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00J5KVR3K": {
+            "asin": "B00J5KVR3K",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Crayola Paint Maker Refill packs",
+            "normalizedName": "Crayola Paint Maker Refill packs",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

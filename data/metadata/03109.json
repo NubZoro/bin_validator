@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EPDMI62": {
+            "asin": "B00EPDMI62",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Howard Elliott 34092 Peaceful Buddha Wall Vase, Eggshell White",
+            "normalizedName": "Howard Elliott 34092 Peaceful Buddha Wall Vase, Eggshell White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

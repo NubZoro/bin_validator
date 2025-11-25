@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TWMMNYS": {
+            "asin": "B00TWMMNYS",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Oxford Light OL454418 3 Outlet Indoor Extension Cord, 8 Feet (white) Flat Plug Flat Extension Cord, 3-Wire, White, 8-Foot",
+            "normalizedName": "Oxford Light OL454418 3 Outlet Indoor Extension Cord, 8 Feet (white) Flat Plug Flat Extension Cord, 3-Wire, White, 8-Foot",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B01GCKO9VW": {
+            "asin": "B01GCKO9VW",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "GoPro Camera Pro Seat Rail Mount, Professional Video Accessory, Black (AMBSM-001)",
+            "normalizedName": "GoPro Camera Pro Seat Rail Mount, Professional Video Accessory, Black (AMBSM-001)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

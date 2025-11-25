@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002Y1U2M4": {
+            "asin": "B002Y1U2M4",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "10 pcs Panasonic Lithium CR123A 3V Photo Lithium Batteries",
+            "normalizedName": "10 pcs Panasonic Lithium CR123A 3V Photo Lithium Batteries",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00TAPL0SC": {
+            "asin": "B00TAPL0SC",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Eyekepper Spring Hinges 80's Classic Reading Glasses +2.75",
+            "normalizedName": "Eyekepper Spring Hinges 80's Classic Reading Glasses +2.75",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

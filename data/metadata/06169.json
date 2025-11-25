@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006JNJW": {
+            "asin": "B00006JNJW",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186
+            },
+            "name": "Expo Original Dry Erase Markers, Fine Point, 12-Pack, Black",
+            "normalizedName": "12-Pack Expo Original Dry Erase Markers, Fine Point, , Black",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

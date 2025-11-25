@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008PTIR94": {
+            "asin": "B008PTIR94",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Plastic Communion Cups - 1000 Box",
+            "normalizedName": "Plastic Communion Cups - 1000 Box",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00GICILLY": {
+            "asin": "B00GICILLY",
+            "height": {
+                "unit": "IN",
+                "value": 4.6456692866
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.4881889616
+            },
+            "name": "Fisher-Price Hidden Treasure Adventure Set",
+            "normalizedName": "Fisher-Price Hidden Treasure Adventure Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.455036078280941
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.7322834526
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00YO8DQUU": {
+            "asin": "B00YO8DQUU",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "Optimum Alpha Dietary Supplement (-)-Epicatechin 60 Capsules",
+            "normalizedName": "Optimum Alpha Dietary Supplement (-)-Epicatechin 60 Capsules",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.199999998776
+            }
+        },
+        "B01CLPOUS4": {
+            "asin": "B01CLPOUS4",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Reverse American Flag Patch, Old Glory (Red, White & Blue)",
+            "normalizedName": "Reverse American Flag Patch, Old Glory (Red, White & Blue)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

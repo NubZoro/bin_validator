@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000QV32CQ": {
+            "asin": "B000QV32CQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Lundberg Brown Short Grain Rice, Organic, 32 Oz",
+            "normalizedName": "Lundberg Brown Short Grain Rice, Organic, 32 Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00G97XHWG": {
+            "asin": "B00G97XHWG",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Franklin Sports Baseball Youth Sliding Shorts, Medium",
+            "normalizedName": "Franklin Sports Baseball Youth Sliding Shorts, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

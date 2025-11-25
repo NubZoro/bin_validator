@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "193362275X": {
+            "asin": "193362275X",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Mighty Bright 40516 XtraFlex2 Book Light, Pink",
+            "normalizedName": "Mighty Bright 40516 XtraFlex2 Book Light, Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00ZV61VOW": {
+            "asin": "B00ZV61VOW",
+            "height": {
+                "unit": "IN",
+                "value": 4.1
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.2
+            },
+            "name": "Natural Straw Packable Sun Hat with Black Sash- Wide Front Brim and Smaller Back",
+            "normalizedName": "Natural Straw Packable Sun Hat with Black Sash- Wide Front Brim and Smaller Back",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

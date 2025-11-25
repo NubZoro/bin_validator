@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0826196756": {
+            "asin": "0826196756",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Treating Out of Control Sexual Behavior: Rethinking Sex Addiciton",
+            "normalizedName": "Treating Out of Control Sexual Behavior: Rethinking Sex Addiciton",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "1554539641": {
+            "asin": "1554539641",
+            "height": {
+                "unit": "IN",
+                "value": 0.2362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.3464566844
+            },
+            "name": "Binky: License to Scratch (A Binky Adventure)",
+            "normalizedName": "Binky: License to Scratch (A Binky Adventure)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.3779527494
+            }
+        },
+        "1561456993": {
+            "asin": "1561456993",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "About Birds: A Guide for Children, 2nd edition",
+            "normalizedName": "About Birds: A Guide for Children, 2nd edition",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B00JWVSS2A": {
+            "asin": "B00JWVSS2A",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Betty Lou's Organic Chocolate Powdered Peanut Butter, 1.5 Pound (Packaging May Vary)",
+            "normalizedName": "Betty Lou's Organic Chocolate Powdered Peanut Butter, 1.5 Pound (Packaging May Vary)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 19
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000PLUMT8": {
+            "asin": "B000PLUMT8",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Westland Giftware Mwah Magnetic Shih Tzus Salt and Pepper Shaker Set, 3-Inch",
+            "normalizedName": "Westland Giftware Mwah Magnetic Shih Tzus Salt and Pepper Shaker Set, 3-Inch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B01192NMWA": {
+            "asin": "B01192NMWA",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Outop Long Straight Anime Supia-Yisol Cosplay Wigs 80cm Navy Blue",
+            "normalizedName": "Outop Long Straight Anime Supia-Yisol Cosplay Wigs 80cm Navy Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

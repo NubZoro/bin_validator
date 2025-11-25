@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004UBTMZY": {
+            "asin": "B004UBTMZY",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Dr Mercola D-Mannose - 30 Capsules - DDS Probiotic Proprietary Blend - Cran-Gyn Proprietary Bland - Premium Dietary Supplement",
+            "normalizedName": "Dr Mercola D-Mannose - 30 Capsules - DDS Probiotic Proprietary Blend - Cran-Gyn Proprietary Bland - Premium Dietary Supplement",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B00GFYOZJM": {
+            "asin": "B00GFYOZJM",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "King Athletic Jump Rope for Fitness Training - Black",
+            "normalizedName": "King Athletic Jump Rope for Fitness Training - Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00O92POUG": {
+            "asin": "B00O92POUG",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Dr. Mercola Fermented Black Garlic - Minimum Of 1.2 Milligrams (mg) Of S-allyl-cysteine (SAC) In Each Recommended Serving - 60 Capsules",
+            "normalizedName": "Dr. Mercola Fermented Black Garlic - Minimum Of 1.2 Milligrams (mg) Of S-allyl-cysteine (SAC) In Each Recommended Serving - 60 Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B017PCGABI": {
+            "asin": "B017PCGABI",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Garnier SkinActive Micellar Cleansing Water All-in-1 Cleanser and Makeup Remover, 13.5 Fluid Ounce",
+            "normalizedName": "Garnier SkinActive Micellar Cleansing Water All-in-1 Cleanser and Makeup Remover, 13.5 Fluid Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

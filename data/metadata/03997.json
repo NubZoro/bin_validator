@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00Q1VBX76": {
+            "asin": "B00Q1VBX76",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "ASICS Women's Performance Run Storm Shelter Jacket Performance Black LG (US 10-12)",
+            "normalizedName": "ASICS Women's Performance Run Storm Shelter Jacket Performance Black LG (US 10-12)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B00S0TS1KY": {
+            "asin": "B00S0TS1KY",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Medium Gumball Bank",
+            "normalizedName": "Medium Gumball Bank",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

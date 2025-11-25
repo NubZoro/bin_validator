@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009UOPSOK": {
+            "asin": "B009UOPSOK",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Classy Autos Honda Accord WHITE Interior LED Package (6 Pieces)",
+            "normalizedName": "Classy Autos Honda Accord WHITE Interior LED Package (6 Pieces)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B00DGV5SCA": {
+            "asin": "B00DGV5SCA",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Jim Shore for Enesco Heartwood Creek French Santa Ornament, 4.25-Inch",
+            "normalizedName": "Jim Shore for Enesco Heartwood Creek French Santa Ornament, 4.25-Inch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

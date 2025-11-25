@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000E199RA": {
+            "asin": "B000E199RA",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Tazo Earl Grey Black Tea, 20-Count Tea Bags (Pack of 6)",
+            "normalizedName": "(Pack of 6) Tazo Earl Grey Black Tea, 20-Count Tea Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B001DNOV7G": {
+            "asin": "B001DNOV7G",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Pfister 00131XA 3-Handle Tub & Shower Rough-In Valve",
+            "normalizedName": "Pfister 00131XA 3-Handle Tub & Shower Rough-In Valve",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

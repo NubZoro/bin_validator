@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011WT8XNI": {
+            "asin": "B011WT8XNI",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Kangaroo Deluxe Stove Pipe Abraham (Abe) Lincoln Hat",
+            "normalizedName": "Kangaroo Deluxe Stove Pipe Abraham (Abe) Lincoln Hat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

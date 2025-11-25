@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013LQJKU": {
+            "asin": "B0013LQJKU",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Southern Ag Calcium Nitrate - 5 Pound Bag",
+            "normalizedName": "Southern Ag Calcium Nitrate - 5 Pound Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.5699999953290495
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B008TLBN2Q": {
+            "asin": "B008TLBN2Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.199999983475998
+            },
+            "name": "LinenTablecloth 70 x 120-Inch Rectangular Polyester Tablecloth White",
+            "normalizedName": "LinenTablecloth 70 x 120-Inch Rectangular Polyester Tablecloth White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B00AYPOHMI": {
+            "asin": "B00AYPOHMI",
+            "height": {
+                "unit": "IN",
+                "value": 0.9
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.0
+            },
+            "name": "Glamorway Plaid Paper Towel Napkin Holder Box Tissue Case Cover for Car Sun Visor",
+            "normalizedName": "Glamorway Plaid Paper Towel Napkin Holder Box Tissue Case Cover for Car Sun Visor",
+            "quantity": 3,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.9
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

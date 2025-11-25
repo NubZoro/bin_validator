@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005EL6VOY": {
+            "asin": "B005EL6VOY",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Coach's Oats 100% Whole Grain Oatmeal, 4.5 lbs",
+            "normalizedName": "Coach's Oats 100% Whole Grain Oatmeal, 4.5 lbs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00JV4KSTE": {
+            "asin": "B00JV4KSTE",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "HotelSpa\u00ae Spectrum\u2122 Ultra-Luxury 7-setting / 7-color LED Handheld Shower-Head with Chrome Face. 7 colors of LED Lights change automatically every few seconds.",
+            "normalizedName": "HotelSpa\u00ae Spectrum\u2122 Ultra-Luxury 7-setting / 7-color LED Handheld Shower-Head with Chrome Face. 7 colors of LED Lights change automatically every few seconds.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00O7GNS70": {
+            "asin": "B00O7GNS70",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "WGV Clear Bud Vase with Square Opening",
+            "normalizedName": "WGV Clear Bud Vase with Square Opening",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B017L1JSJ4": {
+            "asin": "B017L1JSJ4",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Gold Ceramic 1 Inch Flat Iron 5871",
+            "normalizedName": "Gold Ceramic 1 Inch Flat Iron 5871",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

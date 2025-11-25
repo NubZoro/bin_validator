@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ENEI2Y": {
+            "asin": "B000ENEI2Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Balanceuticals Seabuckthorn Seed Oil, 500 mg Dietary Supplement Softgels, 60-Count Bottle",
+            "normalizedName": "Balanceuticals Seabuckthorn Seed Oil, 500 mg Dietary Supplement Softgels, 60-Count Bottle",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B000OLNEUI": {
+            "asin": "B000OLNEUI",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Hero Decks - New England Patriots - Playing Cards",
+            "normalizedName": "Hero Decks - New England Patriots - Playing Cards",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00G4E98U4": {
+            "asin": "B00G4E98U4",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "FootMatters Round Shoelaces - 36 Inch - Camo",
+            "normalizedName": "FootMatters Round Shoelaces - 36 Inch - Camo",
+            "quantity": 16,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00TKFCYP0": {
+            "asin": "B00TKFCYP0",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "SanDisk Cruzer CZ36 128GB USB 2.0 Flash Drive- SDCZ36-128G-B35",
+            "normalizedName": "SanDisk Cruzer CZ36 128GB USB 2.0 Flash Drive- SDCZ36-128G-B35",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 27
+}

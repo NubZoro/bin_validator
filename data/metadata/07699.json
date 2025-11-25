@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0027CS7BS": {
+            "asin": "B0027CS7BS",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "VTech Sing and Discover Story Piano",
+            "normalizedName": "VTech Sing and Discover Story Piano",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B009MVA3HS": {
+            "asin": "B009MVA3HS",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "ACDelco 18A2606A Advantage Non-Coated Front Disc Brake Rotor",
+            "normalizedName": "ACDelco 18A2606A Advantage Non-Coated Front Disc Brake Rotor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 17.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            }
+        },
+        "B00R8ZVJ8C": {
+            "asin": "B00R8ZVJ8C",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Monster High Ghoul Fair Scarah Screams Doll",
+            "normalizedName": "Monster High Ghoul Fair Scarah Screams Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

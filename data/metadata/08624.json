@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001E70PZ8": {
+            "asin": "B001E70PZ8",
+            "height": {
+                "unit": "IN",
+                "value": 2.799999997144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Design House 538371 Calisto Euro Toilet Paper Holder, Satin Nickel",
+            "normalizedName": "Design House 538371 Calisto Euro Toilet Paper Holder, Satin Nickel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B007K1M4MY": {
+            "asin": "B007K1M4MY",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Spiderman Toothbrush Travel Kit - 2 Pc",
+            "normalizedName": "Spiderman Toothbrush Travel Kit - 2 Pc",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B00BVD0D66": {
+            "asin": "B00BVD0D66",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "6 Pack Belkin Power Conserve Illuminated Switch F7c016q - Bulk Packaging",
+            "normalizedName": "6 Pack  Belkin Power Conserve Illuminated Switch F7c016q - Bulk Packaging",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

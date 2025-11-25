@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BQ7TB6": {
+            "asin": "B000BQ7TB6",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002
+            },
+            "name": "WELLINGTON CORDAGE 7097-CL Clothesline Tightener",
+            "normalizedName": "WELLINGTON CORDAGE 7097-CL Clothesline Tightener",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B003NE9J7A": {
+            "asin": "B003NE9J7A",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Can-C Plus 90 Tablets",
+            "normalizedName": "Can-C Plus 90 Tablets",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00GM028SY": {
+            "asin": "B00GM028SY",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Funny Guy Mugs I Love Me Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs I Love Me Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01CJF1RZ0": {
+            "asin": "B01CJF1RZ0",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.6377952678
+            },
+            "name": "Galaxy S7 Edge Case, Pasonomi\u00ae [Slim Fit] [Kickstand Feature] Hybrid Dual Layer Armor Defender Full Body Protective Case Cover for Samsung Galaxy S7 Edge ( Golden)",
+            "normalizedName": "Galaxy S7 Edge Case, Pasonomi\u00ae [Slim Fit] [Kickstand Feature] Hybrid Dual Layer Armor Defender Full Body Protective Case Cover for Samsung Galaxy S7 Edge ( Golden)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.2519684996
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K087BM2": {
+            "asin": "B00K087BM2",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Transcend 5Gbs 2 TB USB 3.0 External Hard Drive (TS2TSJ25M3)",
+            "normalizedName": "Transcend 5Gbs 2 TB USB 3.0 External Hard Drive (TS2TSJ25M3)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

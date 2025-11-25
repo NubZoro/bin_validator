@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ZM34MO": {
+            "asin": "B000ZM34MO",
+            "height": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.330708657
+            },
+            "name": "Manuka Health MGO 400 Plus Honey, 1.1 Pound",
+            "normalizedName": "Manuka Health MGO 400 Plus Honey, 1.1 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1904840640480427
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.6771653516
+            }
+        },
+        "B005756GYM": {
+            "asin": "B005756GYM",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Olympus VN-7200 Digital Voice Recorder (V404130BU000)",
+            "normalizedName": "Olympus VN-7200 Digital Voice Recorder (V404130BU000)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B008FQZUE2": {
+            "asin": "B008FQZUE2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Girl Scouts Cookies Flavored - Lip Smacker - Coconut Caramel Stripes Duo Lip Glosses",
+            "normalizedName": "Girl Scouts Cookies Flavored - Lip Smacker - Coconut Caramel Stripes Duo Lip Glosses",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00RSOLXFM": {
+            "asin": "B00RSOLXFM",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676001
+            },
+            "name": "EXTRA-O Car Air Purifier Ionizer with Home 12V Adapter - Removes Cigarette Smoke, Bacteria, Odor Smell - Helps With Allergies - Mini Air Cleaner Gadget Smoke Eater Eliminator Remover - Silver",
+            "normalizedName": "EXTRA-O Car Air Purifier Ionizer with Home 12V Adapter - Removes Cigarette Smoke, Bacteria, Odor Smell - Helps With Allergies - Mini Air Cleaner Gadget Smoke Eater Eliminator Remover - Silver",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

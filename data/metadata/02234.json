@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0026W3FDY": {
+            "asin": "B0026W3FDY",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Spring Valley - Flush Free Niacin (B-3) 500 mg, 240 Capsules (2 Bottles of 120)",
+            "normalizedName": "Spring Valley - Flush Free Niacin (B-3) 500 mg, 240 Capsules (2 Bottles of 120)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B018F39YKA": {
+            "asin": "B018F39YKA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "The Ginger People Gin Gins Hard Candy - 3 oz (Pack of 2)",
+            "normalizedName": "(Pack of 2) The Ginger People Gin Gins Hard Candy - 3 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

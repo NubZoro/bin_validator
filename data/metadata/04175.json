@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ZJSH2E": {
+            "asin": "B000ZJSH2E",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "OK1 GLV1032L Mesh Backed Lifting Gloves, Large, White (Case of 4)",
+            "normalizedName": "(Case of 4) OK1 GLV1032L Mesh Backed Lifting Gloves, Large, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B003L1ZYZ6": {
+            "asin": "B003L1ZYZ6",
+            "height": {
+                "unit": "IN",
+                "value": 1.3779527545
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.3779527494
+            },
+            "name": "AmazonBasics Wireless Remote Control for Nikon Digital SLR Cameras",
+            "normalizedName": "AmazonBasics Wireless Remote Control for Nikon Digital SLR Cameras",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4094488144
+            }
+        },
+        "B00A3CPJF6": {
+            "asin": "B00A3CPJF6",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Quantum Yoga Beauty",
+            "normalizedName": "Quantum Yoga Beauty",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770734815265533
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00XPSS33A": {
+            "asin": "B00XPSS33A",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Arm & Hammer Pet Fresh Carpet Odor Eliminator Plus Oxi Clean Dirt Fighters (3 Pack)",
+            "normalizedName": "(3 Pack) Arm & Hammer Pet Fresh Carpet Odor Eliminator Plus Oxi Clean Dirt Fighters",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

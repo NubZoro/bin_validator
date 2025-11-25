@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000E347DY": {
+            "asin": "B000E347DY",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Dorman 624-314 Transmission Line",
+            "normalizedName": "Dorman 624-314 Transmission Line",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B004G9C0SQ": {
+            "asin": "B004G9C0SQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Yankee Candle Pink Sands Large Jar 22oz Candle",
+            "normalizedName": "Yankee Candle Pink Sands Large Jar 22oz Candle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B018OR0ZE6": {
+            "asin": "B018OR0ZE6",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Staedtler Noris Club 145 Spm36 Colouring Pencils in Sport Design Tin - Assorted Colors (Pack of 36)",
+            "normalizedName": "(Pack of 36) Staedtler Noris Club 145 Spm36 Colouring Pencils in Sport Design Tin - Assorted Colors",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

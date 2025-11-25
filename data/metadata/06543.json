@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004GW6O9E": {
+            "asin": "B004GW6O9E",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "L\u00c4RABAR Gluten Free Fruit & Nut Food Bar, Peanut Butter Cookie, 1.7 oz, 16 Count",
+            "normalizedName": "L\u00c4RABAR Gluten Free Fruit & Nut Food Bar, Peanut Butter Cookie, 1.7 oz, 16 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.299999998071242
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00GK5VC8I": {
+            "asin": "B00GK5VC8I",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "MSM 1500 Mg, 32 Oz Liquid (1 Bottle)",
+            "normalizedName": "MSM 1500 Mg, 32 Oz Liquid (1 Bottle)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

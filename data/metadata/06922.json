@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001G4KUZ4": {
+            "asin": "B001G4KUZ4",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Benefiber Drink Mix, Taste Free, 28 Stick Packs",
+            "normalizedName": "Benefiber Drink Mix, Taste Free, 28 Stick Packs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00A7WIXOQ": {
+            "asin": "B00A7WIXOQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "BLACK+DECKER BDCF20 20-Volt Flashlight",
+            "normalizedName": "BLACK+DECKER BDCF20 20-Volt Flashlight",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

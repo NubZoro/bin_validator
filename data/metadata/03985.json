@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KN2AP6Y": {
+            "asin": "B00KN2AP6Y",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "1 X Glass Hydrometer Test Jar",
+            "normalizedName": "1 X Glass Hydrometer Test Jar",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00PK3CYKQ": {
+            "asin": "B00PK3CYKQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Havahart 6400 Snake Shield Snake Repellent, 4 Pounds",
+            "normalizedName": "Havahart 6400 Snake Shield Snake Repellent, 4 Pounds",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00PXLOH14": {
+            "asin": "B00PXLOH14",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "New Windows 8 UI Design Pupug 7-Inch Double 2-DIN In Dash Car DVD Radio Stereo Player Head Deck Touchscreen LCD Monitor with DVD/CD/MP3/MP4/USB/SD/AMFM/RDS/Bluetooth and GPS Navigation Rotate Menu HD:800*480 LCD Free GPS Antenna+Free SD GPS Map",
+            "normalizedName": "New Windows 8 UI Design Pupug 7-Inch Double 2-DIN In Dash Car DVD Radio Stereo Player Head Deck Touchscreen LCD Monitor with DVD/CD/MP3/MP4/USB/SD/AMFM/RDS/Bluetooth and GPS Navigation Rotate Menu HD:800*480 LCD Free GPS Antenna+Free SD GPS Map",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

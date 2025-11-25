@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D3MR1KO": {
+            "asin": "B00D3MR1KO",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Daron FDNY Mighty Fire Truck",
+            "normalizedName": "Daron FDNY Mighty Fire Truck",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01DIM9A70": {
+            "asin": "B01DIM9A70",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "AiSi 12 Pcs Premium Synthetic Kabuki Makeup Brush Set Cosmetics Foundation Blending Blush Eyeliner Face Powder Brush Makeup Brush Kit",
+            "normalizedName": "AiSi 12 Pcs Premium Synthetic Kabuki Makeup Brush Set Cosmetics Foundation Blending Blush Eyeliner Face Powder Brush Makeup Brush Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B01E43RCFE": {
+            "asin": "B01E43RCFE",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Magic Balloons Water Balloons, Colorfull Water 111 Balloons (ITEM 1)",
+            "normalizedName": "Magic Balloons Water Balloons, Colorfull Water 111 Balloons (ITEM 1)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1899999998406678
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01F5O2ZJO": {
+            "asin": "B01F5O2ZJO",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "[New Version] Taister USB Dual Charging Dock Charger Station for XBOX ONE Controller Smart Charger with 2pcs Rechargeable Battery",
+            "normalizedName": "[New Version] Taister USB Dual Charging Dock Charger Station for XBOX ONE Controller Smart Charger with 2pcs Rechargeable Battery",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.8999999970420003
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

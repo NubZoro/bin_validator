@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006JAPSOI": {
+            "asin": "B006JAPSOI",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "60 Rayovac Extra Mercury Free Hearing Aid Batteries Size: 10 + Battery Holder Keychain Kit",
+            "normalizedName": "60 Rayovac Extra Mercury Free Hearing Aid Batteries Size: 10 + Battery Holder Keychain Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B015TC63LI": {
+            "asin": "B015TC63LI",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "My Little Pony POP and Starter Kits",
+            "normalizedName": "My Little Pony POP and Starter Kits",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B015ZNDYF4": {
+            "asin": "B015ZNDYF4",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Universal Adaptor Worldwide Travel Adapter with Built In Dual USB Charger Ports All-in-one Chargers 100-240V Surge/Spike Protected Electrical Plug",
+            "normalizedName": "Universal Adaptor Worldwide Travel Adapter with Built In Dual USB Charger Ports All-in-one Chargers 100-240V Surge/Spike Protected Electrical Plug",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

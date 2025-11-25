@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00979OEQQ": {
+            "asin": "B00979OEQQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Hot Leathers Skeleton Mechanic Gloves (Black, X-Large)",
+            "normalizedName": "Hot Leathers Skeleton Mechanic Gloves (Black, X-Large)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B01E612434": {
+            "asin": "B01E612434",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Original OEM Samsung Galaxy S5 battery (NFC) EB-BG900BBE 2800mAh - W/ Battery Protective Case - Retail Packaging",
+            "normalizedName": "Original OEM Samsung Galaxy S5 battery (NFC) EB-BG900BBE 2800mAh - W/ Battery Protective Case - Retail Packaging",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

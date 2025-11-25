@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009W7M82": {
+            "asin": "B0009W7M82",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Snug Denture Cushions, 2-Count Cushions (Pack of 6)",
+            "normalizedName": "(Pack of 6) Snug Denture Cushions, 2-Count Cushions",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B005KG7EDU": {
+            "asin": "B005KG7EDU",
+            "height": {
+                "unit": "IN",
+                "value": 4.015748023303937
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.559055102689764
+            },
+            "name": "Great Lakes Gelatin Collagen Hydrolysate Beef, Kosher, 16 oz.",
+            "normalizedName": "Great Lakes Gelatin Collagen Hydrolysate Beef, Kosher, 16 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.094488180623622
+            }
+        },
+        "B00EUO570K": {
+            "asin": "B00EUO570K",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "JJ Rabbit Cuppie, Sea Life Penguin, 8 Ounce",
+            "normalizedName": "JJ Rabbit Cuppie, Sea Life Penguin, 8 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

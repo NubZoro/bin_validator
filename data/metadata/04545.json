@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1101983906": {
+            "asin": "1101983906",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8976377862
+            },
+            "name": "The Human Superorganism: How the Microbiome Is Revolutionizing the Pursuit of a Healthy Life",
+            "normalizedName": "The Human Superorganism: How the Microbiome Is Revolutionizing the Pursuit of a Healthy Life",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2345760653848885
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299212592
+            }
+        },
+        "B00762H6NO": {
+            "asin": "B00762H6NO",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Kirkland Signature\u2122 Chewable Vitamin C 500mg Orange Flavor, 500 Tablets",
+            "normalizedName": "Kirkland Signature\u2122 Chewable Vitamin C 500mg Orange Flavor, 500 Tablets",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000B1UXS": {
+            "asin": "B0000B1UXS",
+            "height": {
+                "unit": "IN",
+                "value": 5.118110231
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.9370078598
+            },
+            "name": "Lenox Solitaire Platinum Banded Ivory China Salad Plate",
+            "normalizedName": "Lenox Solitaire Platinum Banded Ivory China Salad Plate",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.629921249
+            }
+        },
+        "B00CJICDWO": {
+            "asin": "B00CJICDWO",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "TOUGH-GRID 750lb Black Paracord / Parachute Cord - Genuine Mil Spec Type IV 750lb Paracord Used by the US Military (MIl-C-5040-H) - 100% Nylon - Made In The USA. 50Ft. - Black",
+            "normalizedName": "TOUGH-GRID 750lb Black Paracord / Parachute Cord - Genuine Mil Spec Type IV 750lb Paracord Used by the US Military (MIl-C-5040-H) - 100% Nylon - Made In The USA. 50Ft. - Black",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

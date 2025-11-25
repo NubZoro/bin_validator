@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0670034592": {
+            "asin": "0670034592",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Slow Man",
+            "normalizedName": "Slow Man",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B000WSK5N2": {
+            "asin": "B000WSK5N2",
+            "height": {
+                "unit": "IN",
+                "value": 3.6
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8
+            },
+            "name": "Now Foods Certified Organic Golden Flax Seeds, 16 ozs Bag,  (Pack of 2)",
+            "normalizedName": "(Pack of 2) Now Foods Certified Organic Golden Flax Seeds, 16 ozs Bag,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.6
+            }
+        },
+        "B00264GHOG": {
+            "asin": "B00264GHOG",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Creativity for Kids Press On Nail Party",
+            "normalizedName": "Creativity for Kids Press On Nail Party",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00FN5Z8UY": {
+            "asin": "B00FN5Z8UY",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "The Walking Dead: Season 4",
+            "normalizedName": "The Walking Dead: Season 4",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

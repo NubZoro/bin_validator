@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BQGQR36": {
+            "asin": "B00BQGQR36",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "ZoLi BOT Straw Sippy Cup - Purple 6 oz",
+            "normalizedName": "ZoLi BOT Straw Sippy Cup - Purple 6 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2722615286253102
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00KC6HFSW": {
+            "asin": "B00KC6HFSW",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Premium Vertical Leather Pouch Case with Belt Clip for Apple iPhone 4S 4-S",
+            "normalizedName": "Premium Vertical Leather Pouch Case with Belt Clip for Apple iPhone 4S 4-S",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B019WWFF42": {
+            "asin": "B019WWFF42",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Peace Yoga Set of 2 Super Absorbent 15\"x24\" Microfiber Suede Non Slip Hot Yoga Gym Workout Towels - Blue",
+            "normalizedName": "Set of 2 Peace Yoga Super Absorbent 15\"x24\" Microfiber Suede Non Slip Hot Yoga Gym Workout Towels - Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

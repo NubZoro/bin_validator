@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0143125478": {
+            "asin": "0143125478",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "name": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+            "normalizedName": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B005CS6AK4": {
+            "asin": "B005CS6AK4",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Bulk Pirate Jewels and Gems, 1 Pound Bag, Approximately 160 pieces, Assorted Colors",
+            "normalizedName": "Bulk Pirate Jewels and Gems, 1 Pound Bag, Approximately 160 pieces, Assorted Colors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00EEDVYZO": {
+            "asin": "B00EEDVYZO",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Cinderella - Diamond Edition [Blu-ray] (Region Free)",
+            "normalizedName": "Cinderella - Diamond Edition [Blu-ray] (Region Free)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00VHHIUNY": {
+            "asin": "B00VHHIUNY",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Quick Charge 2.0 AUKEY 3-Port USB Wall Charger",
+            "normalizedName": "Quick Charge 2.0 AUKEY 3-Port USB Wall Charger",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

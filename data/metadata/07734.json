@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005LBC3IK": {
+            "asin": "B005LBC3IK",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Superman Loot Bags 8ct",
+            "normalizedName": "Superman Loot Bags 8ct",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B008DVY1TE": {
+            "asin": "B008DVY1TE",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Method Smarty Dish Dishwasher Plus Tablets, Lemon Mint, 45 Count",
+            "normalizedName": "Method Smarty Dish Dishwasher Plus Tablets, Lemon Mint, 45 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991738
+            }
+        },
+        "B018B8PNVS": {
+            "asin": "B018B8PNVS",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Calgon Ultra-Moisturizing Body Wash (Parisian Charm, 16-Ounce)",
+            "normalizedName": "Calgon Ultra-Moisturizing Body Wash (Parisian Charm, 16-Ounce)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

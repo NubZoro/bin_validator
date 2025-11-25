@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ANF8FO": {
+            "asin": "B000ANF8FO",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Tripp Lite INTERNET550U 550VA 300W UPS Desktop Battery Back Up Compact 120V USB RJ11 PC, 8 Outlets",
+            "normalizedName": "Tripp Lite INTERNET550U 550VA 300W UPS Desktop Battery Back Up Compact 120V USB RJ11 PC, 8 Outlets",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991738
+            }
+        },
+        "B019RRZ93E": {
+            "asin": "B019RRZ93E",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Gel-a-Peel Accessory 3-pack Craft Kit - Sparkle",
+            "normalizedName": "Gel-a-Peel Accessory 3-pack Craft Kit - Sparkle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

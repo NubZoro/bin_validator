@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00008XPGG": {
+            "asin": "B00008XPGG",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Columbian #10 Business Envelopes, Left Window, 4.12 x 9.5 Inch, 500 Per Box, White (CO170)",
+            "normalizedName": "Columbian #10 Business Envelopes, Left Window, 4.12 x 9.5 Inch, 500 Per Box, White (CO170)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B01BXXZHUK": {
+            "asin": "B01BXXZHUK",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "SySrion\u00ae Ionic Hair Straightener Brush 2.0, Anion Hair Comb Hair Care, Instant Magic Silky Straight Hair Styling, Anti Scald Anti Static Ceramic Heating Detangling Digital Hair Tools (Blue)",
+            "normalizedName": "SySrion\u00ae Ionic Hair Straightener Brush 2.0, Anion Hair Comb Hair Care, Instant Magic Silky Straight Hair Styling, Anti Scald Anti Static Ceramic Heating Detangling Digital Hair Tools (Blue)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

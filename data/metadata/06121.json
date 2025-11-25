@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BHU5656": {
+            "asin": "B00BHU5656",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "name": "Now Foods Methyl B-12 Lozenges, 10000 mcg, 60 Count",
+            "normalizedName": "Now Foods Methyl B-12 Lozenges, 10000 mcg, 60 Count",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.7322834628
+            }
+        },
+        "B00HFPGZPW": {
+            "asin": "B00HFPGZPW",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.7
+            },
+            "name": "LEGO Star Wars Admiral Ackbar Key Light",
+            "normalizedName": "LEGO Star Wars Admiral Ackbar Key Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

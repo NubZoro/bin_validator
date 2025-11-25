@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LA116IS": {
+            "asin": "B00LA116IS",
+            "height": {
+                "unit": "IN",
+                "value": 3.149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8110236151
+            },
+            "name": "Hobby Boss T-35 Heavy Tank Track Links Kit",
+            "normalizedName": "Hobby Boss T-35 Heavy Tank Track Links Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5070632026
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4488188931
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

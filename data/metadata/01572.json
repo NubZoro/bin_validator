@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FI6T7NM": {
+            "asin": "B00FI6T7NM",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "String-A-Long 100-Light Green Wire Clear String Light Set-GE-60216HD",
+            "normalizedName": "String-A-Long 100-Light Green Wire Clear String Light Set-GE-60216HD",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00PV1D7E4": {
+            "asin": "B00PV1D7E4",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Flash Pro Canon Replica EF 70-200mm f/4L USM Lens, Black",
+            "normalizedName": "Flash Pro Canon Replica EF 70-200mm f/4L USM Lens, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

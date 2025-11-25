@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00066OSHO": {
+            "asin": "B00066OSHO",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Three Dog Bakery Gracie's Gourmet Entree for Dogs Chicken, Green Beans & Rice Recipe, 12-ounce",
+            "normalizedName": "Three Dog Bakery Gracie's Gourmet Entree for Dogs Chicken, Green Beans & Rice Recipe, 12-ounce",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00DILE11W": {
+            "asin": "B00DILE11W",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "KIND Healthy Grains Granola Bars, Dark Chocolate Chunk, Gluten Free, 1.2oz Bars, 15 Count",
+            "normalizedName": "KIND Healthy Grains Granola Bars, Dark Chocolate Chunk, Gluten Free, 1.2oz Bars, 15 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MYU2R4Q": {
+            "asin": "B00MYU2R4Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "THERMOS FOOGO 11-Ounce Straw Bottle, Watermelon/Green",
+            "normalizedName": "THERMOS FOOGO 11-Ounce Straw Bottle, Watermelon/Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B017ETGIV4": {
+            "asin": "B017ETGIV4",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Home Value 3 Piece Measuring Cup Set, Blue (MEASCUP080275BL)",
+            "normalizedName": "Home Value 3 Piece Measuring Cup Set, Blue (MEASCUP080275BL)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01EALLS4G": {
+            "asin": "B01EALLS4G",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Bluetooth Headphones, Maxtronic\u00ae Wireless Sport MTR V4.1 Earbuds Voice Control Mini Lightweight Wireless Stereo Running Gym Exercise Headphones With Mic Microphone (Red) Headsets",
+            "normalizedName": "Bluetooth Headphones, Maxtronic\u00ae Wireless Sport MTR V4.1 Earbuds Voice Control Mini Lightweight Wireless Stereo Running Gym Exercise Headphones With Mic Microphone (Red) Headsets",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

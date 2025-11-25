@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00000JH41": {
+            "asin": "B00000JH41",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Learning Resources Big Time Student Clock (12 HR)",
+            "normalizedName": "Learning Resources Big Time Student Clock (12 HR)",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B0093FXS1G": {
+            "asin": "B0093FXS1G",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Heat Holders Ladies Extra Long Heat Holders, Black, US Shoe Size 5-9",
+            "normalizedName": "Heat Holders Ladies Extra Long Heat Holders, Black, US Shoe Size 5-9",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

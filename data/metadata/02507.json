@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002AR0HO": {
+            "asin": "B0002AR0HO",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.9527558974
+            },
+            "name": "KONG Classic KONG Dog Toy, X-Large, Red",
+            "normalizedName": "KONG Classic KONG Dog Toy, X-Large, Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.84
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.7480314902
+            }
+        },
+        "B004000394": {
+            "asin": "B004000394",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Plymor 2 Mil Clear Plymor Brand Zipper Reclosable Storage Bags, 3\" x 5\", Case of 1000",
+            "normalizedName": "Case of 1000 Plymor 2 Mil Clear Plymor Brand Zipper Reclosable Storage Bags, 3\" x 5\",",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B005OA6QVI": {
+            "asin": "B005OA6QVI",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Spy Kids: All The Time In The World Combo [Blu-ray] [Blu-ray] (2011)",
+            "normalizedName": "Spy Kids: All The Time In The World Combo [Blu-ray] [Blu-ray] (2011)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B00QAKUV1W": {
+            "asin": "B00QAKUV1W",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "TOP KING LEATHER STEEL CUP GROIN GUARD PROTECTOR MUAY THAI TKGGP(ST) (Black)",
+            "normalizedName": "TOP KING LEATHER STEEL CUP GROIN GUARD PROTECTOR MUAY THAI TKGGP(ST) (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5731960308379465
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.118110231
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

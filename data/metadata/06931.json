@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00000J0JF": {
+            "asin": "B00000J0JF",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Ravensburger Labyrinth",
+            "normalizedName": "Ravensburger Labyrinth",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00704IOGQ": {
+            "asin": "B00704IOGQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Kidoozie Snug and Hug Baby Doll",
+            "normalizedName": "Kidoozie Snug and Hug Baby Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B016BPDMHU": {
+            "asin": "B016BPDMHU",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Barbie Spy Squad Teresa Secret Agent Doll",
+            "normalizedName": "Barbie Spy Squad Teresa Secret Agent Doll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B017JXOE0M": {
+            "asin": "B017JXOE0M",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Colorful Multicolor Cotton Spring Floral Tablecloths Tables 60 X 90 Inches, Including Runner & Napkins",
+            "normalizedName": "Colorful Multicolor Cotton Spring Floral Tablecloths Tables 60 X 90 Inches, Including Runner & Napkins",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5999999969810736
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

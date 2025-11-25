@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C9TYJIE": {
+            "asin": "B00C9TYJIE",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Vktech Solar Snakes Rattlesnake Moles Voles Repeller",
+            "normalizedName": "Vktech Solar Snakes Rattlesnake Moles Voles Repeller",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B01BW8757O": {
+            "asin": "B01BW8757O",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Coleman Kids EasyStay Single High Airbed",
+            "normalizedName": "Coleman Kids EasyStay Single High Airbed",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5999999969810736
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

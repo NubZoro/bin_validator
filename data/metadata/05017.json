@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000JUDOVS": {
+            "asin": "B000JUDOVS",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Table Saw Dust Collector Bag",
+            "normalizedName": "Table Saw Dust Collector Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

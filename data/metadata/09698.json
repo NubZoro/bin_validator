@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003SYTZHY": {
+            "asin": "B003SYTZHY",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Rite In The Rain Loose Leaf - Metric Field #362",
+            "normalizedName": "Rite In The Rain Loose Leaf - Metric Field #362",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00XJBN194": {
+            "asin": "B00XJBN194",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Powerextra Hound Dog Fetch Harness Chest Strap Belt Mount for GoPro Hero 4 3+ 3 2 Camera",
+            "normalizedName": "Powerextra Hound Dog Fetch Harness Chest Strap Belt Mount for GoPro Hero 4 3+ 3 2 Camera",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

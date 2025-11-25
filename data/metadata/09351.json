@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DI89ATS": {
+            "asin": "B00DI89ATS",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "KabelDirekt (3 feet) Mini HDMI to HDMI Cable (1080p 4K 3D High Speed with Ethernet ARC) - FLEX Series",
+            "normalizedName": "KabelDirekt (3 feet) Mini HDMI to HDMI Cable (1080p 4K 3D High Speed with Ethernet ARC) - FLEX Series",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00FWB91L6": {
+            "asin": "B00FWB91L6",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "K-10+ UT Support/Lawn Care Formula for Your Dogs Water (Pack of 28)",
+            "normalizedName": "(Pack of 28) K-10+ UT Support/Lawn Care Formula for Your Dogs Water",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

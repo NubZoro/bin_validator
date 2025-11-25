@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004GIHH9O": {
+            "asin": "B004GIHH9O",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Runa Amazon Guayusa Spice Tea, Organic Cinnamon - Lemongrass, 1 Pound",
+            "normalizedName": "Runa Amazon Guayusa Spice Tea, Organic Cinnamon - Lemongrass, 1 Pound",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B009SJCBHE": {
+            "asin": "B009SJCBHE",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.699999982966
+            },
+            "name": "LEM Products Gallon Bags Vacuum Sealer, 100 Count",
+            "normalizedName": "LEM Products Gallon Bags Vacuum Sealer, 100 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B00E1GFWY8": {
+            "asin": "B00E1GFWY8",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "BATMAN GOTHAM 31 BiG Vinyl Wall Stickers DC Comics Room Decor Decals Boys",
+            "normalizedName": "BATMAN GOTHAM 31 BiG Vinyl Wall Stickers DC Comics Room Decor Decals Boys",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01B7OXHVG": {
+            "asin": "B01B7OXHVG",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Halo 12\" Spartan Athlon Blue Team Figure",
+            "normalizedName": "Halo 12\" Spartan Athlon Blue Team Figure",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01B7OXI06": {
+            "asin": "B01B7OXI06",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Halo 12\" Forerunner Figure",
+            "normalizedName": "Halo 12\" Forerunner Figure",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

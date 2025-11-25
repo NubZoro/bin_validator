@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015419R4E": {
+            "asin": "B015419R4E",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Pandante: Light & Dark Expansion",
+            "normalizedName": "Pandante: Light & Dark Expansion",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B01FM905XK": {
+            "asin": "B01FM905XK",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "[Updated Version] IP Camera, NexGadget HD WiFi IP Security Camera Surveillance System Video Recording Sonic Recognition P2P Pan Tilt Remote Motion Detect Alert With Two-Way Audio",
+            "normalizedName": "[Updated Version] IP Camera, NexGadget HD WiFi IP Security Camera Surveillance System Video Recording Sonic Recognition P2P Pan Tilt Remote Motion Detect Alert With Two-Way Audio",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

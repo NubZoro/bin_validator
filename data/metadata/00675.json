@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003EVOB6Q": {
+            "asin": "B003EVOB6Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "StealStreet SS-G-91148, Fairy Collection Green Pixie Desk Decoration Figurine Collectible",
+            "normalizedName": "StealStreet SS-G-91148, Fairy Collection Green Pixie Desk Decoration Figurine Collectible",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00Q5HIMZC": {
+            "asin": "B00Q5HIMZC",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "iPhone Tripod from FittSMILE Incredibly Lightweight Tripod for iPhone with Secure Flexible Mounting Legs for Taking Clear Photos and Recording Your Videos",
+            "normalizedName": "iPhone Tripod from FittSMILE Incredibly Lightweight Tripod for iPhone with Secure Flexible Mounting Legs for Taking Clear Photos and Recording Your Videos",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

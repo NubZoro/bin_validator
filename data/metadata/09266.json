@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004T33Y8O": {
+            "asin": "B004T33Y8O",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Bob's Red Mill Pearl Barley 30 oz",
+            "normalizedName": "Bob's Red Mill Pearl Barley 30 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

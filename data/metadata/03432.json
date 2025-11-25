@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I3VN57I": {
+            "asin": "B00I3VN57I",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.2204724346
+            },
+            "name": "Nike Unisex Dri-Fit Home and Away Doublewide Wristband Varsity Royal/White Running Equipment One Size",
+            "normalizedName": "Nike Unisex Dri-Fit Home and Away Doublewide Wristband Varsity Royal/White Running Equipment One Size",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7007873978
+            }
+        },
+        "B00OBHEQDK": {
+            "asin": "B00OBHEQDK",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Motorola Moto 360 - Light Metal, 23mm, Smart Watch ***Discontinued by Manufacturer***",
+            "normalizedName": "Motorola Moto 360 - Light Metal, 23mm, Smart Watch ***Discontinued by Manufacturer***",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01CUUSQAI": {
+            "asin": "B01CUUSQAI",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Maven Gifts: In the Breeze Kite Accessory Bundle \u2013 Tie Dye Kite Tail Set, 15-Feet, and Kite Spool, 50 lb. x 500-Feet (Colors May Vary)",
+            "normalizedName": "Maven Gifts: In the Breeze Kite Accessory Bundle \u2013 Tie Dye Kite Tail Set, 15-Feet, and Kite Spool, 50 lb. x 500-Feet (Colors May Vary)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

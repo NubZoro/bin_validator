@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NMVDND0": {
+            "asin": "B00NMVDND0",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999998062
+            },
+            "name": "Hefty Slider Freezer Bags, Quart, 140 Count",
+            "normalizedName": "Hefty Slider Freezer Bags, Quart, 140 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.439999997953839
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999980824001
+            }
+        },
+        "B019407ERI": {
+            "asin": "B019407ERI",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988065999
+            },
+            "name": "Packing Tape Gun and Packing Tape Value Bundle. Comes With 1 BMG-2 Tape Dispenser and 6 Rolls of Midtape Packing Tape.",
+            "normalizedName": "Packing Tape Gun and Packing Tape Value Bundle. Comes With 1 BMG-2 Tape Dispenser and 6 Rolls of Midtape Packing Tape.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

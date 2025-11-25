@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00P4TJYFO": {
+            "asin": "B00P4TJYFO",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "EcoSmart 60W Equivalent Soft White Spiral CFL (4-Pack)",
+            "normalizedName": "(4-Pack) EcoSmart 60W Equivalent Soft White Spiral CFL",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B016XWDCEO": {
+            "asin": "B016XWDCEO",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Crystallove Black Metal Mesh Pencil Cup Holder Pen Stand of Desktop Organizer Office Supplies (Black 3)",
+            "normalizedName": "Crystallove Black Metal Mesh Pencil Cup Holder Pen Stand of Desktop Organizer Office Supplies (Black 3)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

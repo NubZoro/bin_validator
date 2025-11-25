@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015FDFPVA": {
+            "asin": "B015FDFPVA",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Ora Contemporary and Stylish Drinking Glass Set 8.5 Ounce (4)",
+            "normalizedName": "Ora Contemporary and Stylish Drinking Glass Set 8.5 Ounce (4)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

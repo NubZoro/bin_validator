@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ATGCG5W": {
+            "asin": "B00ATGCG5W",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Generic Remanufactured Ink Cartridges Replacement for Epson T200XL (4x Black, 2x Cyan, 2x Magenta, 2x Yellow, 10-Pack)",
+            "normalizedName": "10-Pack Generic Remanufactured Ink Cartridges Replacement for Epson T200XL (4x Black, 2x Cyan, 2x Magenta, 2x Yellow, )",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016Z4GRUQ": {
+            "asin": "B016Z4GRUQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Nespresso Vertuoline Coffee Capsules Assortment - The Best Sellers: 1 Sleeve of Stormio, 1 Sleeve of Odacio and 1 Sleeve of Melozio for a Total of 30 Capsules",
+            "normalizedName": "Nespresso Vertuoline Coffee Capsules Assortment - The Best Sellers: 1 Sleeve of Stormio, 1 Sleeve of Odacio and 1 Sleeve of Melozio for a Total of 30 Capsules",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

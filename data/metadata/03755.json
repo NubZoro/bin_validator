@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005FO321A": {
+            "asin": "B005FO321A",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Depo 323-50010-201 Kia Sportage LX Rear Passenger Side Exterior Door Handle",
+            "normalizedName": "Depo 323-50010-201 Kia Sportage LX Rear Passenger Side Exterior Door Handle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01C7EVXZ2": {
+            "asin": "B01C7EVXZ2",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "TruShield Universal WorldWide International All-in-One Travel Adapter Adaptor Wall Power Plug Charger, Dual USB Port, For USA UK EU AUS, With Black Stylish Pouch",
+            "normalizedName": "TruShield Universal WorldWide International All-in-One Travel Adapter Adaptor Wall Power Plug Charger, Dual USB Port, For USA UK EU AUS, With Black Stylish Pouch",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

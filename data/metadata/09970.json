@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QXJV4DO": {
+            "asin": "B00QXJV4DO",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Accord AMFRABC414 Charleston Floor Register, 4-Inch x 14-Inch(Duct Opening Measurements), Antique Brass",
+            "normalizedName": "Accord AMFRABC414 Charleston Floor Register, 4-Inch x 14-Inch(Duct Opening Measurements), Antique Brass",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01BBRORPO": {
+            "asin": "B01BBRORPO",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Chastep Soft Pu Sport Soccer Football 8 Inch (Dark Blue)",
+            "normalizedName": "Chastep Soft Pu Sport Soccer Football 8 Inch (Dark Blue)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

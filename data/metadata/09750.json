@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00UJ2H124": {
+            "asin": "B00UJ2H124",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Playskool Heroes Galactic Heroes Star Wars Luke Skywalker",
+            "normalizedName": "Playskool Heroes Galactic Heroes Star Wars Luke Skywalker",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B010NH9V2C": {
+            "asin": "B010NH9V2C",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "name": "The Cuby - 2x2 Cube - Two-Layer Brain Teaser - Perfect For Beginners - Hours of Fun In The Palm Of Your Hand \u2013 Satisfaction Guaranteed",
+            "normalizedName": "The Cuby - 2x2 Cube - Two-Layer Brain Teaser - Perfect For Beginners - Hours of Fun In The Palm Of Your Hand \u2013 Satisfaction Guaranteed",
+            "quantity": 15,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.2047244072
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 17
+}

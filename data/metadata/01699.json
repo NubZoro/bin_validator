@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000C2Y54I": {
+            "asin": "B000C2Y54I",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Gates 22090 Radiator Coolant Hose",
+            "normalizedName": "Gates 22090 Radiator Coolant Hose",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B000YLLQSA": {
+            "asin": "B000YLLQSA",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Halls Defense\u00c2\u00ae Assorted Citrus Drops - 180 ct",
+            "normalizedName": "Halls Defense\u00c2\u00ae Assorted Citrus Drops - 180 ct",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B001BDLWIO": {
+            "asin": "B001BDLWIO",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Low-Loft Bonded Polyester Batting-Crib Size 45\"X60\"",
+            "normalizedName": "Low-Loft Bonded Polyester Batting-Crib Size 45\"X60\"",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

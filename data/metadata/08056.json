@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000SE1XHW": {
+            "asin": "B000SE1XHW",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "Wilton 12-Piece Mini Halloween Cookie Cutter Set",
+            "normalizedName": "Wilton 12-Piece Mini Halloween Cookie Cutter Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B019X9BXJK": {
+            "asin": "B019X9BXJK",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "NEW Sports, Travel & Beach Towel - Lightweight, Compact, Absorbent, Quick-Dry, Soft Microfiber Suede for Camping, Hiking, Gym, Beach, Yoga, CrossFit, Swimming, and Adventures (Gray+White, XL (32x60\"))",
+            "normalizedName": "NEW Sports, Travel & Beach Towel - Lightweight, Compact, Absorbent, Quick-Dry, Soft Microfiber Suede for Camping, Hiking, Gym, Beach, Yoga, CrossFit, Swimming, and Adventures (Gray+White, XL (32x60\"))",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000A2ZNL": {
+            "asin": "B0000A2ZNL",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "CSI: Crime Scene Investigation: Season 2",
+            "normalizedName": "CSI: Crime Scene Investigation: Season 2",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B017V580LW": {
+            "asin": "B017V580LW",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "#1 iSMARTPRO CD 2 in 1 Cell Phone Holder - CD Cell Phone Mount - Mobile Phone Car Mount - CD Slot Phone Holder - CD Slot Smartphone Car Mount Holder Cradle for All iPhones, Android Devices and Tablets",
+            "normalizedName": "#1 iSMARTPRO CD 2 in 1 Cell Phone Holder - CD Cell Phone Mount - Mobile Phone Car Mount - CD Slot Phone Holder - CD Slot Smartphone Car Mount Holder Cradle for All iPhones, Android Devices and Tablets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.009999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

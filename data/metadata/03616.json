@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005Z463A2": {
+            "asin": "B005Z463A2",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Aleene's Original \"Tacky\" Glue-4 Ounce",
+            "normalizedName": "Aleene's Original \"Tacky\" Glue-4 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B00INKCLOW": {
+            "asin": "B00INKCLOW",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Royal Designs Beige Cord & Chain Cover, 4 feet, Linen Fabric, Velcro - Use for Chandelier, Lighting, Wires (CC-1-LB)",
+            "normalizedName": "Royal Designs Beige Cord & Chain Cover, 4 feet, Linen Fabric, Velcro - Use for Chandelier, Lighting, Wires (CC-1-LB)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B010CFOXGY": {
+            "asin": "B010CFOXGY",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Triplus Fineliner Neon Coloring Pens in Case, 0.3mm, Metal Clad Tip, 6/PK, Assorted",
+            "normalizedName": "Triplus Fineliner Neon Coloring Pens in Case, 0.3mm, Metal Clad Tip, 6/PK, Assorted",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B01GNVFS0Q": {
+            "asin": "B01GNVFS0Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "iPhone 6 Plus Case, Vway Colorful Clear Shell Slim Case Translucent Impact Resistant Flexible TPU Soft Bumper Back Case Cover Fit for iPhone 6 Plus and iPhone 6S Plus (5.5'')",
+            "normalizedName": "iPhone 6 Plus Case, Vway Colorful Clear Shell Slim Case Translucent Impact Resistant Flexible TPU Soft Bumper Back Case Cover Fit for iPhone 6 Plus and iPhone 6S Plus (5.5'')",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

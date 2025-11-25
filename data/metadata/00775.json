@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002YI6ZI2": {
+            "asin": "B002YI6ZI2",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Tops Replacement Percolator Top (135)",
+            "normalizedName": "Tops Replacement Percolator Top (135)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B005UW7MC2": {
+            "asin": "B005UW7MC2",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Standard Motor Products PS308T Oil Pressure Switch",
+            "normalizedName": "Standard Motor Products PS308T Oil Pressure Switch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B00U2YWDD6": {
+            "asin": "B00U2YWDD6",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "name": "Kryolan Concealer Circle 9086 USA Makeup",
+            "normalizedName": "Kryolan Concealer Circle 9086 USA Makeup",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HD9T2B4": {
+            "asin": "B00HD9T2B4",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "Depo 334-5420R3EF Dodge Nitro Passenger Side Textured Non-Heated Power Mirror",
+            "normalizedName": "Depo 334-5420R3EF Dodge Nitro Passenger Side Textured Non-Heated Power Mirror",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

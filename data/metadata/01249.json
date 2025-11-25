@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004VLVCGU": {
+            "asin": "B004VLVCGU",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Bob's Red Mill - Premium Unmodified Potato Starch, 24 Ounces (Pack of 4)",
+            "normalizedName": "(Pack of 4) Bob's Red Mill - Premium Unmodified Potato Starch, 24 Ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B00O6UCXUK": {
+            "asin": "B00O6UCXUK",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Cozy Greens\u00ae Baby Car Mirror | Back Seat Rear-facing Infant In Sight | Luxury Gift Box | CRASH TESTED | + FREE GIFTS Cleaning Cloth & Traveling With Kids eBook | Lifetime 100% Satisfaction Guarantee",
+            "normalizedName": "Cozy Greens\u00ae Baby Car Mirror | Back Seat Rear-facing Infant In Sight | Luxury Gift Box | CRASH TESTED | + FREE GIFTS Cleaning Cloth & Traveling With Kids eBook | Lifetime 100% Satisfaction Guarantee",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

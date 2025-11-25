@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00R3AY9LQ": {
+            "asin": "B00R3AY9LQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "4-in-1 CuddleBug Baby Wrap Carrier | Soft Baby Carrier | Baby Sling Carrier | Postpartum Belt | Nursing Cover | Best Baby Shower Gift (Red)",
+            "normalizedName": "4-in-1 CuddleBug Baby Wrap Carrier | Soft Baby Carrier | Baby Sling Carrier | Postpartum Belt | Nursing Cover | Best Baby Shower Gift (Red)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B01C6TDDWY": {
+            "asin": "B01C6TDDWY",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991738
+            },
+            "name": "Air Vent Car Cell Phone Holder",
+            "normalizedName": "Air Vent Car Cell Phone Holder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

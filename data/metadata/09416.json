@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005DQVAE6": {
+            "asin": "B005DQVAE6",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Cordova Safety Products R8023FRL 3 Piece Defiance Flame Resistant Rain Suit, Yellow, Large",
+            "normalizedName": "Cordova Safety Products R8023FRL 3 Piece Defiance Flame Resistant Rain Suit, Yellow, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00FXFADKO": {
+            "asin": "B00FXFADKO",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Premium Sno-Cone and Shaved Ice Syrup (Orange)",
+            "normalizedName": "Premium Sno-Cone and Shaved Ice Syrup (Orange)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

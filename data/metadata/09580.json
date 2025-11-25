@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NGXUYRC": {
+            "asin": "B00NGXUYRC",
+            "height": {
+                "unit": "IN",
+                "value": 3.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.0
+            },
+            "name": "NCAA University of Iowa Benchmark Full Zip Hood, Medium, Black",
+            "normalizedName": "NCAA University of Iowa Benchmark Full Zip Hood, Medium, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.3
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

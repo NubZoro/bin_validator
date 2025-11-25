@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0785122664": {
+            "asin": "0785122664",
+            "height": {
+                "unit": "IN",
+                "value": 0.59842519624
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.5984251891
+            },
+            "name": "Spider-Man Loves Mary Jane, Vol. 3: My Secret Life (v. 3)",
+            "normalizedName": "Spider-Man Loves Mary Jane, Vol. 3: My Secret Life (v. 3)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000067281728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.09842519165
+            }
+        },
+        "B005EHHLD8": {
+            "asin": "B005EHHLD8",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Triangle Bulbs Ultra Bright White LED Waterproof Flexible Strip Light, T93007-1 (1 pack) - 25 watt, 300 \"3528 SMD\", 12 volt, 16.4 feet, Pure White - 1 PACK",
+            "normalizedName": "Triangle Bulbs Ultra Bright White LED Waterproof Flexible Strip Light, T93007-1 (1 pack) - 25 watt, 300 \"3528 SMD\", 12 volt, 16.4 feet, Pure White - 1 PACK",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B012BFEC9Q": {
+            "asin": "B012BFEC9Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Jump Rope - Best of All Weight Loss Tools - Jump Rope for Kids and Adults - Top Rated Exercise for Cardio and Heart Health - Adjustable Rope for One Size Fits All and Affordable",
+            "normalizedName": "Jump Rope - Best of All Weight Loss Tools - Jump Rope for Kids and Adults - Top Rated Exercise for Cardio and Heart Health - Adjustable Rope for One Size Fits All and Affordable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

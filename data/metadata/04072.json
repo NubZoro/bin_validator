@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00B6CVS4I": {
+            "asin": "B00B6CVS4I",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Surfin'",
+            "normalizedName": "Surfin'",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770734815265533
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00KNR2YZ4": {
+            "asin": "B00KNR2YZ4",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "GPS GPRS SMS Coban Real-time tracker TK103A Quad band SD card slot anti-theft move alarm by SMS",
+            "normalizedName": "GPS GPRS SMS Coban Real-time tracker TK103A Quad band SD card slot anti-theft move alarm by SMS",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

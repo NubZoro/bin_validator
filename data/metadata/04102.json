@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0078024285": {
+            "asin": "0078024285",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Anatomy & Physiology: An Integrative Approach",
+            "normalizedName": "Anatomy & Physiology: An Integrative Approach",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "1433805618": {
+            "asin": "1433805618",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Publication Manual of the American Psychological Association, 6th Edition",
+            "normalizedName": "Publication Manual of the American Psychological Association, 6th Edition",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "9630256118": {
+            "asin": "9630256118",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Magyarorszag",
+            "normalizedName": "Magyarorszag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.249999998113171
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

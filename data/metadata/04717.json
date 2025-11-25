@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FQPC6OM": {
+            "asin": "B00FQPC6OM",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Chartreuse \"Believe\" Caf\u00e9 Mug",
+            "normalizedName": "Chartreuse \"Believe\" Caf\u00e9 Mug",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

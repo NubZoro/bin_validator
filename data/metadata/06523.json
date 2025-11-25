@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1284032841": {
+            "asin": "1284032841",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Emergency Care And Transportation Of The Sick And Injured (Orange Book Series)",
+            "normalizedName": "Emergency Care And Transportation Of The Sick And Injured (Orange Book Series)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B01DMXZ3OO": {
+            "asin": "B01DMXZ3OO",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Batman vs Superman 12 Pcs Goodie Bags Party Favor Bags Gift Bags Birthday Bags",
+            "normalizedName": "Batman vs Superman 12 Pcs Goodie Bags Party Favor Bags Gift Bags Birthday Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

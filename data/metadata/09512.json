@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004W8X7X8": {
+            "asin": "B004W8X7X8",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Dimensions Needlecrafts Counted Cross Stitch, Winter Reindeer",
+            "normalizedName": "Dimensions Needlecrafts Counted Cross Stitch, Winter Reindeer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01BIPG0SQ": {
+            "asin": "B01BIPG0SQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Daron Kids Smartwatch with Games & Camera, Blue",
+            "normalizedName": "Daron Kids Smartwatch with Games & Camera, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

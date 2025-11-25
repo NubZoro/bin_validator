@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004NG8STM": {
+            "asin": "B004NG8STM",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "First Voice WIPE2 BZK Antiseptic Manikin Cleaning Wipe (Pack of 100)",
+            "normalizedName": "(Pack of 100) First Voice WIPE2 BZK Antiseptic Manikin Cleaning Wipe",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00HUTGRKG": {
+            "asin": "B00HUTGRKG",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "iCracked iPhone 5S Screen Replacement Kit (AT&T/Verizon/Sprint/T-Mobile) - Retail Packaging - White",
+            "normalizedName": "iCracked iPhone 5S Screen Replacement Kit (AT&T/Verizon/Sprint/T-Mobile) - Retail Packaging - White",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00Q009XUW": {
+            "asin": "B00Q009XUW",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "LG Optimus L70 Case, Fulland Wallet Card Holder PU Leather Pouch Flip Leaf Style Case Cover with Stand for LG Optimus L70 Plus Stylus Pen and Screen Protector -Green",
+            "normalizedName": "LG Optimus L70 Case, Fulland Wallet Card Holder PU Leather Pouch Flip Leaf Style Case Cover with Stand for LG Optimus L70 Plus Stylus Pen and Screen Protector -Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

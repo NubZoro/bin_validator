@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00346UTUS": {
+            "asin": "B00346UTUS",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "NBA Los Angeles Lakers 8 Foot Banner",
+            "normalizedName": "NBA Los Angeles Lakers 8 Foot Banner",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00L5ELSJW": {
+            "asin": "B00L5ELSJW",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Avanti Premier Script Monogram Bath Towel, Initial V, White/Silver",
+            "normalizedName": "Avanti Premier Script Monogram Bath Towel, Initial V, White/Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.49999998623
+            }
+        },
+        "B00P6OURUS": {
+            "asin": "B00P6OURUS",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "Best Exercise Foam Roller: PhysioPhit High-Density, Extra Firm Foam Roller with Trigger Points for Deep Tissue Muscle Massage, Blue",
+            "normalizedName": "Best Exercise Foam Roller: PhysioPhit High-Density, Extra Firm Foam Roller with Trigger Points for Deep Tissue Muscle Massage, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5199999987253423
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

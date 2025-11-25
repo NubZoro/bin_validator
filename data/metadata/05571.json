@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012TEW5Z2": {
+            "asin": "B012TEW5Z2",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "ECO Amenities Spa Sachet Individually Wrapped 1 ounce Cleaning Soap, 100 Bars per Case",
+            "normalizedName": "ECO Amenities Spa Sachet Individually Wrapped 1 ounce Cleaning Soap, 100 Bars per Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.549999994507231
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B01AKE48CQ": {
+            "asin": "B01AKE48CQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Keen One Instant Organic Quinoa Dinner Mix - 100% Premium, Cooks in 8 Minutes! (Double Variety Pack)",
+            "normalizedName": "Keen One Instant Organic Quinoa Dinner Mix - 100% Premium, Cooks in 8 Minutes! (Double Variety Pack)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.299999998071242
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

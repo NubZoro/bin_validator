@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0067QL5GO": {
+            "asin": "B0067QL5GO",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Disney Mickey's Music Mat",
+            "normalizedName": "Disney Mickey's Music Mat",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B00J56VIO2": {
+            "asin": "B00J56VIO2",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "CollectA Stegosaurus Toy in Window Box",
+            "normalizedName": "CollectA Stegosaurus Toy in Window Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

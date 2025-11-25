@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013RTA1P4": {
+            "asin": "B013RTA1P4",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Funko POP Movies: Crimson Peak - Sir Thomas Sharpe Action Figure",
+            "normalizedName": "Funko POP Movies: Crimson Peak - Sir Thomas Sharpe Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B01BIDPBCY": {
+            "asin": "B01BIDPBCY",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "Monster QuickLock QL HDM59 BNC Connector 10-Pack",
+            "normalizedName": "10-Pack Monster QuickLock QL HDM59 BNC Connector",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

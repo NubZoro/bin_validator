@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011NP8OAI": {
+            "asin": "B011NP8OAI",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Black Menba 3 Pack Side Brush And Black Filter For irobot roomba 400 Vacuum Cleaner",
+            "normalizedName": "3 Pack Black Menba Side Brush And Black Filter For irobot roomba 400 Vacuum Cleaner",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1299999998909832
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B01C4V9594": {
+            "asin": "B01C4V9594",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Pictura Womens 12 Oz Gift Mug in Gift Box \"I am Women\"",
+            "normalizedName": "Pictura Womens 12 Oz Gift Mug in Gift Box \"I am Women\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033389
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

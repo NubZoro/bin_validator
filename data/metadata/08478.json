@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002Q81WG": {
+            "asin": "B0002Q81WG",
+            "height": {
+                "unit": "IN",
+                "value": 2.20078739933
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.20078739423
+            },
+            "name": "Hopkins 48615 7 RV Blade and 6 Pole Round Mounting Bracket",
+            "normalizedName": "Hopkins 48615 7 RV Blade and 6 Pole Round Mounting Bracket",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2000033640864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.59842519318
+            }
+        },
+        "B002C1QJ3W": {
+            "asin": "B002C1QJ3W",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Clarion MWRXCRET Marine Remote Extension Cable, 25 ft",
+            "normalizedName": "Clarion MWRXCRET Marine Remote Extension Cable, 25 ft",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

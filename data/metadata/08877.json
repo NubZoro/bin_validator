@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JDKV4NK": {
+            "asin": "B00JDKV4NK",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Mrs. Meyer's Liquid Hand Soap Refill, Lemon Verbena, 33 Fluid Ounce",
+            "normalizedName": "Mrs. Meyer's Liquid Hand Soap Refill, Lemon Verbena, 33 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3999999979873827
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00X4HUBY6": {
+            "asin": "B00X4HUBY6",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Evocel\u00ae Galaxy Grand Prime [New Generation] Rugged Holster Dual Layer Case [Kickstand][Belt Swivel Clip] For Galaxy Grand Prime (G530 G530H G530F G530M G530T G530AZ S920C), Yellow (EVO-SAMG530-XX15)",
+            "normalizedName": "Evocel\u00ae Galaxy Grand Prime [New Generation] Rugged Holster Dual Layer Case [Kickstand][Belt Swivel Clip] For Galaxy Grand Prime (G530 G530H G530F G530M G530T G530AZ S920C), Yellow (EVO-SAMG530-XX15)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

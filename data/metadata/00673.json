@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00W18GK5I": {
+            "asin": "B00W18GK5I",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Pansdore Set of 8 Multi-colored Chinese/Janpanese Traditional Paper Lantern in 8 Inch",
+            "normalizedName": "Set of 8 Pansdore Multi-colored Chinese/Janpanese Traditional Paper Lantern in 8 Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B01GYGT3RO": {
+            "asin": "B01GYGT3RO",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Amazon Fire 7\" 2015 Case, Shockproof Heavy Duty Rugged Hybrid Case for Amazon Fire 7 2015 5th ( Fire 7 (2015)(Flower /Black+Mint Green)",
+            "normalizedName": "Amazon Fire 7\" 2015 Case, Shockproof Heavy Duty Rugged Hybrid Case for Amazon Fire 7 2015 5th ( Fire 7 (2015)(Flower /Black+Mint Green)",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

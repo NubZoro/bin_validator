@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BQ8UDNO": {
+            "asin": "B00BQ8UDNO",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Paper Mate InkJoy Quatro Retractable Medium Point Advanced Pen, Lime/Magenta/Purple/Turquoise (1832418)",
+            "normalizedName": "Paper Mate InkJoy Quatro Retractable Medium Point Advanced Pen, Lime/Magenta/Purple/Turquoise (1832418)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            }
+        },
+        "B00LDYK4G2": {
+            "asin": "B00LDYK4G2",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.9
+            },
+            "name": "Stren Fluorocast Fluorocarbon Fishing Line, Clear, 200-Yard/17-Pound",
+            "normalizedName": "Stren Fluorocast Fluorocarbon Fishing Line, Clear, 200-Yard/17-Pound",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.9
+            }
+        },
+        "B00R3N05A2": {
+            "asin": "B00R3N05A2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "AmazonBasics Adjustable Jump Rope for Double Unders",
+            "normalizedName": "AmazonBasics Adjustable Jump Rope for Double Unders",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B016Z2QB8Q": {
+            "asin": "B016Z2QB8Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Superhero Dress Up Costumes - 4 Satin Capes and 4 Felt Masks",
+            "normalizedName": "Superhero Dress Up Costumes - 4 Satin Capes and 4 Felt Masks",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6899999994213725
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

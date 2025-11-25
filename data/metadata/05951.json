@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000G1COSO": {
+            "asin": "B000G1COSO",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Douglas Ruby Red Dragon",
+            "normalizedName": "Douglas Ruby Red Dragon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35652627610201015
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B0015T95VK": {
+            "asin": "B0015T95VK",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "name": "Dj Orthopedics Thumb Splint - Model 79-92170 - Each",
+            "normalizedName": "Dj Orthopedics Thumb Splint - Model 79-92170 - Each",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.0
+            }
+        },
+        "B00WIWXP6Y": {
+            "asin": "B00WIWXP6Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Funny Guy Mugs Good Morning I See The Assassins Have Failed Ceramic Coffee Mug, Black, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Good Morning I See The Assassins Have Failed Ceramic Coffee Mug, Black, 11-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

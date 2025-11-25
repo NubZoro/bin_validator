@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BCMDX04": {
+            "asin": "B00BCMDX04",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Verdero Vistoso II Molded Cleat Navy/Black Size 10.5",
+            "normalizedName": "Verdero Vistoso II Molded Cleat Navy/Black Size 10.5",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6999999977358056
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

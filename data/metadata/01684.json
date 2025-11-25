@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000IZK4SU": {
+            "asin": "B000IZK4SU",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Asia Lounge 4",
+            "normalizedName": "Asia Lounge 4",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770752888384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B0072V4GSM": {
+            "asin": "B0072V4GSM",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "Folkmanis Little Raccoon Hand Puppet",
+            "normalizedName": "Folkmanis Little Raccoon Hand Puppet",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400474429947
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.9921259812
+            }
+        },
+        "B007X4UYX4": {
+            "asin": "B007X4UYX4",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Shark NV22L Navigator Replacement Foam and Felt 4 Piece Genuine Filter Kit, Shark Part XF22",
+            "normalizedName": "Shark NV22L Navigator Replacement Foam and Felt 4 Piece Genuine Filter Kit, Shark Part XF22",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

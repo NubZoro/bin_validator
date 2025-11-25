@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000M3V90A": {
+            "asin": "B000M3V90A",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Command Forever Classic Metal Hook, Oil Rubbed Bronze, Small",
+            "normalizedName": "Command Forever Classic Metal Hook, Oil Rubbed Bronze, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B007LI2QJW": {
+            "asin": "B007LI2QJW",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "AC Home Wall Charger Adapter For Asus Eee Pad Transformer Prime TF201 US Plug",
+            "normalizedName": "AC Home Wall Charger Adapter For Asus Eee Pad Transformer Prime TF201 US Plug",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

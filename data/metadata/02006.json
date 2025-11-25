@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003EM2WAW": {
+            "asin": "B003EM2WAW",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Panasonic ErgoFit Best in Class In-Ear Earbud Headphones RP-HJE120-P (Pink) Dynamic Crystal Clear Sound, Ergonomic Comfort-Fit, No Mic,iPhone, Android Compatible",
+            "normalizedName": "Panasonic ErgoFit Best in Class In-Ear Earbud Headphones RP-HJE120-P (Pink) Dynamic Crystal Clear Sound, Ergonomic Comfort-Fit, No Mic,iPhone, Android Compatible",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B014060S4W": {
+            "asin": "B014060S4W",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Jurassic World Adhesive Bandages - 20 Ct, Pack of 6",
+            "normalizedName": "Pack of 6 Jurassic World Adhesive Bandages - 20 Ct,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

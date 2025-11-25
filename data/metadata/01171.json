@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0025ULK66": {
+            "asin": "B0025ULK66",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "Bumble Bee Foods Wild Pink Salmon, Skinless & Boneless, 5-Ounce Pouches (Pack of 12)",
+            "normalizedName": "(Pack of 12) Bumble Bee Foods Wild Pink Salmon, Skinless & Boneless, 5-Ounce Pouches",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B0189QVIDE": {
+            "asin": "B0189QVIDE",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Grill Light for BBQ- Plus Grilling Glasses -A Barbecue Grill Light Mounted To Your Grill Handle - A Heat Resistant, High Lumen BBQ LED Lamp",
+            "normalizedName": "Grill Light for BBQ- Plus Grilling Glasses -A Barbecue Grill Light Mounted To Your Grill Handle - A Heat Resistant, High Lumen BBQ LED Lamp",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01H0NKPU4": {
+            "asin": "B01H0NKPU4",
+            "height": {
+                "unit": "IN",
+                "value": 4.949999994951
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "GNC Total Lean Vegan Lean Shake 25 - Natural Vanilla",
+            "normalizedName": "GNC Total Lean Vegan Lean Shake 25 - Natural Vanilla",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.949999991891
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BQYR0MA": {
+            "asin": "B00BQYR0MA",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Fisher-Price Disney's Jake and The Never Land Pirates: Never Land Treasure Pack",
+            "normalizedName": "Fisher-Price Disney's Jake and The Never Land Pirates: Never Land Treasure Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00T7W30IG": {
+            "asin": "B00T7W30IG",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "DII Bone Dry Microfiber Dog Bath Towel with Embroidered Paw Print, 44 x 27.5\", Gray",
+            "normalizedName": "DII Bone Dry Microfiber Dog Bath Towel with Embroidered Paw Print, 44 x 27.5\", Gray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B01ACOFVXE": {
+            "asin": "B01ACOFVXE",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299212592
+            },
+            "name": "32GB G.Skill DDR4 Trident Z 3200Mhz PC4-25600 CL14 (14-14-14-34) 1.35V Dual Channel Kit (2x16GB)",
+            "normalizedName": "32GB G.Skill DDR4 Trident Z 3200Mhz PC4-25600 CL14 (14-14-14-34) 1.35V Dual Channel Kit (2x16GB)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601868139676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.3543307032
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

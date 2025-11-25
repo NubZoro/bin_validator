@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00073K4DS": {
+            "asin": "B00073K4DS",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Yogi Tea - Get Regular Tea, 16 bag",
+            "normalizedName": "Yogi Tea - Get Regular Tea, 16 bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B000E4AKQ6": {
+            "asin": "B000E4AKQ6",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512
+            },
+            "name": "Yogi Chai Green 16 Bags",
+            "normalizedName": "Yogi Chai Green 16 Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00DEYD6I2": {
+            "asin": "B00DEYD6I2",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Luxury Lady Kimio Watch 2013 New Gift USPS Send 3-5 Days Get K456L (Blue Color)",
+            "normalizedName": "Luxury Lady Kimio Watch 2013 New Gift USPS Send 3-5 Days Get K456L (Blue Color)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.199999998776
+            }
+        },
+        "B00TDADPNM": {
+            "asin": "B00TDADPNM",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "AVOSDER OEM Universal Micro USB Charging Data Cable for Samsung Galaxy S3/S4/Note 2 and Other Smartphones - (5 Pack) Bulk Packaging (White)",
+            "normalizedName": "(5 Pack) AVOSDER OEM Universal Micro USB Charging Data Cable for Samsung Galaxy S3/S4/Note 2 and Other Smartphones - Bulk Packaging (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

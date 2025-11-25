@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DUGX90O": {
+            "asin": "B00DUGX90O",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Original BEAR PAWS Pulled Pork Shredder Claws - BBQ Meat Handler Forks - Made in USA",
+            "normalizedName": "Original BEAR PAWS Pulled Pork Shredder Claws - BBQ Meat Handler Forks - Made in USA",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01BX8EJT0": {
+            "asin": "B01BX8EJT0",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "24 Ounce Premium Laboratory Grade Super Activated Carbon with Free Media Bag Inside",
+            "normalizedName": "24 Ounce Premium Laboratory Grade Super Activated Carbon with Free Media Bag Inside",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

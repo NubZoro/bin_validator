@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014DEH3TY": {
+            "asin": "B014DEH3TY",
+            "height": {
+                "unit": "IN",
+                "value": 2.8346456664
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.9448818786
+            },
+            "name": "WWE Elite Collector Defining Moments Sting Figure",
+            "normalizedName": "WWE Elite Collector Defining Moments Sting Figure",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880326924443
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.8503936938
+            }
+        },
+        "B01B6XSQIM": {
+            "asin": "B01B6XSQIM",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Peppa Pig 92629 and Candy Picnic Toy",
+            "normalizedName": "Peppa Pig 92629 and Candy Picnic Toy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

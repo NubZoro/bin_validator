@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008K6IOK4": {
+            "asin": "B008K6IOK4",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Folkmanis Piglet Hand Puppet",
+            "normalizedName": "Folkmanis Piglet Hand Puppet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B01CVRXHLS": {
+            "asin": "B01CVRXHLS",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.749999991075
+            },
+            "name": "Disney Infinity 3.0 Edition: Time Figure - Not Machine Specific",
+            "normalizedName": "Disney Infinity 3.0 Edition: Time Figure - Not Machine Specific",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

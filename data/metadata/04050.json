@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FA1P5O": {
+            "asin": "B000FA1P5O",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Unifix Letter Cubes: Consonant-Vowel-Consonant Set",
+            "normalizedName": "Unifix Letter Cubes: Consonant-Vowel-Consonant Set",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00IUHMVW0": {
+            "asin": "B00IUHMVW0",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "MuscleTech Platinum 100% ISO Whey, 100% Whey Protein Isolates Powder, Gourmet Milk Chocolate, 3.34 lbs (1.51kg)",
+            "normalizedName": "MuscleTech Platinum 100% ISO Whey, 100% Whey Protein Isolates Powder, Gourmet Milk Chocolate, 3.34 lbs (1.51kg)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

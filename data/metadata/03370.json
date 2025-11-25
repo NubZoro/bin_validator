@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0029TSHTG": {
+            "asin": "B0029TSHTG",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "FCS Wet Baseball Cap - Grey - Medium",
+            "normalizedName": "FCS Wet Baseball Cap - Grey - Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B004AW0QGM": {
+            "asin": "B004AW0QGM",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Vivitar 8 Button Remote Control fits Canon & Sony and other Camcorders with LANC or A/VR Jacks",
+            "normalizedName": "Vivitar 8 Button Remote Control fits Canon & Sony and other Camcorders with LANC or A/VR Jacks",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B007IVXRT0": {
+            "asin": "B007IVXRT0",
+            "height": {
+                "unit": "IN",
+                "value": 3.849999996073
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "WubbaNub Blue Bear Pacifier",
+            "normalizedName": "WubbaNub Blue Bear Pacifier",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1799999998490537
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.849999996073
+            }
+        },
+        "B017XLP3BO": {
+            "asin": "B017XLP3BO",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Tommy Hilfiger Gianna Cross Body Bag, Navy/White, One Size",
+            "normalizedName": "Tommy Hilfiger Gianna Cross Body Bag, Navy/White, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002T0MTQW": {
+            "asin": "B002T0MTQW",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "HP 441425-001, 446506-001, 446507-001, 452057-001, HSTNN-DB31, HSTNN-DB43 Laptop Battery for Pavilion dv6140US, dv2000, dv2500, dv6000 and more - New TechFuel Professional 6-cell, Li-ion Battery",
+            "normalizedName": "HP 441425-001, 446506-001, 446507-001, 452057-001, HSTNN-DB31, HSTNN-DB43 Laptop Battery for Pavilion dv6140US, dv2000, dv2500, dv6000 and more - New TechFuel Professional 6-cell, Li-ion Battery",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B006FWZ5CA": {
+            "asin": "B006FWZ5CA",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "DHS Tar Shampoo 8 Oz (3 Pack)",
+            "normalizedName": "(3 Pack) DHS Tar Shampoo 8 Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B006LAFU8U": {
+            "asin": "B006LAFU8U",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Tropic Isle Jamaican Black Castor Oil 8oz with an Applicator, Big Sale!! - Safe Pet Bottle Packaing",
+            "normalizedName": "Tropic Isle Jamaican Black Castor Oil 8oz with an Applicator, Big Sale!! - Safe Pet Bottle Packaing",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

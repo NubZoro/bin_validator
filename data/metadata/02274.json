@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0012DRL0G": {
+            "asin": "B0012DRL0G",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Leviton 5603-2W 15 Amp, 120/277 Volt, Decora Rocker 3-Way AC Quiet Switch, Residential Grade, Grounding, White",
+            "normalizedName": "Leviton 5603-2W 15 Amp, 120/277 Volt, Decora Rocker 3-Way AC Quiet Switch, Residential Grade, Grounding, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00R20EEI0": {
+            "asin": "B00R20EEI0",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Funny Guy Mugs Best Boss Ever Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Best Boss Ever Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00XJJV1FM": {
+            "asin": "B00XJJV1FM",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Mpow Bright LED Solar light, Security Lighting Outdoor Motion Sensor Lighting for Garden Patio Fencing Pool",
+            "normalizedName": "Mpow Bright LED Solar light, Security Lighting Outdoor Motion Sensor Lighting for Garden Patio Fencing Pool",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

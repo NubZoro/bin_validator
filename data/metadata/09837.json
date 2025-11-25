@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008FGR6DU": {
+            "asin": "B008FGR6DU",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.448818888
+            },
+            "name": "Nike Women's Legend 2.0 Tight Poly Pant Black/Cool Grey LG X 28",
+            "normalizedName": "Nike Women's Legend 2.0 Tight Poly Pant Black/Cool Grey LG X 28",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880332100962
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.8267716476
+            }
+        },
+        "B009V9XIEG": {
+            "asin": "B009V9XIEG",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Brand New Replacement Laptop Battery For Lenovo G430 G450 G530 G550 L08S6Y02 42T4729 42T4730 L08L6C02 l08s6c02 6cells",
+            "normalizedName": "Brand New Replacement Laptop Battery For Lenovo G430 G450 G530 G550 L08S6Y02 42T4729 42T4730 L08L6C02 l08s6c02 6cells",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00GFA5V0I": {
+            "asin": "B00GFA5V0I",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "RENOGY\u00ae One Pair of 40ft. 12AWG Adaptor Kit Solar Cable PV with MC4 Female and Male Connectors \u2014 Connect Solar Panel and Charge Controller",
+            "normalizedName": "RENOGY\u00ae One Pair of 40ft. 12AWG Adaptor Kit Solar Cable PV with MC4 Female and Male Connectors \u2014 Connect Solar Panel and Charge Controller",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

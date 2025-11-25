@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007WI0O2M": {
+            "asin": "B007WI0O2M",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Pop Secret Movie Theater Butter Popcorn, 28 Count, 3.2 ounce bags",
+            "normalizedName": "Pop Secret Movie Theater Butter Popcorn, 28 Count, 3.2 ounce bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        },
+        "B00U14PQZY": {
+            "asin": "B00U14PQZY",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Decorative Red Motorcycle with Glass Salt and Pepper Shaker Set in Saddle Bags for Classic Bike Models & Vintage Chopper Figurines As Biker Bar or Kitchen Table Decor Sculptures and Retro Road Hog Gifts for Harley Riders",
+            "normalizedName": "Decorative Red Motorcycle with Glass Salt and Pepper Shaker Set in Saddle Bags for Classic Bike Models & Vintage Chopper Figurines As Biker Bar or Kitchen Table Decor Sculptures and Retro Road Hog Gifts for Harley Riders",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

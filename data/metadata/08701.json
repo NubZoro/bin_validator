@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013CTK9Q": {
+            "asin": "B0013CTK9Q",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Pfister 0X8310A OX8 Series Tub/Shower Rough Valve",
+            "normalizedName": "Pfister 0X8310A OX8 Series Tub/Shower Rough Valve",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B003UC5H0I": {
+            "asin": "B003UC5H0I",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "NFL Cincinnati Bengals Wall Bottle Opener",
+            "normalizedName": "NFL Cincinnati Bengals Wall Bottle Opener",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

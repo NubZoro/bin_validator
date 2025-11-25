@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0767836324": {
+            "asin": "0767836324",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Hook",
+            "normalizedName": "Hook",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B018KULG4U": {
+            "asin": "B018KULG4U",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Maytag UKF8001 Pur Compatible Refrigerators Water Filter (SFF5120) (3 Filter)",
+            "normalizedName": "Maytag UKF8001 Pur Compatible Refrigerators Water Filter (SFF5120) (3 Filter)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B019T8Q426": {
+            "asin": "B019T8Q426",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Concussion [Blu-ray]",
+            "normalizedName": "Concussion [Blu-ray]",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

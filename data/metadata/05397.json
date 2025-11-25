@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00U2UZ40Y": {
+            "asin": "B00U2UZ40Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Fujifilm Instax Mini 8 Instant Film Camera (Raspberry)",
+            "normalizedName": "Fujifilm Instax Mini 8 Instant Film Camera (Raspberry)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9593510768018849
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

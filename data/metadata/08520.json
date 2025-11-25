@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1892421550": {
+            "asin": "1892421550",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "The Mouse, the Monster and Me: Assertiveness for young people",
+            "normalizedName": "The Mouse, the Monster and Me: Assertiveness for young people",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B0028GWGWO": {
+            "asin": "B0028GWGWO",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Twinings Cold Brew Tea, Green Tea with Mint, 20 Count Bagged Tea (6 Pack)",
+            "normalizedName": "(6 Pack) Twinings Cold Brew Tea, Green Tea with Mint, 20 Count Bagged Tea",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00OU5B0DM": {
+            "asin": "B00OU5B0DM",
+            "height": {
+                "unit": "IN",
+                "value": 2.749999997195
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Infuser Water Bottle 24 Oz - Made with TRITAN BPA Free - Young & More N2589 - Free Recipe Ebook Download",
+            "normalizedName": "Infuser Water Bottle 24 Oz - Made with TRITAN BPA Free - Young & More N2589 - Free Recipe Ebook Download",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645638
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

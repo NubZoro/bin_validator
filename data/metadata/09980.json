@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002PICMLA": {
+            "asin": "B002PICMLA",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "A&W Products Rubberbands, Assorted Size, Natural Color (35070.P)",
+            "normalizedName": "A&W Products Rubberbands, Assorted Size, Natural Color (35070.P)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B004M9VST2": {
+            "asin": "B004M9VST2",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Redbarn Pet Products Redbarn Hooves, 10-Pack Bag",
+            "normalizedName": "10-Pack Redbarn Pet Products Redbarn Hooves, Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

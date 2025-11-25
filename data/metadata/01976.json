@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QIIAY04": {
+            "asin": "B00QIIAY04",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Little Kids Nickelodeon Paw Patrol No-Spill Bubblin' Bucket",
+            "normalizedName": "Little Kids Nickelodeon Paw Patrol No-Spill Bubblin' Bucket",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

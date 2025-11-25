@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VXUUR4": {
+            "asin": "B000VXUUR4",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "Mizani Smooth Guard Serum, Thermasmooth, 3.4 Ounce",
+            "normalizedName": "Mizani Smooth Guard Serum, Thermasmooth, 3.4 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B00NEN0M5S": {
+            "asin": "B00NEN0M5S",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Charm It! Elsa Heart Charm",
+            "normalizedName": "Charm It! Elsa Heart Charm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00WB75TWE": {
+            "asin": "B00WB75TWE",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Alpha Rush and Fat Burn X Combo Pack",
+            "normalizedName": "Alpha Rush and Fat Burn X Combo Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B018PSK9LS": {
+            "asin": "B018PSK9LS",
+            "height": {
+                "unit": "IN",
+                "value": 1.949999998011
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "The Elf on the Shelf - My 1st Elf",
+            "normalizedName": "The Elf on the Shelf - My 1st Elf",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.21999999981551008
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

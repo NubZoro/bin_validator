@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01FS8IULO": {
+            "asin": "B01FS8IULO",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Zebella Black Large Travel Duffel Tote Sports Gym Weekender Shoulder Bag Handbag",
+            "normalizedName": "Zebella Black Large Travel Duffel Tote Sports Gym Weekender Shoulder Bag Handbag",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

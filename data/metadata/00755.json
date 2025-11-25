@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000KPJEZC": {
+            "asin": "B000KPJEZC",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.4645669154
+            },
+            "name": "Umbra Fotofalls Metal Desktop Photo Holder",
+            "normalizedName": "Umbra Fotofalls Metal Desktop Photo Holder",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2786680687923422
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6692913328
+            }
+        },
+        "B01GSR5AOE": {
+            "asin": "B01GSR5AOE",
+            "height": {
+                "unit": "IN",
+                "value": 3.25
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.5
+            },
+            "name": "Accessory Tray for Mobile Dry Erase Easels and Glassboards",
+            "normalizedName": "Accessory Tray for Mobile Dry Erase Easels and Glassboards",
+            "quantity": 4,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

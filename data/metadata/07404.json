@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NKGD9EA": {
+            "asin": "B00NKGD9EA",
+            "height": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "2Packs of BOBA Black Tapioca Pearl Bubble With 1 Pack of 50 BOBA STRAW",
+            "normalizedName": "Pack of 50 2Packs of BOBA Black Tapioca Pearl Bubble With 1 BOBA STRAW",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5199999987253423
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B019WEURSY": {
+            "asin": "B019WEURSY",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Aukey Qi Wireless Charging Pad for all Qi-Enabled Devices",
+            "normalizedName": "Aukey Qi Wireless Charging Pad for all Qi-Enabled Devices",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B01A0HMKCS": {
+            "asin": "B01A0HMKCS",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "MAG-MATE WTHT01 Weld Torch Holder Magnet for Tig Torches, 41 lb",
+            "normalizedName": "MAG-MATE WTHT01 Weld Torch Holder Magnet for Tig Torches, 41 lb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

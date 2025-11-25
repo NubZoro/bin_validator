@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003TWX5OY": {
+            "asin": "B003TWX5OY",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.249999982405
+            },
+            "name": "Allen Company Trooper Day Pack (Oakbrush)",
+            "normalizedName": "Allen Company Trooper Day Pack (Oakbrush)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        },
+        "B016CVZ0NC": {
+            "asin": "B016CVZ0NC",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "YOBO Lighting fixture kitchen Art Glass Ceiling Pendant Light",
+            "normalizedName": "YOBO Lighting fixture kitchen Art Glass Ceiling Pendant Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3999999971487918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

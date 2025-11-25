@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00024ENWU": {
+            "asin": "B00024ENWU",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Belkin A3L791B10 CAT5E Patch Cable (10 feet)",
+            "normalizedName": "Belkin A3L791B10 CAT5E Patch Cable (10 feet)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B004XOQIV4": {
+            "asin": "B004XOQIV4",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Derale 35022 -10AN x -10AN Premium 180 Degree In-Line Fluid Thermostat",
+            "normalizedName": "Derale 35022 -10AN x -10AN Premium 180 Degree In-Line Fluid Thermostat",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00F5GNZ56": {
+            "asin": "B00F5GNZ56",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "name": "Meow Meow Tweet Lavender Deodorant Cream 2.4oz",
+            "normalizedName": "Meow Meow Tweet Lavender Deodorant Cream 2.4oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B012FB6EUG": {
+            "asin": "B012FB6EUG",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "JBC LINK\u00ae Bunker Ring Cartoon Car Ring Bracket, Bracket Universal Phone Holder Lazy Bracket. (Duck)",
+            "normalizedName": "JBC LINK\u00ae Bunker Ring Cartoon Car Ring Bracket, Bracket Universal Phone Holder Lazy Bracket. (Duck)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

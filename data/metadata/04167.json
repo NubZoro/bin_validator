@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013USTHSY": {
+            "asin": "B013USTHSY",
+            "height": {
+                "unit": "IN",
+                "value": 5.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.400000000000002
+            },
+            "name": "Rosetti Darcy Satchel Grab Cross Body Bag, Smoke, One Size",
+            "normalizedName": "Rosetti Darcy Satchel Grab Cross Body Bag, Smoke, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.8
+            }
+        },
+        "B014JXU83W": {
+            "asin": "B014JXU83W",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Weatherbeeta Parka 1200D Dog Coat (24\", Black/Teal Plaid)",
+            "normalizedName": "Weatherbeeta Parka 1200D Dog Coat (24\", Black/Teal Plaid)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

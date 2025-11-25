@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01BVSDLKA": {
+            "asin": "B01BVSDLKA",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "No. 918 Montego 56 X 36 Inch Tier Curtain Panel Pair , Yellow, 56x36",
+            "normalizedName": "No. 918 Montego 56 X 36 Inch Tier Curtain Panel Pair , Yellow, 56x36",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01D3JN8W6": {
+            "asin": "B01D3JN8W6",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Under Armour NCAA Fleece Hoodie Sweatshirt-Oklahoma Sooners-(Alternate)-Medium",
+            "normalizedName": "Under Armour NCAA Fleece Hoodie Sweatshirt-Oklahoma Sooners-(Alternate)-Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

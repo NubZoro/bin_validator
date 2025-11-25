@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BD54PU2": {
+            "asin": "B00BD54PU2",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Nikon 7573 PROSTAFF 5 12X50 Binocular (Black)",
+            "normalizedName": "Nikon 7573 PROSTAFF 5 12X50 Binocular (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B010U3XVMU": {
+            "asin": "B010U3XVMU",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2125984158
+            },
+            "name": "AmazonBasics Apple Certified Lightning to USB Cable - 6 Feet (1.8 Meters) - Black",
+            "normalizedName": "AmazonBasics Apple Certified Lightning to USB Cable - 6 Feet (1.8 Meters) - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400467034919
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.9291338512
+            }
+        },
+        "B01CCHHOIE": {
+            "asin": "B01CCHHOIE",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "LisaKitchen- Premium Mandoline Slicer- Vegetables, Fruit, Cheese, Stainless 3 Steel Blades",
+            "normalizedName": "LisaKitchen- Premium Mandoline Slicer- Vegetables, Fruit, Cheese, Stainless 3 Steel Blades",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

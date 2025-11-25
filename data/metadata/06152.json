@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JJ6FHVS": {
+            "asin": "B00JJ6FHVS",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Non-GMO Project Verified Pardina Lentils (Small Brown Lentils) | 100% Non-Irradiated | Certified Kosher Parve | USA Grown | Field Traced (We tell you which field we grew it in)",
+            "normalizedName": "Non-GMO Project Verified Pardina Lentils (Small Brown Lentils) | 100% Non-Irradiated | Certified Kosher Parve | USA Grown | Field Traced (We tell you which field we grew it in)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 16.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B01ALBYSKU": {
+            "asin": "B01ALBYSKU",
+            "height": {
+                "unit": "IN",
+                "value": 4.249999995665
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822
+            },
+            "name": "Hair Curler LuckyFine US plug LCD Pro Salon Automatic Hair Curling Curler Ceramic Roller Wave Machine Styler Pink",
+            "normalizedName": "Hair Curler LuckyFine US plug LCD Pro Salon Automatic Hair Curling Curler Ceramic Roller Wave Machine Styler Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8699999984318354
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.649999991177
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "128574361X": {
+            "asin": "128574361X",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Accounting (Text Only)",
+            "normalizedName": "Accounting (Text Only)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B00NRG25SY": {
+            "asin": "B00NRG25SY",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Riipoo(TM) Big Size Colours Dictionary Diversion Hidden Book Safe With Strong Metal Case inside and Key Lock, Size 240*115*55mm (Marilyn Monroe)",
+            "normalizedName": "Riipoo(TM) Big Size Colours Dictionary Diversion Hidden Book Safe With Strong Metal Case inside and Key Lock, Size 240*115*55mm (Marilyn Monroe)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EFNKLC": {
+            "asin": "B000EFNKLC",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Oxford Index Cards, Assorted Colors, 5\" x 8\", Ruled, 100-Pack (35810)",
+            "normalizedName": "100-Pack Oxford Index Cards, Assorted Colors, 5\" x 8\", Ruled, (35810)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B0031XUY3Q": {
+            "asin": "B0031XUY3Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Pollak 11-604EP Metal 6-Way Plug",
+            "normalizedName": "Pollak 11-604EP Metal 6-Way Plug",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

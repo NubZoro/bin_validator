@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1451639619": {
+            "asin": "1451639619",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+            "normalizedName": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B0007XJOLG": {
+            "asin": "B0007XJOLG",
+            "height": {
+                "unit": "IN",
+                "value": 5.1968503884
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "Howard Leight by Honeywell Laser Lite High Visibility Disposable Foam Earplugs, 200-Pairs (LL-1)",
+            "normalizedName": "Howard Leight by Honeywell Laser Lite High Visibility Disposable Foam Earplugs, 200-Pairs (LL-1)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560420331426
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0314960548
+            }
+        },
+        "B00U7UA4UO": {
+            "asin": "B00U7UA4UO",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Cricut Princess Party Events Cartridge 2001916",
+            "normalizedName": "Cricut Princess Party Events Cartridge 2001916",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

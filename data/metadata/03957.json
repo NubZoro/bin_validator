@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003WM9NNI": {
+            "asin": "B003WM9NNI",
+            "height": {
+                "unit": "IN",
+                "value": 0.1799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "DMC 117-738 Six Strand Embroidery Cotton Floss, Very Light Tan, 8.7-Yard",
+            "normalizedName": "DMC 117-738 Six Strand Embroidery Cotton Floss, Very Light Tan, 8.7-Yard",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.34999999964299994
+            }
+        },
+        "B00OY5U9GC": {
+            "asin": "B00OY5U9GC",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Cayman Kitchen Natural Cotton Cooking Twine 1200 ft, 1 Lb",
+            "normalizedName": "Cayman Kitchen Natural Cotton Cooking Twine 1200 ft, 1 Lb",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.99
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B019RIQND8": {
+            "asin": "B019RIQND8",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "PowEver ACK-E8 Replacement AC Power Adapter Supply Kit for Canon EOS Rebel T5i T4i T3i T2i Kiss X6 Kiss X5 Kiss X4 700D 650D 600D 550D",
+            "normalizedName": "PowEver ACK-E8 Replacement AC Power Adapter Supply Kit for Canon EOS Rebel T5i T4i T3i T2i Kiss X6 Kiss X5 Kiss X4 700D 650D 600D 550D",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

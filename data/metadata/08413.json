@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IKDETOW": {
+            "asin": "B00IKDETOW",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "EVGA SuperNOVA 750 G2 80+ GOLD, 750W ECO Mode Fully Modular NVIDIA SLI and Crossfire Ready 10 Year Warranty Power Supply 220-G2-0750-XR",
+            "normalizedName": "EVGA SuperNOVA 750 G2 80+ GOLD, 750W ECO Mode Fully Modular NVIDIA SLI and Crossfire Ready 10 Year Warranty Power Supply 220-G2-0750-XR",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.599999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B00L5FUJEG": {
+            "asin": "B00L5FUJEG",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "ERIN erin fetherston Women's Isabelle Strapless Evening Gown, Black, 10",
+            "normalizedName": "ERIN erin fetherston Women's Isabelle Strapless Evening Gown, Black, 10",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.99999998572
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

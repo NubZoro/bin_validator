@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I3HAKAM": {
+            "asin": "B00I3HAKAM",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "BeanSafe The Coffee Storage Solution Green Stainless",
+            "normalizedName": "BeanSafe The Coffee Storage Solution Green Stainless",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

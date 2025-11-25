@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KM864PA": {
+            "asin": "B00KM864PA",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "FIXMat featuring Glock diagram (GEN 4), 11 X 17 Handgun Cleaning Mat featuring Glock diagram, Black",
+            "normalizedName": "FIXMat featuring Glock diagram (GEN 4), 11 X 17 Handgun Cleaning Mat featuring Glock diagram, Black",
+            "quantity": 19,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 19
+}

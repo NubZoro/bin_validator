@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NQ63V6": {
+            "asin": "B000NQ63V6",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "RSVP International Onion Goggles, Pink",
+            "normalizedName": "RSVP International Onion Goggles, Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B001I7G6AM": {
+            "asin": "B001I7G6AM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "MCDAVID Level 1 Calf Sleeve - Small",
+            "normalizedName": "MCDAVID Level 1 Calf Sleeve - Small",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B002BW6VY4": {
+            "asin": "B002BW6VY4",
+            "height": {
+                "unit": "IN",
+                "value": 2.2047244072
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.3464566844
+            },
+            "name": "Ray-Ban RB2132 New Wayfarer Sunglasses,Tortoise/Green Polarized,Green Classic G-15",
+            "normalizedName": "Ray-Ban RB2132 New Wayfarer Sunglasses,Tortoise/Green Polarized,Green Classic G-15",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2645547144
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0157480274
+            }
+        },
+        "B004X68EBO": {
+            "asin": "B004X68EBO",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Mother of Pearl MOP Peacock Design Vanity Purse Handbag Double Compact Cosmetic Mirror,3.2 Ounce",
+            "normalizedName": "Mother of Pearl MOP Peacock Design Vanity Purse Handbag Double Compact Cosmetic Mirror,3.2 Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

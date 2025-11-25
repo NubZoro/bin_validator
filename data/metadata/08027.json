@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000782SHI": {
+            "asin": "B000782SHI",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Culligan 750R Level 1 Drinking Water Replacement Cartridge",
+            "normalizedName": "Culligan 750R Level 1 Drinking Water Replacement Cartridge",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B002HW07G6": {
+            "asin": "B002HW07G6",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Tough 1 600D Waterproof Poly Miniature Turnout Blanket, Royal Blue, 48\"",
+            "normalizedName": "Tough 1 600D Waterproof Poly Miniature Turnout Blanket, Royal Blue, 48\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        },
+        "B00OBQQTAO": {
+            "asin": "B00OBQQTAO",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Reese Secure 9424100 60\" x 78\" Bungee Truck Net",
+            "normalizedName": "Reese Secure 9424100 60\" x 78\" Bungee Truck Net",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

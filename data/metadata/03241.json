@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007N5LHW": {
+            "asin": "B0007N5LHW",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Suncourt HC300 Heating & Air Conditioning Booster Fan",
+            "normalizedName": "Suncourt HC300 Heating & Air Conditioning Booster Fan",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B001WT11Y2": {
+            "asin": "B001WT11Y2",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.299999982354
+            },
+            "name": "Suncourt HC500-B Flush Fit Brown Register Booster",
+            "normalizedName": "Suncourt HC500-B Flush Fit Brown Register Booster",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

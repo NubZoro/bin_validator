@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000UNYDDM": {
+            "asin": "B000UNYDDM",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Delta Faucet T13220-SHC Classic Monitor 13 Series Shower Trim, Chrome",
+            "normalizedName": "Delta Faucet T13220-SHC Classic Monitor 13 Series Shower Trim, Chrome",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B015KNBDVQ": {
+            "asin": "B015KNBDVQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Alice Through the Looking Glass Chromosphere Necklace",
+            "normalizedName": "Alice Through the Looking Glass Chromosphere Necklace",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

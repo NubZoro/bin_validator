@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0312661681": {
+            "asin": "0312661681",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.249999991585
+            },
+            "name": "The Brutal Telling: A Chief Inspector Gamache Novel",
+            "normalizedName": "The Brutal Telling: A Chief Inspector Gamache Novel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2699999989349902
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B000QV0GOI": {
+            "asin": "B000QV0GOI",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Extend Bar, Mixed Berry, 1.41 oz. Bars (Pack of 15)",
+            "normalizedName": "(Pack of 15) Extend Bar, Mixed Berry, 1.41 oz. Bars",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B001QXDT3U": {
+            "asin": "B001QXDT3U",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Heath Outdoor Products PMG-1 Single Room One Piece Round Hole Gourd",
+            "normalizedName": "Heath Outdoor Products PMG-1 Single Room One Piece Round Hole Gourd",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00PI6H1TE": {
+            "asin": "B00PI6H1TE",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.799999983884002
+            },
+            "name": "Mavogel Oxford Cloth Sling Pet Dog Cat Carrier Tote Single Shoulder Bag,Red,Medium",
+            "normalizedName": "Mavogel Oxford Cloth Sling Pet Dog Cat Carrier Tote Single Shoulder Bag,Red,Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

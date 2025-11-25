@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M250FNI": {
+            "asin": "B00M250FNI",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "2 Red Oval Oblong 6\" SURFACE MOUNT LED Brake Stop Turn Tail Light Trailer Truck RV SEALED",
+            "normalizedName": "2 Red Oval Oblong 6\" SURFACE MOUNT LED Brake Stop Turn Tail Light Trailer Truck RV SEALED",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

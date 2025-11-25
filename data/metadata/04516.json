@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M8AQLZS": {
+            "asin": "B00M8AQLZS",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Wireless Doorbell, TeckNet Wall Plug-in Cordless Door Chime at 500-feet Range with 52 Chimes",
+            "normalizedName": "Wireless Doorbell, TeckNet Wall Plug-in Cordless Door Chime at 500-feet Range with 52 Chimes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B01D8W66HW": {
+            "asin": "B01D8W66HW",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "NHL Desk Caddy with Pen, Anaheim Ducks",
+            "normalizedName": "NHL Desk Caddy with Pen, Anaheim Ducks",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

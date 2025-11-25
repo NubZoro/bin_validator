@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00269DXCK": {
+            "asin": "B00269DXCK",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Assassin's Creed II: Platinum Hits Edition",
+            "normalizedName": "Assassin's Creed II: Platinum Hits Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00519C7CE": {
+            "asin": "B00519C7CE",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Call of Duty: Black Ops LTO Edition - Xbox 360",
+            "normalizedName": "Call of Duty: Black Ops LTO Edition - Xbox 360",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00M1VN1MA": {
+            "asin": "B00M1VN1MA",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "BlenderBottle Classic Loop Top Shaker Bottle, Black, 28 Ounce",
+            "normalizedName": "BlenderBottle Classic Loop Top Shaker Bottle, Black, 28 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064933
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00QO4FJ4S": {
+            "asin": "B00QO4FJ4S",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "MLB 15: The Show Game Voucher - PlayStation Vita",
+            "normalizedName": "MLB 15: The Show Game Voucher - PlayStation Vita",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KMDSTV2": {
+            "asin": "B00KMDSTV2",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Energizer AAA Max Alkaline E92 Batteries Expiration 12/2024 or Later, 50 Count",
+            "normalizedName": "Energizer AAA Max Alkaline E92 Batteries Expiration 12/2024 or Later, 50 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B012O4XSNA": {
+            "asin": "B012O4XSNA",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Listerine Ultraclean Floss, Mint",
+            "normalizedName": "Listerine Ultraclean Floss, Mint",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

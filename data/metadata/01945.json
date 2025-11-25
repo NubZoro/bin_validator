@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0131499300": {
+            "asin": "0131499300",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.29921258894
+            },
+            "name": "Feedback Control of Dynamic Systems (5th Edition)",
+            "normalizedName": "Feedback Control of Dynamic Systems (5th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4000571894688
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B001FWNSV0": {
+            "asin": "B001FWNSV0",
+            "height": {
+                "unit": "IN",
+                "value": 2.799999997144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Organized Living Activity Organizer Big Everything Hook, 75 lb Capacity",
+            "normalizedName": "Organized Living Activity Organizer Big Everything Hook, 75 lb Capacity",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B003SQJ91O": {
+            "asin": "B003SQJ91O",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "M&M Character Medium Plush, Orange",
+            "normalizedName": "M&M Character Medium Plush, Orange",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

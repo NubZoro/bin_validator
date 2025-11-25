@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0146YNCYG": {
+            "asin": "B0146YNCYG",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Mud Pie Yes Size Does Matter Mug Set, White",
+            "normalizedName": "Mud Pie Yes Size Does Matter Mug Set, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B018VLF1CG": {
+            "asin": "B018VLF1CG",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Hose Spray Nozzle Deluxe Set | 7 Dial Metal Hand Sprayer plus Soft Grip Insulated Metal Adjustable Trigger Nozzle",
+            "normalizedName": "Hose Spray Nozzle Deluxe Set | 7 Dial Metal Hand Sprayer plus Soft Grip Insulated Metal Adjustable Trigger Nozzle",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B019QUJCEY": {
+            "asin": "B019QUJCEY",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Endo Optimize Supplement",
+            "normalizedName": "Endo Optimize Supplement",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1299999998909832
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

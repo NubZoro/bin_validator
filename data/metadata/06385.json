@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0133061817": {
+            "asin": "0133061817",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Statistics for Managers Using Microsoft Excel (7th Edition)",
+            "normalizedName": "Statistics for Managers Using Microsoft Excel (7th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "0321796977": {
+            "asin": "0321796977",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Linear Algebra with Applications, 5th Edition",
+            "normalizedName": "Linear Algebra with Applications, 5th Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "1118742931": {
+            "asin": "1118742931",
+            "height": {
+                "unit": "IN",
+                "value": 0.2362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.8976377913
+            },
+            "name": "Core Concepts of Accounting Information Systems",
+            "normalizedName": "Core Concepts of Accounting Information Systems",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.1102362173
+            }
+        },
+        "1305263472": {
+            "asin": "1305263472",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Essentials of Marketing Research (with Qualtrics, 1 term (6 months) Printed Access Card)",
+            "normalizedName": "Essentials of Marketing Research (with Qualtrics, 1 term (6 months) Printed Access Card)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "178023337X": {
+            "asin": "178023337X",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.4015747956
+            },
+            "name": "Eagle (Animal)",
+            "normalizedName": "Eagle (Animal)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7495640403265454
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.2755905458
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

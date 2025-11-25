@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001NE7KU": {
+            "asin": "B0001NE7KU",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Silly Sam Talking Broom with Dust Pan",
+            "normalizedName": "Silly Sam Talking Broom with Dust Pan",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B01AZRS2HU": {
+            "asin": "B01AZRS2HU",
+            "height": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.6535432952
+            },
+            "name": "Quadropolis Board Game",
+            "normalizedName": "Quadropolis Board Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4533376924
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.6535432952
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

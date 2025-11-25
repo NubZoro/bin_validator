@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007X5BNFQ": {
+            "asin": "B007X5BNFQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.249999997705
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "CLIF BLOKS Energy Chews - Black Cherry - (2.1 oz, 18 Count)",
+            "normalizedName": "CLIF BLOKS Energy Chews - Black Cherry - (2.1 oz, 18 Count)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B00BQ6307M": {
+            "asin": "B00BQ6307M",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "SMS Audio SMS-PD-ON-001 DJ Pauly D Wired On-Ear Headphones - Black and Red",
+            "normalizedName": "SMS Audio SMS-PD-ON-001 DJ Pauly D Wired On-Ear Headphones - Black and Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

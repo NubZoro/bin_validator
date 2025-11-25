@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005F1QBMK": {
+            "asin": "B005F1QBMK",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.4566929068
+            },
+            "name": "Funko Darth Maul POP",
+            "normalizedName": "Funko Darth Maul POP",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26455201423289837
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        },
+        "B006IXD7CG": {
+            "asin": "B006IXD7CG",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "nu steel Elite Tissue Box",
+            "normalizedName": "nu steel Elite Tissue Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

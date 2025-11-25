@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0814431917": {
+            "asin": "0814431917",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Click Millionaires: Work Less, Live More with an Internet Business You Love",
+            "normalizedName": "Click Millionaires: Work Less, Live More with an Internet Business You Love",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "0989261603": {
+            "asin": "0989261603",
+            "height": {
+                "unit": "IN",
+                "value": 0.3199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Life in a Spacesuit: Anatomy for Mystics",
+            "normalizedName": "Life in a Spacesuit: Anatomy for Mystics",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45999999961424826
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00TID8WG4": {
+            "asin": "B00TID8WG4",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Fisher-Price Thomas the Train TrackMaster Criss-Cross Junction",
+            "normalizedName": "Fisher-Price Thomas the Train TrackMaster Criss-Cross Junction",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000002ONY": {
+            "asin": "B000002ONY",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "The Truth",
+            "normalizedName": "The Truth",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17707528883839999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00PAOFJ70": {
+            "asin": "B00PAOFJ70",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Energetic Cleansing - Angel Aura Essence 100ml",
+            "normalizedName": "Energetic Cleansing - Angel Aura Essence 100ml",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.0472440924
+            }
+        },
+        "B0146667AK": {
+            "asin": "B0146667AK",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Sand Escape Compact Outdoor Beach Blanket / Picnic Blanket- 7\u2019 X 9\u2019 20% Bigger Than Other Blankets. Made From Strong Ripstop Parachute Nylon. Includes Built In Sand Anchors & Valuables Pocket",
+            "normalizedName": "Sand Escape Compact Outdoor Beach Blanket / Picnic Blanket- 7\u2019 X 9\u2019 20% Bigger Than Other Blankets. Made From Strong Ripstop Parachute Nylon. Includes Built In Sand Anchors & Valuables Pocket",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

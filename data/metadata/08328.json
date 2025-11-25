@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002MF3CZG": {
+            "asin": "B002MF3CZG",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Creepy Cloth Decoration",
+            "normalizedName": "Creepy Cloth Decoration",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B002S4I0VC": {
+            "asin": "B002S4I0VC",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Black & Decker LPS7000 Lithium-Ion CompactSaw",
+            "normalizedName": "Black & Decker LPS7000 Lithium-Ion CompactSaw",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

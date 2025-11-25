@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0028ZXZ6Q": {
+            "asin": "B0028ZXZ6Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "WWF Bend-Ems Series XI - Mr. McMahon",
+            "normalizedName": "WWF Bend-Ems Series XI - Mr. McMahon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00NXZKHZC": {
+            "asin": "B00NXZKHZC",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Hosley Candle Company Apple Cinnamon Wax Cubes / Melts - Set of 6 / 2.5 oz each. Hand poured wax infused with essential oils.",
+            "normalizedName": "Set of 6 Hosley Candle Company Apple Cinnamon Wax Cubes / Melts - / 2.5 oz each. Hand poured wax infused with essential oils.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00T03UJWM": {
+            "asin": "B00T03UJWM",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Disney/Pixar Cars Color Change 1:55 Scale Vehicle, Ramone",
+            "normalizedName": "Disney/Pixar Cars Color Change 1:55 Scale Vehicle, Ramone",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

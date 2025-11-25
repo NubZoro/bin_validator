@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001AT0CP8": {
+            "asin": "B001AT0CP8",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "LUNCH BOX DS STARTER KIT - ZELDA / YELLOW",
+            "normalizedName": "LUNCH BOX DS STARTER KIT - ZELDA / YELLOW",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B019H4DRUE": {
+            "asin": "B019H4DRUE",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Double Canvas Travel Hammock / Outdoor Bed 98.5*59 Inches 400lbs, Rainbow Color (Red) with 2 Hammock Tree Straps",
+            "normalizedName": "Double Canvas Travel Hammock / Outdoor Bed 98.5*59 Inches 400lbs, Rainbow Color (Red) with 2 Hammock Tree Straps",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4999999970649336
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

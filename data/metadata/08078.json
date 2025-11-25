@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004D9ARKM": {
+            "asin": "B004D9ARKM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "\" Hair Stylist Tools \" Rhinestone Two Pocket Poly Cotton Blend Apron",
+            "normalizedName": "\" Hair Stylist Tools \" Rhinestone Two Pocket Poly Cotton Blend Apron",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00II6H1SC": {
+            "asin": "B00II6H1SC",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.267716527
+            },
+            "name": "Livid Instruments Guitar Wing Wireless Control for Guitar",
+            "normalizedName": "Livid Instruments Guitar Wing Wireless Control for Guitar",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.1417322772
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

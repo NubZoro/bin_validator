@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AEHWO1M": {
+            "asin": "B00AEHWO1M",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Buttons Cloth Diapers \u2013 Daytime Insert \u2013 3 Pack",
+            "normalizedName": "3 Pack Buttons Cloth Diapers \u2013 Daytime Insert \u2013",
+            "quantity": 14,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B017RX1PBA": {
+            "asin": "B017RX1PBA",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Philips 457168 40 Watt Equivalent Dimmable A15 Clear LED Light Bulb With Warm Glow Effect, Candleabra Base, 4-Pack",
+            "normalizedName": "4-Pack Philips 457168 40 Watt Equivalent Dimmable A15 Clear LED Light Bulb With Warm Glow Effect, Candleabra Base,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 16
+}

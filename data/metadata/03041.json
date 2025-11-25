@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I2QLQZ2": {
+            "asin": "B00I2QLQZ2",
+            "height": {
+                "unit": "IN",
+                "value": 3.3464566895
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.5196850317
+            },
+            "name": "My Neighbor Totoro/Medium Totoro Stuffed Plush S",
+            "normalizedName": "My Neighbor Totoro/Medium Totoro Stuffed Plush S",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1278668068792342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.6850393653
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

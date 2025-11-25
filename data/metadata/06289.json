@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014AHPGAW": {
+            "asin": "B014AHPGAW",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Monster High Ghouls' Getaway Jinafire Long Doll",
+            "normalizedName": "Monster High Ghouls' Getaway Jinafire Long Doll",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7699999993542853
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B019CXXZ2U": {
+            "asin": "B019CXXZ2U",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "The Original GORILLA GRIP (TM) Non-Slip Spa Bath Pillow Featuring Powerful Gripping Technology, 19.5\" x 15\", Luxury 3-Panel Design.",
+            "normalizedName": "The Original GORILLA GRIP (TM) Non-Slip Spa Bath Pillow Featuring Powerful Gripping Technology, 19.5\" x 15\", Luxury 3-Panel Design.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        },
+        "B01B7P0IZS": {
+            "asin": "B01B7P0IZS",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Finding Dory Whispering Waves Nemo Plush",
+            "normalizedName": "Finding Dory Whispering Waves Nemo Plush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

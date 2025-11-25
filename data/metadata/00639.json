@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1285094085": {
+            "asin": "1285094085",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Business Communication: Process & Product (Book Only)",
+            "normalizedName": "Business Communication: Process & Product (Book Only)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00JORHNMI": {
+            "asin": "B00JORHNMI",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "J Garden Pink Chevron Canvas Travel Tote Bag with Coin Purse 12-inch",
+            "normalizedName": "J Garden Pink Chevron Canvas Travel Tote Bag with Coin Purse 12-inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00Y5PTW8W": {
+            "asin": "B00Y5PTW8W",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Urban Infant Tot Cot Daycare / Preschool Nap Mat / Cot Cover - Seattle",
+            "normalizedName": "Urban Infant Tot Cot Daycare / Preschool Nap Mat / Cot Cover - Seattle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

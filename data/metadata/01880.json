@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009SZ2R04": {
+            "asin": "B009SZ2R04",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Luxury Hotel-Spa Tub-Shower Bath Mat - Floor Mat - 2 Pack, Sage Green, 100% Ringspun Cotton, Luxury Size, Maximum Absorbency, Machine Washable (21 inch by 34 inch) by Utopia Towel",
+            "normalizedName": "2 Pack Luxury Hotel-Spa Tub-Shower Bath Mat - Floor Mat - , Sage Green, 100% Ringspun Cotton, Luxury Size, Maximum Absorbency, Machine Washable (21 inch by 34 inch) by Utopia Towel",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B00A7V9AVC": {
+            "asin": "B00A7V9AVC",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Home Brew Ohio Glass Water Bottle Includes 38 mm Polyseal Cap, 1 gallon Capacity",
+            "normalizedName": "Home Brew Ohio Glass Water Bottle Includes 38 mm Polyseal Cap, 1 gallon Capacity",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0999999974003694
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

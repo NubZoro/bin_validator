@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "193606149X": {
+            "asin": "193606149X",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Animal Alphabet: Slide and Seek the ABCs",
+            "normalizedName": "Animal Alphabet: Slide and Seek the ABCs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B003YOXINU": {
+            "asin": "B003YOXINU",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Us",
+            "normalizedName": "Us",
+            "quantity": 17,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 18
+}

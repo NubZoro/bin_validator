@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0064HK454": {
+            "asin": "B0064HK454",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Trader Joe's Organic Ginger Pear White Tea 20 Tea Bags Delicious",
+            "normalizedName": "Trader Joe's Organic Ginger Pear White Tea 20 Tea Bags Delicious",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B01EMJIH4A": {
+            "asin": "B01EMJIH4A",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Essential Oil Diffuser\uff0cAptoyu 120ml Aromatherapy Cool Mist Humidifier with 7 Color Changing LED Lamps\uff0c Mist Mode Adjustment and Waterless Auto Shut-off Function for Home Office Bedroom",
+            "normalizedName": "Essential Oil Diffuser\uff0cAptoyu 120ml Aromatherapy Cool Mist Humidifier with 7 Color Changing LED Lamps\uff0c Mist Mode Adjustment and Waterless Auto Shut-off Function for Home Office Bedroom",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.039999998289275
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

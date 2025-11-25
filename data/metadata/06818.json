@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003IJ6HFM": {
+            "asin": "B003IJ6HFM",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Sof Sole Sneaker Balls\u00a0Shoe Deodorizers, Matrix, 6 Pack",
+            "normalizedName": "6 Pack Sof Sole Sneaker Balls\u00a0Shoe Deodorizers, Matrix,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B0183AZ1SO": {
+            "asin": "B0183AZ1SO",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "20pcs CR2477 CR2477N Lithium Battery 3V 1050mAh",
+            "normalizedName": "20pcs CR2477 CR2477N Lithium Battery 3V 1050mAh",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

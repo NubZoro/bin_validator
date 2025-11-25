@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00007E7RQ": {
+            "asin": "B00007E7RQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Holmes \"B\" Humidifier Filter, HWF64",
+            "normalizedName": "Holmes \"B\" Humidifier Filter, HWF64",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00IAY6HAA": {
+            "asin": "B00IAY6HAA",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "PackIt Freezable Lunch Bag with Zip Closure, Ziggy",
+            "normalizedName": "PackIt Freezable Lunch Bag with Zip Closure, Ziggy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00W4I1TFG": {
+            "asin": "B00W4I1TFG",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "LA Girl Flat Finish Pigment Matte Lip Gloss, Set of 16 Color",
+            "normalizedName": "Set of 16 LA Girl Flat Finish Pigment Matte Lip Gloss, Color",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

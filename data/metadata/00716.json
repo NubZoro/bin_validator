@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005SO8SPC": {
+            "asin": "B005SO8SPC",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Sawyer Products SP114 Squeezable Pouch, 64-Ounce, 2-Pack",
+            "normalizedName": "2-Pack Sawyer Products SP114 Squeezable Pouch, 64-Ounce,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B012YNLW6G": {
+            "asin": "B012YNLW6G",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Stainless Steel Measuring Cups Set - Stackable 4 Pieces By Superb Chefs - High Quality.",
+            "normalizedName": "Stainless Steel Measuring Cups Set - Stackable 4 Pieces By Superb Chefs - High Quality.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B01CU3A7UC": {
+            "asin": "B01CU3A7UC",
+            "height": {
+                "unit": "IN",
+                "value": 1.949999998011
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.749999989035
+            },
+            "name": "Waterproof Pouch,2 Pack Smartdoo Waterproof Bag with Waist Strap,Best Dry Bag for iPhone 6s, 6 Plus, Samsung Galaxy S6 Edge, Dust Snowproof Pouch,for Boating/Hiking/Swimming/Diving/Beach(Blue+Black)",
+            "normalizedName": "2 Pack Waterproof Pouch, Smartdoo Waterproof Bag with Waist Strap,Best Dry Bag for iPhone 6s, 6 Plus, Samsung Galaxy S6 Edge, Dust Snowproof Pouch,for Boating/Hiking/Swimming/Diving/Beach(Blue+Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.649999993217
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

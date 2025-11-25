@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I50523W": {
+            "asin": "B00I50523W",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Elise Tonal Faux Silk Curtain Panels 55'' x 84'' - 2 Pack",
+            "normalizedName": "2 Pack Elise Tonal Faux Silk Curtain Panels 55'' x 84'' -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B00IK2P6TA": {
+            "asin": "B00IK2P6TA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "DDI 351253 Nylon Slotted Spoon",
+            "normalizedName": "DDI 351253 Nylon Slotted Spoon",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01CQTJJ54": {
+            "asin": "B01CQTJJ54",
+            "height": {
+                "unit": "IN",
+                "value": 6.1499999937270005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.249999990565
+            },
+            "name": "Prefer Green 3-Compartment Bento Lunch Box Containers Multi Color Portion Control Containers with Lids [6 PACK]",
+            "normalizedName": "Prefer Green 3-Compartment Bento Lunch Box Containers Multi Color Portion Control Containers with Lids [6 PACK]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1699999973416677
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

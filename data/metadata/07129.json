@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002ZNIZ3Y": {
+            "asin": "B002ZNIZ3Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Grohe 46 298 KH0 Ladylux Plus Sprayhead, Soft Black",
+            "normalizedName": "Grohe 46 298 KH0 Ladylux Plus Sprayhead, Soft Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00E38L6SK": {
+            "asin": "B00E38L6SK",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Camry 5.31 x 3 Inches Digital Luggage Scale, Orange, One Size",
+            "normalizedName": "Camry 5.31 x 3 Inches Digital Luggage Scale, Orange, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

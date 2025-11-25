@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GY5DTSU": {
+            "asin": "B00GY5DTSU",
+            "height": {
+                "unit": "IN",
+                "value": 2.5196850368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.5984251942
+            },
+            "name": "Clinique - SUPERDEFENSE defense SPF20 daily moisturizer III / IV 50 ml",
+            "normalizedName": "Clinique - SUPERDEFENSE defense SPF20 daily moisturizer III / IV 50 ml",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5196850368
+            }
+        },
+        "B00MF1X0JA": {
+            "asin": "B00MF1X0JA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Caffeine Cream - Slimming And Toning Cream Reduces Cellulite Appearance - 120 Grams",
+            "normalizedName": "Caffeine Cream - Slimming And Toning Cream Reduces Cellulite Appearance - 120 Grams",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B01557ENZU": {
+            "asin": "B01557ENZU",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Crack Your Own Crystal Hollow Geodes - 10 Pack",
+            "normalizedName": "10 Pack Crack Your Own Crystal Hollow Geodes -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

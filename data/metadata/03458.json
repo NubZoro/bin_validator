@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013SOF04": {
+            "asin": "B0013SOF04",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512
+            },
+            "name": "Daron Virgin Atlantic Pullback Plane with Lights & Sounds",
+            "normalizedName": "Daron Virgin Atlantic Pullback Plane with Lights & Sounds",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B013UWYII4": {
+            "asin": "B013UWYII4",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "toesox Women's Grip Full Toe Scrunch Backflip SM (Men's Shoe 5-7, Women's Shoe 6-8)",
+            "normalizedName": "toesox Women's Grip Full Toe Scrunch Backflip SM (Men's Shoe 5-7, Women's Shoe 6-8)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01C76576Q": {
+            "asin": "B01C76576Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Headphones, In-Ear Earphones Earbuds with Microphone Universal 3.5mm Stereo Earphones with Mic for iPhone/ Samsung/ Computer (White)",
+            "normalizedName": "Headphones, In-Ear Earphones Earbuds with Microphone Universal 3.5mm Stereo Earphones with Mic for iPhone/ Samsung/ Computer (White)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.049999999958070473
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0316198757": {
+            "asin": "0316198757",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "The Shooting Star (The Adventures of Tintin: Young Readers Edition)",
+            "normalizedName": "The Shooting Star (The Adventures of Tintin: Young Readers Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "383654492X": {
+            "asin": "383654492X",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.9527558974
+            },
+            "name": "Dal\u00ed: The Paintings",
+            "normalizedName": "Dal\u00ed: The Paintings",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.26280817553908
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.3779527494
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

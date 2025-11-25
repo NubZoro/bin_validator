@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0132912716": {
+            "asin": "0132912716",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.7874015638
+            },
+            "name": "Longman Academic Writing Series 2: Paragraphs (3rd Edition)",
+            "normalizedName": "Longman Academic Writing Series 2: Paragraphs (3rd Edition)",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.970024052187294
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1889763696
+            }
+        },
+        "B01F8NN99M": {
+            "asin": "B01F8NN99M",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Men's Underwear,KAYIZU Brand Sexy Mesh Boxer Transparent Perspective Large (4-Pack)",
+            "normalizedName": "(4-Pack) Men's Underwear,KAYIZU Brand Sexy Mesh Boxer Transparent Perspective Large",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

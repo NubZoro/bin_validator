@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000IBU9FW": {
+            "asin": "B000IBU9FW",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Mercer Culinary Genesis 6-Piece Forged Knife Block Set, Tempered Glass Block",
+            "normalizedName": "Mercer Culinary Genesis 6-Piece Forged Knife Block Set, Tempered Glass Block",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.39999999295584
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        },
+        "B0041SHUBE": {
+            "asin": "B0041SHUBE",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.899999981742
+            },
+            "name": "Black Rectangular Plastic Serving Tray, 18\" x 12\"",
+            "normalizedName": "Black Rectangular Plastic Serving Tray, 18\" x 12\"",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        },
+        "B013TGFWMW": {
+            "asin": "B013TGFWMW",
+            "height": {
+                "unit": "IN",
+                "value": 1.3385826758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.2204724244
+            },
+            "name": "AmazonBasics 15.4-Inch Felt Laptop Sleeve - Charcoal",
+            "normalizedName": "AmazonBasics 15.4-Inch Felt Laptop Sleeve - Charcoal",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9700240513738411
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.1023621934
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0205994369": {
+            "asin": "0205994369",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Visions of America: A History of the United States, Volume Two (3rd Edition)",
+            "normalizedName": "Visions of America: A History of the United States, Volume Two (3rd Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B00C7PON9A": {
+            "asin": "B00C7PON9A",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Tree-Free Greetings sg24318 Princess Graphic: John 1:12 Sip 'N Go Stainless Steel Lined Travel Tumbler, 16-Ounce",
+            "normalizedName": "Tree-Free Greetings sg24318 Princess Graphic: John 1:12 Sip 'N Go Stainless Steel Lined Travel Tumbler, 16-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00YWDYE0I": {
+            "asin": "B00YWDYE0I",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Funko POP Games: Fallout - Deathclaw",
+            "normalizedName": "Funko POP Games: Fallout - Deathclaw",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

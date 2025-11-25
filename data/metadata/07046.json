@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003B3OOS2": {
+            "asin": "B003B3OOS2",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Nature's Way Vitamin C 1000 with Rose Hips, 250 Capsules",
+            "normalizedName": "Nature's Way Vitamin C 1000 with Rose Hips, 250 Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01F2VA8GW": {
+            "asin": "B01F2VA8GW",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Lightweight Packable Durable Travel Backpack Light Hiking Daypack for Men and Women Red",
+            "normalizedName": "Lightweight Packable Durable Travel Backpack Light Hiking Daypack for Men and Women Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

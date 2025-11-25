@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I0444P0": {
+            "asin": "B00I0444P0",
+            "height": {
+                "unit": "IN",
+                "value": 5.118110231
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.4960629804
+            },
+            "name": "Ty Beanie Boos Buddies Leona Blue Leopard Medium Plush",
+            "normalizedName": "Ty Beanie Boos Buddies Leona Blue Leopard Medium Plush",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.485012026093647
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.7952755826
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

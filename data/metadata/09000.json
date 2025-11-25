@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000R9YE5Q": {
+            "asin": "B000R9YE5Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Ryder Muzic",
+            "normalizedName": "Ryder Muzic",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770752888384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00BXQIJ5S": {
+            "asin": "B00BXQIJ5S",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.249999994645
+            },
+            "name": "Sephora Gift Card $25",
+            "normalizedName": "Sephora Gift Card $25",
+            "quantity": 72,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00XUCUAP0": {
+            "asin": "B00XUCUAP0",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "IShareCards\u00ae Handmade 3D Pop Up Thank You Cards With Envelopes Greeting Cards Flower (Lotus Flower)",
+            "normalizedName": "IShareCards\u00ae Handmade 3D Pop Up Thank You Cards With Envelopes Greeting Cards Flower (Lotus Flower)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00ZOKJVAG": {
+            "asin": "B00ZOKJVAG",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Car window shade (3px) - Car sun shade EXTRA LARGE 20\"x12\" with Maximum UV/Sun Protection \u2013 Car Sunshade with 100% money back guarantee \u2013 latest in interior car accessories",
+            "normalizedName": "Car window shade (3px) - Car sun shade EXTRA LARGE 20\"x12\" with Maximum UV/Sun Protection \u2013 Car Sunshade with 100% money back guarantee \u2013 latest in interior car accessories",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 76
+}

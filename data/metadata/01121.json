@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0486284999": {
+            "asin": "0486284999",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Narrative of the Life of Frederick Douglass",
+            "normalizedName": "Narrative of the Life of Frederick Douglass",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "1594138117": {
+            "asin": "1594138117",
+            "height": {
+                "unit": "IN",
+                "value": 1.6535433054
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1889763696
+            },
+            "name": "Mrs. Grant and Madame Jule",
+            "normalizedName": "Mrs. Grant and Madame Jule",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6754960887366348
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "1596437960": {
+            "asin": "1596437960",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "The Port Chicago 50: Disaster, Mutiny, and the Fight for Civil Rights",
+            "normalizedName": "The Port Chicago 50: Disaster, Mutiny, and the Fight for Civil Rights",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "1621641007": {
+            "asin": "1621641007",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "On the Family",
+            "normalizedName": "On the Family",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

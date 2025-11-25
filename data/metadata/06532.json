@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0015G4XD8": {
+            "asin": "B0015G4XD8",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Garden of Life Wobenzym N 100 Tablets",
+            "normalizedName": "Garden of Life Wobenzym N 100 Tablets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B0062W3NTA": {
+            "asin": "B0062W3NTA",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "WOBENZYM N Wobenzym N 100 TAB",
+            "normalizedName": "WOBENZYM N Wobenzym N 100 TAB",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00HA037LW": {
+            "asin": "B00HA037LW",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Baldwin B7491 Oil Filter",
+            "normalizedName": "Baldwin B7491 Oil Filter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6599999994465302
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B017HYNI50": {
+            "asin": "B017HYNI50",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Retseliney Best Face & Neck Firming Cream 4oz, Lift Loose & Sagging Skin, Tightens & Smoothes Chest, Natural & Organic, Anti Aging Daily Moisturizer Creme for Wrinkles, Vitamin C, 5% Glycolic Acid",
+            "normalizedName": "Retseliney Best Face & Neck Firming Cream 4oz, Lift Loose & Sagging Skin, Tightens & Smoothes Chest, Natural & Organic, Anti Aging Daily Moisturizer Creme for Wrinkles, Vitamin C, 5% Glycolic Acid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

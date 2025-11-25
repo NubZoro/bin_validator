@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00N4ZT2PM": {
+            "asin": "B00N4ZT2PM",
+            "height": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Barnant 420-1901-00FK Air Cadet Vacuum Pump, 115V",
+            "normalizedName": "Barnant 420-1901-00FK Air Cadet Vacuum Pump, 115V",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B016EPDG6E": {
+            "asin": "B016EPDG6E",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Nick Jr. Paw Patrol Adventure Bay Flannel Sheet Set, Twin",
+            "normalizedName": "Nick Jr. Paw Patrol Adventure Bay Flannel Sheet Set, Twin",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

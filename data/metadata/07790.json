@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008HSIX5Q": {
+            "asin": "B008HSIX5Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Samsung CLT-C506S Cyan Toner 1.5K Yield Cartridge Toner",
+            "normalizedName": "Samsung CLT-C506S Cyan Toner 1.5K Yield Cartridge Toner",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B010GO3J7A": {
+            "asin": "B010GO3J7A",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Candy Factory Variety Pack (40 Pieces)",
+            "normalizedName": "Candy Factory Variety Pack (40 Pieces)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B01AT5MFDK": {
+            "asin": "B01AT5MFDK",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Barbie Careers Bakery Shop Playset with African-American Doll",
+            "normalizedName": "Barbie Careers Bakery Shop Playset with African-American Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

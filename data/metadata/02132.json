@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FEGD8CM": {
+            "asin": "B00FEGD8CM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Disney Frozen 6 pc Figurine Figure Set Sven, Hans, Anna, Elsa, Kristoff and Olaf",
+            "normalizedName": "Disney Frozen 6 pc Figurine Figure Set Sven, Hans, Anna, Elsa, Kristoff and Olaf",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

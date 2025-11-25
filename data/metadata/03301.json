@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LBC9IB8": {
+            "asin": "B00LBC9IB8",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "FIG+YARROW Organic Hair + Scalp Tonic - 4oz",
+            "normalizedName": "FIG+YARROW Organic Hair + Scalp Tonic - 4oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00N2T7U90": {
+            "asin": "B00N2T7U90",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Anker Astro E5 16000mAh Portable Charger (2nd Generation External Battery Power Bank) with High-Quality Panasonic Battery Cells and PowerIQ Technology",
+            "normalizedName": "Anker Astro E5 16000mAh Portable Charger (2nd Generation External Battery Power Bank) with High-Quality Panasonic Battery Cells and PowerIQ Technology",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

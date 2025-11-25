@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000IDSLOG": {
+            "asin": "B000IDSLOG",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Vulli Sophie la Girafe",
+            "normalizedName": "Vulli Sophie la Girafe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.88
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6692913328
+            }
+        },
+        "B0093JO4Q0": {
+            "asin": "B0093JO4Q0",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "NCAA Kentucky Wildcats EVOCAP Holds Eyewear in Place, School Color Cap",
+            "normalizedName": "NCAA Kentucky Wildcats EVOCAP Holds Eyewear in Place, School Color Cap",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

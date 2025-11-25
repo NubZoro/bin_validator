@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NNFSNS": {
+            "asin": "B000NNFSNS",
+            "height": {
+                "unit": "IN",
+                "value": 0.59842519624
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.09842518757
+            },
+            "name": "Stanley 84-055 Bi-Material Slip Joint Plier, 6 Inch",
+            "normalizedName": "Stanley 84-055 Bi-Material Slip Joint Plier, 6 Inch",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.500008410216
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.90157480019
+            }
+        },
+        "B00N4OSR8Q": {
+            "asin": "B00N4OSR8Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Purex 08993 Dryer Sheets, Mountain Breeze, 40 Count",
+            "normalizedName": "Purex 08993 Dryer Sheets, Mountain Breeze, 40 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00T1P632E": {
+            "asin": "B00T1P632E",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Solar Powered String Light, Amir 100 LEDs Starry String Lights, Copper Wire Lights Ambiance Lighting for Outdoor, Gardens, Homes, Dancing, Christmas Party(Warm White)",
+            "normalizedName": "Solar Powered String Light, Amir 100 LEDs Starry String Lights, Copper Wire Lights Ambiance Lighting for Outdoor, Gardens, Homes, Dancing, Christmas Party(Warm White)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

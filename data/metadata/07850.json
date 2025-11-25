@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K93BNEK": {
+            "asin": "B00K93BNEK",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Plantation Productyes 7 Pot Circular Tray with Seed Start Pot",
+            "normalizedName": "Plantation Productyes 7 Pot Circular Tray with Seed Start Pot",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B013W46964": {
+            "asin": "B013W46964",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "White Shirt Boxes, 10 Pack",
+            "normalizedName": "10 Pack White Shirt Boxes,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.649999997777735
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

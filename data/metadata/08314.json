@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006I9S3": {
+            "asin": "B00006I9S3",
+            "height": {
+                "unit": "IN",
+                "value": 4.5669291292
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.7637795176
+            },
+            "name": "Fellowes Powershred Shredder Bags for 125/225/2250 Series Shredders, 50 Bags & Ties (36054)",
+            "normalizedName": "Fellowes Powershred Shredder Bags for 125/225/2250 Series Shredders, 50 Bags & Ties (36054)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.44
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.6456692866
+            }
+        },
+        "B0000AQOF5": {
+            "asin": "B0000AQOF5",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "3M Document Holder Wedge, 20 Sheet Capacity (DH140)",
+            "normalizedName": "3M Document Holder Wedge, 20 Sheet Capacity (DH140)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B004DDPHAI": {
+            "asin": "B004DDPHAI",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Braille Battery B2015 Lightweight Racing Battery",
+            "normalizedName": "Braille Battery B2015 Lightweight Racing Battery",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 15.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

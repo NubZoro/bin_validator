@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0016IILMY": {
+            "asin": "B0016IILMY",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "ACDelco 19121704 GM Original Equipment Front ABS Wheel Speed Sensor",
+            "normalizedName": "ACDelco 19121704 GM Original Equipment Front ABS Wheel Speed Sensor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B006GLBBYQ": {
+            "asin": "B006GLBBYQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.5354330642
+            },
+            "name": "NeilMed Nasogel Drip Free Gel Spray, 1 Fluid Ounce (Pack of 2)",
+            "normalizedName": "(Pack of 2) NeilMed Nasogel Drip Free Gel Spray, 1 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.330708657
+            }
+        },
+        "B008MM4UFE": {
+            "asin": "B008MM4UFE",
+            "height": {
+                "unit": "IN",
+                "value": 0.25
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "name": "Generic Sewing Machine Light Bulb XA2037001",
+            "normalizedName": "Generic Sewing Machine Light Bulb XA2037001",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.0
+            }
+        },
+        "B00NHNX8L0": {
+            "asin": "B00NHNX8L0",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Vixen 2.1x42 Super Wide Binocular 19172",
+            "normalizedName": "Vixen 2.1x42 Super Wide Binocular 19172",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

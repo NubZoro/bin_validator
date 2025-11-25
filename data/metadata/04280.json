@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007XTLQS6": {
+            "asin": "B007XTLQS6",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Contac Cold+Flu Night, 24 Caplets",
+            "normalizedName": "Contac Cold+Flu Night, 24 Caplets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GR7NLG": {
+            "asin": "B000GR7NLG",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.699999983986
+            },
+            "name": "Genuine Joe GJO20002 Polypropylene Medium-Weight Spoon, White (Carton of 1000)",
+            "normalizedName": "Genuine Joe GJO20002 Polypropylene Medium-Weight Spoon, White (Carton of 1000)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B010D382A8": {
+            "asin": "B010D382A8",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Honeymoon Upscale Microfiber Animal Leopard Print 4PC Bed Sheet Set, Black & Brown - Full Size",
+            "normalizedName": "Honeymoon Upscale Microfiber Animal Leopard Print 4PC Bed Sheet Set, Black & Brown - Full Size",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.049999996603708
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

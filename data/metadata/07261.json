@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CRATTT4": {
+            "asin": "B00CRATTT4",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Mrs. Meyer's Clean Day 2x HE Liquid Laundry Detergent, Basil, 64 Ounce Bottle",
+            "normalizedName": "Mrs. Meyer's Clean Day 2x HE Liquid Laundry Detergent, Basil, 64 Ounce Bottle",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00POR55WM": {
+            "asin": "B00POR55WM",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Solong Tattoo\u00ae Complete Starter Tattoo Kit 1 Pro Machine Guns 14 Inks Power Supply Foot Pedal Needles Grips Tips TK102",
+            "normalizedName": "Solong Tattoo\u00ae Complete Starter Tattoo Kit 1 Pro Machine Guns 14 Inks Power Supply Foot Pedal Needles Grips Tips TK102",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

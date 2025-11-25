@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FH1K4RG": {
+            "asin": "B00FH1K4RG",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Funny Guy Mugs I'm Good With Math Engineer's Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs I'm Good With Math Engineer's Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B019GUBR4M": {
+            "asin": "B019GUBR4M",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "H&R Block 2015 Deluxe + State Tax Software  - PC/Mac Disc",
+            "normalizedName": "H&R Block 2015 Deluxe + State Tax Software  - PC/Mac Disc",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B019QWTLAC": {
+            "asin": "B019QWTLAC",
+            "height": {
+                "unit": "IN",
+                "value": 0.0799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "H&R Block Tax Software Premium 2015 Federal & State",
+            "normalizedName": "H&R Block Tax Software Premium 2015 Federal & State",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

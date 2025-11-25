@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011JAH908": {
+            "asin": "B011JAH908",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Propur Water Filter Pitcher with 1 ProOne-G 2.0 mini filter element + Removable Fruit Infuser",
+            "normalizedName": "Propur Water Filter Pitcher with 1 ProOne-G 2.0 mini filter element + Removable Fruit Infuser",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.749999997693876
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

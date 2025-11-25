@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002EL3YP6": {
+            "asin": "B002EL3YP6",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Hayward SP1068DL Deluxe 3-Brush Pool Vacuum Head, 1-1/4-Inch and 1-1/2-Inch Swivel Hose for All Pools",
+            "normalizedName": "Hayward SP1068DL Deluxe 3-Brush Pool Vacuum Head, 1-1/4-Inch and 1-1/2-Inch Swivel Hose for All Pools",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B00AHAJ80Q": {
+            "asin": "B00AHAJ80Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Crayola My First Tissue Paper Creations",
+            "normalizedName": "Crayola My First Tissue Paper Creations",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004WODP20": {
+            "asin": "B004WODP20",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Sony MDRZX100  ZX Series Stereo Headphones (Black)",
+            "normalizedName": "Sony MDRZX100  ZX Series Stereo Headphones (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003ML36HI": {
+            "asin": "B003ML36HI",
+            "height": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Maisto R/C Rock Crawler Radio Control Vehicle (Colors May Vary)",
+            "normalizedName": "Maisto R/C Rock Crawler Radio Control Vehicle (Colors May Vary)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B005JRJFSW": {
+            "asin": "B005JRJFSW",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Dremel Saw-Max SM840 Miter Cutting Guide",
+            "normalizedName": "Dremel Saw-Max SM840 Miter Cutting Guide",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B01CIUX1N2": {
+            "asin": "B01CIUX1N2",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.699999982966
+            },
+            "name": "MEGALOVEMART\u00ae Hammock Style Waterproof Dog Car Seat Cover",
+            "normalizedName": "MEGALOVEMART\u00ae Hammock Style Waterproof Dog Car Seat Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

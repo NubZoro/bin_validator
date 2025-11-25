@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00164EAQ4": {
+            "asin": "B00164EAQ4",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Vietnam Med Evac",
+            "normalizedName": "Vietnam Med Evac",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00G2UE45Y": {
+            "asin": "B00G2UE45Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Dictation & Audio Cassette, Normal Bias, 60 Minutes (30 x 2)",
+            "normalizedName": "Dictation & Audio Cassette, Normal Bias, 60 Minutes (30 x 2)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00P0FA31G": {
+            "asin": "B00P0FA31G",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Amia 42102 Hand Painted Glass Gold Labrador Retriever Dog House Suncatcher, 5-1/2 by 7-1/4-Inch",
+            "normalizedName": "Amia 42102 Hand Painted Glass Gold Labrador Retriever Dog House Suncatcher, 5-1/2 by 7-1/4-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

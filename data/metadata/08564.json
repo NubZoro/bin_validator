@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012S0RDWM": {
+            "asin": "B012S0RDWM",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "AmazonBasics Square Air Conditioner Cover",
+            "normalizedName": "AmazonBasics Square Air Conditioner Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        },
+        "B01DNC4L92": {
+            "asin": "B01DNC4L92",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "Kpblis Mermaid Tail Blanket, Sky Blue",
+            "normalizedName": "Kpblis Mermaid Tail Blanket, Sky Blue",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324661
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

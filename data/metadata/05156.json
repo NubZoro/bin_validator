@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000N15QY6": {
+            "asin": "B000N15QY6",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "The Ojai Cook Garlic Herb Lemonaise 12 oz Jar",
+            "normalizedName": "The Ojai Cook Garlic Herb Lemonaise 12 oz Jar",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B019F2DKY6": {
+            "asin": "B019F2DKY6",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "External Optical Drive USB 2.0 DVD/CD Player For Windows98/ SE /ME / 2000 / XP / Vista / Win 7/ Win 8,Ultra Notebook PC Desktop Computer+Dustproof and Scratch-Resistant External Bag Case,White",
+            "normalizedName": "External Optical Drive USB 2.0 DVD/CD Player For Windows98/ SE /ME / 2000 / XP / Vista / Win 7/ Win 8,Ultra Notebook PC Desktop Computer+Dustproof and Scratch-Resistant External Bag Case,White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

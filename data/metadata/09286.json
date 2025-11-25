@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003EH0CY0": {
+            "asin": "B003EH0CY0",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Freshmint Toothpaste, Unboxed, Metallic Tube, 0.6 oz, 144 Case",
+            "normalizedName": "Freshmint Toothpaste, Unboxed, Metallic Tube, 0.6 oz, 144 Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        },
+        "B00I5064NO": {
+            "asin": "B00I5064NO",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.0
+            },
+            "name": "Sarah Faux Silk Jacquard Wave Pattern Curtain Panels 55'' x 84'' - 2 Pack - Gold",
+            "normalizedName": "2 Pack Sarah Faux Silk Jacquard Wave Pattern Curtain Panels 55'' x 84'' - - Gold",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 14.0
+            }
+        },
+        "B011M8L97G": {
+            "asin": "B011M8L97G",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "Awkward Panda XL Plush",
+            "normalizedName": "Awkward Panda XL Plush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        },
+        "B01DQ45QNM": {
+            "asin": "B01DQ45QNM",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.899999981742
+            },
+            "name": "Pijio Coccyx Orthopedic Comfort Memory Foam Seat Cushion (Black)",
+            "normalizedName": "Pijio Coccyx Orthopedic Comfort Memory Foam Seat Cushion (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.599999986128
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

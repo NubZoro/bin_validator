@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1412995167": {
+            "asin": "1412995167",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Designing and Managing Programs: An Effectiveness-Based Approach (SAGE Sourcebooks for the Human Services)",
+            "normalizedName": "Designing and Managing Programs: An Effectiveness-Based Approach (SAGE Sourcebooks for the Human Services)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B000JLNBW4": {
+            "asin": "B000JLNBW4",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Koolatron KWC-4 Coca-Cola Personal 6-Can Mini Fridge",
+            "normalizedName": "Koolatron KWC-4 Coca-Cola Personal 6-Can Mini Fridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

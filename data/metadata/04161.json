@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003T1G0XI": {
+            "asin": "B003T1G0XI",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "TIGI Bed Head Urban Anti-dote Recovery Shampoo & Conditioner Duo Damage Level 2 (25.36oz)",
+            "normalizedName": "TIGI Bed Head Urban Anti-dote Recovery Shampoo & Conditioner Duo Damage Level 2 (25.36oz)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B015GNLDG0": {
+            "asin": "B015GNLDG0",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Dylan 4.1 Universal Wireless Neckband Headset with Retractable Earbuds   \u2013 White",
+            "normalizedName": "Dylan 4.1 Universal Wireless Neckband Headset with Retractable Earbuds   \u2013 White",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000R41QDY": {
+            "asin": "B000R41QDY",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "name": "American Crew Molding Clay 3.0 oz",
+            "normalizedName": "American Crew Molding Clay 3.0 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B00A5MTW9S": {
+            "asin": "B00A5MTW9S",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "MD USA Seamless Toe-Wave-In Mesh Diabetic Ankle Socks, White, Medium",
+            "normalizedName": "MD USA Seamless Toe-Wave-In Mesh Diabetic Ankle Socks, White, Medium",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

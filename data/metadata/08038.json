@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00000IWD4": {
+            "asin": "B00000IWD4",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Boggle Junior Game",
+            "normalizedName": "Boggle Junior Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B004FT5VCE": {
+            "asin": "B004FT5VCE",
+            "height": {
+                "unit": "IN",
+                "value": 0.7480314953
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.3464566793
+            },
+            "name": "KINGJIM A4 Synthetic Leather Clipboard Black",
+            "normalizedName": "KINGJIM A4 Synthetic Leather Clipboard Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.09
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.448818888
+            }
+        },
+        "B019OYOF3K": {
+            "asin": "B019OYOF3K",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Nakpunar 24 pcs 110 mm Jar Lids in Gold - Canning Lid replacement",
+            "normalizedName": "Nakpunar 24 pcs 110 mm Jar Lids in Gold - Canning Lid replacement",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01C941BE8": {
+            "asin": "B01C941BE8",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "name": "LKV372A HDMI Extender over Ethernet with IR (up to 60m/195ft)",
+            "normalizedName": "LKV372A HDMI Extender over Ethernet with IR (up to 60m/195ft)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

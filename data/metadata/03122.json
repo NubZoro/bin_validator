@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0121SI7YY": {
+            "asin": "B0121SI7YY",
+            "height": {
+                "unit": "IN",
+                "value": 2.6377952729
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0236220411
+            },
+            "name": "Original Sekiguchi 5.5\" Baby Girl Monchhichi Nurse Bebichhichi Doll",
+            "normalizedName": "Original Sekiguchi 5.5\" Baby Girl Monchhichi Nurse Bebichhichi Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18077720957421584
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B019ZI21U4": {
+            "asin": "B019ZI21U4",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Asus Zenfone 2 Laser ZE551KL/ZE550KL 5.5\" Leather Case, Yaker HDL Lightweight, Premium Leather Compatible -Retail Packaging for Asus Zenfone 2 Laser ZE551KL/ZE550KL 5.5\" (Black)",
+            "normalizedName": "Asus Zenfone 2 Laser ZE551KL/ZE550KL 5.5\" Leather Case, Yaker HDL Lightweight, Premium Leather Compatible -Retail Packaging for Asus Zenfone 2 Laser ZE551KL/ZE550KL 5.5\" (Black)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

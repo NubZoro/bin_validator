@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000COXNW6": {
+            "asin": "B000COXNW6",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Perfect Equipment P025 1/4Oz P Typ Whlwt Bx/50",
+            "normalizedName": "Perfect Equipment P025 1/4Oz P Typ Whlwt Bx/50",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B001LETOOM": {
+            "asin": "B001LETOOM",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Magicard YMCKO Color Ribbon, 300 prints (MA300YMCKO)",
+            "normalizedName": "Magicard YMCKO Color Ribbon, 300 prints (MA300YMCKO)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

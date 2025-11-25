@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001K68Q2C": {
+            "asin": "B001K68Q2C",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Callen Photo Mat 11\"X14\" Single Hand-Cut W/Bevel Edge, Black W/Black Core (Frame sold separately)",
+            "normalizedName": "Callen Photo Mat 11\"X14\" Single Hand-Cut W/Bevel Edge, Black W/Black Core (Frame sold separately)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B00MEC2J4C": {
+            "asin": "B00MEC2J4C",
+            "height": {
+                "unit": "IN",
+                "value": 1.9
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.5
+            },
+            "name": "The Little Gym I'm a Ballerina Dance Mat",
+            "normalizedName": "The Little Gym I'm a Ballerina Dance Mat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        },
+        "B01BVH7UNK": {
+            "asin": "B01BVH7UNK",
+            "height": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.5
+            },
+            "name": "Professionals Choice VenTECH SMB Boots 4-PK Large",
+            "normalizedName": "Professionals Choice VenTECH SMB Boots 4-PK Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

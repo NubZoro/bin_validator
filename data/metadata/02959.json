@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QMTG8BI": {
+            "asin": "B00QMTG8BI",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "FBP #14, December 2014",
+            "normalizedName": "FBP #14, December 2014",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00XXFGE5E": {
+            "asin": "B00XXFGE5E",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "VTech Soothing Lights Musical Mobile - Online Exclusive",
+            "normalizedName": "VTech Soothing Lights Musical Mobile - Online Exclusive",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        },
+        "B01EKY8O7W": {
+            "asin": "B01EKY8O7W",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Stainless Steel Dog Bowls With Rubber Base Non-Skid Classical Food Bowl,Water Bowl For All Pets Rust Resistant (Various Sizes Available) By Petutu-XL(Up to 20oz Food)",
+            "normalizedName": "Stainless Steel Dog Bowls With Rubber Base Non-Skid Classical Food Bowl,Water Bowl For All Pets Rust Resistant (Various Sizes Available) By Petutu-XL(Up to 20oz Food)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B01GDQLDBO": {
+            "asin": "B01GDQLDBO",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Holigoo Hair Iron Brush, Metal Ceramic Heating for Silky Frizz-free Hair, Instant Heat Up to 450\u2109/230\u2103, Adjustable Temperature, Auto Lock, 30-min Timer, Anti-Scald (Gloden)",
+            "normalizedName": "Holigoo Hair Iron Brush, Metal Ceramic Heating for Silky Frizz-free Hair, Instant Heat Up to 450\u2109/230\u2103, Adjustable Temperature, Auto Lock, 30-min Timer, Anti-Scald (Gloden)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

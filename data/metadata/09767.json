@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0195122739": {
+            "asin": "0195122739",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Fundamental Concepts in the Design of Experiments",
+            "normalizedName": "Fundamental Concepts in the Design of Experiments",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "0201423006": {
+            "asin": "0201423006",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "System Software: An Introduction to Systems Programming (3rd Edition)",
+            "normalizedName": "System Software: An Introduction to Systems Programming (3rd Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "0205238823": {
+            "asin": "0205238823",
+            "height": {
+                "unit": "IN",
+                "value": 0.4
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.1
+            },
+            "name": "Understanding Public Policy (14th Edition)",
+            "normalizedName": "Understanding Public Policy (14th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.3
+            }
+        },
+        "0321165101": {
+            "asin": "0321165101",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.09842518757
+            },
+            "name": "Analyzing Streams of Language: Twelve Steps to the Systematic Coding of Text, Talk, and Other Verbal Data",
+            "normalizedName": "Analyzing Streams of Language: Twelve Steps to the Systematic Coding of Text, Talk, and Other Verbal Data",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.750012615324
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B01A2YRA8I": {
+            "asin": "B01A2YRA8I",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Telmu MXIII-G Android TV Box Amlogic S812 Quad Core 2GB/16GB 4K HEVC H.265  Ultra HD Streaming Media Player WiFi with Preload KODI",
+            "normalizedName": "Telmu MXIII-G Android TV Box Amlogic S812 Quad Core 2GB/16GB 4K HEVC H.265  Ultra HD Streaming Media Player WiFi with Preload KODI",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

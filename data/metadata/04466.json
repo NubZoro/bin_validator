@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001YXRDC": {
+            "asin": "B0001YXRDC",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Edge Eyewear SW116 Dakura Safety Glasses, Black with Smoke Lens",
+            "normalizedName": "Edge Eyewear SW116 Dakura Safety Glasses, Black with Smoke Lens",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B004LO9PX4": {
+            "asin": "B004LO9PX4",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Choke Chains 14 in., 2 MM Small to Medium Nickel Plated",
+            "normalizedName": "Choke Chains 14 in., 2 MM Small to Medium Nickel Plated",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00745INBC": {
+            "asin": "B00745INBC",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Orange Bandana Party Accessory (1 count)",
+            "normalizedName": "Orange Bandana Party Accessory (1 count)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04409200237214973
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.543307083
+            }
+        },
+        "B01E9IPCYC": {
+            "asin": "B01E9IPCYC",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "Best Eye Cream for Dark Circles, Puffiness and Fine Lines - The Best Eye Wrinkle Cream Helps Get Rid of Wrinkles Under and Around Eyes - 1.7 fl oz",
+            "normalizedName": "Best Eye Cream for Dark Circles, Puffiness and Fine Lines - The Best Eye Wrinkle Cream Helps Get Rid of Wrinkles Under and Around Eyes - 1.7 fl oz",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01449PJJE": {
+            "asin": "B01449PJJE",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Omoton Scratch Resist Tempered Glass Screen Protector for Amazon Fire 7-inch Tablet(5th Generation)",
+            "normalizedName": "Omoton Scratch Resist Tempered Glass Screen Protector for Amazon Fire 7-inch Tablet(5th Generation)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B015N8XRHG": {
+            "asin": "B015N8XRHG",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Pebble Time Round 14mm Smartwatch for Apple/Android Devices - Silver/Stone",
+            "normalizedName": "Pebble Time Round 14mm Smartwatch for Apple/Android Devices - Silver/Stone",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999948959314345
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

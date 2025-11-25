@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004W4TFZG": {
+            "asin": "B004W4TFZG",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Hayward CX900DA Knob Kit Replacement for Hayward Star-Clear Cartridge Filters",
+            "normalizedName": "Hayward CX900DA Knob Kit Replacement for Hayward Star-Clear Cartridge Filters",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00MGK9Q5M": {
+            "asin": "B00MGK9Q5M",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "name": "Rimmel Brow This Way Sculpting Kit, Medium Brown, Powder 0.04 Ounce, Wax 0.03 Ounce",
+            "normalizedName": "Rimmel Brow This Way Sculpting Kit, Medium Brown, Powder 0.04 Ounce, Wax 0.03 Ounce",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04409200237214973
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.4960629906
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

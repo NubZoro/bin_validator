@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002GO9LI": {
+            "asin": "B0002GO9LI",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Ernie Ball Medium Assorted Guitar Picks, Bag of 24",
+            "normalizedName": "Ernie Ball Medium Assorted Guitar Picks, Bag of 24",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B01AXI796G": {
+            "asin": "B01AXI796G",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7999999930640005
+            },
+            "name": "Kingway 5 Pack High Yield Replacement Ink Cartridge for HP 932 933 HP 932xl 933xl for HP Officejet 6700 6600 7612 7610 6100 7110 Printer(2BK+1C+1M+1Y)",
+            "normalizedName": "5 Pack Kingway High Yield Replacement Ink Cartridge for HP 932 933 HP 932xl 933xl for HP Officejet 6700 6600 7612 7610 6100 7110 Printer(2BK+1C+1M+1Y)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B01GPQC02S": {
+            "asin": "B01GPQC02S",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Micro USB Charging Port and Sensor Menu Button Flex Cable Replacement Part for Samsung Galaxy S5",
+            "normalizedName": "Micro USB Charging Port and Sensor Menu Button Flex Cable Replacement Part for Samsung Galaxy S5",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

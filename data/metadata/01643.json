@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011JAH908": {
+            "asin": "B011JAH908",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Propur Water Filter Pitcher with 1 ProOne-G 2.0 mini filter element + Removable Fruit Infuser",
+            "normalizedName": "Propur Water Filter Pitcher with 1 ProOne-G 2.0 mini filter element + Removable Fruit Infuser",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.749999997693876
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B01EWNUUUA": {
+            "asin": "B01EWNUUUA",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Elego Mega 2560 Project The Most Complete Ultimate Starter Kit w/ TUTORIAL, MEGA 2560 controller board, LCD1602, Servo, Stepper Motor for Arduino Mega2560 UNO Nano",
+            "normalizedName": "Elego Mega 2560 Project The Most Complete Ultimate Starter Kit w/ TUTORIAL, MEGA 2560 controller board, LCD1602, Servo, Stepper Motor for Arduino Mega2560 UNO Nano",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

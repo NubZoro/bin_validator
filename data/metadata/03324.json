@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013DV2W8": {
+            "asin": "B0013DV2W8",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Whink Wash Away Laundry Stain Remover, 10 Ounce",
+            "normalizedName": "Whink Wash Away Laundry Stain Remover, 10 Ounce",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

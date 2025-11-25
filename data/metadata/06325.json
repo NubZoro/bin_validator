@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00XQ8FEMW": {
+            "asin": "B00XQ8FEMW",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Naomi Home Salt Box",
+            "normalizedName": "Naomi Home Salt Box",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B01B6SGB16": {
+            "asin": "B01B6SGB16",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "3 in 1 Powerful Electric Rechargeable Epilator Shaver Pedicure (ESP) for Her Spa Grade Pedicure Heel and Foot Callus Remover with Luxurious Hair Removal Epilator and Shaving Head With Built in Light",
+            "normalizedName": "3 in 1 Powerful Electric Rechargeable Epilator Shaver Pedicure (ESP) for Her Spa Grade Pedicure Heel and Foot Callus Remover with Luxurious Hair Removal Epilator and Shaving Head With Built in Light",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

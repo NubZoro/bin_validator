@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006IF4J": {
+            "asin": "B00006IF4J",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Smead Hanging File Folder with Tab, 1/5-Cut Adjustable Tab, Letter Size, Gray, 25 per Box (64063)",
+            "normalizedName": "Smead Hanging File Folder with Tab, 1/5-Cut Adjustable Tab, Letter Size, Gray, 25 per Box (64063)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B00MZ6BVM8": {
+            "asin": "B00MZ6BVM8",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Ever After High Spring Unsprung Cerise Hood Doll",
+            "normalizedName": "Ever After High Spring Unsprung Cerise Hood Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

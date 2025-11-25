@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00N19NEYG": {
+            "asin": "B00N19NEYG",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Night Eyes Security Lights",
+            "normalizedName": "Night Eyes Security Lights",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00NB7PIK6": {
+            "asin": "B00NB7PIK6",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Hefty One Zip Freezer Bag",
+            "normalizedName": "Hefty One Zip Freezer Bag",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B016B45PZ8": {
+            "asin": "B016B45PZ8",
+            "height": {
+                "unit": "IN",
+                "value": 2.6771653516
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.3464566844
+            },
+            "name": "Yuntab 8GB Y88 7 inch tablet pc Android Quad-core Tablet PC, 1024*600 Capacitive, Allwinner A33 Google Android 4.4 ,with Dual Camera Google Play Pre-loaded, External 3G ,3D-Game (Green)",
+            "normalizedName": "Yuntab 8GB Y88 7 inch tablet pc Android Quad-core Tablet PC, 1024*600 Capacitive, Allwinner A33 Google Android 4.4 ,with Dual Camera Google Play Pre-loaded, External 3G ,3D-Game (Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2345760653848885
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B01B60K85E": {
+            "asin": "B01B60K85E",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "YISAMA Travel Accessories Add a Bag Bungee Cords Elastic to Hold Laptops Suitcase or Coat Black",
+            "normalizedName": "YISAMA Travel Accessories Add a Bag Bungee Cords Elastic to Hold Laptops Suitcase or Coat Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

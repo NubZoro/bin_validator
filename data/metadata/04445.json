@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008BP2DSS": {
+            "asin": "B008BP2DSS",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Star Wars 15233 C3P0 Earbuds",
+            "normalizedName": "Star Wars 15233 C3P0 Earbuds",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B00VPU1NXC": {
+            "asin": "B00VPU1NXC",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "Baby Orajel Naturals Teething Pain Relief Gel, Daytime Nightime Twin Pack (2 tubes .18 oz each)",
+            "normalizedName": "Baby Orajel Naturals Teething Pain Relief Gel, Daytime Nightime Twin Pack (2 tubes .18 oz each)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.599999998368
+            }
+        },
+        "B00WBK03OU": {
+            "asin": "B00WBK03OU",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Lexar Professional USB 3.0 Dual-Slot Reader - LRW400CRBNA",
+            "normalizedName": "Lexar Professional USB 3.0 Dual-Slot Reader - LRW400CRBNA",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B018W8QFIW": {
+            "asin": "B018W8QFIW",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "name": "Beautyblender pure + mini blendercleanser",
+            "normalizedName": "Beautyblender pure + mini blendercleanser",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

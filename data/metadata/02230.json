@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HPTLO04": {
+            "asin": "B00HPTLO04",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Honda 17254-HM8-000 Air Filter",
+            "normalizedName": "Honda 17254-HM8-000 Air Filter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00XVG29MW": {
+            "asin": "B00XVG29MW",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "1byone Easy Chime Wireless Doorbell Operating at 500 feet with 2 Plug-in Receivers, CD Quality Sound and LED Flash, 36 Melodies to Choose, White",
+            "normalizedName": "1byone Easy Chime Wireless Doorbell Operating at 500 feet with 2 Plug-in Receivers, CD Quality Sound and LED Flash, 36 Melodies to Choose, White",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

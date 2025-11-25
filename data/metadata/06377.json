@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001VCYHAA": {
+            "asin": "B001VCYHAA",
+            "height": {
+                "unit": "IN",
+                "value": 4.0944881848
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "Viking Helmet",
+            "normalizedName": "Viking Helmet",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        },
+        "B00QHPBWV8": {
+            "asin": "B00QHPBWV8",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "RED CUP SOCIETY RED CUP WINE GLASS, I MUSTACHE YOU TO PARTY",
+            "normalizedName": "RED CUP SOCIETY RED CUP WINE GLASS, I MUSTACHE YOU TO PARTY",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B0178C1YXE": {
+            "asin": "B0178C1YXE",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Microsoft Surface Pro 4 Messenger Bag, CaseCrown Campus North Messenger Bag (Brown)",
+            "normalizedName": "Microsoft Surface Pro 4 Messenger Bag, CaseCrown Campus North Messenger Bag (Brown)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.299999986434
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

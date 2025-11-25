@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0158ZBNQQ": {
+            "asin": "B0158ZBNQQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Louisville Slugger Omaha Select Brown Catcher's Mitt",
+            "normalizedName": "Louisville Slugger Omaha Select Brown Catcher's Mitt",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00021UR3C": {
+            "asin": "B00021UR3C",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Elizabeth Arden Green Tea Cream Deodorant, 1.5 oz.",
+            "normalizedName": "Elizabeth Arden Green Tea Cream Deodorant, 1.5 oz.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B004BUNKYS": {
+            "asin": "B004BUNKYS",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.236220462
+            },
+            "name": "Nike Kids Boy's Essentials Legend S/S Top (Little Kids/Big Kids) Black T-Shirt XL (18-20 Big Kids)",
+            "normalizedName": "Nike Kids Boy's Essentials Legend S/S Top (Little Kids/Big Kids) Black T-Shirt XL (18-20 Big Kids)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.31
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.3228346382
+            }
+        },
+        "B01A9VKQRQ": {
+            "asin": "B01A9VKQRQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "LED Safety Light - 2-Pack | Ultra Bright | High Visibility | Three Modes | Clip On | Water Resistant | For Cycling | Walking | Hiking | Running | Kids | Strollers | Pets and More | With FREE Bonuses",
+            "normalizedName": "2-Pack LED Safety Light - | Ultra Bright | High Visibility | Three Modes | Clip On | Water Resistant | For Cycling | Walking | Hiking | Running | Kids | Strollers | Pets and More | With FREE Bonuses",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

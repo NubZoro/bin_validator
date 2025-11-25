@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000067SR9": {
+            "asin": "B000067SR9",
+            "height": {
+                "unit": "IN",
+                "value": 6.2204724346
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.023622036
+            },
+            "name": "Fellowes 98316 NEATO Slim Jewel Cases, Clear, 25-Pack",
+            "normalizedName": "25-Pack Fellowes 98316 NEATO Slim Jewel Cases, Clear,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1605081162353366
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299212592
+            }
+        },
+        "B001B9SL50": {
+            "asin": "B001B9SL50",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "SYLVANIA H7 XtraVision Halogen Headlight Bulb, (Pack of 2)",
+            "normalizedName": "(Pack of 2) SYLVANIA H7 XtraVision Halogen Headlight Bulb,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B003X51S00": {
+            "asin": "B003X51S00",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Forney 57637 Lug Crimping Tool",
+            "normalizedName": "Forney 57637 Lug Crimping Tool",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

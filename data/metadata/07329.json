@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0079W3PGI": {
+            "asin": "B0079W3PGI",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "Elite Core VRL VRLDMX5P25 5-Pin DMX Cable, 25-Feet",
+            "normalizedName": "Elite Core VRL VRLDMX5P25 5-Pin DMX Cable, 25-Feet",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00EKQC88C": {
+            "asin": "B00EKQC88C",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.299999982354
+            },
+            "name": "Arkon Clamp Camera Mount for Canon Nikon Sony Samsung Fujifilm Panasonic Olympus Cameras",
+            "normalizedName": "Arkon Clamp Camera Mount for Canon Nikon Sony Samsung Fujifilm Panasonic Olympus Cameras",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

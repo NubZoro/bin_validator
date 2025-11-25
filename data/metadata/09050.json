@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1412714508": {
+            "asin": "1412714508",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.3700787306
+            },
+            "name": "Brain Games #1: Lower Your Brain Age in Minutes a Day (Brain Games (Numbered))",
+            "normalizedName": "Brain Games #1: Lower Your Brain Age in Minutes a Day (Brain Games (Numbered))",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560420331426
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1102362122
+            }
+        },
+        "B00SL0C7XE": {
+            "asin": "B00SL0C7XE",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Fisher-Price Nickelodeon Blaze and the Monster Machines Talking Blaze",
+            "normalizedName": "Fisher-Price Nickelodeon Blaze and the Monster Machines Talking Blaze",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

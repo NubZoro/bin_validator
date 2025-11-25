@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DPI8UWY": {
+            "asin": "B00DPI8UWY",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.899999982761997
+            },
+            "name": "Rapdom Tactical Modular Style Vest, Coyote",
+            "normalizedName": "Rapdom Tactical Modular Style Vest, Coyote",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B01DKXTRQ6": {
+            "asin": "B01DKXTRQ6",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "NFC Levitating Speaker, SainSonic SS-01 Portable 3D Wireless Bluetooth Floating Levitating Maglev Speaker, White",
+            "normalizedName": "NFC Levitating Speaker, SainSonic SS-01 Portable 3D Wireless Bluetooth Floating Levitating Maglev Speaker, White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.659999996092169
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

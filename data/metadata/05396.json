@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0095ZBTZQ": {
+            "asin": "B0095ZBTZQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Brother Printer LC1033PKS Ink, 3 Pack, 1 color each of Cyan, Magenta, Yellow",
+            "normalizedName": "3 Pack Brother Printer LC1033PKS Ink, , 1 color each of Cyan, Magenta, Yellow",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00U2UZ40Y": {
+            "asin": "B00U2UZ40Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Fujifilm Instax Mini 8 Instant Film Camera (Raspberry)",
+            "normalizedName": "Fujifilm Instax Mini 8 Instant Film Camera (Raspberry)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9593510768018849
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K693CWS": {
+            "asin": "B00K693CWS",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Order Meditation LED Candle Fountain - - Order",
+            "normalizedName": "Order Meditation LED Candle Fountain - - Order",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B0187SKYKM": {
+            "asin": "B0187SKYKM",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Disney Star Wars The Force Awakens BB-8 12 Pcs Goodie Bags Party Favor Bags Gift Bags Birthday Bags",
+            "normalizedName": "Disney Star Wars The Force Awakens BB-8 12 Pcs Goodie Bags Party Favor Bags Gift Bags Birthday Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

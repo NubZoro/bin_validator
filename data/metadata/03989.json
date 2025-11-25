@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009D4JW3U": {
+            "asin": "B009D4JW3U",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Pro Controller U for Wii and Wii U - Black",
+            "normalizedName": "Pro Controller U for Wii and Wii U - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00VIKACYU": {
+            "asin": "B00VIKACYU",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Elegant Rhinestone Bride to Be Tiara - Premium Quality Bachelorette Party or Bridal Shower Tiara",
+            "normalizedName": "Elegant Rhinestone Bride to Be Tiara - Premium Quality Bachelorette Party or Bridal Shower Tiara",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

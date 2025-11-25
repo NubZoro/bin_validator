@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ATO4RSI": {
+            "asin": "B00ATO4RSI",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Starbucks Refreshers Very Berry Hibiscus 6 - 0.70 Oz Packets",
+            "normalizedName": "Starbucks Refreshers Very Berry Hibiscus 6 - 0.70 Oz Packets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00VJMDZHS": {
+            "asin": "B00VJMDZHS",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Smatree Large Hard Case for Cards Against Humanity Card Game-SmaCase H300 with 4 Moveable Dividers-Fits up to 1500 New Cards(Without the dividers)",
+            "normalizedName": "Smatree Large Hard Case for Cards Against Humanity Card Game-SmaCase H300 with 4 Moveable Dividers-Fits up to 1500 New Cards(Without the dividers)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

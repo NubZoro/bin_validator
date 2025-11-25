@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003UQ5XAS": {
+            "asin": "B003UQ5XAS",
+            "height": {
+                "unit": "IN",
+                "value": 0.29921259812
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Niagara Conservation Water Saving Toilet Tank Bank",
+            "normalizedName": "Niagara Conservation Water Saving Toilet Tank Bank",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B005X7740Y": {
+            "asin": "B005X7740Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.7874015638
+            },
+            "name": "Lezyne HV Drive Hand Pump (Medium, Black)",
+            "normalizedName": "Lezyne HV Drive Hand Pump (Medium, Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.31
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.6456692866
+            }
+        },
+        "B00723SEGU": {
+            "asin": "B00723SEGU",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Stagg Chili Steakhouse Reserve Chili with Beans, 90 Ounce",
+            "normalizedName": "Stagg Chili Steakhouse Reserve Chili with Beans, 90 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00ZQ3CL58": {
+            "asin": "B00ZQ3CL58",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Universal Yarn Bella Chenille 109 Yarn, Blueberry",
+            "normalizedName": "Universal Yarn Bella Chenille 109 Yarn, Blueberry",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B016IFDEB2": {
+            "asin": "B016IFDEB2",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Master Lock Company 4688D 4 Pack TSA Accepted Cable Luggage Lock",
+            "normalizedName": "4 Pack Master Lock Company 4688D TSA Accepted Cable Luggage Lock",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EWCUK1Q": {
+            "asin": "B00EWCUK1Q",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990411999
+            },
+            "name": "SONOS PLAY:1 Compact Smart Speaker for Streaming Music (Black)",
+            "normalizedName": "SONOS PLAY:1 Compact Smart Speaker for Streaming Music (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.199999995639329
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00MLQQ3SY": {
+            "asin": "B00MLQQ3SY",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Frux Home and Yard Flameless Tea Light Set with Flickering LED Battery Tealight Candles with Bonus Votive Wraps (24 Pack)",
+            "normalizedName": "(24 Pack) Frux Home and Yard Flameless Tea Light Set with Flickering LED Battery Tealight Candles with Bonus Votive Wraps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00TQ8483C": {
+            "asin": "B00TQ8483C",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Pearhead Chevron Baby Book with Clean-Touch Ink Pad, Blue",
+            "normalizedName": "Pearhead Chevron Baby Book with Clean-Touch Ink Pad, Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

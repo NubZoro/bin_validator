@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00H36XXBM": {
+            "asin": "B00H36XXBM",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "NOCO XGrid XGS4USB 4W Portable Solar Panel and USB Kit",
+            "normalizedName": "NOCO XGrid XGS4USB 4W Portable Solar Panel and USB Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

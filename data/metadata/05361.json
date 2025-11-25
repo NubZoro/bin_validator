@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000K4TWNC": {
+            "asin": "B000K4TWNC",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "North Pole Series: \"Toymaker Elves\" #5602-2 by Department 56",
+            "normalizedName": "North Pole Series: \"Toymaker Elves\" #5602-2 by Department 56",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B01ARQ9JFI": {
+            "asin": "B01ARQ9JFI",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "name": "AUKEY Jump Starter with 400A Peak Current & 12000mAh Portable Charger for Car Battery, Boat, Motorcycles, Lawnmowers and More",
+            "normalizedName": "AUKEY Jump Starter with 400A Peak Current & 12000mAh Portable Charger for Car Battery, Boat, Motorcycles, Lawnmowers and More",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.299999998071242
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1653543285
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

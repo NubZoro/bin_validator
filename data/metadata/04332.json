@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00840L9X0": {
+            "asin": "B00840L9X0",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Bratzillaz Doll - Sashabella Paws",
+            "normalizedName": "Bratzillaz Doll - Sashabella Paws",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B00U2T5M6Q": {
+            "asin": "B00U2T5M6Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Made in Nature Organic California Sun-Dried Raisins, Kosher, 48-ounces",
+            "normalizedName": "Made in Nature Organic California Sun-Dried Raisins, Kosher, 48-ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

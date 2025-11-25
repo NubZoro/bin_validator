@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0613301560": {
+            "asin": "0613301560",
+            "height": {
+                "unit": "IN",
+                "value": 0.1574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "The Three Little Pigs (Turtleback School & Library Binding Edition) (Reading Railroad Books)",
+            "normalizedName": "The Three Little Pigs (Turtleback School & Library Binding Edition) (Reading Railroad Books)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5731960308379465
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.87401574
+            }
+        },
+        "B00ACP5UD0": {
+            "asin": "B00ACP5UD0",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Princess Party Favor Pack - 36 Pc (12 Tiaras, 12 Mini Star Wands, 12 Princess Disney Tattoos)",
+            "normalizedName": "Princess Party Favor Pack - 36 Pc (12 Tiaras, 12 Mini Star Wands, 12 Princess Disney Tattoos)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B016XHHOH0": {
+            "asin": "B016XHHOH0",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "ISelector Charging Station with 4 USB, 8 AC Outlet and Power Cord 6.5 Feet (Black)",
+            "normalizedName": "ISelector Charging Station with 4 USB, 8 AC Outlet and Power Cord 6.5 Feet (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NBB5MDU": {
+            "asin": "B00NBB5MDU",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Exterior Frutti Blue - YBII",
+            "normalizedName": "Exterior Frutti Blue - YBII",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

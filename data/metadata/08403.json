@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003C1ETV0": {
+            "asin": "B003C1ETV0",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Backyardigans Dangling Wall Decorations - 3/Pkg",
+            "normalizedName": "Backyardigans Dangling Wall Decorations - 3/Pkg",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            }
+        },
+        "B00XC47BTY": {
+            "asin": "B00XC47BTY",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Lelec Strong Flexible Tripod Stand with Free Mobile Cell Phone Holder for 55mm-85mm Wide Phone, Black",
+            "normalizedName": "Lelec Strong Flexible Tripod Stand with Free Mobile Cell Phone Holder for 55mm-85mm Wide Phone, Black",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

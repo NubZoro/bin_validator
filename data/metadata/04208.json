@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006W3LT6I": {
+            "asin": "B006W3LT6I",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "GE Security Interlogix 600-1064-95R",
+            "normalizedName": "GE Security Interlogix 600-1064-95R",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00BJQG13O": {
+            "asin": "B00BJQG13O",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "A.J. Morgan Unisex - Adult Castro Round Sunglasses,Tortoise,198 mm",
+            "normalizedName": "A.J. Morgan Unisex - Adult Castro Round Sunglasses,Tortoise,198 mm",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02204600116758729
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B019C1KHLE": {
+            "asin": "B019C1KHLE",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Sunspeed Waterproof USB Rechargeable LED Bike Light Set - LED Bright Headlight for Front and 1 Free USB Rechargeable Tail Light - 1 USB Rechargeable Battery Included - No-hassle Replacement Guarantee",
+            "normalizedName": "Sunspeed Waterproof USB Rechargeable LED Bike Light Set - LED Bright Headlight for Front and 1 Free USB Rechargeable Tail Light - 1 USB Rechargeable Battery Included - No-hassle Replacement Guarantee",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

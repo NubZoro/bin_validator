@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001EJOPUC": {
+            "asin": "B001EJOPUC",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Tom's of Maine Natural Care Toothpaste, Propolis & Myrrh, Antiplaque, Cinnamint, 5.5 oz (170 g) (Pack of 6)",
+            "normalizedName": "(Pack of 6) Tom's of Maine Natural Care Toothpaste, Propolis & Myrrh, Antiplaque, Cinnamint, 5.5 oz (170 g)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

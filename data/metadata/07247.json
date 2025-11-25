@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01ALKEKG8": {
+            "asin": "B01ALKEKG8",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Large Round Deep Eco-friendly Lightweight Bamboo Salad and Fruit Bowl with Servers 10.3\" x 10.3\" x 6\"",
+            "normalizedName": "Large Round Deep Eco-friendly Lightweight Bamboo Salad and Fruit Bowl with Servers 10.3\" x 10.3\" x 6\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.249999998113171
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        },
+        "B01GH95F5C": {
+            "asin": "B01GH95F5C",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Ironing Board Cover Bundle 3 Items: 1 U.S. Standard Size, Extra Thick Felt Pad, Heat Resistant, and Scorch Resistant Cover Chevron Style, 4 Fasteners and 1 Large Protective Scorch Mesh Cloth",
+            "normalizedName": "Ironing Board Cover Bundle 3 Items: 1 U.S. Standard Size, Extra Thick Felt Pad, Heat Resistant, and Scorch Resistant Cover Chevron Style, 4 Fasteners and 1 Large Protective Scorch Mesh Cloth",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990411999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

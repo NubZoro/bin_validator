@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016MXB78C": {
+            "asin": "B016MXB78C",
+            "height": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.023622036
+            },
+            "name": "2016 Allston Satin White w/ Flip Visor - L/XL",
+            "normalizedName": "2016 Allston Satin White w/ Flip Visor - L/XL",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.055118101
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

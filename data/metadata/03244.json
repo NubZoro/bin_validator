@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0848744802": {
+            "asin": "0848744802",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Southern Living Ultimate Book of BBQ: The Complete Year-Round Guide to Grilling and Smoking",
+            "normalizedName": "Southern Living Ultimate Book of BBQ: The Complete Year-Round Guide to Grilling and Smoking",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.52561635107816
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0314960548
+            }
+        },
+        "1484749928": {
+            "asin": "1484749928",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Pete's Dragon Junior Novel: With 8 Pages of Photos From The Movie!",
+            "normalizedName": "Pete's Dragon Junior Novel: With 8 Pages of Photos From The Movie!",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00R4YCTNG": {
+            "asin": "B00R4YCTNG",
+            "height": {
+                "unit": "IN",
+                "value": 2.2047244072
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.6141732216
+            },
+            "name": "AmazonBasics Floating Hand Grip for GoPro",
+            "normalizedName": "AmazonBasics Floating Hand Grip for GoPro",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.28659801517863487
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8425196801
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

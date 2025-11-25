@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000RGF29Q": {
+            "asin": "B000RGF29Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "P3 International P4460 Kill A Watt EZ Electricity Usage Monitor",
+            "normalizedName": "P3 International P4460 Kill A Watt EZ Electricity Usage Monitor",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B0084JUNXS": {
+            "asin": "B0084JUNXS",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986025999
+            },
+            "name": "Crayola; Light-up Tracing Pad; Blue; Art Tool; Bright LEDs; Easy Tracing with 1 Pencil, 12 Colored Pencils, 10 Blank Sheets, 10 Tracing Sheets",
+            "normalizedName": "Crayola; Light-up Tracing Pad; Blue; Art Tool; Bright LEDs; Easy Tracing with 1 Pencil, 12 Colored Pencils, 10 Blank Sheets, 10 Tracing Sheets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454001
+            }
+        },
+        "B01C3NZ3JE": {
+            "asin": "B01C3NZ3JE",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Men's 13 Pockets Mesh Breathable Camo Photography Fishing Cargo Vest Black US L",
+            "normalizedName": "Men's 13 Pockets Mesh Breathable Camo Photography Fishing Cargo Vest Black US L",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.599999987148
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

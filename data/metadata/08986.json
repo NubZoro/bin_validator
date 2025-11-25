@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0133591212": {
+            "asin": "0133591212",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Corrections in America: An Introduction (14th Edition)",
+            "normalizedName": "Corrections in America: An Introduction (14th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "0133851990": {
+            "asin": "0133851990",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Psychology: An Exploration (3rd Edition)",
+            "normalizedName": "Psychology: An Exploration (3rd Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "1133435181": {
+            "asin": "1133435181",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Financial Markets and Institutions, Abridged Edition (with Stock-Trak Coupon)",
+            "normalizedName": "Financial Markets and Institutions, Abridged Edition (with Stock-Trak Coupon)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B004XN7QG6": {
+            "asin": "B004XN7QG6",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "BF Systems Stun Gun with Light Sheath",
+            "normalizedName": "BF Systems Stun Gun with Light Sheath",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00EDHQ5ZK": {
+            "asin": "B00EDHQ5ZK",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.8818897588
+            },
+            "name": "Wireless Bluetooth Speaker- BLKBOX POP360 Hands Free Bluetooth Speaker - for iPhones, iPads, Androids, Samsung and all Phones, Tablets, Computers (Wicked White)",
+            "normalizedName": "Wireless Bluetooth Speaker- BLKBOX POP360 Hands Free Bluetooth Speaker - for iPhones, iPads, Androids, Samsung and all Phones, Tablets, Computers (Wicked White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0157480274
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

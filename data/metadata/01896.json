@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0037V001I": {
+            "asin": "B0037V001I",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Audubon Hummingbird Food 3-Ounce Packet, 3-Pack",
+            "normalizedName": "3-Pack Audubon Hummingbird Food 3-Ounce Packet,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00VUI32BK": {
+            "asin": "B00VUI32BK",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "AMAZLINEN Premium Quality Sequin Table Runner for Home Party Decoration (14*108\", Champagne Gold)",
+            "normalizedName": "AMAZLINEN Premium Quality Sequin Table Runner for Home Party Decoration (14*108\", Champagne Gold)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

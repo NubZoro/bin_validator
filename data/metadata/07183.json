@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M97OAPI": {
+            "asin": "B00M97OAPI",
+            "height": {
+                "unit": "IN",
+                "value": 1.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.1000000000000005
+            },
+            "name": "SUB Sports DUAL All Season Womens Compression Top - Long Sleeve Base Layer - Red - XXL",
+            "normalizedName": "SUB Sports DUAL All Season Womens Compression Top - Long Sleeve Base Layer - Red - XXL",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8
+            }
+        },
+        "B00NV9LHIG": {
+            "asin": "B00NV9LHIG",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "CanonInk MAXIFY PGI-1200 3Color Multi Pack Ink",
+            "normalizedName": "CanonInk MAXIFY PGI-1200 3Color Multi Pack Ink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B012QWL88W": {
+            "asin": "B012QWL88W",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Onedayshop\u00ae BC-601 1 Pair Nonslip MTB Mountain Bike Bicycle Cycling Grips Rubber Lock On Handlebar Grips (red)",
+            "normalizedName": "Onedayshop\u00ae BC-601 1 Pair Nonslip MTB Mountain Bike Bicycle Cycling Grips Rubber Lock On Handlebar Grips (red)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

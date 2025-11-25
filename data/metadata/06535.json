@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LGLHFPU": {
+            "asin": "B00LGLHFPU",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Corningware 20-Ounce Oven Safe Meal Mug with Vented Lid,  French White",
+            "normalizedName": "Corningware 20-Ounce Oven Safe Meal Mug with Vented Lid,  French White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

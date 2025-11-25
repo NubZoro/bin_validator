@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0030A85LS": {
+            "asin": "B0030A85LS",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Neiko\u00ae 53942A High Visibility Safety Vest, ANSI/ ISEA Standard | Color Neon Yellow | Size XL",
+            "normalizedName": "Neiko\u00ae 53942A High Visibility Safety Vest, ANSI/ ISEA Standard | Color Neon Yellow | Size XL",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B00PIEHU74": {
+            "asin": "B00PIEHU74",
+            "height": {
+                "unit": "IN",
+                "value": 3.6220472404
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.0393700736
+            },
+            "name": "amiibo Dedede (DESIGN 1, 1)",
+            "normalizedName": "amiibo Dedede (DESIGN 1, 1)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800934069835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0944881848
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

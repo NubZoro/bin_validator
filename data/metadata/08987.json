@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00G4UINJ0": {
+            "asin": "B00G4UINJ0",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Zone Perfect Nutrition Bars, Chocolate Chip Cookie Dough, 7.9 Oz (Pack of 2)",
+            "normalizedName": "(Pack of 2) Zone Perfect Nutrition Bars, Chocolate Chip Cookie Dough, 7.9 Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B015GPDCVC": {
+            "asin": "B015GPDCVC",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "JS LIGHTING\u00ae9-watt 7colors Led Laser Stage Light Portable Ocean Moving Waves Effect Projector Lighting",
+            "normalizedName": "JS LIGHTING\u00ae9-watt 7colors Led Laser Stage Light Portable Ocean Moving Waves Effect Projector Lighting",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

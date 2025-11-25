@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MGE2GBE": {
+            "asin": "B00MGE2GBE",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "2 pack Fitz-All Replacement Percolator Top, Small (2)",
+            "normalizedName": "2 pack Fitz-All Replacement Percolator Top, Small (2)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B010YBQRMO": {
+            "asin": "B010YBQRMO",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Square Jellyfish MNLGTBLMT337 Metal iPad Air Tripod Mount",
+            "normalizedName": "Square Jellyfish MNLGTBLMT337 Metal iPad Air Tripod Mount",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

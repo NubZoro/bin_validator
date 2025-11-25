@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004JHBKLS": {
+            "asin": "B004JHBKLS",
+            "height": {
+                "unit": "IN",
+                "value": 2.199999997756
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Fram CA10741 Extra Guard Panel Air Filter",
+            "normalizedName": "Fram CA10741 Extra Guard Panel Air Filter",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B013HLE1T4": {
+            "asin": "B013HLE1T4",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "NFL San Francisco 49ers Star Wars Darth Vader Hugger Blanket & Fleece Throw Set, 40 x 50\", Black",
+            "normalizedName": "NFL San Francisco 49ers Star Wars Darth Vader Hugger Blanket & Fleece Throw Set, 40 x 50\", Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

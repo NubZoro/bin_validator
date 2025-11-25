@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009NE7B06": {
+            "asin": "B009NE7B06",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Slappa Full-Sized HardBody PRO Headphone Case Ultimate Protection for Audio Technica, Beats, Sony + many more",
+            "normalizedName": "Slappa Full-Sized HardBody PRO Headphone Case Ultimate Protection for Audio Technica, Beats, Sony + many more",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00JPPKJTI": {
+            "asin": "B00JPPKJTI",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Metallic Slap Bracelets12 Pack",
+            "normalizedName": "12 Pack Metallic Slap Bracelets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

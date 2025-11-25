@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003W0HZ4O": {
+            "asin": "B003W0HZ4O",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "FloraCraft Styrofoam Disc, 5-7/8 by 1-3/16-Inch, White",
+            "normalizedName": "FloraCraft Styrofoam Disc, 5-7/8 by 1-3/16-Inch, White",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B005AXDVUS": {
+            "asin": "B005AXDVUS",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "CCTV Surveillance Power Adapter (12V 7A) + 1 to 8 Power Splitter for Security Cameras",
+            "normalizedName": "CCTV Surveillance Power Adapter (12V 7A) + 1 to 8 Power Splitter for Security Cameras",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

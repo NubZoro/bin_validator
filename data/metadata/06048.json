@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0205544010": {
+            "asin": "0205544010",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Human Aging",
+            "normalizedName": "Human Aging",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "0205810314": {
+            "asin": "0205810314",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Beginning Behavioral Research: A Conceptual Primer (7th Edition)",
+            "normalizedName": "Beginning Behavioral Research: A Conceptual Primer (7th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "0984504176": {
+            "asin": "0984504176",
+            "height": {
+                "unit": "IN",
+                "value": 1.6535433054
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.1574803046
+            },
+            "name": "Pioneer Girl: The Annotated Autobiography",
+            "normalizedName": "Pioneer Girl: The Annotated Autobiography",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.26280817553908
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.1338582584
+            }
+        },
+        "B00I9R34KO": {
+            "asin": "B00I9R34KO",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "Pure Fiber Zero Twist Cotton Bath Towel, Blue, Set of 2",
+            "normalizedName": "Set of 2 Pure Fiber Zero Twist Cotton Bath Towel, Blue,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2000000000000006
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

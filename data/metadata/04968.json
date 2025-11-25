@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002QM9AH4": {
+            "asin": "B002QM9AH4",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Nature's Bounty Fish Oil 1200 mg Odorless, 200 Coated Softgels",
+            "normalizedName": "Nature's Bounty Fish Oil 1200 mg Odorless, 200 Coated Softgels",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B01CQQDOO4": {
+            "asin": "B01CQQDOO4",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.1653543234
+            },
+            "name": "ONEVER Shower Organiser Quick Dry Hanging Shower Caddy Toiletry Organiser Cosmetic Storage Bags Mildew Resistant Water Resistant for Home Travel GYM Dorm Camp Bathroom",
+            "normalizedName": "ONEVER Shower Organiser Quick Dry Hanging Shower Caddy Toiletry Organiser Cosmetic Storage Bags Mildew Resistant Water Resistant for Home Travel GYM Dorm Camp Bathroom",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086471668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5905511754
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

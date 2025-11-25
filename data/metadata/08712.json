@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VBC1QY": {
+            "asin": "B000VBC1QY",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.899999981742
+            },
+            "name": "Rubbermaid Commercial 7043-04 Rubber Safti-Grip Bath Mat, Extra Large, White",
+            "normalizedName": "Rubbermaid Commercial 7043-04 Rubber Safti-Grip Bath Mat, Extra Large, White",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B001IZF7GI": {
+            "asin": "B001IZF7GI",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Columbian Coin Envelopes, 2.25 x 3.5 Inch, Manila, 500 Per Box (CO540)",
+            "normalizedName": "Columbian Coin Envelopes, 2.25 x 3.5 Inch, Manila, 500 Per Box (CO540)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00IPLCLO4": {
+            "asin": "B00IPLCLO4",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Grandeur Hospitality 100% Cotton Wash Cloths 24 Pack",
+            "normalizedName": "24 Pack Grandeur Hospitality 100% Cotton Wash Cloths",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.799999985924
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

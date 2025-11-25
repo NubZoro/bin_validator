@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001ET76N0": {
+            "asin": "B001ET76N0",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "Boston Advance Comfort Formula Travel Pack for Rigid Gas Permeable Contact Lenses (Pack of 3)",
+            "normalizedName": "(Pack of 3) Boston Advance Comfort Formula Travel Pack for Rigid Gas Permeable Contact Lenses",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B003E6R46K": {
+            "asin": "B003E6R46K",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Windshield Mount",
+            "normalizedName": "Windshield Mount",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00NFHE1GY": {
+            "asin": "B00NFHE1GY",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "TORCHSTAR High CRI 10W 5/6inch Gimbal LED Recessed Light Retrofit Kit 75W Equivalent, Energy Star UL Classified Light Fixture, Directional LED Ceiling Down Light Fits Recessed Can - 2700K Warm White",
+            "normalizedName": "TORCHSTAR High CRI 10W 5/6inch Gimbal LED Recessed Light Retrofit Kit 75W Equivalent, Energy Star UL Classified Light Fixture, Directional LED Ceiling Down Light Fits Recessed Can - 2700K Warm White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

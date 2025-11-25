@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00315ZFJM": {
+            "asin": "B00315ZFJM",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.25196849042
+            },
+            "name": "Reminisce Passports Combo Sticker, Boston",
+            "normalizedName": "Reminisce Passports Combo Sticker, Boston",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B007T1I7SK": {
+            "asin": "B007T1I7SK",
+            "height": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "Globe-Weis Colored File Pockets, 3.5-Inch Expansion, Letter Size, Yellow, Box of 25 (1524E YEL)",
+            "normalizedName": "Globe-Weis Colored File Pockets, 3.5-Inch Expansion, Letter Size, Yellow, Box of 25 (1524E YEL)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        },
+        "B00M8FXDIQ": {
+            "asin": "B00M8FXDIQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.8110236202
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.173228332
+            },
+            "name": "Smart Weigh Body Fat Digital Precision Scale with Tempered Glass Platform, Eight User Recognition, and 440 lb Weight Capacity, Measures Weight, Body Fat, Water, Muscle and Bone Mass",
+            "normalizedName": "Smart Weigh Body Fat Digital Precision Scale with Tempered Glass Platform, Eight User Recognition, and 440 lb Weight Capacity, Measures Weight, Body Fat, Water, Muscle and Bone Mass",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.569708347941012
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.2283464432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

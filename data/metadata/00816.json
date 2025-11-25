@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000AY9W6": {
+            "asin": "B0000AY9W6",
+            "height": {
+                "unit": "IN",
+                "value": 4.5669291292
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.9527558974
+            },
+            "name": "Camco 44412 Wheel Chock - Single",
+            "normalizedName": "Camco 44412 Wheel Chock - Single",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200237214973
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

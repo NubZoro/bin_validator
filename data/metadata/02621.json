@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001E29OT6": {
+            "asin": "B001E29OT6",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Belkin 6-Outlet Power Strip with 12-Foot Cord, White, F9D160-12",
+            "normalizedName": "Belkin 6-Outlet Power Strip with 12-Foot Cord, White, F9D160-12",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

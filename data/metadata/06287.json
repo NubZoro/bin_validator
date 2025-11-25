@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C3I3BUS": {
+            "asin": "B00C3I3BUS",
+            "height": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Lucky Bums Youth 0-Degree Serenity II Sleeping Bag, Green",
+            "normalizedName": "Lucky Bums Youth 0-Degree Serenity II Sleeping Bag, Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

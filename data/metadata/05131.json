@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006HU78": {
+            "asin": "B00006HU78",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Fellowes 1-Outlet 3-Prong Heavy Duty Indoor Extension Cord, 15-Feet (99596)",
+            "normalizedName": "Fellowes 1-Outlet 3-Prong Heavy Duty Indoor Extension Cord, 15-Feet (99596)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HK1MIUC": {
+            "asin": "B00HK1MIUC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Gooby Fashion Quilted Bomber Dog Vest with Stretchable Chest, Pink, Medium",
+            "normalizedName": "Gooby Fashion Quilted Bomber Dog Vest with Stretchable Chest, Pink, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B019OIAWMY": {
+            "asin": "B019OIAWMY",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Massage Ball Roller Set - Lacrosse and Spiky Ball Combo Pack - Massage Balls Perfect for Trigger Point and Foot Massaging",
+            "normalizedName": "Massage Ball Roller Set - Lacrosse and Spiky Ball Combo Pack - Massage Balls Perfect for Trigger Point and Foot Massaging",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

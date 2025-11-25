@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015KNB6V8": {
+            "asin": "B015KNB6V8",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Alice Through the Looking Glass 11.5\" Deluxe Mad Hatter Collector Doll",
+            "normalizedName": "Alice Through the Looking Glass 11.5\" Deluxe Mad Hatter Collector Doll",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.169999999018849
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

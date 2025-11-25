@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IW58LHE": {
+            "asin": "B00IW58LHE",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "180 Cosmetics Cellulite Reducing Solution, Orange Peel, 5.1 Oz",
+            "normalizedName": "180 Cosmetics Cellulite Reducing Solution, Orange Peel, 5.1 Oz",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.44
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

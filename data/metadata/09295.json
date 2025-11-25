@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00974L536": {
+            "asin": "B00974L536",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "OtterBox [Defender Series] Case for iPhone 5 - ( Not for iPhone 5C or 5S)(Discontinued by Manufacturer) - Realtree Camo - AP Pin",
+            "normalizedName": "OtterBox [Defender Series] Case for iPhone 5 - ( Not for iPhone 5C or 5S)(Discontinued by Manufacturer) - Realtree Camo - AP Pin",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00D7H9LIA": {
+            "asin": "B00D7H9LIA",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "HotHands Hand Warmers 10 Pair Value Pack",
+            "normalizedName": "HotHands Hand Warmers 10 Pair Value Pack",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

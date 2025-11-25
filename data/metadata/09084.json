@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0323187110": {
+            "asin": "0323187110",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "The Nurse, The Math, The Meds: Drug Calculations Using Dimensional Analysis, 3e",
+            "normalizedName": "The Nurse, The Math, The Meds: Drug Calculations Using Dimensional Analysis, 3e",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "0495572713": {
+            "asin": "0495572713",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Contemporary World History",
+            "normalizedName": "Contemporary World History",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B0013L9DUI": {
+            "asin": "B0013L9DUI",
+            "height": {
+                "unit": "IN",
+                "value": 2.5196850368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.661417314
+            },
+            "name": "Swingline Shredder Oil, 16 oz,. 473ml Bottle (1760049)",
+            "normalizedName": "Swingline Shredder Oil, 16 oz,. 473ml Bottle (1760049)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.06
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5984251942
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

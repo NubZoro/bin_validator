@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0074H49G8": {
+            "asin": "B0074H49G8",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Mickey Mouse Party Invitations - Mickey Invitations - 8 Count",
+            "normalizedName": "Mickey Mouse Party Invitations - Mickey Invitations - 8 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00KOELFBU": {
+            "asin": "B00KOELFBU",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Tifosi Optics Seek FC Sunglasses Tortoise/Brown, One Size - Men's",
+            "normalizedName": "Tifosi Optics Seek FC Sunglasses Tortoise/Brown, One Size - Men's",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B0145K5DNY": {
+            "asin": "B0145K5DNY",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "DJI Battery Charging Hub for Phantom 3 Quadcopter",
+            "normalizedName": "DJI Battery Charging Hub for Phantom 3 Quadcopter",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

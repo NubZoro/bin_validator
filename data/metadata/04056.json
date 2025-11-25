@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009XG82AW": {
+            "asin": "B009XG82AW",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Nature Valley Sweet and Salty Dark Chocolate Peanut and Almond, 6-Count, 1.24-Ounce Bars (Pack of 6)",
+            "normalizedName": "(Pack of 6) Nature Valley Sweet and Salty Dark Chocolate Peanut and Almond, 6-Count, 1.24-Ounce Bars",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.299999997232651
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00CWTZ430": {
+            "asin": "B00CWTZ430",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Torani Sugar Free Syrup, Caramel, 25.4 Ounce (Pack of 4)",
+            "normalizedName": "(Pack of 4) Torani Sugar Free Syrup, Caramel, 25.4 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00CYSHHYS": {
+            "asin": "B00CYSHHYS",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "1 Pc 32 oz Deluxe Male Urinal Glow in the Dark Lid Medline Incontinence Pee Bottle",
+            "normalizedName": "1 Pc 32 oz Deluxe Male Urinal Glow in the Dark Lid Medline Incontinence Pee Bottle",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

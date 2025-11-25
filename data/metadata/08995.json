@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003LVU3SO": {
+            "asin": "B003LVU3SO",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Equestrian Helmets Exselle Winter Riding Helmet Cover, Black",
+            "normalizedName": "Equestrian Helmets Exselle Winter Riding Helmet Cover, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B00MXJMMYS": {
+            "asin": "B00MXJMMYS",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Alba Botanica, Drink It Up Coconut Milk Hawaiian Conditioner, 12 Ounce Bottle (Pack of 2)",
+            "normalizedName": "(Pack of 2) Alba Botanica, Drink It Up Coconut Milk Hawaiian Conditioner, 12 Ounce Bottle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00O4HX8CC": {
+            "asin": "B00O4HX8CC",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "name": "Genuine AtomizerWick Brand 32 Gauge AWG Kanthal A1 Resistance Wire (0.2mm) 13.75 Ohms/ft - 25ft spool",
+            "normalizedName": "Genuine AtomizerWick Brand 32 Gauge AWG Kanthal A1 Resistance Wire (0.2mm) 13.75 Ohms/ft - 25ft spool",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B0136ZJPJW": {
+            "asin": "B0136ZJPJW",
+            "height": {
+                "unit": "IN",
+                "value": 0.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "NFL Football 2015 Polyester Player Hoody Tee - Pick Team (Houston Texans J Watt #99, XXL)",
+            "normalizedName": "NFL Football 2015 Polyester Player Hoody Tee - Pick Team (Houston Texans J Watt #99, XXL)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

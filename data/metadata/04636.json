@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TTO66RY": {
+            "asin": "B00TTO66RY",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Typhoon Vision Stainless Steel Digital Food Kitchen Scale, Blue",
+            "normalizedName": "Typhoon Vision Stainless Steel Digital Food Kitchen Scale, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B00ZFSXF7C": {
+            "asin": "B00ZFSXF7C",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "DonJoy RocketSoc Ankle Support Brace, Left Leg, Lace-Up, X-Large",
+            "normalizedName": "DonJoy RocketSoc Ankle Support Brace, Left Leg, Lace-Up, X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

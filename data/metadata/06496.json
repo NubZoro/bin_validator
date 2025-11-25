@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0176KF75Y": {
+            "asin": "B0176KF75Y",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Bellevue Restaurant-quality Plastic 20oz Cafe Beverage Tumblers | Set of 16 in 4 Assorted Colors",
+            "normalizedName": "Set of 16 Bellevue Restaurant-quality Plastic 20oz Cafe Beverage Tumblers | in 4 Assorted Colors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0999999974003694
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B01GH0EANE": {
+            "asin": "B01GH0EANE",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.899999981742
+            },
+            "name": "Generic 54-Inch Flexible 4 Sections Tripod with Bag (Black)",
+            "normalizedName": "Generic 54-Inch Flexible 4 Sections Tripod with Bag (Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3368761237642537
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

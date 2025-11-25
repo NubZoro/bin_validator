@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00O4I5HWA": {
+            "asin": "B00O4I5HWA",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Chili's Gift Cards, Multipack of 3 - $10",
+            "normalizedName": "Chili's Gift Cards, Multipack of 3 - $10",
+            "quantity": 17,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B01DTITXTS": {
+            "asin": "B01DTITXTS",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "iPhone SE Battery case , iPhone 5S Battery case , UNU DX-5 iPhone SE/5S/5 Charger Case [White] - MFI Certified 2300mAh Charger Protective iPhone SE/5S Charging Case / Power Bank Battery Pack",
+            "normalizedName": "iPhone SE Battery case , iPhone 5S Battery case , UNU DX-5 iPhone SE/5S/5 Charger Case [White] - MFI Certified 2300mAh Charger Protective iPhone SE/5S Charging Case / Power Bank Battery Pack",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01HGADYHM": {
+            "asin": "B01HGADYHM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "ACRATO Baby Drool Bibs with a Silicone Teether Toy for Girls and Boys Unisex 2 Pack Baby Bibs for Teething and Drooling with Adjustable Snaps",
+            "normalizedName": "2 Pack ACRATO Baby Drool Bibs with a Silicone Teether Toy for Girls and Boys Unisex Baby Bibs for Teething and Drooling with Adjustable Snaps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 21
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004RN6BD6": {
+            "asin": "B004RN6BD6",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "UTG 1\"/2PCs Hi Pro Max Strength Picatinny Rings, 25mm Wide",
+            "normalizedName": "UTG 1\"/2PCs Hi Pro Max Strength Picatinny Rings, 25mm Wide",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00IUOAH5Q": {
+            "asin": "B00IUOAH5Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.749999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Luwint LED Colorful Flashing Finger Lighting Gloves for Light Show, Retail Box",
+            "normalizedName": "Luwint LED Colorful Flashing Finger Lighting Gloves for Light Show, Retail Box",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

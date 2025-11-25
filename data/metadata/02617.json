@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003E1S1L2": {
+            "asin": "B003E1S1L2",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "12 Paradise Safari Animal Print Party Lanterns",
+            "normalizedName": "12 Paradise Safari Animal Print Party Lanterns",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B017VO3HRK": {
+            "asin": "B017VO3HRK",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Bell Frozen Toddler Bike 3D Tiara Helmet (3-5 years)",
+            "normalizedName": "Bell Frozen Toddler Bike 3D Tiara Helmet (3-5 years)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

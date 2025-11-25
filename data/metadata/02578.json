@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0053T4PHC": {
+            "asin": "B0053T4PHC",
+            "height": {
+                "unit": "IN",
+                "value": 7.3228346382
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.9133858136
+            },
+            "name": "Bose Companion 20 Multimedia Speaker System",
+            "normalizedName": "Bose Companion 20 Multimedia Speaker System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.76
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.023622036
+            }
+        },
+        "B005DSCHGO": {
+            "asin": "B005DSCHGO",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Fortessa Grand City 18/10 Stainless Steel 5-Piece Flatware Set, Service for 1",
+            "normalizedName": "Fortessa Grand City 18/10 Stainless Steel 5-Piece Flatware Set, Service for 1",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

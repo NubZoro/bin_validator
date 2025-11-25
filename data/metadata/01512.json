@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00946HD6K": {
+            "asin": "B00946HD6K",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Andrea By Sadek Silver Plated Cricket Figure",
+            "normalizedName": "Andrea By Sadek Silver Plated Cricket Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00DJ328C8": {
+            "asin": "B00DJ328C8",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "name": "Bower ANCPA Nikon Coolpix A 52 mm Adapter Tube (Black)",
+            "normalizedName": "Bower ANCPA Nikon Coolpix A 52 mm Adapter Tube (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B01EUXL2W2": {
+            "asin": "B01EUXL2W2",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "SanDisk Memory Case for iPhone 6s/6 - Retail Packaging - Grey",
+            "normalizedName": "SanDisk Memory Case for iPhone 6s/6 - Retail Packaging - Grey",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

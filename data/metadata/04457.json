@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1585360562": {
+            "asin": "1585360562",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "B Is For Bluegrass: A Kentucky Alphabet (Discover America State by State)",
+            "normalizedName": "B Is For Bluegrass: A Kentucky Alphabet (Discover America State by State)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EPWZXLA": {
+            "asin": "B00EPWZXLA",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "name": "Outdoor Tech OT1301 Buckshot - Super-Portable Rugged Water-Resistant Wireless Bluetooth Speaker (Black)",
+            "normalizedName": "Outdoor Tech OT1301 Buckshot - Super-Portable Rugged Water-Resistant Wireless Bluetooth Speaker (Black)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5731960308379465
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3858267682
+            }
+        },
+        "B00GJ7TI60": {
+            "asin": "B00GJ7TI60",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Softsoap Body Wash, Pomegranate and Mango, 18 Fl Oz,  2 Count",
+            "normalizedName": "Softsoap Body Wash, Pomegranate and Mango, 18 Fl Oz,  2 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00NB2MYHG": {
+            "asin": "B00NB2MYHG",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Nature Made Men's Pack Vitamin, 30-Count (Pack of 2)",
+            "normalizedName": "(Pack of 2) Nature Made Men's Pack Vitamin, 30-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

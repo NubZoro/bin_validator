@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00P936188": {
+            "asin": "B00P936188",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Anker 60W/12A 6-Port USB Charger PowerPort 6 for iPhone 6/6 Plus, iPad Air 2/mini 3, Samsung Galaxy s6/s6 edge, Note 5 and More",
+            "normalizedName": "Anker 60W/12A 6-Port USB Charger PowerPort 6 for iPhone 6/6 Plus, iPad Air 2/mini 3, Samsung Galaxy s6/s6 edge, Note 5 and More",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00TSUGXKE": {
+            "asin": "B00TSUGXKE",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Fire Tablet, 7\" Display, Wi-Fi, 8 GB - Includes Special Offers, Black",
+            "normalizedName": "Fire Tablet, 7\" Display, Wi-Fi, 8 GB - Includes Special Offers, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004JFJ4AY": {
+            "asin": "B004JFJ4AY",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "NCAA Kansas Jayhawks Team Lanyard, Blue",
+            "normalizedName": "NCAA Kansas Jayhawks Team Lanyard, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B004MD24X2": {
+            "asin": "B004MD24X2",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.9842519624
+            },
+            "name": "Festool 496804 3-1/2-in Soft Pad for RO90 DX",
+            "normalizedName": "Festool 496804 3-1/2-in Soft Pad for RO90 DX",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        },
+        "B018YZGUD8": {
+            "asin": "B018YZGUD8",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "The Young Messiah",
+            "normalizedName": "The Young Messiah",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B01E8VKTAW": {
+            "asin": "B01E8VKTAW",
+            "height": {
+                "unit": "IN",
+                "value": 0.249999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "iPhone 6 case,2in1 Hybrid Case Cover for Iphone 6 by GPIXIU. Hard Cover for Iphone 6 Printed Design Pc+ Silicone Hybrid High Impact Defender Case Combo Hard Soft Cases Covers",
+            "normalizedName": "iPhone 6 case,2in1 Hybrid Case Cover for Iphone 6 by GPIXIU. Hard Cover for Iphone 6 Printed Design Pc+ Silicone Hybrid High Impact Defender Case Combo Hard Soft Cases Covers",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

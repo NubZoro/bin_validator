@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0010W8XUG": {
+            "asin": "B0010W8XUG",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Garden Of Life Perfect Cleanse Kit",
+            "normalizedName": "Garden Of Life Perfect Cleanse Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B0094B0NHQ": {
+            "asin": "B0094B0NHQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.799999981844
+            },
+            "name": "Concut Inc CBS-2 1/2 2-1/2-Inch Standard Wet Core Bit",
+            "normalizedName": "Concut Inc CBS-2 1/2 2-1/2-Inch Standard Wet Core Bit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

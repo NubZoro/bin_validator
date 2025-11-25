@@ -1,0 +1,59 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BOUIAYI": {
+            "asin": "B00BOUIAYI",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Stampers Anonymous Tim Holtz Cling Rubber Stamp Set, 7 by 8.5-Inch, Travel Ways",
+            "normalizedName": "Stampers Anonymous Tim Holtz Cling Rubber Stamp Set, 7 by 8.5-Inch, Travel Ways",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B017L62YY0": {
+            "asin": "B017L62YY0",
+            "height": null,
+            "length": null,
+            "name": "Buhbo 5 ft CAT 5E UTP Ethernet Network Non Booted Patch Cable (10-Pack), White",
+            "normalizedName": "(10-Pack) Buhbo 5 ft CAT 5E UTP Ethernet Network Non Booted Patch Cable , White",
+            "quantity": 1,
+            "weight": null,
+            "width": null
+        },
+        "B018WCMCEE": {
+            "asin": "B018WCMCEE",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "New Star Foodservice 28560 Smile Face Squeeze Bottle Set, 12 Ounce",
+            "normalizedName": "New Star Foodservice 28560 Smile Face Squeeze Bottle Set, 12 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

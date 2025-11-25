@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1250007380": {
+            "asin": "1250007380",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1889763696
+            },
+            "name": "The Great Night: A Novel",
+            "normalizedName": "The Great Night: A Novel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B0170V1EQA": {
+            "asin": "B0170V1EQA",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Ram Rugby Gripper Rugby Ball, Size 4 Amber/Black",
+            "normalizedName": "Ram Rugby Gripper Rugby Ball, Size 4 Amber/Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

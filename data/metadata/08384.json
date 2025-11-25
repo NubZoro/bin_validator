@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008GHGUGM": {
+            "asin": "B008GHGUGM",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Hoosier Hill Farm Premium Citric Acid, 1 lb.",
+            "normalizedName": "Hoosier Hill Farm Premium Citric Acid, 1 lb.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00S2L0YJQ": {
+            "asin": "B00S2L0YJQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Barbie: The Look City Shine Blonde Doll",
+            "normalizedName": "Barbie: The Look City Shine Blonde Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B010M3G24C": {
+            "asin": "B010M3G24C",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Spirit Linen Hotel 5Th Ave Prestige Home Collection 6 Piece Sheet Set, King, Victorian Print",
+            "normalizedName": "Spirit Linen Hotel 5Th Ave Prestige Home Collection 6 Piece Sheet Set, King, Victorian Print",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.649999996939144
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

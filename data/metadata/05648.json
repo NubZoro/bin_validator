@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0026M6L12": {
+            "asin": "B0026M6L12",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Green Toys Jump Rope, Green",
+            "normalizedName": "Green Toys Jump Rope, Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

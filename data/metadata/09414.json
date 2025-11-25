@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00004T8R2": {
+            "asin": "B00004T8R2",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Panasonic Best in Class On-Ear Stereo Headphones RP-HT21 (Black & Silver) Lightweight and Comfortable, Powerful Bass, Audiophile, No Mic, iPhone, Android Compatible",
+            "normalizedName": "Panasonic Best in Class On-Ear Stereo Headphones RP-HT21 (Black & Silver) Lightweight and Comfortable, Powerful Bass, Audiophile, No Mic, iPhone, Android Compatible",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B0052P1K70": {
+            "asin": "B0052P1K70",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.2440944808
+            },
+            "name": "Andalou Naturals Body Lotion, Mandarin Vanilla, 11 Ounce",
+            "normalizedName": "Andalou Naturals Body Lotion, Mandarin Vanilla, 11 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.82
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5590551155
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

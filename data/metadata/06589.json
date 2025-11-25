@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FGWBM4": {
+            "asin": "B000FGWBM4",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Designs for Health - Twice Daily Multi 240 vegetarian capsules",
+            "normalizedName": "Designs for Health - Twice Daily Multi 240 vegetarian capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B000LD55BA": {
+            "asin": "B000LD55BA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Fragrance Memories - Beach & SEA - Caribbean Blue 20 Sticks",
+            "normalizedName": "Fragrance Memories - Beach & SEA - Caribbean Blue 20 Sticks",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02999999997484228
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        },
+        "B01DW08AAQ": {
+            "asin": "B01DW08AAQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.086614166
+            },
+            "name": "Dr.meter Forehead Thermometer Clinical Digital Infrared Baby Thermometer FDA approved ,Purple",
+            "normalizedName": "Dr.meter Forehead Thermometer Clinical Digital Infrared Baby Thermometer FDA approved ,Purple",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

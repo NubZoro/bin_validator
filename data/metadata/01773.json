@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0010FPSQK": {
+            "asin": "B0010FPSQK",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "South Bend Monofilament Cast 7-feet Net",
+            "normalizedName": "South Bend Monofilament Cast 7-feet Net",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

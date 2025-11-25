@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B018IZ0VLQ": {
+            "asin": "B018IZ0VLQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "BLU Advance 5.0 - Unlocked Dual Sim Smartphone - US GSM - White",
+            "normalizedName": "BLU Advance 5.0 - Unlocked Dual Sim Smartphone - US GSM - White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01FTIAZ8Y": {
+            "asin": "B01FTIAZ8Y",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "ABIZOE Handle for Yeti Rambler 30 oz Tumblers, Rtic, Sic Cup and more (Black Handle only-Tumbler not included)",
+            "normalizedName": "ABIZOE Handle for Yeti Rambler 30 oz Tumblers, Rtic, Sic Cup and more (Black Handle only-Tumbler not included)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

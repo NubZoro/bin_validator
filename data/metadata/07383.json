@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005JESHXO": {
+            "asin": "B005JESHXO",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Weaver Leather ROWEL, ANTIQUE 7/8\",CLOVERLEAF",
+            "normalizedName": "Weaver Leather ROWEL, ANTIQUE 7/8\",CLOVERLEAF",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00BS96XJY": {
+            "asin": "B00BS96XJY",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Praise 3",
+            "normalizedName": "Praise 3",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770734815265533
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B0160LEYFY": {
+            "asin": "B0160LEYFY",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Contigo AUTOSEAL Transit Stainless Steel Travel Mug, 16 oz, Stainless Steel with Blue Accent Lid",
+            "normalizedName": "Contigo AUTOSEAL Transit Stainless Steel Travel Mug, 16 oz, Stainless Steel with Blue Accent Lid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B018THEERU": {
+            "asin": "B018THEERU",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Nitecore Weapon mount kit with RSW1 pressure switch, GM02 weapon rail mount and 2 X EdisonBright CR123A Lithium Batteries",
+            "normalizedName": "Nitecore Weapon mount kit with RSW1 pressure switch, GM02 weapon rail mount and 2 X EdisonBright CR123A Lithium Batteries",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

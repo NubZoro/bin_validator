@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000N5JS5A": {
+            "asin": "B000N5JS5A",
+            "height": {
+                "unit": "IN",
+                "value": 1.59842519522
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "PS3 S Video Cable",
+            "normalizedName": "PS3 S Video Cable",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7000117743024
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.70078739576
+            }
+        },
+        "B002GHBUTK": {
+            "asin": "B002GHBUTK",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Logitech Wireless Presenter R400",
+            "normalizedName": "Logitech Wireless Presenter R400",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B01CJ27PWC": {
+            "asin": "B01CJ27PWC",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "name": "Pokemon Jirachi Mythical Collection Box",
+            "normalizedName": "Pokemon Jirachi Mythical Collection Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1999999998322819
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

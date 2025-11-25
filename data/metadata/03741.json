@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002PU86Y": {
+            "asin": "B0002PU86Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.2204724346
+            },
+            "name": "Parissa Warm Wax, 4 Fluid Ounce",
+            "normalizedName": "Parissa Warm Wax, 4 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880332100962
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.149606296
+            }
+        },
+        "B013SAQBTM": {
+            "asin": "B013SAQBTM",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Innoo Tech Garlic Press Stainless Steel \u2013 the Garlic Cookbook eBook Included - Ginger Press",
+            "normalizedName": "Innoo Tech Garlic Press Stainless Steel \u2013 the Garlic Cookbook eBook Included - Ginger Press",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

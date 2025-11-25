@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002NSR00K": {
+            "asin": "B002NSR00K",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "SaltStick Caps Electrolyte Replacement Capsules Dietary Supplement 30 count bottle",
+            "normalizedName": "SaltStick Caps Electrolyte Replacement Capsules Dietary Supplement 30 count bottle",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999795854029018
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00U57Z396": {
+            "asin": "B00U57Z396",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "AMAZON #1 SELLER 100% Pure Yacon Syrup, All Natural Sugar Substitute, Metabolism Booster 8 Oz.(3 Pack)",
+            "normalizedName": "(3 Pack) AMAZON #1 SELLER 100% Pure Yacon Syrup, All Natural Sugar Substitute, Metabolism Booster 8 Oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

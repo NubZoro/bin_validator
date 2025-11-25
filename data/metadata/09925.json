@@ -1,0 +1,137 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004OXCCNC": {
+            "asin": "B004OXCCNC",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "One 8 oz (226 g) Poppy Seeds",
+            "normalizedName": "One 8 oz (226 g) Poppy Seeds",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B005GXPMIG": {
+            "asin": "B005GXPMIG",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "name": "Kool Stop Disc Brake Pads for Shimano 2011 XTR with Spring",
+            "normalizedName": "Kool Stop Disc Brake Pads for Shimano 2011 XTR with Spring",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B009RNQLE0": {
+            "asin": "B009RNQLE0",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Kruzer Kaddy 200 Chrome Handlebar Mount",
+            "normalizedName": "Kruzer Kaddy 200 Chrome Handlebar Mount",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B017US7XTK": {
+            "asin": "B017US7XTK",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Vera Bradley Euro Wallet Clutch Purse in Jazzy Blooms",
+            "normalizedName": "Vera Bradley Euro Wallet Clutch Purse in Jazzy Blooms",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01891MR6G": {
+            "asin": "B01891MR6G",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Pure Sun Defense Sunscreen Lotion, Despicable Me - 50 - 8 oz",
+            "normalizedName": "Pure Sun Defense Sunscreen Lotion, Despicable Me - 50 - 8 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B01B6RTJ84": {
+            "asin": "B01B6RTJ84",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Evelots Hands Free Instant Magnetic Screen Door - Bug Mesh Screen - Easy To Use",
+            "normalizedName": "Evelots Hands Free Instant Magnetic Screen Door - Bug Mesh Screen - Easy To Use",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

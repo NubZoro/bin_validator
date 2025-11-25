@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005LZT9CO": {
+            "asin": "B005LZT9CO",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "name": "Eminence Calm Skin Chamomile Cleanser, 8.4 Ounce",
+            "normalizedName": "Eminence Calm Skin Chamomile Cleanser, 8.4 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880326924443
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.149606296
+            }
+        },
+        "B013S9P6UI": {
+            "asin": "B013S9P6UI",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "EverYoung 8-Port USB Charging Hub Multi Port Charger USB Charger for Smartphones, Tablets and Many Other Devices (White)",
+            "normalizedName": "EverYoung 8-Port USB Charging Hub Multi Port Charger USB Charger for Smartphones, Tablets and Many Other Devices (White)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005YH05GI": {
+            "asin": "B005YH05GI",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "CKLS (Colon, Kidney, Liver, Spleen)",
+            "normalizedName": "CKLS (Colon, Kidney, Liver, Spleen)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

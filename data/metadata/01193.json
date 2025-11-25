@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006IECI": {
+            "asin": "B00006IECI",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Cross Classic Century, Lustrous Chrome, Ballpoint Pen (3502)",
+            "normalizedName": "Cross Classic Century, Lustrous Chrome, Ballpoint Pen (3502)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B0001DJZ8O": {
+            "asin": "B0001DJZ8O",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Cramer Atomic Balm, Pain Relief Balm for minor strains and sprains, relaxes tight aching muscles and assists in warm-up",
+            "normalizedName": "Cramer Atomic Balm, Pain Relief Balm for minor strains and sprains, relaxes tight aching muscles and assists in warm-up",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B006ZBET5U": {
+            "asin": "B006ZBET5U",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Plast-O-Matic FC Series PVC Flow Control Valve, For Ultra-Pure and Corrosive Liquids, 1-1/2 gpm, 3/8\" NPT Female",
+            "normalizedName": "Plast-O-Matic FC Series PVC Flow Control Valve, For Ultra-Pure and Corrosive Liquids, 1-1/2 gpm, 3/8\" NPT Female",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B01EA5RKBC": {
+            "asin": "B01EA5RKBC",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Vera Bradley US Office Product Matchbook Notebook & Pencil in Camocat (15533-588)",
+            "normalizedName": "Vera Bradley US Office Product Matchbook Notebook & Pencil in Camocat (15533-588)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.019999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3999999965320002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

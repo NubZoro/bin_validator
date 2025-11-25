@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JWUEYS8": {
+            "asin": "B00JWUEYS8",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Happy Tot Organics Super Foods, Apples, Spinach, Peas & Broccoli + Super Chia, 4.22 oz (Pack of 16)",
+            "normalizedName": "(Pack of 16) Happy Tot Organics Super Foods, Apples, Spinach, Peas & Broccoli + Super Chia, 4.22 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.109999995714802
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

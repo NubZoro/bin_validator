@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0015A3KQU": {
+            "asin": "B0015A3KQU",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Eclipse Tools 900-070 Pro'sKit Mini-Wrench Set, 5/32\" to 7/16\"",
+            "normalizedName": "Eclipse Tools 900-070 Pro'sKit Mini-Wrench Set, 5/32\" to 7/16\"",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

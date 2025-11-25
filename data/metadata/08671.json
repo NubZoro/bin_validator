@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0050JL4QA": {
+            "asin": "B0050JL4QA",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Hills Z/D ULTRA Allergen-Free Dog Food 12 13-oz cans",
+            "normalizedName": "Hills Z/D ULTRA Allergen-Free Dog Food 12 13-oz cans",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.349999990481997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B011IPV7KM": {
+            "asin": "B011IPV7KM",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "Fontana Fruit Wine Making Kit Premium (28 Day Kit) (Green Apple Riesling)",
+            "normalizedName": "Fontana Fruit Wine Making Kit Premium (28 Day Kit) (Green Apple Riesling)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 18.249999984695723
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B01AX0CSEW": {
+            "asin": "B01AX0CSEW",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "48 Capsules - Variety Pack Single Serve Keurig Compatible Pod (24 coffee and cream(Medium Roast Coffee)/12 House Blend(Dark Roast Coffee)/12 Breakfast Blend(Light Roast Coffee)",
+            "normalizedName": "48 Capsules - Variety Pack Single Serve Keurig Compatible Pod (24 coffee and cream(Medium Roast Coffee)/12 House Blend(Dark Roast Coffee)/12 Breakfast Blend(Light Roast Coffee)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3499999980293125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

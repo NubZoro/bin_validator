@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004ELAAH4": {
+            "asin": "B004ELAAH4",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Continental ContiTech HY-T Plus V-Belt, B45, 0.66\" Width, 0.41\" Height, 45\" Approx. Inside Length",
+            "normalizedName": "Continental ContiTech HY-T Plus V-Belt, B45, 0.66\" Width, 0.41\" Height, 45\" Approx. Inside Length",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B0055AZF6O": {
+            "asin": "B0055AZF6O",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "ACDelco 18A657A Advantage Rear Disc Brake Rotor",
+            "normalizedName": "ACDelco 18A657A Advantage Rear Disc Brake Rotor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        },
+        "B00SXXJ6WE": {
+            "asin": "B00SXXJ6WE",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Deconovo Beige Wide Thermal Insulated Blackout Curtain 95 Inch Length Panel For Bedroom",
+            "normalizedName": "Deconovo Beige Wide Thermal Insulated Blackout Curtain 95 Inch Length Panel For Bedroom",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        },
+        "B015EB35WY": {
+            "asin": "B015EB35WY",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Ever After High Nina Tumbelina Doll",
+            "normalizedName": "Ever After High Nina Tumbelina Doll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991738
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

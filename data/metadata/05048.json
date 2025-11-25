@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010D37NP8": {
+            "asin": "B010D37NP8",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Honeymoon Upscale Microfiber Animal Leopard Print 4PC Bed Sheet Set, Black & Brown - Queen Size",
+            "normalizedName": "Honeymoon Upscale Microfiber Animal Leopard Print 4PC Bed Sheet Set, Black & Brown - Queen Size",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988066
+            }
+        },
+        "B013KKIYSQ": {
+            "asin": "B013KKIYSQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.799999980824
+            },
+            "name": "U-nique 3 Piece Splatter Screen Set, Stainless Steel Fine Mesh",
+            "normalizedName": "U-nique 3 Piece Splatter Screen Set, Stainless Steel Fine Mesh",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

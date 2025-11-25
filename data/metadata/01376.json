@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00000IUYN": {
+            "asin": "B00000IUYN",
+            "height": {
+                "unit": "IN",
+                "value": 5.90157479713
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.59842518196
+            },
+            "name": "Ideal Frontier Logs Classic All Wood 220-Piece Construction Set",
+            "normalizedName": "Ideal Frontier Logs Classic All Wood 220-Piece Construction Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.7000958764624
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.79921258639
+            }
+        },
+        "B007VMC3PU": {
+            "asin": "B007VMC3PU",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Pinzon Printed Cotton Duvet Set - Full/Queen, Blue Paisley",
+            "normalizedName": "Pinzon Printed Cotton Duvet Set - Full/Queen, Blue Paisley",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

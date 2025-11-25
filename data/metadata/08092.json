@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1401230946": {
+            "asin": "1401230946",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0787401472
+            },
+            "name": "Preacher Book Four",
+            "normalizedName": "Preacher Book Four",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3668520735366416
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.6141732216
+            }
+        },
+        "B0048NCF1C": {
+            "asin": "B0048NCF1C",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "SeaKlear Natural Clarifier for Spas, 1 Pint Bottle",
+            "normalizedName": "SeaKlear Natural Clarifier for Spas, 1 Pint Bottle",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01DGHLR4Q": {
+            "asin": "B01DGHLR4Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Fathers Day Gifts Leather Bound Journals Diary Hand Embossed Travel Blank Notebook For Men & Women with Unlined Eco- friendly 50 Sheets 100 Pages (8\u201d X 6\u201d)",
+            "normalizedName": "Fathers Day Gifts Leather Bound Journals Diary Hand Embossed Travel Blank Notebook For Men & Women with Unlined Eco- friendly 50 Sheets 100 Pages (8\u201d X 6\u201d)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

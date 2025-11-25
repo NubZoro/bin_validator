@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MXHN6FO": {
+            "asin": "B00MXHN6FO",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Pur Minerals Wake Up Brow Dual-Ended Brow Pencil, Mocha, 0.01 Ounce",
+            "normalizedName": "Pur Minerals Wake Up Brow Dual-Ended Brow Pencil, Mocha, 0.01 Ounce",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        },
+        "B00O9GW8TC": {
+            "asin": "B00O9GW8TC",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.9842519624
+            },
+            "name": "Nintendo Super Smash Bros. White Classic Gamecube Controller",
+            "normalizedName": "Nintendo Super Smash Bros. White Classic Gamecube Controller",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936641432
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000LJI62O": {
+            "asin": "B000LJI62O",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Parts Express 9 VAC 1000mA AC Adapter",
+            "normalizedName": "Parts Express 9 VAC 1000mA AC Adapter",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B0018BVSSS": {
+            "asin": "B0018BVSSS",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "name": "Jolee's Boutique Dimensional Stickers, Cupcakes",
+            "normalizedName": "Jolee's Boutique Dimensional Stickers, Cupcakes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        },
+        "B01G0W5SHQ": {
+            "asin": "B01G0W5SHQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Haven 4 in 1 Multiple USB Charging Cable Adapter Connector with 8 Pin Lighting / 30 Pin / Micro USB / Mini USB Ports for iPhone 6s, iPad, Galaxy & More (White)",
+            "normalizedName": "Haven 4 in 1 Multiple USB Charging Cable Adapter Connector with 8 Pin Lighting / 30 Pin / Micro USB / Mini USB Ports for iPhone 6s, iPad, Galaxy & More (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

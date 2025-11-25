@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0399250786": {
+            "asin": "0399250786",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Junkyard Wonders",
+            "normalizedName": "Junkyard Wonders",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024
+            }
+        },
+        "B00DLMM1DI": {
+            "asin": "B00DLMM1DI",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "XENTEC H10/9145 6000K Advanced Slim Alloy Ballast HID Xenon Kit (Ultra White)",
+            "normalizedName": "XENTEC H10/9145 6000K Advanced Slim Alloy Ballast HID Xenon Kit (Ultra White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B0154AS03Y": {
+            "asin": "B0154AS03Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "AmazonBasics Microfiber Sheet Set - Full, Chocolate",
+            "normalizedName": "AmazonBasics Microfiber Sheet Set - Full, Chocolate",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6999999977358056
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

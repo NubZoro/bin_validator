@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JL3IHS4": {
+            "asin": "B00JL3IHS4",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Great Eastern Entertainment Shakugan No Shana Melon Pan Messenger Bag",
+            "normalizedName": "Great Eastern Entertainment Shakugan No Shana Melon Pan Messenger Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.92
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        },
+        "B00V0VRXD0": {
+            "asin": "B00V0VRXD0",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Baby Boom Toddler Nap Mat, Space Lift Off",
+            "normalizedName": "Baby Boom Toddler Nap Mat, Space Lift Off",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0198748558": {
+            "asin": "0198748558",
+            "height": {
+                "unit": "IN",
+                "value": 1.11023621934
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.12992125053
+            },
+            "name": "Particle Physics in the LHC era (Oxford Master Series in Physics, Astrophysics, and Cosmology)",
+            "normalizedName": "Particle Physics in the LHC era (Oxford Master Series in Physics, Astrophysics, and Cosmology)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5800089393016
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.57086613503
+            }
+        },
+        "B01CNAUYBY": {
+            "asin": "B01CNAUYBY",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "AmazonBasics 3.5mm Male to Female Stereo Audio Cable - 6 Feet (1.83 Meters)",
+            "normalizedName": "AmazonBasics 3.5mm Male to Female Stereo Audio Cable - 6 Feet (1.83 Meters)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

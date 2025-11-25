@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QI0IDWS": {
+            "asin": "B00QI0IDWS",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Liba PEVA Antimicrobial PVC Free Shower Curtain Liner, Frosted",
+            "normalizedName": "Liba PEVA Antimicrobial PVC Free Shower Curtain Liner, Frosted",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

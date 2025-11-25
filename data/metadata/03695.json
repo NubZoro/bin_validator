@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000E7D7HC": {
+            "asin": "B000E7D7HC",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Post-it Super Sticky Notes, 6 in x 4 in, Rio de Janeiro Collection, 8 Pads/Pack (6445-SSP)",
+            "normalizedName": "Post-it Super Sticky Notes, 6 in x 4 in, Rio de Janeiro Collection, 8 Pads/Pack (6445-SSP)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B0151H182A": {
+            "asin": "B0151H182A",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Goldenwide\u00ae Crystal Water Drop 20 Led String Lights with Solar Panel Multi-colored Blue Yellow Green Red Waterproof IP44",
+            "normalizedName": "Goldenwide\u00ae Crystal Water Drop 20 Led String Lights with Solar Panel Multi-colored Blue Yellow Green Red Waterproof IP44",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

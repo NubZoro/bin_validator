@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000B9UWQ2": {
+            "asin": "B000B9UWQ2",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "POH Dental Floss Unwaxed 100 Yards - 12 Rolls Per Box",
+            "normalizedName": "POH Dental Floss Unwaxed 100 Yards - 12 Rolls Per Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00275JPE8": {
+            "asin": "B00275JPE8",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "NFL San Francisco 49ers Leather Cord Necklace",
+            "normalizedName": "NFL San Francisco 49ers Leather Cord Necklace",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B002QHL6HQ": {
+            "asin": "B002QHL6HQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Jay Robb - Egg White Protein Powder, Outrageously Delicious, Chocolate, 10 Servings (12 oz)",
+            "normalizedName": "Jay Robb - Egg White Protein Powder, Outrageously Delicious, Chocolate, 10 Servings (12 oz)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00KR9OR3U": {
+            "asin": "B00KR9OR3U",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Contigo AUTOSEAL West Loop Stainless Steel Travel Mug with Easy-Clean Lid, 20-Ounce, Violet",
+            "normalizedName": "Contigo AUTOSEAL West Loop Stainless Steel Travel Mug with Easy-Clean Lid, 20-Ounce, Violet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

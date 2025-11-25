@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KIFO0UI": {
+            "asin": "B00KIFO0UI",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "TOPCABIN? Ipad Holder High Quality Plastic Multi-stand for E-reader Tablets Cell Phones (red)",
+            "normalizedName": "TOPCABIN? Ipad Holder High Quality Plastic Multi-stand for E-reader Tablets Cell Phones (red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B015KNB5LO": {
+            "asin": "B015KNB5LO",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "McFarlane Toys NBA Series 28 Jimmy Butler Action Figure",
+            "normalizedName": "McFarlane Toys NBA Series 28 Jimmy Butler Action Figure",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

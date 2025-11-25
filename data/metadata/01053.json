@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M5AUX14": {
+            "asin": "B00M5AUX14",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Barbie Fifth Harmony Normani Doll",
+            "normalizedName": "Barbie Fifth Harmony Normani Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B00WJI7DFQ": {
+            "asin": "B00WJI7DFQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Sunluway\u00ae 2015 Latest Black Bezels Front Light Headlight Angry Bird Style Trim Cover ABS For Jeep Wrangler Rubicon Sahara Jk 2007-2015",
+            "normalizedName": "Sunluway\u00ae 2015 Latest Black Bezels Front Light Headlight Angry Bird Style Trim Cover ABS For Jeep Wrangler Rubicon Sahara Jk 2007-2015",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B014U98Z7Q": {
+            "asin": "B014U98Z7Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Fintie Microsoft Surface Pro 3 Case - Folio Slim-Fit PU Leather Stand Cover with Stylus Holder for Microsoft Surface Pro 3 12-inch Tablet, Floral Red",
+            "normalizedName": "Fintie Microsoft Surface Pro 3 Case - Folio Slim-Fit PU Leather Stand Cover with Stylus Holder for Microsoft Surface Pro 3 12-inch Tablet, Floral Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

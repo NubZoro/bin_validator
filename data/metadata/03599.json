@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0133803813": {
+            "asin": "0133803813",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Cost Accounting Plus NEW MyAccountingLab with Pearson eText -- Access Card Package (15th Edition)",
+            "normalizedName": "Cost Accounting Plus NEW MyAccountingLab with Pearson eText -- Access Card Package (15th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.29999999639406
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "0393937054": {
+            "asin": "0393937054",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "We the People (Tenth Essentials Edition)",
+            "normalizedName": "We the People (Tenth Essentials Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "1285196759": {
+            "asin": "1285196759",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Ethics: Theory and Contemporary Issues",
+            "normalizedName": "Ethics: Theory and Contemporary Issues",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "1627797890": {
+            "asin": "1627797890",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Bill O'Reilly's Legends and Lies: The Patriots",
+            "normalizedName": "Bill O'Reilly's Legends and Lies: The Patriots",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.299999998071242
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

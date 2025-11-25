@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005KT2JMS": {
+            "asin": "B005KT2JMS",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Transformers, Dark of the Moon Movie, Deluxe Class Action Figure, Darksteel",
+            "normalizedName": "Transformers, Dark of the Moon Movie, Deluxe Class Action Figure, Darksteel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00AF0LLYY": {
+            "asin": "B00AF0LLYY",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Husky 3 Watt LED Spotlight. Rubber grip and lens protector for drop durability. AC/DC chargers and battery included.",
+            "normalizedName": "Husky 3 Watt LED Spotlight. Rubber grip and lens protector for drop durability. AC/DC chargers and battery included.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B00VVA6IHW": {
+            "asin": "B00VVA6IHW",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Shires Highlander Lite Turnout Blanket 81 Petrol",
+            "normalizedName": "Shires Highlander Lite Turnout Blanket 81 Petrol",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.26
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.199999986536
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

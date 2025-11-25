@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0053GVRWQ": {
+            "asin": "B0053GVRWQ",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.49999998113
+            },
+            "name": "WaterBrick 1833-0001 Stackable Water and Food Storage Container, 3.5 gal of Liquid, 27 lb of Dry Food Products, Blue",
+            "normalizedName": "WaterBrick 1833-0001 Stackable Water and Food Storage Container, 3.5 gal of Liquid, 27 lb of Dry Food Products, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.299999998071242
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B01ARGBB40": {
+            "asin": "B01ARGBB40",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.899999981742
+            },
+            "name": "Mega Bloks Teenage Mutant Ninja Turtles Classic Series Party Wagon Construction Set",
+            "normalizedName": "Mega Bloks Teenage Mutant Ninja Turtles Classic Series Party Wagon Construction Set",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9499999983647478
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

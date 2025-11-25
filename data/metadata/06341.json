@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000R4OCMQ": {
+            "asin": "B000R4OCMQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "Plush Gobbler Hat Party Accessory (1 count)",
+            "normalizedName": "Plush Gobbler Hat Party Accessory (1 count)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

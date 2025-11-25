@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016XWEL8A": {
+            "asin": "B016XWEL8A",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Gabor Fitness PRO Sports OCTO Mixer Shaker Bottle, Blue",
+            "normalizedName": "Gabor Fitness PRO Sports OCTO Mixer Shaker Bottle, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01CUUG2SG": {
+            "asin": "B01CUUG2SG",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Senkada Tea Black Tea Ginger Lemon & Honey",
+            "normalizedName": "Senkada Tea Black Tea Ginger Lemon & Honey",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1899999998406678
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01CUUG434": {
+            "asin": "B01CUUG434",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Senkada Tea Ceylon Spice Chai Tea",
+            "normalizedName": "Senkada Tea Ceylon Spice Chai Tea",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

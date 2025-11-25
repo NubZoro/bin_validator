@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000KKTHP4": {
+            "asin": "B000KKTHP4",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.75196849297
+            },
+            "name": "Stanley Hardware CD915 6\" Zinc Plated Adjustable Staple Hasp",
+            "normalizedName": "Stanley Hardware CD915 6\" Zinc Plated Adjustable Staple Hasp",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7131292788914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B005PYPV7I": {
+            "asin": "B005PYPV7I",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Vegetable Glycerine Kosher USP 99.7%+ Pure - Highest Quality and Perfect Sweetness - (64 oz. - 1 Half Gallon)",
+            "normalizedName": "Vegetable Glycerine Kosher USP 99.7%+ Pure - Highest Quality and Perfect Sweetness - (64 oz. - 1 Half Gallon)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00GP43SHW": {
+            "asin": "B00GP43SHW",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "MAM USA PROUD Orthodontic Pacifier, 6+ Months, 2-Count",
+            "normalizedName": "MAM USA PROUD Orthodontic Pacifier, 6+ Months, 2-Count",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B00UCRDBCA": {
+            "asin": "B00UCRDBCA",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Ewei's Homewares Easy Flex 3-pieces Silicone Spatula Set, Blue, Heat-resistant",
+            "normalizedName": "Ewei's Homewares Easy Flex 3-pieces Silicone Spatula Set, Blue, Heat-resistant",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

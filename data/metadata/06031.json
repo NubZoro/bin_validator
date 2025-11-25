@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "060612294X": {
+            "asin": "060612294X",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024
+            },
+            "name": "Every Day Is Earth Day (Turtleback School & Library Binding Edition) (I Can Read! Fancy Nancy - Level 1)",
+            "normalizedName": "Every Day Is Earth Day (Turtleback School & Library Binding Edition) (I Can Read! Fancy Nancy - Level 1)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00OGRBR8M": {
+            "asin": "B00OGRBR8M",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Paperproducts Design Winter Solstice Fox Porcelain Gift Boxed Mug, 13.5-Ounce, Multi-Color",
+            "normalizedName": "Paperproducts Design Winter Solstice Fox Porcelain Gift Boxed Mug, 13.5-Ounce, Multi-Color",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B011J3PI4O": {
+            "asin": "B011J3PI4O",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Tiger Chef Griddle Brick Holder and Grill Brick Cleaner, 2-Piece Set - for Cleaning Griddles and Grills",
+            "normalizedName": "2-Piece Set Tiger Chef Griddle Brick Holder and Grill Brick Cleaner, - for Cleaning Griddles and Grills",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000MTI15K": {
+            "asin": "B000MTI15K",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.299999983374
+            },
+            "name": "Moeller Marine Electric Fuel Tank Sending Unit (6\" to 12\" Deep Tanks)",
+            "normalizedName": "Moeller Marine Electric Fuel Tank Sending Unit (6\" to 12\" Deep Tanks)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B006C9TPKO": {
+            "asin": "B006C9TPKO",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Primula Tempo Coffee Press \u2013 For Rich, Non-Bitter Coffee \u2013 French Press Design \u2013 Easy to Use \u2013 Makes 6 Cups \u2013 Black",
+            "normalizedName": "Primula Tempo Coffee Press \u2013 For Rich, Non-Bitter Coffee \u2013 French Press Design \u2013 Easy to Use \u2013 Makes 6 Cups \u2013 Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B01AIYC36G": {
+            "asin": "B01AIYC36G",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Plant Hanger Butterfly",
+            "normalizedName": "Plant Hanger Butterfly",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.399999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

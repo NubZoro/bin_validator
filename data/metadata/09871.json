@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1118885848": {
+            "asin": "1118885848",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.842519675
+            },
+            "name": "Engineering Mechanics: Dynamics",
+            "normalizedName": "Engineering Mechanics: Dynamics",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9982561613061818
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1102362122
+            }
+        },
+        "1118957210": {
+            "asin": "1118957210",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Appendices to accompany Fundamentals of Engineering Thermodynamics, 8e",
+            "normalizedName": "Appendices to accompany Fundamentals of Engineering Thermodynamics, 8e",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "1285763882": {
+            "asin": "1285763882",
+            "height": {
+                "unit": "IN",
+                "value": 0.9448818888
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.9448818786
+            },
+            "name": "Cognitive Psychology: Connecting Mind, Research and Everyday Experience",
+            "normalizedName": "Cognitive Psychology: Connecting Mind, Research and Everyday Experience",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.777796149445433
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.055118101
+            }
+        },
+        "1567691099": {
+            "asin": "1567691099",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Sammy and His Shepherd",
+            "normalizedName": "Sammy and His Shepherd",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

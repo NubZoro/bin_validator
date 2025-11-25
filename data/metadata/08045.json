@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004Q89VXY": {
+            "asin": "B004Q89VXY",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "The Tao of Tea Tippy South Cloud, 1-Pounds",
+            "normalizedName": "The Tao of Tea Tippy South Cloud, 1-Pounds",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B01A6L1JSE": {
+            "asin": "B01A6L1JSE",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Fintie SmartShell Case for Kindle Paperwhite - The Thinnest and Lightest Leather Cover for All-New Amazon Kindle Paperwhite (Fits All versions: 2012, 2013, 2014 and 2015 New 300 PPI), Paisley Waves",
+            "normalizedName": "Fintie SmartShell Case for Kindle Paperwhite - The Thinnest and Lightest Leather Cover for All-New Amazon Kindle Paperwhite (Fits All versions: 2012, 2013, 2014 and 2015 New 300 PPI), Paisley Waves",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.30999999974003695
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

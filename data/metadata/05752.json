@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321709330": {
+            "asin": "0321709330",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Fundamentals of Anatomy & Physiology (9th Edition)",
+            "normalizedName": "Fundamentals of Anatomy & Physiology (9th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.700000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "0321827511": {
+            "asin": "0321827511",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Human Anatomy & Physiology Laboratory Manual, Main Version, 10th Edition",
+            "normalizedName": "Human Anatomy & Physiology Laboratory Manual, Main Version, 10th Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8499999967714262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

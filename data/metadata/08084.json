@@ -1,0 +1,18 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008862V3M": {
+            "asin": "B008862V3M",
+            "height": null,
+            "length": null,
+            "name": "Popcorn Bowl",
+            "normalizedName": "Popcorn Bowl",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29
+            },
+            "width": null
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

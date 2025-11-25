@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1501108816": {
+            "asin": "1501108816",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "The Ghost (Highland Guard)",
+            "normalizedName": "The Ghost (Highland Guard)",
+            "quantity": 15,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.044092002335174595
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0944881848
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

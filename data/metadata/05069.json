@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AJHBY7W": {
+            "asin": "B00AJHBY7W",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Monoprice 100-Feet FLEXboot Series 24AWG Cat6 550MHz UTP Ethernet Bare Copper Network Cable, Blue (109794)",
+            "normalizedName": "Monoprice 100-Feet FLEXboot Series 24AWG Cat6 550MHz UTP Ethernet Bare Copper Network Cable, Blue (109794)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00KQXWDSS": {
+            "asin": "B00KQXWDSS",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Cree BA19-08027OMF-12DE26-2U100 60W Equivalent 2700K A19 LED Light Bulb, Soft White",
+            "normalizedName": "Cree BA19-08027OMF-12DE26-2U100 60W Equivalent 2700K A19 LED Light Bulb, Soft White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00LLS78B4": {
+            "asin": "B00LLS78B4",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "MilSpec Shock 'n Awe Camo 110 ft. 8-Strand Hank Paracord. Guaranteed MIL-C-5040H Military Survival 550 Parachute Cord, Type III. Made in U.S. 100% Nylon, 600 Lb. Break Strength, Free eBook.",
+            "normalizedName": "MilSpec Shock 'n Awe Camo 110 ft. 8-Strand Hank Paracord. Guaranteed MIL-C-5040H Military Survival 550 Parachute Cord, Type III. Made in U.S. 100% Nylon, 600 Lb. Break Strength, Free eBook.",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

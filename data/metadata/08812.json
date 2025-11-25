@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EMWFBQ": {
+            "asin": "B000EMWFBQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "Tweezerman  Stainless Steel Slant Tweezer",
+            "normalizedName": "Tweezerman  Stainless Steel Slant Tweezer",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.70078739882
+            }
+        },
+        "B001FNW09U": {
+            "asin": "B001FNW09U",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Power One p312 Hearing Aid Battery (10 Packs of 6 Each)",
+            "normalizedName": "10 Pack Power One p312 Hearing Aid Battery ( s of 6 Each)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

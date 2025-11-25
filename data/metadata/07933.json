@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0785191577": {
+            "asin": "0785191577",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Dark Tower: The Drawing of the Three: The Prisoner",
+            "normalizedName": "Dark Tower: The Drawing of the Three: The Prisoner",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

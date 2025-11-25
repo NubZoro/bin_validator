@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002MHFXS8": {
+            "asin": "B002MHFXS8",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Farm Innovators Model CC-2 Cord Connect Water-Tight Cord Lock - Green",
+            "normalizedName": "Farm Innovators Model CC-2 Cord Connect Water-Tight Cord Lock - Green",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00GKOIRQE": {
+            "asin": "B00GKOIRQE",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Cinnabon K-Cup Portion Pack for Keurig Brewers, Classic Cinnamon Roll, 24 Count",
+            "normalizedName": "Cinnabon K-Cup Portion Pack for Keurig Brewers, Classic Cinnamon Roll, 24 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00QKLL4NA": {
+            "asin": "B00QKLL4NA",
+            "height": {
+                "unit": "IN",
+                "value": 2.755905509
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.448818888
+            },
+            "name": "Schleich North America Dragon Hunter Toy Figure",
+            "normalizedName": "Schleich North America Dragon Hunter Toy Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.352732418199545
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.543307083
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

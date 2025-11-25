@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0465049915": {
+            "asin": "0465049915",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Heirs to Forgotten Kingdoms: Journeys Into the Disappearing Religions of the Middle East",
+            "normalizedName": "Heirs to Forgotten Kingdoms: Journeys Into the Disappearing Religions of the Middle East",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B013X5NWBW": {
+            "asin": "B013X5NWBW",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Dinotrux Ty Rux Vehicle",
+            "normalizedName": "Dinotrux Ty Rux Vehicle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

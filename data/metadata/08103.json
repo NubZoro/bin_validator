@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0186TTQUG": {
+            "asin": "B0186TTQUG",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "kenwood KMMBT315U Single DIN Bluetooth CD Receiver",
+            "normalizedName": "kenwood KMMBT315U Single DIN Bluetooth CD Receiver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.249999998113171
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B01CCMT8MO": {
+            "asin": "B01CCMT8MO",
+            "height": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "name": "Shooters Earmuffs Indoor Outdoor Range Twin Pack with clear tinted Glasses for Hunting Gun or Nascar",
+            "normalizedName": "Shooters Earmuffs Indoor Outdoor Range Twin Pack with clear tinted Glasses for Hunting Gun or Nascar",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172943336
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

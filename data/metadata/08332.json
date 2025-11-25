@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003Z4ZXNW": {
+            "asin": "B003Z4ZXNW",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.2440944808
+            },
+            "name": "Pentel Refill Ink for EnerGel Liquid Gel Pen, 0.5mm, Needle Tip, Black Ink, Box of 12 (LRN5-A-12)",
+            "normalizedName": "Pentel Refill Ink for EnerGel Liquid Gel Pen, 0.5mm, Needle Tip, Black Ink, Box of 12 (LRN5-A-12)",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400474429947
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.362204722
+            }
+        },
+        "B0156DRDTG": {
+            "asin": "B0156DRDTG",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "AOWOTO Waterproof Case for iPhone 6s/6 4.7 inch , [Pro Series] Dirtpoof Shockproof Snowproof Underwater Protection Cover for iPhone 6s/iPhone 6 4.7\" Version (Blue Grass / Teal)",
+            "normalizedName": "AOWOTO Waterproof Case for iPhone 6s/6 4.7 inch , [Pro Series] Dirtpoof Shockproof Snowproof Underwater Protection Cover for iPhone 6s/iPhone 6 4.7\" Version (Blue Grass / Teal)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

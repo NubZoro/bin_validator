@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00APTJ5WU": {
+            "asin": "B00APTJ5WU",
+            "height": {
+                "unit": "IN",
+                "value": 2.249999997705
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "SlimFast Meal Replacement Bars, Chocolate Peanut Caramel, 45 grams, 5 Count",
+            "normalizedName": "SlimFast Meal Replacement Bars, Chocolate Peanut Caramel, 45 grams, 5 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5819999995119401
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B01CAT2I30": {
+            "asin": "B01CAT2I30",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "name": "GlowCity LED Light Up Bracelets (Green)",
+            "normalizedName": "GlowCity LED Light Up Bracelets (Green)",
+            "quantity": 3,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

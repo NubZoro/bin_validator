@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FY2OWY4": {
+            "asin": "B00FY2OWY4",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Crayola Model Magic Glossy Glaze, Double Pack",
+            "normalizedName": "Crayola Model Magic Glossy Glaze, Double Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00MENA1MI": {
+            "asin": "B00MENA1MI",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "PureTEST: Natural Testosterone Booster for Men - Strongest Testosterone Booster Supplement Available",
+            "normalizedName": "PureTEST: Natural Testosterone Booster for Men - Strongest Testosterone Booster Supplement Available",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

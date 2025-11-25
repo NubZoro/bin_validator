@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CC9GCY": {
+            "asin": "B000CC9GCY",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Larsen 4/4 Cello A String Medium Alloy-Steel",
+            "normalizedName": "Larsen 4/4 Cello A String Medium Alloy-Steel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00KS6ADQW": {
+            "asin": "B00KS6ADQW",
+            "height": {
+                "unit": "IN",
+                "value": 3.7007873978
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.4566929068
+            },
+            "name": "Funko POP! Disney: The Lion King Scar Action Figure",
+            "normalizedName": "Funko POP! Disney: The Lion King Scar Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5669291292
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

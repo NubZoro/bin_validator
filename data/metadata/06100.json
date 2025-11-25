@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0040LU3Y8": {
+            "asin": "B0040LU3Y8",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Jokari 16930 Baggy Rack Storage Bag Opener and Holder",
+            "normalizedName": "Jokari 16930 Baggy Rack Storage Bag Opener and Holder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00746TRHA": {
+            "asin": "B00746TRHA",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "AC Adapter/Battery Charger for Gateway compatible models",
+            "normalizedName": "AC Adapter/Battery Charger for Gateway compatible models",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00UM41N9G": {
+            "asin": "B00UM41N9G",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "CAP Barbell Neoprene Coated Single Dumbbell, Black, 10-Pound",
+            "normalizedName": "CAP Barbell Neoprene Coated Single Dumbbell, Black, 10-Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

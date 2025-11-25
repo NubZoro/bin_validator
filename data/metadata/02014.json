@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KHJ226Y": {
+            "asin": "B00KHJ226Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7165354252
+            },
+            "name": "Seventh Hero Game",
+            "normalizedName": "Seventh Hero Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800355822459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.7480314902
+            }
+        },
+        "B00OJE1SG8": {
+            "asin": "B00OJE1SG8",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Car Mount, TechMatte MagGrip Air Vent Magnetic Universal Car Mount Holder for Smartphones including iPhone 6, 6S, Galaxy S7, S6 Edge, OnePlus 3- Black",
+            "normalizedName": "Car Mount, TechMatte MagGrip Air Vent Magnetic Universal Car Mount Holder for Smartphones including iPhone 6, 6S, Galaxy S7, S6 Edge, OnePlus 3- Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

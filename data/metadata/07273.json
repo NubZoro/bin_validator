@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002IEIJJ0": {
+            "asin": "B002IEIJJ0",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Remington Rem Cloth with MoistureGuard (10 x 10-Inch)",
+            "normalizedName": "Remington Rem Cloth with MoistureGuard (10 x 10-Inch)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00HC2EY9W": {
+            "asin": "B00HC2EY9W",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "name": "Nite Ize STSM-11-R7 Nite Ize Steelie Magnetic Phone Socket - Mount - Retail Packaging",
+            "normalizedName": "Nite Ize STSM-11-R7 Nite Ize Steelie Magnetic Phone Socket - Mount - Retail Packaging",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

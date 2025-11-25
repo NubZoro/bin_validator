@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0084DZ776": {
+            "asin": "B0084DZ776",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Wildkin Big Dot Aqua Munch 'n Lunch Bag",
+            "normalizedName": "Wildkin Big Dot Aqua Munch 'n Lunch Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00FOXXV2M": {
+            "asin": "B00FOXXV2M",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Wrights Bullion Fringe, 3-Inch by 9-Yard, Black",
+            "normalizedName": "Wrights Bullion Fringe, 3-Inch by 9-Yard, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00LAETBOQ": {
+            "asin": "B00LAETBOQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Decor Grates AJH612-RB Oriental Floor Register, 6-Inch by 12-Inch, Rubbed Bronze",
+            "normalizedName": "Decor Grates AJH612-RB Oriental Floor Register, 6-Inch by 12-Inch, Rubbed Bronze",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00ZQ4PFX2": {
+            "asin": "B00ZQ4PFX2",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "EVGA Hybrid Cooler for GeForce GTX 980Ti Cooling 400-HY-0996-B1",
+            "normalizedName": "EVGA Hybrid Cooler for GeForce GTX 980Ti Cooling 400-HY-0996-B1",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3999999979873827
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

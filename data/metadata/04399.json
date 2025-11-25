@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000P22J2A": {
+            "asin": "B000P22J2A",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Elegant Baby Polka Dot Duck Asst, One Pack, Colors may vary",
+            "normalizedName": "Elegant Baby Polka Dot Duck Asst, One Pack, Colors may vary",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.699999996226
+            }
+        },
+        "B009K4E6KW": {
+            "asin": "B009K4E6KW",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.3779527494
+            },
+            "name": "Fisher-Price Thomas the Train Wooden Railway James Engine",
+            "normalizedName": "Fisher-Price Thomas the Train Wooden Railway James Engine",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.31
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4094488144
+            }
+        },
+        "B00KST2FZ6": {
+            "asin": "B00KST2FZ6",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Partsam 6Pack Blue Twist Socket T5 73 74 led 1206 3-SMD Instrument Cluster Dash Light",
+            "normalizedName": "6Pack Partsam Blue Twist Socket T5 73 74 led 1206 3-SMD Instrument Cluster Dash Light",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

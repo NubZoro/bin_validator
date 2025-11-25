@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0057RI0TY": {
+            "asin": "B0057RI0TY",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Bob's Red Mill Vital Wheat and Gluten Flour -- 22 oz",
+            "normalizedName": "Bob's Red Mill Vital Wheat and Gluten Flour -- 22 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B01DGPZJ1K": {
+            "asin": "B01DGPZJ1K",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "HUAZHENGONGZHU Ultra Slim Light Leather PU Credit Card ID Holder Extra Strong Magnet Travel Wallet Luxury Protection Cases for Nokia Lumia 635,Life",
+            "normalizedName": "HUAZHENGONGZHU Ultra Slim Light Leather PU Credit Card ID Holder Extra Strong Magnet Travel Wallet Luxury Protection Cases for Nokia Lumia 635,Life",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

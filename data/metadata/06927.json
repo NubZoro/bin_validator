@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00407LREC": {
+            "asin": "B00407LREC",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Blue Felt Childs Cowboy Hats (1 dz)",
+            "normalizedName": "Blue Felt Childs Cowboy Hats (1 dz)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B004IFERXO": {
+            "asin": "B004IFERXO",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Ravensburger Beautiful Vista - 500 Pieces Large Format Puzzle",
+            "normalizedName": "Ravensburger Beautiful Vista - 500 Pieces Large Format Puzzle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00L9IUMP0": {
+            "asin": "B00L9IUMP0",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Terry Naturally Vectomega, 60 Tablets (FFP)",
+            "normalizedName": "Terry Naturally Vectomega, 60 Tablets (FFP)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B01606IDL0": {
+            "asin": "B01606IDL0",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.299999984394
+            },
+            "name": "Microsoft Surface Pro 4 (256 GB, 8 GB RAM, Intel Core i5)",
+            "normalizedName": "Microsoft Surface Pro 4 (256 GB, 8 GB RAM, Intel Core i5)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4499999971068624
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

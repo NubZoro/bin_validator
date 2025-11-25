@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C9TEBJQ": {
+            "asin": "B00C9TEBJQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.5984251942
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.2204724346
+            },
+            "name": "WD Blue 1TB  Mobile Hard Disk Drive - 5400 RPM SATA 6 Gb/s  9.5 MM 2.5 Inch  - WD10JPVX",
+            "normalizedName": "WD Blue 1TB  Mobile Hard Disk Drive - 5400 RPM SATA 6 Gb/s  9.5 MM 2.5 Inch  - WD10JPVX",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.440924524
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8031496014
+            }
+        },
+        "B00VIVD7ZU": {
+            "asin": "B00VIVD7ZU",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "SPARC HD Radio SHD-TX2 Portable Radio with AM/FM & HD Radio Tuners, Built-in Speaker and Emergency Alerts",
+            "normalizedName": "SPARC HD Radio SHD-TX2 Portable Radio with AM/FM & HD Radio Tuners, Built-in Speaker and Emergency Alerts",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

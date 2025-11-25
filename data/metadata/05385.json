@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321979478": {
+            "asin": "0321979478",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "College Algebra (10th Edition)",
+            "normalizedName": "College Algebra (10th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "0323100945": {
+            "asin": "0323100945",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Foundations of Nursing in the Community: Community-Oriented Practice, 4e",
+            "normalizedName": "Foundations of Nursing in the Community: Community-Oriented Practice, 4e",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6499999977777353
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00X4SGP9K": {
+            "asin": "B00X4SGP9K",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Stain Station Stain-Removal System",
+            "normalizedName": "Stain Station Stain-Removal System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B015K11VME": {
+            "asin": "B015K11VME",
+            "height": {
+                "unit": "IN",
+                "value": 4.1338582635
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.6692913277
+            },
+            "name": "Klim Desktop USB Gaming Microphone Stand",
+            "normalizedName": "Klim Desktop USB Gaming Microphone Stand",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5290986272993174
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.4960629855
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

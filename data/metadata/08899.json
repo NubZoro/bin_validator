@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0016IT3ZI": {
+            "asin": "B0016IT3ZI",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "ACDelco 15-81104 GM Original Equipment Heating and Air Conditioning Blower Motor with Wheel",
+            "normalizedName": "ACDelco 15-81104 GM Original Equipment Heating and Air Conditioning Blower Motor with Wheel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00531ETEE": {
+            "asin": "B00531ETEE",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Hello Kitty Let's Pick Flowers Game",
+            "normalizedName": "Hello Kitty Let's Pick Flowers Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

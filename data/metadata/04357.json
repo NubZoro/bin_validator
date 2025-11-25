@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007EW9ISM": {
+            "asin": "B007EW9ISM",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.0393700736
+            },
+            "name": "Cosmonaut - Wide-Grip Stylus for Capacitive Touch Screen Tablets (iPad Air, iPad Mini, Surface, Kindle Fire, etc.)",
+            "normalizedName": "Cosmonaut - Wide-Grip Stylus for Capacitive Touch Screen Tablets (iPad Air, iPad Mini, Surface, Kindle Fire, etc.)",
+            "quantity": 15,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400474429947
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.8661417314
+            }
+        },
+        "B00LEHDLRW": {
+            "asin": "B00LEHDLRW",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Centrum Women's Multivitamin Supplement, 120 Count",
+            "normalizedName": "Centrum Women's Multivitamin Supplement, 120 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00YB4IZ58": {
+            "asin": "B00YB4IZ58",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Trukid Easy Unscented Eczema Cream Tube, White, 3.4 Ounce",
+            "normalizedName": "Trukid Easy Unscented Eczema Cream Tube, White, 3.4 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2599999997819664
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 18
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001DPO1HY": {
+            "asin": "B001DPO1HY",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Bissell Tank 9200 Illusion Lid, Blue",
+            "normalizedName": "Bissell Tank 9200 Illusion Lid, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B002LG5Q4Q": {
+            "asin": "B002LG5Q4Q",
+            "height": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.4
+            },
+            "name": "Rothco Insulated Coverall, Black, Large",
+            "normalizedName": "Rothco Insulated Coverall, Black, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.8
+            }
+        },
+        "B01BLZ44J0": {
+            "asin": "B01BLZ44J0",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Sleep Guardian Premium King Mattress Encasement - Lab Tested Waterproof, Bed Bug Proof, Hypoallergenic Zippered Encasement - Protects from Bed Bugs, Dust Mites & Fluids",
+            "normalizedName": "Sleep Guardian Premium King Mattress Encasement - Lab Tested Waterproof, Bed Bug Proof, Hypoallergenic Zippered Encasement - Protects from Bed Bugs, Dust Mites & Fluids",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.649999996939144
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        },
+        "B01GGUECNI": {
+            "asin": "B01GGUECNI",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.599999983068003
+            },
+            "name": "Mainstays 10-Count Red Cup Lights",
+            "normalizedName": "Mainstays 10-Count Red Cup Lights",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033389
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

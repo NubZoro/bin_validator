@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DXPRTHG": {
+            "asin": "B00DXPRTHG",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Duda Energy Syringepk010 Industrial Syringes with 15G x 1-1/2\" Blunt Tip Fill Needle and Plastic Cover, 10 mL (Pack of 10)",
+            "normalizedName": "(Pack of 10) Duda Energy Syringepk010 Industrial Syringes with 15G x 1-1/2\" Blunt Tip Fill Needle and Plastic Cover, 10 mL",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00KC3FMKI": {
+            "asin": "B00KC3FMKI",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Tech Armor Premium Ballistic Glass Screen Protector for LG G3",
+            "normalizedName": "Tech Armor Premium Ballistic Glass Screen Protector for LG G3",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008OS2J7M": {
+            "asin": "B008OS2J7M",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Metagenics L Carnitine with Chromium -- 30 Tablets (Quantity of 2)",
+            "normalizedName": "Metagenics L Carnitine with Chromium -- 30 Tablets (Quantity of 2)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00ECH40MQ": {
+            "asin": "B00ECH40MQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Metagenics D3 10,000 with K2 60 soft gels",
+            "normalizedName": "Metagenics D3 10,000 with K2 60 soft gels",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00L2V09VQ": {
+            "asin": "B00L2V09VQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Floureon 2 Packs 3s 11.1V 3000mAh 30C Lipo Battery with Dean-Style T Connector for RC Airplane Helicopter Car Truck Boat",
+            "normalizedName": "2 Pack Floureon s 3s 11.1V 3000mAh 30C Lipo Battery with Dean-Style T Connector for RC Airplane Helicopter Car Truck Boat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

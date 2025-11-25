@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00221D4DK": {
+            "asin": "B00221D4DK",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Zing Nutrition Bar, Cashew Cranberry Orange, 12 Count",
+            "normalizedName": "Zing Nutrition Bar, Cashew Cranberry Orange, 12 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00ZDO82VM": {
+            "asin": "B00ZDO82VM",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Starwest Botanicals Organic Arrowroot Powder - 1 Pound (16 oz)",
+            "normalizedName": "Starwest Botanicals Organic Arrowroot Powder - 1 Pound (16 oz)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B016YACK7K": {
+            "asin": "B016YACK7K",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.8267716476
+            },
+            "name": "Anker SoundBuds In-Ear Sport Earbuds, Magnetic Wireless Bluetooth Headphones with 8-Hour Playtime and CVC 6.0 Noise Cancellation, IPX4 Sweatproof for Running, Workout, Gym - Sports Earphones with Mic",
+            "normalizedName": "Anker SoundBuds In-Ear Sport Earbuds, Magnetic Wireless Bluetooth Headphones with 8-Hour Playtime and CVC 6.0 Noise Cancellation, IPX4 Sweatproof for Running, Workout, Gym - Sports Earphones with Mic",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        },
+        "B01D2IJP3O": {
+            "asin": "B01D2IJP3O",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Stronger 5\" Foam Massage Ball - High Grade Density - Ideal For Tight Muscles and Recovery - Includes Free Carry Bag",
+            "normalizedName": "Stronger 5\" Foam Massage Ball - High Grade Density - Ideal For Tight Muscles and Recovery - Includes Free Carry Bag",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5149999995681258
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991738
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

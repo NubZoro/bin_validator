@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NGLAIO8": {
+            "asin": "B00NGLAIO8",
+            "height": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Nick Jr Paw Patrol All Paws on Deck Micro Raschel Blanket, 62 by 90-Inch",
+            "normalizedName": "Nick Jr Paw Patrol All Paws on Deck Micro Raschel Blanket, 62 by 90-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.03
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00VP4GYL4": {
+            "asin": "B00VP4GYL4",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Logitech Keyboard Folio for iPad 2G/3G/4G - Carbon Black (Certified Refurbished)",
+            "normalizedName": "Logitech Keyboard Folio for iPad 2G/3G/4G - Carbon Black (Certified Refurbished)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002AJPXQ": {
+            "asin": "B0002AJPXQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "BOSTITCH SBCAPS 1000 Caps for Cap Stapler and Nailer",
+            "normalizedName": "BOSTITCH SBCAPS 1000 Caps for Cap Stapler and Nailer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B003GIS8TI": {
+            "asin": "B003GIS8TI",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "LeapFrog LeapReader Book: Disney Tangled (works with Tag)",
+            "normalizedName": "LeapFrog LeapReader Book: Disney Tangled (works with Tag)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B008872BTU": {
+            "asin": "B008872BTU",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "Ludwig Atlas Pro II Snare Stand",
+            "normalizedName": "Ludwig Atlas Pro II Snare Stand",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.199999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00V9JP8EE": {
+            "asin": "B00V9JP8EE",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "InnoGear 100ml Aromatherapy Essential Oil Diffuser Portable Ultrasonic Cool Mist Aroma Humidifier with Color LED Lights Changing and Waterless Auto Shut-off Function for Home Office Bedroom Room",
+            "normalizedName": "InnoGear 100ml Aromatherapy Essential Oil Diffuser Portable Ultrasonic Cool Mist Aroma Humidifier with Color LED Lights Changing and Waterless Auto Shut-off Function for Home Office Bedroom Room",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

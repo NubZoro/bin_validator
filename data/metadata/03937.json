@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B018GSH10O": {
+            "asin": "B018GSH10O",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Handy Gourmet 12 Piece Ramekin Set",
+            "normalizedName": "Handy Gourmet 12 Piece Ramekin Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.749999997693876
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B018ND7QQ6": {
+            "asin": "B018ND7QQ6",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Bluetooth Headphones Ansion V9+ Sports Wireless Bluetooth Headset HD Stereo Bluetooth Earbuds with Microphone for iPhone 6 6s plus Samsung Galaxy S6 S5 and Android Phones(Black)",
+            "normalizedName": "Bluetooth Headphones Ansion V9+ Sports Wireless Bluetooth Headset HD Stereo Bluetooth Earbuds with Microphone for iPhone 6 6s plus Samsung Galaxy S6 S5 and Android Phones(Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

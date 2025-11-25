@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009F3MUVK": {
+            "asin": "B009F3MUVK",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Spears 1435 Series PVC Tube Fitting, Adapter, Schedule 40, Gray, 1-1/2\" Barbed x NPT Female",
+            "normalizedName": "Spears 1435 Series PVC Tube Fitting, Adapter, Schedule 40, Gray, 1-1/2\" Barbed x NPT Female",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01A68H2BA": {
+            "asin": "B01A68H2BA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Nutricost Tudca 250mg; 60 Capsules (Tauroursodeoxycholic Acid) - Premium Quality",
+            "normalizedName": "Nutricost Tudca 250mg; 60 Capsules (Tauroursodeoxycholic Acid) - Premium Quality",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

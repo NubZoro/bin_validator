@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009E7YBEQ": {
+            "asin": "B009E7YBEQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Bell Plantation PB2 Powdered Peanut Butter, 16 oz (Pack of 2)",
+            "normalizedName": "(Pack of 2) Bell Plantation PB2 Powdered Peanut Butter, 16 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00RVGCCNE": {
+            "asin": "B00RVGCCNE",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "MLG Mouse Trap Quick Response Sensitive Trap, Pack of 6",
+            "normalizedName": "Pack of 6 MLG Mouse Trap Quick Response Sensitive Trap,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B017BK9SJK": {
+            "asin": "B017BK9SJK",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Prynt PZ100005/BL Prynt Case for Samsung Galaxy S5 - Black",
+            "normalizedName": "Prynt PZ100005/BL Prynt Case for Samsung Galaxy S5 - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002YPNP6": {
+            "asin": "B0002YPNP6",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Marathon 4.10/3.50-4\" Flat Free Tire on Wheel, 2.25\" Offset Hub, 5/8\" Bearings",
+            "normalizedName": "Marathon 4.10/3.50-4\" Flat Free Tire on Wheel, 2.25\" Offset Hub, 5/8\" Bearings",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00EID1MVQ": {
+            "asin": "B00EID1MVQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Yvette Zip Front Closure Sports Bra #6015, Black, 32AA",
+            "normalizedName": "Yvette Zip Front Closure Sports Bra #6015, Black, 32AA",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

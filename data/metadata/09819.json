@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001CWYZI8": {
+            "asin": "B001CWYZI8",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.399999983272
+            },
+            "name": "Milwaukee 48-28-1040 12-by-7/16-Inch Universal Quik-Lok Extension",
+            "normalizedName": "Milwaukee 48-28-1040 12-by-7/16-Inch Universal Quik-Lok Extension",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B001MYL1VK": {
+            "asin": "B001MYL1VK",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Install Essentials 524T 2 Wire Standard Door Lock Actuator Kit",
+            "normalizedName": "Install Essentials 524T 2 Wire Standard Door Lock Actuator Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.799999997144
+            }
+        },
+        "B001NYE24C": {
+            "asin": "B001NYE24C",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "Gates 23405 Coolant Hose",
+            "normalizedName": "Gates 23405 Coolant Hose",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01D0OSBOO": {
+            "asin": "B01D0OSBOO",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Hefty Easy Grip Plastic Cups, 18 Oz, 50 Ct, Peach Coral",
+            "normalizedName": "Hefty Easy Grip Plastic Cups, 18 Oz, 50 Ct, Peach Coral",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

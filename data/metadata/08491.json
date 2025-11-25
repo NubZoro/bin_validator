@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004H2YFKI": {
+            "asin": "B004H2YFKI",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Garden of Life RAW Organic Fiber, 803g Powder",
+            "normalizedName": "Garden of Life RAW Organic Fiber, 803g Powder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

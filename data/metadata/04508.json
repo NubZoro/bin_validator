@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GIU8HRO": {
+            "asin": "B00GIU8HRO",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Tasty Bite Madras Lentils-10 oz, 6 ct",
+            "normalizedName": "Tasty Bite Madras Lentils-10 oz, 6 ct",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.453292239587123
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B01AT5MIB4": {
+            "asin": "B01AT5MIB4",
+            "height": {
+                "unit": "IN",
+                "value": 3.3999999965320002
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Barbie Star Trek 50th Anniversary Uhura Doll",
+            "normalizedName": "Barbie Star Trek 50th Anniversary Uhura Doll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

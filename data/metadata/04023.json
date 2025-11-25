@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003N1ZSYG": {
+            "asin": "B003N1ZSYG",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Samsung Da29-00020b Refrigerator Water Filter, 1-pack",
+            "normalizedName": "Samsung Da29-00020b Refrigerator Water Filter, 1-pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00C108DFG": {
+            "asin": "B00C108DFG",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Weaver Leather Diamond Braid Rope Halter and Lead, Black/Hurricane Blue",
+            "normalizedName": "Weaver Leather Diamond Braid Rope Halter and Lead, Black/Hurricane Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00UGEFFQE": {
+            "asin": "B00UGEFFQE",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Burkley Case Ultra Slim Pocketcase for Apple iPhone 6 Plus / 6S Plus (Tan)",
+            "normalizedName": "Burkley Case Ultra Slim Pocketcase for Apple iPhone 6 Plus / 6S Plus (Tan)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.049999999958070473
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995817999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

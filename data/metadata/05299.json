@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HTWJHH4": {
+            "asin": "B00HTWJHH4",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0787401472
+            },
+            "name": "Buck Knives 0030RDS Splizzors Multi-Tool",
+            "normalizedName": "Buck Knives 0030RDS Splizzors Multi-Tool",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880332100962
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5669291292
+            }
+        },
+        "B00Q6EXNVW": {
+            "asin": "B00Q6EXNVW",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "ECCPP\u00ae Set OF 6 New Ignition Coils for 00 01 02 03 04 05 Lincoln LS Jaguar S-Type V6 3.0L IC34 DG517 DG528 FD496 5C1197 2W4Z12029AB",
+            "normalizedName": "Set OF 6 ECCPP\u00ae New Ignition Coils for 00 01 02 03 04 05 Lincoln LS Jaguar S-Type V6 3.0L IC34 DG517 DG528 FD496 5C1197 2W4Z12029AB",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B01FEISATK": {
+            "asin": "B01FEISATK",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "Werther's Original Creamy Caramel Filled Hard Candies 2.65 Oz (Pack of 6)",
+            "normalizedName": "(Pack of 6) Werther's Original Creamy Caramel Filled Hard Candies 2.65 Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.165625
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

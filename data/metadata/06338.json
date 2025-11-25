@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002YRJ8K": {
+            "asin": "B0002YRJ8K",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Mountain House Standard Pouch, Rice and Chicken",
+            "normalizedName": "Mountain House Standard Pouch, Rice and Chicken",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013HSW4N2": {
+            "asin": "B013HSW4N2",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.6377952678
+            },
+            "name": "Jaybird X2 Sport Wireless Bluetooth Headphones - Charge",
+            "normalizedName": "Jaybird X2 Sport Wireless Bluetooth Headphones - Charge",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.587312084066285
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B01GUV91CA": {
+            "asin": "B01GUV91CA",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Samsung Galaxy Note 5 Case,Eouine Ultra Slim Premium TPU Gel Rubber Soft Skin Silicone Protective Case Cover for Samsung Galaxy Note 5 Fruit Back Cover,Bananas",
+            "normalizedName": "Samsung Galaxy Note 5 Case,Eouine Ultra Slim Premium TPU Gel Rubber Soft Skin Silicone Protective Case Cover for Samsung Galaxy Note 5 Fruit Back Cover,Bananas",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00G7L20ZY": {
+            "asin": "B00G7L20ZY",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Hedstrom Monsters Hopper, 18-Inch",
+            "normalizedName": "Hedstrom Monsters Hopper, 18-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

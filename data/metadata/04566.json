@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00RVEE45A": {
+            "asin": "B00RVEE45A",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "GRAY super strong PE braided fishing line 10LB to 100LB (500M, 70LB)",
+            "normalizedName": "GRAY super strong PE braided fishing line 10LB to 100LB (500M, 70LB)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.32
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B0146D9U0W": {
+            "asin": "B0146D9U0W",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Mabor Solar Light with Motion Sensor, Waterproof Security Light (10 LEDs)",
+            "normalizedName": "Mabor Solar Light with Motion Sensor, Waterproof Security Light (10 LEDs)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

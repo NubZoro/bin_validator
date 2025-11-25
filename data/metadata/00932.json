@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A0M5NRS": {
+            "asin": "B00A0M5NRS",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Pac-Kit by First Aid Only 70-730 Vionex Antimicrobial Towelette (Box of 50)",
+            "normalizedName": "Pac-Kit by First Aid Only 70-730 Vionex Antimicrobial Towelette (Box of 50)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B0179JX8GC": {
+            "asin": "B0179JX8GC",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Amir\u00ae 3 in 1 Fisheye Lens Plus Macro Lens Plus 0.4x Super Wide Angle Lens, Clip on Cell Phone Lens Camera Lens Kits for Iphone 6s, 6, 5s, Galaxy & Most Smartphones",
+            "normalizedName": "Amir\u00ae 3 in 1 Fisheye Lens Plus Macro Lens Plus 0.4x Super Wide Angle Lens, Clip on Cell Phone Lens Camera Lens Kits for Iphone 6s, 6, 5s, Galaxy & Most Smartphones",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1999999998322819
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

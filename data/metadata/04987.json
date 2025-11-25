@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "013283779X": {
+            "asin": "013283779X",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Literacy for the 21st Century: A Balanced Approach (6th Edition)",
+            "normalizedName": "Literacy for the 21st Century: A Balanced Approach (6th Edition)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00J8QKDCW": {
+            "asin": "B00J8QKDCW",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Real Meat Organic Dog Food - Feed Me: Freeze Dried Raw Superfood for Optimal Canine Health and Natural Longevity - All Natural - Balanced Nutrition - No Filters, No Grain - Just Add Water (Beef, 10oz)",
+            "normalizedName": "Real Meat Organic Dog Food - Feed Me: Freeze Dried Raw Superfood for Optimal Canine Health and Natural Longevity - All Natural - Balanced Nutrition - No Filters, No Grain - Just Add Water (Beef, 10oz)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

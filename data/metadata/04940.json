@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KDBJJVC": {
+            "asin": "B00KDBJJVC",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Eddie Bauer 200611 Herringbone Cotton Blanket, King, Mushroom",
+            "normalizedName": "Eddie Bauer 200611 Herringbone Cotton Blanket, King, Mushroom",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B00Q651TT4": {
+            "asin": "B00Q651TT4",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "iPad Air Screen Protector ,Coolreall Tempered Glass Screen Protector Film 9.7 Inch for iPad Air/Air 2-Transparent (0.33mm HD Ultra Clear)",
+            "normalizedName": "iPad Air Screen Protector ,Coolreall Tempered Glass Screen Protector Film 9.7 Inch for iPad Air/Air 2-Transparent (0.33mm HD Ultra Clear)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

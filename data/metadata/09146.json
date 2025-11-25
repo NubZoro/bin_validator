@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0036FSD8W": {
+            "asin": "B0036FSD8W",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Harney & Sons White Tea, Vanilla Grapefruit, 20 Sachets (Pack of 6)",
+            "normalizedName": "(Pack of 6) Harney & Sons White Tea, Vanilla Grapefruit, 20 Sachets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

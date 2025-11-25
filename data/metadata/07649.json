@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "038531700X": {
+            "asin": "038531700X",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "The Loop",
+            "normalizedName": "The Loop",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "1891105035": {
+            "asin": "1891105035",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "30-Minute Meals",
+            "normalizedName": "30-Minute Meals",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8818400474429946
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

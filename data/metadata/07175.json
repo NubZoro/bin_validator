@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009CCRK8C": {
+            "asin": "B009CCRK8C",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "4pairs Merino Wool Socks Heather Charcoal Black Large",
+            "normalizedName": "4pairs Merino Wool Socks Heather Charcoal Black Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B01BD2SMAI": {
+            "asin": "B01BD2SMAI",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Mudder Portable Raincoat Rain Poncho with Hoods and Sleeves, Yellow",
+            "normalizedName": "Mudder Portable Raincoat Rain Poncho with Hoods and Sleeves, Yellow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

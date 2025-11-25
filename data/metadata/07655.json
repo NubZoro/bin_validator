@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HIBZIBU": {
+            "asin": "B00HIBZIBU",
+            "height": {
+                "unit": "IN",
+                "value": 2.5196850368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.5354330642
+            },
+            "name": "ORICO 5 Port Super Charger with 12V 3A Power Adapter (ORICO DCP-5U-BK)",
+            "normalizedName": "ORICO 5 Port Super Charger with 12V 3A Power Adapter (ORICO DCP-5U-BK)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9259320498151443
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        },
+        "B01DNDN5NO": {
+            "asin": "B01DNDN5NO",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "iPhone 6/6S Plus Case, Ipaky Ultra Thin Exact-Fit Premium Matte Finish Dual Layer Hard Case for iPhone 6 Plus with Tempered Glass Screen Protector for iPhone 6/6S Plus 5.5 (Black)",
+            "normalizedName": "iPhone 6/6S Plus Case, Ipaky Ultra Thin Exact-Fit Premium Matte Finish Dual Layer Hard Case for iPhone 6 Plus with Tempered Glass Screen Protector for iPhone 6/6S Plus 5.5 (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

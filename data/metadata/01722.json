@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PBF3T3E": {
+            "asin": "B00PBF3T3E",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Eco-Fill 2.0 Deluxe for Keurig K-Cup Brewers  2.0, K300, K400, K500 Series",
+            "normalizedName": "Eco-Fill 2.0 Deluxe for Keurig K-Cup Brewers  2.0, K300, K400, K500 Series",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00XPQW09K": {
+            "asin": "B00XPQW09K",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "16 Oz Apricot Kernel Oil 100% Pure Organic Cold Pressed For Skin Hair And Health",
+            "normalizedName": "16 Oz Apricot Kernel Oil 100% Pure Organic Cold Pressed For Skin Hair And Health",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B01B11DESQ": {
+            "asin": "B01B11DESQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.5
+            },
+            "name": "Pet Pros Nylon Pet Collars, Adjustable from 16\" to 22\", 3\\4\" wide (Black)",
+            "normalizedName": "Pet Pros Nylon Pet Collars, Adjustable from 16\" to 22\", 3\\4\" wide (Black)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.75
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

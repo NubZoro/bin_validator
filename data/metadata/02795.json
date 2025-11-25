@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003EMKNWG": {
+            "asin": "B003EMKNWG",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Tom's of Maine Moisturizing Bar Relaxing, 4-Ounces Bars (Pack of 6)",
+            "normalizedName": "(Pack of 6) Tom's of Maine Moisturizing Bar Relaxing, 4-Ounces Bars",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.78
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

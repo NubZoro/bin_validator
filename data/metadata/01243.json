@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VKL6Z2": {
+            "asin": "B000VKL6Z2",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Halloween (Unrated Two-Disc Special Edition)",
+            "normalizedName": "Halloween (Unrated Two-Disc Special Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00AADAEHQ": {
+            "asin": "B00AADAEHQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Petticoat Junction: Return to Hooterville",
+            "normalizedName": "Petticoat Junction: Return to Hooterville",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00ISKW2T6": {
+            "asin": "B00ISKW2T6",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Panasonic KX-TGE273S Link2Cell Bluetooth Enabled Phone with Answering Machine & 3 Cordless Handsets",
+            "normalizedName": "Panasonic KX-TGE273S Link2Cell Bluetooth Enabled Phone with Answering Machine & 3 Cordless Handsets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

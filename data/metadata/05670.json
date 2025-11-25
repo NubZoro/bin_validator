@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005QEZAFA": {
+            "asin": "B005QEZAFA",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Sharpie Paint Marker Medium Point Oil Based All 15 Color Set",
+            "normalizedName": "Sharpie Paint Marker Medium Point Oil Based All 15 Color Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B01EHIQASQ": {
+            "asin": "B01EHIQASQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.4724409342
+            },
+            "name": "Jaybird - Freedom F5 In-Ear Wireless Headphones - Carbon",
+            "normalizedName": "Jaybird - Freedom F5 In-Ear Wireless Headphones - Carbon",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800350276188
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.2204724346
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

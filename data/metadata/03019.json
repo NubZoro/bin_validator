@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00465I1DS": {
+            "asin": "B00465I1DS",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452
+            },
+            "name": "WWE: Raw - The Best of 2010",
+            "normalizedName": "WWE: Raw - The Best of 2010",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994288
+            }
+        },
+        "B00Y18EQ7K": {
+            "asin": "B00Y18EQ7K",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Kids Gardening Tool Set (pink)",
+            "normalizedName": "Kids Gardening Tool Set (pink)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

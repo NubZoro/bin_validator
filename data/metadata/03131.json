@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00362TSJS": {
+            "asin": "B00362TSJS",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Unicorns Animals (12 per package)",
+            "normalizedName": "Unicorns Animals (12 per package)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

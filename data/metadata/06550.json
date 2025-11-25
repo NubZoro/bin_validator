@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001ILFUA0": {
+            "asin": "B001ILFUA0",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Greek Chapter Two",
+            "normalizedName": "Greek Chapter Two",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00AWR9JM6": {
+            "asin": "B00AWR9JM6",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Organic Root Stimulator Girls Moisture-Rich Conditioner, 13 Ounce",
+            "normalizedName": "Organic Root Stimulator Girls Moisture-Rich Conditioner, 13 Ounce",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00JDQLX1C": {
+            "asin": "B00JDQLX1C",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Amazon.com $20 Gift Card in a Greeting Card (Fitting Christmas Design)",
+            "normalizedName": "Amazon.com $20 Gift Card in a Greeting Card (Fitting Christmas Design)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01AXG7A3K": {
+            "asin": "B01AXG7A3K",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Bluetooth Headphones COULAX CX04 Bluetooth Neckband Headset Wireless Sweatproof In-Ear Sports Running Earbuds-Built in Mic with Noise Cancellation for iPhone 6s Samsung S7 and Android Phone",
+            "normalizedName": "Bluetooth Headphones COULAX CX04 Bluetooth Neckband Headset Wireless Sweatproof In-Ear Sports Running Earbuds-Built in Mic with Noise Cancellation for iPhone 6s Samsung S7 and Android Phone",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

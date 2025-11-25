@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003XYL4PA": {
+            "asin": "B003XYL4PA",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.016535415
+            },
+            "name": "Deuter Streamer Thermo Bag Backpack Granite One Size",
+            "normalizedName": "Deuter Streamer Thermo Bag Backpack Granite One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.49
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.2913385732
+            }
+        },
+        "B00N3L2DMG": {
+            "asin": "B00N3L2DMG",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Hamilton Beach 25490A Dual Breakfast Sandwich Maker",
+            "normalizedName": "Hamilton Beach 25490A Dual Breakfast Sandwich Maker",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B00P45G48I": {
+            "asin": "B00P45G48I",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Vaultz Locking Garage Box, 10 x 7.75 x 7.25 Inches, Silver Treadplate (VZ00715)",
+            "normalizedName": "Vaultz Locking Garage Box, 10 x 7.75 x 7.25 Inches, Silver Treadplate (VZ00715)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6999999977358056
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

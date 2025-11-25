@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A0R75QA": {
+            "asin": "B00A0R75QA",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Batman - Logo: 24oz Ceramic Soup Mug",
+            "normalizedName": "Batman - Logo: 24oz Ceramic Soup Mug",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B0163COWP2": {
+            "asin": "B0163COWP2",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Microsoft Band 2 - Large",
+            "normalizedName": "Microsoft Band 2 - Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009ZAA4C": {
+            "asin": "B0009ZAA4C",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Sangean WR-2 WH HiFi AM/FM-RDS Table-Top Radio (White)",
+            "normalizedName": "Sangean WR-2 WH HiFi AM/FM-RDS Table-Top Radio (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

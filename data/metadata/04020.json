@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0062AYXEG": {
+            "asin": "B0062AYXEG",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Best Naturals Astaxanthin, 4 Mg, 60 Softgels",
+            "normalizedName": "Best Naturals Astaxanthin, 4 Mg, 60 Softgels",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B01DGPZNH0": {
+            "asin": "B01DGPZNH0",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "HUAZHENGONGZHU Nokia Lumia 635 PU Leather Wallet Pouch Case with Credit Card Slot Colorful,Tree",
+            "normalizedName": "HUAZHENGONGZHU Nokia Lumia 635 PU Leather Wallet Pouch Case with Credit Card Slot Colorful,Tree",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

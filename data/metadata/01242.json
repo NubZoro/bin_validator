@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FTEDMM": {
+            "asin": "B000FTEDMM",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "3M(TM) Half Facepiece Respirator Assembly 6291/07002(AAD), Medium, with 3M(TM) Particulate Filters 2091/07000(AAD), P100",
+            "normalizedName": "3M(TM) Half Facepiece Respirator Assembly 6291/07002(AAD), Medium, with 3M(TM) Particulate Filters 2091/07000(AAD), P100",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00VEFD4EY": {
+            "asin": "B00VEFD4EY",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Nitro Golf Nike Tour 2 Pro-Line Balls (Pack of 15)",
+            "normalizedName": "(Pack of 15) Nitro Golf Nike Tour 2 Pro-Line Balls",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B01AJHR0O2": {
+            "asin": "B01AJHR0O2",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Fake Flower Heads,3inch Roses bulk Bridal Shower Decorations Wedding Favor Centerpieces by Pparty (Blue 30pcs)",
+            "normalizedName": "Fake Flower Heads,3inch Roses bulk Bridal Shower Decorations Wedding Favor Centerpieces by Pparty (Blue 30pcs)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

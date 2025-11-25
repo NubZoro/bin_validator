@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00G04FV0E": {
+            "asin": "B00G04FV0E",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Disney Minnie's Music Mat Electronic Piano",
+            "normalizedName": "Disney Minnie's Music Mat Electronic Piano",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B00XIQKG0C": {
+            "asin": "B00XIQKG0C",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Giro Dime MIPS Equipped Bike Helmet - Kid's Matte Black Small",
+            "normalizedName": "Giro Dime MIPS Equipped Bike Helmet - Kid's Matte Black Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B00XYLFJXU": {
+            "asin": "B00XYLFJXU",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Wedding Planning Binder Kit - Modern Stripe & Gold",
+            "normalizedName": "Wedding Planning Binder Kit - Modern Stripe & Gold",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        },
+        "B016DLVQZC": {
+            "asin": "B016DLVQZC",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "SOLOOP 480pcs Heat Shrink Wire Connector Kit Waterproof Marine Automotive Terminals Set",
+            "normalizedName": "SOLOOP 480pcs Heat Shrink Wire Connector Kit Waterproof Marine Automotive Terminals Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B01BECUPCK": {
+            "asin": "B01BECUPCK",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Pyle PLDNVR708 GPS Car Stereo and Dual Camera Kit Includes Touchscreen Headunit Back Up Camera and Dash Cam",
+            "normalizedName": "Pyle PLDNVR708 GPS Car Stereo and Dual Camera Kit Includes Touchscreen Headunit Back Up Camera and Dash Cam",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.299999993039698
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

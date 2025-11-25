@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001HN6CWO": {
+            "asin": "B001HN6CWO",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Nite Ize SB234-03-11 S-Biner Stainless, 3-Pack",
+            "normalizedName": "3-Pack Nite Ize SB234-03-11 S-Biner Stainless,",
+            "quantity": 25,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 25
+}

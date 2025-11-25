@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007JWICOI": {
+            "asin": "B007JWICOI",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "AGPtEK 9 Cells Replacement Laptop Battery 6600mAh for Dell Studio 1747 1749 Compatible Part number N856P U164P M905P U150P with 1 Year Warranty",
+            "normalizedName": "AGPtEK 9 Cells Replacement Laptop Battery 6600mAh for Dell Studio 1747 1749 Compatible Part number N856P U164P M905P U150P with 1 Year Warranty",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B012NH1SK8": {
+            "asin": "B012NH1SK8",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "LGA1151/INTELI7/14NMCPU/TURBO",
+            "normalizedName": "LGA1151/INTELI7/14NMCPU/TURBO",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.949999997526158
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        },
+        "B0197VTUXK": {
+            "asin": "B0197VTUXK",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Callaway 2016 Sun Hat, Khaki, Large/X-Large",
+            "normalizedName": "Callaway 2016 Sun Hat, Khaki, Large/X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.199999987555998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

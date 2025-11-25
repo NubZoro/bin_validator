@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000I4CAEM": {
+            "asin": "B000I4CAEM",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Calcium Citrate Chewable 1000mg (250mg each) Solaray 60 Chewable",
+            "normalizedName": "Calcium Citrate Chewable 1000mg (250mg each) Solaray 60 Chewable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B010RPNNB0": {
+            "asin": "B010RPNNB0",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Stay Real 4 Piece 2.3\" Tobacco Spice Herb Weed Acrylic Grinder - Strong Magnetic Hold with Mesh Screen Filter - Sharp Teeth - 2 Pack (Blue & Clear)",
+            "normalizedName": "2 Pack Stay Real 4 Piece 2.3\" Tobacco Spice Herb Weed Acrylic Grinder - Strong Magnetic Hold with Mesh Screen Filter - Sharp Teeth - (Blue & Clear)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

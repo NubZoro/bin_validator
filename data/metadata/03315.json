@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006HCE06": {
+            "asin": "B0006HCE06",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.199999983475998
+            },
+            "name": "Golden Gate Bridge, San Francisco 1500 Piece Puzzle",
+            "normalizedName": "Golden Gate Bridge, San Francisco 1500 Piece Puzzle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        },
+        "B005UPTFYC": {
+            "asin": "B005UPTFYC",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.199999983475998
+            },
+            "name": "Notre-Dame De Montreal, Canada 2000 Piece Puzzle",
+            "normalizedName": "Notre-Dame De Montreal, Canada 2000 Piece Puzzle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        },
+        "B0110HGAGY": {
+            "asin": "B0110HGAGY",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.899999982761997
+            },
+            "name": "Eurmax Canopy Weight Bag 4-pc Pack for Easy Pop up Canopy Tent",
+            "normalizedName": "Eurmax Canopy Weight Bag 4-pc Pack for Easy Pop up Canopy Tent",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

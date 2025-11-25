@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002KAOAYA": {
+            "asin": "B002KAOAYA",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Biotene PBF Oral Rinse 33.8 oz",
+            "normalizedName": "Biotene PBF Oral Rinse 33.8 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

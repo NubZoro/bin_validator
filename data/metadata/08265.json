@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001DHECXA": {
+            "asin": "B001DHECXA",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "TeckNet 2.4G Nano Wireless Mouse, 5 Buttons (M002)",
+            "normalizedName": "TeckNet 2.4G Nano Wireless Mouse, 5 Buttons (M002)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B002CN0THC": {
+            "asin": "B002CN0THC",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Mehron Fantasy FX Face Painting Makeup - Silver",
+            "normalizedName": "Mehron Fantasy FX Face Painting Makeup - Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B002V1EWDM": {
+            "asin": "B002V1EWDM",
+            "height": {
+                "unit": "IN",
+                "value": 2.199999997756
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452
+            },
+            "name": "Laptop/Notebook Battery for HP/Compaq Tablet PC tc4200 tc4400 Pavilion 4200",
+            "normalizedName": "Laptop/Notebook Battery for HP/Compaq Tablet PC tc4200 tc4400 Pavilion 4200",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B014JF55OM": {
+            "asin": "B014JF55OM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "X-NUCLEO-IDS01A5 for STM32 Nucleo Arduino based on SPSGRF-915 module Sub-1 GHz RF expansion Board @XYG-Study",
+            "normalizedName": "X-NUCLEO-IDS01A5 for STM32 Nucleo Arduino based on SPSGRF-915 module Sub-1 GHz RF expansion Board @XYG-Study",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

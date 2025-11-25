@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EQ03D4": {
+            "asin": "B000EQ03D4",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Food Science of Vermont Saw Palmetto 320 Mg Capsules, 90 Count",
+            "normalizedName": "Food Science of Vermont Saw Palmetto 320 Mg Capsules, 90 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00QEDNQIK": {
+            "asin": "B00QEDNQIK",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Smoothing Shampoo and Conditioner Set, Best Curly Hair Products for Sleek, Moisturizing Hair - Color Safe and Sulfate Free (8.4oz)",
+            "normalizedName": "Smoothing Shampoo and Conditioner Set, Best Curly Hair Products for Sleek, Moisturizing Hair - Color Safe and Sulfate Free (8.4oz)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01ABGSVGM": {
+            "asin": "B01ABGSVGM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Archeer Aluminum Muti-Angle Universal Phone and Tablet Stand for iPhone,iPad,Samsung Galaxy,HTC,Nexus and More(Silver)",
+            "normalizedName": "Archeer Aluminum Muti-Angle Universal Phone and Tablet Stand for iPhone,iPad,Samsung Galaxy,HTC,Nexus and More(Silver)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0803629516": {
+            "asin": "0803629516",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Davis's PA Exam Review: Focused Review for the PANCE and PANRE",
+            "normalizedName": "Davis's PA Exam Review: Focused Review for the PANCE and PANRE",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B01E5GJNO8": {
+            "asin": "B01E5GJNO8",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.299999982354
+            },
+            "name": "VDOMUS Microfiber Bathroom Rugs Set 2 Piece Shaggy Non Slip Bath Contour Mat Set Shower Rug, Beige",
+            "normalizedName": "VDOMUS Microfiber Bathroom Rugs Set 2 Piece Shaggy Non Slip Bath Contour Mat Set Shower Rug, Beige",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

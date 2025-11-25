@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M0FHEFM": {
+            "asin": "B00M0FHEFM",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "GOODLIFE Dry Food for Cats Chicken Recipe, 3.5 lbs. Bag",
+            "normalizedName": "GOODLIFE Dry Food for Cats Chicken Recipe, 3.5 lbs. Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.67
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B00MCNM98Y": {
+            "asin": "B00MCNM98Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Ever After High Over-the-Ear Headphones with Volume Control, Mi-M40EA.FX",
+            "normalizedName": "Ever After High Over-the-Ear Headphones with Volume Control, Mi-M40EA.FX",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B01E9IR538": {
+            "asin": "B01E9IR538",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "New Dell Latitude 3330 13.3\" LCD Front Trim Cover Bezel Plastic WITH Web Camera Window - PW61P",
+            "normalizedName": "New Dell Latitude 3330 13.3\" LCD Front Trim Cover Bezel Plastic WITH Web Camera Window - PW61P",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.449999990360999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

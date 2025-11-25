@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007VAR2F8": {
+            "asin": "B007VAR2F8",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "IMAX 83101 Moody Swirl Glass Bowl",
+            "normalizedName": "IMAX 83101 Moody Swirl Glass Bowl",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B009LQA5KY": {
+            "asin": "B009LQA5KY",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Simply Pine Natural Cat Litter, 7 lb",
+            "normalizedName": "Simply Pine Natural Cat Litter, 7 lb",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B017W1H6AG": {
+            "asin": "B017W1H6AG",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "Lipper International Wire Flatware Tray, 5 Compartments, Silver",
+            "normalizedName": "Lipper International Wire Flatware Tray, 5 Compartments, Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

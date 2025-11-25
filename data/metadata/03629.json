@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000XAGYUW": {
+            "asin": "B000XAGYUW",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "Batman Distressed Retro Vintage Tin Sign",
+            "normalizedName": "Batman Distressed Retro Vintage Tin Sign",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        },
+        "B0012YLTR6": {
+            "asin": "B0012YLTR6",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "APC P11VT3 3020 Joules Performance SurgeArrest 11 Outlet with Phone Splitter and Coax Protection, 120V",
+            "normalizedName": "APC P11VT3 3020 Joules Performance SurgeArrest 11 Outlet with Phone Splitter and Coax Protection, 120V",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00MVXCPUW": {
+            "asin": "B00MVXCPUW",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Texas Grill Covers 7553 Including Brush and Tongs - Select from a Wide Range of Premium Cover for Weber Gas Grills. (Genesis S)",
+            "normalizedName": "Texas Grill Covers 7553 Including Brush and Tongs - Select from a Wide Range of Premium Cover for Weber Gas Grills. (Genesis S)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        },
+        "B00UIO70YC": {
+            "asin": "B00UIO70YC",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "ACDelco 98035628 GM Original Equipment Accessory Drive Belt",
+            "normalizedName": "ACDelco 98035628 GM Original Equipment Accessory Drive Belt",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

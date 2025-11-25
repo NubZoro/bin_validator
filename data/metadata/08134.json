@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00RDZMVT8": {
+            "asin": "B00RDZMVT8",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "The Yards/ The Lookout - Double Feature [Blu-ray]",
+            "normalizedName": "The Yards/ The Lookout - Double Feature [Blu-ray]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18333454586339856
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B01AC3KMTI": {
+            "asin": "B01AC3KMTI",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "AMAZER Wine Aerator Pourer - Premium Aerating Pourer and Decanter Spout for Whiskey, Red Wine",
+            "normalizedName": "AMAZER Wine Aerator Pourer - Premium Aerating Pourer and Decanter Spout for Whiskey, Red Wine",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

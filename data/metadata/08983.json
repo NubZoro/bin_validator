@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005TFVEVU": {
+            "asin": "B005TFVEVU",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Delta Faucet 75502PB Universal Showering Components Five Spray Massage Hand Shower Unit, Polished Brass",
+            "normalizedName": "Delta Faucet 75502PB Universal Showering Components Five Spray Massage Hand Shower Unit, Polished Brass",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00TE9LPYI": {
+            "asin": "B00TE9LPYI",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "ACDelco 334-2754 Professional Alternator, Remanufactured",
+            "normalizedName": "ACDelco 334-2754 Professional Alternator, Remanufactured",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 13.199999988930603
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

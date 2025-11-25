@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013HSW50Y": {
+            "asin": "B013HSW50Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.3228346382
+            },
+            "name": "Jaybird X2 Wireless Sweat-Proof Micro-Sized Bluetooth Sport Headphones - Alpha",
+            "normalizedName": "Jaybird X2 Wireless Sweat-Proof Micro-Sized Bluetooth Sport Headphones - Alpha",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560420331426
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.1968503884
+            }
+        },
+        "B01FAC0SQI": {
+            "asin": "B01FAC0SQI",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Wireless Bluetooth Dualshock Vibration Remote PS3 Video Game Controller Built-In Rechargeable Battery Gamepads Joypad for Sony Playstation 3 - Blue",
+            "normalizedName": "Wireless Bluetooth Dualshock Vibration Remote PS3 Video Game Controller Built-In Rechargeable Battery Gamepads Joypad for Sony Playstation 3 - Blue",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

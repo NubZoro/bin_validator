@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000YJ2UPA": {
+            "asin": "B000YJ2UPA",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Maxtor 6L250R0 250GB UDMA/133 7200RPM 16MB IDE Hard Drive",
+            "normalizedName": "Maxtor 6L250R0 250GB UDMA/133 7200RPM 16MB IDE Hard Drive",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00MXOVBO0": {
+            "asin": "B00MXOVBO0",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Flonase Allergy Relief Nasal Spray, 120 Count",
+            "normalizedName": "Flonase Allergy Relief Nasal Spray, 120 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

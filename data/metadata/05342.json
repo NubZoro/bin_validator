@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1455554332": {
+            "asin": "1455554332",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "The Shadow Year",
+            "normalizedName": "The Shadow Year",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00GWR85YI": {
+            "asin": "B00GWR85YI",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "WhiteCoat Clipboard - Wine - Medical Edition",
+            "normalizedName": "WhiteCoat Clipboard - Wine - Medical Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01E7S1WHU": {
+            "asin": "B01E7S1WHU",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "CoastLine Silicone Mini Collapsible Fruit & Vegetable Strainer | Colander Collapses to 3/4\" to Save Space | Kitchen Sink Strainer 3 Cup Capacity | CoastLine Lifetime Warranty \u2013 No Risk!",
+            "normalizedName": "CoastLine Silicone Mini Collapsible Fruit & Vegetable Strainer | Colander Collapses to 3/4\" to Save Space | Kitchen Sink Strainer 3 Cup Capacity | CoastLine Lifetime Warranty \u2013 No Risk!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064933
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993777999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

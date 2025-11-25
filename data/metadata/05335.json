@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1560259809": {
+            "asin": "1560259809",
+            "height": {
+                "unit": "IN",
+                "value": 1.59842519522
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.09842518757
+            },
+            "name": "Challenger Revealed: An Insider's Account of How the Reagan Administration Caused the Greatest Tragedy of the Space Age",
+            "normalizedName": "Challenger Revealed: An Insider's Account of How the Reagan Administration Caused the Greatest Tragedy of the Space Age",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8500311177992
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.20078739525
+            }
+        },
+        "B010UGUU30": {
+            "asin": "B010UGUU30",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Loaded Longboard Freeride Slide Gloves Version 7.0 With Pucks Size Small",
+            "normalizedName": "Loaded Longboard Freeride Slide Gloves Version 7.0 With Pucks Size Small",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

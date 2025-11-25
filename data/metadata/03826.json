@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DQU9QYC": {
+            "asin": "B00DQU9QYC",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Crayola Fine Line Fabric Markers, 10 Count",
+            "normalizedName": "Crayola Fine Line Fabric Markers, 10 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00MXHNCKS": {
+            "asin": "B00MXHNCKS",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Pur Minerals Soul Mattes 8 Ultimate Matte Eye Shadow Companions, 0.4 Ounce",
+            "normalizedName": "Pur Minerals Soul Mattes 8 Ultimate Matte Eye Shadow Companions, 0.4 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B014120X04": {
+            "asin": "B014120X04",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Metal Portable Bluetooth Speakers,Mini Stereo Wireless 3W TF/Micro SD Card Slot,3.5mm Aux Jack,Microphone,Good Bass,for iPhone iPad iPod Galaxy Phone MP3 MP4 Video Players Computer,GLCON GS-M7 Black",
+            "normalizedName": "Metal Portable Bluetooth Speakers,Mini Stereo Wireless 3W TF/Micro SD Card Slot,3.5mm Aux Jack,Microphone,Good Bass,for iPhone iPad iPod Galaxy Phone MP3 MP4 Video Players Computer,GLCON GS-M7 Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

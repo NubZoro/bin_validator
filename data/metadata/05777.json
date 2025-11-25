@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00S5N1IPK": {
+            "asin": "B00S5N1IPK",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Bunny Corkscrew with Foil Cutter and Extra Spiral",
+            "normalizedName": "Bunny Corkscrew with Foil Cutter and Extra Spiral",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B01FFH3TCI": {
+            "asin": "B01FFH3TCI",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Essential Oil Ultrasonic Diffuser for Aromatherapy, 3.4 fl. oz. Portable Diffuser and Cool Mist Personal Humidifier, Whisper Quiet with Energy Saving LED Lights by Namastra",
+            "normalizedName": "Essential Oil Ultrasonic Diffuser for Aromatherapy, 3.4 fl. oz. Portable Diffuser and Cool Mist Personal Humidifier, Whisper Quiet with Energy Saving LED Lights by Namastra",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01FXG2W42": {
+            "asin": "B01FXG2W42",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Galaxy Note5 Case,Feitenn Waterproof Rainproof Heavy Duty Aluminum Metal Case with Gorilla Glass Shockproof Bumper+silicon Rubber Outdoor sport case for Note 5 N920 (Black/Sliver)",
+            "normalizedName": "Galaxy Note5 Case,Feitenn Waterproof Rainproof Heavy Duty Aluminum Metal Case with Gorilla Glass Shockproof Bumper+silicon Rubber Outdoor sport case for Note 5 N920 (Black/Sliver)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EMHUL10": {
+            "asin": "B00EMHUL10",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Pennzoil 550036541-6PK Platinum 0W-20 Full Synthetic Motor Oil - 1 Quart, (Pack of 6)",
+            "normalizedName": "(Pack of 6) Pennzoil 550036541-6PK Platinum 0W-20 Full Synthetic Motor Oil - 1 Quart,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B00TGNOP44": {
+            "asin": "B00TGNOP44",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "SONGMICS Breathable Outdoor Camping Hammock Indoor Hanging Swing Bed Heavy Duty Striped UGDC210",
+            "normalizedName": "SONGMICS Breathable Outdoor Camping Hammock Indoor Hanging Swing Bed Heavy Duty Striped UGDC210",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001KN959I": {
+            "asin": "B001KN959I",
+            "height": {
+                "unit": "IN",
+                "value": 4.0157480274
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "Tetra 26332 Whisper EX Carbon Filter Cartridges, Large, 4-Pack",
+            "normalizedName": "4-Pack Tetra 26332 Whisper EX Carbon Filter Cartridges, Large,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280210165713
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B003QL370U": {
+            "asin": "B003QL370U",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Electrified BP96-00826A / BP96-00608A / BP96-00837A Replacement Lamp with Housing for Samsung TVs",
+            "normalizedName": "Electrified BP96-00826A / BP96-00608A / BP96-00837A Replacement Lamp with Housing for Samsung TVs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

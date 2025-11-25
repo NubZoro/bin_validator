@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00024CRC8": {
+            "asin": "B00024CRC8",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "NATURE'S WAY Choline 500mg 100 Tablets",
+            "normalizedName": "NATURE'S WAY Choline 500mg 100 Tablets",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B003PGJLRO": {
+            "asin": "B003PGJLRO",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Nature Made Iron 65mg, 180 Tablets",
+            "normalizedName": "Nature Made Iron 65mg, 180 Tablets",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999846890521762
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B011VT9OQY": {
+            "asin": "B011VT9OQY",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Bluetooth Headphones, MARSEE Bluetooth 4.1 High Fidelity Wireless Over-Ear Headphones for Smart Phones & Tablets(Gold)",
+            "normalizedName": "Bluetooth Headphones, MARSEE Bluetooth 4.1 High Fidelity Wireless Over-Ear Headphones for Smart Phones & Tablets(Gold)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B017NWX5VS": {
+            "asin": "B017NWX5VS",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Paragon NTFS for Mac 14 (English, German, French, Spanish, Italian)",
+            "normalizedName": "Paragon NTFS for Mac 14 (English, German, French, Spanish, Italian)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

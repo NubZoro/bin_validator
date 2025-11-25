@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005U2KU": {
+            "asin": "B00005U2KU",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.29921259098
+            },
+            "name": "The Blue Planet - Seas of Life (Part 1)",
+            "normalizedName": "The Blue Planet - Seas of Life (Part 1)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2000033640864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.20078739627
+            }
+        },
+        "B00BIRR1TC": {
+            "asin": "B00BIRR1TC",
+            "height": {
+                "unit": "IN",
+                "value": 2.1653543285
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.2834645595
+            },
+            "name": "IK Multimedia iRig HD studio-quality guitar interface for iOS and Mac",
+            "normalizedName": "IK Multimedia iRig HD studio-quality guitar interface for iOS and Mac",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5291040284657967
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.4960629855
+            }
+        },
+        "B00XBYGE0M": {
+            "asin": "B00XBYGE0M",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "MLG 2-pack Car Emergency Escape Window Break Hammer Safety Seat Belt Cutter Tool, Safety Hammer, Escape Hammer",
+            "normalizedName": "MLG 2-pack Car Emergency Escape Window Break Hammer Safety Seat Belt Cutter Tool, Safety Hammer, Escape Hammer",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

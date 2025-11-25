@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000H3VC0W": {
+            "asin": "B000H3VC0W",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Nordic Naturals - Children's DHA, Healthy Cognitive Development and Immune Function, 90 Soft Gels",
+            "normalizedName": "Nordic Naturals - Children's DHA, Healthy Cognitive Development and Immune Function, 90 Soft Gels",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.199999997756
+            }
+        },
+        "B004GCTLUS": {
+            "asin": "B004GCTLUS",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Pond's Magic Powder Oil & Blemish Control Sweetie Pink 100g",
+            "normalizedName": "Pond's Magic Powder Oil & Blemish Control Sweetie Pink 100g",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

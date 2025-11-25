@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001ZLQIE": {
+            "asin": "B0001ZLQIE",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Broan 128 Wall Heater, 1000/2000 Watt 240 VAC, White Grille",
+            "normalizedName": "Broan 128 Wall Heater, 1000/2000 Watt 240 VAC, White Grille",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B000HHYZPC": {
+            "asin": "B000HHYZPC",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558
+            },
+            "name": "DEWALT D28131 4-1/2-Inch/5-Inch High Performance Angle Grinder",
+            "normalizedName": "DEWALT D28131 4-1/2-Inch/5-Inch High Performance Angle Grinder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B0021WGKIG": {
+            "asin": "B0021WGKIG",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Kidoozie Six Pin Bowling Set",
+            "normalizedName": "Kidoozie Six Pin Bowling Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B007KA6P8E": {
+            "asin": "B007KA6P8E",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.299999983374
+            },
+            "name": "Rothco Tactical Cross Draw Vest - Multicam",
+            "normalizedName": "Rothco Tactical Cross Draw Vest - Multicam",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

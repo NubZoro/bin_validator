@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OLINB12": {
+            "asin": "B00OLINB12",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Goal Zero (21013) Switch 10 USB Recharger and Solar Panel  Multi-Tool Kit",
+            "normalizedName": "Goal Zero (21013) Switch 10 USB Recharger and Solar Panel  Multi-Tool Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00TY2HXE6": {
+            "asin": "B00TY2HXE6",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "GOAL ZERO 42020 Venture 30 Solar Recharging Kit",
+            "normalizedName": "GOAL ZERO 42020 Venture 30 Solar Recharging Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

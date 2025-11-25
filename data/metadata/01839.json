@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011EQN1XG": {
+            "asin": "B011EQN1XG",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Bath Bomb Gift Of 7, Bei Momenti Bath Bomb Fizzies, Bubble Bath Gift Set For Women, Men, Kids, Lush Flowers Vanilla Lavender Fizzy Bath Bombs, Relaxed Body, Soothing Skin Care Extra Large Bath Bombs",
+            "normalizedName": "Bath Bomb Gift Of 7, Bei Momenti Bath Bomb Fizzies, Bubble Bath Gift Set For Women, Men, Kids, Lush Flowers Vanilla Lavender Fizzy Bath Bombs, Relaxed Body, Soothing Skin Care Extra Large Bath Bombs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.749999997693876
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B015T7CT3E": {
+            "asin": "B015T7CT3E",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988167998
+            },
+            "name": "Giro Privateer R Shoe - Men's Dark Shadow/Flame 39",
+            "normalizedName": "Giro Privateer R Shoe - Men's Dark Shadow/Flame 39",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

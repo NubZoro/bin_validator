@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001C6FTNY": {
+            "asin": "B001C6FTNY",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Spinosi Italian Egg Pasta Tagliatelle",
+            "normalizedName": "Spinosi Italian Egg Pasta Tagliatelle",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.51
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

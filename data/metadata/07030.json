@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000059T1H": {
+            "asin": "B000059T1H",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Traffic (Remastered)",
+            "normalizedName": "Traffic (Remastered)",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17707528883839999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00BHWM1Q6": {
+            "asin": "B00BHWM1Q6",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Big Sur Reminiscence",
+            "normalizedName": "Big Sur Reminiscence",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770734815265533
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00I9BU5AM": {
+            "asin": "B00I9BU5AM",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Dead End",
+            "normalizedName": "Dead End",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770734815265533
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00JWUNO2A": {
+            "asin": "B00JWUNO2A",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Meditations Sur Le Mystere De La Sainte Trinite",
+            "normalizedName": "Meditations Sur Le Mystere De La Sainte Trinite",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770734815265533
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00N9DL9SW": {
+            "asin": "B00N9DL9SW",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Andre Lorent Cellulite Cream - Breakthrough Cellulite Treatment Visibly Reduces Dimples & Uneven Bumps. Contains Proven Anti Cellulite Ingredients: Retinol, Caffeine, Shea Butter & Sunflower Seed Oil",
+            "normalizedName": "Andre Lorent Cellulite Cream - Breakthrough Cellulite Treatment Visibly Reduces Dimples & Uneven Bumps. Contains Proven Anti Cellulite Ingredients: Retinol, Caffeine, Shea Butter & Sunflower Seed Oil",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000UZL0YU": {
+            "asin": "B000UZL0YU",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.6141732216
+            },
+            "name": "SanDisk 8GB SDHC Memory Card (RETAIL PACKAGE)",
+            "normalizedName": "SanDisk 8GB SDHC Memory Card (RETAIL PACKAGE)",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.2755905458
+            }
+        },
+        "B00IWY8ULW": {
+            "asin": "B00IWY8ULW",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "May Arts Ivory Print Ribbon, 0.75-Inch by 30-Yard, Handmade with Love",
+            "normalizedName": "May Arts Ivory Print Ribbon, 0.75-Inch by 30-Yard, Handmade with Love",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00SI1F8XM": {
+            "asin": "B00SI1F8XM",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "White Cat Coffee Milk Ceramic Mug Cup by OliaDesign\u00ae",
+            "normalizedName": "White Cat Coffee Milk Ceramic Mug Cup by OliaDesign\u00ae",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01DWRJOW2": {
+            "asin": "B01DWRJOW2",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "name": "Rogue Gardens Tesla Herb Grinder (Envy (Green))",
+            "normalizedName": "Rogue Gardens Tesla Herb Grinder (Envy (Green))",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005LE77": {
+            "asin": "B00005LE77",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.7480314902
+            },
+            "name": "Nikon AF FX Micro-NIKKOR 60mm f/2.8D Fixed Zoom Lens with Auto Focus for Nikon DSLR Cameras",
+            "normalizedName": "Nikon AF FX Micro-NIKKOR 60mm f/2.8D Fixed Zoom Lens with Auto Focus for Nikon DSLR Cameras",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        },
+        "B000GG0NT6": {
+            "asin": "B000GG0NT6",
+            "height": {
+                "unit": "IN",
+                "value": 4.330708657
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.9685039248
+            },
+            "name": "American Crew Daily Moisturizing Shampoo 33.8 oz, Package May Vary",
+            "normalizedName": "American Crew Daily Moisturizing Shampoo 33.8 oz, Package May Vary",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3368761237642537
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.7480314902
+            }
+        },
+        "B00IAVDOS6": {
+            "asin": "B00IAVDOS6",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Xbox One Stereo Headset Adapter",
+            "normalizedName": "Xbox One Stereo Headset Adapter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

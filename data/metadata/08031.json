@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001H3KG6W": {
+            "asin": "B001H3KG6W",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "StarTech.com 2 Port Native PCI Express RS232 Serial Adapter Card with 16950 UART (PEX2S952)",
+            "normalizedName": "StarTech.com 2 Port Native PCI Express RS232 Serial Adapter Card with 16950 UART (PEX2S952)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.31
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5905511754
+            }
+        },
+        "B0033URHK0": {
+            "asin": "B0033URHK0",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "ADVANTUS 5 x 8 Index Card Holder, 300 Card Capacity, Black (45003)",
+            "normalizedName": "ADVANTUS 5 x 8 Index Card Holder, 300 Card Capacity, Black (45003)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00E4LGVUO": {
+            "asin": "B00E4LGVUO",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Panasonic ErgoFit Best in Class In-Ear Earbuds Headphones with Mic/Controller RP-TCM125-K (Black) iPhone, Android Compatible",
+            "normalizedName": "Panasonic ErgoFit Best in Class In-Ear Earbuds Headphones with Mic/Controller RP-TCM125-K (Black) iPhone, Android Compatible",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B0186FPIFM": {
+            "asin": "B0186FPIFM",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Tech 21 Classic Shell Wallet for Iphone 6 - Black",
+            "normalizedName": "Tech 21 Classic Shell Wallet for Iphone 6 - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.039999999966456375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

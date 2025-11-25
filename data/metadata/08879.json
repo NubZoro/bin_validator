@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0786965606": {
+            "asin": "0786965606",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Player's Handbook (Dungeons & Dragons)",
+            "normalizedName": "Player's Handbook (Dungeons & Dragons)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.249999998113171
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00NE1UKZW": {
+            "asin": "B00NE1UKZW",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Protein Shaker Bottle-Superior Cyclone Cup Patented Mixing Technology",
+            "normalizedName": "Protein Shaker Bottle-Superior Cyclone Cup Patented Mixing Technology",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00P9OFPRK": {
+            "asin": "B00P9OFPRK",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Enzymedica - Enzyme Defense, Complete Immune System Support, 120 Capsules (FFP)",
+            "normalizedName": "Enzymedica - Enzyme Defense, Complete Immune System Support, 120 Capsules (FFP)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00WXJ9OYO": {
+            "asin": "B00WXJ9OYO",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Expressions Vinyl - 12\"x12\" 5-pack of Siser Easyweed T-shirt/Iron-on Heat Transfer Vinyl Sheets (Gold)",
+            "normalizedName": "Expressions Vinyl - 12\"x12\" 5-pack of Siser Easyweed T-shirt/Iron-on Heat Transfer Vinyl Sheets (Gold)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

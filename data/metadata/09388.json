@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000HPXG4U": {
+            "asin": "B000HPXG4U",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Chef's Planet 5-Ounce Glass Cruet",
+            "normalizedName": "Chef's Planet 5-Ounce Glass Cruet",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

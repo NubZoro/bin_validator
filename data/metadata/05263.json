@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TT8161Q": {
+            "asin": "B00TT8161Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Aloha Kendamas Mini Kendama Glossy Red",
+            "normalizedName": "Aloha Kendamas Mini Kendama Glossy Red",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

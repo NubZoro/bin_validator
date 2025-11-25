@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "039397572X": {
+            "asin": "039397572X",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0787401472
+            },
+            "name": "The Study of Orchestration (Third Edition)",
+            "normalizedName": "The Study of Orchestration (Third Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.395084182655529
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.086614166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

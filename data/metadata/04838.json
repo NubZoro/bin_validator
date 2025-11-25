@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PYXSTTM": {
+            "asin": "B00PYXSTTM",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Motorola MH230R Rechargeable Two Way Radio 4 Pack",
+            "normalizedName": "4 Pack Motorola MH230R Rechargeable Two Way Radio",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B01CSH5MYQ": {
+            "asin": "B01CSH5MYQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "Anne Klein A Stitch In Time Dome Satchel LG Bag, Cloud/Bone, One Size",
+            "normalizedName": "Anne Klein A Stitch In Time Dome Satchel LG Bag, Cloud/Bone, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

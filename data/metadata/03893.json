@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000SAT0J4": {
+            "asin": "B000SAT0J4",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Food Science of Vermont, Liquid DMG, 300 mg, 2 Fluid Ounces (60 ml)",
+            "normalizedName": "Food Science of Vermont, Liquid DMG, 300 mg, 2 Fluid Ounces (60 ml)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00VBNQDUG": {
+            "asin": "B00VBNQDUG",
+            "height": {
+                "unit": "IN",
+                "value": 0.0787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.3149606245
+            },
+            "name": "Lexar Professional 633x 16GB SDHC UHS-I/U1 Card (Up to 95MB/s Read) w/Image Rescue 5 Software LSD16GCBNL6332 - 2 Pack",
+            "normalizedName": "2 Pack Lexar Professional 633x 16GB SDHC UHS-I/U1 Card (Up to 95MB/s Read) w/Image Rescue 5 Software LSD16GCBNL6332 -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.11023000593037433
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0551181061
+            }
+        },
+        "B014FD7Y2O": {
+            "asin": "B014FD7Y2O",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Travelambo RFID Blocking Genuine Leather Passport Holder Wallet Cover Case for Travel Men and Women in Color Black",
+            "normalizedName": "Travelambo RFID Blocking Genuine Leather Passport Holder Wallet Cover Case for Travel Men and Women in Color Black",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

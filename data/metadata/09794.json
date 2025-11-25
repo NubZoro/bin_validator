@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0042KULCG": {
+            "asin": "B0042KULCG",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Renew Life Ultimate Flora Women's Vaginal Probiotic 50 Billion, 60 Count",
+            "normalizedName": "Renew Life Ultimate Flora Women's Vaginal Probiotic 50 Billion, 60 Count",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B004R48UB6": {
+            "asin": "B004R48UB6",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.354330693
+            },
+            "name": "Meri Meri Big Rig 9-Inch Large Square Plates, 12-Pack",
+            "normalizedName": "12-Pack Meri Meri Big Rig 9-Inch Large Square Plates,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9259320490386663
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.1338582584
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

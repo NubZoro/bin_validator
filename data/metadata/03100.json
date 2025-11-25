@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1442374268": {
+            "asin": "1442374268",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Agenda 21: Into the Shadows",
+            "normalizedName": "Agenda 21: Into the Shadows",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B0068FM72A": {
+            "asin": "B0068FM72A",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7165354252
+            },
+            "name": "Kikkerland Safari Animal Butt Magnets, Set of 6 (MG23)",
+            "normalizedName": "Set of 6 Kikkerland Safari Animal Butt Magnets, (MG23)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001186074865
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8031496014
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

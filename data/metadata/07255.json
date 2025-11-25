@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FECEP0": {
+            "asin": "B000FECEP0",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822
+            },
+            "name": "Wave Sole Jungle Boots (Size 13 - Black)",
+            "normalizedName": "Wave Sole Jungle Boots (Size 13 - Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988576
+            }
+        },
+        "B005J37SZI": {
+            "asin": "B005J37SZI",
+            "height": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Serta 233-Thread Count Waterproof Low-Voltage Electric Heated King Mattress Pad, White",
+            "normalizedName": "Serta 233-Thread Count Waterproof Low-Voltage Electric Heated King Mattress Pad, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002E688L6": {
+            "asin": "B002E688L6",
+            "height": {
+                "unit": "IN",
+                "value": 1.8110236202
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.9291338512
+            },
+            "name": "Ray-Ban 0rb3025 Polarized Aviator Sunglasses, Gold, 62 mm",
+            "normalizedName": "Ray-Ban 0rb3025 Polarized Aviator Sunglasses, Gold, 62 mm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001186074865
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.8346456664
+            }
+        },
+        "B00V4PEENY": {
+            "asin": "B00V4PEENY",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Tree-Free Greetings 78214 Dean Russo Spectral Sugar Skull Sip 'N Go Stainless Lined Travel Mug, 16-Ounce",
+            "normalizedName": "Tree-Free Greetings 78214 Dean Russo Spectral Sugar Skull Sip 'N Go Stainless Lined Travel Mug, 16-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

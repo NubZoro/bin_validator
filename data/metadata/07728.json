@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0018S4XIS": {
+            "asin": "B0018S4XIS",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Rayovac SE3DLNACOM Sportsman 240 Lumen 3D LED Lantern, Green",
+            "normalizedName": "Rayovac SE3DLNACOM Sportsman 240 Lumen 3D LED Lantern, Green",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00UVCHWDK": {
+            "asin": "B00UVCHWDK",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Wish You Well",
+            "normalizedName": "Wish You Well",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18333454586339856
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

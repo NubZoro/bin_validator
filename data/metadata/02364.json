@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0314044523": {
+            "asin": "0314044523",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Organization Theory and Design",
+            "normalizedName": "Organization Theory and Design",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "0735685355": {
+            "asin": "0735685355",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition) (Developer Reference)",
+            "normalizedName": "Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition) (Developer Reference)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.506182094929928
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "0786704551": {
+            "asin": "0786704551",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514
+            },
+            "name": "Black Genius: And the American Experience",
+            "normalizedName": "Black Genius: And the American Experience",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "096408497X": {
+            "asin": "096408497X",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "The Complete Guide to High-End Audio",
+            "normalizedName": "The Complete Guide to High-End Audio",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

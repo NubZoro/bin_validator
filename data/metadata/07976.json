@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KCJQZVW": {
+            "asin": "B00KCJQZVW",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "vitaminwater zero variety pack, 20 fl oz (Pack of 12)",
+            "normalizedName": "(Pack of 12) vitaminwater zero variety pack, 20 fl oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 17.0999999856601
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

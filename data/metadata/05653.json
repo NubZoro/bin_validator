@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HYLZ616": {
+            "asin": "B00HYLZ616",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "The Hillman Group 2534 1/2-13-Inch Stainless Steel Hex Nut, 6-Pack",
+            "normalizedName": "6-Pack The Hillman Group 2534 1/2-13-Inch Stainless Steel Hex Nut,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00IPJVYQM": {
+            "asin": "B00IPJVYQM",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Flip Pillow Accessory Cover (Standard, Green)",
+            "normalizedName": "Flip Pillow Accessory Cover (Standard, Green)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00L08GA4Q": {
+            "asin": "B00L08GA4Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "JBtek HC-06 Bluetooth to UART Converter COM Serial Communication Slave Mode",
+            "normalizedName": "JBtek HC-06 Bluetooth to UART Converter COM Serial Communication Slave Mode",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440163462221
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00WH1R8W8": {
+            "asin": "B00WH1R8W8",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Funny Guy Mugs World's Okayest Golfer Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs World's Okayest Golfer Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

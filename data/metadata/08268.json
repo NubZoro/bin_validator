@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002L5R78": {
+            "asin": "B0002L5R78",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "DVI Gear HDMI-2M 2M/6' HDMI Cable",
+            "normalizedName": "DVI Gear HDMI-2M 2M/6' HDMI Cable",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00OXC2O9G": {
+            "asin": "B00OXC2O9G",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Crazy Cups Apple A La Mode Flavored Coffee Single Serve cups for Keurig K-cup Brewer 22 count",
+            "normalizedName": "Crazy Cups Apple A La Mode Flavored Coffee Single Serve cups for Keurig K-cup Brewer 22 count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B0128S67YO": {
+            "asin": "B0128S67YO",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Cat7 Snagless Shielded (Sstp/sftp) Ethernet Patch Cable in Yellow 3 feet",
+            "normalizedName": "Cat7 Snagless Shielded (Sstp/sftp) Ethernet Patch Cable in Yellow 3 feet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01CJH1ZBO": {
+            "asin": "B01CJH1ZBO",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "MiniMax - Power Through Every Battery Shortage with this Convenient Portable Charger, Portable Jump Starter",
+            "normalizedName": "MiniMax - Power Through Every Battery Shortage with this Convenient Portable Charger, Portable Jump Starter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

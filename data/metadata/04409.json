@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VKEDUW": {
+            "asin": "B000VKEDUW",
+            "height": {
+                "unit": "IN",
+                "value": 2.755905509
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299212592
+            },
+            "name": "Polyguard Over Laminating Roll",
+            "normalizedName": "Polyguard Over Laminating Roll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.53
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B00WHXQIJA": {
+            "asin": "B00WHXQIJA",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "KINGLAKE\u00ae Natural Jute Twine 300 Feet Best Arts Crafts Gift Twine Christmas Twine Industrial Packing Materials Durable String for Gardening Applications",
+            "normalizedName": "KINGLAKE\u00ae Natural Jute Twine 300 Feet Best Arts Crafts Gift Twine Christmas Twine Industrial Packing Materials Durable String for Gardening Applications",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

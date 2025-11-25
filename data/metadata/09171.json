@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0106RDIN2": {
+            "asin": "B0106RDIN2",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "EVGA SuperNOVA 650 G2 80 Plus Gold Rated, Fully Modular ATX 12V/EPS 12V ECO Mode Power Supply 220-G2-0650-Y1",
+            "normalizedName": "EVGA SuperNOVA 650 G2 80 Plus Gold Rated, Fully Modular ATX 12V/EPS 12V ECO Mode Power Supply 220-G2-0650-Y1",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.549999994507231
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B013OHOD9O": {
+            "asin": "B013OHOD9O",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.599999983068
+            },
+            "name": "WolVol Baby Piano Activity Center with Beautiful Light Shows and Various Music Tunes, Hanging in the Crib",
+            "normalizedName": "WolVol Baby Piano Activity Center with Beautiful Light Shows and Various Music Tunes, Hanging in the Crib",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

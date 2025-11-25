@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002P5NBR2": {
+            "asin": "B002P5NBR2",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Honeywell MS7120 Orbit Barcode Reader with USB",
+            "normalizedName": "Honeywell MS7120 Orbit Barcode Reader with USB",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

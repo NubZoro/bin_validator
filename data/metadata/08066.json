@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00000DMFM": {
+            "asin": "B00000DMFM",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.799999983884002
+            },
+            "name": "Operation Game (Classic Version)",
+            "normalizedName": "Operation Game (Classic Version)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B00GSPFDV2": {
+            "asin": "B00GSPFDV2",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "LEGO Movie 70808 Super Cycle Chase",
+            "normalizedName": "LEGO Movie 70808 Super Cycle Chase",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B00V4584GW": {
+            "asin": "B00V4584GW",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.5433070728
+            },
+            "name": "Neewer 21-in-1 Sport Accessory Kit for GoPro Hero4 Session Hero1 2 3 3+ 4 SJ4000 5000 6000 7000 Xiaomi Yi in Swimming Rowing Skiing Climbing Bike Riding Camping Diving and Other Outdoor Sports",
+            "normalizedName": "Neewer 21-in-1 Sport Accessory Kit for GoPro Hero4 Session Hero1 2 3 3+ 4 SJ4000 5000 6000 7000 Xiaomi Yi in Swimming Rowing Skiing Climbing Bike Riding Camping Diving and Other Outdoor Sports",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.8219169536
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.6062992028
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

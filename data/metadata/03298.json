@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015PRWP4G": {
+            "asin": "B015PRWP4G",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Star Wars Silver Buffalo SE0732 Disney Star Wars Ep7 BB-8 Orange Ceramic Mug, 14 oz, Multicolor",
+            "normalizedName": "Star Wars Silver Buffalo SE0732 Disney Star Wars Ep7 BB-8 Orange Ceramic Mug, 14 oz, Multicolor",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

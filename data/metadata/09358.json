@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004RCSTJ6": {
+            "asin": "B004RCSTJ6",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "21st Century 600 mg Calcium Supplement, 75 Count",
+            "normalizedName": "21st Century 600 mg Calcium Supplement, 75 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            }
+        },
+        "B0055WA1SE": {
+            "asin": "B0055WA1SE",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "name": "Zippo Lighter Pouch with Clip, Brown",
+            "normalizedName": "Zippo Lighter Pouch with Clip, Brown",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5196850368
+            }
+        },
+        "B00VN0P4NO": {
+            "asin": "B00VN0P4NO",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Lakanto Monkfruit Sweetener, 30 Stick Packs - Classic",
+            "normalizedName": "Lakanto Monkfruit Sweetener, 30 Stick Packs - Classic",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B017N4RIFK": {
+            "asin": "B017N4RIFK",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "1.25 Inch 5x Fully Blackened Metal Barlow Lens / T Adapter for Telescopes - Accept 1.25inch Filters-also Can Be Used for Astronomical Photography - Coated",
+            "normalizedName": "1.25 Inch 5x Fully Blackened Metal Barlow Lens / T Adapter for Telescopes - Accept 1.25inch Filters-also Can Be Used for Astronomical Photography - Coated",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

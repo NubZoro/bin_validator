@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00113HNB4": {
+            "asin": "B00113HNB4",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Cetaphil Moisturizing Cream for Dry, Sensitive Skin, 16 Ounce",
+            "normalizedName": "Cetaphil Moisturizing Cream for Dry, Sensitive Skin, 16 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00HV2T308": {
+            "asin": "B00HV2T308",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "LifeProof N\u00dc\u00dcD Samsung Galaxy S4 Waterproof Case - Retail Packaging - CYAN/BLACK (Discontinued by Manufacturer)",
+            "normalizedName": "LifeProof N\u00dc\u00dcD Samsung Galaxy S4 Waterproof Case - Retail Packaging - CYAN/BLACK (Discontinued by Manufacturer)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B018MMKTX0": {
+            "asin": "B018MMKTX0",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Mestool 66-AP Gold 6-inch 6-hole 180 Grit Dustless Hook&loop Discs 100-pack (180)",
+            "normalizedName": "Mestool 66-AP Gold 6-inch 6-hole 180 Grit Dustless Hook&loop Discs 100-pack (180)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

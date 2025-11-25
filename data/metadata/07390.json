@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004DGOMI8": {
+            "asin": "B004DGOMI8",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Nyx Makeup Set Soho Glam Collection #S116",
+            "normalizedName": "Nyx Makeup Set Soho Glam Collection #S116",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00EF4U7AK": {
+            "asin": "B00EF4U7AK",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Keeping Up Appearances: Collector's Edition",
+            "normalizedName": "Keeping Up Appearances: Collector's Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00J58RDQM": {
+            "asin": "B00J58RDQM",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "iPad mini 3 2 1 Case - Ruban 360 Degree Rotating Stand Case Cover with Auto Sleep / Wake Feature for Apple iPad mini 3 / mini 2 / mini 1 - Navy Blue",
+            "normalizedName": "iPad mini 3 2 1 Case - Ruban 360 Degree Rotating Stand Case Cover with Auto Sleep / Wake Feature for Apple iPad mini 3 / mini 2 / mini 1 - Navy Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00S00MQZY": {
+            "asin": "B00S00MQZY",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Lean Body for Her, Delicious Soft Vanilla Ice Cream",
+            "normalizedName": "Lean Body for Her, Delicious Soft Vanilla Ice Cream",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FF17IO0": {
+            "asin": "B00FF17IO0",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.5748031378
+            },
+            "name": "MIRA Digital Kitchen Scale, Tempered Glass, Large Display, Touch Buttons, Black",
+            "normalizedName": "MIRA Digital Kitchen Scale, Tempered Glass, Large Display, Touch Buttons, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.4015747956
+            }
+        },
+        "B00UK7RTBG": {
+            "asin": "B00UK7RTBG",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "ATC 6 Cells 5600mAh/5.6Ah High Capacity Battery Replace for Apple MacBook 13 Inch A-1185 MA-561 Battery white",
+            "normalizedName": "ATC 6 Cells 5600mAh/5.6Ah High Capacity Battery Replace for Apple MacBook 13 Inch A-1185 MA-561 Battery white",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

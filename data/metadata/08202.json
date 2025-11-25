@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LGNNYJ4": {
+            "asin": "B00LGNNYJ4",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Clearsnap ColorBox Souvenir Stamps, Earthwise",
+            "normalizedName": "Clearsnap ColorBox Souvenir Stamps, Earthwise",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B014QTEDRQ": {
+            "asin": "B014QTEDRQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Nexus 5X Case, Cruzerlite Bugdroid Circuit Case Compatible for LG Nexus 5X - Green",
+            "normalizedName": "Nexus 5X Case, Cruzerlite Bugdroid Circuit Case Compatible for LG Nexus 5X - Green",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

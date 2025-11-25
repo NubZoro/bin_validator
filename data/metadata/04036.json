@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0012KFVG0": {
+            "asin": "B0012KFVG0",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Set of 2 Wood Sandal Wall Hooks - New",
+            "normalizedName": "Set of 2  Wood Sandal Wall Hooks - New",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601897719786
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B001J0JHP4": {
+            "asin": "B001J0JHP4",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Sensodyne Toothpaste, Fresh Impact, 0.8 Ounce",
+            "normalizedName": "Sensodyne Toothpaste, Fresh Impact, 0.8 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.299999998674
+            }
+        },
+        "B0061BQEB6": {
+            "asin": "B0061BQEB6",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Visol Products Migo Leather Cigarette Pack Holder, Regular Size, Black",
+            "normalizedName": "Visol Products Migo Leather Cigarette Pack Holder, Regular Size, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00J2EQNRE": {
+            "asin": "B00J2EQNRE",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Rocky Mountain Oils - Frankincense, Sacred-5 ml",
+            "normalizedName": "Rocky Mountain Oils - Frankincense, Sacred-5 ml",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

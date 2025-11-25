@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01BP3REVI": {
+            "asin": "B01BP3REVI",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Barbie Spy Squad Doll and Cat Burglar Motorcycle",
+            "normalizedName": "Barbie Spy Squad Doll and Cat Burglar Motorcycle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00897MSE2": {
+            "asin": "B00897MSE2",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "TRW TPC0978 Premium Ceramic Rear Disc Brake Pad Set",
+            "normalizedName": "TRW TPC0978 Premium Ceramic Rear Disc Brake Pad Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00NJ518ZO": {
+            "asin": "B00NJ518ZO",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "NuGO Fiber d'Lish Coconut Macaroon, 16 Count",
+            "normalizedName": "NuGO Fiber d'Lish Coconut Macaroon, 16 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

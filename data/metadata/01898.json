@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009T6EA2": {
+            "asin": "B0009T6EA2",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "CURT 40004 2 In. Diameter Chrome Trailer Ball",
+            "normalizedName": "CURT 40004 2 In. Diameter Chrome Trailer Ball",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4549999979412602
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B000NO72TA": {
+            "asin": "B000NO72TA",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.699999996226
+            },
+            "name": "Bittersweet Paprika Tin 2.64 ounce",
+            "normalizedName": "Bittersweet Paprika Tin 2.64 ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B004ZHA1HQ": {
+            "asin": "B004ZHA1HQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Blackhawk Sportster Gun Holster, 7, (3 3/4\" - 4/1/2\" Barrel Large Autos (73NH07))",
+            "normalizedName": "Blackhawk Sportster Gun Holster, 7, (3 3/4\" - 4/1/2\" Barrel Large Autos (73NH07))",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B00949EQOO": {
+            "asin": "B00949EQOO",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Paula's Choice Resist Skin Revealing Body Lotion 10% AHA with Glycolic Acid and Antioxidants - 7 oz",
+            "normalizedName": "Paula's Choice Resist Skin Revealing Body Lotion 10% AHA with Glycolic Acid and Antioxidants - 7 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.51
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

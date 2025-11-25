@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001BCQSPM": {
+            "asin": "B001BCQSPM",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024
+            },
+            "name": "If You Give a Moose a Muffin",
+            "normalizedName": "If You Give a Moose a Muffin",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B00JVN3YEQ": {
+            "asin": "B00JVN3YEQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Duck Legs Salt & Pepper Shaker (Set of 2)",
+            "normalizedName": "(Set of 2) Duck Legs Salt & Pepper Shaker",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B01GDPOO1G": {
+            "asin": "B01GDPOO1G",
+            "height": {
+                "unit": "IN",
+                "value": 0.9842519675
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0708661335
+            },
+            "name": "Liomor Waist Trimmer Belt Weight Loss Belt Slimming Belt Ab Belt for Women & Men - One Size, 8\" wide x 41\" long",
+            "normalizedName": "Liomor Waist Trimmer Belt Weight Loss Belt Slimming Belt Ab Belt for Women & Men - One Size, 8\" wide x 41\" long",
+            "quantity": 3,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 7.2834645595
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

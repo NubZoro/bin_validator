@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000Y9V8PI": {
+            "asin": "B000Y9V8PI",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "Sitback Rest Deluxe - Black",
+            "normalizedName": "Sitback Rest Deluxe - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.799999986944
+            }
+        },
+        "B01AA2RKU0": {
+            "asin": "B01AA2RKU0",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.899999982761997
+            },
+            "name": "WolVol Kids Dual Electronic Microphones with Adjustable Stand and Volume, Melodies and Applause",
+            "normalizedName": "WolVol Kids Dual Electronic Microphones with Adjustable Stand and Volume, Melodies and Applause",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CA6XNFQ": {
+            "asin": "B00CA6XNFQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "Scarleton Large Satchel H106821 - Coffee",
+            "normalizedName": "Scarleton Large Satchel H106821 - Coffee",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00HZVU5MU": {
+            "asin": "B00HZVU5MU",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.599999984088
+            },
+            "name": "Scarleton Women's Vintage Tote Bag H124504 - Brown",
+            "normalizedName": "Scarleton Women's Vintage Tote Bag H124504 - Brown",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.099999986638
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

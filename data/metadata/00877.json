@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TDP7JI4": {
+            "asin": "B00TDP7JI4",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Nerf Rival 25-Round Refill Pack",
+            "normalizedName": "Nerf Rival 25-Round Refill Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00UCE9SYS": {
+            "asin": "B00UCE9SYS",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Domestic Corner - Geo Cube Silicone Ice Cube Maker and Tray - Creates 8 Jumbo Ice Cubes - Set of 2",
+            "normalizedName": "Set of 2 Domestic Corner - Geo Cube Silicone Ice Cube Maker and Tray - Creates 8 Jumbo Ice Cubes -",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

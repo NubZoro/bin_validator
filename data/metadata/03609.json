@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006FMKFDO": {
+            "asin": "B006FMKFDO",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Parker Frontier Translucent Blue Ball Point Pen & Mechanical Pencil Set",
+            "normalizedName": "Parker Frontier Translucent Blue Ball Point Pen & Mechanical Pencil Set",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00UYFWKOK": {
+            "asin": "B00UYFWKOK",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Liz Wig 2pcs Fashion Hair Wig Weaving Stretchable Net Mesh Fishnet Elastic snood cap - Brown",
+            "normalizedName": "Liz Wig 2pcs Fashion Hair Wig Weaving Stretchable Net Mesh Fishnet Elastic snood cap - Brown",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

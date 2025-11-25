@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000VYQIG": {
+            "asin": "B0000VYQIG",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Fat Daddio's Anodized Aluminum Square Cake Pan, 10 Inch x 10 Inch x 2 Inch",
+            "normalizedName": "Fat Daddio's Anodized Aluminum Square Cake Pan, 10 Inch x 10 Inch x 2 Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        },
+        "B000GBKEQS": {
+            "asin": "B000GBKEQS",
+            "height": {
+                "unit": "IN",
+                "value": 2.79921259557
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Pure Protein High Protein  Bar, Chewy Chocolate Chip, 2.75-Ounce Bar, 12-Count",
+            "normalizedName": "Pure Protein High Protein  Bar, Chewy Chocolate Chip, 2.75-Ounce Bar, 12-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1500361639288
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.09842518961
+            }
+        },
+        "B01C8ABKNA": {
+            "asin": "B01C8ABKNA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Mud Pie Plate and Party Hat Set, First Birthday Cake",
+            "normalizedName": "Mud Pie Plate and Party Hat Set, First Birthday Cake",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B01GEVBHV4": {
+            "asin": "B01GEVBHV4",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.75
+            },
+            "name": "mDesign Dandelion Fabric Shower Curtain - Long 72\" x 84\", Green",
+            "normalizedName": "mDesign Dandelion Fabric Shower Curtain - Long 72\" x 84\", Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.06
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007XH3PSW": {
+            "asin": "B007XH3PSW",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "glossy jumbo bag - royal blue",
+            "normalizedName": "glossy jumbo bag - royal blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B00RZSRKL2": {
+            "asin": "B00RZSRKL2",
+            "height": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.9448818786
+            },
+            "name": "TOMY Rocket Fountain Toy",
+            "normalizedName": "TOMY Rocket Fountain Toy",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054720379543957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.2204724346
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

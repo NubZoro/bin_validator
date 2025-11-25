@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003H3QHZO": {
+            "asin": "B003H3QHZO",
+            "height": {
+                "unit": "IN",
+                "value": 0.7
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.5
+            },
+            "name": "Bicycle Playing Cards Bicycle Poker Playing Cards - Guardian Edition (Pack Of 1)",
+            "normalizedName": "(Pack Of 1) Bicycle Playing Cards Bicycle Poker Playing Cards - Guardian Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.6
+            }
+        },
+        "B015ERTJT6": {
+            "asin": "B015ERTJT6",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Yahtzee 80 Score Cards",
+            "normalizedName": "Yahtzee 80 Score Cards",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

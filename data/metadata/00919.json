@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00066ISE8": {
+            "asin": "B00066ISE8",
+            "height": {
+                "unit": "IN",
+                "value": 6.4566929068
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.2755905356
+            },
+            "name": "HP 11X (Q6511X) Black High Yield Original LaserJet Toner Cartridge",
+            "normalizedName": "HP 11X (Q6511X) Black High Yield Original LaserJet Toner Cartridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.894212259204379
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.6771653414
+            }
+        },
+        "B018RUP3V0": {
+            "asin": "B018RUP3V0",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.399999983272
+            },
+            "name": "Bellotte Large Diaper Tote Satchel Bags With Shoulder Straps",
+            "normalizedName": "Bellotte Large Diaper Tote Satchel Bags With Shoulder Straps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0099999974758425
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

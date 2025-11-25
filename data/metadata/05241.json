@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "3791354256": {
+            "asin": "3791354256",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "700 Nimes Road",
+            "normalizedName": "700 Nimes Road",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.549999997023003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B00253T7R2": {
+            "asin": "B00253T7R2",
+            "height": {
+                "unit": "IN",
+                "value": 1.6535433054
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.7952755775
+            },
+            "name": "SwimWays Baby Spring Float Sun Canopy",
+            "normalizedName": "SwimWays Baby Spring Float Sun Canopy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6754960887366348
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.81102361
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

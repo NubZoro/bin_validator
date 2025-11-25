@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KSDSYHK": {
+            "asin": "B00KSDSYHK",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Butterfly Solar Hanging Garden Decor",
+            "normalizedName": "Butterfly Solar Hanging Garden Decor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B01CZUTXXC": {
+            "asin": "B01CZUTXXC",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614158771654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "CableCreation Ultra Slim RJ45 Cat6A Ethernet Patch Cable, 50U\u201d Gold Plated Contact &,UTP Network Cable Up to 10 Gigabit, Band Width:500MHZ, Low Profile Plug, 16ft/5m",
+            "normalizedName": "CableCreation Ultra Slim RJ45 Cat6A Ethernet Patch Cable, 50U\u201d Gold Plated Contact &,UTP Network Cable Up to 10 Gigabit, Band Width:500MHZ, Low Profile Plug, 16ft/5m",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01EA550LE": {
+            "asin": "B01EA550LE",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Homdox Knife Sharpener, 2 Stage Sharpening System for Knives, Diamond and Ceramics Coated, Black/Silver",
+            "normalizedName": "Homdox Knife Sharpener, 2 Stage Sharpening System for Knives, Diamond and Ceramics Coated, Black/Silver",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

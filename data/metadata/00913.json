@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01EUC7NAI": {
+            "asin": "B01EUC7NAI",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Samsung Galaxy Tab A 10.1 SM-T580NZWAXAR",
+            "normalizedName": "Samsung Galaxy Tab A 10.1 SM-T580NZWAXAR",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B01F2IKO64": {
+            "asin": "B01F2IKO64",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Bathtub Elbow Rest By Lebogner - Pure Cushion Comfort Elbow Guard For Baby Bathing With Storage Pockets, Protects Your Elbows at Kids Bath Time, Safety Easy Bath Foam Rest, Stop Bruising Your Elbows",
+            "normalizedName": "Bathtub Elbow Rest By Lebogner - Pure Cushion Comfort Elbow Guard For Baby Bathing With Storage Pockets, Protects Your Elbows at Kids Bath Time, Safety Easy Bath Foam Rest, Stop Bruising Your Elbows",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

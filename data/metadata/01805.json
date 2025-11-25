@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0090ZEV60": {
+            "asin": "B0090ZEV60",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Star Wars Han Solo in Carbonite Deluxe (DX) Silicone Ice Tray / Mold",
+            "normalizedName": "Star Wars Han Solo in Carbonite Deluxe (DX) Silicone Ice Tray / Mold",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B00M8VSKW4": {
+            "asin": "B00M8VSKW4",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Thai Kitchen Organic Coconut Milk, Premium, 13.66 Ounce (Pack of 6)",
+            "normalizedName": "(Pack of 6) Thai Kitchen Organic Coconut Milk, Premium, 13.66 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.5256163456058385
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

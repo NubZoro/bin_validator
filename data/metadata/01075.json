@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00J90CI98": {
+            "asin": "B00J90CI98",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Asobu Imperial Beverage Insulated Cup, Blue",
+            "normalizedName": "Asobu Imperial Beverage Insulated Cup, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B011LVAVEQ": {
+            "asin": "B011LVAVEQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "WD Black 6TB Performance Desktop Hard Disk Drive - 7200 RPM SATA 6 Gb/s 128MB Cache 3.5 Inch  - WD6001FZWX",
+            "normalizedName": "WD Black 6TB Performance Desktop Hard Disk Drive - 7200 RPM SATA 6 Gb/s 128MB Cache 3.5 Inch  - WD6001FZWX",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B019RIQND8": {
+            "asin": "B019RIQND8",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "PowEver ACK-E8 Replacement AC Power Adapter Supply Kit for Canon EOS Rebel T5i T4i T3i T2i Kiss X6 Kiss X5 Kiss X4 700D 650D 600D 550D",
+            "normalizedName": "PowEver ACK-E8 Replacement AC Power Adapter Supply Kit for Canon EOS Rebel T5i T4i T3i T2i Kiss X6 Kiss X5 Kiss X4 700D 650D 600D 550D",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B01CCC6ZOS": {
+            "asin": "B01CCC6ZOS",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Hilitchi 100pcs 22/18 18-14 12/10 Gauge Quick Splice Electrical Terminals Connector Assortment Set",
+            "normalizedName": "Hilitchi 100pcs 22/18 18-14 12/10 Gauge Quick Splice Electrical Terminals Connector Assortment Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

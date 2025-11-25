@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0131593188": {
+            "asin": "0131593188",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Discrete Mathematics, 7th Edition",
+            "normalizedName": "Discrete Mathematics, 7th Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991738
+            }
+        },
+        "B01E3QM34W": {
+            "asin": "B01E3QM34W",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Fujifilm Instax Mini Film Value Pack - 60 Images",
+            "normalizedName": "Fujifilm Instax Mini Film Value Pack - 60 Images",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

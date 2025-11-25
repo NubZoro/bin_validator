@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008AI4FE6": {
+            "asin": "B008AI4FE6",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Traditional Medicinals Organic Peppermint - 16 ct",
+            "normalizedName": "Traditional Medicinals Organic Peppermint - 16 ct",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00G0MP05W": {
+            "asin": "B00G0MP05W",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "iCarez HD Clear Premium Screen Protector for Apple iPad Mini, iPad Mini 2, iPad Mini 3 - Retail Packaging - (Pack of 2)",
+            "normalizedName": "(Pack of 2) iCarez HD Clear Premium Screen Protector for Apple iPad Mini, iPad Mini 2, iPad Mini 3 - Retail Packaging -",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00SX4026M": {
+            "asin": "B00SX4026M",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "PackIt Freezable Lunch Bag with Zip Closure, Gray Stripe",
+            "normalizedName": "PackIt Freezable Lunch Bag with Zip Closure, Gray Stripe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

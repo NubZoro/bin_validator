@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AQM76K4": {
+            "asin": "B00AQM76K4",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Lipton Soup Secrets Soup Mix, Noodle 4.5 oz (Pack of 12)",
+            "normalizedName": "(Pack of 12) Lipton Soup Secrets Soup Mix, Noodle 4.5 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B019CIE4D4": {
+            "asin": "B019CIE4D4",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Table Runner 14x108 Inches (IVORY) Ideal for Wedding, Baby Shower, Home, Restaurant, Party rental By Runner Linens Factory",
+            "normalizedName": "Table Runner 14x108 Inches (IVORY) Ideal for Wedding, Baby Shower, Home, Restaurant, Party rental By Runner Linens Factory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

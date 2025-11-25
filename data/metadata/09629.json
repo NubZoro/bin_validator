@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0743255380": {
+            "asin": "0743255380",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Simon and Schuster Super Crossword Puzzle Book #12: The Biggest and the Best (Simon & Schuster Super Crossword Books)",
+            "normalizedName": "Simon and Schuster Super Crossword Puzzle Book #12: The Biggest and the Best (Simon & Schuster Super Crossword Books)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B00AANQLRI": {
+            "asin": "B00AANQLRI",
+            "height": {
+                "unit": "IN",
+                "value": 1.6535433054
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "Jackery Giant+ Premium 12000 mAh Dual USB Portable Battery Charger & External Battery Pack with Panasonic Battery Cells and Aluminum Shell for iPhone, iPad, Galaxy, and Android Smart Devices (Orange)",
+            "normalizedName": "Jackery Giant+ Premium 12000 mAh Dual USB Portable Battery Charger & External Battery Pack with Panasonic Battery Cells and Aluminum Shell for iPhone, iPad, Galaxy, and Android Smart Devices (Orange)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0141160545594439
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9606299162
+            }
+        },
+        "B016DU2X0A": {
+            "asin": "B016DU2X0A",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Sanus Digital Optical Audio Toslink Cable - 3 feet - Perfect for a Soundbars and AV Receivers - SOA-OA3",
+            "normalizedName": "Sanus Digital Optical Audio Toslink Cable - 3 feet - Perfect for a Soundbars and AV Receivers - SOA-OA3",
+            "quantity": 22,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 24
+}

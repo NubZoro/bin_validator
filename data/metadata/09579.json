@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002TMK4SA": {
+            "asin": "B002TMK4SA",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "ADC ADSCOPE 603 Clinician Stethoscope with AFD Technology, 31 inch, Tactical",
+            "normalizedName": "ADC ADSCOPE 603 Clinician Stethoscope with AFD Technology, 31 inch, Tactical",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B018J461VK": {
+            "asin": "B018J461VK",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.799999983884002
+            },
+            "name": "Natural Color Burlap Bag with Drawstring Closure for Arts & Crafts Projects, Gift Packaging, Presents, Snacks & Jewelry (50 Pack) by Super Z Outlet\u00ae (4\" x 6\")",
+            "normalizedName": "(50 Pack) Natural Color Burlap Bag with Drawstring Closure for Arts & Crafts Projects, Gift Packaging, Presents, Snacks & Jewelry by Super Z Outlet\u00ae (4\" x 6\")",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

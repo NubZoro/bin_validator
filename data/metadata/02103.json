@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000YUOY30": {
+            "asin": "B000YUOY30",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Coffee-mate Coffee Creamer, French Vanilla Pump Bottle, 1.5L (Pack of 2)",
+            "normalizedName": "(Pack of 2) Coffee-mate Coffee Creamer, French Vanilla Pump Bottle, 1.5L",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.049999992410756
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005359A": {
+            "asin": "B00005359A",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Kotex Natural Balance Ultra Thin, Regular with Wings",
+            "normalizedName": "Kotex Natural Balance Ultra Thin, Regular with Wings",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B0185V6KZ4": {
+            "asin": "B0185V6KZ4",
+            "height": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0236220411
+            },
+            "name": "Albus Black Focusing Tactical Flashlight 300 Lumen Super Bright Mini Complete with Free Diffuser",
+            "normalizedName": "Albus Black Focusing Tactical Flashlight 300 Lumen Super Bright Mini Complete with Free Diffuser",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.4409448794
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

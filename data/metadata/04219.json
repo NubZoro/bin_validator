@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001TBH6Z6": {
+            "asin": "B001TBH6Z6",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Encore Summer Koi Goldfish Food, 3-Pound",
+            "normalizedName": "Encore Summer Koi Goldfish Food, 3-Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B004NNVKVS": {
+            "asin": "B004NNVKVS",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "ROOMMATES RMK1556SCS Dry Erase Calendar Peel & Stick Wall Decal",
+            "normalizedName": "ROOMMATES RMK1556SCS Dry Erase Calendar Peel & Stick Wall Decal",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

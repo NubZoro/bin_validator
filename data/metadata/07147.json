@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002VAS5PE": {
+            "asin": "B002VAS5PE",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "Dunecraft Spit Balls Header Science Kit",
+            "normalizedName": "Dunecraft Spit Balls Header Science Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.03
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        },
+        "B004ZIUJJA": {
+            "asin": "B004ZIUJJA",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "name": "Blue Sea Systems Heavy Duty In-Line AGC/MDL Fuse Holder",
+            "normalizedName": "Blue Sea Systems Heavy Duty In-Line AGC/MDL Fuse Holder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.0
+            }
+        },
+        "B00G6C7XUG": {
+            "asin": "B00G6C7XUG",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Fujifilm Instax Mini Instant Film, 10 Sheets of 5 Pack \u00d7 2 (100 Sheets)",
+            "normalizedName": "5 Pack Fujifilm Instax Mini Instant Film, 10 Sheets of \u00d7 2 (100 Sheets)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00GJYKU4C": {
+            "asin": "B00GJYKU4C",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Scorpio Premium 51 LED 395 nm UV Ultraviolet Blacklight Flashlight, Spot Scorpions, Pet Urine, Counterfeit Money, Bed Bugs, Minerals, Leaks",
+            "normalizedName": "Scorpio Premium 51 LED 395 nm UV Ultraviolet Blacklight Flashlight, Spot Scorpions, Pet Urine, Counterfeit Money, Bed Bugs, Minerals, Leaks",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

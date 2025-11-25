@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005DFL4PM": {
+            "asin": "B005DFL4PM",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.5354330642
+            },
+            "name": "Bell Plantation PB2 with Premium Chocolate, 16-Ounce",
+            "normalizedName": "Bell Plantation PB2 with Premium Chocolate, 16-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.190484063049714
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7007873978
+            }
+        },
+        "B01GT2MIT8": {
+            "asin": "B01GT2MIT8",
+            "height": {
+                "unit": "IN",
+                "value": 0.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "Silicone Wedding Ring- Men (XL) Safe, Flexible and Comfortable Alternative to Metal Wedding Bands For Active Lifestyles (Diameter 21mm, Size 10.5-12) (X-Large)",
+            "normalizedName": "Silicone Wedding Ring- Men (XL) Safe, Flexible and Comfortable Alternative to Metal Wedding Bands For Active Lifestyles (Diameter 21mm, Size 10.5-12) (X-Large)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.03125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

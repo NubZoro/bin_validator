@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000KKXCAK": {
+            "asin": "B000KKXCAK",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Prime-Line Products U 9858 Sliding Patio Door Lock Pin, 2-5/8-Inch, Chrome Finish",
+            "normalizedName": "Prime-Line Products U 9858 Sliding Patio Door Lock Pin, 2-5/8-Inch, Chrome Finish",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00C74V3HG": {
+            "asin": "B00C74V3HG",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Sanyo POA-LMP100 Projector Assembly with High Quality Original Bulb Inside",
+            "normalizedName": "Sanyo POA-LMP100 Projector Assembly with High Quality Original Bulb Inside",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00EV52WBK": {
+            "asin": "B00EV52WBK",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "CMT 380.081.11 Bit for Domino Jointing Machines by Festool DF700, 8mm (5/16-Inch), M8x1mm Shank",
+            "normalizedName": "CMT 380.081.11 Bit for Domino Jointing Machines by Festool DF700, 8mm (5/16-Inch), M8x1mm Shank",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.899999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003AXVADA": {
+            "asin": "B003AXVADA",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "100-Count Coffee Filter 4 Cup",
+            "normalizedName": "100-Count Coffee Filter 4 Cup",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00SMIY8P0": {
+            "asin": "B00SMIY8P0",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "iPhone SE 5 5C 5S Privacy Screen Protector, KINGCOO iPhone SE 5 5C 5S Privacy Tempered Glass Screen Protector - Keep Your Information Private - Protect Your Screen from Scratches and Drops - Lifetime Warranty",
+            "normalizedName": "iPhone SE 5 5C 5S Privacy Screen Protector, KINGCOO iPhone SE 5 5C 5S Privacy Tempered Glass Screen Protector - Keep Your Information Private - Protect Your Screen from Scratches and Drops - Lifetime Warranty",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

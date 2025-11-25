@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0045WONR0": {
+            "asin": "B0045WONR0",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "La Roche-Posay Active C Dermatological Anti-Wrinkle Corrector Vitamin C Serum, 1 Fl. Oz.",
+            "normalizedName": "La Roche-Posay Active C Dermatological Anti-Wrinkle Corrector Vitamin C Serum, 1 Fl. Oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00PWKKH38": {
+            "asin": "B00PWKKH38",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Ray-Ban 0RB2140 Square Sunglasses, Black Grey Mirror Green & Top Green, 54 mm",
+            "normalizedName": "Ray-Ban 0RB2140 Square Sunglasses, Black Grey Mirror Green & Top Green, 54 mm",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

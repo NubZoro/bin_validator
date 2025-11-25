@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1782761748": {
+            "asin": "1782761748",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Doctor Who: The Eleventh Doctor Volume 1- After Life",
+            "normalizedName": "Doctor Who: The Eleventh Doctor Volume 1- After Life",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B000GOZTP6": {
+            "asin": "B000GOZTP6",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Dymatize Nutrition Micronized Creatine, 2.2 Pound",
+            "normalizedName": "Dymatize Nutrition Micronized Creatine, 2.2 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B01ET3PJSQ": {
+            "asin": "B01ET3PJSQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Cornmi\u00ae LG G3 Wallet Case, Premium 4 in 1 Business Series Vintage Genuine Leather Case Cardslots Wallet Kickstand pouch for LG G3",
+            "normalizedName": "Cornmi\u00ae LG G3 Wallet Case, Premium 4 in 1 Business Series Vintage Genuine Leather Case Cardslots Wallet Kickstand pouch for LG G3",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002C3Y6V2": {
+            "asin": "B002C3Y6V2",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Hanging Rainbow Goo-Goo Glasses (1 dz)",
+            "normalizedName": "Hanging Rainbow Goo-Goo Glasses (1 dz)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00IFLM30G": {
+            "asin": "B00IFLM30G",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "800TC Wrinkle Resistant QUEEN CHECKERED TAUPE SHEET SET BY MARRIKAS",
+            "normalizedName": "800TC Wrinkle Resistant QUEEN CHECKERED TAUPE SHEET SET BY MARRIKAS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.54
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

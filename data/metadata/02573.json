@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QKW7SDY": {
+            "asin": "B00QKW7SDY",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Aleppo Pepper - 1 resealable bag - 1 lb",
+            "normalizedName": "Aleppo Pepper - 1 resealable bag - 1 lb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B017WQJM5S": {
+            "asin": "B017WQJM5S",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Golden Eagle Portable Camping Parachute Silk Double Hammock. Premium Quality. (dark/light blue)",
+            "normalizedName": "Golden Eagle Portable Camping Parachute Silk Double Hammock. Premium Quality. (dark/light blue)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

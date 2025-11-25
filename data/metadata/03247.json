@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D9AOU3G": {
+            "asin": "B00D9AOU3G",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "LG Optimus F3 Black (Virgin Mobile)",
+            "normalizedName": "LG Optimus F3 Black (Virgin Mobile)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

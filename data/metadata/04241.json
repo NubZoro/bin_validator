@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001WU2N1G": {
+            "asin": "B001WU2N1G",
+            "height": {
+                "unit": "IN",
+                "value": 1.7322834628
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.1417322772
+            },
+            "name": "TP-LINK TL-WN727N Wireless N150 USB Adapter,150Mbps, w/WPS Button, IEEE 802.1b/g/n, WEP, WPA/WPA2",
+            "normalizedName": "TP-LINK TL-WN727N Wireless N150 USB Adapter,150Mbps, w/WPS Button, IEEE 802.1b/g/n, WEP, WPA/WPA2",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.1417322772
+            }
+        },
+        "B003V08GMU": {
+            "asin": "B003V08GMU",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Playtex Sport Unscented Tampon, Regular Absorbency, 36 Count",
+            "normalizedName": "Playtex Sport Unscented Tampon, Regular Absorbency, 36 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B01B1FHLSQ": {
+            "asin": "B01B1FHLSQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "NECA CINEMACHINES Series 1 \"Origin\" Derelict Ship with Display Stand Alien Die Cast Collectibles",
+            "normalizedName": "NECA CINEMACHINES Series 1 \"Origin\" Derelict Ship with Display Stand Alien Die Cast Collectibles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

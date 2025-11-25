@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002XUL2HA": {
+            "asin": "B002XUL2HA",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Yummi Bears Organics Multi-Vitamin for Kids 90 Gummy Bears",
+            "normalizedName": "Yummi Bears Organics Multi-Vitamin for Kids 90 Gummy Bears",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00N57I7NM": {
+            "asin": "B00N57I7NM",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Prison Name Badge Prop For Prisoner Costumes Convict Costumes and Prison Scrubs",
+            "normalizedName": "Prison Name Badge Prop For Prisoner Costumes Convict Costumes and Prison Scrubs",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.019999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QU9VTS2": {
+            "asin": "B00QU9VTS2",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Aurum Cables 20 Feet Cat6 Snagless Network Ethernet Patch Cable - White - 2 Pack",
+            "normalizedName": "2 Pack Aurum Cables 20 Feet Cat6 Snagless Network Ethernet Patch Cable - White -",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B014ODUG6G": {
+            "asin": "B014ODUG6G",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Puritan's Pride 2-pack of Milk Thistle 4:1 Extract 1000 Mg (Silymarin)-180 Softgels (360 Total)",
+            "normalizedName": "Puritan's Pride 2-pack of Milk Thistle 4:1 Extract 1000 Mg (Silymarin)-180 Softgels (360 Total)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8199999993123557
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

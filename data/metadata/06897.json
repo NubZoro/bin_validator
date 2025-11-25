@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001GQ3806": {
+            "asin": "B001GQ3806",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2913385732
+            },
+            "name": "Holbein Duo Aqua Water-Soluble Oil Color AP Set of 12 20 ml Tubes",
+            "normalizedName": "Set of 12 Holbein Duo Aqua Water-Soluble Oil Color AP 20 ml Tubes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.59
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.118110231
+            }
+        },
+        "B0184N5RBG": {
+            "asin": "B0184N5RBG",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "DualShock 4 Wireless Controller for PlayStation 4 - Darth Vader Edition",
+            "normalizedName": "DualShock 4 Wireless Controller for PlayStation 4 - Darth Vader Edition",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00V5GRYUW": {
+            "asin": "B00V5GRYUW",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Grass Shot By Bulbhead - The Ultimate Home Hydro Seeding System, Liquid Spray Seed Lawn Care",
+            "normalizedName": "Grass Shot By Bulbhead - The Ultimate Home Hydro Seeding System, Liquid Spray Seed Lawn Care",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B01ARGBR30": {
+            "asin": "B01ARGBR30",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Ever After High Epic Winter 2-Pack, Darling Charming and Rosabella Beauty Dolls",
+            "normalizedName": "2-Pack Ever After High Epic Winter , Darling Charming and Rosabella Beauty Dolls",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

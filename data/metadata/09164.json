@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00008VFBE": {
+            "asin": "B00008VFBE",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Startech HC102 Self Adhesive Cable Tie Mounts (Pack of 100)",
+            "normalizedName": "(Pack of 100) Startech HC102 Self Adhesive Cable Tie Mounts",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00YB458SA": {
+            "asin": "B00YB458SA",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Thumb Screw DB9 DB-9 9 (HD15) Pin Metalized Plastic Hood Case Cover for Serial",
+            "normalizedName": "Thumb Screw DB9 DB-9 9 (HD15) Pin Metalized Plastic Hood Case Cover for Serial",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

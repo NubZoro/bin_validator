@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014T4JATY": {
+            "asin": "B014T4JATY",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Women's NFL Team Logo Retro Tank Top (Philadelphia Eagles, Small)",
+            "normalizedName": "Women's NFL Team Logo Retro Tank Top (Philadelphia Eagles, Small)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

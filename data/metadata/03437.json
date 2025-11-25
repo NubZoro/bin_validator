@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1926778820": {
+            "asin": "1926778820",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Hatsune Miku Graphics: Vocaloid Comic & Art Volume 1 (Hatsune Miku Graphics Vocaloid SC)",
+            "normalizedName": "Hatsune Miku Graphics: Vocaloid Comic & Art Volume 1 (Hatsune Miku Graphics Vocaloid SC)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B01D1TQLTU": {
+            "asin": "B01D1TQLTU",
+            "height": {
+                "unit": "IN",
+                "value": 6.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.5
+            },
+            "name": "Plush Neon Bear With Large Head 13.5 Inches Pink",
+            "normalizedName": "Plush Neon Bear With Large Head 13.5 Inches Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.825
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

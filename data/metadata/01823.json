@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PO9EJKO": {
+            "asin": "B00PO9EJKO",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Military Outdoor Clothing Never Issued US GI OD Skeeta Tent",
+            "normalizedName": "Military Outdoor Clothing Never Issued US GI OD Skeeta Tent",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00YDT681E": {
+            "asin": "B00YDT681E",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "KF445 Large Capacity Baby Inflatable Bath Tub Plastic Mini Air Swimming Pool Kids Thick Foldable Shower Basin, Blue",
+            "normalizedName": "KF445 Large Capacity Baby Inflatable Bath Tub Plastic Mini Air Swimming Pool Kids Thick Foldable Shower Basin, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

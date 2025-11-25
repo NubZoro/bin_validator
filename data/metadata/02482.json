@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BIG4FTM": {
+            "asin": "B00BIG4FTM",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Kelsyus Float-A-Round Chair up to 250lbs",
+            "normalizedName": "Kelsyus Float-A-Round Chair up to 250lbs",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B014LB7V2I": {
+            "asin": "B014LB7V2I",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Weatherbeeta Windbreaker 420D Deluxe Dog Coat (18\", Ruby/Black)",
+            "normalizedName": "Weatherbeeta Windbreaker 420D Deluxe Dog Coat (18\", Ruby/Black)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

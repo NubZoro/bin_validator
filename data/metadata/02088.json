@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015419R4E": {
+            "asin": "B015419R4E",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Pandante: Light & Dark Expansion",
+            "normalizedName": "Pandante: Light & Dark Expansion",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

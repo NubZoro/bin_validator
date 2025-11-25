@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HK8YGAA": {
+            "asin": "B00HK8YGAA",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "SmartSign Adhesive Vinyl OSHA Safety Sign, Legend \"Danger: Hazardous Material Storage Area\", 10\" high x 14\" wide, Black/Red on White",
+            "normalizedName": "SmartSign Adhesive Vinyl OSHA Safety Sign, Legend \"Danger: Hazardous Material Storage Area\", 10\" high x 14\" wide, Black/Red on White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B0194MDLJ6": {
+            "asin": "B0194MDLJ6",
+            "height": {
+                "unit": "IN",
+                "value": 2.2047244072
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.7086614064
+            },
+            "name": "Mosiso - Pro Digital Kitchen Food Scale, 1g to 11 lbs Capacity (Black)",
+            "normalizedName": "Mosiso - Pro Digital Kitchen Food Scale, 1g to 11 lbs Capacity (Black)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9259320490386663
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1102362122
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

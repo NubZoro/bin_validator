@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CM0T494": {
+            "asin": "B00CM0T494",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Core Science Medica Zoom Chews Pouch, 60 Count",
+            "normalizedName": "Core Science Medica Zoom Chews Pouch, 60 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00Y4QBKLE": {
+            "asin": "B00Y4QBKLE",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Crayola Ultra Clean Large Crayons (Pack of 12, 16-Count)",
+            "normalizedName": "Pack of 12 Crayola Ultra Clean Large Crayons ( , 16-Count)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B01G4B7ZHO": {
+            "asin": "B01G4B7ZHO",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "name": "Snappy Quick-Change 5-Pc. Countersink Drill Bit Set with Rotating Depth Stop",
+            "normalizedName": "Snappy Quick-Change 5-Pc. Countersink Drill Bit Set with Rotating Depth Stop",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

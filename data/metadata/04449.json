@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00094OX32": {
+            "asin": "B00094OX32",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "APC RBC33 UPS Replacement Battery Cartridge",
+            "normalizedName": "APC RBC33 UPS Replacement Battery Cartridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00PJRBUEY": {
+            "asin": "B00PJRBUEY",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Toddler Pillow-No Pillow Case Needed-High Thread Count-Machine Washable-Chiropractor Recommended-Hypoallergenic-13x18, Made in USA",
+            "normalizedName": "Toddler Pillow-No Pillow Case Needed-High Thread Count-Machine Washable-Chiropractor Recommended-Hypoallergenic-13x18, Made in USA",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.799999986944
+            }
+        },
+        "B00X8ZR44Y": {
+            "asin": "B00X8ZR44Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "Quick Dry Hanging Toiletry and Bath Organizer with 8 Storage Compartments, Shower Tote, Mesh Shower Caddy, Perfect Dorm, Gym, Camp & Travel Tote Bag, Pink",
+            "normalizedName": "Quick Dry Hanging Toiletry and Bath Organizer with 8 Storage Compartments, Shower Tote, Mesh Shower Caddy, Perfect Dorm, Gym, Camp & Travel Tote Bag, Pink",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

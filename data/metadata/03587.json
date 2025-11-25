@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010NMMPH0": {
+            "asin": "B010NMMPH0",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "CHULUX Travel Size K-cup Coffee Maker Single Serve Coffee Brewer, Black",
+            "normalizedName": "CHULUX Travel Size K-cup Coffee Maker Single Serve Coffee Brewer, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2499999972745806
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

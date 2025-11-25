@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0714848638": {
+            "asin": "0714848638",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "American Surfaces",
+            "normalizedName": "American Surfaces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

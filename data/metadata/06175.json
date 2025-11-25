@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008SAPC2U": {
+            "asin": "B008SAPC2U",
+            "height": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7165354252
+            },
+            "name": "Adventure Classics Collection (Count of Monte Cristo / Last of the Mohicans / Man in the Iron Mask / Corsican Brothers)",
+            "normalizedName": "Adventure Classics Collection (Count of Monte Cristo / Last of the Mohicans / Man in the Iron Mask / Corsican Brothers)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.88
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B00FEKGO1A": {
+            "asin": "B00FEKGO1A",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Quest Nutrition Protein Bar, Double Chocolate Chunk, 20g Protein, 2.12oz Bar, 12 Count",
+            "normalizedName": "Quest Nutrition Protein Bar, Double Chocolate Chunk, 20g Protein, 2.12oz Bar, 12 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00IP6D2D8": {
+            "asin": "B00IP6D2D8",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "TORCHSTAR 18W 6inch LED Retrofit Recessed Lighting Fixture, ENERGY STAR Certified 18W (120W Equivalent) LED Ceiling Light, UL-classified Dimmable LED Retrofit Downlight kit - 2700K Warm White",
+            "normalizedName": "TORCHSTAR 18W 6inch LED Retrofit Recessed Lighting Fixture, ENERGY STAR Certified 18W (120W Equivalent) LED Ceiling Light, UL-classified Dimmable LED Retrofit Downlight kit - 2700K Warm White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

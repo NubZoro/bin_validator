@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009WX55T2": {
+            "asin": "B009WX55T2",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Norton Mobile Security 3.0 - 1 User",
+            "normalizedName": "Norton Mobile Security 3.0 - 1 User",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00D7KFWVW": {
+            "asin": "B00D7KFWVW",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Galaxy Hipster Cat iPhone 5 Case - For iPhone 5/5G - Designer TPU Case Verizon AT&T Sprint",
+            "normalizedName": "Galaxy Hipster Cat iPhone 5 Case - For iPhone 5/5G - Designer TPU Case Verizon AT&T Sprint",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B00ZAV6F7G": {
+            "asin": "B00ZAV6F7G",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Greene + Gray Cell Phone Case for iPhone 5, Bloomingdale's Store Front Design",
+            "normalizedName": "Greene + Gray Cell Phone Case for iPhone 5, Bloomingdale's Store Front Design",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B0191SIUT4": {
+            "asin": "B0191SIUT4",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Fixxxer Original Notebook/Day Planner Conceal Carry Gun Case Holster, Black",
+            "normalizedName": "Fixxxer Original Notebook/Day Planner Conceal Carry Gun Case Holster, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

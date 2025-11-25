@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009IVKY7Q": {
+            "asin": "B009IVKY7Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.236220462
+            },
+            "name": "Infantino Squeeze Station",
+            "normalizedName": "Infantino Squeeze Station",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.763698096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.448818888
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

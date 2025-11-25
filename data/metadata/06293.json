@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00R1YMU4C": {
+            "asin": "B00R1YMU4C",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Funny Guy Mugs Best Boss Ever Travel Tumbler, White, 16-Ounce",
+            "normalizedName": "Funny Guy Mugs Best Boss Ever Travel Tumbler, White, 16-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00YA7XGIW": {
+            "asin": "B00YA7XGIW",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "GooDeal 12V Solenoid Relay Contactor with Winch Rocker Thumb Switch for ATV UTV",
+            "normalizedName": "GooDeal 12V Solenoid Relay Contactor with Winch Rocker Thumb Switch for ATV UTV",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

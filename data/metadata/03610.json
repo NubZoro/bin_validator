@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000001K4C": {
+            "asin": "B000001K4C",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Chabrier: Complete Piano Music",
+            "normalizedName": "Chabrier: Complete Piano Music",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17707528883839999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00A0017W0": {
+            "asin": "B00A0017W0",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.6
+            },
+            "name": "Tervis WA University St. Louis Emblem Individual Mug, 16 oz, Clear",
+            "normalizedName": "Tervis WA University St. Louis Emblem Individual Mug, 16 oz, Clear",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.1
+            }
+        },
+        "B01FIF6X5C": {
+            "asin": "B01FIF6X5C",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Gaming Mouse",
+            "normalizedName": "Gaming Mouse",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

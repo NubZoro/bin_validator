@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VL603Y": {
+            "asin": "B000VL603Y",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Black & Decker HPB18-OPE 18-Volt Slide Pack Battery For 18-Volt Outdoor Cordless Power Tools",
+            "normalizedName": "Black & Decker HPB18-OPE 18-Volt Slide Pack Battery For 18-Volt Outdoor Cordless Power Tools",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B0047CP6SI": {
+            "asin": "B0047CP6SI",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Pentel Twist-Erase III Automatic Pencil with 2 Eraser Refills, 0.9mm, Assorted Barrels, 2 Pack (QE519BP2-K6)",
+            "normalizedName": "2 Pack Pentel Twist-Erase III Automatic Pencil with 2 Eraser Refills, 0.9mm, Assorted Barrels, (QE519BP2-K6)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00TD6ITY6": {
+            "asin": "B00TD6ITY6",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Komhode Plum Blossom Buckle Bumper Case for iphone 6 plus 5.5inch,Silver",
+            "normalizedName": "Komhode Plum Blossom Buckle Bumper Case for iphone 6 plus 5.5inch,Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

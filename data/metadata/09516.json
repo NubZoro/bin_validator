@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0553103547": {
+            "asin": "0553103547",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "A Game of Thrones (Song of Ice and Fire)",
+            "normalizedName": "A Game of Thrones (Song of Ice and Fire)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00IVOT594": {
+            "asin": "B00IVOT594",
+            "height": {
+                "unit": "IN",
+                "value": 0.0099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Caroline's Treasures MM6056GF Orchid Flag, Small, Multicolor",
+            "normalizedName": "Caroline's Treasures MM6056GF Orchid Flag, Small, Multicolor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.009999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

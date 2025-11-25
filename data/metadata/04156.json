@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00Q2APH6O": {
+            "asin": "B00Q2APH6O",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Seagull Studios \"Family Blessings\" Candlelight Glow Hurricane Candleholder",
+            "normalizedName": "Seagull Studios \"Family Blessings\" Candlelight Glow Hurricane Candleholder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B0169U9LHC": {
+            "asin": "B0169U9LHC",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "name": "kate spade new york Fairmount Square Large Monday Cross Body, Alice Blue/Sandy Beach, One Size",
+            "normalizedName": "kate spade new york Fairmount Square Large Monday Cross Body, Alice Blue/Sandy Beach, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

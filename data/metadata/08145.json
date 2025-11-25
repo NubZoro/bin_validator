@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005HS5MKS": {
+            "asin": "B005HS5MKS",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Plantronics-CS540 Convertible Wireless Headset",
+            "normalizedName": "Plantronics-CS540 Convertible Wireless Headset",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

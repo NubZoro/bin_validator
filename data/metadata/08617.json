@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1411499964": {
+            "asin": "1411499964",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "Henry V (Barnes & Noble Shakespeare)",
+            "normalizedName": "Henry V (Barnes & Noble Shakespeare)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "1414368860": {
+            "asin": "1414368860",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1889763696
+            },
+            "name": "Overwhelmed: Winning the War against Worry",
+            "normalizedName": "Overwhelmed: Winning the War against Worry",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880332100962
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B0002SPAQE": {
+            "asin": "B0002SPAQE",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "BOSTITCH SX50351G 1-by-7/32-Inch 18-Gauge Narrow Crown Finish Staple, 5000-Per Box",
+            "normalizedName": "BOSTITCH SX50351G 1-by-7/32-Inch 18-Gauge Narrow Crown Finish Staple, 5000-Per Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00EVIA5P2": {
+            "asin": "B00EVIA5P2",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991227998
+            },
+            "name": "David Archy Men's 4 Pack Micro Modal Air Low Rise Trunk (M, Wine Red+Navyblue)",
+            "normalizedName": "4 Pack David Archy Men's Micro Modal Air Low Rise Trunk (M, Wine Red+Navyblue)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

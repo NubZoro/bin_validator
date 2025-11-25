@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00N2PM9X6": {
+            "asin": "B00N2PM9X6",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Pawsitively Gourmet Puppy Face Cookies for Dogs",
+            "normalizedName": "Pawsitively Gourmet Puppy Face Cookies for Dogs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00Y4TVUO8": {
+            "asin": "B00Y4TVUO8",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Classic Trivia Game in Box",
+            "normalizedName": "Classic Trivia Game in Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

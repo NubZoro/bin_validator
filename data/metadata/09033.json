@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00008GKDG": {
+            "asin": "B00008GKDG",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Lodge L5SK3 Pre-Seasoned Cast-Iron Skillet, 8-inch",
+            "normalizedName": "Lodge L5SK3 Pre-Seasoned Cast-Iron Skillet, 8-inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5999632537252233
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00L36V3FG": {
+            "asin": "B00L36V3FG",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "AVOIN colorlife 27oz. Sport Tritan Fruit Infuser Water Bottle(Many Color Option) - BPA Free",
+            "normalizedName": "AVOIN colorlife 27oz. Sport Tritan Fruit Infuser Water Bottle(Many Color Option) - BPA Free",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

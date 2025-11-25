@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017NI4SA4": {
+            "asin": "B017NI4SA4",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "CalNaturale Svelte Organic Protein Shake, Banana Creme, 11 Ounce (Pack of 24)",
+            "normalizedName": "(Pack of 24) CalNaturale Svelte Organic Protein Shake, Banana Creme, 11 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 19.969999983253345
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

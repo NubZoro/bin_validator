@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006BB6YW": {
+            "asin": "B0006BB6YW",
+            "height": {
+                "unit": "IN",
+                "value": 0.049999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "name": "HP 96 Black Original Ink Cartridge (C8767WN)",
+            "normalizedName": "HP 96 Black Original Ink Cartridge (C8767WN)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B01DL0Y04C": {
+            "asin": "B01DL0Y04C",
+            "height": {
+                "unit": "IN",
+                "value": 1.6999999982660001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Set of 2 - Spill Resistant and Splash Proof Lids with Slider Closure for 20 oz Tumblers and 10 oz Lowballs - Fits YETI Rambler",
+            "normalizedName": "Set of 2  - Spill Resistant and Splash Proof Lids with Slider Closure for 20 oz Tumblers and 10 oz Lowballs - Fits YETI Rambler",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1999999998322819
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

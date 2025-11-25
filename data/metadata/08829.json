@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007ZJTYZ6": {
+            "asin": "B007ZJTYZ6",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Innova 31403 CarScan OBD2 + OBD1 Scan Tool",
+            "normalizedName": "Innova 31403 CarScan OBD2 + OBD1 Scan Tool",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B00FMWX8EQ": {
+            "asin": "B00FMWX8EQ",
+            "height": {
+                "unit": "IN",
+                "value": 7.5590551104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.6377952576
+            },
+            "name": "Pampers Cruisers Diapers, Super Pack, Size 3, 92 Count",
+            "normalizedName": "Pampers Cruisers Diapers, Super Pack, Size 3, 92 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.9965123226123636
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.448818888
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

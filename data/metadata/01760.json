@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00O4OR4GQ": {
+            "asin": "B00O4OR4GQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Fujifilm Instax Mini Instant Film (3 Twin Packs, 60 Total Pictures) Value Set",
+            "normalizedName": "Fujifilm Instax Mini Instant Film (3 Twin Packs, 60 Total Pictures) Value Set",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

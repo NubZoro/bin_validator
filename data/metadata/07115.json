@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "048679539X": {
+            "asin": "048679539X",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Creative Haven Dimensions Coloring Book (Adult Coloring)",
+            "normalizedName": "Creative Haven Dimensions Coloring Book (Adult Coloring)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B003819MRA": {
+            "asin": "B003819MRA",
+            "height": {
+                "unit": "IN",
+                "value": 4.8031496014
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.4330708606
+            },
+            "name": "EPSON V13H010L57 Replacement Lamp for 450W 460 and Bright Link 450WI",
+            "normalizedName": "EPSON V13H010L57 Replacement Lamp for 450W 460 and Bright Link 450WI",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054720379543957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9606299162
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

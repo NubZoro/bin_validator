@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002AQWK00": {
+            "asin": "B002AQWK00",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Babyliss CPD05 Conair Pro Interchangeable 3-in-1 Diffuser",
+            "normalizedName": "Babyliss CPD05 Conair Pro Interchangeable 3-in-1 Diffuser",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499923445260883
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

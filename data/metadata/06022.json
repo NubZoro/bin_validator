@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003UWOSRG": {
+            "asin": "B003UWOSRG",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "name": "Standard Process A-F Betafood 90 T",
+            "normalizedName": "Standard Process A-F Betafood 90 T",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B004GW4S0G": {
+            "asin": "B004GW4S0G",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "Life Extension Super K with Advanced K2 Complex 90 softgels",
+            "normalizedName": "Life Extension Super K with Advanced K2 Complex 90 softgels",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B01ANXAAAS": {
+            "asin": "B01ANXAAAS",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Baby Car Seat Cover Canopy and Nursing Cover Multi-Use Stretchy 3 in 1 Gift \"The City\" by Copper Pearl",
+            "normalizedName": "Baby Car Seat Cover Canopy and Nursing Cover Multi-Use Stretchy 3 in 1 Gift \"The City\" by Copper Pearl",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B01EJ5JSK4": {
+            "asin": "B01EJ5JSK4",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622024755906
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811012377953
+            },
+            "name": "Vergiano Waiters Corkscrew and Wine Stopper Set, Cherry Wood Curved Corkscrew; Red Wine Bottle Opener; Wine Enthusiast; Stainless Steel Wine Bottle Stopper Set; Bartenders Gift Set; Decorative Favors",
+            "normalizedName": "Vergiano Waiters Corkscrew and Wine Stopper Set, Cherry Wood Curved Corkscrew; Red Wine Bottle Opener; Wine Enthusiast; Stainless Steel Wine Bottle Stopper Set; Bartenders Gift Set; Decorative Favors",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.133858259283465
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

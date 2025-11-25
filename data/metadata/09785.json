@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "073533305X": {
+            "asin": "073533305X",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Mudpuppy Construction Jumbo Puzzle",
+            "normalizedName": "Mudpuppy Construction Jumbo Puzzle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B01ENUYMMY": {
+            "asin": "B01ENUYMMY",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Professional Grade Heavy Duty BBQ Grill Cover by Pro Leisure Outdoor (Large Size, Beige/Hunter Green)",
+            "normalizedName": "Professional Grade Heavy Duty BBQ Grill Cover by Pro Leisure Outdoor (Large Size, Beige/Hunter Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.599999994465302
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

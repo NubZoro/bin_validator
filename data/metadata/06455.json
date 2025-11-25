@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010UL03NW": {
+            "asin": "B010UL03NW",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Stainless-Steel Mixing Bowl (Set of 4) - Utopia Kitchen",
+            "normalizedName": "(Set of 4) Stainless-Steel Mixing Bowl - Utopia Kitchen",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001KOFH2G": {
+            "asin": "B001KOFH2G",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Serenity [Blu-ray]",
+            "normalizedName": "Serenity [Blu-ray]",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00K2CHVJ4": {
+            "asin": "B00K2CHVJ4",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Godzilla (Blu-ray)",
+            "normalizedName": "Godzilla (Blu-ray)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00XQ13ZSO": {
+            "asin": "B00XQ13ZSO",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Mad Max: Fury Road (Blu-ray + DVD + Digital HD)",
+            "normalizedName": "Mad Max: Fury Road (Blu-ray + DVD + Digital HD)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B017ES8QQ0": {
+            "asin": "B017ES8QQ0",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Home Value Candy Mold - Chocolate Silicone Molds Bars - Chocolate Truffle Squares, 2 Piece- Pastry Mold, Brown (CHOCMOLDC1253)",
+            "normalizedName": "Home Value Candy Mold - Chocolate Silicone Molds Bars - Chocolate Truffle Squares, 2 Piece- Pastry Mold, Brown (CHOCMOLDC1253)",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

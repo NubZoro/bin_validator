@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00495Y6UC": {
+            "asin": "B00495Y6UC",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Park B. Smith Wavy Plaid Watershed Shower Curtain, Pop Blueberry",
+            "normalizedName": "Park B. Smith Wavy Plaid Watershed Shower Curtain, Pop Blueberry",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B00TQ9K9CA": {
+            "asin": "B00TQ9K9CA",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "XTREME SHAPER BELT (LARGE)",
+            "normalizedName": "XTREME SHAPER BELT (LARGE)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

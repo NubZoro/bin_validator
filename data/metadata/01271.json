@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003C1FO5U": {
+            "asin": "B003C1FO5U",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Playskool Toy Story 3 Classic Mrs. Potato Head",
+            "normalizedName": "Playskool Toy Story 3 Classic Mrs. Potato Head",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00CC3ZSB4": {
+            "asin": "B00CC3ZSB4",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Starbucks Hot Cocoa Mix Assortment Pack 1 Oz X 24 Packs (3 X 8 Pack) Variety Box",
+            "normalizedName": "24 Pack Starbucks Hot Cocoa Mix Assortment Pack 1 Oz X s (3 X 8 Pack) Variety Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B014XZJJTU": {
+            "asin": "B014XZJJTU",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "O'Neill Wetsuits UV Sun Protection Mens Basic Skins Long Sleeve Crew Sun Shirt Rash Guard, Smoke, Large",
+            "normalizedName": "O'Neill Wetsuits UV Sun Protection Mens Basic Skins Long Sleeve Crew Sun Shirt Rash Guard, Smoke, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B01AYB9M1W": {
+            "asin": "B01AYB9M1W",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Home Zone Motion Activated LED Security Light - 2500 Lumens",
+            "normalizedName": "Home Zone Motion Activated LED Security Light - 2500 Lumens",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.649999996939144
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

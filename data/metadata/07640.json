@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OJ9FEAE": {
+            "asin": "B00OJ9FEAE",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Quest Nutrition Protein Chips, BBQ, 21g Protein, Baked, 1.2oz Bag, 8 Count",
+            "normalizedName": "Quest Nutrition Protein Chips, BBQ, 21g Protein, Baked, 1.2oz Bag, 8 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B012D6WQTG": {
+            "asin": "B012D6WQTG",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.799999983884002
+            },
+            "name": "NCAA Kansas Jayhawks Men's Moccasin Team Logo Slippers, Size 11, Chestnut",
+            "normalizedName": "NCAA Kansas Jayhawks Men's Moccasin Team Logo Slippers, Size 11, Chestnut",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

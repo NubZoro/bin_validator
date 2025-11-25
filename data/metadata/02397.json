@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000B656HA": {
+            "asin": "B000B656HA",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Liz Claiborne by Liz Claiborne for Women Body Lotion, 6.7 Ounce",
+            "normalizedName": "Liz Claiborne by Liz Claiborne for Women Body Lotion, 6.7 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B007M4D49Q": {
+            "asin": "B007M4D49Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Taobaopit New 10 Pair Reusable Long Fake False Eyelashes Glue Adhesives Eye Lashes Makeup Black 026 by Evermarket",
+            "normalizedName": "Taobaopit New 10 Pair Reusable Long Fake False Eyelashes Glue Adhesives Eye Lashes Makeup Black 026 by Evermarket",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

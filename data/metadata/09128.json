@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006ZNLO10": {
+            "asin": "B006ZNLO10",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Homak   TP00113067 13-Inch Plastic Transparent Toolbox with 2 Tray Tier",
+            "normalizedName": "Homak   TP00113067 13-Inch Plastic Transparent Toolbox with 2 Tray Tier",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B0113YL5V4": {
+            "asin": "B0113YL5V4",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Etekcity Digital Body Weight Bathroom Scale, 400lb/180kg, White",
+            "normalizedName": "Etekcity Digital Body Weight Bathroom Scale, 400lb/180kg, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.19999999647792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B015SR7M0K": {
+            "asin": "B015SR7M0K",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Remote Included 3 Pieces Set Moving Flame Wick Candle with Timer, Real Wax Pillar Candle in 3 Sizes, NOT Luminara but same flame effect",
+            "normalizedName": "Remote Included 3 Pieces Set Moving Flame Wick Candle with Timer, Real Wax Pillar Candle in 3 Sizes, NOT Luminara but same flame effect",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

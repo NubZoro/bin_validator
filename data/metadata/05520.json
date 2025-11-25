@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0037T63H0": {
+            "asin": "B0037T63H0",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Bearfoots Bears Happy Trails Figurine",
+            "normalizedName": "Bearfoots Bears Happy Trails Figurine",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

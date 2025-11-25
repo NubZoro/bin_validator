@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0015A3KQU": {
+            "asin": "B0015A3KQU",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Eclipse Tools 900-070 Pro'sKit Mini-Wrench Set, 5/32\" to 7/16\"",
+            "normalizedName": "Eclipse Tools 900-070 Pro'sKit Mini-Wrench Set, 5/32\" to 7/16\"",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00C92I29S": {
+            "asin": "B00C92I29S",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Home Air Care 2-Pack Room Scents Adjustable Air Freshener, Lavender Fragrance",
+            "normalizedName": "2-Pack Home Air Care Room Scents Adjustable Air Freshener, Lavender Fragrance",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

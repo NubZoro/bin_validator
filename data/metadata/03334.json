@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006JKOBK": {
+            "asin": "B0006JKOBK",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Coralife 05701 Pure-Flo II Compatible Granular Activated Carbon Filter",
+            "normalizedName": "Coralife 05701 Pure-Flo II Compatible Granular Activated Carbon Filter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B0018N9Z72": {
+            "asin": "B0018N9Z72",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Walnut Hollow 10 Piece Whittlers Carving Kit",
+            "normalizedName": "Walnut Hollow 10 Piece Whittlers Carving Kit",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B00M500FR6": {
+            "asin": "B00M500FR6",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Cotton Blend 800 Thread Count Jacquard Weave Micro-checkers Wrinkle Resistant Standard Pillowcase Pair, Ivory",
+            "normalizedName": "Cotton Blend 800 Thread Count Jacquard Weave Micro-checkers Wrinkle Resistant Standard Pillowcase Pair, Ivory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B011AHZBPA": {
+            "asin": "B011AHZBPA",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "See Diapers Bamboo Charcoal One Size Baby Cloth Diaper 2 Bamboo Inserts \" Monkey \"",
+            "normalizedName": "See Diapers Bamboo Charcoal One Size Baby Cloth Diaper 2 Bamboo Inserts \" Monkey \"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

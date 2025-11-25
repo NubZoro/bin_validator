@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VQYDHE": {
+            "asin": "B000VQYDHE",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Fun Express 4th of July Patriotic Rubber Duck Ducky Party Favors Toy (2 Dozen)",
+            "normalizedName": "Fun Express 4th of July Patriotic Rubber Duck Ducky Party Favors Toy (2 Dozen)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00CFH98KE": {
+            "asin": "B00CFH98KE",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "FJM Security MEI-0220-KA Sliding Door Ratchet Lock with Chrome Finish, Keyed Alike",
+            "normalizedName": "FJM Security MEI-0220-KA Sliding Door Ratchet Lock with Chrome Finish, Keyed Alike",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

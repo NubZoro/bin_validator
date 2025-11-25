@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1563926008": {
+            "asin": "1563926008",
+            "height": {
+                "unit": "IN",
+                "value": 1.20078740035
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.70078739066
+            },
+            "name": "GM S-Series Pickups & SUVs 1994-2004 (Haynes Repair Manuals)",
+            "normalizedName": "GM S-Series Pickups & SUVs 1994-2004 (Haynes Repair Manuals)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2000201845184
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.09842518859
+            }
+        },
+        "1563927101": {
+            "asin": "1563927101",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Jeep Wagoneer/Commanche/Cherokee 1984-2001 (Chilton's Total Car Care Repair Manuals)",
+            "normalizedName": "Jeep Wagoneer/Commanche/Cherokee 1984-2001 (Chilton's Total Car Care Repair Manuals)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991738
+            }
+        },
+        "1620920530": {
+            "asin": "1620920530",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Chrysler Grand Caravan/Town & Country Automotive Repair Manual: 2008-12 Chilton (Haynes Automotive Repair Manuals)",
+            "normalizedName": "Chrysler Grand Caravan/Town & Country Automotive Repair Manual: 2008-12 Chilton (Haynes Automotive Repair Manuals)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B0007Q3QSK": {
+            "asin": "B0007Q3QSK",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Panasonic KX-TSC11B Corded Phone with Caller ID, Black",
+            "normalizedName": "Panasonic KX-TSC11B Corded Phone with Caller ID, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B002DPDYPS": {
+            "asin": "B002DPDYPS",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "McDavid 478 Adjustable Thigh Wrap",
+            "normalizedName": "McDavid 478 Adjustable Thigh Wrap",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BYE9LG": {
+            "asin": "B000BYE9LG",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Trewax Instant Wax Remover, 32-Ounce",
+            "normalizedName": "Trewax Instant Wax Remover, 32-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00RMK03G2": {
+            "asin": "B00RMK03G2",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Hyperikon PAR30 LED Bulb, 12W (65W equivalent), 880lm, 2700K (Warm White), CRI90+, Flood Light Bulb, 40\u00b0 Beam Angle, Medium Base (E26), Dimmable, UL-Listed and Energy Star-Qualified",
+            "normalizedName": "Hyperikon PAR30 LED Bulb, 12W (65W equivalent), 880lm, 2700K (Warm White), CRI90+, Flood Light Bulb, 40\u00b0 Beam Angle, Medium Base (E26), Dimmable, UL-Listed and Energy Star-Qualified",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

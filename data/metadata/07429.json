@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00199PN2G": {
+            "asin": "B00199PN2G",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Dura International BD8923 Rear Floating Brake Drum",
+            "normalizedName": "Dura International BD8923 Rear Floating Brake Drum",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 15.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988066
+            }
+        },
+        "B00OEA4ADU": {
+            "asin": "B00OEA4ADU",
+            "height": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Xbox 360 4GB System Console with Peggle 2 Bundle",
+            "normalizedName": "Xbox 360 4GB System Console with Peggle 2 Bundle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.899999992536543
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

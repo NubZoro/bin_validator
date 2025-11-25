@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001KUSKUQ": {
+            "asin": "B001KUSKUQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Bob's Red Mill Flour Oat, 22-ounces (Pack of4)",
+            "normalizedName": "(Pack of4) Bob's Red Mill Flour Oat, 22-ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B003NYDUTI": {
+            "asin": "B003NYDUTI",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822
+            },
+            "name": "Notice Sign - This Water is Unsafe to Drink with Graphic - 10\" x 14\" OSHA Safety Sign",
+            "normalizedName": "Notice Sign - This Water is Unsafe to Drink with Graphic - 10\" x 14\" OSHA Safety Sign",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B01EM8RQLG": {
+            "asin": "B01EM8RQLG",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Hyperikon ST64 LED Vintage Filament Bulb, 5W (40W Equivalent), 500 lumen, 2700K (Warm White), 340\u00b0 Omnidirectional, Medium Base (E26), IC Driver, CRI 80+, 120v, Dimmable, UL-Listed - (Pack of 6)",
+            "normalizedName": "(Pack of 6) Hyperikon ST64 LED Vintage Filament Bulb, 5W (40W Equivalent), 500 lumen, 2700K (Warm White), 340\u00b0 Omnidirectional, Medium Base (E26), IC Driver, CRI 80+, 120v, Dimmable, UL-Listed -",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

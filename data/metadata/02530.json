@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1419707337": {
+            "asin": "1419707337",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Capital Days: Michael Shiner's Journal and the Growth of Our Nation's Capital",
+            "normalizedName": "Capital Days: Michael Shiner's Journal and the Growth of Our Nation's Capital",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B00HZP96GW": {
+            "asin": "B00HZP96GW",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Called to Pray Figurine - Police Officer",
+            "normalizedName": "Called to Pray Figurine - Police Officer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00I2F3EBM": {
+            "asin": "B00I2F3EBM",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Cetaphil Gentle Skin Cleanser, For all skin types, 16 Ounce Bottles (Pack of 3)",
+            "normalizedName": "(Pack of 3) Cetaphil Gentle Skin Cleanser, For all skin types, 16 Ounce Bottles",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

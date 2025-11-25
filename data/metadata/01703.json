@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003KYSLNQ": {
+            "asin": "B003KYSLNQ",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Cuisinart CPK-17 PerfecTemp 1.7-Liter Stainless Steel Cordless Electric Kettle",
+            "normalizedName": "Cuisinart CPK-17 PerfecTemp 1.7-Liter Stainless Steel Cordless Electric Kettle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.949999996687567
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B00E95CDCU": {
+            "asin": "B00E95CDCU",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Scivation, Xtend BCAAs, Strawberry Kiwi, 90 Servings",
+            "normalizedName": "Scivation, Xtend BCAAs, Strawberry Kiwi, 90 Servings",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

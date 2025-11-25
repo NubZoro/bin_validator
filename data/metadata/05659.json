@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BYXEWQ": {
+            "asin": "B000BYXEWQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Safety Beam - Invisible Infrared Beam Alert / Alarm",
+            "normalizedName": "Safety Beam - Invisible Infrared Beam Alert / Alarm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00EZWSNGM": {
+            "asin": "B00EZWSNGM",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Neutrogena Pore Refining Cleanser, 6.7 Ounce (Pack of 3)",
+            "normalizedName": "(Pack of 3) Neutrogena Pore Refining Cleanser, 6.7 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499851994171038
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B01AG8QW52": {
+            "asin": "B01AG8QW52",
+            "height": {
+                "unit": "IN",
+                "value": 0.1574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "StilGut Pencil Holder, Genuine Leather Sleeve for Apple Pencil, compatible with Apple 12,9'' iPad Pro Cases, Black",
+            "normalizedName": "StilGut Pencil Holder, Genuine Leather Sleeve for Apple Pencil, compatible with Apple 12,9'' iPad Pro Cases, Black",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.044092002335174595
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.574803148
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

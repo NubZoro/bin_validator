@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001CKJ8BE": {
+            "asin": "B001CKJ8BE",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Renaissance Peasant Lady Adult Costume",
+            "normalizedName": "Renaissance Peasant Lady Adult Costume",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B003554E7M": {
+            "asin": "B003554E7M",
+            "height": {
+                "unit": "IN",
+                "value": 0.049999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "NeoSport Wetsuits Men's Premium Neoprene 2.5mm Zipper Vest, Black, X-Large - Diving, Snorkeling & Wakeboarding",
+            "normalizedName": "NeoSport Wetsuits Men's Premium Neoprene 2.5mm Zipper Vest, Black, X-Large - Diving, Snorkeling & Wakeboarding",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B00TF8Z7ZG": {
+            "asin": "B00TF8Z7ZG",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.6456692764
+            },
+            "name": "Thames & Kosmos Remote-Control Machines: Animals Science Kit",
+            "normalizedName": "Thames & Kosmos Remote-Control Machines: Animals Science Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.5748031378
+            }
+        },
+        "B00YE9ITOC": {
+            "asin": "B00YE9ITOC",
+            "height": {
+                "unit": "IN",
+                "value": 3.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.4
+            },
+            "name": "U.S. Polo Assn. Big Boys' Slub Pique Hoodie with Sherpa Lining, Black, 14/16",
+            "normalizedName": "U.S. Polo Assn. Big Boys' Slub Pique Hoodie with Sherpa Lining, Black, 14/16",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.3
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

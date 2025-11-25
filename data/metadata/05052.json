@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CCCR74G": {
+            "asin": "B00CCCR74G",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "MEDIEVAL KNIGHT 7\" TALL VALIANT SWORDSMAN STATUE FIGURINE SUIT OF ARMOR",
+            "normalizedName": "MEDIEVAL KNIGHT 7\" TALL VALIANT SWORDSMAN STATUE FIGURINE SUIT OF ARMOR",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

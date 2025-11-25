@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IUAAK7U": {
+            "asin": "B00IUAAK7U",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Lulu Jr. My Comic Book - Create Your Own Comic",
+            "normalizedName": "Lulu Jr. My Comic Book - Create Your Own Comic",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

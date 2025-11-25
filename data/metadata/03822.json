@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GNXQWRS": {
+            "asin": "B00GNXQWRS",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "name": "Julia Knight Peony Punch Ladle, 14-Inch, Snow",
+            "normalizedName": "Julia Knight Peony Punch Ladle, 14-Inch, Snow",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

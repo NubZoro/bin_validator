@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0031SCWJK": {
+            "asin": "B0031SCWJK",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Duo-Lock Reversible Felt and Rubber Non-Slip Rug Pad, Size: 3' x 5' Rug Pad",
+            "normalizedName": "Duo-Lock Reversible Felt and Rubber Non-Slip Rug Pad, Size: 3' x 5' Rug Pad",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988066
+            }
+        },
+        "B01AILVICO": {
+            "asin": "B01AILVICO",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "InterDesign Kent Wastebasket Trash Can - black",
+            "normalizedName": "InterDesign Kent Wastebasket Trash Can - black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

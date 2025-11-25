@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EP6OAG": {
+            "asin": "B000EP6OAG",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512
+            },
+            "name": "Lobo Spicy Tom Yum soup mix 30g X 5 pack",
+            "normalizedName": "Lobo Spicy Tom Yum soup mix 30g X 5 pack",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B001NZQE5Q": {
+            "asin": "B001NZQE5Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993777999
+            },
+            "name": "Auto Extra Mevotech MK80026 Ball Joint",
+            "normalizedName": "Auto Extra Mevotech MK80026 Ball Joint",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4899999987505
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3999999965320002
+            }
+        },
+        "B00MA6I66W": {
+            "asin": "B00MA6I66W",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Jacobson Hat Company Women's Sequin Flapper Headband, Black, Adult",
+            "normalizedName": "Jacobson Hat Company Women's Sequin Flapper Headband, Black, Adult",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B016OE3XY0": {
+            "asin": "B016OE3XY0",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "SAXX UNDERWEAR Men's Fiesta Boxer Red Topo Stripe LG",
+            "normalizedName": "SAXX UNDERWEAR Men's Fiesta Boxer Red Topo Stripe LG",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

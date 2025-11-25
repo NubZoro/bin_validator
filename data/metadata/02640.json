@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006E54BIC": {
+            "asin": "B006E54BIC",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "Broadway Basketeers Luscious Lime Gift Tower",
+            "normalizedName": "Broadway Basketeers Luscious Lime Gift Tower",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00B3G89MQ": {
+            "asin": "B00B3G89MQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7952755826
+            },
+            "name": "K9 Natural Freeze Dried Pet Food, 0.44-Pound, Lamb Tripe",
+            "normalizedName": "K9 Natural Freeze Dried Pet Food, 0.44-Pound, Lamb Tripe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5291040284657967
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5905511754
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

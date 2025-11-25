@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01DFSG1I8": {
+            "asin": "B01DFSG1I8",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999967564
+            },
+            "name": "LL Womens White Lace Scarf with Rain Drop Tassels All Season Fashion Accessory",
+            "normalizedName": "LL Womens White Lace Scarf with Rain Drop Tassels All Season Fashion Accessory",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001130612156
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999984394
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

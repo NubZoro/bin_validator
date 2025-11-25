@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0062076213": {
+            "asin": "0062076213",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Toxic Charity: How Churches and Charities Hurt Those They Help, And How to Reverse It",
+            "normalizedName": "Toxic Charity: How Churches and Charities Hurt Those They Help, And How to Reverse It",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "0802413854": {
+            "asin": "0802413854",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Make it Zero: The Movement to Safeguard Every Child",
+            "normalizedName": "Make it Zero: The Movement to Safeguard Every Child",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "1616147857": {
+            "asin": "1616147857",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "The Crypt Thief: A Hugo Marston Novel",
+            "normalizedName": "The Crypt Thief: A Hugo Marston Novel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5291040284657967
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B001REIFNM": {
+            "asin": "B001REIFNM",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Shea Terra Organics Shea Butter & Malawi Sugar 2 n 1 Body Scrub, Dark Chocolate, 8 Ounce",
+            "normalizedName": "Shea Terra Organics Shea Butter & Malawi Sugar 2 n 1 Body Scrub, Dark Chocolate, 8 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

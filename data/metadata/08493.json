@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1423185161": {
+            "asin": "1423185161",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.81102361
+            },
+            "name": "Rules of the House",
+            "normalizedName": "Rules of the House",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2345760653848885
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.4724409342
+            }
+        },
+        "1844137872": {
+            "asin": "1844137872",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Wall and Piece",
+            "normalizedName": "Wall and Piece",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

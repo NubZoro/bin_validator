@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0033PEFDC": {
+            "asin": "B0033PEFDC",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Bulk Buy: Red Heart Super Saver Yarn (3-Pack) Aran Fleck E300-4313",
+            "normalizedName": "(3-Pack) Bulk Buy: Red Heart Super Saver Yarn Aran Fleck E300-4313",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B019WNQ6BW": {
+            "asin": "B019WNQ6BW",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "ZHUOZZ Samsung Gear S2 Band, Samsung Smartwatch Replacement Band for Samsung Gear S2",
+            "normalizedName": "ZHUOZZ Samsung Gear S2 Band, Samsung Smartwatch Replacement Band for Samsung Gear S2",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.039999999966456375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

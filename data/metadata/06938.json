@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00063E2FU": {
+            "asin": "B00063E2FU",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Snap-N-Store CD Storage Boxes, Set of 2 Boxes, Black (SNS01617)",
+            "normalizedName": "Set of 2 Snap-N-Store CD Storage Boxes, Boxes, Black (SNS01617)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00VANOJHQ": {
+            "asin": "B00VANOJHQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Bed Sheet Bedding Set, 100% Soft Brushed Microfiber with Deep Pocket Fitted Sheet - KING - BEIGE CREAM - 1800 Luxury Bedding Collection, Hypoallergenic & Wrinkle Free Bedroom Linen Set",
+            "normalizedName": "Bed Sheet Bedding Set, 100% Soft Brushed Microfiber with Deep Pocket Fitted Sheet - KING - BEIGE CREAM - 1800 Luxury Bedding Collection, Hypoallergenic & Wrinkle Free Bedroom Linen Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

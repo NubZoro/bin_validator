@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008TL6J4S": {
+            "asin": "B008TL6J4S",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "LinenTablecloth 60 x 102-Inch Rectangular Polyester Tablecloth Black",
+            "normalizedName": "LinenTablecloth 60 x 102-Inch Rectangular Polyester Tablecloth Black",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            }
+        },
+        "B00GFYKWBM": {
+            "asin": "B00GFYKWBM",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Discovery Kids Exploration Laptop",
+            "normalizedName": "Discovery Kids Exploration Laptop",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

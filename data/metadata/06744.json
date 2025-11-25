@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005ZENESG": {
+            "asin": "B005ZENESG",
+            "height": {
+                "unit": "IN",
+                "value": 0.019999999979600003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Maxell Battery 321 - BAT-M321",
+            "normalizedName": "Maxell Battery 321 - BAT-M321",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00VWJ2HOK": {
+            "asin": "B00VWJ2HOK",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Quantum 20 Pack Compatible Ink Cartridge for Canon PGI-225 CLI-226 for Canon Pixma MG6220 MG8220 MG6120 MG8120 MG8120B MG6110 Printers (5BK+3BK+3C+3M+3Y+3GY)",
+            "normalizedName": "20 Pack Quantum Compatible Ink Cartridge for Canon PGI-225 CLI-226 for Canon Pixma MG6220 MG8220 MG6120 MG8120 MG8120B MG6110 Printers (5BK+3BK+3C+3M+3Y+3GY)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

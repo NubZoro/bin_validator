@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003BEDPIQ": {
+            "asin": "B003BEDPIQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991738
+            },
+            "name": "Microsoft Wireless Mobile Mouse 6000 - White",
+            "normalizedName": "Microsoft Wireless Mobile Mouse 6000 - White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00AX31TZO": {
+            "asin": "B00AX31TZO",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Pentel Arts Aquash Water Brush Assorted Tips, Pack of 3 (FRHBFMBP3)",
+            "normalizedName": "Pack of 3 Pentel Arts Aquash Water Brush Assorted Tips, (FRHBFMBP3)",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

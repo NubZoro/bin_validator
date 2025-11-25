@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008TL8WZ2": {
+            "asin": "B008TL8WZ2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "LinenTablecloth 60 x 126-Inch Rectangular Polyester Tablecloth Navy Blue",
+            "normalizedName": "LinenTablecloth 60 x 126-Inch Rectangular Polyester Tablecloth Navy Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B00PHKXM3K": {
+            "asin": "B00PHKXM3K",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Insulated Neoprene 6 holders Beer Tote (Pack of 2)",
+            "normalizedName": "(Pack of 2) Insulated Neoprene 6 holders Beer Tote",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

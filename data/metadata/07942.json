@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0062GZ8M6": {
+            "asin": "B0062GZ8M6",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "COVERGIRL and Olay Tonerehab 2-In-1 Foundation, Natural Beige 140, 1 Fluid Ounce",
+            "normalizedName": "COVERGIRL and Olay Tonerehab 2-In-1 Foundation, Natural Beige 140, 1 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B014JJGCDQ": {
+            "asin": "B014JJGCDQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Quick Release Pair of Locking 2\" Olympic Size Barbell Clamp Collar Great for Pro Crossfit Training by Clout Fitness (black)",
+            "normalizedName": "Quick Release Pair of Locking 2\" Olympic Size Barbell Clamp Collar Great for Pro Crossfit Training by Clout Fitness (black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01D2PKYMI": {
+            "asin": "B01D2PKYMI",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "DJI CP.PT.000342 Phantom 4 Intelligent Flight Battery",
+            "normalizedName": "DJI CP.PT.000342 Phantom 4 Intelligent Flight Battery",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

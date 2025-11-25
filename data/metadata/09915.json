@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00UO0UNOE": {
+            "asin": "B00UO0UNOE",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Sennheiser ME 3 II Dynamic Microphone",
+            "normalizedName": "Sennheiser ME 3 II Dynamic Microphone",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

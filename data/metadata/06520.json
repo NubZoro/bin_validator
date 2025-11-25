@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007Z6ZZMU": {
+            "asin": "B007Z6ZZMU",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "LD &copy; Remanufactured Hewlett Packard (HP) C8767WN (96) and C9363WN (97) Set of 2 Ink Cartridges: Includes 1 Black and 1 Color Cartridge",
+            "normalizedName": "Set of 2 LD &copy; Remanufactured Hewlett Packard (HP) C8767WN (96) and C9363WN (97) Ink Cartridges: Includes 1 Black and 1 Color Cartridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00P0YR7IE": {
+            "asin": "B00P0YR7IE",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "ZippyPaws Burrow Squeaky Meerkats Plush Dog Toys, Medium, 3-Pack",
+            "normalizedName": "3-Pack ZippyPaws Burrow Squeaky Meerkats Plush Dog Toys, Medium,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B01BQMDX40": {
+            "asin": "B01BQMDX40",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993777999
+            },
+            "name": "D.H.S. Traditional Wall Switch Cover Plate - Satin Nickel - Decora Rocker - 1 Gang - Pack of 4",
+            "normalizedName": "Pack of 4 D.H.S. Traditional Wall Switch Cover Plate - Satin Nickel - Decora Rocker - 1 Gang -",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3999999965320002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

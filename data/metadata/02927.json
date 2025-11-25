@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1594748381": {
+            "asin": "1594748381",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Miss Peregrine's Peculiar Children Boxed Set",
+            "normalizedName": "Miss Peregrine's Peculiar Children Boxed Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6999999968972146
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B011TY8LLK": {
+            "asin": "B011TY8LLK",
+            "height": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "HUHD HW-398M 2.4Ghz Optical Wireless Headset With Detachable Microphone (Blue)",
+            "normalizedName": "HUHD HW-398M 2.4Ghz Optical Wireless Headset With Detachable Microphone (Blue)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.9527558974
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

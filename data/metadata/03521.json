@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004CYZ6NQ": {
+            "asin": "B004CYZ6NQ",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Circleware \"Windowpane\" 7oz Juice Glass Set with Pitcher 7pc",
+            "normalizedName": "Circleware \"Windowpane\" 7oz Juice Glass Set with Pitcher 7pc",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        },
+        "B0068ZU8D0": {
+            "asin": "B0068ZU8D0",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.599999983068
+            },
+            "name": "DBI/Sala ExoFit, 1108502 Construction Harness, Back D-Ring, Sewn-In Back Pad & Belt W/Side D-Rings, Quick-Connect Buckles, Large, Blue/Gray",
+            "normalizedName": "DBI/Sala ExoFit, 1108502 Construction Harness, Back D-Ring, Sewn-In Back Pad & Belt W/Side D-Rings, Quick-Connect Buckles, Large, Blue/Gray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.199999986536
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

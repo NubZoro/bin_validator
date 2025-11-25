@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001144Z6O": {
+            "asin": "B001144Z6O",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Coats Crochet South Maid Crochet, Cotton Thread Size 10, Delft Blue",
+            "normalizedName": "Coats Crochet South Maid Crochet, Cotton Thread Size 10, Delft Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00CSWUSW8": {
+            "asin": "B00CSWUSW8",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Bu's Best Biodynamic Compost Tomato Tea",
+            "normalizedName": "Bu's Best Biodynamic Compost Tomato Tea",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B015ES9AYY": {
+            "asin": "B015ES9AYY",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "EliteTek RG-14 Football Gloves Youth and Adult (White/Silver, Adult S)",
+            "normalizedName": "EliteTek RG-14 Football Gloves Youth and Adult (White/Silver, Adult S)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

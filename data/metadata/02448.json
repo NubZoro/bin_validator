@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008AGMO9G": {
+            "asin": "B008AGMO9G",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "uxcell 10Pcs Double end Test Lead Alligator Crocodile Roach Clip Wire 45cm",
+            "normalizedName": "uxcell 10Pcs Double end Test Lead Alligator Crocodile Roach Clip Wire 45cm",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B01DSUUQSO": {
+            "asin": "B01DSUUQSO",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.849999991993
+            },
+            "name": "GreatYakonn 2pcs 6FT 8Pin Lightning Cable Popular Nylon Braided Charging Cord USB Cable for iPhone 6s,6s+,6plus,6 iPhone 5,5c,5s,iPad Mini,Mini2.iPad 5,iPod 7(Gold and Silver)",
+            "normalizedName": "GreatYakonn 2pcs 6FT 8Pin Lightning Cable Popular Nylon Braided Charging Cord USB Cable for iPhone 6s,6s+,6plus,6 iPhone 5,5c,5s,iPad Mini,Mini2.iPad 5,iPod 7(Gold and Silver)",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.049999994849
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

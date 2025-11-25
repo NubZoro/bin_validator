@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00008BFS5": {
+            "asin": "B00008BFS5",
+            "height": {
+                "unit": "IN",
+                "value": 0.149999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Streamlight 65018 Stylus 6-1/4-Inch Penlight with Pocket Clip and White LED, Black",
+            "normalizedName": "Streamlight 65018 Stylus 6-1/4-Inch Penlight with Pocket Clip and White LED, Black",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

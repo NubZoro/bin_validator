@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00028NGEC": {
+            "asin": "B00028NGEC",
+            "height": {
+                "unit": "IN",
+                "value": 2.8346456664
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "Neocell Super Collagen+C  Type 1 and 3, 6000mg plus Vitamin C, 250 Count",
+            "normalizedName": "Neocell Super Collagen+C  Type 1 and 3, 6000mg plus Vitamin C, 250 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800355822459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.8346456664
+            }
+        },
+        "B000I05GOW": {
+            "asin": "B000I05GOW",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Hot Wheels Monster Jam Tour Favorites \u2013 Styles May Vary",
+            "normalizedName": "Hot Wheels Monster Jam Tour Favorites \u2013 Styles May Vary",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B0047URUIY": {
+            "asin": "B0047URUIY",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988167998
+            },
+            "name": "Outback Trading Co Men's Co. Oilskin River Guide Hat Brown Medium",
+            "normalizedName": "Outback Trading Co Men's Co. Oilskin River Guide Hat Brown Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

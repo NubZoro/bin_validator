@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00016XC7G": {
+            "asin": "B00016XC7G",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Oregon's Wild Harvest Muscle Relax Organic Supplement, 90 Count, 90 Fluid Ounce",
+            "normalizedName": "Oregon's Wild Harvest Muscle Relax Organic Supplement, 90 Count, 90 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B004CC28F2": {
+            "asin": "B004CC28F2",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Crossfire 241 Infinity Crystal Black Frame Safety Sunglasses with Smoke Lenses",
+            "normalizedName": "Crossfire 241 Infinity Crystal Black Frame Safety Sunglasses with Smoke Lenses",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01AXLJSMQ": {
+            "asin": "B01AXLJSMQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.9921259812
+            },
+            "name": "GizmoVine Bluetooth Speaker Wireless Portable Multicolor Audio Fashion Design Ultra Clear Sound Powerful Blue",
+            "normalizedName": "GizmoVine Bluetooth Speaker Wireless Portable Multicolor Audio Fashion Design Ultra Clear Sound Powerful Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.9921259812
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

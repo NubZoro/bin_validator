@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009NKTK4U": {
+            "asin": "B009NKTK4U",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Nescafe Dolce Gusto for Nescafe Dolce Gusto Brewers, Cafe Americano, 16 Count",
+            "normalizedName": "Nescafe Dolce Gusto for Nescafe Dolce Gusto Brewers, Cafe Americano, 16 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00E9W11QM": {
+            "asin": "B00E9W11QM",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.1968503884
+            },
+            "name": "Belkin Rockstar Multi Headphone Splitter (Black)",
+            "normalizedName": "Belkin Rockstar Multi Headphone Splitter (Black)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04409200237214973
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0157480274
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

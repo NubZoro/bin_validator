@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00112CHD4": {
+            "asin": "B00112CHD4",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.7086614064
+            },
+            "name": "Apples to Apples Junior - The Game of Crazy Combinations!",
+            "normalizedName": "Apples to Apples Junior - The Game of Crazy Combinations!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.7086614064
+            }
+        },
+        "B008TL7EK6": {
+            "asin": "B008TL7EK6",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "LinenTablecloth 60 x 102-Inch Rectangular Tablecloth Red & White Checker",
+            "normalizedName": "LinenTablecloth 60 x 102-Inch Rectangular Tablecloth Red & White Checker",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            }
+        },
+        "B00XMLRCJG": {
+            "asin": "B00XMLRCJG",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "WolVol Wrecker Tow Truck Police Toy, Friction Powered",
+            "normalizedName": "WolVol Wrecker Tow Truck Police Toy, Friction Powered",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B01DGIQEFM": {
+            "asin": "B01DGIQEFM",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Salad Maker & Mandolin Set - Salad Spinner with 7 Interchangeable Stainless Steel Blades - Perpetual Peeler and eBook included",
+            "normalizedName": "Salad Maker & Mandolin Set - Salad Spinner with 7 Interchangeable Stainless Steel Blades - Perpetual Peeler and eBook included",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.099999996561778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002C1YK8I": {
+            "asin": "B002C1YK8I",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "La Bella Lots of Curls Hair Styling Gel, 22 Ounce",
+            "normalizedName": "La Bella Lots of Curls Hair Styling Gel, 22 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00EADWEO8": {
+            "asin": "B00EADWEO8",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Renu Fresh Multi-Purpose Solution Travel Kit and Lens Case, (Pack of 4)",
+            "normalizedName": "(Pack of 4) Renu Fresh Multi-Purpose Solution Travel Kit and Lens Case,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FK83HFW": {
+            "asin": "B00FK83HFW",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Hips sister Standard Left Coast Sister (Carbon/Black Zipper, B (M/L - 29.5\" to 31\"))",
+            "normalizedName": "Hips sister Standard Left Coast Sister (Carbon/Black Zipper, B (M/L - 29.5\" to 31\"))",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B017CGJKSC": {
+            "asin": "B017CGJKSC",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "iPhone 6S Wallet Case, Maxboost [Elegance Series] iPhone Wallet Cover for iPhone 6 / 6S Protective PU Leather Card Case w/3 Card Slots + Side Pocket Flip Magnetic - Black",
+            "normalizedName": "iPhone 6S Wallet Case, Maxboost [Elegance Series] iPhone Wallet Cover for iPhone 6 / 6S Protective PU Leather Card Case w/3 Card Slots + Side Pocket Flip Magnetic - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

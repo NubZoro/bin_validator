@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00P57L1J2": {
+            "asin": "B00P57L1J2",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Original Drillbrush Power Scrubber Heavy Duty Stiff Bristle Nylon Scrub Brush",
+            "normalizedName": "Original Drillbrush Power Scrubber Heavy Duty Stiff Bristle Nylon Scrub Brush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01A2IR5G6": {
+            "asin": "B01A2IR5G6",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Aduro\u00ae AMPLIFY BrightSound Mini LED Color Changing Rave Light Show Bluetooth Wireless Speaker",
+            "normalizedName": "Aduro\u00ae AMPLIFY BrightSound Mini LED Color Changing Rave Light Show Bluetooth Wireless Speaker",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291276
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.749999996175
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "630463949X": {
+            "asin": "630463949X",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Fleetwood Mac - The Dance",
+            "normalizedName": "Fleetwood Mac - The Dance",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B005F1IYDE": {
+            "asin": "B005F1IYDE",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Nioxin System 1 Treatment - 3.38 oz",
+            "normalizedName": "Nioxin System 1 Treatment - 3.38 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00DNGXE0Q": {
+            "asin": "B00DNGXE0Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "LED 8.5w A60 Light Bulb, 800lm CRI 85, Excellent 60w Incandescent Bulb Replacement, Technolamp",
+            "normalizedName": "LED 8.5w A60 Light Bulb, 800lm CRI 85, Excellent 60w Incandescent Bulb Replacement, Technolamp",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B014120X04": {
+            "asin": "B014120X04",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Metal Portable Bluetooth Speakers,Mini Stereo Wireless 3W TF/Micro SD Card Slot,3.5mm Aux Jack,Microphone,Good Bass,for iPhone iPad iPod Galaxy Phone MP3 MP4 Video Players Computer,GLCON GS-M7 Black",
+            "normalizedName": "Metal Portable Bluetooth Speakers,Mini Stereo Wireless 3W TF/Micro SD Card Slot,3.5mm Aux Jack,Microphone,Good Bass,for iPhone iPad iPod Galaxy Phone MP3 MP4 Video Players Computer,GLCON GS-M7 Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

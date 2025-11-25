@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003LZ6KZA": {
+            "asin": "B003LZ6KZA",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Olay Total Effects Refreshing Citrus Scrub, 6.5 fl oz (Pack of 3)",
+            "normalizedName": "(Pack of 3) Olay Total Effects Refreshing Citrus Scrub, 6.5 fl oz",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00N1X40WW": {
+            "asin": "B00N1X40WW",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "OtterBox COMMUTER SERIES iPhone 6/6s Case - Frustration Free Packaging - AQUA SKY (AQUA BLUE/LIGHT TEAL)",
+            "normalizedName": "OtterBox COMMUTER SERIES iPhone 6/6s Case - Frustration Free Packaging - AQUA SKY (AQUA BLUE/LIGHT TEAL)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

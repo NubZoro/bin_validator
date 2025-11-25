@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00E1CSEMO": {
+            "asin": "B00E1CSEMO",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.4251968418
+            },
+            "name": "Skullcandy Crusher Headphones with Built-in Amplifier and Mic, Black",
+            "normalizedName": "Skullcandy Crusher Headphones with Built-in Amplifier and Mic, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.10231131
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

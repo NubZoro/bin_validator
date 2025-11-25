@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BAKWKP2": {
+            "asin": "B00BAKWKP2",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "50 Blank White Dice 16MM",
+            "normalizedName": "50 Blank White Dice 16MM",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B0126IG2B4": {
+            "asin": "B0126IG2B4",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Ultra Digital Kitchen Timer Countdown Timer - With Extra Large Digital Display (Blue)",
+            "normalizedName": "Ultra Digital Kitchen Timer Countdown Timer - With Extra Large Digital Display (Blue)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2299999989685335
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

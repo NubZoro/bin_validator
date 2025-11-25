@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BO6RIE": {
+            "asin": "B000BO6RIE",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995613999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862003
+            },
+            "name": "3M Face Shield",
+            "normalizedName": "3M Face Shield",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B00W045QT4": {
+            "asin": "B00W045QT4",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "Kenox Vintage Classic Canvas Laptop Messenger Bag Crossbody School Bag Business Briefcase Black 16 Inches",
+            "normalizedName": "Kenox Vintage Classic Canvas Laptop Messenger Bag Crossbody School Bag Business Briefcase Black 16 Inches",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        },
+        "B014HNGQ7Q": {
+            "asin": "B014HNGQ7Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "U-Turn Audio - Pluto Phono Preamp (White)",
+            "normalizedName": "U-Turn Audio - Pluto Phono Preamp (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001V9SXXU": {
+            "asin": "B001V9SXXU",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "CeraVe Moisturizers, Moisturizing Cream, 16 Ounce",
+            "normalizedName": "CeraVe Moisturizers, Moisturizing Cream, 16 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1799999990104633
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B002IKK5D2": {
+            "asin": "B002IKK5D2",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Monteverde Ballpoint Refill to Fit Parker Ballpoint Pens, Medium Point, Soft Roll, Red, 2 per Pack (P132RD)",
+            "normalizedName": "2 per Pack Monteverde Ballpoint Refill to Fit Parker Ballpoint Pens, Medium Point, Soft Roll, Red, (P132RD)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04409200237214973
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.199999997756
+            }
+        },
+        "B00DQMAXSS": {
+            "asin": "B00DQMAXSS",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Belkin Rockstar Multi Headphone Splitter (Green)",
+            "normalizedName": "Belkin Rockstar Multi Headphone Splitter (Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00LBGOX5U": {
+            "asin": "B00LBGOX5U",
+            "height": {
+                "unit": "IN",
+                "value": 2.9921259812
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9606299162
+            },
+            "name": "Zoodle Chef Premium Vegetable Spiralizer, **New Year Sales Price** Spiral Slicer, Zucchini Noodle, Spaghetti and Pasta Maker, Creates Zoodles and Chips (Florette) Recipe Ebook and Cleaning Brush Included. Try It Risk Free",
+            "normalizedName": "Zoodle Chef Premium Vegetable Spiralizer, **New Year Sales Price** Spiral Slicer, Zucchini Noodle, Spaghetti and Pasta Maker, Creates Zoodles and Chips (Florette) Recipe Ebook and Cleaning Brush Included. Try It Risk Free",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601897719786
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.0708661386
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

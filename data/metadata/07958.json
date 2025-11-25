@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008478JF4": {
+            "asin": "B008478JF4",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Mother Earth Products Freeze Dried Raspberries, 1 Full Quart",
+            "normalizedName": "Mother Earth Products Freeze Dried Raspberries, 1 Full Quart",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

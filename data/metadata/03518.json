@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KY6AA46": {
+            "asin": "B00KY6AA46",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Cosmas\u00ae 9236SN Satin Nickel Cabinet Hardware Bin Cup Drawer Handle Pull - 3-3/4\" Hole Centers - 10 Pack",
+            "normalizedName": "10 Pack Cosmas\u00ae 9236SN Satin Nickel Cabinet Hardware Bin Cup Drawer Handle Pull - 3-3/4\" Hole Centers -",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B013JNG2ME": {
+            "asin": "B013JNG2ME",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Anker PowerLine 6ft Lightning Cable, Apple MFi Certified Lightning to USB Charging Cable for iPhone 5/5s/5c/6/6s Plus/SE, iPad mini/Air/Pro iPod touch (Blue)",
+            "normalizedName": "Anker PowerLine 6ft Lightning Cable, Apple MFi Certified Lightning to USB Charging Cable for iPhone 5/5s/5c/6/6s Plus/SE, iPad mini/Air/Pro iPod touch (Blue)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

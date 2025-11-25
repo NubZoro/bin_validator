@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003GXF9MW": {
+            "asin": "B003GXF9MW",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Streamlight 88030 ProTac Tactical Flashlight 1L with White LED Includes 1 CR123A Lithium Battery and Holster, Black",
+            "normalizedName": "Streamlight 88030 ProTac Tactical Flashlight 1L with White LED Includes 1 CR123A Lithium Battery and Holster, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B004FJOEMC": {
+            "asin": "B004FJOEMC",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Western Horse Soft Fleece Throw Blanket, 63\"x73\"",
+            "normalizedName": "Western Horse Soft Fleece Throw Blanket, 63\"x73\"",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B00REO2WI8": {
+            "asin": "B00REO2WI8",
+            "height": {
+                "unit": "IN",
+                "value": 1.4
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.1
+            },
+            "name": "Joe's USA(tm) Mens Moisture Wicking Micropique Golf Polos-XXXXXL",
+            "normalizedName": "Joe's USA(tm) Mens Moisture Wicking Micropique Golf Polos-XXXXXL",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.900000000000002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

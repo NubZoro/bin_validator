@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1594861986": {
+            "asin": "1594861986",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "The South Beach Diet: Good Fats Good Carbs Guide - The Complete and Easy Reference for All Your Favorite Foods, Revised Edition",
+            "normalizedName": "The South Beach Diet: Good Fats Good Carbs Guide - The Complete and Easy Reference for All Your Favorite Foods, Revised Edition",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "B00MI3OF3K": {
+            "asin": "B00MI3OF3K",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "PopClik JUMP Headphone GREEN/GRAY",
+            "normalizedName": "PopClik JUMP Headphone GREEN/GRAY",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

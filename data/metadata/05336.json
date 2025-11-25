@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0133458903": {
+            "asin": "0133458903",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Digital Crime and Digital Terrorism (3rd Edition)",
+            "normalizedName": "Digital Crime and Digital Terrorism (3rd Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00FFJ4N2M": {
+            "asin": "B00FFJ4N2M",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "bodycology\u00c2\u00ae Pretty in Paris Foaming Body Wash - 16 oz",
+            "normalizedName": "bodycology\u00c2\u00ae Pretty in Paris Foaming Body Wash - 16 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00KAVXMF4": {
+            "asin": "B00KAVXMF4",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "KLOUD City \u00ae Pack of 5 Different Color Plastic Toothbrush Case/Holder for Travel Use (Style ONE)",
+            "normalizedName": "Pack of 5 KLOUD City \u00ae Different Color Plastic Toothbrush Case/Holder for Travel Use (Style ONE)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00ZJOWHF8": {
+            "asin": "B00ZJOWHF8",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Josef Dolls 38755 Year One Birthday Doll",
+            "normalizedName": "Josef Dolls 38755 Year One Birthday Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1999999998322819
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

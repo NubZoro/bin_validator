@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00B8L5TX8": {
+            "asin": "B00B8L5TX8",
+            "height": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Mann Lake FD210 Ultra Bee Dry Feed Pail, 10-Pound",
+            "normalizedName": "Mann Lake FD210 Ultra Bee Dry Feed Pail, 10-Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

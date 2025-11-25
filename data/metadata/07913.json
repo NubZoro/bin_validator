@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000225AQ": {
+            "asin": "B0000225AQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Saunders 11017 Recycled Aluminum Redi-Rite Storage Clipboard - Letter Size - 8.5 x 12 inches",
+            "normalizedName": "Saunders 11017 Recycled Aluminum Redi-Rite Storage Clipboard - Letter Size - 8.5 x 12 inches",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        },
+        "B004YI9NTS": {
+            "asin": "B004YI9NTS",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Grace Digital Wi-Fi Music Player with 3.5-Inch Color Display (GDI-IRC6000) (Black)",
+            "normalizedName": "Grace Digital Wi-Fi Music Player with 3.5-Inch Color Display (GDI-IRC6000) (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

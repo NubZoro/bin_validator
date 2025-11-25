@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BFU7QQ0": {
+            "asin": "B00BFU7QQ0",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Camco 11674 'Hybrid Heat' Replacement Hot Water Heater Element - 6 Gallon",
+            "normalizedName": "Camco 11674 'Hybrid Heat' Replacement Hot Water Heater Element - 6 Gallon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00CR0JAT8": {
+            "asin": "B00CR0JAT8",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "D-Link DCS-5010L Pan & Tilt Wi-Fi Camera (Black)",
+            "normalizedName": "D-Link DCS-5010L Pan & Tilt Wi-Fi Camera (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B01CGH7AAC": {
+            "asin": "B01CGH7AAC",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Rubbermaid Fasten Go Sandwich Kit, Sea Foam Green",
+            "normalizedName": "Rubbermaid Fasten Go Sandwich Kit, Sea Foam Green",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004I9D6C8": {
+            "asin": "B004I9D6C8",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "SKIL 7292-02 2.0 Amp 1/4 Sheet Palm Sander with Pressure Control",
+            "normalizedName": "SKIL 7292-02 2.0 Amp 1/4 Sheet Palm Sander with Pressure Control",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

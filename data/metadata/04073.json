@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1118911938": {
+            "asin": "1118911938",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Plumb's Veterinary Drug Handbook (Desk)",
+            "normalizedName": "Plumb's Veterinary Drug Handbook (Desk)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B005MSFFGO": {
+            "asin": "B005MSFFGO",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Christopher Radko Christmasakkah Nick Ornament",
+            "normalizedName": "Christopher Radko Christmasakkah Nick Ornament",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

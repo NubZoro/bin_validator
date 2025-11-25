@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001UYMLM": {
+            "asin": "B0001UYMLM",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "West County 014SL Women's Work Glove, Stem, Large",
+            "normalizedName": "West County 014SL Women's Work Glove, Stem, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00LNYJ59E": {
+            "asin": "B00LNYJ59E",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Weelly Summer Hero Men Short Sleeve Cycling Jersey Shirts Pants Coolmax Pad Iron Man Spiderman Superman Captain America Batman",
+            "normalizedName": "Weelly Summer Hero Men Short Sleeve Cycling Jersey Shirts Pants Coolmax Pad Iron Man Spiderman Superman Captain America Batman",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B01AHHRF12": {
+            "asin": "B01AHHRF12",
+            "height": {
+                "unit": "IN",
+                "value": 2.9921259812
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0314960548
+            },
+            "name": "ScubaPro Divers Egg Dry Box with String",
+            "normalizedName": "ScubaPro Divers Egg Dry Box with String",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.149606296
+            }
+        },
+        "B01D29I1SS": {
+            "asin": "B01D29I1SS",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Chilly Willy Stainless Steel Cookie Cutter Bachelorette Party Favor",
+            "normalizedName": "Chilly Willy Stainless Steel Cookie Cutter Bachelorette Party Favor",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

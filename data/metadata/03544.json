@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002FU68KO": {
+            "asin": "B002FU68KO",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "name": "Seagate Products Grape Seed Extract 250 mg 90 Capsules",
+            "normalizedName": "Seagate Products Grape Seed Extract 250 mg 90 Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B004FUJ5NE": {
+            "asin": "B004FUJ5NE",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Red Sea Reef Foundation Test Kit - Calcium, Alkalinity & Magnesium",
+            "normalizedName": "Red Sea Reef Foundation Test Kit - Calcium, Alkalinity & Magnesium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B0053PI9I2": {
+            "asin": "B0053PI9I2",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Advacal 1000, Advanced Calcium Supplement - 150 Capsules",
+            "normalizedName": "Advacal 1000, Advanced Calcium Supplement - 150 Capsules",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.31
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B015H04SAA": {
+            "asin": "B015H04SAA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "2x JACKYLED New DC 12V 2A 2.0A Switching Power Supply Adapter For 110V- 240V AC 50/60Hz 2.1mm",
+            "normalizedName": "2x JACKYLED New DC 12V 2A 2.0A Switching Power Supply Adapter For 110V- 240V AC 50/60Hz 2.1mm",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

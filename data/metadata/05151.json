@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000L484VW": {
+            "asin": "B000L484VW",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "name": "Manfrotto 785PL Quick Release Plate for Modo 785B, 785SHB/ DIGI 718B and 718SHB Models",
+            "normalizedName": "Manfrotto 785PL Quick Release Plate for Modo 785B, 785SHB/ DIGI 718B and 718SHB Models",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400474429947
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.4645669256
+            }
+        },
+        "B004N50BO8": {
+            "asin": "B004N50BO8",
+            "height": {
+                "unit": "IN",
+                "value": 1.8110236202
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.9448818786
+            },
+            "name": "FreshGadgetz Pack of 10 Sleep Masks for Eyes",
+            "normalizedName": "Pack of 10 FreshGadgetz Sleep Masks for Eyes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.1653543234
+            }
+        },
+        "B00L1G7LBI": {
+            "asin": "B00L1G7LBI",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.5669291292
+            },
+            "name": "HP 62XL Black High Yield Original Ink Cartridge (C2P05AN)",
+            "normalizedName": "HP 62XL Black High Yield Original Ink Cartridge (C2P05AN)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4094488144
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

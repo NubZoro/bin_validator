@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DUGZFWY": {
+            "asin": "B00DUGZFWY",
+            "height": {
+                "unit": "IN",
+                "value": 3.3858267682
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.4566928966
+            },
+            "name": "AmazonBasics 15.6-Inch Laptop and Tablet Bag",
+            "normalizedName": "AmazonBasics 15.6-Inch Laptop and Tablet Bag",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.719588091071809
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.8346456562
+            }
+        },
+        "B00W1XN60A": {
+            "asin": "B00W1XN60A",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "2 Pack Standard Plastic Adult Hangers - Hot Lime",
+            "normalizedName": "2 Pack  Standard Plastic Adult Hangers - Hot Lime",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

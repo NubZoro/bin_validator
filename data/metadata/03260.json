@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JZG2VTI": {
+            "asin": "B00JZG2VTI",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "My Soul's Window 4942 Take Out Saying Ceramic Measuring Cups, 7-Inch, Multicolor",
+            "normalizedName": "My Soul's Window 4942 Take Out Saying Ceramic Measuring Cups, 7-Inch, Multicolor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B017MO2RXO": {
+            "asin": "B017MO2RXO",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "EXOSleeve CrossFit Knee Sleeves (Green Camo, Small)",
+            "normalizedName": "EXOSleeve CrossFit Knee Sleeves (Green Camo, Small)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 8.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

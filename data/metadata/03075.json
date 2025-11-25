@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007HMMRC8": {
+            "asin": "B007HMMRC8",
+            "height": {
+                "unit": "IN",
+                "value": 3.0708661386
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.1653543132
+            },
+            "name": "Ridley's Circus Juggling Clubs Set Of 3",
+            "normalizedName": "Set Of 3 Ridley's Circus Juggling Clubs",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.93
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.5354330642
+            }
+        },
+        "B00D5J7SL2": {
+            "asin": "B00D5J7SL2",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "Love Home Memory Foam 3d Ventilative Mesh Lumbar Support Cushion Back Cushion - Alleviates Lower Back Pain- (Black)",
+            "normalizedName": "Love Home Memory Foam 3d Ventilative Mesh Lumbar Support Cushion Back Cushion - Alleviates Lower Back Pain- (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5099999987337285
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

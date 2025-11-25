@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011SAL414": {
+            "asin": "B011SAL414",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Natureganics MEGA BCAA Amino Acids Dietary Supplement, 1600 mg, 60 Capsules",
+            "normalizedName": "Natureganics MEGA BCAA Amino Acids Dietary Supplement, 1600 mg, 60 Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

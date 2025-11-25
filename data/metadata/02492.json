@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VI6BFBS": {
+            "asin": "B00VI6BFBS",
+            "height": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.267716527
+            },
+            "name": "Fisher-Price Imaginext Pterodactyl",
+            "normalizedName": "Fisher-Price Imaginext Pterodactyl",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.8503936938
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

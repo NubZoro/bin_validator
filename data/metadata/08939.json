@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0312428537": {
+            "asin": "0312428537",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "A Better Angel: Stories",
+            "normalizedName": "A Better Angel: Stories",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "042527795X": {
+            "asin": "042527795X",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "name": "The Memory of Lemon",
+            "normalizedName": "The Memory of Lemon",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00T8K8VMM": {
+            "asin": "B00T8K8VMM",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Atlanta Hawks NBA adidas Youth Alternate Shorts Red (Youth Small 8)",
+            "normalizedName": "Atlanta Hawks NBA adidas Youth Alternate Shorts Red (Youth Small 8)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

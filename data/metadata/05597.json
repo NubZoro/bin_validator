@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01B46GL10": {
+            "asin": "B01B46GL10",
+            "height": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Westinghouse WTO1010BSA Select Series 4 Slice Countertop Toaster Oven, Black",
+            "normalizedName": "Westinghouse WTO1010BSA Select Series 4 Slice Countertop Toaster Oven, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.249999993920218
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.199999987555998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

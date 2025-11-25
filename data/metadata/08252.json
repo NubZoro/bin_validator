@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K2I68R4": {
+            "asin": "B00K2I68R4",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Set of 40 Unscented White Taper Candles 8 Inch Tall 3/4 Inch Thick Burn 7 Hours",
+            "normalizedName": "Set of 40  Unscented White Taper Candles 8 Inch Tall 3/4 Inch Thick Burn 7 Hours",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B016APHX4E": {
+            "asin": "B016APHX4E",
+            "height": {
+                "unit": "IN",
+                "value": 2.1653543285
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0708661335
+            },
+            "name": "Disney/Pixar Cars, Color Changers, Lightning McQueen [Red to Black] Vehicle",
+            "normalizedName": "Disney/Pixar Cars, Color Changers, Lightning McQueen [Red to Black] Vehicle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00O5ZO04I": {
+            "asin": "B00O5ZO04I",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Play-Doh Makin' Mayhem Set Featuring Despicable Me Minions",
+            "normalizedName": "Play-Doh Makin' Mayhem Set Featuring Despicable Me Minions",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00O9GW8TC": {
+            "asin": "B00O9GW8TC",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.9842519624
+            },
+            "name": "Nintendo Super Smash Bros. White Classic Gamecube Controller",
+            "normalizedName": "Nintendo Super Smash Bros. White Classic Gamecube Controller",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936641432
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B011VJHO02": {
+            "asin": "B011VJHO02",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Trojan Sensitivity Ultra Thin Premium Lubricant Condom 36 Ct Value Pack (Pack of 2)",
+            "normalizedName": "(Pack of 2) Trojan Sensitivity Ultra Thin Premium Lubricant Condom 36 Ct Value Pack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

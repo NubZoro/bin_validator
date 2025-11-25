@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00WUUQZ6G": {
+            "asin": "B00WUUQZ6G",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "AT-A-GLANCE Weekly / Monthly Appointment Book / Planner 2016, Triple View, Tabbed, 6-7/8 x 8-3/4 Inches, Black (70-100V-05)",
+            "normalizedName": "AT-A-GLANCE Weekly / Monthly Appointment Book / Planner 2016, Triple View, Tabbed, 6-7/8 x 8-3/4 Inches, Black (70-100V-05)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B017RR93II": {
+            "asin": "B017RR93II",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Meal Prep Containers - Stackable Plastic Microwavable Dishwasher Safe Reusable - Bento Box - (Set of Ten) By Macrostacks",
+            "normalizedName": "Meal Prep Containers - Stackable Plastic Microwavable Dishwasher Safe Reusable - Bento Box - (Set of Ten) By Macrostacks",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

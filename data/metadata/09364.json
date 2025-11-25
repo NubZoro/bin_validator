@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003JCMKEK": {
+            "asin": "B003JCMKEK",
+            "height": {
+                "unit": "IN",
+                "value": 1.4960629906
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.1023621934
+            },
+            "name": "Environmental Concepts 1662 Professional Soil Test Kit with 40 Tests",
+            "normalizedName": "Environmental Concepts 1662 Professional Soil Test Kit with 40 Tests",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8377480443683174
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "B01A4D4FJE": {
+            "asin": "B01A4D4FJE",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "TangDepot Cotton Canvas Throw Pillow Cover -  Handmade - Many Colors Avaliable (14\"x14\", Taupe)",
+            "normalizedName": "TangDepot Cotton Canvas Throw Pillow Cover -  Handmade - Many Colors Avaliable (14\"x14\", Taupe)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

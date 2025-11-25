@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0048RFDSA": {
+            "asin": "B0048RFDSA",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Household Essentials Holiday Dinnerware Storage Chest for Dessert Plates or Bowls, Red with Green Trim",
+            "normalizedName": "Household Essentials Holiday Dinnerware Storage Chest for Dessert Plates or Bowls, Red with Green Trim",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

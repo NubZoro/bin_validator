@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0192842269": {
+            "asin": "0192842269",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Modern Architecture (Oxford History of Art)",
+            "normalizedName": "Modern Architecture (Oxford History of Art)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4991433816
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B00QT7AZIK": {
+            "asin": "B00QT7AZIK",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Garden of Life Raw Fit Protein Powder, Vanilla, 420 Gram",
+            "normalizedName": "Garden of Life Raw Fit Protein Powder, Vanilla, 420 Gram",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B015JTIQBQ": {
+            "asin": "B015JTIQBQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "BinTEK Screen Guard ZTE Grand X Screen Protector PREMIUM Ultra-HD Scratch Resistant Clear Screen Protector ZTE Grand X / Compatible with V970",
+            "normalizedName": "BinTEK Screen Guard ZTE Grand X Screen Protector PREMIUM Ultra-HD Scratch Resistant Clear Screen Protector ZTE Grand X / Compatible with V970",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

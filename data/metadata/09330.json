@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016997YWW": {
+            "asin": "B016997YWW",
+            "height": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.5
+            },
+            "name": "Attends Bariatric Brief 3X-Large 70\" - 90\"",
+            "normalizedName": "Attends Bariatric Brief 3X-Large 70\" - 90\"",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 9.0
+            }
+        },
+        "B01CPWMXSM": {
+            "asin": "B01CPWMXSM",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Insulated Stainless Steel Water Bottle By Fluid Sports (Midnight Blue) - 40 Oz, Wide Mouth, BPA Free, Bonus Flip-top Lid Included",
+            "normalizedName": "Insulated Stainless Steel Water Bottle By Fluid Sports (Midnight Blue) - 40 Oz, Wide Mouth, BPA Free, Bonus Flip-top Lid Included",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

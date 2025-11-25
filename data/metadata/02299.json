@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000HRHPSQ": {
+            "asin": "B000HRHPSQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Schylling Doctor's Bag",
+            "normalizedName": "Schylling Doctor's Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B000JLM4XG": {
+            "asin": "B000JLM4XG",
+            "height": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9212598324
+            },
+            "name": "Manfrotto 035 Super Clamp without Stud - Replaces 2915",
+            "normalizedName": "Manfrotto 035 Super Clamp without Stud - Replaces 2915",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1904840640480427
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

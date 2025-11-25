@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00W0G0JRG": {
+            "asin": "B00W0G0JRG",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "50 X Nescaf\u00e9 Dolce Gusto Cortado Espresso Macchiato, 50 Capsules",
+            "normalizedName": "50 X Nescaf\u00e9 Dolce Gusto Cortado Espresso Macchiato, 50 Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

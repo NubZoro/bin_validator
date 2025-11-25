@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00192KZQ2": {
+            "asin": "B00192KZQ2",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Camco 39572 5\" Clear Sewer Hose Adapter",
+            "normalizedName": "Camco 39572 5\" Clear Sewer Hose Adapter",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B007RTD8NS": {
+            "asin": "B007RTD8NS",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Tea Cabin Runner Quilted 13x48\"",
+            "normalizedName": "Tea Cabin Runner Quilted 13x48\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

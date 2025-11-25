@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000SZNY0K": {
+            "asin": "B000SZNY0K",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Vitabath Gelee Soap, Original Spring Green, 4.5-Ounces (Pack of 3)",
+            "normalizedName": "(Pack of 3) Vitabath Gelee Soap, Original Spring Green, 4.5-Ounces",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B003VBM9M2": {
+            "asin": "B003VBM9M2",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "RV Designer A111 'Airstream' Drape Carrier, (Pack of 14)",
+            "normalizedName": "(Pack of 14) RV Designer A111 'Airstream' Drape Carrier,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B004NYA8MY": {
+            "asin": "B004NYA8MY",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Boston Gear LSS9 Self-Aligning Ball Bearing, Spherical, Special Purpose, 0.563\" Bore, Stainless Steel",
+            "normalizedName": "Boston Gear LSS9 Self-Aligning Ball Bearing, Spherical, Special Purpose, 0.563\" Bore, Stainless Steel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

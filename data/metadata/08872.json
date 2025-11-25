@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000A76ZYS": {
+            "asin": "B000A76ZYS",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "PetSafe Pawz Away Indoor Pet Barrier",
+            "normalizedName": "PetSafe Pawz Away Indoor Pet Barrier",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0599999991110938
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

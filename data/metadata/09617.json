@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01EII64B8": {
+            "asin": "B01EII64B8",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Ballistix Sport LT 64GB Kit (16GBx4) DDR4 2400 MT/s (PC4-19200) DIMM 288-Pin - BLS4K16G4D240FSE (Red)",
+            "normalizedName": "Ballistix Sport LT 64GB Kit (16GBx4) DDR4 2400 MT/s (PC4-19200) DIMM 288-Pin - BLS4K16G4D240FSE (Red)",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

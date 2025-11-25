@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008FGR6DU": {
+            "asin": "B008FGR6DU",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.448818888
+            },
+            "name": "Nike Women's Legend 2.0 Tight Poly Pant Black/Cool Grey LG X 28",
+            "normalizedName": "Nike Women's Legend 2.0 Tight Poly Pant Black/Cool Grey LG X 28",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880332100962
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.8267716476
+            }
+        },
+        "B00GFA5V0I": {
+            "asin": "B00GFA5V0I",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "RENOGY\u00ae 40ft. Adaptor kit Solar Cable PV with MC4 Female and Male connectors Connecting Solar Panel to Charge controller",
+            "normalizedName": "RENOGY\u00ae 40ft. Adaptor kit Solar Cable PV with MC4 Female and Male connectors Connecting Solar Panel to Charge controller",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

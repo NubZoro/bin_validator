@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ECEP51E": {
+            "asin": "B00ECEP51E",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Kitchen Highline SP-7407 60gm Coffee Dry Grinder, 220-240 Volts (Not for use in USA and Canada)",
+            "normalizedName": "Kitchen Highline SP-7407 60gm Coffee Dry Grinder, 220-240 Volts (Not for use in USA and Canada)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00SL3KOWM": {
+            "asin": "B00SL3KOWM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "i heart keenwah Quinoa Puffs, Herbes De Provence, 3 Ounce",
+            "normalizedName": "i heart keenwah Quinoa Puffs, Herbes De Provence, 3 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

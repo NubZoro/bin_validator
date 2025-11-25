@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004EDUVHQ": {
+            "asin": "B004EDUVHQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Green Mountain Coffee Breakfast Blend Decaf,  K-Cup Portion Pack for Keurig K-Cup Brewers, 12-Count (Pack of 3)",
+            "normalizedName": "(Pack of 3) Green Mountain Coffee Breakfast Blend Decaf,  K-Cup Portion Pack for Keurig K-Cup Brewers, 12-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B01E7MQPWI": {
+            "asin": "B01E7MQPWI",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Sharp Atomic Radio Controlled Small Digital Travel Alarm Clock With 3.5\" Digital Display, Snooze,Night Light, Date",
+            "normalizedName": "Sharp Atomic Radio Controlled Small Digital Travel Alarm Clock With 3.5\" Digital Display, Snooze,Night Light, Date",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01F2PYV20": {
+            "asin": "B01F2PYV20",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7999999930640005
+            },
+            "name": "nutpods Unsweetened Dairy-Free Creamer (Variety Pack, 3-pack)",
+            "normalizedName": "3-pack nutpods Unsweetened Dairy-Free Creamer (Variety Pack, )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3499999980293125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

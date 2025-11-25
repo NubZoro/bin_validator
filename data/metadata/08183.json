@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010B9LOS6": {
+            "asin": "B010B9LOS6",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "McFarlane Toys Construction Sets- The Walking Dead TV Lower Prison Cell Set",
+            "normalizedName": "McFarlane Toys Construction Sets- The Walking Dead TV Lower Prison Cell Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B01GP5ILA4": {
+            "asin": "B01GP5ILA4",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "StyleTech Inc. Travel Insert Accessories Compartment Bag Durable Multi-Pocket Insert-Organizer Tote Bag (Black + Grey)",
+            "normalizedName": "StyleTech Inc. Travel Insert Accessories Compartment Bag Durable Multi-Pocket Insert-Organizer Tote Bag (Black + Grey)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

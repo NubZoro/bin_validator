@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M1CBRAC": {
+            "asin": "B00M1CBRAC",
+            "height": {
+                "unit": "IN",
+                "value": 0.1574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0078740086
+            },
+            "name": "Fellowes PrivaScreen Privacy Filter for Samsung Galaxy S4 Smartphone (4807401)",
+            "normalizedName": "Fellowes PrivaScreen Privacy Filter for Samsung Galaxy S4 Smartphone (4807401)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.543307083
+            }
+        },
+        "B017HME9DC": {
+            "asin": "B017HME9DC",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.6456692764
+            },
+            "name": "Car Mount, iOttie Easy One Touch Mini Air Vent Holder Cradle for iPhone 6s Plus/6s/6, Galaxy S7/S7 Edge, EdgeS6/S6 Edge, Galaxy Note 5, Nexus 6, & Smartphones",
+            "normalizedName": "Car Mount, iOttie Easy One Touch Mini Air Vent Holder Cradle for iPhone 6s Plus/6s/6, Galaxy S7/S7 Edge, EdgeS6/S6 Edge, Galaxy Note 5, Nexus 6, & Smartphones",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440163462221
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.7480314902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

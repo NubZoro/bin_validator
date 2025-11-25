@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001GAP4PY": {
+            "asin": "B001GAP4PY",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Ticonderoga No. 2/HB Soft Pencils, 72-Count, Cello Wrapped (Wood Case, Black Writing) in Yellow (33904)",
+            "normalizedName": "Ticonderoga No. 2/HB Soft Pencils, 72-Count, Cello Wrapped (Wood Case, Black Writing) in Yellow (33904)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9448721657142282
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B0100JZT06": {
+            "asin": "B0100JZT06",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "DonJoy RocketSoc Ankle Support Brace, Left Leg, Neoprene, Large",
+            "normalizedName": "DonJoy RocketSoc Ankle Support Brace, Left Leg, Neoprene, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

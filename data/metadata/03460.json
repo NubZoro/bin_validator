@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KEV2RRY": {
+            "asin": "B00KEV2RRY",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "SE GP3-SS20 Green Plastic Sand Scoop for Treasure Hunting",
+            "normalizedName": "SE GP3-SS20 Green Plastic Sand Scoop for Treasure Hunting",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00NAFDIOM": {
+            "asin": "B00NAFDIOM",
+            "height": {
+                "unit": "IN",
+                "value": 0.40157480274
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.7007873927
+            },
+            "name": "Graphite Smencils 5 Pack",
+            "normalizedName": "5 Pack Graphite Smencils",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.70078739882
+            }
+        },
+        "B012TZ816I": {
+            "asin": "B012TZ816I",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "ACDelco CF3316 Professional Cabin Air Filter",
+            "normalizedName": "ACDelco CF3316 Professional Cabin Air Filter",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

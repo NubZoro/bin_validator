@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000052XUG": {
+            "asin": "B000052XUG",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Dr. Scholl\u2019s Corn Cushions 9 ea",
+            "normalizedName": "Dr. Scholl\u2019s Corn Cushions 9 ea",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B000RK2WHC": {
+            "asin": "B000RK2WHC",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Center Enterprise CE412 \"PLEASE SIGN AND RETURN\" Stamp",
+            "normalizedName": "Center Enterprise CE412 \"PLEASE SIGN AND RETURN\" Stamp",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B005I4WANI": {
+            "asin": "B005I4WANI",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "L'Occitane Lavender Cleansing Hand Wash, 10.1 fl. oz.",
+            "normalizedName": "L'Occitane Lavender Cleansing Hand Wash, 10.1 fl. oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

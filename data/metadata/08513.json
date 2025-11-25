@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001UGQ7G4": {
+            "asin": "B001UGQ7G4",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989086
+            },
+            "name": "ALEX Toys Picnic Basket",
+            "normalizedName": "ALEX Toys Picnic Basket",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024
+            }
+        },
+        "B00S01OSGS": {
+            "asin": "B00S01OSGS",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "PEPPA PIG- Peppa's Red Car",
+            "normalizedName": "PEPPA PIG- Peppa's Red Car",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B00S0N8WCM": {
+            "asin": "B00S0N8WCM",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.49999998215
+            },
+            "name": "Stop-A-Flat 1.75 Tube, Yellow, 16-Inch",
+            "normalizedName": "Stop-A-Flat 1.75 Tube, Yellow, 16-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7495640403265454
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

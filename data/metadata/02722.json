@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0017D1GG6": {
+            "asin": "B0017D1GG6",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Simple Green 11001CT Clean Building All-Purpose Cleaner Concentrate, 1gal Bottle",
+            "normalizedName": "Simple Green 11001CT Clean Building All-Purpose Cleaner Concentrate, 1gal Bottle",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.099999992368826
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B003AANDHE": {
+            "asin": "B003AANDHE",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "CESAR Canine Cuisine Oven Roasted Chicken Flavor Dog Food Trays 3.5 Ounces (Pack of 24)",
+            "normalizedName": "(Pack of 24) CESAR Canine Cuisine Oven Roasted Chicken Flavor Dog Food Trays 3.5 Ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

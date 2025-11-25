@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1592750214": {
+            "asin": "1592750214",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "SoulCollage Evolving: An Intuitive Collage Process for Self-Discovery and Community",
+            "normalizedName": "SoulCollage Evolving: An Intuitive Collage Process for Self-Discovery and Community",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00ITUB282": {
+            "asin": "B00ITUB282",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Comfort Coffee Cup (20-ounce Cups), 100-count Cups + Black Lids",
+            "normalizedName": "Comfort Coffee Cup (20-ounce Cups), 100-count Cups + Black Lids",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.321016232470673
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010MTAA8K": {
+            "asin": "B010MTAA8K",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.2
+            },
+            "name": "SCOUT IDKase, House of Chard",
+            "normalizedName": "SCOUT IDKase, House of Chard",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7000000000000006
+            }
+        },
+        "B012P4D5XM": {
+            "asin": "B012P4D5XM",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Art Naturals Argan Oil Hair Mask, Deep Conditioner 8 Oz, 100% Organic Jojoba Oil, Aloe Vera & Keratin, Repair Dry, Damaged Or Color Treated Hair After Shampoo, Best For All Hair Types - Sulfate Free",
+            "normalizedName": "Art Naturals Argan Oil Hair Mask, Deep Conditioner 8 Oz, 100% Organic Jojoba Oil, Aloe Vera & Keratin, Repair Dry, Damaged Or Color Treated Hair After Shampoo, Best For All Hair Types - Sulfate Free",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

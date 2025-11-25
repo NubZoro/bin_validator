@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0058YPGSY": {
+            "asin": "B0058YPGSY",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.4015747956
+            },
+            "name": "Sons of Anarchy: Season 4",
+            "normalizedName": "Sons of Anarchy: Season 4",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601897719786
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.2755905458
+            }
+        },
+        "B008UA4POE": {
+            "asin": "B008UA4POE",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Perfect Tortilla Tortilla Pan Set 4 Pc.",
+            "normalizedName": "Perfect Tortilla Tortilla Pan Set 4 Pc.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01897IKBQ": {
+            "asin": "B01897IKBQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "X-Shot Bunch O Balloons - Blue (3 Bunches - 105 Total Water Balloons)",
+            "normalizedName": "X-Shot Bunch O Balloons - Blue (3 Bunches - 105 Total Water Balloons)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

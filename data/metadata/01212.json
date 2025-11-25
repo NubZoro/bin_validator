@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001B0D9QK": {
+            "asin": "B001B0D9QK",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Pentel Super Hi-Polymer Lead Refills, 0.5 mm, 90 Pieces (C25BPHB3-K6)",
+            "normalizedName": "Pentel Super Hi-Polymer Lead Refills, 0.5 mm, 90 Pieces (C25BPHB3-K6)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B00LJ5A8W0": {
+            "asin": "B00LJ5A8W0",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.75
+            },
+            "name": "Berkley Havoc Money Maker 4 1/2In 15Bg Watermelon Red Fl",
+            "normalizedName": "Berkley Havoc Money Maker 4 1/2In 15Bg Watermelon Red Fl",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        },
+        "B01AXI796G": {
+            "asin": "B01AXI796G",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7999999930640005
+            },
+            "name": "Kingway 5 Pcs Ink Cartridges Replacement for HP 932 933 932xl 933xl Use With HP Officejet 6700 6600 6100 7110 7610 7612 inkjet Printers (2BK+1C+M+1Y)",
+            "normalizedName": "Kingway 5 Pcs Ink Cartridges Replacement for HP 932 933 932xl 933xl Use With HP Officejet 6700 6600 6100 7110 7610 7612 inkjet Printers (2BK+1C+M+1Y)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

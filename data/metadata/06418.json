@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000HJ973K": {
+            "asin": "B000HJ973K",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "GE Lighting 21532 500-Watt PS35 Light Bulb with Mogul Base , 1-Pack",
+            "normalizedName": "1-Pack GE Lighting 21532 500-Watt PS35 Light Bulb with Mogul Base ,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00V1WKK9C": {
+            "asin": "B00V1WKK9C",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Rustic Wedding 10.25-inch Paper Plates 8 Per Pack",
+            "normalizedName": "8 Per Pack Rustic Wedding 10.25-inch Paper Plates",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

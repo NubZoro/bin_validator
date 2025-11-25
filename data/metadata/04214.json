@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1592804209": {
+            "asin": "1592804209",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "The Profitable Truth About Seasonality: Breaking Trading Myths that Cost You Money",
+            "normalizedName": "The Profitable Truth About Seasonality: Breaking Trading Myths that Cost You Money",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B00M1Y008K": {
+            "asin": "B00M1Y008K",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "GUM Proxabrush Go-Betweens Cleaners 8 ct - Ultratight Pack of (3)",
+            "normalizedName": "GUM Proxabrush Go-Betweens Cleaners 8 ct - Ultratight Pack of (3)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

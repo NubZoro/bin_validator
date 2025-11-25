@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00APL2KWU": {
+            "asin": "B00APL2KWU",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Kinco 1927C Child's Lined Ultra Suede Cold Weather Glove, Work, 3 - 6 Ages (Pack of 12 Pairs)",
+            "normalizedName": "Pack of 12 Kinco 1927C Child's Lined Ultra Suede Cold Weather Glove, Work, 3 - 6 Ages ( Pairs)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00JQV6Q4I": {
+            "asin": "B00JQV6Q4I",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0078740086
+            },
+            "name": "LE\u00ae 12V Flexible LED Strip Lights, 6000K Daylight White, 300 Units SMD 5050 LEDs, 218 Lumens/ft, 4.4 watts/ft, Non-waterproof, 12 Volt LED Light Strips, Pack of 16.4ft/5m",
+            "normalizedName": "Pack of 16 LE\u00ae 12V Flexible LED Strip Lights, 6000K Daylight White, 300 Units SMD 5050 LEDs, 218 Lumens/ft, 4.4 watts/ft, Non-waterproof, 12 Volt LED Light Strips, .4ft/5m",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440163462221
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

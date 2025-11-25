@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002AHY6Q": {
+            "asin": "B0002AHY6Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Waterpik Waterflosser Cordless Rechargeable WP-360W",
+            "normalizedName": "Waterpik Waterflosser Cordless Rechargeable WP-360W",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00XLM23QS": {
+            "asin": "B00XLM23QS",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Eco-friendly Kona-One-Cup Brewing, Pod Adapter and Certified Organic Rain Forest Alliance Biodegradable Coffee Pods for the Most Eco-friendly Way to Brew with Your Keurig K-cup Coffee Machine, 18 Eight-Gram Pods and FREE Pod Adapter",
+            "normalizedName": "Eco-friendly Kona-One-Cup Brewing, Pod Adapter and Certified Organic Rain Forest Alliance Biodegradable Coffee Pods for the Most Eco-friendly Way to Brew with Your Keurig K-cup Coffee Machine, 18 Eight-Gram Pods and FREE Pod Adapter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

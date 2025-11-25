@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NWGCZ2": {
+            "asin": "B000NWGCZ2",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Vanicream Moisturizing Skin Cream with Pump Dispenser, 1 Pound",
+            "normalizedName": "Vanicream Moisturizing Skin Cream with Pump Dispenser, 1 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2299999989685335
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

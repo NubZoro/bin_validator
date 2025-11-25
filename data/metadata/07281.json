@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0375856110": {
+            "asin": "0375856110",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Inheritance (Inheritance Cycle)",
+            "normalizedName": "Inheritance (Inheritance Cycle)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00JIMNPGM": {
+            "asin": "B00JIMNPGM",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Hanna K. Signature Collection 50 Count Plastic Plate, 10-Inch, Clear",
+            "normalizedName": "Hanna K. Signature Collection 50 Count Plastic Plate, 10-Inch, Clear",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

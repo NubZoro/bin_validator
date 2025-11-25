@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BDMN9H0": {
+            "asin": "B00BDMN9H0",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "ALEX Toys ALEX Jr. 6 Tots Finger Paints",
+            "normalizedName": "ALEX Toys ALEX Jr. 6 Tots Finger Paints",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00SOM7YWI": {
+            "asin": "B00SOM7YWI",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Sennheiser Momentum 2.0 Wireless with Active Noise Cancellation- Ivory",
+            "normalizedName": "Sennheiser Momentum 2.0 Wireless with Active Noise Cancellation- Ivory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

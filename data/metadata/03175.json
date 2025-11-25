@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0019TRAFE": {
+            "asin": "B0019TRAFE",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "Snap-N-Store Letter-Size File Box, Black (SNS01533)",
+            "normalizedName": "Snap-N-Store Letter-Size File Box, Black (SNS01533)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        },
+        "B002FTT5DC": {
+            "asin": "B002FTT5DC",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.399999982252
+            },
+            "name": "Westinghouse 78603 Petite 6-Blade 30-Inch 3-Speed Hugger-Style Ceiling Fan with Light, Antique Brass",
+            "normalizedName": "Westinghouse 78603 Petite 6-Blade 30-Inch 3-Speed Hugger-Style Ceiling Fan with Light, Antique Brass",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.41982861438678
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00K5R5350": {
+            "asin": "B00K5R5350",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Sincerely Nuts Whole Blue Poppy Seeds 5lb Bag",
+            "normalizedName": "Sincerely Nuts Whole Blue Poppy Seeds 5lb Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.114672275169369
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

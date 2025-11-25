@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BN5ZOQQ": {
+            "asin": "B00BN5ZOQQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Black & Decker HPB18-OPE2 18-volt NiCd Battery for Outdoor Power Tools, 2-Pack",
+            "normalizedName": "2-Pack Black & Decker HPB18-OPE2 18-volt NiCd Battery for Outdoor Power Tools,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

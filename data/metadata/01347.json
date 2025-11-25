@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0089PH5TM": {
+            "asin": "B0089PH5TM",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Big Bear Falls Oval-Shaped a 600-Piece Jigsaw Puzzle by Sunsout Inc.",
+            "normalizedName": "Big Bear Falls Oval-Shaped a 600-Piece Jigsaw Puzzle by Sunsout Inc.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.599999987148
+            }
+        },
+        "B018PF0OHK": {
+            "asin": "B018PF0OHK",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "Purelux\u00ae Contemporary Design 4 Inch Rainfall Shower Head / Hand Shower Combo, Chrome, 5 YEAR WARRANTY",
+            "normalizedName": "Purelux\u00ae Contemporary Design 4 Inch Rainfall Shower Head / Hand Shower Combo, Chrome, 5 YEAR WARRANTY",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

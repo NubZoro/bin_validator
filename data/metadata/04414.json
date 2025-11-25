@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1250010101": {
+            "asin": "1250010101",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1889763696
+            },
+            "name": "Keep Quiet",
+            "normalizedName": "Keep Quiet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880332100962
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.3543307032
+            }
+        },
+        "B009XD62JI": {
+            "asin": "B009XD62JI",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Libbey Glass Cocktail Shaker with Black Lid - 19.75 oz",
+            "normalizedName": "Libbey Glass Cocktail Shaker with Black Lid - 19.75 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

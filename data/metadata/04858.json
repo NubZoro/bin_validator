@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008CS0J9O": {
+            "asin": "B008CS0J9O",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "J-Tech Digital Mini DisplayPort to AV Converter",
+            "normalizedName": "J-Tech Digital Mini DisplayPort to AV Converter",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.79
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00KZNOYDG": {
+            "asin": "B00KZNOYDG",
+            "height": {
+                "unit": "IN",
+                "value": 4.724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "name": "BSN N.O.-XPLODE - Fruit Punch, 2.45 lb (60 servings)",
+            "normalizedName": "BSN N.O.-XPLODE - Fruit Punch, 2.45 lb (60 servings)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8031496014
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

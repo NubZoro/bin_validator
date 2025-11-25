@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001P2CMNA": {
+            "asin": "B001P2CMNA",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "RBP 95005 2-1/2\" Inlet to 4\" Outlet Custom Application Exhaust Tip Adapter",
+            "normalizedName": "RBP 95005 2-1/2\" Inlet to 4\" Outlet Custom Application Exhaust Tip Adapter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B005EMBD6E": {
+            "asin": "B005EMBD6E",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "O'Neill Wetsuits UV Sun Protection Mens Thermo-X Short Sleeve Crew Sun Shirt Rash Guard, Black, XX-Large",
+            "normalizedName": "O'Neill Wetsuits UV Sun Protection Mens Thermo-X Short Sleeve Crew Sun Shirt Rash Guard, Black, XX-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B0165YA1NU": {
+            "asin": "B0165YA1NU",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "10ml Plastic Dropper Bottle Squeezable Liquid Dropper Childproof Cap Pack of 50",
+            "normalizedName": "Pack of 50 10ml Plastic Dropper Bottle Squeezable Liquid Dropper Childproof Cap",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

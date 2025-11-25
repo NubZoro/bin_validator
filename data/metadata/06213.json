@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0061G4B6G": {
+            "asin": "B0061G4B6G",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999986128
+            },
+            "name": "Canon Office Products PG-240XL/CL-241XL with Canon GP601 Glossy Photo Paper",
+            "normalizedName": "Canon Office Products PG-240XL/CL-241XL with Canon GP601 Glossy Photo Paper",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00E58RQ6Y": {
+            "asin": "B00E58RQ6Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Canon PG-245XL/CL-246XL/GP-502 Ink Combo Pack",
+            "normalizedName": "Canon PG-245XL/CL-246XL/GP-502 Ink Combo Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7299999993878289
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

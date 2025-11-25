@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0606357335": {
+            "asin": "0606357335",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "A New Hope (Turtleback School & Library Binding Edition) (DK Readers: Level 1)",
+            "normalizedName": "A New Hope (Turtleback School & Library Binding Edition) (DK Readers: Level 1)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993777999
+            }
+        },
+        "1594137129": {
+            "asin": "1594137129",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.3464566844
+            },
+            "name": "Sum It Up: 1,098 Victories, a Couple of Irrelevant Losses, and a Life in Perspective",
+            "normalizedName": "Sum It Up: 1,098 Victories, a Couple of Irrelevant Losses, and a Life in Perspective",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4109440759087915
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B00CLV1JZ6": {
+            "asin": "B00CLV1JZ6",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "AppleCheeks 2-Size Washable Cloth Swim Diaper (Size 1, Totally Twilight)",
+            "normalizedName": "AppleCheeks 2-Size Washable Cloth Swim Diaper (Size 1, Totally Twilight)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

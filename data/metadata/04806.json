@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000CFPV9": {
+            "asin": "B0000CFPV9",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "RSVP Endurance Fine Mesh Shaker",
+            "normalizedName": "RSVP Endurance Fine Mesh Shaker",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00A7RM4SM": {
+            "asin": "B00A7RM4SM",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Coast PX7 LED Bore Inspection Light",
+            "normalizedName": "Coast PX7 LED Bore Inspection Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00DR9GWX0": {
+            "asin": "B00DR9GWX0",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Fenix PD35 TAC 1000 Lumen CREE XP-L LED Tactical Flashlight with Two EdisonBright CR123A Lithium Batteries",
+            "normalizedName": "Fenix PD35 TAC 1000 Lumen CREE XP-L LED Tactical Flashlight with Two EdisonBright CR123A Lithium Batteries",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00FCCI5DU": {
+            "asin": "B00FCCI5DU",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Grace My Face Minerals Glamour Quad Eye Shadow, All That Plum",
+            "normalizedName": "Grace My Face Minerals Glamour Quad Eye Shadow, All That Plum",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

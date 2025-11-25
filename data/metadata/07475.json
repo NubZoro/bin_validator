@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LN7X92K": {
+            "asin": "B00LN7X92K",
+            "height": {
+                "unit": "IN",
+                "value": 7.6
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.5
+            },
+            "name": "Glasslock 6-Piece Rectangle Oven Safe Container Set",
+            "normalizedName": "Glasslock 6-Piece Rectangle Oven Safe Container Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.9
+            }
+        },
+        "B01AI03U4Y": {
+            "asin": "B01AI03U4Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "LETIT.BEER chiller stick + stylish beer bottle opener - Set of 2 cooler sticks- perfect birthday gifts for dad, men, great gift ideas for him, father day, college student party gifts, presents for men",
+            "normalizedName": "Set of 2 LETIT.BEER chiller stick + stylish beer bottle opener - cooler sticks- perfect birthday gifts for dad, men, great gift ideas for him, father day, college student party gifts, presents for men",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

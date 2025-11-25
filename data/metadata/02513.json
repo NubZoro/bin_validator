@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006G98TDE": {
+            "asin": "B006G98TDE",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Amscan Bachelorette Party Posse - Shot Glasses",
+            "normalizedName": "Amscan Bachelorette Party Posse - Shot Glasses",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00MUDDEEO": {
+            "asin": "B00MUDDEEO",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Bang Long Bicycle Sports Sunglasses with Anti-scratch Lenses for Running Driving Racing Ski golf",
+            "normalizedName": "Bang Long Bicycle Sports Sunglasses with Anti-scratch Lenses for Running Driving Racing Ski golf",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

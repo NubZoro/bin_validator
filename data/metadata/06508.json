@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000DN5WT8": {
+            "asin": "B000DN5WT8",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Yomega Mania DVD- 150 Tricks",
+            "normalizedName": "Yomega Mania DVD- 150 Tricks",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B007PE7ANY": {
+            "asin": "B007PE7ANY",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "KIND Bars, Dark Chocolate Nuts & Sea Salt, Gluten Free, 1.4 Ounce Bars, 12 Count",
+            "normalizedName": "KIND Bars, Dark Chocolate Nuts & Sea Salt, Gluten Free, 1.4 Ounce Bars, 12 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993777999
+            }
+        },
+        "B00AU6DGCI": {
+            "asin": "B00AU6DGCI",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.5275590454
+            },
+            "name": "Wildgame Innovations Trail Pad (TM), Color viewer for SD Cards",
+            "normalizedName": "Wildgame Innovations Trail Pad (TM), Color viewer for SD Cards",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8377480443683174
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0708661335
+            }
+        },
+        "B00ZA5FPGE": {
+            "asin": "B00ZA5FPGE",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Knee Wraps with Velcro for Gym Workout,Weightlifting,Cross Training,Fitness & Powerlifting - Best Knee Straps for Squats -Suits both Men and Women- 72\" -Great Compression with Elastic Support",
+            "normalizedName": "Knee Wraps with Velcro for Gym Workout,Weightlifting,Cross Training,Fitness & Powerlifting - Best Knee Straps for Squats -Suits both Men and Women- 72\" -Great Compression with Elastic Support",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

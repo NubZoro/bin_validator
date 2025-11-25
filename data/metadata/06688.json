@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004GNZYY4": {
+            "asin": "B004GNZYY4",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Professional Foam Lance Adjustable with 32 oz. Bottle",
+            "normalizedName": "Professional Foam Lance Adjustable with 32 oz. Bottle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01D9RHDKA": {
+            "asin": "B01D9RHDKA",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Puredown All Season Goose Down Sport Blanket, Down-proof Peach Skin Fabric Packable Throw, Khaki",
+            "normalizedName": "Puredown All Season Goose Down Sport Blanket, Down-proof Peach Skin Fabric Packable Throw, Khaki",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

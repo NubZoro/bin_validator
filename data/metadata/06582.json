@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CFO0GI": {
+            "asin": "B000CFO0GI",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "AIR LIFT 60769 1000 Series Rear Air Spring Kit",
+            "normalizedName": "AIR LIFT 60769 1000 Series Rear Air Spring Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        },
+        "B002PY7NFY": {
+            "asin": "B002PY7NFY",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.49999998215
+            },
+            "name": "Gyration Rechargeable Wireless Air Mouse Elite and Wireless Slim Low Profile Keyboard GYM5600LKNA Bundle",
+            "normalizedName": "Gyration Rechargeable Wireless Air Mouse Elite and Wireless Slim Low Profile Keyboard GYM5600LKNA Bundle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B00812GGFC": {
+            "asin": "B00812GGFC",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Wald Imports Set of 3 Wood Crates with Galvanized Metal Trim, Gray",
+            "normalizedName": "Set of 3 Wald Imports Wood Crates with Galvanized Metal Trim, Gray",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

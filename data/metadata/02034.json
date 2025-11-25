@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PU1I5M4": {
+            "asin": "B00PU1I5M4",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Frigidaire 154663004 Dishwasher Main Control Board",
+            "normalizedName": "Frigidaire 154663004 Dishwasher Main Control Board",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B00TJ7EW7W": {
+            "asin": "B00TJ7EW7W",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "AF-Fitness Resistance Bands Set With Door Anchor, Carrying Case and Ankle Straps",
+            "normalizedName": "AF-Fitness Resistance Bands Set With Door Anchor, Carrying Case and Ankle Straps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B01EUC7NPI": {
+            "asin": "B01EUC7NPI",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Samsung Galaxy Tab A 10.1 SM-T580NZKAXAR",
+            "normalizedName": "Samsung Galaxy Tab A 10.1 SM-T580NZKAXAR",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

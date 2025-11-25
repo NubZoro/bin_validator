@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00004R9TL": {
+            "asin": "B00004R9TL",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "BLACK+DECKER AF-100-3ZP 30-Feet 0.065-Inch Line String Trimmer Replacement Spool, 3-Pack",
+            "normalizedName": "3-Pack BLACK+DECKER AF-100-3ZP 30-Feet 0.065-Inch Line String Trimmer Replacement Spool,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B00CE021DS": {
+            "asin": "B00CE021DS",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Puritan's Pride 2 Pack of Milk Thistle 4:1 Extract 1000 mg (Silymarin) Puritan's Pride Milk Thistle 4:1 Extract 1000 mg (Silymarin)-90 Softgels",
+            "normalizedName": "2 Pack Puritan's Pride of Milk Thistle 4:1 Extract 1000 mg (Silymarin) Puritan's Pride Milk Thistle 4:1 Extract 1000 mg (Silymarin)-90 Softgels",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B01D3T55PO": {
+            "asin": "B01D3T55PO",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Shopkins Season 4 Bundle of 6 Shopkins in 3 Baskets",
+            "normalizedName": "Shopkins Season 4 Bundle of 6 Shopkins in 3 Baskets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

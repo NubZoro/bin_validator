@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000535CH": {
+            "asin": "B0000535CH",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Nature's Cure Two-part Acne Treatment, Female 1-oz",
+            "normalizedName": "Nature's Cure Two-part Acne Treatment, Female 1-oz",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

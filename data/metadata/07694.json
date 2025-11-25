@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0085JN42Y": {
+            "asin": "B0085JN42Y",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Beneful Wet Dog Food, Prepared Meals, Stew Variety Pack, 10-Ounce Tub, Pack of 6",
+            "normalizedName": "Pack of 6 Beneful Wet Dog Food, Prepared Meals, Stew Variety Pack, 10-Ounce Tub,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00GB8ZBIQ": {
+            "asin": "B00GB8ZBIQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "TCD for Apple iPhone 5 5S LIFETIME WARRANTY [HOT PINK ON BLACK] Hybrid Rugged Protective Defender Series Combo Case Cover Multiple Layers Shock Ultimate Protection [FREE SCREEN PROTECTOR STYLUS PEN]",
+            "normalizedName": "TCD for Apple iPhone 5 5S LIFETIME WARRANTY [HOT PINK ON BLACK] Hybrid Rugged Protective Defender Series Combo Case Cover Multiple Layers Shock Ultimate Protection [FREE SCREEN PROTECTOR STYLUS PEN]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00UR6Y7SS": {
+            "asin": "B00UR6Y7SS",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "HOMMP H001 Kitchen Trash Bags, 7 Gallon, 120 Counts",
+            "normalizedName": "HOMMP H001 Kitchen Trash Bags, 7 Gallon, 120 Counts",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,137 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0755363191": {
+            "asin": "0755363191",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.1653543234
+            },
+            "name": "101 World Whiskies to Try Before You Die",
+            "normalizedName": "101 World Whiskies to Try Before You Die",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.71
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        },
+        "9339213114": {
+            "asin": "9339213114",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Database Management Systems",
+            "normalizedName": "Database Management Systems",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B0041E245U": {
+            "asin": "B0041E245U",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "name": "John Deere 99135 Ertl Toy Tractor Ceiling Fan Pull",
+            "normalizedName": "John Deere 99135 Ertl Toy Tractor Ceiling Fan Pull",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B0082VAN74": {
+            "asin": "B0082VAN74",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Party Destination - John Deere Tractor - Latex Balloons",
+            "normalizedName": "Party Destination - John Deere Tractor - Latex Balloons",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.01
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00CQ8OKKA": {
+            "asin": "B00CQ8OKKA",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Browning Arms Company Buckmark Pink Logo Infinity Camo Lanyard with Key Chain Clip & Built-in Bottle Opener 2-in1 Set",
+            "normalizedName": "Browning Arms Company Buckmark Pink Logo Infinity Camo Lanyard with Key Chain Clip & Built-in Bottle Opener 2-in1 Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.43
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00N2M5EDQ": {
+            "asin": "B00N2M5EDQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "TORCHSTAR LED Multi-color RGB Home Theater TV Backlight Kit, 4pcs of ETL listed LED Waterproof Strip Lights for Monitor, Screen, Background Accent lighting with UL adapter, 24-key Remote and Connectors",
+            "normalizedName": "TORCHSTAR LED Multi-color RGB Home Theater TV Backlight Kit, 4pcs of ETL listed LED Waterproof Strip Lights for Monitor, Screen, Background Accent lighting with UL adapter, 24-key Remote and Connectors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

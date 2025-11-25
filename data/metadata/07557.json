@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0084LYZ2G": {
+            "asin": "B0084LYZ2G",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Nature's Plus T Male Liquid Mixed Berry -- 30 fl oz",
+            "normalizedName": "Nature's Plus T Male Liquid Mixed Berry -- 30 fl oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B0189QSGTS": {
+            "asin": "B0189QSGTS",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "Women's NBA Team \"Kiss\" Long Sleeve T-Shirt Top (Sacramento Kings, XL)",
+            "normalizedName": "Women's NBA Team \"Kiss\" Long Sleeve T-Shirt Top (Sacramento Kings, XL)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 8.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

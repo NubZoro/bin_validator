@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006VWRMW": {
+            "asin": "B0006VWRMW",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "SE 4PT8 8-Piece Pottery Tool Set",
+            "normalizedName": "SE 4PT8 8-Piece Pottery Tool Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B000CP8EZQ": {
+            "asin": "B000CP8EZQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Red Line 30304 Racing Automatic Transmission Fluid - 1 Quart",
+            "normalizedName": "Red Line 30304 Racing Automatic Transmission Fluid - 1 Quart",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00DTNAPDC": {
+            "asin": "B00DTNAPDC",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Lysol Power and Free Multi-Purpose Value Pack Cleaning Wipes, Oxygen Splash Scent, 105 Count",
+            "normalizedName": "Lysol Power and Free Multi-Purpose Value Pack Cleaning Wipes, Oxygen Splash Scent, 105 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00WI9SMQA": {
+            "asin": "B00WI9SMQA",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Brightdeal New Replacement Toothbrush Heads Fit for Philips Sonicare (6 Pack)",
+            "normalizedName": "(6 Pack) Brightdeal New Replacement Toothbrush Heads Fit for Philips Sonicare",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

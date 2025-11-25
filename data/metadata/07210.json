@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000E1MXSW": {
+            "asin": "B000E1MXSW",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "The Nun's Story",
+            "normalizedName": "The Nun's Story",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00WUF65ZM": {
+            "asin": "B00WUF65ZM",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Thermos Dual Compartment Food Jar, Black",
+            "normalizedName": "Thermos Dual Compartment Food Jar, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

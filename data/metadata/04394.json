@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007DHI00": {
+            "asin": "B0007DHI00",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Royal Doulton Precious Platinum 5-Piece Place Setting, Service for 1",
+            "normalizedName": "Royal Doulton Precious Platinum 5-Piece Place Setting, Service for 1",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.799999996813355
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

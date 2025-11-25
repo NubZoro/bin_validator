@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002HYCKA": {
+            "asin": "B0002HYCKA",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "Max Clutching Toy",
+            "normalizedName": "Max Clutching Toy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00CQASZOA": {
+            "asin": "B00CQASZOA",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.699999996226
+            },
+            "name": "Chewy Tubes P' and Q'",
+            "normalizedName": "Chewy Tubes P' and Q'",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00GNRLTX6": {
+            "asin": "B00GNRLTX6",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Cotton Sateen King Fitted-Sheet Light-Blue - Premium Quality Combed Cotton Long Staple Fiber \u2013 Breathable, Durable & Comfortable - Deep Pocket, Hotel Quality By Utopia Bedding (King, Light Blue)",
+            "normalizedName": "Cotton Sateen King Fitted-Sheet Light-Blue - Premium Quality Combed Cotton Long Staple Fiber \u2013 Breathable, Durable & Comfortable - Deep Pocket, Hotel Quality By Utopia Bedding (King, Light Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

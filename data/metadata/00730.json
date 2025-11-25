@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001GNBK4A": {
+            "asin": "B001GNBK4A",
+            "height": {
+                "unit": "IN",
+                "value": 2.5984251942
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "Ray-Ban Women's RB4068 Polarized Square Sunglasses, Havana & Crystal Brown Polarized, 60 mm",
+            "normalizedName": "Ray-Ban Women's RB4068 Polarized Square Sunglasses, Havana & Crystal Brown Polarized, 60 mm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.755905509
+            }
+        },
+        "B00IBRKH7A": {
+            "asin": "B00IBRKH7A",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Meta-U 10 Pcs Wholesale Eye Mask with Instruction of Blindfold Games- Group Activity Organizer's Best Choice",
+            "normalizedName": "Meta-U 10 Pcs Wholesale Eye Mask with Instruction of Blindfold Games- Group Activity Organizer's Best Choice",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B014EUR70M": {
+            "asin": "B014EUR70M",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Speck Products CandyShell Case for iPhone 6 Plus/6S Plus - Retail Packaging-White/Charcoal Grey",
+            "normalizedName": "Speck Products CandyShell Case for iPhone 6 Plus/6S Plus - Retail Packaging-White/Charcoal Grey",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

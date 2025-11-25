@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NGY8H6Q": {
+            "asin": "B00NGY8H6Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "USA Bling \u2013 Crossbody Purse, Rhinestone Buckle, Women\u2019s Patriotic Shoulder Bag",
+            "normalizedName": "USA Bling \u2013 Crossbody Purse, Rhinestone Buckle, Women\u2019s Patriotic Shoulder Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            }
+        },
+        "B016CKLHB2": {
+            "asin": "B016CKLHB2",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Home Intuition Stainless Steel Toilet Brush With Holder and Drip Cup, 2 Pack",
+            "normalizedName": "2 Pack Home Intuition Stainless Steel Toilet Brush With Holder and Drip Cup,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010RLCH2U": {
+            "asin": "B010RLCH2U",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "AmazonBasics Nespresso Pod Storage Drawer - 50 Capsule Capacity",
+            "normalizedName": "AmazonBasics Nespresso Pod Storage Drawer - 50 Capsule Capacity",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

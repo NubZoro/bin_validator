@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "044900371X": {
+            "asin": "044900371X",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "The Orchid Thief: A True Story of Beauty and Obsession (Ballantine Reader's Circle)",
+            "normalizedName": "The Orchid Thief: A True Story of Beauty and Obsession (Ballantine Reader's Circle)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00D3ORQ2K": {
+            "asin": "B00D3ORQ2K",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "AmpFlow P40-250 Brushed Electric Motor, 250W, 12V, 24V or 36 VDC, 3400 rpm",
+            "normalizedName": "AmpFlow P40-250 Brushed Electric Motor, 250W, 12V, 24V or 36 VDC, 3400 rpm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.399999996310202
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

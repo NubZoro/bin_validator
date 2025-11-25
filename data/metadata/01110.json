@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AJNON3S": {
+            "asin": "B00AJNON3S",
+            "height": {
+                "unit": "IN",
+                "value": 2.249999997705
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Garden of Life FucoThin Green, 90 Capsules",
+            "normalizedName": "Garden of Life FucoThin Green, 90 Capsules",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22999999980712413
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B00DI1R0TM": {
+            "asin": "B00DI1R0TM",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "Offray MLB Los Angeles Dodgers Fabric Ribbon, 1-5/16-Inch by 12-Feet, White/Blue",
+            "normalizedName": "Offray MLB Los Angeles Dodgers Fabric Ribbon, 1-5/16-Inch by 12-Feet, White/Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B01FD2E442": {
+            "asin": "B01FD2E442",
+            "height": {
+                "unit": "IN",
+                "value": 1.77
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.12
+            },
+            "name": "2 Pack Smartdoo Patella Strap,Adjustable knee strap for Knee Pain Relief Fit Basketball/Badminton/Soccer/Running/Tennis/Hiking/Other Sports(Black)",
+            "normalizedName": "2 Pack  Smartdoo Patella Strap,Adjustable knee strap for Knee Pain Relief Fit Basketball/Badminton/Soccer/Running/Tennis/Hiking/Other Sports(Black)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.94
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

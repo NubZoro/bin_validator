@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015N8XRHG": {
+            "asin": "B015N8XRHG",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Pebble Time Round 14mm Smartwatch for Apple/Android Devices - Silver/Stone",
+            "normalizedName": "Pebble Time Round 14mm Smartwatch for Apple/Android Devices - Silver/Stone",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999948959314345
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

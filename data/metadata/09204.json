@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004E2O808": {
+            "asin": "B004E2O808",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Swiffer Wet Refill 12 count pack",
+            "normalizedName": "Swiffer Wet Refill 12 count pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B006NJRFKK": {
+            "asin": "B006NJRFKK",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Darn Tough Hunt/Extreme Scent-Lok Over-the-Calf Extra Cushion - Men's Forest Small",
+            "normalizedName": "Darn Tough Hunt/Extreme Scent-Lok Over-the-Calf Extra Cushion - Men's Forest Small",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B01F79M812": {
+            "asin": "B01F79M812",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.5
+            },
+            "name": "Nike Women's 2016 Tech Golf Visor (White)",
+            "normalizedName": "Nike Women's 2016 Tech Golf Visor (White)",
+            "quantity": 4,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 1.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BQ6FIY": {
+            "asin": "B000BQ6FIY",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Gerson Therapy Recipes with Detailed Cooking Instructions",
+            "normalizedName": "Gerson Therapy Recipes with Detailed Cooking Instructions",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B000M8Y9AC": {
+            "asin": "B000M8Y9AC",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.6062992028
+            },
+            "name": "Intex Recreation 59703EP Economats Inflatable Float 72\"x27\", Assorted Color",
+            "normalizedName": "Intex Recreation 59703EP Economats Inflatable Float 72\"x27\", Assorted Color",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.5275590454
+            }
+        },
+        "B00BXGVIII": {
+            "asin": "B00BXGVIII",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Himani Navratna Hair Oil 300ml",
+            "normalizedName": "Himani Navratna Hair Oil 300ml",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3499999980293125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00LGLICG6": {
+            "asin": "B00LGLICG6",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "GLW 10W High Power waterproof Green Led Flood Light Outdoor floodlight AC/D...",
+            "normalizedName": "GLW 10W High Power waterproof Green Led Flood Light Outdoor floodlight AC/D...",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

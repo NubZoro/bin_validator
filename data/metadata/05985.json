@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004L08BAG": {
+            "asin": "B004L08BAG",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "For Apple iPhone 4 4G Touch Screen Digitizer and LCD Assembly - White (AT&T GSM Model)",
+            "normalizedName": "For Apple iPhone 4 4G Touch Screen Digitizer and LCD Assembly - White (AT&T GSM Model)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00BRGUNV2": {
+            "asin": "B00BRGUNV2",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Nexcare Acne Absorbing Cover, Two Sizes, 36 Count",
+            "normalizedName": "Nexcare Acne Absorbing Cover, Two Sizes, 36 Count",
+            "quantity": 24,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01EYW5S42": {
+            "asin": "B01EYW5S42",
+            "height": {
+                "unit": "IN",
+                "value": 0.3937
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.99999
+            },
+            "name": "kwmobile Flexible super-slim case for Sony Xperia Z5 Compact in dark pink transparent - to enhance the design of your Sony Xperia Z5 Compact",
+            "normalizedName": "kwmobile Flexible super-slim case for Sony Xperia Z5 Compact in dark pink transparent - to enhance the design of your Sony Xperia Z5 Compact",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0330693393
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.55905
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 27
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006ZZGDH8": {
+            "asin": "B006ZZGDH8",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "HP 305A (CE410A) Black Original LaserJet Toner Cartridge",
+            "normalizedName": "HP 305A (CE410A) Black Original LaserJet Toner Cartridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B01AK9RFKS": {
+            "asin": "B01AK9RFKS",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Round Rich\u00ae 100ft Latex Expanding Hose Magic Flexible Expandable Garden Water Hose with 8 Functions Spray Nozzle, Hose hook including.(Green, 100FT)",
+            "normalizedName": "Round Rich\u00ae 100ft Latex Expanding Hose Magic Flexible Expandable Garden Water Hose with 8 Functions Spray Nozzle, Hose hook including.(Green, 100FT)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.949999997526158
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

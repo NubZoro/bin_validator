@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0448434105": {
+            "asin": "0448434105",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "We Play (Read With Dick and Jane)",
+            "normalizedName": "We Play (Read With Dick and Jane)",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B002FYGXWS": {
+            "asin": "B002FYGXWS",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Trimaco 67290 72-Inch by 90-Feet  Trimaco Standard Hand Masking Film",
+            "normalizedName": "Trimaco 67290 72-Inch by 90-Feet  Trimaco Standard Hand Masking Film",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

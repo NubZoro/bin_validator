@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00V2UKN0Y": {
+            "asin": "B00V2UKN0Y",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.399999982252
+            },
+            "name": "100Ft G40 Globe String Lights with Bulbs-UL Listd for Indoor/Outdoor Commercial Decor",
+            "normalizedName": "100Ft G40 Globe String Lights with Bulbs-UL Listd for Indoor/Outdoor Commercial Decor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.599999987148
+            }
+        },
+        "B01GRF2I3S": {
+            "asin": "B01GRF2I3S",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.199999982456
+            },
+            "name": "Lenovo IBM Thinkpad Laptop X220 12.5 Inch Laptop (Intel Core i5-2520M 2.5GHz processor, 128GB SSD, 4GB RAM, 802.11n, Windows 7 Professional) (Certified Refurbished)",
+            "normalizedName": "Lenovo IBM Thinkpad Laptop X220 12.5 Inch Laptop (Intel Core i5-2520M 2.5GHz processor, 128GB SSD, 4GB RAM, 802.11n, Windows 7 Professional) (Certified Refurbished)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 13.139999988980922
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

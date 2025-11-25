@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MFC5P4M": {
+            "asin": "B00MFC5P4M",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Rapunzel Organic Corn Starch, 8 oz",
+            "normalizedName": "Rapunzel Organic Corn Starch, 8 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00RRGZ51E": {
+            "asin": "B00RRGZ51E",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "50 Seed Starting 2\" square Durable Reusable Plastic Pots black",
+            "normalizedName": "50 Seed Starting 2\" square Durable Reusable Plastic Pots black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B013K23YBQ": {
+            "asin": "B013K23YBQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "2 X White Tissue Paper 15\" X 20\" - 100 Sheet Pack",
+            "normalizedName": "2 X White Tissue Paper 15\" X 20\" - 100 Sheet Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

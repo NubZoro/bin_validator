@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0047CP74Q": {
+            "asin": "B0047CP74Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Metropolitan Museum of Art Boxed Note Cards, Audubon Birds (MN211)",
+            "normalizedName": "Metropolitan Museum of Art Boxed Note Cards, Audubon Birds (MN211)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00I8NUF2O": {
+            "asin": "B00I8NUF2O",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "La Roche-Posay Anthelios 30 Cooling Water-Lotion Sunscreen for Face and Body, Water Resistant with SPF 30, 5 Fl. Oz.",
+            "normalizedName": "La Roche-Posay Anthelios 30 Cooling Water-Lotion Sunscreen for Face and Body, Water Resistant with SPF 30, 5 Fl. Oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00XAOQ4EO": {
+            "asin": "B00XAOQ4EO",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Minion Googles Costume Glasses Sunstaches (Minion Googles)",
+            "normalizedName": "Minion Googles Costume Glasses Sunstaches (Minion Googles)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B01DX1B60U": {
+            "asin": "B01DX1B60U",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "name": "QALO- Womens Blue Line- (9)",
+            "normalizedName": "QALO- Womens Blue Line- (9)",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

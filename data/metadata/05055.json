@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00H7PBWK8": {
+            "asin": "B00H7PBWK8",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Silicon Power 32GB Blaze B30 USB 3.0 Swivel Flash Drive, Black (SP032GBUF3B30V1K)",
+            "normalizedName": "Silicon Power 32GB Blaze B30 USB 3.0 Swivel Flash Drive, Black (SP032GBUF3B30V1K)",
+            "quantity": 22,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00QJKKTGK": {
+            "asin": "B00QJKKTGK",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Cosmetic Skin Roller a Home Beauty Device. Increases Natural Collagen, Removes Aging Lines, Wrinkles, Acne Scars, Dark Spots, Blackheads, Cellulite, Stretch Marks. Free protective travel case included.",
+            "normalizedName": "Cosmetic Skin Roller a Home Beauty Device. Increases Natural Collagen, Removes Aging Lines, Wrinkles, Acne Scars, Dark Spots, Blackheads, Cellulite, Stretch Marks. Free protective travel case included.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 24
+}

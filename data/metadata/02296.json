@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005JGAF": {
+            "asin": "B00005JGAF",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "name": "Rocket to Russia",
+            "normalizedName": "Rocket to Russia",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        },
+        "B007T0W5CA": {
+            "asin": "B007T0W5CA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "RCA Digital Alarm Clock with Large 1.4\" Display",
+            "normalizedName": "RCA Digital Alarm Clock with Large 1.4\" Display",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00MWQBNNS": {
+            "asin": "B00MWQBNNS",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "PLAY X STORE\u00ae3.5mm 6-Port Multi Headphone Splitter for Portable(green)",
+            "normalizedName": "PLAY X STORE\u00ae3.5mm 6-Port Multi Headphone Splitter for Portable(green)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B01BUUC1F0": {
+            "asin": "B01BUUC1F0",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "EcoScents The Holiday Pack, Multicolor",
+            "normalizedName": "EcoScents The Holiday Pack, Multicolor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01CGDW2FO": {
+            "asin": "B01CGDW2FO",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Reckless",
+            "normalizedName": "Reckless",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00RSLY5EQ": {
+            "asin": "B00RSLY5EQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Bedtime Kisses a 1000-Piece Jigsaw Puzzle by Sunsout Inc.",
+            "normalizedName": "Bedtime Kisses a 1000-Piece Jigsaw Puzzle by Sunsout Inc.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B01BSWOI9C": {
+            "asin": "B01BSWOI9C",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Premium Patented High Quality Car Trash Can / Garbage Can W/ Leakproof Removable Liner",
+            "normalizedName": "Premium Patented High Quality Car Trash Can / Garbage Can W/ Leakproof Removable Liner",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5731960303572697
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

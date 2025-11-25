@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008D1OQGW": {
+            "asin": "B008D1OQGW",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Fireworks 1-Pound Kiln Wash",
+            "normalizedName": "Fireworks 1-Pound Kiln Wash",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B014I8TRXA": {
+            "asin": "B014I8TRXA",
+            "height": {
+                "unit": "IN",
+                "value": 2.2834645646
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "AmazonBasics High-Speed HDMI CL3 Cable - 25 Feet (Latest Standard)",
+            "normalizedName": "AmazonBasics High-Speed HDMI CL3 Cable - 25 Feet (Latest Standard)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9841401050828569
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0314960548
+            }
+        },
+        "B0194CVT0E": {
+            "asin": "B0194CVT0E",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "4\" x 6\", 2 Mil White Block Zipper Reclosable Storage Bags, Pack of 200",
+            "normalizedName": "Pack of 200 4\" x 6\", 2 Mil White Block Zipper Reclosable Storage Bags,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

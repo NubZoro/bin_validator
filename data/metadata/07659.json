@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000E1R4Z": {
+            "asin": "B0000E1R4Z",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Spare-Air 3000 3.0 Kit, Yellow",
+            "normalizedName": "Spare-Air 3000 3.0 Kit, Yellow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B0188DVOF0": {
+            "asin": "B0188DVOF0",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "AMC The Walking Dead Rick / Daryl Bloody Set of 2 Drinking Pint Glasses",
+            "normalizedName": "Set of 2 AMC The Walking Dead Rick / Daryl Bloody Drinking Pint Glasses",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B018OYROHA": {
+            "asin": "B018OYROHA",
+            "height": {
+                "unit": "IN",
+                "value": 5.6
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.4
+            },
+            "name": "Yes4All Solid Cast Iron Kettlebell 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60 lb, Classic Black, 15 lb",
+            "normalizedName": "Yes4All Solid Cast Iron Kettlebell 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60 lb, Classic Black, 15 lb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 16.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

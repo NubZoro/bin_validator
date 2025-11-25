@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001CZF1ZG": {
+            "asin": "B001CZF1ZG",
+            "height": {
+                "unit": "IN",
+                "value": 2.799999997144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Xikar Cigar Travel Carrying Case 10 Count",
+            "normalizedName": "Xikar Cigar Travel Carrying Case 10 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00FA4OCD2": {
+            "asin": "B00FA4OCD2",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Gateway Safety 4699 StarLite Gumballs Safety Glasses, Clear Lens, All Colors Included (Pack of 10)",
+            "normalizedName": "(Pack of 10) Gateway Safety 4699 StarLite Gumballs Safety Glasses, Clear Lens, All Colors Included",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

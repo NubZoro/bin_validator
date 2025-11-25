@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0448450666": {
+            "asin": "0448450666",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Twirling Tails #7 (Magic Puppy)",
+            "normalizedName": "Twirling Tails #7 (Magic Puppy)",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00FDXGCZG": {
+            "asin": "B00FDXGCZG",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Very Soft Unisex Shemagh Houndstooth Scarf (Maroon/Black)",
+            "normalizedName": "Very Soft Unisex Shemagh Houndstooth Scarf (Maroon/Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994083999
+            }
+        },
+        "B015S4JIWS": {
+            "asin": "B015S4JIWS",
+            "height": {
+                "unit": "IN",
+                "value": 3.0314960599
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8897637725
+            },
+            "name": "Wireless Controller (DUALSHOCK 4) Crystal",
+            "normalizedName": "Wireless Controller (DUALSHOCK 4) Crystal",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7142904378298284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8425196801
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 16
+}

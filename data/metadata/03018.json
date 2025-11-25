@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LY1KIWY": {
+            "asin": "B00LY1KIWY",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "name": "Micro Essential Lab 3110M18EA 325 Hydrion Short Range pH Test Paper Dispenser, 3.0 - 5.5 pH",
+            "normalizedName": "Micro Essential Lab 3110M18EA 325 Hydrion Short Range pH Test Paper Dispenser, 3.0 - 5.5 pH",
+            "quantity": 15,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00YCTIPEI": {
+            "asin": "B00YCTIPEI",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "BLU Advance 4.0L Unlocked Smartphone -US GSM - White",
+            "normalizedName": "BLU Advance 4.0L Unlocked Smartphone -US GSM - White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 17
+}

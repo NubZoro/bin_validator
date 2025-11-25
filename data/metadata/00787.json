@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004YK5TNK": {
+            "asin": "B004YK5TNK",
+            "height": {
+                "unit": "IN",
+                "value": 5.0393700736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.2755905458
+            },
+            "name": "Kruuse Buster Food Cube Feeder, Lime",
+            "normalizedName": "Kruuse Buster Food Cube Feeder, Lime",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800355822459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        },
+        "B0086UK7IQ": {
+            "asin": "B0086UK7IQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.7007873978
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.5826771566
+            },
+            "name": "Logitech G600 MMO Gaming Mouse, Black",
+            "normalizedName": "Logitech G600 MMO Gaming Mouse, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8818400467034918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6692913328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

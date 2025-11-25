@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001K2N46O": {
+            "asin": "B001K2N46O",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "name": "Rubbermaid #2b87-25 Wht Replacement Faucet Kit (1 Kit)",
+            "normalizedName": "Rubbermaid #2b87-25 Wht Replacement Faucet Kit (1 Kit)",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B00TID98XU": {
+            "asin": "B00TID98XU",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Fisher-Price Nickelodeon Bubble Guppies Bubble-rina Molly",
+            "normalizedName": "Fisher-Price Nickelodeon Bubble Guppies Bubble-rina Molly",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B0192FB8T0": {
+            "asin": "B0192FB8T0",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Argan Moroccan Oil Hair Treatment \u2013 Intensive Repair for Dry Damaged Hair \u2013 Prevents Brittleness \u2013 Arganesse is Fitness for Your Hair \u2013 Leaves Hair Shiny & Healthy, Not Frizzy & Oily \u2013 Sample 3-Pack",
+            "normalizedName": "3-Pack Argan Moroccan Oil Hair Treatment \u2013 Intensive Repair for Dry Damaged Hair \u2013 Prevents Brittleness \u2013 Arganesse is Fitness for Your Hair \u2013 Leaves Hair Shiny & Healthy, Not Frizzy & Oily \u2013 Sample",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

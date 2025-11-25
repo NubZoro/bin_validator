@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002G9TX42": {
+            "asin": "B002G9TX42",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Filexec 1720, Poly Envelope, Velcro Closure, Letter Size, Set of 12 in 6 Assorted Colors, 2 Each Smoke, Blue, Red, Clear, Purple, Green",
+            "normalizedName": "Set of 12 Filexec 1720, Poly Envelope, Velcro Closure, Letter Size, in 6 Assorted Colors, 2 Each Smoke, Blue, Red, Clear, Purple, Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514
+            }
+        },
+        "B00HUTQOWM": {
+            "asin": "B00HUTQOWM",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "iCracked iPhone 5C Screen Replacement Kit (AT&T/Verizon/Sprint/T-Mobile) - Retail Packaging - Black",
+            "normalizedName": "iCracked iPhone 5C Screen Replacement Kit (AT&T/Verizon/Sprint/T-Mobile) - Retail Packaging - Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

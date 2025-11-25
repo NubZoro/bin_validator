@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000E2Y7B": {
+            "asin": "B0000E2Y7B",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Epson T048120 48 Inkjet Cartridge -Black",
+            "normalizedName": "Epson T048120 48 Inkjet Cartridge -Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.299999998674
+            }
+        },
+        "B003HW3LPO": {
+            "asin": "B003HW3LPO",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Tornado Roller Ball Ink BLACK Refills by Retro 51 (REF5P-B) (Three Pack)",
+            "normalizedName": "Tornado Roller Ball Ink BLACK Refills by Retro 51 (REF5P-B) (Three Pack)",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B003O1OCH4": {
+            "asin": "B003O1OCH4",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Now Foods Dry E-400, Veg-Capsules, 100-Count",
+            "normalizedName": "Now Foods Dry E-400, Veg-Capsules, 100-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00P3J1H3C": {
+            "asin": "B00P3J1H3C",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "KES PTS-C1-A Replacement Single Handle Faucet Cartridge Ceramic Disc Valve 35mm Diameter, SEDAL from Europe",
+            "normalizedName": "KES PTS-C1-A Replacement Single Handle Faucet Cartridge Ceramic Disc Valve 35mm Diameter, SEDAL from Europe",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

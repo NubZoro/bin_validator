@@ -1,0 +1,203 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000URDE10": {
+            "asin": "B000URDE10",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "name": "Cowboy Town",
+            "normalizedName": "Cowboy Town",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8031496014
+            }
+        },
+        "B004RZTNUM": {
+            "asin": "B004RZTNUM",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "David Comes to Life",
+            "normalizedName": "David Comes to Life",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "B005BJ7Y54": {
+            "asin": "B005BJ7Y54",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Father, Son, Holy Ghost",
+            "normalizedName": "Father, Son, Holy Ghost",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B005T9Q9OI": {
+            "asin": "B005T9Q9OI",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Blue Sky Blue",
+            "normalizedName": "Blue Sky Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770734815265533
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B0077FGWA8": {
+            "asin": "B0077FGWA8",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Weapons",
+            "normalizedName": "Weapons",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770752888384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00QJPN7MI": {
+            "asin": "B00QJPN7MI",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "All of the Pieces",
+            "normalizedName": "All of the Pieces",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770734815265533
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00S5RGGT4": {
+            "asin": "B00S5RGGT4",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "name": "Official Songbook",
+            "normalizedName": "Official Songbook",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800934069835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        },
+        "B00UN1A7JA": {
+            "asin": "B00UN1A7JA",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Pop for Tots",
+            "normalizedName": "Pop for Tots",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17707528883839999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B01936IB2U": {
+            "asin": "B01936IB2U",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Case for Fire 7 - Premium Folio Case with Stand for the NEW Fire, 7\" Display (Sept, 2015 Release) (Imprint Pink)",
+            "normalizedName": "Case for Fire 7 - Premium Folio Case with Stand for the NEW Fire, 7\" Display (Sept, 2015 Release) (Imprint Pink)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

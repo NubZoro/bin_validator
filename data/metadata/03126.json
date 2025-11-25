@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D39LKDQ": {
+            "asin": "B00D39LKDQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Miele Coffee Machine Cleaning Tablets (20 Tablets)",
+            "normalizedName": "Miele Coffee Machine Cleaning Tablets (20 Tablets)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B00FIU27UI": {
+            "asin": "B00FIU27UI",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Activa Naturals Vision Supplement with Beta Carotene, Lutein, Bilberry, Quercetin & Grape Seeds Herbs - 90 Veg. Caps",
+            "normalizedName": "Activa Naturals Vision Supplement with Beta Carotene, Lutein, Bilberry, Quercetin & Grape Seeds Herbs - 90 Veg. Caps",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00ITGP6EM": {
+            "asin": "B00ITGP6EM",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.086614166
+            },
+            "name": "Entertaining with Caspari Entertaining Square Salad and Dessert Plates, Sweater Party, Pack of 8",
+            "normalizedName": "Pack of 8 Entertaining with Caspari Entertaining Square Salad and Dessert Plates, Sweater Party,",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5905511754
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

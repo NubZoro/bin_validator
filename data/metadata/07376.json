@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GU79VAW": {
+            "asin": "B00GU79VAW",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "Little India Pure Cotton Floral Printed Double Bed Sheet Set 506",
+            "normalizedName": "Little India Pure Cotton Floral Printed Double Bed Sheet Set 506",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        },
+        "B00T03UAUS": {
+            "asin": "B00T03UAUS",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Barbie in Rock 'N Royals Singing Erika Doll",
+            "normalizedName": "Barbie in Rock 'N Royals Singing Erika Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000SQQGF4": {
+            "asin": "B000SQQGF4",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Master Lock 7120D Locking Security Bag, Blue, 10-inch x 8-5/8-inch x 1-7/8-inch",
+            "normalizedName": "Master Lock 7120D Locking Security Bag, Blue, 10-inch x 8-5/8-inch x 1-7/8-inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B005X0BLH8": {
+            "asin": "B005X0BLH8",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Who's Riding on the Bus? Game",
+            "normalizedName": "Who's Riding on the Bus? Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

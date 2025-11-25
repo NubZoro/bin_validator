@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0078028647": {
+            "asin": "0078028647",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Drugs, Society, and Human Behavior",
+            "normalizedName": "Drugs, Society, and Human Behavior",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "1457665034": {
+            "asin": "1457665034",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Writing in Action",
+            "normalizedName": "Writing in Action",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B000F8QYYS": {
+            "asin": "B000F8QYYS",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Shamrock Cut-outs",
+            "normalizedName": "Shamrock Cut-outs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B002I0K74Y": {
+            "asin": "B002I0K74Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Sports Champions - Playstation 3",
+            "normalizedName": "Sports Champions - Playstation 3",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B004VV9X4I": {
+            "asin": "B004VV9X4I",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Macro Force 325461 8' x 1-1/8\" Sure Grip PowerSports Ratchet Hook Loop with Storage Bags - Pair",
+            "normalizedName": "Macro Force 325461 8' x 1-1/8\" Sure Grip PowerSports Ratchet Hook Loop with Storage Bags - Pair",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

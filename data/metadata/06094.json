@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A0M5CH4": {
+            "asin": "B00A0M5CH4",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Pac-Kit by First Aid Only 5-6800 Stretch Gauze Bandage, 4 yds Length x 4\" Width (Box of 24)",
+            "normalizedName": "Pac-Kit by First Aid Only 5-6800 Stretch Gauze Bandage, 4 yds Length x 4\" Width (Box of 24)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00F9KOX7M": {
+            "asin": "B00F9KOX7M",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Molex 1062440055 MTP QSFP cable - MM,OM3 -round cable",
+            "normalizedName": "Molex 1062440055 MTP QSFP cable - MM,OM3 -round cable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VJKTLK0": {
+            "asin": "B00VJKTLK0",
+            "height": {
+                "unit": "IN",
+                "value": 4.6456692866
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.9055117948
+            },
+            "name": "Nickelodeon Blaze and the Monster Machines Monster Dome Playset",
+            "normalizedName": "Nickelodeon Blaze and the Monster Machines Monster Dome Playset",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.042348161127047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.992125971
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

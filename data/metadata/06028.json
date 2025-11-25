@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015MY23GW": {
+            "asin": "B015MY23GW",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Toiletry Bag, E-BLOOMY Classic Series Hanging Travel Toiletry Kit Organizer (Classic Black)",
+            "normalizedName": "Toiletry Bag, E-BLOOMY Classic Series Hanging Travel Toiletry Kit Organizer (Classic Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

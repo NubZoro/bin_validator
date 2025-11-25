@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011E14FAY": {
+            "asin": "B011E14FAY",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "WWE Elite Collector The Nation of Domination: The Rock & Faarooq 2-Pack",
+            "normalizedName": "2-Pack WWE Elite Collector The Nation of Domination: The Rock & Faarooq",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

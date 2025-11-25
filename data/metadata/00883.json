@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0026KEF12": {
+            "asin": "B0026KEF12",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Scent-A-Way 24 oz. Odorless Laundry Detergent by Hunter's Specialties",
+            "normalizedName": "Scent-A-Way 24 oz. Odorless Laundry Detergent by Hunter's Specialties",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00HYV2GKA": {
+            "asin": "B00HYV2GKA",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Babyganics Natural DEET-Free Insect Repellent, 6oz Spray Bottle (Pack of 2)",
+            "normalizedName": "(Pack of 2) Babyganics Natural DEET-Free Insect Repellent, 6oz Spray Bottle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00K1LNP2S": {
+            "asin": "B00K1LNP2S",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Adobe Photoshop Elements 12",
+            "normalizedName": "Adobe Photoshop Elements 12",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00TOJPXDW": {
+            "asin": "B00TOJPXDW",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Mesh Laundry Bags By YaeloDeisgn - Delicates Wash Bag Made With 55g Quality Polyester Mesh With Zipper - Small Bag for Undergarments - Lingerie Wash Bag - 5 pcs. - White Color",
+            "normalizedName": "Mesh Laundry Bags By YaeloDeisgn - Delicates Wash Bag Made With 55g Quality Polyester Mesh With Zipper - Small Bag for Undergarments - Lingerie Wash Bag - 5 pcs. - White Color",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

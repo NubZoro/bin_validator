@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000089D9U": {
+            "asin": "B000089D9U",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971440004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987046
+            },
+            "name": "Columbian Catalog Envelopes, Grip-Seal, 9 x 12 Inches, White, 100 Per Box (CO920)",
+            "normalizedName": "Columbian Catalog Envelopes, Grip-Seal, 9 x 12 Inches, White, 100 Per Box (CO920)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B00931J7OW": {
+            "asin": "B00931J7OW",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "6 Even Snowflakes Silicone Cake Mold",
+            "normalizedName": "6 Even Snowflakes Silicone Cake Mold",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.01
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00XLXTZYK": {
+            "asin": "B00XLXTZYK",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "NFL Short Sleeve Thematic Polo-Seattle Seahawks-Large",
+            "normalizedName": "NFL Short Sleeve Thematic Polo-Seattle Seahawks-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

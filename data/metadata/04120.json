@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0373789211": {
+            "asin": "0373789211",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Lone Heart Pass (Ransom Canyon)",
+            "normalizedName": "Lone Heart Pass (Ransom Canyon)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "1285171349": {
+            "asin": "1285171349",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Systems Analysis and Design (with CourseMate, 1 term (6 months) Printed Access Card) (Shelly Cashman Series)",
+            "normalizedName": "Systems Analysis and Design (with CourseMate, 1 term (6 months) Printed Access Card) (Shelly Cashman Series)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00MQYGC3C": {
+            "asin": "B00MQYGC3C",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Galaxy Tab 4 7.0 Screen Protector, (T231 2014 Not Fit T231) AnoKe (0.3mm 9H Hardness) Tempered Glass Screen Protector Cover For Samsung Galaxy Tab 4 7.0 T231, [Lifetime Warranty] T231 Glass",
+            "normalizedName": "Galaxy Tab 4 7.0 Screen Protector, (T231 2014 Not Fit T231) AnoKe (0.3mm 9H Hardness) Tempered Glass Screen Protector Cover For Samsung Galaxy Tab 4 7.0 T231, [Lifetime Warranty] T231 Glass",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

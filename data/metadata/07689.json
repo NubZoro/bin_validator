@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000H43VBY": {
+            "asin": "B000H43VBY",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "DuPont Self-Charging Smoke Alarm",
+            "normalizedName": "DuPont Self-Charging Smoke Alarm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B00FGPXA8S": {
+            "asin": "B00FGPXA8S",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "IMS Pets 50-Piece Rawhide Wrapped Chicken Sticks Pet Treats",
+            "normalizedName": "IMS Pets 50-Piece Rawhide Wrapped Chicken Sticks Pet Treats",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

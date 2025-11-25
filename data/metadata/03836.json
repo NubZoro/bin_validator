@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004UPYFS4": {
+            "asin": "B004UPYFS4",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Amscan Big Party Pack 50 Count Paper Lunch Plates, 9 inch, Bright Pink",
+            "normalizedName": "Amscan Big Party Pack 50 Count Paper Lunch Plates, 9 inch, Bright Pink",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0030C4K8I": {
+            "asin": "B0030C4K8I",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Motorola H720 Bluetooth Headset - Motorola Retail Packaging",
+            "normalizedName": "Motorola H720 Bluetooth Headset - Motorola Retail Packaging",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

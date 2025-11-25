@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000089D9U": {
+            "asin": "B000089D9U",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971440004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987046
+            },
+            "name": "Columbian Catalog Envelopes, Grip-Seal, 9 x 12 Inches, White, 100 Per Box (CO920)",
+            "normalizedName": "Columbian Catalog Envelopes, Grip-Seal, 9 x 12 Inches, White, 100 Per Box (CO920)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B00B14H494": {
+            "asin": "B00B14H494",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Beistle 57894 Inflatable Birthday Cake Cooler, 24-Inch by 16-Inch",
+            "normalizedName": "Beistle 57894 Inflatable Birthday Cake Cooler, 24-Inch by 16-Inch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B00XLXTZYK": {
+            "asin": "B00XLXTZYK",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "NFL Short Sleeve Thematic Polo-Seattle Seahawks-Large",
+            "normalizedName": "NFL Short Sleeve Thematic Polo-Seattle Seahawks-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

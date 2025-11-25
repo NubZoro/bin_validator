@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00E8AVN9U": {
+            "asin": "B00E8AVN9U",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Murder, She Wrote: The Complete Series",
+            "normalizedName": "Murder, She Wrote: The Complete Series",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

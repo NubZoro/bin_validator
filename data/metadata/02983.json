@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1401302785": {
+            "asin": "1401302785",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "The Match: The Day the Game of Golf Changed Forever",
+            "normalizedName": "The Match: The Day the Game of Golf Changed Forever",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B000K005Z0": {
+            "asin": "B000K005Z0",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "ACDelco 15038567 GM Original Equipment Front Door Radio Speaker",
+            "normalizedName": "ACDelco 15038567 GM Original Equipment Front Door Radio Speaker",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B00JDRTAXO": {
+            "asin": "B00JDRTAXO",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Magpul Field Case for iPhone 5c - Retail Packaging - Dark Blue",
+            "normalizedName": "Magpul Field Case for iPhone 5c - Retail Packaging - Dark Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

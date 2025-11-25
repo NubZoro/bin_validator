@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009R3GCGM": {
+            "asin": "B009R3GCGM",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Funny Guy Mugs Caffeine Molecule Ceramic Coffee Mug, Brown, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Caffeine Molecule Ceramic Coffee Mug, Brown, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00J0AYEH6": {
+            "asin": "B00J0AYEH6",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Rebono Rugged Shockproof Defender Armor Case For iPhone 5/5s With Rotating Belt Clip & Kickstand (WHITE)",
+            "normalizedName": "Rebono Rugged Shockproof Defender Armor Case For iPhone 5/5s With Rotating Belt Clip & Kickstand (WHITE)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0471064114": {
+            "asin": "0471064114",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Developing Business Strategies",
+            "normalizedName": "Developing Business Strategies",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.28
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

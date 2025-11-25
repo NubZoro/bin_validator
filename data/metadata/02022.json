@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EVSC8C": {
+            "asin": "B000EVSC8C",
+            "height": {
+                "unit": "IN",
+                "value": 8.40157479458
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Bethlehem Lighting Indoor/Outdoor Christmas Standard Star Sphere 100  , Amber",
+            "normalizedName": "Bethlehem Lighting Indoor/Outdoor Christmas Standard Star Sphere 100  , Amber",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.000033640864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00WUD4EQG": {
+            "asin": "B00WUD4EQG",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "InnoGear Solar Lights Spotlight Outdoor Landscape Lighting Waterproof Wall Light Security Night Lights, Pack of 2 (White Light)",
+            "normalizedName": "Pack of 2 InnoGear Solar Lights Spotlight Outdoor Landscape Lighting Waterproof Wall Light Security Night Lights, (White Light)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

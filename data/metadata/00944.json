@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AWRUICG": {
+            "asin": "B00AWRUICG",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0078740086
+            },
+            "name": "TP-LINK AV500 Nano Powerline Adapter Starter Kit, up to 500Mbps (TL-PA4010KIT)",
+            "normalizedName": "TP-LINK AV500 Nano Powerline Adapter Starter Kit, up to 500Mbps (TL-PA4010KIT)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        },
+        "B00MVN8WPY": {
+            "asin": "B00MVN8WPY",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "lederTEK Decorative Solar Powered Lights Multi-color 200 LED 8 Modes Fairy String Light for Garden, Lawn, Patio, Tree, Wedding, Party, Outside, Holiday, Indoor, Outdoor Decorations, Valentines Day",
+            "normalizedName": "lederTEK Decorative Solar Powered Lights Multi-color 200 LED 8 Modes Fairy String Light for Garden, Lawn, Patio, Tree, Wedding, Party, Outside, Holiday, Indoor, Outdoor Decorations, Valentines Day",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.190484063049714
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

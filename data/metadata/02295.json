@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00X1A2D8I": {
+            "asin": "B00X1A2D8I",
+            "height": {
+                "unit": "IN",
+                "value": 2.2834645646
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.2283464432
+            },
+            "name": "Zignature Kangaroo Formula Dog Food, 4 lb.",
+            "normalizedName": "Zignature Kangaroo Formula Dog Food, 4 lb.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1102362122
+            }
+        },
+        "B015567XNK": {
+            "asin": "B015567XNK",
+            "height": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Bell Stoker MIPS Helmet - Matte Black/White Aggression Medium",
+            "normalizedName": "Bell Stoker MIPS Helmet - Matte Black/White Aggression Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0142003441": {
+            "asin": "0142003441",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Good Poems",
+            "normalizedName": "Good Poems",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "0394468910": {
+            "asin": "0394468910",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Body time; physiological rhythms and social stress",
+            "normalizedName": "Body time; physiological rhythms and social stress",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "1476771901": {
+            "asin": "1476771901",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "Once Upon a Time in Russia: The Rise of the OligarchsA True Story of Ambition, Wealth, Betrayal, and Murder",
+            "normalizedName": "Once Upon a Time in Russia: The Rise of the OligarchsA True Story of Ambition, Wealth, Betrayal, and Murder",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.48501202568692053
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B00A4692MM": {
+            "asin": "B00A4692MM",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "31 Ft. STRINGS ONLY Cool White 100 LED Indoor Outdoor Cool Touch Connectable Holiday String Light Expansion Strand Expandable to 1200 LEDs (Power Source Not Included - No Battery Pack)",
+            "normalizedName": "31 Ft. STRINGS ONLY Cool White 100 LED Indoor Outdoor Cool Touch Connectable Holiday String Light Expansion Strand Expandable to 1200 LEDs (Power Source Not Included - No Battery Pack)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

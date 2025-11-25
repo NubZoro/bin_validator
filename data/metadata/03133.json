@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00362TSJS": {
+            "asin": "B00362TSJS",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Unicorns Animals (12 per package)",
+            "normalizedName": "Unicorns Animals (12 per package)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B008I1YXHO": {
+            "asin": "B008I1YXHO",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Reese Towpower 85747 T-Connector",
+            "normalizedName": "Reese Towpower 85747 T-Connector",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

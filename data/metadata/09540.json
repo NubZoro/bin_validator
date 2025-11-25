@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000VOOXI": {
+            "asin": "B0000VOOXI",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Ateco Decorating Comb & Icing Smoother",
+            "normalizedName": "Ateco Decorating Comb & Icing Smoother",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00N1PV46A": {
+            "asin": "B00N1PV46A",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Blueberry Pet Toys for Dogs Pure Bunny, Designer Plush Squeak Small Puppy Dog Toy",
+            "normalizedName": "Blueberry Pet Toys for Dogs Pure Bunny, Designer Plush Squeak Small Puppy Dog Toy",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 17
+}

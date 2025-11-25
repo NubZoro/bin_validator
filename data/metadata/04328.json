@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006RFZ66K": {
+            "asin": "B006RFZ66K",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Biore Deep Cleansing Pore Strips, 24 Count",
+            "normalizedName": "Biore Deep Cleansing Pore Strips, 24 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B00AXI6N78": {
+            "asin": "B00AXI6N78",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.7401574714
+            },
+            "name": "Corolle Mini Corolline Readhead Doll",
+            "normalizedName": "Corolle Mini Corolline Readhead Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.529104028022095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5905511754
+            }
+        },
+        "B00YPA9SMC": {
+            "asin": "B00YPA9SMC",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Extra Strength Turmeric Curcumin Supplement With Bioperine (650mg /120 capsules), 95% Curcuminoids | Natural Vegan, Gluten Free, GMO Free Formula, Made In The USA",
+            "normalizedName": "Extra Strength Turmeric Curcumin Supplement With Bioperine (650mg /120 capsules), 95% Curcuminoids | Natural Vegan, Gluten Free, GMO Free Formula, Made In The USA",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.32999999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

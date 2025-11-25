@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001GCU0U6": {
+            "asin": "B001GCU0U6",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Natrol Soy Isoflavones Capsules, 120-Count (Pack of 2)",
+            "normalizedName": "(Pack of 2) Natrol Soy Isoflavones Capsules, 120-Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

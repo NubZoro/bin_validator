@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GGQMWO4": {
+            "asin": "B00GGQMWO4",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Instant IAP-224 IEEE 802.11ac 1.27 Gbps Wireless Access Point - ISM Band - UNII Band",
+            "normalizedName": "Instant IAP-224 IEEE 802.11ac 1.27 Gbps Wireless Access Point - ISM Band - UNII Band",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.199999987556
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

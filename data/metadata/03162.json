@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000Q6ZLKM": {
+            "asin": "B000Q6ZLKM",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Star Wars Battlefront: Renegade Squadron - Sony PSP",
+            "normalizedName": "Star Wars Battlefront: Renegade Squadron - Sony PSP",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01ARFWBOK": {
+            "asin": "B01ARFWBOK",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Vergiano Highest Quality Premium Stainless Steel Easy Clean No Pulp Garlic Press & Crusher - Ginger Mincer & Chopper - Super Strong Crushing with Extra Grip No Slip Handles",
+            "normalizedName": "Vergiano Highest Quality Premium Stainless Steel Easy Clean No Pulp Garlic Press & Crusher - Ginger Mincer & Chopper - Super Strong Crushing with Extra Grip No Slip Handles",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

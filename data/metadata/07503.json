@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003YBP6Q0": {
+            "asin": "B003YBP6Q0",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "GoPicnic Ready-to-Eat Meals Traditional Hummus & Multiseed Crackers 4.01 oz boxes (Pack of 6)",
+            "normalizedName": "(Pack of 6) GoPicnic Ready-to-Eat Meals Traditional Hummus & Multiseed Crackers 4.01 oz boxes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B0176VE9BG": {
+            "asin": "B0176VE9BG",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "5 Yard Bolt Blue Plaid Flannel Cotton Fabric",
+            "normalizedName": "5 Yard Bolt Blue Plaid Flannel Cotton Fabric",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6999999977358056
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

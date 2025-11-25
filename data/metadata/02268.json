@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005SEBU8O": {
+            "asin": "B005SEBU8O",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "theBalm Cheater! Mascara, Black",
+            "normalizedName": "theBalm Cheater! Mascara, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.01
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            }
+        },
+        "B008VSJFQ8": {
+            "asin": "B008VSJFQ8",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "theBalm Schwing Liquid Eyeliner, Black",
+            "normalizedName": "theBalm Schwing Liquid Eyeliner, Black",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.01
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            }
+        },
+        "B00CEQLJ8U": {
+            "asin": "B00CEQLJ8U",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Water Sports Water Balloon Refill Kit, 500-Pack",
+            "normalizedName": "500-Pack Water Sports Water Balloon Refill Kit,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

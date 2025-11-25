@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0047726E0": {
+            "asin": "B0047726E0",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Green Mountain Coffee Decaf Breakfast Blend  (Light Roast Coffee), K-Cup Portion Pack for Keurig K-Cup Brewers (Pack of 24)",
+            "normalizedName": "(Pack of 24) Green Mountain Coffee Decaf Breakfast Blend  (Light Roast Coffee), K-Cup Portion Pack for Keurig K-Cup Brewers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

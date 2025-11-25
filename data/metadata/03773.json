@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0012XV382": {
+            "asin": "B0012XV382",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Pepcid Complete Dual Action Acid Reducer and Antacid Berry Flavored Chewable Tablets 100 Count Bottle",
+            "normalizedName": "Pepcid Complete Dual Action Acid Reducer and Antacid Berry Flavored Chewable Tablets 100 Count Bottle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.49999489635072547
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B001BLEL2U": {
+            "asin": "B001BLEL2U",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Briggs & Riley Baseline Luggage Compact Toiletry Kit, Black, Medium",
+            "normalizedName": "Briggs & Riley Baseline Luggage Compact Toiletry Kit, Black, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B01BZ6R3FW": {
+            "asin": "B01BZ6R3FW",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Alkazone Alkaline Booster Drops with Antioxidant, 1.25 Fluid Ounce (3-Pack)",
+            "normalizedName": "(3-Pack) Alkazone Alkaline Booster Drops with Antioxidant, 1.25 Fluid Ounce",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6199999994800739
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

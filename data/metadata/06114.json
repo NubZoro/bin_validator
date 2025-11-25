@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000052XR3": {
+            "asin": "B000052XR3",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Qtips Cotton Swabs  170ct.",
+            "normalizedName": "Qtips Cotton Swabs  170ct.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00TR8ZV64": {
+            "asin": "B00TR8ZV64",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "StarTech.com RS232 to TTL Serial Converter, DB9 F/M, Bidirectional Transistor Adapter IC232TTL",
+            "normalizedName": "StarTech.com RS232 to TTL Serial Converter, DB9 F/M, Bidirectional Transistor Adapter IC232TTL",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5905511754
+            }
+        },
+        "B012THVADC": {
+            "asin": "B012THVADC",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Avengers Etched Print Pint Glass",
+            "normalizedName": "Avengers Etched Print Pint Glass",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B01BPC50CY": {
+            "asin": "B01BPC50CY",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "The Walking Dead Zombic Comic Artist Tony Moore Gel Pens 0.7mm Black , 12-Pack",
+            "normalizedName": "12-Pack The Walking Dead Zombic Comic Artist Tony Moore Gel Pens 0.7mm Black ,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645638
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

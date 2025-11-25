@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007Y8VIQ6": {
+            "asin": "B007Y8VIQ6",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9212598324
+            },
+            "name": "Wildkin Owls Lunch Box",
+            "normalizedName": "Wildkin Owls Lunch Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280213493476
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.4251968418
+            }
+        },
+        "B014AHMW5Y": {
+            "asin": "B014AHMW5Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Barbie Fashionistas Doll 30 White & Pink Pizzazz - Tall",
+            "normalizedName": "Barbie Fashionistas Doll 30 White & Pink Pizzazz - Tall",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

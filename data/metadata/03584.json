@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1505016134": {
+            "asin": "1505016134",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Star Wars Rebels Giant Coloring and Activity Book - 11\" x 16\"",
+            "normalizedName": "Star Wars Rebels Giant Coloring and Activity Book - 11\" x 16\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        },
+        "B008BI7AZG": {
+            "asin": "B008BI7AZG",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Watch Box 6 Mens Black Leather Display Glass Top Jewelry Case Organizer",
+            "normalizedName": "Watch Box 6 Mens Black Leather Display Glass Top Jewelry Case Organizer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01E4V7MK6": {
+            "asin": "B01E4V7MK6",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.0
+            },
+            "name": "2-Pack of Evateak Anti-Slip Bench Pads 18\"x9.5\" Gray",
+            "normalizedName": "2-Pack  of Evateak Anti-Slip Bench Pads 18\"x9.5\" Gray",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HZJ7X1S": {
+            "asin": "B00HZJ7X1S",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Egyptian Cotton 650 Thread Count Full 4-Piece Sheet Set, Deep Pocket, Single Ply, Stripe, Grey",
+            "normalizedName": "Egyptian Cotton 650 Thread Count Full 4-Piece Sheet Set, Deep Pocket, Single Ply, Stripe, Grey",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.599999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B015OP0K9G": {
+            "asin": "B015OP0K9G",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Giro Revel Helmet - Women's Matte Black/Lime/Flame",
+            "normalizedName": "Giro Revel Helmet - Women's Matte Black/Lime/Flame",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6314040864014596
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B01GKUDGF4": {
+            "asin": "B01GKUDGF4",
+            "height": {
+                "unit": "IN",
+                "value": 2.755905509
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.385826758
+            },
+            "name": "Waker Professional Titanium Flat Iron, Digital Ceramic Ionic Hair Straightener, Dual Voltage 110-220v, 1-inch",
+            "normalizedName": "Waker Professional Titanium Flat Iron, Digital Ceramic Ionic Hair Straightener, Dual Voltage 110-220v, 1-inch",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

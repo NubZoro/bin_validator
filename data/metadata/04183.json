@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CH6DW6O": {
+            "asin": "B00CH6DW6O",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Parker Vector Premium Shiny Stainless Steel Chiselled Fountainpen M",
+            "normalizedName": "Parker Vector Premium Shiny Stainless Steel Chiselled Fountainpen M",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00KTI2CB8": {
+            "asin": "B00KTI2CB8",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "iPhone 5 Case, iPhone 5S Case, Case Ace\u00ae Silicone Slim Protective iPhone 5 5S Case Cover for Apple iPhone 5/5S (White)",
+            "normalizedName": "iPhone 5 Case, iPhone 5S Case, Case Ace\u00ae Silicone Slim Protective iPhone 5 5S Case Cover for Apple iPhone 5/5S (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B01CWRSWBW": {
+            "asin": "B01CWRSWBW",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "FCarolyn - Pirate Eye Patch , Real Silk,No Leakage, Smooth , Soft and Comfortable (Black)",
+            "normalizedName": "FCarolyn - Pirate Eye Patch , Real Silk,No Leakage, Smooth , Soft and Comfortable (Black)",
+            "quantity": 17,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 22
+}

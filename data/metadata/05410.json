@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FCGUAM": {
+            "asin": "B000FCGUAM",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "Keeper 06152 24\" Super Duty Bungee Cord with Carabiner Hook",
+            "normalizedName": "Keeper 06152 24\" Super Duty Bungee Cord with Carabiner Hook",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.362204722
+            }
+        },
+        "B00I5HRZ12": {
+            "asin": "B00I5HRZ12",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Keeper (04224) 24\" x 2\" Standard Axle Strap with D-Ring",
+            "normalizedName": "Keeper (04224) 24\" x 2\" Standard Axle Strap with D-Ring",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

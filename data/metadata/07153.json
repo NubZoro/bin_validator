@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00J43Q2N8": {
+            "asin": "B00J43Q2N8",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Stretchy Tongue Tuggers - 50 per Pack",
+            "normalizedName": "50 per Pack Stretchy Tongue Tuggers -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B012E09JFU": {
+            "asin": "B012E09JFU",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.3
+            },
+            "name": "ili Leather Pick-a-pocket Crossbody Handbag (Turquoise)",
+            "normalizedName": "ili Leather Pick-a-pocket Crossbody Handbag (Turquoise)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.5
+            }
+        },
+        "B013FWAGOO": {
+            "asin": "B013FWAGOO",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Nuby 2-Pack Tub Tugs Floating Bath Boat Toys, Colors May Vary",
+            "normalizedName": "2-Pack Nuby Tub Tugs Floating Bath Boat Toys, Colors May Vary",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0041LAL3U": {
+            "asin": "B0041LAL3U",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "StarMark Add-A-Link Large",
+            "normalizedName": "StarMark Add-A-Link Large",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00FF3O17A": {
+            "asin": "B00FF3O17A",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "ARANA New switch Flip Folding Remote Key Fob Case for Chevrolet Chevy 4 Buttons(Only empty shell)",
+            "normalizedName": "ARANA New switch Flip Folding Remote Key Fob Case for Chevrolet Chevy 4 Buttons(Only empty shell)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

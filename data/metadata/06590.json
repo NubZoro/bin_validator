@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000LD55BA": {
+            "asin": "B000LD55BA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Fragrance Memories - Beach & SEA - Caribbean Blue 20 Sticks",
+            "normalizedName": "Fragrance Memories - Beach & SEA - Caribbean Blue 20 Sticks",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02999999997484228
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        },
+        "B01DW08AAQ": {
+            "asin": "B01DW08AAQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Dr.meter Forehead Thermometer Clinical Digital Infrared Baby Exergen Thermometer FDA approved Purple",
+            "normalizedName": "Dr.meter Forehead Thermometer Clinical Digital Infrared Baby Exergen Thermometer FDA approved Purple",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

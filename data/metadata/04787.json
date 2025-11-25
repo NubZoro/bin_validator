@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0016QAVJC": {
+            "asin": "B0016QAVJC",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Schick Quattro for Women Razor plus 12 Cartridges (COLORS MAY VARY)",
+            "normalizedName": "Schick Quattro for Women Razor plus 12 Cartridges (COLORS MAY VARY)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00ULZSAFQ": {
+            "asin": "B00ULZSAFQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "30 & 5 Minute Gravity Hourglasses - Time Management Set",
+            "normalizedName": "30 & 5 Minute Gravity Hourglasses - Time Management Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

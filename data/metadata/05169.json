@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000XI6O2W": {
+            "asin": "B000XI6O2W",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Singing Machine SMM-205 Unidirectional Dynamic Microphone with 10 Ft. Cord",
+            "normalizedName": "Singing Machine SMM-205 Unidirectional Dynamic Microphone with 10 Ft. Cord",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B003WRAGQG": {
+            "asin": "B003WRAGQG",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "WalterDrake Over-The-Door Wonder Hangers - Set of 2",
+            "normalizedName": "Set of 2 WalterDrake Over-The-Door Wonder Hangers -",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

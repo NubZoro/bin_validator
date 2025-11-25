@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001IKCE5K": {
+            "asin": "B001IKCE5K",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Country Life Target Mins Cal-mag Complex, 1,000 mg/500 mg Per 2 Tablets, 360-Count",
+            "normalizedName": "Country Life Target Mins Cal-mag Complex, 1,000 mg/500 mg Per 2 Tablets, 360-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00AX3KCFW": {
+            "asin": "B00AX3KCFW",
+            "height": {
+                "unit": "IN",
+                "value": 0.009999999989800001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Fingerprint Cards, Applicant FD-258, 10 pack",
+            "normalizedName": "Fingerprint Cards, Applicant FD-258, 10 pack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00QLF09JU": {
+            "asin": "B00QLF09JU",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Timber Artbox Large Family Tree Photo Frames Wall Decal - The Sweetest Highlight of Your Home and Family",
+            "normalizedName": "Timber Artbox Large Family Tree Photo Frames Wall Decal - The Sweetest Highlight of Your Home and Family",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.199999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

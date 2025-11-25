@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002EL3YP6": {
+            "asin": "B002EL3YP6",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Hayward SP1068DL Deluxe 3-Brush Pool Vacuum Head, 1-1/4-Inch and 1-1/2-Inch Swivel Hose for All Pools",
+            "normalizedName": "Hayward SP1068DL Deluxe 3-Brush Pool Vacuum Head, 1-1/4-Inch and 1-1/2-Inch Swivel Hose for All Pools",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B01ABFNB0O": {
+            "asin": "B01ABFNB0O",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Kingway Compatible Laser Toner Cartridge Replacement for HP 78A CE278A for HP LaserJet Pro P1606dn M1536dnf P1566 P1560 P1600 Printers High Yield (2 Pack)",
+            "normalizedName": "(2 Pack) Kingway Compatible Laser Toner Cartridge Replacement for HP 78A CE278A for HP LaserJet Pro P1606dn M1536dnf P1566 P1560 P1600 Printers High Yield",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7499999968552853
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

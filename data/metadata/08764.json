@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002NYD1C": {
+            "asin": "B0002NYD1C",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "GearWrench 9412 12 Piece Metric Ratcheting Wrench Set",
+            "normalizedName": "GearWrench 9412 12 Piece Metric Ratcheting Wrench Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B00BU43IBI": {
+            "asin": "B00BU43IBI",
+            "height": {
+                "unit": "IN",
+                "value": 0.7480314953
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.7165354201
+            },
+            "name": "Sweat GUTR Sweatband, Hydro",
+            "normalizedName": "Sweat GUTR Sweatband, Hydro",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.11023000593037433
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0157480274
+            }
+        },
+        "B01EO6ATRY": {
+            "asin": "B01EO6ATRY",
+            "height": {
+                "unit": "IN",
+                "value": 1.6535433054
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.3070866006
+            },
+            "name": "Rabbitgoo Magnetic Screen Door Micro Mesh Curtain Fits Door Openings Up to 33\"x82\" Max Easy Install Beauty Lace 26 Magnet Seamless Closure",
+            "normalizedName": "Rabbitgoo Magnetic Screen Door Micro Mesh Curtain Fits Door Openings Up to 33\"x82\" Max Easy Install Beauty Lace 26 Magnet Seamless Closure",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.3937007768
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

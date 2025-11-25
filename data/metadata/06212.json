@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HFJM4XA": {
+            "asin": "B00HFJM4XA",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Beck Arnley 152-1002 Electric Fuel Pump",
+            "normalizedName": "Beck Arnley 152-1002 Electric Fuel Pump",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B01AHMCQVG": {
+            "asin": "B01AHMCQVG",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.299999982354
+            },
+            "name": "Seat Cushion - Car Seat Cushion - Chair Cushion - Sciatica Cushion - Prostate Cushion - Hemorrhoid Cushion- Low Back Pain Cushion - Tailbone Cushion - Coccyx Cushion",
+            "normalizedName": "Seat Cushion - Car Seat Cushion - Chair Cushion - Sciatica Cushion - Prostate Cushion - Hemorrhoid Cushion- Low Back Pain Cushion - Tailbone Cushion - Coccyx Cushion",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.299999986434
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

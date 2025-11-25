@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003MJ2UYA": {
+            "asin": "B003MJ2UYA",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "ICE Immigration & Customs Enforcement Embroidered Hat Baseball Style Ball Cap",
+            "normalizedName": "ICE Immigration & Customs Enforcement Embroidered Hat Baseball Style Ball Cap",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B01AS8U38W": {
+            "asin": "B01AS8U38W",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "HP X3000 Wireless Mouse - Cobalt Blue (N4G63AA#ABA)",
+            "normalizedName": "HP X3000 Wireless Mouse - Cobalt Blue (N4G63AA#ABA)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

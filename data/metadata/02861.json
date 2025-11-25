@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000HPX46U": {
+            "asin": "B000HPX46U",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Belkin 12 Outlet Home/Office Surge Protector with 10-Foot cord and Phone/Ethernet/Coaxial Protection plus Extended Cord, BE112234-10",
+            "normalizedName": "Belkin 12 Outlet Home/Office Surge Protector with 10-Foot cord and Phone/Ethernet/Coaxial Protection plus Extended Cord, BE112234-10",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00W6ZI5OA": {
+            "asin": "B00W6ZI5OA",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Homecube Large 59 Inches Diameter Baby Kids Play Floor Mat Toy Storage Bag Organizer Green",
+            "normalizedName": "Homecube Large 59 Inches Diameter Baby Kids Play Floor Mat Toy Storage Bag Organizer Green",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

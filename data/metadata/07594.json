@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004ZZR9L4": {
+            "asin": "B004ZZR9L4",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.3464566844
+            },
+            "name": "Butterick Patterns B5624 Infants' Dress, Jumper, Romper, Jumpsuit, Panties, Hat and Bag, Size NB0 (NB-S-M)",
+            "normalizedName": "Butterick Patterns B5624 Infants' Dress, Jumper, Romper, Jumpsuit, Panties, Hat and Bag, Size NB0 (NB-S-M)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.8267716476
+            }
+        },
+        "B005JPT9IK": {
+            "asin": "B005JPT9IK",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.4251968418
+            },
+            "name": "Butterick Patterns B5583 Infants' Bunting, Jumpsuit, Shirt, Diaper Cover, Blanket, Hat, Bib, Mittens and Booties, Size LRG (L-XL)",
+            "normalizedName": "Butterick Patterns B5583 Infants' Bunting, Jumpsuit, Shirt, Diaper Cover, Blanket, Hat, Bib, Mittens and Booties, Size LRG (L-XL)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        },
+        "B00DTW183O": {
+            "asin": "B00DTW183O",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Texas Tech Red Raiders Alumni Nation Stripes Flag",
+            "normalizedName": "Texas Tech Red Raiders Alumni Nation Stripes Flag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B015GZ1ZRU": {
+            "asin": "B015GZ1ZRU",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Martini & Cocktail Shaker Set, Premium Stainless Steel No Mess Built In Strainer, Mix Like a Pro",
+            "normalizedName": "Martini & Cocktail Shaker Set, Premium Stainless Steel No Mess Built In Strainer, Mix Like a Pro",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

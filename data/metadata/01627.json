@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GTZWVXE": {
+            "asin": "B00GTZWVXE",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Dracula: Season 1",
+            "normalizedName": "Dracula: Season 1",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18333454586339856
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B00JXFK86O": {
+            "asin": "B00JXFK86O",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "NCAA LSU Tigers Licensed T-Shirt, X-Large, Gold",
+            "normalizedName": "NCAA LSU Tigers Licensed T-Shirt, X-Large, Gold",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B00Z7RPTRK": {
+            "asin": "B00Z7RPTRK",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Lifeproof FRE SERIES iPhone 6 Plus/6s Plus Waterproof Case (5.5\" Version) - Retail Packaging - BANZAI (COWABUNGA/WAVE CRASH/LONGBOARD)",
+            "normalizedName": "Lifeproof FRE SERIES iPhone 6 Plus/6s Plus Waterproof Case (5.5\" Version) - Retail Packaging - BANZAI (COWABUNGA/WAVE CRASH/LONGBOARD)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 16
+}

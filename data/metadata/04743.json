@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006IF6V": {
+            "asin": "B00006IF6V",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Scotch Heavy Duty Dispenser C25",
+            "normalizedName": "Scotch Heavy Duty Dispenser C25",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00HLWR9J0": {
+            "asin": "B00HLWR9J0",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "L'Oreal Paris Studio Line Strong Hold Clear Minded Clean Gel, 6.8 oz (Pack of 3)",
+            "normalizedName": "(Pack of 3) L'Oreal Paris Studio Line Strong Hold Clear Minded Clean Gel, 6.8 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00KJ0GDNY": {
+            "asin": "B00KJ0GDNY",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Nissin Milk Wheat Snacks, Crisp Chocolate, 2.92 Ounce",
+            "normalizedName": "Nissin Milk Wheat Snacks, Crisp Chocolate, 2.92 Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

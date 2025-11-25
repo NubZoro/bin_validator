@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BLHYDL8": {
+            "asin": "B00BLHYDL8",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Clear Packing List Enclosed Envelope Plain Face Back Load 2.0 Mil Thick - 7\" X 10\" 1000 / Case",
+            "normalizedName": "Clear Packing List Enclosed Envelope Plain Face Back Load 2.0 Mil Thick - 7\" X 10\" 1000 / Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 18.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        },
+        "B00TIBFEIA": {
+            "asin": "B00TIBFEIA",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "TiVo Mini with RF Remote (Current Version)",
+            "normalizedName": "TiVo Mini with RF Remote (Current Version)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

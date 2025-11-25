@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000JFHNG0": {
+            "asin": "B000JFHNG0",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Mountain 8205 R-134a Brass Manifold Gauge Set with Couplers",
+            "normalizedName": "Mountain 8205 R-134a Brass Manifold Gauge Set with Couplers",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B00N70FPMS": {
+            "asin": "B00N70FPMS",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Deconovo Grommet Top Thermal Insulated Blackout Curtain For Bedroom 52x63 Inch Chocolate",
+            "normalizedName": "Deconovo Grommet Top Thermal Insulated Blackout Curtain For Bedroom 52x63 Inch Chocolate",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

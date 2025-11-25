@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EZQTEC": {
+            "asin": "B000EZQTEC",
+            "height": {
+                "unit": "IN",
+                "value": 5.59842519114
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.79921259047
+            },
+            "name": "SnackMasters California Style Turkey Jerky, Original, 2-Ounce Packages (Pack of 8)",
+            "normalizedName": "(Pack of 8) SnackMasters California Style Turkey Jerky, Original, 2-Ounce Packages",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3000218665616
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.40157479662
+            }
+        },
+        "B00ATZ9JZI": {
+            "asin": "B00ATZ9JZI",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Canon CLI-251 Creative Park Premium Ink Cartridges Black, Cyan, Magenta, Yellow - 4 color pack",
+            "normalizedName": "Canon CLI-251 Creative Park Premium Ink Cartridges Black, Cyan, Magenta, Yellow - 4 color pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00ATZ9K0C": {
+            "asin": "B00ATZ9K0C",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Canon PGI-250XL Black Twin Value Pack",
+            "normalizedName": "Canon PGI-250XL Black Twin Value Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

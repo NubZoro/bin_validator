@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0310344298": {
+            "asin": "0310344298",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "The Daniel Plan: 40 Days to a Healthier Life",
+            "normalizedName": "The Daniel Plan: 40 Days to a Healthier Life",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00C215FSM": {
+            "asin": "B00C215FSM",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.779527545
+            },
+            "name": "Serenity Cottage, Richard Burns, 1000 Piece By Castorland Puzzles",
+            "normalizedName": "Serenity Cottage, Richard Burns, 1000 Piece By Castorland Puzzles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9212598324
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

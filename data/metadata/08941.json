@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002PY7P4I": {
+            "asin": "B002PY7P4I",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Maxell 723443 Alkaline Battery AA Cell 48-Pack",
+            "normalizedName": "48-Pack Maxell 723443 Alkaline Battery AA Cell",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4499999979454534
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

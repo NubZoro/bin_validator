@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0019J1UOQ": {
+            "asin": "B0019J1UOQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Banjo HB075 Polypropylene Hose Fitting, Adapter, 3/4\" NPT Male x 3/4\" Barbed",
+            "normalizedName": "Banjo HB075 Polypropylene Hose Fitting, Adapter, 3/4\" NPT Male x 3/4\" Barbed",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.01
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B00G4BJUSC": {
+            "asin": "B00G4BJUSC",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Fun Express Vinyl Mini Baby Shower Rubber Duckies - 24 Pieces",
+            "normalizedName": "Fun Express Vinyl Mini Baby Shower Rubber Duckies - 24 Pieces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

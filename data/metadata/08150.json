@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1574890646": {
+            "asin": "1574890646",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "Cavallini Vintage Paris Glitter Greetings, 12 Assorted Postcards",
+            "normalizedName": "Cavallini Vintage Paris Glitter Greetings, 12 Assorted Postcards",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "1619923475": {
+            "asin": "1619923475",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Cavallini Papers 12 Assorted Flora and Fauna Glitter Greetings",
+            "normalizedName": "Cavallini Papers 12 Assorted Flora and Fauna Glitter Greetings",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B001NCDE8Y": {
+            "asin": "B001NCDE8Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Nalgene BPA Free Tritan Wide Mouth Water Bottle, 1-Quart, Spring Green",
+            "normalizedName": "Nalgene BPA Free Tritan Wide Mouth Water Bottle, 1-Quart, Spring Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B002A3DUW0": {
+            "asin": "B002A3DUW0",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "NHL Edmonton Oilers Flag with Grommetts (3 x 5-Feet)",
+            "normalizedName": "NHL Edmonton Oilers Flag with Grommetts (3 x 5-Feet)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

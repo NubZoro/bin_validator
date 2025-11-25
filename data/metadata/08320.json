@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0486448398": {
+            "asin": "0486448398",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Arabic Patterns Stained Glass Coloring Book (Dover Design Stained Glass Coloring Book)",
+            "normalizedName": "Arabic Patterns Stained Glass Coloring Book (Dover Design Stained Glass Coloring Book)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B0043WG8PM": {
+            "asin": "B0043WG8PM",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Amerelle 935TTBK 2-Gang Double-Toggle Wall Plate, Black",
+            "normalizedName": "Amerelle 935TTBK 2-Gang Double-Toggle Wall Plate, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

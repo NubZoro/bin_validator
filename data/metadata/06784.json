@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1476789886": {
+            "asin": "1476789886",
+            "height": {
+                "unit": "IN",
+                "value": 1.11023621934
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.12992125053
+            },
+            "name": "Rush Revere and the Star-Spangled Banner",
+            "normalizedName": "Rush Revere and the Star-Spangled Banner",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5800089393016
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.57086613503
+            }
+        },
+        "B00I3J4PEM": {
+            "asin": "B00I3J4PEM",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "SoClean\u00ae Neutralizing Pre-Wash Capacity: 8 Ounce",
+            "normalizedName": "SoClean\u00ae Neutralizing Pre-Wash Capacity: 8 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

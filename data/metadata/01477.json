@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1285861981": {
+            "asin": "1285861981",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Management",
+            "normalizedName": "Management",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.29999999639406
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B013HDF0EC": {
+            "asin": "B013HDF0EC",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Kodiak Cakes Organic Oat Flapjack and Baking Mix (20 OZ)",
+            "normalizedName": "Kodiak Cakes Organic Oat Flapjack and Baking Mix (20 OZ)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B0163K8T3A": {
+            "asin": "B0163K8T3A",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Two Wireless 2 Channel Fold Flat Infrared Rear Entertainment System DVD Player IR Headphones For In Car Listening With Case and 3.5mm Auxiliary Cord",
+            "normalizedName": "Two Wireless 2 Channel Fold Flat Infrared Rear Entertainment System DVD Player IR Headphones For In Car Listening With Case and 3.5mm Auxiliary Cord",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

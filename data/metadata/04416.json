@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00323XJ8W": {
+            "asin": "B00323XJ8W",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Garden of Life Vitamin Code 50 & Wiser Men's Multi, 240 Capsules",
+            "normalizedName": "Garden of Life Vitamin Code 50 & Wiser Men's Multi, 240 Capsules",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00RCW8YC0": {
+            "asin": "B00RCW8YC0",
+            "height": {
+                "unit": "IN",
+                "value": 4.2519684996
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.6692913328
+            },
+            "name": "1byone Wireless Home Security Driveway Alarm, 2 Battery-operated Receiver and 1 PIR Motion Sensor Detector Weatherproof Patrol Infrared Alert System Kit",
+            "normalizedName": "1byone Wireless Home Security Driveway Alarm, 2 Battery-operated Receiver and 1 PIR Motion Sensor Detector Weatherproof Patrol Infrared Alert System Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.146392061675893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

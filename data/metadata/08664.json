@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000SE3W4O": {
+            "asin": "B000SE3W4O",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "PUR Faucet Mount Replacement Water Filter - Basic 2 Pack",
+            "normalizedName": "2 Pack PUR Faucet Mount Replacement Water Filter - Basic",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B008LI60JS": {
+            "asin": "B008LI60JS",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "World Weidner Cut Away Machine Embroidery Stabilizer Backing Medium Weight 2.5 Ounce 8\"x20 Yard Roll",
+            "normalizedName": "World Weidner Cut Away Machine Embroidery Stabilizer Backing Medium Weight 2.5 Ounce 8\"x20 Yard Roll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

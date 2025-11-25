@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002ICX0I2": {
+            "asin": "B002ICX0I2",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Speakman S-4127 Metering Faucet with Lever Handles",
+            "normalizedName": "Speakman S-4127 Metering Faucet with Lever Handles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

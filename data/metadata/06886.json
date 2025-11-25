@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D2VV0GC": {
+            "asin": "B00D2VV0GC",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "Classic Accessories 55-178-015101-EC Ravenna Kettle Grill Cover, Taupe",
+            "normalizedName": "Classic Accessories 55-178-015101-EC Ravenna Kettle Grill Cover, Taupe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B00H1HYZ9C": {
+            "asin": "B00H1HYZ9C",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Liliane Collection Kitchen Dish Towels - Includes 13 Towels - Commercial Grade 100% Cotton Towels (27\" x 14\") - Classic White Tea Towels with Blue Stripes",
+            "normalizedName": "Liliane Collection Kitchen Dish Towels - Includes 13 Towels - Commercial Grade 100% Cotton Towels (27\" x 14\") - Classic White Tea Towels with Blue Stripes",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

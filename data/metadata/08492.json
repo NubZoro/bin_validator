@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1423185161": {
+            "asin": "1423185161",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.81102361
+            },
+            "name": "Rules of the House",
+            "normalizedName": "Rules of the House",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2345760653848885
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.4724409342
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

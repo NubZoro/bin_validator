@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "034549816X": {
+            "asin": "034549816X",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "Mass Effect: Revelation (Mass Effect (Paperback))",
+            "normalizedName": "Mass Effect: Revelation (Mass Effect (Paperback))",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3527396192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0944881848
+            }
+        },
+        "B003U6SJYK": {
+            "asin": "B003U6SJYK",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Paper Man [Blu-ray]",
+            "normalizedName": "Paper Man [Blu-ray]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B01C4JSKJ2": {
+            "asin": "B01C4JSKJ2",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Peppa Pig Coloring Book Set with Peppa Pig Stickers and Crayons (Includes Bonus Pack of Zoo Animal Stickers)",
+            "normalizedName": "Peppa Pig Coloring Book Set with Peppa Pig Stickers and Crayons (Includes Bonus Pack of Zoo Animal Stickers)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

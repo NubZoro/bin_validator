@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "039954271X": {
+            "asin": "039954271X",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "name": "Finding Dory Mad Libs",
+            "normalizedName": "Finding Dory Mad Libs",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "0520282841": {
+            "asin": "0520282841",
+            "height": {
+                "unit": "IN",
+                "value": 0.7
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.9
+            },
+            "name": "Blind Spot: How Neoliberalism Infiltrated Global Health (California Series in Public Anthropology)",
+            "normalizedName": "Blind Spot: How Neoliberalism Infiltrated Global Health (California Series in Public Anthropology)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9
+            }
+        },
+        "B00HGA8SJC": {
+            "asin": "B00HGA8SJC",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "4X Pro-B Digestive Care Natural Probiotic Supplement, 63 Count",
+            "normalizedName": "4X Pro-B Digestive Care Natural Probiotic Supplement, 63 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

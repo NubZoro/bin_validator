@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GCJNDC": {
+            "asin": "B000GCJNDC",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002
+            },
+            "name": "NUK Confetti Ducks Orthodontic Silicone Pacifier",
+            "normalizedName": "NUK Confetti Ducks Orthodontic Silicone Pacifier",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B006H44HUW": {
+            "asin": "B006H44HUW",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Poolmaster 86193 Toss 'N' Splash",
+            "normalizedName": "Poolmaster 86193 Toss 'N' Splash",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00JHKSMJU": {
+            "asin": "B00JHKSMJU",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Panasonic K-KJ17MCA4BA Advanced Individual Cell Battery Charger Pack with 4AA eneloop 2100 Cycle Rechargeable Batteries (4 pack)",
+            "normalizedName": "(4 pack) Panasonic K-KJ17MCA4BA Advanced Individual Cell Battery Charger Pack with 4AA eneloop 2100 Cycle Rechargeable Batteries",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B0155EX85E": {
+            "asin": "B0155EX85E",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Plastiware Premium 3-compartment Plastic Food Storage Containers, with Lids, 7+1 Pack, Stackable, Reusable Lunch/bento Box, Black",
+            "normalizedName": "1 Pack Plastiware Premium 3-compartment Plastic Food Storage Containers, with Lids, 7+ , Stackable, Reusable Lunch/bento Box, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

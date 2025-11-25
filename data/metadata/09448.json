@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OCYCD3C": {
+            "asin": "B00OCYCD3C",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Kashi Home SP012547 55 x 84 Inch Lisa Sheer Panel - Taupe, (1 Panel)",
+            "normalizedName": "Kashi Home SP012547 55 x 84 Inch Lisa Sheer Panel - Taupe, (1 Panel)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B010T4H98W": {
+            "asin": "B010T4H98W",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "GLW\u00ae 10W Rechargeable Led Flood Light Cordless Portable LED Work Light With Adapter Car Charger 1100LM",
+            "normalizedName": "GLW\u00ae 10W Rechargeable Led Flood Light Cordless Portable LED Work Light With Adapter Car Charger 1100LM",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.14999999819703
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

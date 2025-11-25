@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DJUK8HS": {
+            "asin": "B00DJUK8HS",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "PreserVision AREDS 2 Vitamin & Mineral Supplement 120 Count Soft Gels",
+            "normalizedName": "PreserVision AREDS 2 Vitamin & Mineral Supplement 120 Count Soft Gels",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00JZVPGD6": {
+            "asin": "B00JZVPGD6",
+            "height": {
+                "unit": "IN",
+                "value": 3.4645669256
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "AmazonBasics Portable Bluetooth Speaker - Blue",
+            "normalizedName": "AmazonBasics Portable Bluetooth Speaker - Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3668520735366416
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

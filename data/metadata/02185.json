@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006PKGJY": {
+            "asin": "B0006PKGJY",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "name": "Alba Botanica Even Advanced, Sea Lipids Daily Cream, 2 Ounce",
+            "normalizedName": "Alba Botanica Even Advanced, Sea Lipids Daily Cream, 2 Ounce",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B004RRHI5M": {
+            "asin": "B004RRHI5M",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Dr. Scholl's Corn Cushions 9 Ct (Pack of 6)",
+            "normalizedName": "(Pack of 6) Dr. Scholl's Corn Cushions 9 Ct",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B004S8F7QM": {
+            "asin": "B004S8F7QM",
+            "height": {
+                "unit": "IN",
+                "value": 2.6771653516
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7165354252
+            },
+            "name": "Cards Against Humanity",
+            "normalizedName": "Cards Against Humanity",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        },
+        "B018CYCCE2": {
+            "asin": "B018CYCCE2",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Feathers Baby Boys Elephant Print 100% cotton super soft Onesies Undershirts 2-Pack",
+            "normalizedName": "2-Pack Feathers Baby Boys Elephant Print 100% cotton super soft Onesies Undershirts",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0385494386": {
+            "asin": "0385494386",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1889763696
+            },
+            "name": "Six Sigma: The Breakthrough Management Strategy Revolutionizing the World's Top Corporations",
+            "normalizedName": "Six Sigma: The Breakthrough Management Strategy Revolutionizing the World's Top Corporations",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05820805604419
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "0684853825": {
+            "asin": "0684853825",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "All My Friends Are Going to Be Strangers : A Novel",
+            "normalizedName": "All My Friends Are Going to Be Strangers : A Novel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "1416918841": {
+            "asin": "1416918841",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452
+            },
+            "name": "Magic in the Outfield (Sluggers #1)",
+            "normalizedName": "Magic in the Outfield (Sluggers #1)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "1421534886": {
+            "asin": "1421534886",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Library Wars: Love & War, Vol. 1",
+            "normalizedName": "Library Wars: Love & War, Vol. 1",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "1451673175": {
+            "asin": "1451673175",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Alys, Always: A Novel",
+            "normalizedName": "Alys, Always: A Novel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

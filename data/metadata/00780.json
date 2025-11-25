@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CCW2V6": {
+            "asin": "B000CCW2V6",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Da Vinci and the Code He Lived By (History Channel)",
+            "normalizedName": "Da Vinci and the Code He Lived By (History Channel)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B01AL1UO3U": {
+            "asin": "B01AL1UO3U",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Galaxy S7 Edge Case, Terrapin [GENUINE LEATHER] Samsung S7 Edge Case Executive [Black] Premium Wallet Case with Card Slots & Bill Compartment Case for Samsung Galaxy S7 Edge - Black",
+            "normalizedName": "Galaxy S7 Edge Case, Terrapin [GENUINE LEATHER] Samsung S7 Edge Case Executive [Black] Premium Wallet Case with Card Slots & Bill Compartment Case for Samsung Galaxy S7 Edge - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

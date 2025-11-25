@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009LGO88E": {
+            "asin": "B009LGO88E",
+            "height": {
+                "unit": "IN",
+                "value": 2.2834645646
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0314960548
+            },
+            "name": "Circle Pad Pro - Nintendo 3DS LL Accessory (3DS LL Console Not Included) Japan Inport",
+            "normalizedName": "Circle Pad Pro - Nintendo 3DS LL Accessory (3DS LL Console Not Included) Japan Inport",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.44
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        },
+        "B01D9Y96YY": {
+            "asin": "B01D9Y96YY",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "iPhone 6s Plus/6 Plus case, Geekmart Protective TPU The World Famous Painting Printing (Vincent Van Gogh) Cover Case 5.5 inch (C)",
+            "normalizedName": "iPhone 6s Plus/6 Plus case, Geekmart Protective TPU The World Famous Painting Printing (Vincent Van Gogh) Cover Case 5.5 inch (C)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

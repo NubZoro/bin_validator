@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00YO5R3SY": {
+            "asin": "B00YO5R3SY",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "CORONADO 153001 Transistor Radio",
+            "normalizedName": "CORONADO 153001 Transistor Radio",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1423121716": {
+            "asin": "1423121716",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Percy Jackson and the Olympians: The Ultimate Guide (Percy Jackson & the Olympians)",
+            "normalizedName": "Percy Jackson and the Olympians: The Ultimate Guide (Percy Jackson & the Olympians)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B01G9Y2BSE": {
+            "asin": "B01G9Y2BSE",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "WaterLuu Led Illuminated Cell Phone Case for Samsung Galaxy S6 - Good for Bright Selfie (Rose Gold)",
+            "normalizedName": "WaterLuu Led Illuminated Cell Phone Case for Samsung Galaxy S6 - Good for Bright Selfie (Rose Gold)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

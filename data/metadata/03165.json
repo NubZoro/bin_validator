@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HSMK59E": {
+            "asin": "B00HSMK59E",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Mohu Leaf 50 TV Antenna, Indoor, Amplified, 50 Mile Range, Original Paper-thin, Reversible, Paintable, 4K-Ready, 16 Foot Detachable Cable, Premium Materials for Performance, USA Made, MH-110599",
+            "normalizedName": "Mohu Leaf 50 TV Antenna, Indoor, Amplified, 50 Mile Range, Original Paper-thin, Reversible, Paintable, 4K-Ready, 16 Foot Detachable Cable, Premium Materials for Performance, USA Made, MH-110599",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988066
+            }
+        },
+        "B00VMB5VCI": {
+            "asin": "B00VMB5VCI",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "LEGO Dimensions Starter Pack - Xbox 360",
+            "normalizedName": "LEGO Dimensions Starter Pack - Xbox 360",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3999999979873827
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

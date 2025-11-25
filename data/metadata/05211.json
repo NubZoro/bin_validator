@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BHEMK2E": {
+            "asin": "B00BHEMK2E",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "1 X Cpap Tubing - 6' Heavy Duty",
+            "normalizedName": "1 X Cpap Tubing - 6' Heavy Duty",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B017IGWE0C": {
+            "asin": "B017IGWE0C",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Levitating Bluetooth Speaker - Floating Wireless Speaker - SciFi Speaker by Wasserstein (Black)",
+            "normalizedName": "Levitating Bluetooth Speaker - Floating Wireless Speaker - SciFi Speaker by Wasserstein (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001ZI560": {
+            "asin": "B0001ZI560",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "DEWALT DC9096-2 18-Volt XRP 2.4 Amp Hour NiCad Pod-Style Battery (2-Pack)",
+            "normalizedName": "(2-Pack) DEWALT DC9096-2 18-Volt XRP 2.4 Amp Hour NiCad Pod-Style Battery",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B00FQ8V2P8": {
+            "asin": "B00FQ8V2P8",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.299999982354
+            },
+            "name": "Genuine Dodge 82212308 Rear View Camera",
+            "normalizedName": "Genuine Dodge 82212308 Rear View Camera",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

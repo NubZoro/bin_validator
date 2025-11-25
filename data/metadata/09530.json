@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000IZ0BEM": {
+            "asin": "B000IZ0BEM",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "ACDelco 18K1620 Professional Rear Drum Brake Hardware Kit",
+            "normalizedName": "ACDelco 18K1620 Professional Rear Drum Brake Hardware Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B005WW3JIQ": {
+            "asin": "B005WW3JIQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299212592
+            },
+            "name": "LEGO Harry Potter Minifigure Set - Trolly Polybag (30110)",
+            "normalizedName": "LEGO Harry Potter Minifigure Set - Trolly Polybag (30110)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.3543307032
+            }
+        },
+        "B01CUX0Y14": {
+            "asin": "B01CUX0Y14",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Buzz-Off 100% Natural Mosquito Repellent Bracelet Five (5) Pack - Deet Free - Guaranteed to Work - Fast, Easy Deters Bugs for Hours \u2013 Natural Oil Repellent Wristband - Kid Safe Insect Bracelets",
+            "normalizedName": "Buzz-Off 100% Natural Mosquito Repellent Bracelet Five (5) Pack - Deet Free - Guaranteed to Work - Fast, Easy Deters Bugs for Hours \u2013 Natural Oil Repellent Wristband - Kid Safe Insect Bracelets",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

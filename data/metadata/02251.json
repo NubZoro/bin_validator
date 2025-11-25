@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1586174746": {
+            "asin": "1586174746",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "The World's First Love (2nd edition): Mary, Mother of God",
+            "normalizedName": "The World's First Love (2nd edition): Mary, Mother of God",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00ATBRJRC": {
+            "asin": "B00ATBRJRC",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "name": "Stabilo 8830-1 88 Point 30 Color Wallet",
+            "normalizedName": "Stabilo 8830-1 88 Point 30 Color Wallet",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.48501202568692053
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "B016N98BFC": {
+            "asin": "B016N98BFC",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Scientific Anglers Ampere Electron III Fly Reel, Gloss Black",
+            "normalizedName": "Scientific Anglers Ampere Electron III Fly Reel, Gloss Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

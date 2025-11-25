@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008I1X32K": {
+            "asin": "B008I1X32K",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Sprout Organic Toddler Puree Pouches, Pear Cherry Acai Superfruit, 4.22 oz (Pack of 5)",
+            "normalizedName": "(Pack of 5) Sprout Organic Toddler Puree Pouches, Pear Cherry Acai Superfruit, 4.22 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01AT5M9I6": {
+            "asin": "B01AT5M9I6",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.6220472302
+            },
+            "name": "Barbie Fab Closet",
+            "normalizedName": "Barbie Fab Closet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1605301676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9212598324
+            }
+        },
+        "B01AT5M9NQ": {
+            "asin": "B01AT5M9NQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Barbie Fashionistas Ultimate Closet, Purple",
+            "normalizedName": "Barbie Fashionistas Ultimate Closet, Purple",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.14999999819703
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

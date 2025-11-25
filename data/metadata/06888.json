@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000Q9XET4": {
+            "asin": "B000Q9XET4",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Connoisseurs Quick Jewelry Cleansing Gel, 5 Fl. Oz.",
+            "normalizedName": "Connoisseurs Quick Jewelry Cleansing Gel, 5 Fl. Oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00NVMIQE6": {
+            "asin": "B00NVMIQE6",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "YS Organic Bee Farms Certified Organic Raw Honey 100% Unprocessed, Unpasteurized - Kosher 32oz 2 Lbs Frustration Free Packaging",
+            "normalizedName": "YS Organic Bee Farms Certified Organic Raw Honey 100% Unprocessed, Unpasteurized - Kosher 32oz 2 Lbs Frustration Free Packaging",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0499999974422987
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

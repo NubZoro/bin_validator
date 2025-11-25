@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BMQQSJS": {
+            "asin": "B00BMQQSJS",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Resolve All-Stains Pre-Treat Laundry Stain Remover, 22 Ounce",
+            "normalizedName": "Resolve All-Stains Pre-Treat Laundry Stain Remover, 22 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00KPVCJ9O": {
+            "asin": "B00KPVCJ9O",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Kava Instant Coffee - 4 oz - 3 pk",
+            "normalizedName": "Kava Instant Coffee - 4 oz - 3 pk",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B0125KRAUU": {
+            "asin": "B0125KRAUU",
+            "height": {
+                "unit": "IN",
+                "value": 2.5590551155
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.8897637674
+            },
+            "name": "Nerf Rebelle Lumanate Blaster",
+            "normalizedName": "Nerf Rebelle Lumanate Blaster",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7495640396979681
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.4251968418
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

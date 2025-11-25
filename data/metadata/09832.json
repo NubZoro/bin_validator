@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MBVD97W": {
+            "asin": "B00MBVD97W",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Weber 7105 Grill Cover with Storage Bag for Spirit 210 Series Gas Grills",
+            "normalizedName": "Weber 7105 Grill Cover with Storage Bag for Spirit 210 Series Gas Grills",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B0142FP7RY": {
+            "asin": "B0142FP7RY",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "iPhone 6 / 6s Case, Anker Bumper Case with Shockproof, Impact Absorption and Scratch Resistance for iPhone 6 / iPhone 6s (Champagne Gold)",
+            "normalizedName": "iPhone 6 / 6s Case, Anker Bumper Case with Shockproof, Impact Absorption and Scratch Resistance for iPhone 6 / iPhone 6s (Champagne Gold)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B019OB663A": {
+            "asin": "B019OB663A",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Logitech G502 Proteus Spectrum RGB Tunable Gaming Mouse (910-004615)",
+            "normalizedName": "Logitech G502 Proteus Spectrum RGB Tunable Gaming Mouse (910-004615)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

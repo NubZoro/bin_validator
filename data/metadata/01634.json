@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00RVUHBZ4": {
+            "asin": "B00RVUHBZ4",
+            "height": {
+                "unit": "IN",
+                "value": 0.5499999994390001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.7799999941044
+            },
+            "name": "3pcs Black B195 HEMI Grille + Back Emblem Decal Badge Sticker Dodge Charger Ram 1500 Challenger Jeep Grand Cherokee",
+            "normalizedName": "3pcs Black B195 HEMI Grille + Back Emblem Decal Badge Sticker Dodge Charger Ram 1500 Challenger Jeep Grand Cherokee",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B014UHIVU4": {
+            "asin": "B014UHIVU4",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Gabor Fitness Graduated 20-25mm Hg Compression Running Leg Sleeves, Medium, Pink",
+            "normalizedName": "Gabor Fitness Graduated 20-25mm Hg Compression Running Leg Sleeves, Medium, Pink",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HCTLQ1O": {
+            "asin": "B00HCTLQ1O",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Libbey 8 Piece Sierra Glass Serving Set",
+            "normalizedName": "Libbey 8 Piece Sierra Glass Serving Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B00XPRRHYW": {
+            "asin": "B00XPRRHYW",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.1399999855772
+            },
+            "name": "KitchenAid KSM1APC Spiralizer Attachment with Peel, Core and Slice",
+            "normalizedName": "KitchenAid KSM1APC Spiralizer Attachment with Peel, Core and Slice",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3499999971907215
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

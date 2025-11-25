@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0811220354": {
+            "asin": "0811220354",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Exercises in Style (New Directions Books)",
+            "normalizedName": "Exercises in Style (New Directions Books)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B01F43PD4A": {
+            "asin": "B01F43PD4A",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Galaxy S6 Case,Galaxy S6 Dermis Wallet Case,AKHVRS Handmade Genuine Cowhide Leather Wallet Cover Case - Large Capacity Leather Wallet Type Case with Zipper Wallet Case for Samsung Galaxy S6 (Brown)",
+            "normalizedName": "Galaxy S6 Case,Galaxy S6 Dermis Wallet Case,AKHVRS Handmade Genuine Cowhide Leather Wallet Cover Case - Large Capacity Leather Wallet Type Case with Zipper Wallet Case for Samsung Galaxy S6 (Brown)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3799999996813356
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

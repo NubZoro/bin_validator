@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005DIRI6I": {
+            "asin": "B005DIRI6I",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Portta PETDTAP Digital Coax and Optical Toslink to Analog Audio Converter",
+            "normalizedName": "Portta PETDTAP Digital Coax and Optical Toslink to Analog Audio Converter",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B0163CHND0": {
+            "asin": "B0163CHND0",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Microsoft Band 2 - Medium",
+            "normalizedName": "Microsoft Band 2 - Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

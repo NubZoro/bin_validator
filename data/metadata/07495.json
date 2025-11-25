@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0323241441": {
+            "asin": "0323241441",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Policy & Politics in Nursing and Health Care, 7e (Policy and Politics in Nursing and Health)",
+            "normalizedName": "Policy & Politics in Nursing and Health Care, 7e (Policy and Politics in Nursing and Health)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.649999997777735
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "1118914503": {
+            "asin": "1118914503",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Matter and Interactions, Volume II: Electric and Magnetic Interactions",
+            "normalizedName": "Matter and Interactions, Volume II: Electric and Magnetic Interactions",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

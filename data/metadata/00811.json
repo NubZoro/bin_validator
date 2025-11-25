@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NBXS08M": {
+            "asin": "B00NBXS08M",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Weight Watchers by Conair Glass Body Analysis Scale",
+            "normalizedName": "Weight Watchers by Conair Glass Body Analysis Scale",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.799999986944
+            }
+        },
+        "B016T9L46O": {
+            "asin": "B016T9L46O",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.629921249
+            },
+            "name": "NuAns MAGMAT - Desk Organizer Mat with Magnetic Cable Holder - Khaki- Magnet Works with Apple Genuine Lightning Cable, may not work with 3rd party cable - Japanese designed brand - Ideal for gift",
+            "normalizedName": "NuAns MAGMAT - Desk Organizer Mat with Magnetic Cable Holder - Khaki- Magnet Works with Apple Genuine Lightning Cable, may not work with 3rd party cable - Japanese designed brand - Ideal for gift",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 8.661417314
+            }
+        },
+        "B019W307NA": {
+            "asin": "B019W307NA",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Gel-a-Peel Deluxe Craft Kit (5 Pack)",
+            "normalizedName": "(5 Pack) Gel-a-Peel Deluxe Craft Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

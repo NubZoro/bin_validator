@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001KN3MYM": {
+            "asin": "B001KN3MYM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "TrueBlue Safe and Sure Eye Wipes, 50 Count",
+            "normalizedName": "TrueBlue Safe and Sure Eye Wipes, 50 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B008KEAYN6": {
+            "asin": "B008KEAYN6",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Fusion Essence Auto-Locking Carabiner, Assorted",
+            "normalizedName": "Fusion Essence Auto-Locking Carabiner, Assorted",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00FA9SLYI": {
+            "asin": "B00FA9SLYI",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Petit Collage Pop-Out San Francisco",
+            "normalizedName": "Petit Collage Pop-Out San Francisco",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00Y0170LW": {
+            "asin": "B00Y0170LW",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Petit Collage Petit Puzzle, Cat",
+            "normalizedName": "Petit Collage Petit Puzzle, Cat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

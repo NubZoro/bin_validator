@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GSWU07W": {
+            "asin": "B00GSWU07W",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.599999984088
+            },
+            "name": "The North Face Men's Apex Chromium Thermal Jacket TNF Black Heather/TNF Black Heather MD",
+            "normalizedName": "The North Face Men's Apex Chromium Thermal Jacket TNF Black Heather/TNF Black Heather MD",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B01FWZQWXG": {
+            "asin": "B01FWZQWXG",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Android Tv Box Kodi Xbmc Fully Loaded 1080p Quad Core 4k IPTV OTT TV Root H.265-JUNING 7X Smart Media Player",
+            "normalizedName": "Android Tv Box Kodi Xbmc Fully Loaded 1080p Quad Core 4k IPTV OTT TV Root H.265-JUNING 7X Smart Media Player",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

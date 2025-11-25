@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008MI42EW": {
+            "asin": "B008MI42EW",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Duck Brand 281543 New Orleans Saints NFL Team Logo Duct Tape, 1.88-Inch by 10 Yards, Single Roll",
+            "normalizedName": "Duck Brand 281543 New Orleans Saints NFL Team Logo Duct Tape, 1.88-Inch by 10 Yards, Single Roll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

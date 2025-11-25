@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B019WEURSY": {
+            "asin": "B019WEURSY",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Aukey Qi Wireless Charging Pad for all Qi-Enabled Devices",
+            "normalizedName": "Aukey Qi Wireless Charging Pad for all Qi-Enabled Devices",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

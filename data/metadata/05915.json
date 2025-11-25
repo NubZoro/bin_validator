@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002JCSV8U": {
+            "asin": "B002JCSV8U",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Nikon 70-200mm f/2.8G ED VR II AF-S Nikkor Zoom Lens For Nikon Digital SLR Cameras",
+            "normalizedName": "Nikon 70-200mm f/2.8G ED VR II AF-S Nikkor Zoom Lens For Nikon Digital SLR Cameras",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00384GGLC": {
+            "asin": "B00384GGLC",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Labrada Nutrition Lean Body Hi-Protein Meal Replacement Shake, Strawberry, 2.47-Pound Tub",
+            "normalizedName": "Labrada Nutrition Lean Body Hi-Protein Meal Replacement Shake, Strawberry, 2.47-Pound Tub",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

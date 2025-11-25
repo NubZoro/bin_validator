@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000A0IBV0": {
+            "asin": "B000A0IBV0",
+            "height": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Toysmith 2418AM Beach Set",
+            "normalizedName": "Toysmith 2418AM Beach Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B007OX47S2": {
+            "asin": "B007OX47S2",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Del Rossa Men's 100% Cotton Woven Pajama Set, 3XL Navy Blue (A0714MBL3X)",
+            "normalizedName": "Del Rossa Men's 100% Cotton Woven Pajama Set, 3XL Navy Blue (A0714MBL3X)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

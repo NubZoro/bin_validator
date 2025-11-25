@@ -1,0 +1,137 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0385375689": {
+            "asin": "0385375689",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Rumble Fish",
+            "normalizedName": "Rumble Fish",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "0553296124": {
+            "asin": "0553296124",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Heir to the Empire (Star Wars: The Thrawn Trilogy, Vol. 1)",
+            "normalizedName": "Heir to the Empire (Star Wars: The Thrawn Trilogy, Vol. 1)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "0786915897": {
+            "asin": "0786915897",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Dragons of Spring Dawning (Dragonlance Chronicles, Book 3)",
+            "normalizedName": "Dragons of Spring Dawning (Dragonlance Chronicles, Book 3)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "9332518483": {
+            "asin": "9332518483",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Engineering Vibration",
+            "normalizedName": "Engineering Vibration",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B0013LL0E0": {
+            "asin": "B0013LL0E0",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "Gold - New Jack Swing [2 CD]",
+            "normalizedName": "Gold - New Jack Swing [2 CD]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "B003JMENGS": {
+            "asin": "B003JMENGS",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "The League: Season 1",
+            "normalizedName": "The League: Season 1",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

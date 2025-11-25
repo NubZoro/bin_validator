@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001EMLZW": {
+            "asin": "B0001EMLZW",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.7637795176
+            },
+            "name": "Texas Instruments BA II Plus Professional Financial Calculator",
+            "normalizedName": "Texas Instruments BA II Plus Professional Financial Calculator",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968320716
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.6141732216
+            }
+        },
+        "B011ZJASD8": {
+            "asin": "B011ZJASD8",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Garden Hose 50 Feet with 8 Functions Spray Nozzle and Holder Super Flexible (50ft)",
+            "normalizedName": "Garden Hose 50 Feet with 8 Functions Spray Nozzle and Holder Super Flexible (50ft)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

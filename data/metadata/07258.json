@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004Z3W9BG": {
+            "asin": "B004Z3W9BG",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Replacement Battery for Dell Latitude E5400, Latitude E5410, Latitude E5500, Latitude E5510 Series Laptop by BrainyTrade",
+            "normalizedName": "Replacement Battery for Dell Latitude E5400, Latitude E5410, Latitude E5500, Latitude E5510 Series Laptop by BrainyTrade",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B0092Z7L4W": {
+            "asin": "B0092Z7L4W",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "11.1V 5200mAh Replacement For Gateway AS07B31, AS07B41, AS07B51, AS07B61 Battery",
+            "normalizedName": "11.1V 5200mAh Replacement For Gateway AS07B31, AS07B41, AS07B51, AS07B61 Battery",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00B9L7ZFW": {
+            "asin": "B00B9L7ZFW",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Amscan Minnie Mouse 1st Birthday Headband, Black/Pink",
+            "normalizedName": "Amscan Minnie Mouse 1st Birthday Headband, Black/Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00N0QDVFM": {
+            "asin": "B00N0QDVFM",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "New Rechargeble repalcement Battery for Toshiba Satellite S70DT C55-A5302 C55-A5308 C55-A5309 C55D-A5150 C55T-A5314 Battery PA5109U-1BRS PA5024U-1BRS 4400mah 6 Cell",
+            "normalizedName": "New Rechargeble repalcement Battery for Toshiba Satellite S70DT C55-A5302 C55-A5308 C55-A5309 C55D-A5150 C55T-A5314 Battery PA5109U-1BRS PA5024U-1BRS 4400mah 6 Cell",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

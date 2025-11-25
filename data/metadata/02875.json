@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KHQ86XU": {
+            "asin": "B00KHQ86XU",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "DYND70125H - Perineal Irrigation Bottle (set of 5)",
+            "normalizedName": "DYND70125H - Perineal Irrigation Bottle (set of 5)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00SF4NYU6": {
+            "asin": "B00SF4NYU6",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Baseline 3.0 Athletic Crew Socks (Gold/White, X-Large)",
+            "normalizedName": "Baseline 3.0 Athletic Crew Socks (Gold/White, X-Large)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01925FVJS": {
+            "asin": "B01925FVJS",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Oberhaus Premium Silicone Scraper (Black)",
+            "normalizedName": "Oberhaus Premium Silicone Scraper (Black)",
+            "quantity": 22,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 24
+}

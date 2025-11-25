@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007KLH96": {
+            "asin": "B0007KLH96",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "EDUCATIONAL INSIGHTS HOT DOTS JR. PHONICS FUN! SET WITH ACE PEN",
+            "normalizedName": "EDUCATIONAL INSIGHTS HOT DOTS JR. PHONICS FUN! SET WITH ACE PEN",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B004O2I9JO": {
+            "asin": "B004O2I9JO",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Nutrigold Triple Strength Omega-3 Gold Fish Oil Supplement, 1250 mg, 180 Softgels",
+            "normalizedName": "Nutrigold Triple Strength Omega-3 Gold Fish Oil Supplement, 1250 mg, 180 Softgels",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0099999991530235
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

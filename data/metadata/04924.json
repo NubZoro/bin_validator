@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CQ6J4S": {
+            "asin": "B000CQ6J4S",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Taylor Cable 46051 Black Low Profile Distributor and Coil Boot/Terminal Kit - Set of 11",
+            "normalizedName": "Set of 11 Taylor Cable 46051 Black Low Profile Distributor and Coil Boot/Terminal Kit -",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B004A7XVV4": {
+            "asin": "B004A7XVV4",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Guardian Fall Protection 01280 AWL4-6 Adjustable Non-Shock Absorbing Lanyard from 4-Feet to 6-Feet",
+            "normalizedName": "Guardian Fall Protection 01280 AWL4-6 Adjustable Non-Shock Absorbing Lanyard from 4-Feet to 6-Feet",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

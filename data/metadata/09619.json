@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1501143786": {
+            "asin": "1501143786",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Needful Things",
+            "normalizedName": "Needful Things",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00004TBLW": {
+            "asin": "B00004TBLW",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Bushnell Falcon 7x35 Binoculars with Case",
+            "normalizedName": "Bushnell Falcon 7x35 Binoculars with Case",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

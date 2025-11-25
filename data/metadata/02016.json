@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0762745851": {
+            "asin": "0762745851",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8976377862
+            },
+            "name": "Allen & Mike's Really Cool Backcountry Ski Book, Revised and Even Better!: Traveling & Camping Skills For A Winter Environment (Allen & Mike's Series)",
+            "normalizedName": "Allen & Mike's Really Cool Backcountry Ski Book, Revised and Even Better!: Traveling & Camping Skills For A Winter Environment (Allen & Mike's Series)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.53
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        },
+        "1940787033": {
+            "asin": "1940787033",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Disney Princess Hairstyles: 40 Amazing Princess Hairstyles With Step by Step images",
+            "normalizedName": "Disney Princess Hairstyles: 40 Amazing Princess Hairstyles With Step by Step images",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B00ZV498VC": {
+            "asin": "B00ZV498VC",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Paww WaveSound 2 - Studio Grade Bluetooth Wireless Noise Cancelling Headphones - 36 Hour Battery Life - Black",
+            "normalizedName": "Paww WaveSound 2 - Studio Grade Bluetooth Wireless Noise Cancelling Headphones - 36 Hour Battery Life - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

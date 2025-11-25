@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00U1NV04G": {
+            "asin": "B00U1NV04G",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "J-Tech Digital \u00ae ProAV \u00ae Most Advanced HDBaseT Extender Ultra 4Kwith RS232 Port Support 4Kx2K up to 328 Ft",
+            "normalizedName": "J-Tech Digital \u00ae ProAV \u00ae Most Advanced HDBaseT Extender Ultra 4Kwith RS232 Port Support 4Kx2K up to 328 Ft",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B00VI6BFBS": {
+            "asin": "B00VI6BFBS",
+            "height": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.267716527
+            },
+            "name": "Fisher-Price Imaginext Pterodactyl",
+            "normalizedName": "Fisher-Price Imaginext Pterodactyl",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.8503936938
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

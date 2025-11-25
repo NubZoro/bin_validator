@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M0MR50Y": {
+            "asin": "B00M0MR50Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Women's NFL Team Logo Retro Tank Top (New York Giants, XL)",
+            "normalizedName": "Women's NFL Team Logo Retro Tank Top (New York Giants, XL)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B00TUVMQI4": {
+            "asin": "B00TUVMQI4",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Disney Planes, 2015 Piston Peak, Linus Lines Die-Cast Vehicle",
+            "normalizedName": "Disney Planes, 2015 Piston Peak, Linus Lines Die-Cast Vehicle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

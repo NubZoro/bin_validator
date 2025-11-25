@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "110198273X": {
+            "asin": "110198273X",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2913385732
+            },
+            "name": "The Devils of Cardona",
+            "normalizedName": "The Devils of Cardona",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.410944074725587
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.5354330642
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

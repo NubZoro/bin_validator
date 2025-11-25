@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0802406386": {
+            "asin": "0802406386",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "The Church Planting Wife: Help and Hope for Her Heart",
+            "normalizedName": "The Church Planting Wife: Help and Hope for Her Heart",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00DE2G1G8": {
+            "asin": "B00DE2G1G8",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "The Saddle Club: The Complete Series",
+            "normalizedName": "The Saddle Club: The Complete Series",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18333454586339856
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B01ATDB9KC": {
+            "asin": "B01ATDB9KC",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Fritesla 16000mah Power Bank Portable Charger for Smartphones-Silver",
+            "normalizedName": "Fritesla 16000mah Power Bank Portable Charger for Smartphones-Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01GQROZJW": {
+            "asin": "B01GQROZJW",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Angry Video Game Nerd Season 4",
+            "normalizedName": "Angry Video Game Nerd Season 4",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

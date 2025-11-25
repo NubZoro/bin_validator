@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00026BMBI": {
+            "asin": "B00026BMBI",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Pyle PL463BL 4-Inch x 6-Inch 240-Watt 3-Way Speakers",
+            "normalizedName": "Pyle PL463BL 4-Inch x 6-Inch 240-Watt 3-Way Speakers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B0071V7WOS": {
+            "asin": "B0071V7WOS",
+            "height": {
+                "unit": "IN",
+                "value": 2.5984251942
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "Weber 6481 Small Stainless Steel Vegetable Basket",
+            "normalizedName": "Weber 6481 Small Stainless Steel Vegetable Basket",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0141160545594439
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.3228346382
+            }
+        },
+        "B00CQHZ2LW": {
+            "asin": "B00CQHZ2LW",
+            "height": {
+                "unit": "IN",
+                "value": 2.5984251942
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.204724397
+            },
+            "name": "Disney Frozen Complete Story Playset",
+            "normalizedName": "Disney Frozen Complete Story Playset",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880326924443
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1102362122
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

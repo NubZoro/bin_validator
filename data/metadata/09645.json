@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00009MDBU": {
+            "asin": "B00009MDBU",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "P3 P4400 Kill A Watt Electricity Usage Monitor",
+            "normalizedName": "P3 P4400 Kill A Watt Electricity Usage Monitor",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B004O41XVI": {
+            "asin": "B004O41XVI",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Mini Alphabet Wall Print I Can Do Everything Through Christ Faith",
+            "normalizedName": "Mini Alphabet Wall Print I Can Do Everything Through Christ Faith",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

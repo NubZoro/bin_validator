@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00002X2GG": {
+            "asin": "B00002X2GG",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Stanley 33-158 5m/16 x 3/4-Inch PowerLock Tape Rule",
+            "normalizedName": "Stanley 33-158 5m/16 x 3/4-Inch PowerLock Tape Rule",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00CQ7QDQA": {
+            "asin": "B00CQ7QDQA",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "GU Original Sports Nutrition Energy Gel, Assorted Flavors, 24-Count",
+            "normalizedName": "GU Original Sports Nutrition Energy Gel, Assorted Flavors, 24-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00FM0LKM0": {
+            "asin": "B00FM0LKM0",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Horse Art Watercolour Round Paint Brushes Size 00",
+            "normalizedName": "Horse Art Watercolour Round Paint Brushes Size 00",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.49999999949
+            }
+        },
+        "B00KYXSF00": {
+            "asin": "B00KYXSF00",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "NuNutrients Advanced Hair Regrowth Treatment for Men - Easy-to-use Spray Bottle (One Bottle - 2 FL Oz)",
+            "normalizedName": "NuNutrients Advanced Hair Regrowth Treatment for Men - Easy-to-use Spray Bottle (One Bottle - 2 FL Oz)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

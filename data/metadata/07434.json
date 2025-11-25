@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VKA68A": {
+            "asin": "B000VKA68A",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Koyo Foods Seaweed Ramen, 2 Ounce Packages (Pack of 12)",
+            "normalizedName": "(Pack of 12) Koyo Foods Seaweed Ramen, 2 Ounce Packages",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "B00MTCQ9TS": {
+            "asin": "B00MTCQ9TS",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "Hongso SBF791 (4-pack) Replacement Straight Stainless Steel Pipe Burner for Kenmore Sears, K Mart, Nexgrill, Lowes Model Grills (14 7/8",
+            "normalizedName": "Hongso SBF791 (4-pack) Replacement Straight Stainless Steel Pipe Burner for Kenmore Sears, K Mart, Nexgrill, Lowes Model Grills (14 7/8",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B017OG6HYU": {
+            "asin": "B017OG6HYU",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "RED and Green and Blue -3 Color Laser Landscape Projector Light w/ Remote Control, Illuminate Trees and Landscaping, Pool Areas. Low Voltage. Holiday Lighting, Decoration, Christmas Lights",
+            "normalizedName": "RED and Green and Blue -3 Color Laser Landscape Projector Light w/ Remote Control, Illuminate Trees and Landscaping, Pool Areas. Low Voltage. Holiday Lighting, Decoration, Christmas Lights",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8499999967714262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

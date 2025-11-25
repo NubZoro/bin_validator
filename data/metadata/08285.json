@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00YNI7G8O": {
+            "asin": "B00YNI7G8O",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "HDMI Cable 15 FT - Braided Cord - 4K HDMI 2.0 Ready - High Speed - Gold Plated Connector Tip(s) - Ethernet / Audio Return Channel - Video 4K 2160p, HD 1080p, 3D - Xbox PlayStation PS3 PS4 PC Apple TV",
+            "normalizedName": "HDMI Cable 15 FT - Braided Cord - 4K HDMI 2.0 Ready - High Speed - Gold Plated Connector Tip(s) - Ethernet / Audio Return Channel - Video 4K 2160p, HD 1080p, 3D - Xbox PlayStation PS3 PS4 PC Apple TV",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B011SAL414": {
+            "asin": "B011SAL414",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Natureganics MEGA BCAA Amino Acids Dietary Supplement, 1600 mg, 60 Capsules",
+            "normalizedName": "Natureganics MEGA BCAA Amino Acids Dietary Supplement, 1600 mg, 60 Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

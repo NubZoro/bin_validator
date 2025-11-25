@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003QVIWEQ": {
+            "asin": "B003QVIWEQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Dorman 419-603 Idler Pulley",
+            "normalizedName": "Dorman 419-603 Idler Pulley",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00K0KC7GA": {
+            "asin": "B00K0KC7GA",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Square Glass Butter Dish",
+            "normalizedName": "Square Glass Butter Dish",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

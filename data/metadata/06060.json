@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005CR8DVE": {
+            "asin": "B005CR8DVE",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Kel-Gar SnugTub Duck",
+            "normalizedName": "Kel-Gar SnugTub Duck",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B01EBYNWO6": {
+            "asin": "B01EBYNWO6",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Tecare Silicone Water Bottle Portable Collapsible FDA Approval BPA Free 25 oz / 0.75l",
+            "normalizedName": "Tecare Silicone Water Bottle Portable Collapsible FDA Approval BPA Free 25 oz / 0.75l",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

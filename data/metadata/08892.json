@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PG91SSI": {
+            "asin": "B00PG91SSI",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Home Pro Odor Eliminating Dog Pads, 50 Count",
+            "normalizedName": "Home Pro Odor Eliminating Dog Pads, 50 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00WS1KK3G": {
+            "asin": "B00WS1KK3G",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "LOVO Relaxing Time 100% Cotton 2-Piece Bedding Set Duvet Cover Sham Twin Grey",
+            "normalizedName": "LOVO Relaxing Time 100% Cotton 2-Piece Bedding Set Duvet Cover Sham Twin Grey",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B00Y4QBJCY": {
+            "asin": "B00Y4QBJCY",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Crayola Visimax Markers (24-Count)",
+            "normalizedName": "Crayola Visimax Markers (24-Count)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B01DV2OJYG": {
+            "asin": "B01DV2OJYG",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Best Microfiber Cleaning Cloth, Pack of 50",
+            "normalizedName": "Pack of 50 Best Microfiber Cleaning Cloth,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

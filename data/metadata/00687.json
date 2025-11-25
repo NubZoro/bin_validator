@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001IZGU6O": {
+            "asin": "B001IZGU6O",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Scotch Packing Noodles (7907SS-4CP)",
+            "normalizedName": "Scotch Packing Noodles (7907SS-4CP)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        },
+        "B00HWFNWMO": {
+            "asin": "B00HWFNWMO",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Aetrex Womens Sports Orthotics - Cupped/Neutral Multi 12 M (B)",
+            "normalizedName": "Aetrex Womens Sports Orthotics - Cupped/Neutral Multi 12 M (B)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00OIMYDAO": {
+            "asin": "B00OIMYDAO",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Ikea Nyponros Duvet Cover and Pillowcases, Full/queen, White/blue",
+            "normalizedName": "Ikea Nyponros Duvet Cover and Pillowcases, Full/queen, White/blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B013UJS35G": {
+            "asin": "B013UJS35G",
+            "height": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "TaoTronics TT-AH002 30W Ultrasonic Humidifier with Cool Mist, Classic Dial Knob Control, 3.5L Large Capacity, Two 360 degree Rotatable Outlets",
+            "normalizedName": "TaoTronics TT-AH002 30W Ultrasonic Humidifier with Cool Mist, Classic Dial Knob Control, 3.5L Large Capacity, Two 360 degree Rotatable Outlets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.19999999647792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B01BUFDQA4": {
+            "asin": "B01BUFDQA4",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Extra Clear and Durable Heavy Weight Tablecloth Protector 100% Vinyl 54\" X 54\" Square",
+            "normalizedName": "Extra Clear and Durable Heavy Weight Tablecloth Protector 100% Vinyl 54\" X 54\" Square",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

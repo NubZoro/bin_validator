@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002ULC3KW": {
+            "asin": "B002ULC3KW",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Planters Honey Roasted Cashews, 1.5-oz. Pouches (Count of 18)",
+            "normalizedName": "Planters Honey Roasted Cashews, 1.5-oz. Pouches (Count of 18)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B01A3HUTSW": {
+            "asin": "B01A3HUTSW",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "Roller-Ball Bottles, 12 each, 3 Colors",
+            "normalizedName": "Roller-Ball Bottles, 12 each, 3 Colors",
+            "quantity": 19,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 20
+}

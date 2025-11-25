@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OYZNBFI": {
+            "asin": "B00OYZNBFI",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "BlackBerry ACC-60088-001 Leather Swivel Holster Case for Blackberry Classic Q20 - Retail Packaging - Black",
+            "normalizedName": "BlackBerry ACC-60088-001 Leather Swivel Holster Case for Blackberry Classic Q20 - Retail Packaging - Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B01ALMT0H0": {
+            "asin": "B01ALMT0H0",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Astro Tab A737 \u2013 7\u201d Quad Core Android 5.1 Lollipop Tablet PC with IPS Display, 1GB RAM, 8GB Storage, Bluetooth 4.0, 1024x600 7 inch screen, Google Play (Black)",
+            "normalizedName": "Astro Tab A737 \u2013 7\u201d Quad Core Android 5.1 Lollipop Tablet PC with IPS Display, 1GB RAM, 8GB Storage, Bluetooth 4.0, 1024x600 7 inch screen, Google Play (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

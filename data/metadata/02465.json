@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1451639619": {
+            "asin": "1451639619",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+            "normalizedName": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B001C2AA8C": {
+            "asin": "B001C2AA8C",
+            "height": {
+                "unit": "IN",
+                "value": 1.11023621934
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.12992125053
+            },
+            "name": "Financial handbook, fourth edition",
+            "normalizedName": "Financial handbook, fourth edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5800089393016
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.57086613503
+            }
+        },
+        "B002MS8T56": {
+            "asin": "B002MS8T56",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "The Essentials of Contraceptive Technology - A Handbook for Clinic Staff",
+            "normalizedName": "The Essentials of Contraceptive Technology - A Handbook for Clinic Staff",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01EAH1K16": {
+            "asin": "B01EAH1K16",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Galaxy S6 Edge Plus Waterproof Case, iThrough\u2122 6.6ft S6 Edge Plus Underwater Stand Case, Dust Proof, Shock Proof Case, Heavy Duty Protective Cover for Samsung Galaxy S6 Plus Edge, 5.7 Inches (Pink)",
+            "normalizedName": "Galaxy S6 Edge Plus Waterproof Case, iThrough\u2122 6.6ft S6 Edge Plus Underwater Stand Case, Dust Proof, Shock Proof Case, Heavy Duty Protective Cover for Samsung Galaxy S6 Plus Edge, 5.7 Inches (Pink)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014LVG4EY": {
+            "asin": "B014LVG4EY",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "75' Expanding Hose, Solid Brass Ends, Double Latex Core, Extra Strength Fabric",
+            "normalizedName": "75' Expanding Hose, Solid Brass Ends, Double Latex Core, Extra Strength Fabric",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B017TU3NH0": {
+            "asin": "B017TU3NH0",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.236220462
+            },
+            "name": "MoKo ASUS Zenpad 10 Z300C Case - Ultra Slim Lightweight Smart-shell Stand Cover Case With Auto Wake / Sleep for ASUS Zenpad Z300 10.1 inch Tablet, Newspaper Wine RED",
+            "normalizedName": "MoKo ASUS Zenpad 10 Z300C Case - Ultra Slim Lightweight Smart-shell Stand Cover Case With Auto Wake / Sleep for ASUS Zenpad Z300 10.1 inch Tablet, Newspaper Wine RED",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.529104028022095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.3228346382
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004MNFBF0": {
+            "asin": "B004MNFBF0",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "JWare King Size 109mm Cones - 1000 Ct",
+            "normalizedName": "JWare King Size 109mm Cones - 1000 Ct",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00C4KEF6E": {
+            "asin": "B00C4KEF6E",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Angry Birds Space 11oz Basic Ceramic Mug X 1 (1 Red 1 Purple)",
+            "normalizedName": "Angry Birds Space 11oz Basic Ceramic Mug X 1 (1 Red 1 Purple)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00Z046QEK": {
+            "asin": "B00Z046QEK",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "New Disney Mickey Mouse Shape Coin Bank",
+            "normalizedName": "New Disney Mickey Mouse Shape Coin Bank",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

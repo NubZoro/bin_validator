@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004TKZ66U": {
+            "asin": "B004TKZ66U",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Halo Headband Sweatband Tie Teal",
+            "normalizedName": "Halo Headband Sweatband Tie Teal",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B00N3WJAYY": {
+            "asin": "B00N3WJAYY",
+            "height": {
+                "unit": "IN",
+                "value": 2.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6
+            },
+            "name": "SYLVANIA 7443 SilverStar High Performance Miniature Bulb, (Pack of 2)",
+            "normalizedName": "(Pack of 2) SYLVANIA 7443 SilverStar High Performance Miniature Bulb,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.2
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

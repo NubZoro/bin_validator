@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004VTGIAM": {
+            "asin": "B004VTGIAM",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Hayward SPX5500D Strainer Cover with Lock Ring and O-ring Replacement for Select Hayward Pump and Filter",
+            "normalizedName": "Hayward SPX5500D Strainer Cover with Lock Ring and O-ring Replacement for Select Hayward Pump and Filter",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B00HPRPBFK": {
+            "asin": "B00HPRPBFK",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Now Designs Superior Oven Mitt, Lemon Yellow, Set of 2",
+            "normalizedName": "Set of 2 Now Designs Superior Oven Mitt, Lemon Yellow,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

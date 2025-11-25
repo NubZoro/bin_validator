@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002LOP5E4": {
+            "asin": "B002LOP5E4",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "P21S 12700W Carnauba Wax",
+            "normalizedName": "P21S 12700W Carnauba Wax",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B0085J1AB6": {
+            "asin": "B0085J1AB6",
+            "height": {
+                "unit": "IN",
+                "value": 0.1574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0629921198
+            },
+            "name": "Ultra 8 GB microSD High Capacity (microSDHC)",
+            "normalizedName": "Ultra 8 GB microSD High Capacity (microSDHC)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0944881848
+            }
+        },
+        "B00I9MWJUU": {
+            "asin": "B00I9MWJUU",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Wiley X Knife, Black Ops, Matte Black Frame, Smoke Gray Lens",
+            "normalizedName": "Wiley X Knife, Black Ops, Matte Black Frame, Smoke Gray Lens",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.31
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

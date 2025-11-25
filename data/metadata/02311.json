@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HUELEXG": {
+            "asin": "B00HUELEXG",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Pwr+ 90W Extra Long 12 Ft Laptop-Ac-Adapter for HP-Pavilion 15 17 TouchSmart Envy Charger-Power-Cord: (Check Connector Photo)",
+            "normalizedName": "Pwr+ 90W Extra Long 12 Ft Laptop-Ac-Adapter for HP-Pavilion 15 17 TouchSmart Envy Charger-Power-Cord: (Check Connector Photo)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0141160545594439
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00NXRYOIQ": {
+            "asin": "B00NXRYOIQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.6
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.5
+            },
+            "name": "Ecobee3 EB-RSE3PK2-01 Remote Sensor with Stand, White, 2-Pack",
+            "normalizedName": "2-Pack Ecobee3 EB-RSE3PK2-01 Remote Sensor with Stand, White,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

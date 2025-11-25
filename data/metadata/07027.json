@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00168PI9S": {
+            "asin": "B00168PI9S",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Super Mario Chess Collector's Edition Tin",
+            "normalizedName": "Super Mario Chess Collector's Edition Tin",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B01GUHE45S": {
+            "asin": "B01GUHE45S",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Bud Vase Set of 4 Paint Your Own Ceramic by Paint-a-Potamus",
+            "normalizedName": "Set of 4 Bud Vase Paint Your Own Ceramic by Paint-a-Potamus",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

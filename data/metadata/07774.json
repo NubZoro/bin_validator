@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002RI6JS": {
+            "asin": "B0002RI6JS",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Klein Tools 5416 Bull-Pin and Bolt Bag, Canvas",
+            "normalizedName": "Klein Tools 5416 Bull-Pin and Bolt Bag, Canvas",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        },
+        "B000YT7THY": {
+            "asin": "B000YT7THY",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Monin Flavored Syrup, Blackberry, 33.8-Ounce Plastic Bottles (Pack of 4)",
+            "normalizedName": "(Pack of 4) Monin Flavored Syrup, Blackberry, 33.8-Ounce Plastic Bottles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.389852666574074
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

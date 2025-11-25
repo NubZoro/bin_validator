@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0307985954": {
+            "asin": "0307985954",
+            "height": {
+                "unit": "IN",
+                "value": 1.3385826758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.3700787306
+            },
+            "name": "Infinite Potential: What Quantum Physics Reveals About How We Should Live",
+            "normalizedName": "Infinite Potential: What Quantum Physics Reveals About How We Should Live",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1904840640480427
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299212592
+            }
+        },
+        "1401243126": {
+            "asin": "1401243126",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "He-Man and the Masters of the Universe, Vol. 2: Origins of Eternia",
+            "normalizedName": "He-Man and the Masters of the Universe, Vol. 2: Origins of Eternia",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280213493476
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.4566929068
+            }
+        },
+        "1879794500": {
+            "asin": "1879794500",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024
+            },
+            "name": "Betty & Veronica Beach Party (Archie & Friends All-Stars)",
+            "normalizedName": "Betty & Veronica Beach Party (Archie & Friends All-Stars)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B015PGKDVO": {
+            "asin": "B015PGKDVO",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Roewell\u00ae Baby Elastic Hair Hoops Headbands and Girl's Fashion Soft Headbands (6 Pack set 7)",
+            "normalizedName": "6 Pack Roewell\u00ae Baby Elastic Hair Hoops Headbands and Girl's Fashion Soft Headbands ( set 7)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

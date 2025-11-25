@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0137074859": {
+            "asin": "0137074859",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.9448818786
+            },
+            "name": "Criminology Today: An Integrative Introduction (6th Edition)",
+            "normalizedName": "Criminology Today: An Integrative Introduction (6th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.82
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.5826771566
+            }
+        },
+        "1908712090": {
+            "asin": "1908712090",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "The Cancer Survivor's Bible",
+            "normalizedName": "The Cancer Survivor's Bible",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00L8MU234": {
+            "asin": "B00L8MU234",
+            "height": {
+                "unit": "IN",
+                "value": 2.5196850368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.5039369992
+            },
+            "name": null,
+            "normalizedName": null,
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054720379543957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        },
+        "B01E68EUB6": {
+            "asin": "B01E68EUB6",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Aduro\u00ae AMPLIFY Noise Canceling Echo Reduction Sport Sweatproof Stereo Bluetooth Wireless Headset w/ Multi-link, Built-in Mic & One-Touch Remote Controls (Purple)",
+            "normalizedName": "Aduro\u00ae AMPLIFY Noise Canceling Echo Reduction Sport Sweatproof Stereo Bluetooth Wireless Headset w/ Multi-link, Built-in Mic & One-Touch Remote Controls (Purple)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

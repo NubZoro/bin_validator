@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00S0QMVB2": {
+            "asin": "B00S0QMVB2",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "ACDelco 18A2853A Advantage Non-Coated Rear Disc Brake Rotor",
+            "normalizedName": "ACDelco 18A2853A Advantage Non-Coated Rear Disc Brake Rotor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.299999993039698
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        },
+        "B00VI455RK": {
+            "asin": "B00VI455RK",
+            "height": {
+                "unit": "IN",
+                "value": 2.755905509
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.9921259659
+            },
+            "name": "Littlest Pet Shop - Backstage Style Set",
+            "normalizedName": "Littlest Pet Shop - Backstage Style Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.0078740035
+            }
+        },
+        "B01789JOK2": {
+            "asin": "B01789JOK2",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Bug Racer Vehicle",
+            "normalizedName": "Bug Racer Vehicle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.249999998113171
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.599999987148
+            }
+        },
+        "B01GZIMP7G": {
+            "asin": "B01GZIMP7G",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "name": "Soft Bed Pillow 100% Cotton Ultra-fresh Anti Odor Mite and Allergy Resistant Queen Size",
+            "normalizedName": "Soft Bed Pillow 100% Cotton Ultra-fresh Anti Odor Mite and Allergy Resistant Queen Size",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

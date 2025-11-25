@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0785249397": {
+            "asin": "0785249397",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Then Sings My Soul: 150 of the World's Greatest Hymn Stories",
+            "normalizedName": "Then Sings My Soul: 150 of the World's Greatest Hymn Stories",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "0813912652": {
+            "asin": "0813912652",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "James Madison: A Biography",
+            "normalizedName": "James Madison: A Biography",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "0874778247": {
+            "asin": "0874778247",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "The End of Work:  The Decline of the Global Labor Force and the Dawn of the Post-Market Era",
+            "normalizedName": "The End of Work:  The Decline of the Global Labor Force and the Dawn of the Post-Market Era",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "1464733678": {
+            "asin": "1464733678",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Knit Refresher (6461)",
+            "normalizedName": "Knit Refresher (6461)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

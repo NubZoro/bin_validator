@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000IBELZG": {
+            "asin": "B000IBELZG",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.1653543234
+            },
+            "name": "Sony PSP 1.3 Megapixel Chotto Shot Camera",
+            "normalizedName": "Sony PSP 1.3 Megapixel Chotto Shot Camera",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3500058871512
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.2519684996
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

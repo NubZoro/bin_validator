@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010C3MR0A": {
+            "asin": "B010C3MR0A",
+            "height": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Funko Super Deluxe Vinyl: GOTG - Groot Action Figure",
+            "normalizedName": "Funko Super Deluxe Vinyl: GOTG - Groot Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.14999999819703
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B019ND3LPA": {
+            "asin": "B019ND3LPA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Stretch Island Fruit Leather ORGANIC Variety Pack 36-Count, 0.5-Ounce Package",
+            "normalizedName": "Stretch Island Fruit Leather ORGANIC Variety Pack 36-Count, 0.5-Ounce Package",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

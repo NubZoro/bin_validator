@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0976511827": {
+            "asin": "0976511827",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Canine Behavior: A Photo Illustrated Handbook",
+            "normalizedName": "Canine Behavior: A Photo Illustrated Handbook",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B002L2TVJG": {
+            "asin": "B002L2TVJG",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "The White House 3D Puzzle, 64 Pcs",
+            "normalizedName": "The White House 3D Puzzle, 64 Pcs",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

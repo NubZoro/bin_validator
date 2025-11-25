@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007FJMGCE": {
+            "asin": "B007FJMGCE",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "NFL Denver Broncos Revolution Speed Mini Helmet",
+            "normalizedName": "NFL Denver Broncos Revolution Speed Mini Helmet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00B7CUFFU": {
+            "asin": "B00B7CUFFU",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Verbatim 32 GB Store 'n' Stay Nano USB Flash Drive 98130",
+            "normalizedName": "Verbatim 32 GB Store 'n' Stay Nano USB Flash Drive 98130",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.799999999184
+            }
+        },
+        "B017JIHJIG": {
+            "asin": "B017JIHJIG",
+            "height": {
+                "unit": "IN",
+                "value": 0.2362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.2755905458
+            },
+            "name": "Verbatim 16 GB Metal Executive USB 2.0 Flash Drive, Silver 98748",
+            "normalizedName": "Verbatim 16 GB Metal Executive USB 2.0 Flash Drive, Silver 98748",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.044092002335174595
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.543307083
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

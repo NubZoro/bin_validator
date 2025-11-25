@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0159A0LH2": {
+            "asin": "B0159A0LH2",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Pumpkin Pie Quest Bars 2 Pack Total of 24 Coated Protein Bars Delicious Limited Time",
+            "normalizedName": "2 Pack Pumpkin Pie Quest Bars Total of 24 Coated Protein Bars Delicious Limited Time",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.299999997232651
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

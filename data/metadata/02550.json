@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002AG37K2": {
+            "asin": "B002AG37K2",
+            "height": {
+                "unit": "IN",
+                "value": 1.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "NFL Riddell Pittsburgh Steelers Helmet Party Pack",
+            "normalizedName": "NFL Riddell Pittsburgh Steelers Helmet Party Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0
+            }
+        },
+        "B003D2YRLA": {
+            "asin": "B003D2YRLA",
+            "height": {
+                "unit": "IN",
+                "value": 1.4960629906
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8976377862
+            },
+            "name": "Pyle-Pro PMEMS10 In Ear Mini XLR Omni-Directional  Microphone (For Shure System)",
+            "normalizedName": "Pyle-Pro PMEMS10 In Ear Mini XLR Omni-Directional  Microphone (For Shure System)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        },
+        "B00686RU12": {
+            "asin": "B00686RU12",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "SEI Tumble Dye Charcoal Individual Spray Bottle, 2-Ounce",
+            "normalizedName": "SEI Tumble Dye Charcoal Individual Spray Bottle, 2-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B008ZIFQGC": {
+            "asin": "B008ZIFQGC",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Duffy's Brew ESB Craft Beer Shampoo - 12oz *NEW",
+            "normalizedName": "Duffy's Brew ESB Craft Beer Shampoo - 12oz *NEW",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

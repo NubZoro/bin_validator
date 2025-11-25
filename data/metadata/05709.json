@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003BVINRC": {
+            "asin": "B003BVINRC",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.249999995665
+            },
+            "name": "Schick Hydro 5 Razor Blade Refills for Men with Flip Trimmer - 4 Count",
+            "normalizedName": "Schick Hydro 5 Razor Blade Refills for Men with Flip Trimmer - 4 Count",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B0082AFROO": {
+            "asin": "B0082AFROO",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Kanex ATVPRO HDMI to VGA Adapter for AirPlay, iPad and Apple TV Mirroring to VGA Projector with Audio",
+            "normalizedName": "Kanex ATVPRO HDMI to VGA Adapter for AirPlay, iPad and Apple TV Mirroring to VGA Projector with Audio",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

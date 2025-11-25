@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0131113844": {
+            "asin": "0131113844",
+            "height": {
+                "unit": "IN",
+                "value": 1.09842519573
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Children's Thinking (4th Edition)",
+            "normalizedName": "Children's Thinking (4th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6500277537128
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.79921259149
+            }
+        },
+        "B007V8PYFU": {
+            "asin": "B007V8PYFU",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Hamilton Beach 59762 2-Speed Hand Blender, Metallic",
+            "normalizedName": "Hamilton Beach 59762 2-Speed Hand Blender, Metallic",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

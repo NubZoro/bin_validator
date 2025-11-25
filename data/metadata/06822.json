@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002CQUFYQ": {
+            "asin": "B002CQUFYQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Kirkland Vitamin C (500 mg), 500-Count, Tangy Orange,  Chewable Tablets",
+            "normalizedName": "Kirkland Vitamin C (500 mg), 500-Count, Tangy Orange,  Chewable Tablets",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B017IBOWWA": {
+            "asin": "B017IBOWWA",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Apple Watch Band - FanTEK Soft Silicone Sport Style Replacement iWatch Strap for Apple Wrist Watch 42mm Models S/M Size (Black)",
+            "normalizedName": "Apple Watch Band - FanTEK Soft Silicone Sport Style Replacement iWatch Strap for Apple Wrist Watch 42mm Models S/M Size (Black)",
+            "quantity": 24,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 26
+}

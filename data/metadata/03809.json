@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0016BFR4G": {
+            "asin": "B0016BFR4G",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Uncle Lee's Organic Green Tea -- 100 Tea Bags net wt 5.64 oz (160g)",
+            "normalizedName": "Uncle Lee's Organic Green Tea -- 100 Tea Bags net wt 5.64 oz (160g)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B003M5UOBK": {
+            "asin": "B003M5UOBK",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Joico K-Pak Shampoo and Conditioner Liter Duo Set, 33.8 oz",
+            "normalizedName": "Joico K-Pak Shampoo and Conditioner Liter Duo Set, 33.8 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.199999995639329
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00LCNGQ8O": {
+            "asin": "B00LCNGQ8O",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "STANLEY STHT10243 Folding Pocket Safety Knife",
+            "normalizedName": "STANLEY STHT10243 Folding Pocket Safety Knife",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

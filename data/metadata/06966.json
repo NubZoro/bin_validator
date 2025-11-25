@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0830826882": {
+            "asin": "0830826882",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "An Introduction to Ecclesiology: Ecumenical, Historical & Global Perspectives",
+            "normalizedName": "An Introduction to Ecclesiology: Ecumenical, Historical & Global Perspectives",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B0055B0AT0": {
+            "asin": "B0055B0AT0",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "ACDelco 17D1422CH Professional Ceramic Front Disc Brake Pad Set",
+            "normalizedName": "ACDelco 17D1422CH Professional Ceramic Front Disc Brake Pad Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00NGJ5L24": {
+            "asin": "B00NGJ5L24",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Sincerely Nuts Dried Natural Pineapple with No Sugar - Two (2) Lb. Bag - Irresistibly Tasty - Unmatched Freshness - Insanely Healthy - Kosher Certified",
+            "normalizedName": "Sincerely Nuts Dried Natural Pineapple with No Sugar - Two (2) Lb. Bag - Irresistibly Tasty - Unmatched Freshness - Insanely Healthy - Kosher Certified",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B019257I0I": {
+            "asin": "B019257I0I",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Oberhaus Premium Silicone Spoon (Black)",
+            "normalizedName": "Oberhaus Premium Silicone Spoon (Black)",
+            "quantity": 14,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 17
+}

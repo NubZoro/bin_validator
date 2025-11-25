@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008UZY25G": {
+            "asin": "B008UZY25G",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Vapur Kids Quencher Water Bottle, 0.4-Liter, Lolli",
+            "normalizedName": "Vapur Kids Quencher Water Bottle, 0.4-Liter, Lolli",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.249999991585002
+            }
+        },
+        "B00VPFNUDS": {
+            "asin": "B00VPFNUDS",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Libbey Glass Milk Bottle with Lid, 33.5 oz, 4 Pack",
+            "normalizedName": "4 Pack Libbey Glass Milk Bottle with Lid, 33.5 oz,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.7999999959747655
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010OPURY4": {
+            "asin": "B010OPURY4",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Dandelion Diapers Biodegradable and Flushable Envionmentally Friendly, Safe, Natural Diaper Liners, 100% Bamboo, 200 Sheets",
+            "normalizedName": "Dandelion Diapers Biodegradable and Flushable Envionmentally Friendly, Safe, Natural Diaper Liners, 100% Bamboo, 200 Sheets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B0150TEVBO": {
+            "asin": "B0150TEVBO",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Stojo Collapsible Cup, Silicone, Travel Mug, Reusable, Leak Proof Lid, 12 oz, Pink",
+            "normalizedName": "Stojo Collapsible Cup, Silicone, Travel Mug, Reusable, Leak Proof Lid, 12 oz, Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5899999995052316
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

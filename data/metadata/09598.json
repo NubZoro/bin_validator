@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0157ZIRZC": {
+            "asin": "B0157ZIRZC",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "PaladinSport Men's Outdoor Sportswear Set,Dark Red Flame Magma Long Sleeve Cycling Riding Jersey,Comfortable Breathable Polyester Sports Shirts Tops+3D Padded Bicycle Pants,M",
+            "normalizedName": "PaladinSport Men's Outdoor Sportswear Set,Dark Red Flame Magma Long Sleeve Cycling Riding Jersey,Comfortable Breathable Polyester Sports Shirts Tops+3D Padded Bicycle Pants,M",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B01CQM4F1O": {
+            "asin": "B01CQM4F1O",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Ohyesbat 18v 2000mAh Capacity Replacement Battery for Black & Decker A1718 A18NH HPB18 HPB18-OPE",
+            "normalizedName": "Ohyesbat 18v 2000mAh Capacity Replacement Battery for Black & Decker A1718 A18NH HPB18 HPB18-OPE",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9499999983647478
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

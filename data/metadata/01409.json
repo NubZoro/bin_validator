@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001CDFY4Q": {
+            "asin": "B001CDFY4Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Sold Out: A Threevening With Kevin Smith",
+            "normalizedName": "Sold Out: A Threevening With Kevin Smith",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B0034CZQRS": {
+            "asin": "B0034CZQRS",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Stansport Plastic Replacement Toilet Bags",
+            "normalizedName": "Stansport Plastic Replacement Toilet Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B019T126F2": {
+            "asin": "B019T126F2",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "My Mini MixieQ's Series 1 Heiress 4 Pack - Heiress, Boyfriend, Puppy, & Mystery Figure",
+            "normalizedName": "4 Pack My Mini MixieQ's Series 1 Heiress - Heiress, Boyfriend, Puppy, & Mystery Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01DIXJA92": {
+            "asin": "B01DIXJA92",
+            "height": {
+                "unit": "IN",
+                "value": 1.97
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.97
+            },
+            "name": "LSoug iPhone 6S Battery Case - iPhone 6 Battery Case, Trianium Atomic S iPhone Portable Charger iPhone 6 6S Charging Case-3100mAh Battery Pack Juice Bank Cover[MFI Apple Certified]",
+            "normalizedName": "LSoug iPhone 6S Battery Case - iPhone 6 Battery Case, Trianium Atomic S iPhone Portable Charger iPhone 6 6S Charging Case-3100mAh Battery Pack Juice Bank Cover[MFI Apple Certified]",
+            "quantity": 6,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 1.97
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

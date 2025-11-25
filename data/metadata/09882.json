@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GWXXQRS": {
+            "asin": "B00GWXXQRS",
+            "height": {
+                "unit": "IN",
+                "value": 4.8
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.1
+            },
+            "name": "KINGFOM&trade; Desktop PU Leather Storage Box 4 Divided Compartments for Pen Business Card Remote Control Mobile Phone Cosmetics Office Supplies Holder Collection Desk Organizer (Black)",
+            "normalizedName": "KINGFOM&trade; Desktop PU Leather Storage Box 4 Divided Compartments for Pen Business Card Remote Control Mobile Phone Cosmetics Office Supplies Holder Collection Desk Organizer (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.51
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0
+            }
+        },
+        "B00MV0704Q": {
+            "asin": "B00MV0704Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Pro-Lite Blaster - Blue",
+            "normalizedName": "Pro-Lite Blaster - Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

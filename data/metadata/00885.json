@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000A0LE6O": {
+            "asin": "B000A0LE6O",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "NOW Foods Vitamin D-3 1000 IU, 180 Softgels",
+            "normalizedName": "NOW Foods Vitamin D-3 1000 IU, 180 Softgels",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            }
+        },
+        "B0050SW2NA": {
+            "asin": "B0050SW2NA",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.2755905458
+            },
+            "name": "LittleBigPlanet - PlayStation Vita",
+            "normalizedName": "LittleBigPlanet - PlayStation Vita",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400474429947
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0944881848
+            }
+        },
+        "B00K5B7AZW": {
+            "asin": "B00K5B7AZW",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Distil Union Wally Sleeve Genuine Leather Wallet, Money Clip, Credit Card Holder (Cowboy Brown)",
+            "normalizedName": "Distil Union Wally Sleeve Genuine Leather Wallet, Money Clip, Credit Card Holder (Cowboy Brown)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00V5MFJXK": {
+            "asin": "B00V5MFJXK",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "name": "Black Gothic Stretch Choker Necklace and Matching Bracelet - 2 Pack",
+            "normalizedName": "2 Pack Black Gothic Stretch Choker Necklace and Matching Bracelet -",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

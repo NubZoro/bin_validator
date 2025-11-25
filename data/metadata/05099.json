@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009RF9K0": {
+            "asin": "B0009RF9K0",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Lactaid Fast Act Lactase Enzyme Supplement, 60 Count",
+            "normalizedName": "Lactaid Fast Act Lactase Enzyme Supplement, 60 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B001FPNTGG": {
+            "asin": "B001FPNTGG",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "LDR 501 6420 Snap Style Stainless Steel Faucet Hole Cover, Chrome",
+            "normalizedName": "LDR 501 6420 Snap Style Stainless Steel Faucet Hole Cover, Chrome",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.199999997756
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

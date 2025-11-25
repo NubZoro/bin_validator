@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002LZRTEW": {
+            "asin": "B002LZRTEW",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "TanTowel Full Body Classic Self Tanning Towelettes 5 count- 0.50oz packages",
+            "normalizedName": "TanTowel Full Body Classic Self Tanning Towelettes 5 count- 0.50oz packages",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B0136JJXT0": {
+            "asin": "B0136JJXT0",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Thermos Star Wars Episode VII 18 Ounce Tritan Hydration Bottle, X-Wing Starfighter",
+            "normalizedName": "Thermos Star Wars Episode VII 18 Ounce Tritan Hydration Bottle, X-Wing Starfighter",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

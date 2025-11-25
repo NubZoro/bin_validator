@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EF3E6S": {
+            "asin": "B000EF3E6S",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Crown Prince Natural Fancy White-Lump Crab Meat, 6-Ounce Cans (Pack of 12)",
+            "normalizedName": "(Pack of 12) Crown Prince Natural Fancy White-Lump Crab Meat, 6-Ounce Cans",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B001V62Q40": {
+            "asin": "B001V62Q40",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0393700685
+            },
+            "name": "\"Hobby Gear\" Backyard Mechanic Series 1 1:24 Scale",
+            "normalizedName": "\"Hobby Gear\" Backyard Mechanic Series 1 1:24 Scale",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.2204724346
+            }
+        },
+        "B00OQ1N8Y4": {
+            "asin": "B00OQ1N8Y4",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Lion Premium Grills 62711 Canvas Cover",
+            "normalizedName": "Lion Premium Grills 62711 Canvas Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

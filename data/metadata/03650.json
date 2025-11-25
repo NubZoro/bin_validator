@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0811814920": {
+            "asin": "0811814920",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Boomer's Big Day",
+            "normalizedName": "Boomer's Big Day",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024
+            }
+        },
+        "B0025TZ30G": {
+            "asin": "B0025TZ30G",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Art Alternatives Sketches in the Making Giant Hardcover Sketch Book",
+            "normalizedName": "Art Alternatives Sketches in the Making Giant Hardcover Sketch Book",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        },
+        "B00SXMORN8": {
+            "asin": "B00SXMORN8",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Deconovo Solid Thermal Insulated Blackout Grommet Curtain Panel For Kids Room, 52x63 Inch, Turquoise",
+            "normalizedName": "Deconovo Solid Thermal Insulated Blackout Grommet Curtain Panel For Kids Room, 52x63 Inch, Turquoise",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

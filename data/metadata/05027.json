@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003I64KAY": {
+            "asin": "B003I64KAY",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Cate and Levi 12\" Handmade Moose Hand Puppet (Premium Reclaimed Wool), Colors Will Vary",
+            "normalizedName": "Cate and Levi 12\" Handmade Moose Hand Puppet (Premium Reclaimed Wool), Colors Will Vary",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B0181MMZUG": {
+            "asin": "B0181MMZUG",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Air Travel Pillow: Relaxation Set - Best Memory Foam Pillows for Plane Travel with Free Sleep Mask & Custom Pillow Carry Bag",
+            "normalizedName": "Air Travel Pillow: Relaxation Set - Best Memory Foam Pillows for Plane Travel with Free Sleep Mask & Custom Pillow Carry Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

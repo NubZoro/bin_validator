@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000SVKVEQ": {
+            "asin": "B000SVKVEQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Can You Survive Your Mid-Life Crisis Game?",
+            "normalizedName": "Can You Survive Your Mid-Life Crisis Game?",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862
+            }
+        },
+        "B00EQCE19O": {
+            "asin": "B00EQCE19O",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Starrett KCT06041-N 10 Piece Tungsten Carbide Tipped Electricians Hole Saw Kit",
+            "normalizedName": "Starrett KCT06041-N 10 Piece Tungsten Carbide Tipped Electricians Hole Saw Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

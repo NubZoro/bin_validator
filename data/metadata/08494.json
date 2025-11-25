@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K3HFU8W": {
+            "asin": "B00K3HFU8W",
+            "height": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Q Drinks, Q  Lemon, Sparkling Lemon Soda, 12 Ounce Slim Can (Pack of 12)",
+            "normalizedName": "(Pack of 12) Q Drinks, Q  Lemon, Sparkling Lemon Soda, 12 Ounce Slim Can",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.199999990607783
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

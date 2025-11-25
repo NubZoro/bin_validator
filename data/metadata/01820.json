@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00N0AJYNQ": {
+            "asin": "B00N0AJYNQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Frozen Puzzles, 60 Pieces, (4-Pack)",
+            "normalizedName": "(4-Pack) Frozen Puzzles, 60 Pieces,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.22
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B019CVI6EO": {
+            "asin": "B019CVI6EO",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Kensun&reg; Super Bright Extreme Cree LED Headlight Conversion Kit - 9006 (HB4)",
+            "normalizedName": "Kensun&reg; Super Bright Extreme Cree LED Headlight Conversion Kit - 9006 (HB4)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

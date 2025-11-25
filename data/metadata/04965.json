@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0785198784": {
+            "asin": "0785198784",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Marvel Zombies: Battleworld",
+            "normalizedName": "Marvel Zombies: Battleworld",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B007VAGXE4": {
+            "asin": "B007VAGXE4",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Air Wick Scented Oil Air Freshener, Lavender and Chamomile, 3 Refills, 0.67 Ounce (Packaging may vary)",
+            "normalizedName": "Air Wick Scented Oil Air Freshener, Lavender and Chamomile, 3 Refills, 0.67 Ounce (Packaging may vary)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005P0SNS6": {
+            "asin": "B005P0SNS6",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Wellness Essentials Women 30 pkts",
+            "normalizedName": "Wellness Essentials Women 30 pkts",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B007HRVTCC": {
+            "asin": "B007HRVTCC",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "PQN Enterprises ECO504W Speaker",
+            "normalizedName": "PQN Enterprises ECO504W Speaker",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0471064114": {
+            "asin": "0471064114",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Developing Business Strategies",
+            "normalizedName": "Developing Business Strategies",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.28
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B000FGWDL8": {
+            "asin": "B000FGWDL8",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Thorne Research - L-Glutamine Powder - Glutamine Powder Supplement for GI and Immune Health - 18.1 oz (513 grams)",
+            "normalizedName": "Thorne Research - L-Glutamine Powder - Glutamine Powder Supplement for GI and Immune Health - 18.1 oz (513 grams)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

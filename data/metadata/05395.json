@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003QD6YSK": {
+            "asin": "B003QD6YSK",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Sable & Rosenfeld Tipsy Olives, Vermouth, 10.6 Ounce",
+            "normalizedName": "Sable & Rosenfeld Tipsy Olives, Vermouth, 10.6 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01DMTXT08": {
+            "asin": "B01DMTXT08",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Crabtree & Evelyn Conditioner, Pomegranate, 1.27 lb.",
+            "normalizedName": "Crabtree & Evelyn Conditioner, Pomegranate, 1.27 lb.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

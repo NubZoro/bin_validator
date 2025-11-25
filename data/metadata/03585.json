@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0019N258M": {
+            "asin": "B0019N258M",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Mosquito Barrier 2001 Liquid Spray Repellent, 1-Quart",
+            "normalizedName": "Mosquito Barrier 2001 Liquid Spray Repellent, 1-Quart",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00CM26JAY": {
+            "asin": "B00CM26JAY",
+            "height": {
+                "unit": "IN",
+                "value": 0.049999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Christopher Bean Coffee Flavored Whole Bean Coffee, Jamaica Me Crazy, 12 Ounce",
+            "normalizedName": "Christopher Bean Coffee Flavored Whole Bean Coffee, Jamaica Me Crazy, 12 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

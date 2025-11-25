@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0793545811": {
+            "asin": "0793545811",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Weezer (The Blue Album) (Guitar Recorded Version)",
+            "normalizedName": "Weezer (The Blue Album) (Guitar Recorded Version)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00MB0CTBU": {
+            "asin": "B00MB0CTBU",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Bell Automotive 22-1-39000-8 Pistol Grip Tire Inflator",
+            "normalizedName": "Bell Automotive 22-1-39000-8 Pistol Grip Tire Inflator",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B0142FNW4E": {
+            "asin": "B0142FNW4E",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Smatree\u00ae SmaCase GS75- Professional Case for GoPro HERO4 Session and Accessories (6.8\" x2.7\" x5\") - with Excellent Cut Foam Interior",
+            "normalizedName": "Smatree\u00ae SmaCase GS75- Professional Case for GoPro HERO4 Session and Accessories (6.8\" x2.7\" x5\") - with Excellent Cut Foam Interior",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B01D42SPTS": {
+            "asin": "B01D42SPTS",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Beelike Sports Stereo Wireless Bluetooth 4.1 Headset Telephone Driving Sunglasses/mp3 Riding Eyes Glasses",
+            "normalizedName": "Beelike Sports Stereo Wireless Bluetooth 4.1 Headset Telephone Driving Sunglasses/mp3 Riding Eyes Glasses",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

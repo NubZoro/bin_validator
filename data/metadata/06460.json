@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003ZS2I5O": {
+            "asin": "B003ZS2I5O",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Mott's 100% Fruit Punch Juice, 4.23 fl oz boxes (Pack of 44)",
+            "normalizedName": "(Pack of 44) Mott's 100% Fruit Punch Juice, 4.23 fl oz boxes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 13.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B00MX8ZOVC": {
+            "asin": "B00MX8ZOVC",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Giro Savant Bike Helmet - Blue/Black Medium",
+            "normalizedName": "Giro Savant Bike Helmet - Blue/Black Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

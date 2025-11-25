@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003N1ZSYG": {
+            "asin": "B003N1ZSYG",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Samsung Da29-00020b Refrigerator Water Filter, 1-pack",
+            "normalizedName": "Samsung Da29-00020b Refrigerator Water Filter, 1-pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00OKRSMV8": {
+            "asin": "B00OKRSMV8",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Nylabone Holiday Dura Chew Dental Dino, T-Rex, Red and Green 2-Pack",
+            "normalizedName": "2-Pack Nylabone Holiday Dura Chew Dental Dino, T-Rex, Red and Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B016JQBQFG": {
+            "asin": "B016JQBQFG",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "LE L\u00dcXACE Diamond Jetsetter Pouch - Premium TSA Approved Toiletry Bag - Luxury Clear Cosmetic Case - Black",
+            "normalizedName": "LE L\u00dcXACE Diamond Jetsetter Pouch - Premium TSA Approved Toiletry Bag - Luxury Clear Cosmetic Case - Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

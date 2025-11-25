@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0205239390": {
+            "asin": "0205239390",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Physiology of Behavior (11th Edition)",
+            "normalizedName": "Physiology of Behavior (11th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00KB8V65E": {
+            "asin": "B00KB8V65E",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "C.R. Gibson Mother Goose Tab-Side Board Book by Jill McDonald Kids",
+            "normalizedName": "C.R. Gibson Mother Goose Tab-Side Board Book by Jill McDonald Kids",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

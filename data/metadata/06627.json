@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NH65P4U": {
+            "asin": "B00NH65P4U",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999999999998
+            },
+            "name": "Quiksilver Men's Manic 22 Inch Boardshort, Quick Red, 31",
+            "normalizedName": "Quiksilver Men's Manic 22 Inch Boardshort, Quick Red, 31",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NLFX7Q": {
+            "asin": "B000NLFX7Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "name": "Albolene Moisturizing Cleanser 6 Oz",
+            "normalizedName": "Albolene Moisturizing Cleanser 6 Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B019YG87RI": {
+            "asin": "B019YG87RI",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Kerrits Ice Fil Flex Tank Berry Horseshoe Size: Medium",
+            "normalizedName": "Kerrits Ice Fil Flex Tank Berry Horseshoe Size: Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B01C44H6JC": {
+            "asin": "B01C44H6JC",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "100 Pcs Ultra Bright 3mm LED Light Emitting Diode Lamp Round Head (Green 3)",
+            "normalizedName": "100 Pcs Ultra Bright 3mm LED Light Emitting Diode Lamp Round Head (Green 3)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

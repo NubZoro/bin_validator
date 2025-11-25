@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004H3XWCO": {
+            "asin": "B004H3XWCO",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "GE WR49X10173 Dispenser Water Tube Heater for Refrigerator",
+            "normalizedName": "GE WR49X10173 Dispenser Water Tube Heater for Refrigerator",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

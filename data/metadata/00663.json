@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000068ZVQ": {
+            "asin": "B000068ZVQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "The Very Best of Chicago: Only the Beginning",
+            "normalizedName": "The Very Best of Chicago: Only the Beginning",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17707528883839999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B002WB8X1S": {
+            "asin": "B002WB8X1S",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Numedica - Multimedica for Women 120 Vegetable Capsules",
+            "normalizedName": "Numedica - Multimedica for Women 120 Vegetable Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00D901B4W": {
+            "asin": "B00D901B4W",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Kenu Airframe | Car Mount for Smartphones (Non Phablets) | Black",
+            "normalizedName": "Kenu Airframe | Car Mount for Smartphones (Non Phablets) | Black",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01EXB8KA8": {
+            "asin": "B01EXB8KA8",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Business Card Holder By Apor - Oracle Grain Leather Business Card Case with Magnetic Shut To Keep Business Cards in Mint Condition - Gold",
+            "normalizedName": "Business Card Holder By Apor - Oracle Grain Leather Business Card Case with Magnetic Shut To Keep Business Cards in Mint Condition - Gold",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

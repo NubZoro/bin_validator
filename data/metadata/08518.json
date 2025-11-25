@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010RVULKA": {
+            "asin": "B010RVULKA",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Crayola Back to School Supplies Elementary Child Bundle Kit",
+            "normalizedName": "Crayola Back to School Supplies Elementary Child Bundle Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B0168K92NG": {
+            "asin": "B0168K92NG",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Scotts EZ Patch Lawn Repair for 17520 St. Augustine Lawns",
+            "normalizedName": "Scotts EZ Patch Lawn Repair for 17520 St. Augustine Lawns",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.29999999639406
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

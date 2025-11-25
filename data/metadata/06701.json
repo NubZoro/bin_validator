@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002LCW58": {
+            "asin": "B0002LCW58",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Smead TUFF Pocket File Pocket, 11-Inch x 10-Inch, REDROPE, 5 Per Box (73395)",
+            "normalizedName": "Smead TUFF Pocket File Pocket, 11-Inch x 10-Inch, REDROPE, 5 Per Box (73395)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00E6KGIBK": {
+            "asin": "B00E6KGIBK",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Shinhan Watercolors Artist Paint Tubes Set 30 Colors 7.5ml Each",
+            "normalizedName": "Shinhan Watercolors Artist Paint Tubes Set 30 Colors 7.5ml Each",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

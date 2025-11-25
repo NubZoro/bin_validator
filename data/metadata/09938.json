@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00015H0X4": {
+            "asin": "B00015H0X4",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Shure SM58-CN Cardioid Dynamic Vocal Microphone with Cable",
+            "normalizedName": "Shure SM58-CN Cardioid Dynamic Vocal Microphone with Cable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B003DGPWLK": {
+            "asin": "B003DGPWLK",
+            "height": {
+                "unit": "IN",
+                "value": 2.2047244072
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.3937007768
+            },
+            "name": "Travelon 3-Speed Folding Fan,White,One Size",
+            "normalizedName": "Travelon 3-Speed Folding Fan,White,One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601868139676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.7480314902
+            }
+        },
+        "B007O58268": {
+            "asin": "B007O58268",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "La Perruche Pure Cane Rough Cut Cubes, 1 lb.10.50z(750g)",
+            "normalizedName": "La Perruche Pure Cane Rough Cut Cubes, 1 lb.10.50z(750g)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

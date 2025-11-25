@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0285642898": {
+            "asin": "0285642898",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0787401472
+            },
+            "name": "Meet the Beatles: An Informal Date in Words & Personal Album Pictures",
+            "normalizedName": "Meet the Beatles: An Informal Date in Words & Personal Album Pictures",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054720379543957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.5590551104
+            }
+        },
+        "0553419935": {
+            "asin": "0553419935",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Approval Junkie: Adventures in Caring Too Much",
+            "normalizedName": "Approval Junkie: Adventures in Caring Too Much",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B008U7SLJW": {
+            "asin": "B008U7SLJW",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "KabelDirekt (50 feet) HDMI Cable (1080p 4K 3D High Speed with Ethernet ARC) - TOP Series",
+            "normalizedName": "KabelDirekt (50 feet) HDMI Cable (1080p 4K 3D High Speed with Ethernet ARC) - TOP Series",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

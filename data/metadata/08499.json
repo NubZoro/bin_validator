@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TG2IXNO": {
+            "asin": "B00TG2IXNO",
+            "height": {
+                "unit": "IN",
+                "value": 3.149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.5275590454
+            },
+            "name": "MeasuPro Arm Digital Blood Pressure Monitor with Heart Rate Detection, Hypertension Color Alert Display, Two User Modes, IHB Indicator, and Memory Recall",
+            "normalizedName": "MeasuPro Arm Digital Blood Pressure Monitor with Heart Rate Detection, Hypertension Color Alert Display, Two User Modes, IHB Indicator, and Memory Recall",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.455036078280941
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.4566929068
+            }
+        },
+        "B01EVB9356": {
+            "asin": "B01EVB9356",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "GALSHOT Energy Shot, Amino Acids, Ginseng, Vitamins, Taurine Caffeine, Sugar Free Pomegranate - Pack of 12",
+            "normalizedName": "Pack of 12 GALSHOT Energy Shot, Amino Acids, Ginseng, Vitamins, Taurine Caffeine, Sugar Free Pomegranate -",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

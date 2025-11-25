@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BR7JUG": {
+            "asin": "B000BR7JUG",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Stanley MR100CG Contractor Grade Riveter",
+            "normalizedName": "Stanley MR100CG Contractor Grade Riveter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B004BSQMD6": {
+            "asin": "B004BSQMD6",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Lokar ED-5008 Flexible Engine Dipstick",
+            "normalizedName": "Lokar ED-5008 Flexible Engine Dipstick",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B008BF2AAO": {
+            "asin": "B008BF2AAO",
+            "height": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Sunbeam Microplush Heated Blanket, Queen, Walnut, BSM9BQS-R470-16A00",
+            "normalizedName": "Sunbeam Microplush Heated Blanket, Queen, Walnut, BSM9BQS-R470-16A00",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.399999987352
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

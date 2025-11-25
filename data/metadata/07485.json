@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0028AD6WO": {
+            "asin": "B0028AD6WO",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Centrum Silver Multivitamin Supplement, Men 50+, 200 Count",
+            "normalizedName": "Centrum Silver Multivitamin Supplement, Men 50+, 200 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B00CZCAZSI": {
+            "asin": "B00CZCAZSI",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "AAA Grade Egg White Powder (Molecular Gastronomy) \u2298 Non-GMO \u2721 OU Kosher Certified - 400g/14oz",
+            "normalizedName": "AAA Grade Egg White Powder (Molecular Gastronomy) \u2298 Non-GMO \u2721 OU Kosher Certified - 400g/14oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00E37TQUQ": {
+            "asin": "B00E37TQUQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "EcoAqua EFF-6007A Replacement for Maytag UKF-8001, 2-Pack",
+            "normalizedName": "2-Pack EcoAqua EFF-6007A Replacement for Maytag UKF-8001,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

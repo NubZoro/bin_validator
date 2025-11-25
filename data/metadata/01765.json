@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C4G4I2Y": {
+            "asin": "B00C4G4I2Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "Rust-O-Less (Black, Large-Foam Sized)",
+            "normalizedName": "Rust-O-Less (Black, Large-Foam Sized)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00CYA8HMW": {
+            "asin": "B00CYA8HMW",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.749999996175
+            },
+            "name": "MRM Vegan Vitamin D3 5000IU Veg Capsules, 60 Count",
+            "normalizedName": "MRM Vegan Vitamin D3 5000IU Veg Capsules, 60 Count",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.01
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

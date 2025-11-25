@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001P3NU30": {
+            "asin": "B001P3NU30",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Virbac C.E.T. Enzymatic Oral Hygiene Chews, Large Dog, 30 Count",
+            "normalizedName": "Virbac C.E.T. Enzymatic Oral Hygiene Chews, Large Dog, 30 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B008132JES": {
+            "asin": "B008132JES",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Teenage Mutant Ninja Turtles Shellraiser",
+            "normalizedName": "Teenage Mutant Ninja Turtles Shellraiser",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

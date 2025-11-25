@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AHXY10U": {
+            "asin": "B00AHXY10U",
+            "height": {
+                "unit": "IN",
+                "value": 0.0787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.8740157298
+            },
+            "name": "WWE Intercontinental Championship Title Belt",
+            "normalizedName": "WWE Intercontinental Championship Title Belt",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054792384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.055118101
+            }
+        },
+        "B00EKW8UEM": {
+            "asin": "B00EKW8UEM",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "Brother DS-720D Mobile Duplex Color Page Scanner",
+            "normalizedName": "Brother DS-720D Mobile Duplex Color Page Scanner",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00J7BJJDM": {
+            "asin": "B00J7BJJDM",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "King Polar-Fleece Thermal Blanket Grey - Extra Soft Brush Fabric, Super Warm, Lightweight & Easy Care, Couch Blanket - By UTOPIA BEDDING",
+            "normalizedName": "King Polar-Fleece Thermal Blanket Grey - Extra Soft Brush Fabric, Super Warm, Lightweight & Easy Care, Couch Blanket - By UTOPIA BEDDING",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        },
+        "B00Y8GC5WI": {
+            "asin": "B00Y8GC5WI",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "LUXEHOME Home Decorative Foldable Storage Box Set , Natural Canvas, Set of 6",
+            "normalizedName": "Set of 6 LUXEHOME Home Decorative Foldable Storage Box Set , Natural Canvas,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.899999995052316
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.299999986434
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

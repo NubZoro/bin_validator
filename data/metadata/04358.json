@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007JOQB7Q": {
+            "asin": "B007JOQB7Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Rapiddominance Army Basic Military Tee, Black, Medium",
+            "normalizedName": "Rapiddominance Army Basic Military Tee, Black, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

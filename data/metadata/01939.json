@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0073386340": {
+            "asin": "0073386340",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Kontakte",
+            "normalizedName": "Kontakte",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "0073403466": {
+            "asin": "0073403466",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Concepts in Biology",
+            "normalizedName": "Concepts in Biology",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "1464135282": {
+            "asin": "1464135282",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Universe: The Solar System",
+            "normalizedName": "Universe: The Solar System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B006MHLYQO": {
+            "asin": "B006MHLYQO",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "TelyHD Skype Web Cam for TV (includes Web Browsing functionality)",
+            "normalizedName": "TelyHD Skype Web Cam for TV (includes Web Browsing functionality)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B00YTZ7P50": {
+            "asin": "B00YTZ7P50",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "InnoGear Studio Recording Condenser Microphone with Shock Mount Holder Clip for Radio Broadcasting Studio, Voice-Over Sound Studio, Home Recording, Gaming and Video Chat (Blue)",
+            "normalizedName": "InnoGear Studio Recording Condenser Microphone with Shock Mount Holder Clip for Radio Broadcasting Studio, Voice-Over Sound Studio, Home Recording, Gaming and Video Chat (Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

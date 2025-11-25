@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FW7VGE": {
+            "asin": "B000FW7VGE",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Permatex 80078 Anti-Seize Lubricant with Brush Top Bottle, 8 oz.",
+            "normalizedName": "Permatex 80078 Anti-Seize Lubricant with Brush Top Bottle, 8 oz.",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

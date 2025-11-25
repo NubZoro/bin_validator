@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0787972134": {
+            "asin": "0787972134",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Shaking Up the Schoolhouse: How to Support and Sustain Educational Innovation",
+            "normalizedName": "Shaking Up the Schoolhouse: How to Support and Sustain Educational Innovation",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B002BJGYV2": {
+            "asin": "B002BJGYV2",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.6377952678
+            },
+            "name": "Gilmore Girls: Season 5",
+            "normalizedName": "Gilmore Girls: Season 5",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5731960303572697
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6692913328
+            }
+        },
+        "B014LNTVGK": {
+            "asin": "B014LNTVGK",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.1811023508
+            },
+            "name": "Xenoblade Chronicles X Special Edition - Wii U",
+            "normalizedName": "Xenoblade Chronicles X Special Edition - Wii U",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.9527558974
+            }
+        },
+        "B01CUIAE32": {
+            "asin": "B01CUIAE32",
+            "height": {
+                "unit": "IN",
+                "value": 0.6
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.1
+            },
+            "name": "BlueCube Network - Flat CAT7 Ethernet Cable,600MHz Shielded SSTP Bare Copper Flat Ethernet Patch Cable, Internet Cable, Network Cable with Snagless RJ45 Connectors - 50 Feet Black++",
+            "normalizedName": "BlueCube Network - Flat CAT7 Ethernet Cable,600MHz Shielded SSTP Bare Copper Flat Ethernet Patch Cable, Internet Cable, Network Cable with Snagless RJ45 Connectors - 50 Feet Black++",
+            "quantity": 3,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 7.1
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

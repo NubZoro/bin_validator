@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000RZNP5K": {
+            "asin": "B000RZNP5K",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Blue Sea Systems 120A Add-A-Battery Kit",
+            "normalizedName": "Blue Sea Systems 120A Add-A-Battery Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B00BN1SQL0": {
+            "asin": "B00BN1SQL0",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Bella Cupcake Couture Paper Straw, Soft Pink/White Stripes Pack of 24",
+            "normalizedName": "Pack of 24 Bella Cupcake Couture Paper Straw, Soft Pink/White Stripes",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01AVE8AAG": {
+            "asin": "B01AVE8AAG",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Philips Sonicare HX8332/11 Airfloss Ultra",
+            "normalizedName": "Philips Sonicare HX8332/11 Airfloss Ultra",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

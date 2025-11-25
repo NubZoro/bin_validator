@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A9NDN16": {
+            "asin": "B00A9NDN16",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "JW Winco Phenolic Plastic Six Lobed Knob with Tapped Insert, Threaded Hole, M6 x 1.0 Thread Size x 13mm Thread Depth, 40mm Head Diameter (Pack of 1)",
+            "normalizedName": "(Pack of 1) JW Winco Phenolic Plastic Six Lobed Knob with Tapped Insert, Threaded Hole, M6 x 1.0 Thread Size x 13mm Thread Depth, 40mm Head Diameter",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B00HZRFBHI": {
+            "asin": "B00HZRFBHI",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "HLC.ME Matte Sheer Window Treatment Curtain Panels - Pair - 84\" inch Long (Beige)",
+            "normalizedName": "HLC.ME Matte Sheer Window Treatment Curtain Panels - Pair - 84\" inch Long (Beige)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

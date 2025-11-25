@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000DDVQR": {
+            "asin": "B0000DDVQR",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "TCP Tablecraft 6 Piece Assorted Sandwich & Fry Basket Set, 9\", Red & Yellow",
+            "normalizedName": "TCP Tablecraft 6 Piece Assorted Sandwich & Fry Basket Set, 9\", Red & Yellow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B004PS22CC": {
+            "asin": "B004PS22CC",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "3dRose LLC 8 x 8 x 0.25 Inches Mouse Pad, The Witchs Cat Sits Near a Cozy Fireplace Entertaining Her Batty Friend on Halloween Night (mp_11692_1)",
+            "normalizedName": "3dRose LLC 8 x 8 x 0.25 Inches Mouse Pad, The Witchs Cat Sits Near a Cozy Fireplace Entertaining Her Batty Friend on Halloween Night (mp_11692_1)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

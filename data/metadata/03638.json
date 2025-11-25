@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AJD23Y4": {
+            "asin": "B00AJD23Y4",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "name": "XLEAR Spry Mints, Cinnamon, 240 Count",
+            "normalizedName": "XLEAR Spry Mints, Cinnamon, 240 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00EYW9DSU": {
+            "asin": "B00EYW9DSU",
+            "height": {
+                "unit": "IN",
+                "value": 0.0899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7999999930640005
+            },
+            "name": "OMOTON\u00ae Kindle Paperwhite Case Cover -- The Thinnest and Lightest PU Leather Smart Cover for All-New Kindle Paperwhite (Fits All versions: 2012, 2013, 2014 and 2015 All-new 300 PPI Versions), Black",
+            "normalizedName": "OMOTON\u00ae Kindle Paperwhite Case Cover -- The Thinnest and Lightest PU Leather Smart Cover for All-New Kindle Paperwhite (Fits All versions: 2012, 2013, 2014 and 2015 All-new 300 PPI Versions), Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995205999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

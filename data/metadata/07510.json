@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0071E21ZU": {
+            "asin": "B0071E21ZU",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Miracle-Gro Indoor Plant Food Foam, 8-Ounce (Plant Fertilizer)",
+            "normalizedName": "Miracle-Gro Indoor Plant Food Foam, 8-Ounce (Plant Fertilizer)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

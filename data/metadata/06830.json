@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001M1YPUC": {
+            "asin": "B001M1YPUC",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Americolor Airbrush Cake Decorating color, 4.5-Ounce, Amerimist Bright White",
+            "normalizedName": "Americolor Airbrush Cake Decorating color, 4.5-Ounce, Amerimist Bright White",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B00TKFCYP0": {
+            "asin": "B00TKFCYP0",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "SanDisk Cruzer CZ36 128GB USB 2.0 Flash Drive- SDCZ36-128G-B35",
+            "normalizedName": "SanDisk Cruzer CZ36 128GB USB 2.0 Flash Drive- SDCZ36-128G-B35",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001EPPBGI": {
+            "asin": "B001EPPBGI",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "De Cecco Pasta, Thin Spaghetti, 16 Ounce (Pack of 5)",
+            "normalizedName": "(Pack of 5) De Cecco Pasta, Thin Spaghetti, 16 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B01589HZOQ": {
+            "asin": "B01589HZOQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.81102361
+            },
+            "name": "MYLIFEUNIT Black and White Checks Waterproof Mosaic Shower Curtains, 72x72 Inch",
+            "normalizedName": "MYLIFEUNIT Black and White Checks Waterproof Mosaic Shower Curtains, 72x72 Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9259415004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.448818888
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

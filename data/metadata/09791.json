@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PWNHUIU": {
+            "asin": "B00PWNHUIU",
+            "height": {
+                "unit": "IN",
+                "value": 3.7999923961240074
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.499982991330018
+            },
+            "name": "Baby Food Containers By Little Sprout: Reusable Stackable Storage Cups with Tray and Dry-erase Marker (Set of 6 - 4oz) - BPA Free",
+            "normalizedName": "Set of 6 Baby Food Containers By Little Sprout: Reusable Stackable Storage Cups with Tray and Dry-erase Marker ( - 4oz) - BPA Free",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999590210571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.999989994900009
+            }
+        },
+        "B01D5EOH0Q": {
+            "asin": "B01D5EOH0Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Garmin Vivoactive HR Screen Protector, IQ Shield\u00ae LiQuidSkin (6-Pack) Full Coverage Screen Protector for Garmin Vivoactive HR HD Clear Anti-Bubble Film - with Lifetime Warranty",
+            "normalizedName": "(6-Pack) Garmin Vivoactive HR Screen Protector, IQ Shield\u00ae LiQuidSkin Full Coverage Screen Protector for Garmin Vivoactive HR HD Clear Anti-Bubble Film - with Lifetime Warranty",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

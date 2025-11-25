@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0053KIZW2": {
+            "asin": "B0053KIZW2",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Hanna K. Signature Collection Plastic Plate, 50 Plates, 9-Inch, Pink",
+            "normalizedName": "Hanna K. Signature Collection Plastic Plate, 50 Plates, 9-Inch, Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00MVYO6PI": {
+            "asin": "B00MVYO6PI",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Humminbird 409690-1 PiranhaMax 197C DI Color Fish Finder with Down-Imaging (Grey)",
+            "normalizedName": "Humminbird 409690-1 PiranhaMax 197C DI Color Fish Finder with Down-Imaging (Grey)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

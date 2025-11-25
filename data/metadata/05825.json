@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005I03JMI": {
+            "asin": "B005I03JMI",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "The Hillman Group 841626 4-Inch Black Die Cast Aluminum Number 5",
+            "normalizedName": "The Hillman Group 841626 4-Inch Black Die Cast Aluminum Number 5",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B010TS35ZY": {
+            "asin": "B010TS35ZY",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Pooch Smooch - Bad Breath Eliminator for Dogs - Made in the USA - Proprietary Enzyme Mix to Combat Bad Breath",
+            "normalizedName": "Pooch Smooch - Bad Breath Eliminator for Dogs - Made in the USA - Proprietary Enzyme Mix to Combat Bad Breath",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B0195EK510": {
+            "asin": "B0195EK510",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Eslite Toothbrush Holder with Cover (Ivory white)",
+            "normalizedName": "Eslite Toothbrush Holder with Cover (Ivory white)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

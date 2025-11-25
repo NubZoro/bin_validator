@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001BLRYMO": {
+            "asin": "B001BLRYMO",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Conair Compact Hairsetter, Blue",
+            "normalizedName": "Conair Compact Hairsetter, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B018KULG4U": {
+            "asin": "B018KULG4U",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "3 Maytag UKF8001 Pur Compatible Refrigerator Water Filters (SSF5120)",
+            "normalizedName": "3 Maytag UKF8001 Pur Compatible Refrigerator Water Filters (SSF5120)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

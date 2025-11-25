@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321929640": {
+            "asin": "0321929640",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.9448818786
+            },
+            "name": "PhysioEx 9.0: Laboratory Simulations in Physiology with 9.1 Update",
+            "normalizedName": "PhysioEx 9.0: Laboratory Simulations in Physiology with 9.1 Update",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1023000593037433
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.267716527
+            }
+        },
+        "0446618829": {
+            "asin": "0446618829",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452
+            },
+            "name": "The Gate House",
+            "normalizedName": "The Gate House",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "0764339877": {
+            "asin": "0764339877",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Rupert's Tales: The Wheel of the Year - Samhain, Yule, Imbolc, and Ostara",
+            "normalizedName": "Rupert's Tales: The Wheel of the Year - Samhain, Yule, Imbolc, and Ostara",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "0764349848": {
+            "asin": "0764349848",
+            "height": {
+                "unit": "IN",
+                "value": 1.11023621934
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.12992125053
+            },
+            "name": "Meet Me in My Cape Cod Kitchen: Recipes for Seaside Living",
+            "normalizedName": "Meet Me in My Cape Cod Kitchen: Recipes for Seaside Living",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5800089393016
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.57086613503
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

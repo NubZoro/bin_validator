@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008HKL6L2": {
+            "asin": "B008HKL6L2",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "name": "SNIPER\u00ae Medium Profile Riser Mount with 3 slots, Hard Anodized, Black, Quality Aluminum, Picatinny",
+            "normalizedName": "SNIPER\u00ae Medium Profile Riser Mount with 3 slots, Hard Anodized, Black, Quality Aluminum, Picatinny",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.0
+            }
+        },
+        "B016GKJSSM": {
+            "asin": "B016GKJSSM",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Primeval Labs Super Cardarine Suppliment (180 Capsules)",
+            "normalizedName": "Primeval Labs Super Cardarine Suppliment (180 Capsules)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560420331426
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B017AGN1XO": {
+            "asin": "B017AGN1XO",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Fitbit Charge HR, Blue, Large",
+            "normalizedName": "Fitbit Charge HR, Blue, Large",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.019999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B019JZ2XP6": {
+            "asin": "B019JZ2XP6",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "iPhone 6S Case, New Rhidon [Extra Slim Fit] Soft feel Hybrid Rubberized Protective Hard Case for iPhone 6 (4.7\") (Soft feel Rose Gold)",
+            "normalizedName": "iPhone 6S Case, New Rhidon [Extra Slim Fit] Soft feel Hybrid Rubberized Protective Hard Case for iPhone 6 (4.7\") (Soft feel Rose Gold)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

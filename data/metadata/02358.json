@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000N1ZB6Y": {
+            "asin": "B000N1ZB6Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Now Foods Certified Organic Walnuts, Raw Halves and Pieces (Unsalted), 12-Ounce Bag",
+            "normalizedName": "Now Foods Certified Organic Walnuts, Raw Halves and Pieces (Unsalted), 12-Ounce Bag",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

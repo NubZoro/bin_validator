@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0168895GC": {
+            "asin": "B0168895GC",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Bell + Howell Ultrasonic Pest Repeller with AC Outlet and Night Light (Pack of 3)",
+            "normalizedName": "(Pack of 3) Bell + Howell Ultrasonic Pest Repeller with AC Outlet and Night Light",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B01CN8SOOA": {
+            "asin": "B01CN8SOOA",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Kottle 19oz Cute Pumpkin Cap Portable Glass Bottle, Tea and Fruit Infuser Bottle, Tea Tumbler with Loose Leaf Tea Strainer (Green)",
+            "normalizedName": "Kottle 19oz Cute Pumpkin Cap Portable Glass Bottle, Tea and Fruit Infuser Bottle, Tea Tumbler with Loose Leaf Tea Strainer (Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

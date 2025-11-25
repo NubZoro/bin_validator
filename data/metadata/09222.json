@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0325003084": {
+            "asin": "0325003084",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Teaching for Comprehending and Fluency: Thinking, Talking, and Writing About Reading, K-8",
+            "normalizedName": "Teaching for Comprehending and Fluency: Thinking, Talking, and Writing About Reading, K-8",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B000143C0K": {
+            "asin": "B000143C0K",
+            "height": {
+                "unit": "IN",
+                "value": 2.799999997144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Andis T-Outliner Trimmer with T-Blade, Gray (04710)",
+            "normalizedName": "Andis T-Outliner Trimmer with T-Blade, Gray (04710)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

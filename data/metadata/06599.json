@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B019D9HESO": {
+            "asin": "B019D9HESO",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "RTIC 30 oz. Tumbler",
+            "normalizedName": "RTIC 30 oz. Tumbler",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1399999990440066
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01DC4NN8G": {
+            "asin": "B01DC4NN8G",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Daixers Sports Water Bottle With Leak Proof Flip Top Lid 500ml (Blue)",
+            "normalizedName": "Daixers Sports Water Bottle With Leak Proof Flip Top Lid 500ml (Blue)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22999999980712413
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

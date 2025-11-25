@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CXKY8G2": {
+            "asin": "B00CXKY8G2",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": null,
+            "normalizedName": null,
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01AF57RLY": {
+            "asin": "B01AF57RLY",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Noshkinz Eco-friendly Stainless Steel 3 Compartment Bento Box with Japanese Knot Style Lunch Bag (Slate/Ticking, Other)",
+            "normalizedName": "Noshkinz Eco-friendly Stainless Steel 3 Compartment Bento Box with Japanese Knot Style Lunch Bag (Slate/Ticking, Other)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

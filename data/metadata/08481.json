@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I8T4OLG": {
+            "asin": "B00I8T4OLG",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "AmazonBasics 8-Inch Tablet Sleeve",
+            "normalizedName": "AmazonBasics 8-Inch Tablet Sleeve",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B01CKAL740": {
+            "asin": "B01CKAL740",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Red Ceramic Retro Fireplace Tealight Holder",
+            "normalizedName": "Red Ceramic Retro Fireplace Tealight Holder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.739999998540852
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MWWC0V6": {
+            "asin": "B00MWWC0V6",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9
+            },
+            "name": "Uncharted Ultra-Lite Packing Cube Medium, Cherry, One Size",
+            "normalizedName": "Uncharted Ultra-Lite Packing Cube Medium, Cherry, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        },
+        "B00RF17FZ0": {
+            "asin": "B00RF17FZ0",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "MyProSupports Arm Compression Sleeve (Black, Medium)",
+            "normalizedName": "MyProSupports Arm Compression Sleeve (Black, Medium)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B011DOSRM4": {
+            "asin": "B011DOSRM4",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "KinStore 3.5mm Car Wireless FM Transmitter For iPhone iPod Samsung Moto Nokia Dopot Mobiles with 3.5mm Jack MP3 PC Black",
+            "normalizedName": "KinStore 3.5mm Car Wireless FM Transmitter For iPhone iPod Samsung Moto Nokia Dopot Mobiles with 3.5mm Jack MP3 PC Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009ITJT92": {
+            "asin": "B009ITJT92",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Maverick Redi-Chek BBQ Thermometer Set - Maverick ET732 Special Edition Black",
+            "normalizedName": "Maverick Redi-Chek BBQ Thermometer Set - Maverick ET732 Special Edition Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

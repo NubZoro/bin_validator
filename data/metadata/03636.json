@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001JL4LZ4": {
+            "asin": "B001JL4LZ4",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Air-O-Swiss AOS 7146 Travel Ultrasonic Humidifier - Cool Mist",
+            "normalizedName": "Air-O-Swiss AOS 7146 Travel Ultrasonic Humidifier - Cool Mist",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B01CUUAKUM": {
+            "asin": "B01CUUAKUM",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Senkada Tea Ceylon Pearl Oolong 50g",
+            "normalizedName": "Senkada Tea Ceylon Pearl Oolong 50g",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.30999999974003695
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01GM14E6G": {
+            "asin": "B01GM14E6G",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Artist Grade Watercolor Pencils, Set of 48 Vibrant Colors | Recycled Wood Casings & Soft Cores In Sturdy Triangular Tin with Bonus Brush | Ideal for Adult Coloring Books from Innovating by Design",
+            "normalizedName": "Set of 48 Artist Grade Watercolor Pencils, Vibrant Colors | Recycled Wood Casings & Soft Cores In Sturdy Triangular Tin with Bonus Brush | Ideal for Adult Coloring Books from Innovating by Design",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

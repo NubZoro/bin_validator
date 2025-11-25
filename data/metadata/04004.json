@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I2F3EBM": {
+            "asin": "B00I2F3EBM",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Cetaphil Gentle Skin Cleanser, For all skin types, 16 Ounce Bottles (Pack of 3)",
+            "normalizedName": "(Pack of 3) Cetaphil Gentle Skin Cleanser, For all skin types, 16 Ounce Bottles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B019RV3IK6": {
+            "asin": "B019RV3IK6",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Sywon 6-in-1 Soldering Iron Kit with Carrying Case, Including 60w Temperature Adjustable Soldering Iron, Solder Wire, Solder Sucker, Solder Stand and Soldering Tips",
+            "normalizedName": "Sywon 6-in-1 Soldering Iron Kit with Carrying Case, Including 60w Temperature Adjustable Soldering Iron, Solder Wire, Solder Sucker, Solder Stand and Soldering Tips",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

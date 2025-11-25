@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000O8OTNC": {
+            "asin": "B000O8OTNC",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0078740086
+            },
+            "name": "Smith's PP1 Pocket Pal Multifunction Sharpener",
+            "normalizedName": "Smith's PP1 Pocket Pal Multifunction Sharpener",
+            "quantity": 14,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0157480274
+            }
+        },
+        "B00EPPQ30M": {
+            "asin": "B00EPPQ30M",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Hardinge TF25 1/4\" Extended Nose Emergency Collet",
+            "normalizedName": "Hardinge TF25 1/4\" Extended Nose Emergency Collet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B013FMRJNK": {
+            "asin": "B013FMRJNK",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Apple Watch Band Link Kit, MoKo [6-Pack] Band Link Bracelet Kit for 42mm Apple Watch Noble Stainless Steel Replacement Smart Watch Band, BLACK",
+            "normalizedName": "6-Pack Apple Watch Band Link Kit, MoKo [ ] Band Link Bracelet Kit for 42mm Apple Watch Noble Stainless Steel Replacement Smart Watch Band, BLACK",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.599999998368
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 16
+}

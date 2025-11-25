@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005GJ4G50": {
+            "asin": "B005GJ4G50",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Schwarzkopf BC Bonacure Q10 Time Restore Conditioner for Mature and Fragile Hair 200ml/6.8oz",
+            "normalizedName": "Schwarzkopf BC Bonacure Q10 Time Restore Conditioner for Mature and Fragile Hair 200ml/6.8oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B008GY6WM2": {
+            "asin": "B008GY6WM2",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.3
+            },
+            "name": "Torchstar KBDM-1224V9A-RGB3CN PWM RGB LED Dimmer Controller with 3 Channel Output for Multi-Color and Single Color Strip Lights, DC, 12V-24V, 9 Amp",
+            "normalizedName": "Torchstar KBDM-1224V9A-RGB3CN PWM RGB LED Dimmer Controller with 3 Channel Output for Multi-Color and Single Color Strip Lights, DC, 12V-24V, 9 Amp",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.4
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

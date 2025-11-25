@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009JXHTNU": {
+            "asin": "B009JXHTNU",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Cerwin Vega XD3 Powered Desktop Speakers",
+            "normalizedName": "Cerwin Vega XD3 Powered Desktop Speakers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.999999990775503
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        },
+        "B00BFREXSW": {
+            "asin": "B00BFREXSW",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Northpoint Newport Oversized Double Jacquard Plush Velour Beach Towel, 40 by 70-Inch, Sailing Checkerboard",
+            "normalizedName": "Northpoint Newport Oversized Double Jacquard Plush Velour Beach Towel, 40 by 70-Inch, Sailing Checkerboard",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00OPS4X56": {
+            "asin": "B00OPS4X56",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.399999982252
+            },
+            "name": "kayond\u00aenew Bohemian Style Canvas Fabric 17-17.3 Inch laptop Sleeve Case Bag Cover for Notebook Computer / Apple MacBook / MacBook Pro (17 inch)",
+            "normalizedName": "kayond\u00aenew Bohemian Style Canvas Fabric 17-17.3 Inch laptop Sleeve Case Bag Cover for Notebook Computer / Apple MacBook / MacBook Pro (17 inch)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003TFE7VG": {
+            "asin": "B003TFE7VG",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Legacy A72458C ColorConnex  Automotive 14 piece Coupler and Plug Kit Blue Type C",
+            "normalizedName": "Legacy A72458C ColorConnex  Automotive 14 piece Coupler and Plug Kit Blue Type C",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994288
+            }
+        },
+        "B005OJ4X1O": {
+            "asin": "B005OJ4X1O",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Lavazza Gran Aroma Bar Coffee Beans, 2.2-Pound",
+            "normalizedName": "Lavazza Gran Aroma Bar Coffee Beans, 2.2-Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

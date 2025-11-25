@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KQ2GJE8": {
+            "asin": "B00KQ2GJE8",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "Fresh Black Tea Instant Perfecting Mask Travel Size (.67oz/20ml)",
+            "normalizedName": "Fresh Black Tea Instant Perfecting Mask Travel Size (.67oz/20ml)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B01CKGQ3TS": {
+            "asin": "B01CKGQ3TS",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Traffic Jam Birthday Lunch Napkins (32 Count) & Dessert Napkins (32 Count)",
+            "normalizedName": "Traffic Jam Birthday Lunch Napkins (32 Count) & Dessert Napkins (32 Count)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

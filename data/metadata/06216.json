@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009M0S4Z2": {
+            "asin": "B009M0S4Z2",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Aries 3142-01 Gray Universal Bucket Seat Cover",
+            "normalizedName": "Aries 3142-01 Gray Universal Bucket Seat Cover",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.984140106746738
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        },
+        "B011FVZKTI": {
+            "asin": "B011FVZKTI",
+            "height": {
+                "unit": "IN",
+                "value": 2.75
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.5
+            },
+            "name": "Kenox Oversized Canvas Travel Tote Luggage Weekend Duffel Bag (Coffee)",
+            "normalizedName": "Kenox Oversized Canvas Travel Tote Luggage Weekend Duffel Bag (Coffee)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.399975500470885
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

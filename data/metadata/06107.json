@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0394896742": {
+            "asin": "0394896742",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024
+            },
+            "name": "The Trojan Horse: How the Greeks Won the War (Step into Reading)",
+            "normalizedName": "The Trojan Horse: How the Greeks Won the War (Step into Reading)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00K1LRDXK": {
+            "asin": "B00K1LRDXK",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "3-pack OnePurify MWF Water Filter Replacement Cartridge for Kenmore, GE, Aqua Fresh, Swift Green, Water Sentinel, Brita, Hotpoint",
+            "normalizedName": "3-pack OnePurify MWF Water Filter Replacement Cartridge for Kenmore, GE, Aqua Fresh, Swift Green, Water Sentinel, Brita, Hotpoint",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B016LG5LOQ": {
+            "asin": "B016LG5LOQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.599999984088
+            },
+            "name": "Shopkins Season 3 Super Shopper Pack, Includes 4 Exclusive Shopkins Hidden Inside - Characters May Vary (33 Pieces)",
+            "normalizedName": "Shopkins Season 3 Super Shopper Pack, Includes 4 Exclusive Shopkins Hidden Inside - Characters May Vary (33 Pieces)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

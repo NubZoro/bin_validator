@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01CJ9716U": {
+            "asin": "B01CJ9716U",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Battery Clip on Fan Rechargeable Desk Fan Quietness 5\" (Pink)",
+            "normalizedName": "Battery Clip on Fan Rechargeable Desk Fan Quietness 5\" (Pink)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

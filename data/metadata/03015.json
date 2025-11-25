@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002EL3YME": {
+            "asin": "B002EL3YME",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Hayward SP1068 Triangular 3-Brush Pool Vacuum Head, 1-1/4-Inch and 1-1/2-Inch Swivel Hose Connections Included for All Pools",
+            "normalizedName": "Hayward SP1068 Triangular 3-Brush Pool Vacuum Head, 1-1/4-Inch and 1-1/2-Inch Swivel Hose Connections Included for All Pools",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

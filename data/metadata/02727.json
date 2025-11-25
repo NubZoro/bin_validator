@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001XGQTA": {
+            "asin": "B0001XGQTA",
+            "height": {
+                "unit": "IN",
+                "value": 2.2834645646
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Belkin 25 feet PureAV Subwoofer Audio Cable",
+            "normalizedName": "Belkin 25 feet PureAV Subwoofer Audio Cable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8818400467034918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.5354330642
+            }
+        },
+        "B019ZPL7A2": {
+            "asin": "B019ZPL7A2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Herb Scissors,Multipurpose Culinary Shear with 5 Blades and Attached Cleaning Comb",
+            "normalizedName": "Herb Scissors,Multipurpose Culinary Shear with 5 Blades and Attached Cleaning Comb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

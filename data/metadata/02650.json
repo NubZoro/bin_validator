@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01DTEXPWS": {
+            "asin": "B01DTEXPWS",
+            "height": {
+                "unit": "IN",
+                "value": 5.9842519624
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.4881889616
+            },
+            "name": "FH Group PU160BROWNBLACK115 Brown/Black PU Textured High Back Leather Seat Cover (Airbag Compatible and Split Bench)",
+            "normalizedName": "FH Group PU160BROWNBLACK115 Brown/Black PU Textured High Back Leather Seat Cover (Airbag Compatible and Split Bench)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.966536374799658
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.2598425082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

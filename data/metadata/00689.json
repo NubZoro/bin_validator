@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0041WYRV6": {
+            "asin": "B0041WYRV6",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "POTTER ELECTRIC SIGNAL SSX52SR 15w Siren/Strobe - Red",
+            "normalizedName": "POTTER ELECTRIC SIGNAL SSX52SR 15w Siren/Strobe - Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00Q6E6OH2": {
+            "asin": "B00Q6E6OH2",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Bellzi\u00ae Cute Blue Narwhal Stuffed Animal Plush Toy - Narrzi",
+            "normalizedName": "Bellzi\u00ae Cute Blue Narwhal Stuffed Animal Plush Toy - Narrzi",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.28
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B01FPB7BFK": {
+            "asin": "B01FPB7BFK",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Kulcar 3 Solar Car Ventilator (Red)",
+            "normalizedName": "Kulcar 3 Solar Car Ventilator (Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999976519456
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

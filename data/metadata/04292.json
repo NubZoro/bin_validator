@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0521269296": {
+            "asin": "0521269296",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8976377862
+            },
+            "name": "Applied Differential Geometry",
+            "normalizedName": "Applied Differential Geometry",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.63
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "0521530202": {
+            "asin": "0521530202",
+            "height": {
+                "unit": "IN",
+                "value": 0.90157480223
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.20078739219
+            },
+            "name": "Fundamentals of Critical Argumentation (Critical Reasoning and Argumentation)",
+            "normalizedName": "Fundamentals of Critical Argumentation (Critical Reasoning and Argumentation)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5500260716696
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "0801473926": {
+            "asin": "0801473926",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Telling Stories: The Use of Personal Narratives in the Social Sciences and History",
+            "normalizedName": "Telling Stories: The Use of Personal Narratives in the Social Sciences and History",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186
+            }
+        },
+        "0964963868": {
+            "asin": "0964963868",
+            "height": {
+                "unit": "IN",
+                "value": 0.90157480223
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.29921258996
+            },
+            "name": "Making Digital Negatives for Contact Printing (Book & Disk)",
+            "normalizedName": "Making Digital Negatives for Contact Printing (Book & Disk)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8500311177992
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "1250078903": {
+            "asin": "1250078903",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "The Graveyard of the Hesperides: A Flavia Albia Novel (Flavia Albia Series)",
+            "normalizedName": "The Graveyard of the Hesperides: A Flavia Albia Novel (Flavia Albia Series)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

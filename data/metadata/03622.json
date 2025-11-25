@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00838ISL4": {
+            "asin": "B00838ISL4",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "EZ-FLO 35134 Flanged Sink Tailpiece",
+            "normalizedName": "EZ-FLO 35134 Flanged Sink Tailpiece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B01A4A094C": {
+            "asin": "B01A4A094C",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Rechargeable Touch Light, RTSU&reg; DIY Stick Anywhere Led Night Light Touch Lamp Tap Light (Touch Sensor Switch, Stepless Dimmer, Last Setting Memory, Built-in Battery Powered, Warm White Light)",
+            "normalizedName": "Rechargeable Touch Light, RTSU&reg; DIY Stick Anywhere Led Night Light Touch Lamp Tap Light (Touch Sensor Switch, Stepless Dimmer, Last Setting Memory, Built-in Battery Powered, Warm White Light)",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

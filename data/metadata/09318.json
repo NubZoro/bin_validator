@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0040003BC": {
+            "asin": "B0040003BC",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "3\" x 5\" 4 Mil (Heavy Duty) Plymor Brand Zipper Reclosable Storage Bags, Case of 1000",
+            "normalizedName": "Case of 1000 3\" x 5\" 4 Mil (Heavy Duty) Plymor Brand Zipper Reclosable Storage Bags,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00NZATP8K": {
+            "asin": "B00NZATP8K",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Hoosier Hill Farm premium Candy Corn, 2.5 lbs",
+            "normalizedName": "Hoosier Hill Farm premium Candy Corn, 2.5 lbs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01DFGAPG4": {
+            "asin": "B01DFGAPG4",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Classic Bonded Filter Roll - 12\" by 72\" by .75\" - Perfect Replacement for Marineland Bonded Filter Pads Aquarium Prefilter Media - Made In USA",
+            "normalizedName": "Classic Bonded Filter Roll - 12\" by 72\" by .75\" - Perfect Replacement for Marineland Bonded Filter Pads Aquarium Prefilter Media - Made In USA",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1599999998658255
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

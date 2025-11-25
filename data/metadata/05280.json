@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HFW1E6K": {
+            "asin": "B00HFW1E6K",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Olympus WS-821 Voice Recorders with 2 GB Built-In-Memory",
+            "normalizedName": "Olympus WS-821 Voice Recorders with 2 GB Built-In-Memory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00XVRW3Z4": {
+            "asin": "B00XVRW3Z4",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Velveeta Kraft Shells and Cheese, Original, 12 Ounce, 3 count",
+            "normalizedName": "Velveeta Kraft Shells and Cheese, Original, 12 Ounce, 3 count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.299999998071242
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

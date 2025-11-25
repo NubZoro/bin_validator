@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000DZHG1S": {
+            "asin": "B000DZHG1S",
+            "height": {
+                "unit": "IN",
+                "value": 8.249999991585002
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Waterford Lismore 8\" Bowl",
+            "normalizedName": "Waterford Lismore 8\" Bowl",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.749999986995
+            }
+        },
+        "B00P9RH52U": {
+            "asin": "B00P9RH52U",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "LB1 High Performance New Super Cooling Fan for Dell Alienware 18 18.4\" Laptop Computer Silver 2-Fan Cooling System Cooling Pad with 6-Level Adjustable Screen Height",
+            "normalizedName": "LB1 High Performance New Super Cooling Fan for Dell Alienware 18 18.4\" Laptop Computer Silver 2-Fan Cooling System Cooling Pad with 6-Level Adjustable Screen Height",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.599999986128
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

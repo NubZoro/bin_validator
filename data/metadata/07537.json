@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000SSDV9Q": {
+            "asin": "B000SSDV9Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "The Learning Journey Puzzle Doubles Search and Learn Sea Floor Puzzle",
+            "normalizedName": "The Learning Journey Puzzle Doubles Search and Learn Sea Floor Puzzle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B001U1UREW": {
+            "asin": "B001U1UREW",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Claudio Monteverdi: Vesperae Mariae Virginis / Missa In Illo Tempore",
+            "normalizedName": "Claudio Monteverdi: Vesperae Mariae Virginis / Missa In Illo Tempore",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B00M5AUQWA": {
+            "asin": "B00M5AUQWA",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "AmiGami Unicorn Figure and Crimper Tool",
+            "normalizedName": "AmiGami Unicorn Figure and Crimper Tool",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

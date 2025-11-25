@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0071372334": {
+            "asin": "0071372334",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "The Six Sigma Handbook",
+            "normalizedName": "The Six Sigma Handbook",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B0011WMIM4": {
+            "asin": "B0011WMIM4",
+            "height": {
+                "unit": "IN",
+                "value": 0.59842519624
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Pro Evolution Soccer 2008 - Nintendo Wii",
+            "normalizedName": "Pro Evolution Soccer 2008 - Nintendo Wii",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.250004205108
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.40157479764
+            }
+        },
+        "B002BUIDO2": {
+            "asin": "B002BUIDO2",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Lego Indiana Jones 2: The Adventure Continues - Nintendo Wii",
+            "normalizedName": "Lego Indiana Jones 2: The Adventure Continues - Nintendo Wii",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B003VKLA8M": {
+            "asin": "B003VKLA8M",
+            "height": {
+                "unit": "IN",
+                "value": 0.59842519624
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Bakugan Battle Brawlers: Defenders of the Core - Nintendo Wii",
+            "normalizedName": "Bakugan Battle Brawlers: Defenders of the Core - Nintendo Wii",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.250004205108
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.40157479764
+            }
+        },
+        "B00VEAAANW": {
+            "asin": "B00VEAAANW",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Wilton Candy Cane Gift Boxes, 3-Pack",
+            "normalizedName": "3-Pack Wilton Candy Cane Gift Boxes,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

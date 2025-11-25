@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00070GZX4": {
+            "asin": "B00070GZX4",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Giordana Super Roubaix Leg Warmers Black, S",
+            "normalizedName": "Giordana Super Roubaix Leg Warmers Black, S",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00H1IPAUY": {
+            "asin": "B00H1IPAUY",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Dorman 911-205 EGR Valve",
+            "normalizedName": "Dorman 911-205 EGR Valve",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

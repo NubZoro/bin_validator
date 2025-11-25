@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0813348331": {
+            "asin": "0813348331",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "A History of the Modern Middle East, 5th Edition",
+            "normalizedName": "A History of the Modern Middle East, 5th Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582552
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "1501107836": {
+            "asin": "1501107836",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Dear Mr. You",
+            "normalizedName": "Dear Mr. You",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

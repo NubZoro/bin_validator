@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001S28WPO": {
+            "asin": "B001S28WPO",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Bic Roller Pen, Rubber Grip, 0.7mm, 5/Pack, Assorted Barrel/Ink (BICZ4FP51AST)",
+            "normalizedName": "Bic Roller Pen, Rubber Grip, 0.7mm, 5/Pack, Assorted Barrel/Ink (BICZ4FP51AST)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B007ZYF298": {
+            "asin": "B007ZYF298",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Pilot B2P - Bottle to Pen - Retractable Ball Point Pens Made from Recycled Bottles, 2 Pen Pack, Medium Point, Black (32805)",
+            "normalizedName": "Pilot B2P - Bottle to Pen - Retractable Ball Point Pens Made from Recycled Bottles, 2 Pen Pack, Medium Point, Black (32805)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            }
+        },
+        "B00DBLVXBK": {
+            "asin": "B00DBLVXBK",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "name": "Taste of Cyprus, Non-GMO, 1.7oz, Gourmet Seasoning",
+            "normalizedName": "Taste of Cyprus, Non-GMO, 1.7oz, Gourmet Seasoning",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

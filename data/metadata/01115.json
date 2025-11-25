@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EXQ4AS": {
+            "asin": "B000EXQ4AS",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "NuGo Smarte Carb Bar, Sugar free Peanut Butter Crunch, 1.76-Ounce Bars (Pack of 12)",
+            "normalizedName": "(Pack of 12) NuGo Smarte Carb Bar, Sugar free Peanut Butter Crunch, 1.76-Ounce Bars",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00UYDFE86": {
+            "asin": "B00UYDFE86",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "COMMSCOPE MPS100E-003 CAT 5E BLACK POWERSUM INFORMATION OUTLET",
+            "normalizedName": "COMMSCOPE MPS100E-003 CAT 5E BLACK POWERSUM INFORMATION OUTLET",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01DFT2I2A": {
+            "asin": "B01DFT2I2A",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "name": "QALO- Mens Pink Quality- (13)",
+            "normalizedName": "QALO- Mens Pink Quality- (13)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

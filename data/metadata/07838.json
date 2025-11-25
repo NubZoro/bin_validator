@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1133188540": {
+            "asin": "1133188540",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Basic Marketing Research (with Qualtrics Printed Access Card) (TEST series page)",
+            "normalizedName": "Basic Marketing Research (with Qualtrics Printed Access Card) (TEST series page)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00UGYJOZ2": {
+            "asin": "B00UGYJOZ2",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Evan Williams Glencairn Nosing Snifter Glass",
+            "normalizedName": "Evan Williams Glencairn Nosing Snifter Glass",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

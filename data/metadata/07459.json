@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00132SP0Q": {
+            "asin": "B00132SP0Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.9370078598
+            },
+            "name": "Ulster Weavers Cats in Waiting Shoulder PVC Bag",
+            "normalizedName": "Ulster Weavers Cats in Waiting Shoulder PVC Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.62
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.6141732216
+            }
+        },
+        "B00R804I0I": {
+            "asin": "B00R804I0I",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Vizari Napa Soccer Shorts, Black, Adult X-Large",
+            "normalizedName": "Vizari Napa Soccer Shorts, Black, Adult X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B016WHWUXY": {
+            "asin": "B016WHWUXY",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "INSEN High Accuracy Digital Body Weight Bathroom Scale with Tempered Glass Surface, Purple",
+            "normalizedName": "INSEN High Accuracy Digital Body Weight Bathroom Scale with Tempered Glass Surface, Purple",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

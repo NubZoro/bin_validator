@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HUV1ZME": {
+            "asin": "B00HUV1ZME",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Right Angle Charge & Sync Lightning Cable (1-meter/3-foot)",
+            "normalizedName": "Right Angle Charge & Sync Lightning Cable (1-meter/3-foot)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B01C2YG5H8": {
+            "asin": "B01C2YG5H8",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.7086614115
+            },
+            "name": "Quick change Guitar Capo (Blue) - Single handed use",
+            "normalizedName": "Quick change Guitar Capo (Blue) - Single handed use",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1873929227
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1338582635
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

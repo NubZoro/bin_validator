@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015PXX7AG": {
+            "asin": "B015PXX7AG",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "MFLABEL 200 Half Sheet Laser/Ink Jet Shipping Labels USPS Mailing Labels",
+            "normalizedName": "MFLABEL 200 Half Sheet Laser/Ink Jet Shipping Labels USPS Mailing Labels",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

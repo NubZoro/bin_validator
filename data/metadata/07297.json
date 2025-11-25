@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001CDLF58": {
+            "asin": "B001CDLF58",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Brewster WPB93860 Wall Pops Geo Blox Removable Wall Art",
+            "normalizedName": "Brewster WPB93860 Wall Pops Geo Blox Removable Wall Art",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.199999986536
+            }
+        },
+        "B002SD9BLG": {
+            "asin": "B002SD9BLG",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Hello Kitty 3 Ring Loose Leaf Paper",
+            "normalizedName": "Hello Kitty 3 Ring Loose Leaf Paper",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B005JRGH0G": {
+            "asin": "B005JRGH0G",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Dial Antibacterial Deodorant Soap, White, 10 Count (Pack of 3)",
+            "normalizedName": "(Pack of 3) Dial Antibacterial Deodorant Soap, White, 10 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3999999965320002
+            }
+        },
+        "B011MIV3EU": {
+            "asin": "B011MIV3EU",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Playskool Heroes Marvel Super Hero Adventures Ultimate Super Hero Set",
+            "normalizedName": "Playskool Heroes Marvel Super Hero Adventures Ultimate Super Hero Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

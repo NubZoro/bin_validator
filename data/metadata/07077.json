@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0022ZAFOC": {
+            "asin": "B0022ZAFOC",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "E3 Spark Plugs E3.36 Power Sports Spark Plug with Diamond Fire Technology",
+            "normalizedName": "E3 Spark Plugs E3.36 Power Sports Spark Plug with Diamond Fire Technology",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B005Y8422A": {
+            "asin": "B005Y8422A",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "ZoN Dumbbell, 4-Pound (Sold Individually)",
+            "normalizedName": "ZoN Dumbbell, 4-Pound (Sold Individually)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B0086VIA0M": {
+            "asin": "B0086VIA0M",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Philips Sonicare Ultra Soft Sensitive Replacement Toothbrush Heads for Sonicare Electric Rechargeable Toothbrush, 3 Count,  Standard, HX6053/64",
+            "normalizedName": "Philips Sonicare Ultra Soft Sensitive Replacement Toothbrush Heads for Sonicare Electric Rechargeable Toothbrush, 3 Count,  Standard, HX6053/64",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 18
+}

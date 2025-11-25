@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000DZHEFG": {
+            "asin": "B000DZHEFG",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Danco 80550 Stem for Price Pfister, Faucet Cartridge",
+            "normalizedName": "Danco 80550 Stem for Price Pfister, Faucet Cartridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

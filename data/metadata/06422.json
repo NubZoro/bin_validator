@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1846432758": {
+            "asin": "1846432758",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Waiting for Baby",
+            "normalizedName": "Waiting for Baby",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B01DXSWS0A": {
+            "asin": "B01DXSWS0A",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Ohuhu 2 Bling License Plate Frame with 8 Crystal Rows, 2-Pack for Both Front and Back License",
+            "normalizedName": "2-Pack Ohuhu 2 Bling License Plate Frame with 8 Crystal Rows, for Both Front and Back License",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

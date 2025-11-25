@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0062209728": {
+            "asin": "0062209728",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.448818888
+            },
+            "name": "Girls & Sex: Navigating the Complicated New Landscape",
+            "normalizedName": "Girls & Sex: Navigating the Complicated New Landscape",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05820805604419
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.4566929068
+            }
+        },
+        "B00HATCZCK": {
+            "asin": "B00HATCZCK",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Bonk Breaker Energy Bar, Coconut Cashew, 2.2 Ounce, 12 Count",
+            "normalizedName": "Bonk Breaker Energy Bar, Coconut Cashew, 2.2 Ounce, 12 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

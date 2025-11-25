@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00F3IVOEA": {
+            "asin": "B00F3IVOEA",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Apple iPhone 5c Unlocked Cellphone, 32GB, White",
+            "normalizedName": "Apple iPhone 5c Unlocked Cellphone, 32GB, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00XZEV22S": {
+            "asin": "B00XZEV22S",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Stainless Steel Pineapple Easy Slicer and De-corer Kitchen Gadget",
+            "normalizedName": "Stainless Steel Pineapple Easy Slicer and De-corer Kitchen Gadget",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

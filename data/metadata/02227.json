@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011SWICEY": {
+            "asin": "B011SWICEY",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Extra Large Ultra Rugged 5.5-Inch Pouch Case Holster Nylon Velcro Flap Case with Steel Metal Belt Clip for iPhone 6 Plus + Carabiner Hook + Cleaning Cloth",
+            "normalizedName": "Extra Large Ultra Rugged 5.5-Inch Pouch Case Holster Nylon Velcro Flap Case with Steel Metal Belt Clip for iPhone 6 Plus + Carabiner Hook + Cleaning Cloth",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B015PF9MO4": {
+            "asin": "B015PF9MO4",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Fintie Folio Case for Fire 7 2015 - Slim Fit Premium Vegan Leather Standing Protective Cover Case for Amazon Fire 7 Tablet (will only fit Fire 7\" Display 5th Generation - 2015 release), Green",
+            "normalizedName": "Fintie Folio Case for Fire 7 2015 - Slim Fit Premium Vegan Leather Standing Protective Cover Case for Amazon Fire 7 Tablet (will only fit Fire 7\" Display 5th Generation - 2015 release), Green",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

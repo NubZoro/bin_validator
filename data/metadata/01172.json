@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005OSVRLE": {
+            "asin": "B005OSVRLE",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Indian Warrior Boy's Costume, Medium, One Color",
+            "normalizedName": "Indian Warrior Boy's Costume, Medium, One Color",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        },
+        "B018QAYM7C": {
+            "asin": "B018QAYM7C",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Samsung Galaxy Tab E 9.6\" 16 GB Wifi (Black)",
+            "normalizedName": "Samsung Galaxy Tab E 9.6\" 16 GB Wifi (Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B01FIFGKNW": {
+            "asin": "B01FIFGKNW",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.0
+            },
+            "name": "Zootopia Dinner plates (24 count) with Bonus Colorific Candles",
+            "normalizedName": "Zootopia Dinner plates (24 count) with Bonus Colorific Candles",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 9.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

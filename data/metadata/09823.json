@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008CLPPK4": {
+            "asin": "B008CLPPK4",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Auto Meter 4481 Ultra-Lite GPS Speedometer",
+            "normalizedName": "Auto Meter 4481 Ultra-Lite GPS Speedometer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

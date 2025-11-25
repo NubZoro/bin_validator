@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008G395IG": {
+            "asin": "B008G395IG",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "15\" Plush E.T. Extra Terrestrial Plush Doll Wearing Blue E.T. Embossed Hoodie",
+            "normalizedName": "15\" Plush E.T. Extra Terrestrial Plush Doll Wearing Blue E.T. Embossed Hoodie",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00D46ZDRW": {
+            "asin": "B00D46ZDRW",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Horze Basel Halter and Lead Set - Size:Full Color:Ombre Blue",
+            "normalizedName": "Horze Basel Halter and Lead Set - Size:Full Color:Ombre Blue",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

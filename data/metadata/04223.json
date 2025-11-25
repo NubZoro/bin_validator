@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0012UPCX2": {
+            "asin": "B0012UPCX2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Clear Eyes Maximum Strength Redness Relief, .5 Fluid Ounce",
+            "normalizedName": "Clear Eyes Maximum Strength Redness Relief, .5 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B004BNCPY6": {
+            "asin": "B004BNCPY6",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Jennifer's Mosaics White Powdered Grout (Sanded), 2-Pound",
+            "normalizedName": "Jennifer's Mosaics White Powdered Grout (Sanded), 2-Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01CTD31JC": {
+            "asin": "B01CTD31JC",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993777999
+            },
+            "name": "NUINKO 12 Pack Remanufactured Epson 252 Ink Cartridge for Epson WorkForce WF-3640 WF-3620 WF-7620 Printers (3 Black 3 Cyan 3 Magenta 3 Yellow)",
+            "normalizedName": "12 Pack NUINKO Remanufactured Epson 252 Ink Cartridge for Epson WorkForce WF-3640 WF-3620 WF-7620 Printers (3 Black 3 Cyan 3 Magenta 3 Yellow)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

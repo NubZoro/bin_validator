@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0143109618": {
+            "asin": "0143109618",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "WAVE: A Journey Through the Sea of Imagination for the Adventurous Colorist",
+            "normalizedName": "WAVE: A Journey Through the Sea of Imagination for the Adventurous Colorist",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "0262018438": {
+            "asin": "0262018438",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "What We Know About Climate Change (Boston Review Books)",
+            "normalizedName": "What We Know About Climate Change (Boston Review Books)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "1846033241": {
+            "asin": "1846033241",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990106
+            },
+            "name": "The Royal Hungarian Army in World War II (Men-at-Arms)",
+            "normalizedName": "The Royal Hungarian Army in World War II (Men-at-Arms)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "1855328666": {
+            "asin": "1855328666",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "The Italian Army 1940-45 (3): Italy 1943-45 (Men-at-Arms) (v. 3)",
+            "normalizedName": "The Italian Army 1940-45 (3): Italy 1943-45 (Men-at-Arms) (v. 3)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B01D0IJEBE": {
+            "asin": "B01D0IJEBE",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Keurig Six Water Filter Cartridges (12 filters)",
+            "normalizedName": "Keurig Six Water Filter Cartridges (12 filters)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

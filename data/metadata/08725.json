@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KU3F0SO": {
+            "asin": "B00KU3F0SO",
+            "height": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Rawlings Player Preferred Adult Glove, Right Hand Throw, 12.5-Inch",
+            "normalizedName": "Rawlings Player Preferred Adult Glove, Right Hand Throw, 12.5-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

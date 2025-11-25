@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005S4NEQA": {
+            "asin": "B005S4NEQA",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Mighty Leaf Iced Tea, Black, 4 Count",
+            "normalizedName": "Mighty Leaf Iced Tea, Black, 4 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B016Q1D5YO": {
+            "asin": "B016Q1D5YO",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Mens Slimming Body Shaper Vest Shirt Abs Abdomen Slim, XXL, White",
+            "normalizedName": "Mens Slimming Body Shaper Vest Shirt Abs Abdomen Slim, XXL, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01DBVVPJE": {
+            "asin": "B01DBVVPJE",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "name": "Aglaia 25W 6 Inch LED Retrofit Recessed Lighting Fixture, 6500K Cool White LED Down Light, 2050LM, Energy Saving LED Ceiling Light, Not Dimmable",
+            "normalizedName": "Aglaia 25W 6 Inch LED Retrofit Recessed Lighting Fixture, 6500K Cool White LED Down Light, 2050LM, Energy Saving LED Ceiling Light, Not Dimmable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582552
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

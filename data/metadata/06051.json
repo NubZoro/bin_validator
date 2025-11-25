@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "073686198X": {
+            "asin": "073686198X",
+            "height": {
+                "unit": "IN",
+                "value": 0.09842519675
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.79921258945
+            },
+            "name": "Matthew Henson: Arctic Adventurer (Graphic Biographies)",
+            "normalizedName": "Matthew Henson: Arctic Adventurer (Graphic Biographies)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1500025230648
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.70078739474
+            }
+        },
+        "1491405066": {
+            "asin": "1491405066",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Benjamin Banneker (Great African-Americans)",
+            "normalizedName": "Benjamin Banneker (Great African-Americans)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "1491405422": {
+            "asin": "1491405422",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Maria Mitchell (Great Women in History)",
+            "normalizedName": "Maria Mitchell (Great Women in History)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B007EIMDSI": {
+            "asin": "B007EIMDSI",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Prodyne Acrylic and Silicone Wine Bucket Bottle Stopper, Set of 3",
+            "normalizedName": "Set of 3 Prodyne Acrylic and Silicone Wine Bucket Bottle Stopper,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B01EWPKXYG": {
+            "asin": "B01EWPKXYG",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084001
+            },
+            "name": "i-Mate 7-day Programmable Digital Timer Switch Large LCD Display with Programmable Daily/Weekly Schedule Compatible with 120V, 3-Prong Wall Outlets for Lights and Appliances",
+            "normalizedName": "i-Mate 7-day Programmable Digital Timer Switch Large LCD Display with Programmable Daily/Weekly Schedule Compatible with 120V, 3-Prong Wall Outlets for Lights and Appliances",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

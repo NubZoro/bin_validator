@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BM608RG": {
+            "asin": "B00BM608RG",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Fisher-Price Thomas the Train Wooden Railway Fearless Freddie",
+            "normalizedName": "Fisher-Price Thomas the Train Wooden Railway Fearless Freddie",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01AWAGZA6": {
+            "asin": "B01AWAGZA6",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Kingway 5 Pack Replacement Ink Cartridge for HP 564XL HP 564 for HP Photosmart 6520 5520 7525 6510 7510 D7560 C410a C510a Printer (1BK+1PBK+1C+1M+1Y)",
+            "normalizedName": "5 Pack Kingway Replacement Ink Cartridge for HP 564XL HP 564 for HP Photosmart 6520 5520 7525 6510 7510 D7560 C410a C510a Printer (1BK+1PBK+1C+1M+1Y)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

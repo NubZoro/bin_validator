@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "193362275X": {
+            "asin": "193362275X",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Mighty Bright 40516 XtraFlex2 Book Light, Pink",
+            "normalizedName": "Mighty Bright 40516 XtraFlex2 Book Light, Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

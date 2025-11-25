@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EKVJARO": {
+            "asin": "B00EKVJARO",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Barnes & Jones Part Number FT15",
+            "normalizedName": "Barnes & Jones Part Number FT15",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.299999997232651
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00HRYH6GI": {
+            "asin": "B00HRYH6GI",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Jesus Film",
+            "normalizedName": "Jesus Film",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18333454586339856
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B00HZV9XKU": {
+            "asin": "B00HZV9XKU",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0629921198
+            },
+            "name": "AmazonBasics AAA High-Capacity Rechargeable Batteries (4-Pack) Pre-charged",
+            "normalizedName": "(4-Pack) AmazonBasics AAA High-Capacity Rechargeable Batteries Pre-charged",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001186074865
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

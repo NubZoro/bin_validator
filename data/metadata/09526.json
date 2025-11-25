@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001KZH692": {
+            "asin": "B001KZH692",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "American Baby Company 100% Organic Cotton Interlock Fitted Pack N Play Playard Sheet, Natural",
+            "normalizedName": "American Baby Company 100% Organic Cotton Interlock Fitted Pack N Play Playard Sheet, Natural",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.44999540633829105
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B001P8IJBI": {
+            "asin": "B001P8IJBI",
+            "height": {
+                "unit": "IN",
+                "value": 2.755905509
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.724409444
+            },
+            "name": "Minya International Corp. MI-557 Kitchen Sink Paper Clip Holder",
+            "normalizedName": "Minya International Corp. MI-557 Kitchen Sink Paper Clip Holder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0157480274
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

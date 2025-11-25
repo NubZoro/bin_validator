@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00E9OYDGU": {
+            "asin": "B00E9OYDGU",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Glade Solid Air Freshener, Honeysuckle Nectar, 6.0 Ounce",
+            "normalizedName": "Glade Solid Air Freshener, Honeysuckle Nectar, 6.0 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00VLEZRZM": {
+            "asin": "B00VLEZRZM",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Funko POP Movies: Ant-Man Glow in The Dark Yellow Jacket Action Figure [Amazon Exclusive]",
+            "normalizedName": "Funko POP Movies: Ant-Man Glow in The Dark Yellow Jacket Action Figure [Amazon Exclusive]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

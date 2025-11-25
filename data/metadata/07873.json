@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0195189019": {
+            "asin": "0195189019",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "An Age of Extremes: 1880-1917 (A History of Us)",
+            "normalizedName": "An Age of Extremes: 1880-1917 (A History of Us)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "0743288106": {
+            "asin": "0743288106",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Sex, Lies, and Handwriting: A Top Expert Reveals the Secrets Hidden in Your Handwriting",
+            "normalizedName": "Sex, Lies, and Handwriting: A Top Expert Reveals the Secrets Hidden in Your Handwriting",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "0974238317": {
+            "asin": "0974238317",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "The Journey to the Inner Chamber: Discovering the Treasure of the Universe",
+            "normalizedName": "The Journey to the Inner Chamber: Discovering the Treasure of the Universe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "1572245026": {
+            "asin": "1572245026",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Connecting Through Touch: The Couples' Massage Book",
+            "normalizedName": "Connecting Through Touch: The Couples' Massage Book",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "1576832996": {
+            "asin": "1576832996",
+            "height": {
+                "unit": "IN",
+                "value": 1.01181102259
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.88188975472
+            },
+            "name": "Friendship Counseling: Jesus' Model for Speaking Life-Words to Hurting People",
+            "normalizedName": "Friendship Counseling: Jesus' Model for Speaking Life-Words to Hurting People",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0500176614536
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.79921259251
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00R7ZWCM0": {
+            "asin": "B00R7ZWCM0",
+            "height": {
+                "unit": "IN",
+                "value": 3.8582677165354333
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.409448818897637
+            },
+            "name": "Edelnice Bavarian Lederhosen darkbrown 72",
+            "normalizedName": "Edelnice Bavarian Lederhosen darkbrown 72",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.791912204004877
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.543307086614174
+            }
+        },
+        "B01ENUYMMY": {
+            "asin": "B01ENUYMMY",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Professional Grade Heavy Duty BBQ Grill Cover by Pro Leisure Outdoor (Large Size, Beige/Hunter Green)",
+            "normalizedName": "Professional Grade Heavy Duty BBQ Grill Cover by Pro Leisure Outdoor (Large Size, Beige/Hunter Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.599999994465302
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0027A39PY": {
+            "asin": "B0027A39PY",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Strathmore Series 400 Sketch Pads 9 in. x 12 in. - pad of 100",
+            "normalizedName": "Strathmore Series 400 Sketch Pads 9 in. x 12 in. - pad of 100",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B00CJQ3TQU": {
+            "asin": "B00CJQ3TQU",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Despicable Me 2 Minion Pet Costume, Large",
+            "normalizedName": "Despicable Me 2 Minion Pet Costume, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.34999642744550774
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.749999988015
+            }
+        },
+        "B00QUXBQJU": {
+            "asin": "B00QUXBQJU",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Miracle-Gro AeroGarden 3SL with Gourmet Herb Seed Kit, White",
+            "normalizedName": "Miracle-Gro AeroGarden 3SL with Gourmet Herb Seed Kit, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

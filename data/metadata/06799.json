@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BOKOAQ": {
+            "asin": "B000BOKOAQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Franklin International 4221 Premium Construction Adhesive, 10.5-Ounce",
+            "normalizedName": "Franklin International 4221 Premium Construction Adhesive, 10.5-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B005TOW9H4": {
+            "asin": "B005TOW9H4",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Superior Egyptian Cotton 8-Piece Hand Towel Set, White",
+            "normalizedName": "Superior Egyptian Cotton 8-Piece Hand Towel Set, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B00PZWBX40": {
+            "asin": "B00PZWBX40",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Solong Tattoo\u00ae Complete Tattoo Kit 3 Pro Machine Guns 40 Inks Power Supply Foot Pedal Needles Grips Tips TK356",
+            "normalizedName": "Solong Tattoo\u00ae Complete Tattoo Kit 3 Pro Machine Guns 40 Inks Power Supply Foot Pedal Needles Grips Tips TK356",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

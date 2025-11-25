@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EFNKLC": {
+            "asin": "B000EFNKLC",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Oxford Index Cards, Assorted Colors, 5\" x 8\", Ruled, 100-Pack (35810)",
+            "normalizedName": "100-Pack Oxford Index Cards, Assorted Colors, 5\" x 8\", Ruled, (35810)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01FEWG1RY": {
+            "asin": "B01FEWG1RY",
+            "height": {
+                "unit": "IN",
+                "value": 0.5905511805
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "name": "Koroao Dual Camera Holder Handle Grip Pole Adapter for GoPro HERO1 2 3 3+ 4 & LED Light",
+            "normalizedName": "Koroao Dual Camera Holder Handle Grip Pole Adapter for GoPro HERO1 2 3 3+ 4 & LED Light",
+            "quantity": 10,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

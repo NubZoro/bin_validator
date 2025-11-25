@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0084EF86A": {
+            "asin": "B0084EF86A",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Terminator T1 Spinnerbait-Willow/Willow ,Nickel/Gold Blade (Gold Shiner, 3/8-Ounce)",
+            "normalizedName": "Terminator T1 Spinnerbait-Willow/Willow ,Nickel/Gold Blade (Gold Shiner, 3/8-Ounce)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00QKXA6IM": {
+            "asin": "B00QKXA6IM",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "name": "Spring Valley Standardized Extract Cranberry, 84 Mg, Urinary Tract Health, Twin Pack",
+            "normalizedName": "Spring Valley Standardized Extract Cranberry, 84 Mg, Urinary Tract Health, Twin Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00SII73M4": {
+            "asin": "B00SII73M4",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Bumble Bee Cupcake Rings - 24 pcs",
+            "normalizedName": "Bumble Bee Cupcake Rings - 24 pcs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01DRFG97W": {
+            "asin": "B01DRFG97W",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Centrum Multigummies Women's, 70 Count",
+            "normalizedName": "Centrum Multigummies Women's, 70 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

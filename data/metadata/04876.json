@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005USTWFQ": {
+            "asin": "B005USTWFQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Master Lock S1720E410 Circuit Breaker Lockout Center With 410RED Zenex Padlock",
+            "normalizedName": "Master Lock S1720E410 Circuit Breaker Lockout Center With 410RED Zenex Padlock",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B0060RZ5OI": {
+            "asin": "B0060RZ5OI",
+            "height": {
+                "unit": "IN",
+                "value": 1.8110236202
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.716535415
+            },
+            "name": "WWE Tag Team Championship Belt",
+            "normalizedName": "WWE Tag Team Championship Belt",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800350276188
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.9763779436
+            }
+        },
+        "B00BCY06D4": {
+            "asin": "B00BCY06D4",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Depend Incontinence Shields for Men, Light Absorbency",
+            "normalizedName": "Depend Incontinence Shields for Men, Light Absorbency",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

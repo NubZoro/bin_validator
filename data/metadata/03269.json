@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HVLUR86": {
+            "asin": "B00HVLUR86",
+            "height": {
+                "unit": "IN",
+                "value": 4.2519684996
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.4960629804
+            },
+            "name": "Audio-Technica ATH-M50x Professional Studio Monitor Headphones",
+            "normalizedName": "Audio-Technica ATH-M50x Professional Studio Monitor Headphones",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1605081144235547
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.236220462
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

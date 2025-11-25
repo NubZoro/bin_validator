@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0054RPY7I": {
+            "asin": "B0054RPY7I",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Clif Energy Bar, Chocolate Chip - (2.4 Ounce, 12 Count)",
+            "normalizedName": "Clif Energy Bar, Chocolate Chip - (2.4 Ounce, 12 Count)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00A128S24": {
+            "asin": "B00A128S24",
+            "height": {
+                "unit": "IN",
+                "value": 4.0944881848
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.4015747956
+            },
+            "name": "TP-LINK 5-Port Gigabit Ethernet Desktop Switch (TL-SG105)",
+            "normalizedName": "TP-LINK 5-Port Gigabit Ethernet Desktop Switch (TL-SG105)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9700240513738411
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.1968503884
+            }
+        },
+        "B00FZ1SLX2": {
+            "asin": "B00FZ1SLX2",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "KastKing SuperPower Low-Vis Gray Braided Fishing Line 1000M(1100 Yard)-15LB",
+            "normalizedName": "KastKing SuperPower Low-Vis Gray Braided Fishing Line 1000M(1100 Yard)-15LB",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B0153ZCUC2": {
+            "asin": "B0153ZCUC2",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Good Riddance&trade; Eco-Friendly Ultrasonic Pest & Animal Repeller with Motion Detector, Strobe Light & Solar Panel",
+            "normalizedName": "Good Riddance&trade; Eco-Friendly Ultrasonic Pest & Animal Repeller with Motion Detector, Strobe Light & Solar Panel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

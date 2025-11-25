@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EQTYMA": {
+            "asin": "B000EQTYMA",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "ACDelco 88974262 GM Original Equipment Front Disc Brake Rotor",
+            "normalizedName": "ACDelco 88974262 GM Original Equipment Front Disc Brake Rotor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 14.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.599999986128
+            }
+        },
+        "B01895FJBC": {
+            "asin": "B01895FJBC",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "HZY Salon Professional Straight Hair Products Ceramic Hair Straightener Comb Brush Digital LCD Display Anti Static Electric Heating Faster Hair Straightening Brush Paddle Hair Styler",
+            "normalizedName": "HZY Salon Professional Straight Hair Products Ceramic Hair Straightener Comb Brush Digital LCD Display Anti Static Electric Heating Faster Hair Straightening Brush Paddle Hair Styler",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

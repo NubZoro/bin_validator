@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006L7STWW": {
+            "asin": "B006L7STWW",
+            "height": {
+                "unit": "IN",
+                "value": 2.8346456664
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.4724409342
+            },
+            "name": "Hoover 2X SteamPlus Cleaning Solution 32 oz, WH00015",
+            "normalizedName": "Hoover 2X SteamPlus Cleaning Solution 32 oz, WH00015",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.480314953
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

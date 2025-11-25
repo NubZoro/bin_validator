@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002IPGW4S": {
+            "asin": "B002IPGW4S",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Fisher-Price Power Wheels Junior 6-Volt Rechargeable Replacement Battery",
+            "normalizedName": "Fisher-Price Power Wheels Junior 6-Volt Rechargeable Replacement Battery",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00D2LGT72": {
+            "asin": "B00D2LGT72",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0629921198
+            },
+            "name": "Corsair Vengeance Pro Series Red 8GB (2x4GB) DDR3 1600 MHZ (PC3 12800) Desktop Memory",
+            "normalizedName": "Corsair Vengeance Pro Series Red 8GB (2x4GB) DDR3 1600 MHZ (PC3 12800) Desktop Memory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26455201423289837
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        },
+        "B013HUMBZ6": {
+            "asin": "B013HUMBZ6",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Apple Watch Case,Biaoge Super Thin PC Plated Plating Protective Bumper Case for Apple Watch 42MM (PC Case Gray 42mm)",
+            "normalizedName": "Apple Watch Case,Biaoge Super Thin PC Plated Plating Protective Bumper Case for Apple Watch 42MM (PC Case Gray 42mm)",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

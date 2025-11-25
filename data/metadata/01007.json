@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I8RKMSM": {
+            "asin": "B00I8RKMSM",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "BIC Brite Liner Highlighter, Chisel Point, Yellow, 24-Count",
+            "normalizedName": "BIC Brite Liner Highlighter, Chisel Point, Yellow, 24-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00R18VQ5W": {
+            "asin": "B00R18VQ5W",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "OxyLED 51 LEDs Pet UV Urine Stain Detector Blacklight Flashlight",
+            "normalizedName": "OxyLED 51 LEDs Pet UV Urine Stain Detector Blacklight Flashlight",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

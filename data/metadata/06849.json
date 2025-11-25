@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008TL93A0": {
+            "asin": "B008TL93A0",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "LinenTablecloth 60 x 126-Inch Rectangular Polyester Tablecloth Red & White Checker",
+            "normalizedName": "LinenTablecloth 60 x 126-Inch Rectangular Polyester Tablecloth Red & White Checker",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.199999987556
+            }
+        },
+        "B00NZK13TE": {
+            "asin": "B00NZK13TE",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Top Collection 4-Inch Miniature Fairy Garden and Terrarium Castle Functional Flower Pot for Succulents, Mini",
+            "normalizedName": "Top Collection 4-Inch Miniature Fairy Garden and Terrarium Castle Functional Flower Pot for Succulents, Mini",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

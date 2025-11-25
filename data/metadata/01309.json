@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012XQULE8": {
+            "asin": "B012XQULE8",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Jumbo REE-LAX Double Hammock - Portable Nylon Parachute Material - Bicycling, Camping, Hiking, Backpacking or Travel (Black/Red)",
+            "normalizedName": "Jumbo REE-LAX Double Hammock - Portable Nylon Parachute Material - Bicycling, Camping, Hiking, Backpacking or Travel (Black/Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01GWR1TFO": {
+            "asin": "B01GWR1TFO",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "name": "S5 Case, LK [Shock Absorbent Armor] Dual Layer Hard PC Cover + TPU Inner Case Hybrid Defender For Samsung Galaxy S5 (Black)",
+            "normalizedName": "S5 Case, LK [Shock Absorbent Armor] Dual Layer Hard PC Cover + TPU Inner Case Hybrid Defender For Samsung Galaxy S5 (Black)",
+            "quantity": 4,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 1.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0133753832": {
+            "asin": "0133753832",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Mastering Public Speaking (9th Edition)",
+            "normalizedName": "Mastering Public Speaking (9th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "0205493831": {
+            "asin": "0205493831",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Educational Psychology (with MyLabSchool) (10th Edition) (MyLabSchool Series)",
+            "normalizedName": "Educational Psychology (with MyLabSchool) (10th Edition) (MyLabSchool Series)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "0321385179": {
+            "asin": "0321385179",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Linear Algebra and Its Applications, 4th Edition",
+            "normalizedName": "Linear Algebra and Its Applications, 4th Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "3056508193": {
+            "asin": "3056508193",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Google Cardboard @ 45mm Focal Length Virtual Reality Google Cardboard with Printed Instructions and Easy to Follow Numbered Tabs (WITH NFC and FREE HEAD-STRAP)(Box Color)",
+            "normalizedName": "Google Cardboard @ 45mm Focal Length Virtual Reality Google Cardboard with Printed Instructions and Easy to Follow Numbered Tabs (WITH NFC and FREE HEAD-STRAP)(Box Color)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

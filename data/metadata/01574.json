@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001FAUMHU": {
+            "asin": "B001FAUMHU",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Hatch RTG100 Reflective Traffic Glove (Orange, Small)",
+            "normalizedName": "Hatch RTG100 Reflective Traffic Glove (Orange, Small)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00JHIOZQ6": {
+            "asin": "B00JHIOZQ6",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Performix - SST Suspension Super Thermogenic - 60 Licaps",
+            "normalizedName": "Performix - SST Suspension Super Thermogenic - 60 Licaps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B01CJ2YYXK": {
+            "asin": "B01CJ2YYXK",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "My Little Pony Explore Equestria Water Cuties Applejack Figure",
+            "normalizedName": "My Little Pony Explore Equestria Water Cuties Applejack Figure",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

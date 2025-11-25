@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01DUYA4G2": {
+            "asin": "B01DUYA4G2",
+            "height": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "2014 Topps Chrome Football 3 Box Bundle: 1 Box of Chrome, 1 Box of Chrome Mini & 1 Box of Bowman Chrome 1 Rookie Autograph Per Box",
+            "normalizedName": "2014 Topps Chrome Football 3 Box Bundle: 1 Box of Chrome, 1 Box of Chrome Mini & 1 Box of Bowman Chrome 1 Rookie Autograph Per Box",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 8.0
+            }
+        },
+        "B01DXDM5IK": {
+            "asin": "B01DXDM5IK",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Oxiclean Laundry Detergent HD Packs, Sparkling Fresh Scent, 47 Count",
+            "normalizedName": "Oxiclean Laundry Detergent HD Packs, Sparkling Fresh Scent, 47 Count",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

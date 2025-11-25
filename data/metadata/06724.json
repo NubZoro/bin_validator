@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1454808470": {
+            "asin": "1454808470",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Basic Legal Research: Tools and Strategies, Fifth Edition (Aspen Coursebook)",
+            "normalizedName": "Basic Legal Research: Tools and Strategies, Fifth Edition (Aspen Coursebook)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B013U3YKRM": {
+            "asin": "B013U3YKRM",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Bruntmor, CRUX Silverware Royal 40 Piece Flatware Cutlery Set, 18/10 Stainless Steel, Service for 8 - Lifetime Warranty 100% Rust Proof",
+            "normalizedName": "Bruntmor, CRUX Silverware Royal 40 Piece Flatware Cutlery Set, 18/10 Stainless Steel, Service for 8 - Lifetime Warranty 100% Rust Proof",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.099999994046006
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "8963293467": {
+            "asin": "8963293467",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "1/2\" (12mm) ID 10 Ft High Pressure Braided PVC Tubing Clear Hose Braid Reinforced",
+            "normalizedName": "1/2\" (12mm) ID 10 Ft High Pressure Braided PVC Tubing Clear Hose Braid Reinforced",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B005ORPGPI": {
+            "asin": "B005ORPGPI",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "SIIG DP 1-Port RS232 Serial PCIe with 16950 UART (JJ-E01111-S1)",
+            "normalizedName": "SIIG DP 1-Port RS232 Serial PCIe with 16950 UART (JJ-E01111-S1)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

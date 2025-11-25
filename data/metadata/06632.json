@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0042TSCBO": {
+            "asin": "B0042TSCBO",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Lion Brand Yarn 840-139F Vanna's Choice Baby Yarn, Berrylicious",
+            "normalizedName": "Lion Brand Yarn 840-139F Vanna's Choice Baby Yarn, Berrylicious",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00N1AFSMQ": {
+            "asin": "B00N1AFSMQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "OtterBox COMMUTER WALLET iPhone 6/6s Case - Retail Packaging - GLACIER (WHITE/GUNMETAL GREY)",
+            "normalizedName": "OtterBox COMMUTER WALLET iPhone 6/6s Case - Retail Packaging - GLACIER (WHITE/GUNMETAL GREY)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

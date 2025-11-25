@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006JG5BG2": {
+            "asin": "B006JG5BG2",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Bell Automotive 22-1-33000-8 BellAire 3000 Tire Inflator",
+            "normalizedName": "Bell Automotive 22-1-33000-8 BellAire 3000 Tire Inflator",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

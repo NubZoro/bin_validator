@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HU6Z8LI": {
+            "asin": "B00HU6Z8LI",
+            "height": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.7007873978
+            },
+            "name": "SheaMoisture Coconut & Hibiscus Curling Gel Souffle - 12 oz",
+            "normalizedName": "SheaMoisture Coconut & Hibiscus Curling Gel Souffle - 12 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8377480443683174
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6220472404
+            }
+        },
+        "B01EB4IZXY": {
+            "asin": "B01EB4IZXY",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Paper Mate InkJoy 300RT Retractable Ballpoint Pens, Medium Point, Assorted, 6 Pack (1945916)",
+            "normalizedName": "6 Pack Paper Mate InkJoy 300RT Retractable Ballpoint Pens, Medium Point, Assorted, (1945916)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

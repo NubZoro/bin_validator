@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004T6PEQ6": {
+            "asin": "B004T6PEQ6",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Waterproof G1 3-Finger 7mm Semi Dry Gloves - 2X-Large",
+            "normalizedName": "Waterproof G1 3-Finger 7mm Semi Dry Gloves - 2X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00DUHACEE": {
+            "asin": "B00DUHACEE",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "SterlingPro French Coffee Press --8 Cup/4 Mug (1 liter, 34 oz), Chrome",
+            "normalizedName": "SterlingPro French Coffee Press --8 Cup/4 Mug (1 liter, 34 oz), Chrome",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00DY6FMMI": {
+            "asin": "B00DY6FMMI",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Rugged Ridge 13579.04 Black Eclipse Sun Shade for Select Jeep Wrangler JK Models",
+            "normalizedName": "Rugged Ridge 13579.04 Black Eclipse Sun Shade for Select Jeep Wrangler JK Models",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

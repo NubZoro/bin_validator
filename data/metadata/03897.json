@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005LEN4": {
+            "asin": "B00005LEN4",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.2913385783
+            },
+            "name": "Nikon AF FX NIKKOR 50mm f/1.8D Lens with Auto Focus for Nikon DSLR Cameras",
+            "normalizedName": "Nikon AF FX NIKKOR 50mm f/1.8D Lens with Auto Focus for Nikon DSLR Cameras",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.62
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        },
+        "B00ZOEQJUC": {
+            "asin": "B00ZOEQJUC",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "DC 12V Delay Timer Switch Adjustable Module 0 to 10 Second NE555 Electrical New",
+            "normalizedName": "DC 12V Delay Timer Switch Adjustable Module 0 to 10 Second NE555 Electrical New",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.01
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

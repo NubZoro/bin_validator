@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00016AGBQ": {
+            "asin": "B00016AGBQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Nature's Way Chlorofresh, 90 Softgels",
+            "normalizedName": "Nature's Way Chlorofresh, 90 Softgels",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999846890521762
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

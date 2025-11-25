@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003VAHYQY": {
+            "asin": "B003VAHYQY",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Logitech Gamepad F310",
+            "normalizedName": "Logitech Gamepad F310",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B011LC9ZTM": {
+            "asin": "B011LC9ZTM",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Safety Silicone Travel Bottle 3 Pack ,Squeeze Travel Bottle Set ,Cosmetic Bottle Set,TSA Airline Carry-On Approved, Travel Accessories Bottle, Mini Container Bottle Squeezable & Refillable Travel Containers For Shampoo, Conditioner, Lotion, Toiletries (3.0OZ)",
+            "normalizedName": "3 Pack Safety Silicone Travel Bottle ,Squeeze Travel Bottle Set ,Cosmetic Bottle Set,TSA Airline Carry-On Approved, Travel Accessories Bottle, Mini Container Bottle Squeezable & Refillable Travel Containers For Shampoo, Conditioner, Lotion, Toiletries (3.0OZ)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

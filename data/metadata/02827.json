@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1259284263": {
+            "asin": "1259284263",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "AM GOV 2015-2016",
+            "normalizedName": "AM GOV 2015-2016",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "1285867971": {
+            "asin": "1285867971",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Fundamentals of Financial Management (Finance Titles in the Brigham Family)",
+            "normalizedName": "Fundamentals of Financial Management (Finance Titles in the Brigham Family)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5999999969810736
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B009L5XPU2": {
+            "asin": "B009L5XPU2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Artist Series Sketch Book, 8.5\"X11\" Hard Bound",
+            "normalizedName": "Artist Series Sketch Book, 8.5\"X11\" Hard Bound",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B00AOJPMHS": {
+            "asin": "B00AOJPMHS",
+            "height": {
+                "unit": "IN",
+                "value": 2.5984251942
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Silikomart SFT181 Silicone Let's Celebrate Bakeware Collection Cake Pan, Charlotte",
+            "normalizedName": "Silikomart SFT181 Silicone Let's Celebrate Bakeware Collection Cake Pan, Charlotte",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5291040284657967
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.8976377862
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

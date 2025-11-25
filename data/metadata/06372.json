@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CU4KNLU": {
+            "asin": "B00CU4KNLU",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Samsung MLT-D203L Black 5.0K High Yield Toner",
+            "normalizedName": "Samsung MLT-D203L Black 5.0K High Yield Toner",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        },
+        "B01DYOZHPQ": {
+            "asin": "B01DYOZHPQ",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "[Hand Crafted] HemingWeigh Himalayan Round Crystal Rock Salt Votive Candle Holder",
+            "normalizedName": "[Hand Crafted] HemingWeigh Himalayan Round Crystal Rock Salt Votive Candle Holder",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.699999996058625
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

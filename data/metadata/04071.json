@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ZC2DH6": {
+            "asin": "B000ZC2DH6",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Monistat 3 Vaginal Antifungal Medication, 0.18-Ounce, 3 Prefilled Applicators",
+            "normalizedName": "Monistat 3 Vaginal Antifungal Medication, 0.18-Ounce, 3 Prefilled Applicators",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B0036S0QNE": {
+            "asin": "B0036S0QNE",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "TapouT Adult Mouthguard, Black",
+            "normalizedName": "TapouT Adult Mouthguard, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

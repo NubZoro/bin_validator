@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007RW2WUU": {
+            "asin": "B007RW2WUU",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "FRAM CA10889 Panel Air Filter",
+            "normalizedName": "FRAM CA10889 Panel Air Filter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00AZOBIYI": {
+            "asin": "B00AZOBIYI",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Sizzix Thinlits Die Set 6PK - Arrows, Banners, Chevrons & Clouds by Rachael Bright",
+            "normalizedName": "Sizzix Thinlits Die Set 6PK - Arrows, Banners, Chevrons & Clouds by Rachael Bright",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00MJA2VYM": {
+            "asin": "B00MJA2VYM",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Bullet Proof Designs Rigid Hanguard Bar End Mounts",
+            "normalizedName": "Bullet Proof Designs Rigid Hanguard Bar End Mounts",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000IYATQS": {
+            "asin": "B000IYATQS",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Purolator P1290 Transmission Filter",
+            "normalizedName": "Purolator P1290 Transmission Filter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B01CYYBMXS": {
+            "asin": "B01CYYBMXS",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "LEGO Sea Adventures 2 Set Bundle - Creator 3-in-1 Sea Plane 31028 & City Jet Ski w/ Minifigures 30015",
+            "normalizedName": "LEGO Sea Adventures 2 Set Bundle - Creator 3-in-1 Sea Plane 31028 & City Jet Ski w/ Minifigures 30015",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

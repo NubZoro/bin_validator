@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BJ7Y2P2": {
+            "asin": "B00BJ7Y2P2",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Jalapeno Cheddar Cheese Flavored Popcorn - 6oz",
+            "normalizedName": "Jalapeno Cheddar Cheese Flavored Popcorn - 6oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00C5SLR70": {
+            "asin": "B00C5SLR70",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "ADCO 3992 Black Large Triple Axle Tyre Gard Wheel Cover, Pack of 1",
+            "normalizedName": "Pack of 1 ADCO 3992 Black Large Triple Axle Tyre Gard Wheel Cover,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2499999972745806
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00IMOBERO": {
+            "asin": "B00IMOBERO",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Stella Artois 40 Centiliter Glass",
+            "normalizedName": "Stella Artois 40 Centiliter Glass",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B019OTX7YI": {
+            "asin": "B019OTX7YI",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Chef 's Character Professional High Quality Stainless Steel Garlic Press and Brush Set",
+            "normalizedName": "Chef 's Character Professional High Quality Stainless Steel Garlic Press and Brush Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

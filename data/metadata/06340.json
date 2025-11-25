@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0316206237": {
+            "asin": "0316206237",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "The Boy: A Novel",
+            "normalizedName": "The Boy: A Novel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B006XK3GAW": {
+            "asin": "B006XK3GAW",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "TriLok Ankle Support Brace (PTTD - Ankle Sprains - Plantar Fasciitis) -By BioSkin (L)",
+            "normalizedName": "TriLok Ankle Support Brace (PTTD - Ankle Sprains - Plantar Fasciitis) -By BioSkin (L)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B01ANE8F68": {
+            "asin": "B01ANE8F68",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Galaxy S3 Case ,[Corner Protection] Protective Case Detachable Defender Thin Protective Anti-dirt Scratch Resistant Hard Soft Heavy Duty Rubber Bumper Case Cover for Samsung Galaxy S3(Black/Green)",
+            "normalizedName": "Galaxy S3 Case ,[Corner Protection] Protective Case Detachable Defender Thin Protective Anti-dirt Scratch Resistant Hard Soft Heavy Duty Rubber Bumper Case Cover for Samsung Galaxy S3(Black/Green)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

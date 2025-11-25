@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C5PSLHC": {
+            "asin": "B00C5PSLHC",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "WWE Rumblers Brock Lesnar and John Cena Action Figure, 2-Pack",
+            "normalizedName": "2-Pack WWE Rumblers Brock Lesnar and John Cena Action Figure,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

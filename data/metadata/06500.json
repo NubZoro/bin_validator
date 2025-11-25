@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002HVZ2A8": {
+            "asin": "B002HVZ2A8",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Tough 1 600D Waterproof Poly Miniature Turnout Blanket, Pink, 36\"",
+            "normalizedName": "Tough 1 600D Waterproof Poly Miniature Turnout Blanket, Pink, 36\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2199999989769195
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        },
+        "B00DOZXK4Q": {
+            "asin": "B00DOZXK4Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.5905511652
+            },
+            "name": "VonShef Induction Hob Heat Diffuser Stainless Steel with Heat Proof Handle Available in Two Sizes (9.25\")",
+            "normalizedName": "VonShef Induction Hob Heat Diffuser Stainless Steel with Heat Proof Handle Available in Two Sizes (9.25\")",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4691521328403847
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.7637795176
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

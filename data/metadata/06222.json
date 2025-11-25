@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007QNYLPE": {
+            "asin": "B007QNYLPE",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.2204724346
+            },
+            "name": "Lion Brand Yarn 601-610 Bonbons Yarn, Brights",
+            "normalizedName": "Lion Brand Yarn 601-610 Bonbons Yarn, Brights",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.2755905458
+            }
+        },
+        "B00QUC4WV0": {
+            "asin": "B00QUC4WV0",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Organic Neem Leaf Powder - 1 Lb. \u2605 USDA Certified Organic \u2605 100% Pure and Natural Raw Herb Super Food Supplement. Non GMO, Gluten FREE. All Natural!",
+            "normalizedName": "Organic Neem Leaf Powder - 1 Lb. \u2605 USDA Certified Organic \u2605 100% Pure and Natural Raw Herb Super Food Supplement. Non GMO, Gluten FREE. All Natural!",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00R33ZWSC": {
+            "asin": "B00R33ZWSC",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.5354330642
+            },
+            "name": "Adonit Jot Mini Fine Point Precision Stylus for iPad, iPhone, Android, Kindle, Samsung, and Windows Phones - Black",
+            "normalizedName": "Adonit Jot Mini Fine Point Precision Stylus for iPad, iPhone, Android, Kindle, Samsung, and Windows Phones - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04409200237214973
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.362204722
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002J9LT5U": {
+            "asin": "B002J9LT5U",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "FOAM C/CELL GRAY 3/8X1/2X10",
+            "normalizedName": "FOAM C/CELL GRAY 3/8X1/2X10",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B0149MC426": {
+            "asin": "B0149MC426",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Magic 8 Ball Retro Edition",
+            "normalizedName": "Magic 8 Ball Retro Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.012999999989098324
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995817999
+            }
+        },
+        "B018NV474C": {
+            "asin": "B018NV474C",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Space Bags, Vacuum Storage Bags Space Saver Bags X6 Jumbo/travel Storage Bags Ziplock Vacuum Seal Bags (6, Jumbo sizes)",
+            "normalizedName": "Space Bags, Vacuum Storage Bags Space Saver Bags X6 Jumbo/travel Storage Bags Ziplock Vacuum Seal Bags (6, Jumbo sizes)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B01BBQN7R4": {
+            "asin": "B01BBQN7R4",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.5
+            },
+            "name": "STREET CRAFT 100% Authentic Copper Moscow Mule Mug/Copper Moscow Mule Mugs / Cups. (1, 20Oz-Tankard)",
+            "normalizedName": "STREET CRAFT 100% Authentic Copper Moscow Mule Mug/Copper Moscow Mule Mugs / Cups. (1, 20Oz-Tankard)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0615344976": {
+            "asin": "0615344976",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "What Goes Up Eventually Comes Down",
+            "normalizedName": "What Goes Up Eventually Comes Down",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.76
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B001B3NDDQ": {
+            "asin": "B001B3NDDQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.799999997144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452
+            },
+            "name": "Maui Jim Ho'okipa 407, 407-02 Gloss Black / Neutral Grey",
+            "normalizedName": "Maui Jim Ho'okipa 407, 407-02 Gloss Black / Neutral Grey",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B003T44YJ2": {
+            "asin": "B003T44YJ2",
+            "height": {
+                "unit": "IN",
+                "value": 6.4
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.5
+            },
+            "name": "Globe Scientific 138060 LDPE General Purpose Transfer Pipet for Blood Bank, Non-Sterile, 130mm Length, 4.0mL Capacity (Case of 5000)",
+            "normalizedName": "(Case of 5000) Globe Scientific 138060 LDPE General Purpose Transfer Pipet for Blood Bank, Non-Sterile, 130mm Length, 4.0mL Capacity",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.3
+            }
+        },
+        "B009HVH9V6": {
+            "asin": "B009HVH9V6",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Vktech Air Cervical Neck Traction (Style A)",
+            "normalizedName": "Vktech Air Cervical Neck Traction (Style A)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

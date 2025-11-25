@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004PR6GRU": {
+            "asin": "B004PR6GRU",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Kid O Tip Truck Red",
+            "normalizedName": "Kid O Tip Truck Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01AWAPTZS": {
+            "asin": "B01AWAPTZS",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Revesun 19-piece Watch Repair Tool Kit Set",
+            "normalizedName": "Revesun 19-piece Watch Repair Tool Kit Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3349999988804815
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

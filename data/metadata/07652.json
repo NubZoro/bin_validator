@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007CG2YO": {
+            "asin": "B0007CG2YO",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Life Extension Mix, 490 capsules",
+            "normalizedName": "Life Extension Mix, 490 capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00DUGX90O": {
+            "asin": "B00DUGX90O",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Original BEAR PAWS Pulled Pork Shredder Claws - BBQ Meat Handler Forks - Made in USA",
+            "normalizedName": "Original BEAR PAWS Pulled Pork Shredder Claws - BBQ Meat Handler Forks - Made in USA",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000W73M10": {
+            "asin": "B000W73M10",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "PetSafe Drinkwell Premium Carbon Replacement Filters, 3 pack",
+            "normalizedName": "PetSafe Drinkwell Premium Carbon Replacement Filters, 3 pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.47999999959747647
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00KRVAJ6C": {
+            "asin": "B00KRVAJ6C",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "8 Whole Food Proteins - Vanilla",
+            "normalizedName": "8 Whole Food Proteins - Vanilla",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

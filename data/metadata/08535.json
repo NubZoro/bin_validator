@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VZOPLY": {
+            "asin": "B000VZOPLY",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8
+            },
+            "name": "Red Devil Inc. Premixed Tile Grout 5.5 oz. Tube White",
+            "normalizedName": "Red Devil Inc. Premixed Tile Grout 5.5 oz. Tube White",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1
+            }
+        },
+        "B0040002AE": {
+            "asin": "B0040002AE",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "7\" x 8\", 2 Mil Clear Plymor Brand Zipper Reclosable Storage Bags, DispenserBag Pack of 100",
+            "normalizedName": "Pack of 100 7\" x 8\", 2 Mil Clear Plymor Brand Zipper Reclosable Storage Bags, DispenserBag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B01AN6BBKI": {
+            "asin": "B01AN6BBKI",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "CHUWI Hi8 8 inch Windows 10/Android 4.4 Dual Boot Tablet PC, with Features of Intel Quad Core, Full HD 1920*1200 IPS Screen, 2G RAM/32G ROM and Winkey",
+            "normalizedName": "CHUWI Hi8 8 inch Windows 10/Android 4.4 Dual Boot Tablet PC, with Features of Intel Quad Core, Full HD 1920*1200 IPS Screen, 2G RAM/32G ROM and Winkey",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

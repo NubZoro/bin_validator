@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0062297376": {
+            "asin": "0062297376",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "The Long Cosmos: A Novel (Long Earth)",
+            "normalizedName": "The Long Cosmos: A Novel (Long Earth)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B0093XTHHM": {
+            "asin": "B0093XTHHM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Coby Kyros 7-Inch Android 4.0 4 GB Internet Tablet 16:9 Resistive Touchscreen, Black MID7034-4",
+            "normalizedName": "Coby Kyros 7-Inch Android 4.0 4 GB Internet Tablet 16:9 Resistive Touchscreen, Black MID7034-4",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

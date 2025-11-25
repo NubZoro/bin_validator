@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0345802527": {
+            "asin": "0345802527",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "A Treacherous Paradise",
+            "normalizedName": "A Treacherous Paradise",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "0385339089": {
+            "asin": "0385339089",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "The Client",
+            "normalizedName": "The Client",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "125006080X": {
+            "asin": "125006080X",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "Where Monsters Dwell (Odd Singsaker)",
+            "normalizedName": "Where Monsters Dwell (Odd Singsaker)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054720379543957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B00745VZYY": {
+            "asin": "B00745VZYY",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Poly Foam Brush With Wood Handle (Pack of 24)",
+            "normalizedName": "(Pack of 24) Poly Foam Brush With Wood Handle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B0175A94CC": {
+            "asin": "B0175A94CC",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "HTC One A9 Case, J&D [Stand View] HTC One A9 Wallet Case [Slim Fit] [Stand Feature] Premium Protective Case Wallet Leather Case for HTC One A9 (Black)",
+            "normalizedName": "HTC One A9 Case, J&D [Stand View] HTC One A9 Wallet Case [Slim Fit] [Stand Feature] Premium Protective Case Wallet Leather Case for HTC One A9 (Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

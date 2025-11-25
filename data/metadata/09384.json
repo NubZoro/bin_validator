@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BUYJBWS": {
+            "asin": "B00BUYJBWS",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "New Keurig My K-Cup Replacement Coffee Filter Set 3 pcs with mesh basket for B30 B31 B40 B50 B60 B70",
+            "normalizedName": "New Keurig My K-Cup Replacement Coffee Filter Set 3 pcs with mesh basket for B30 B31 B40 B50 B60 B70",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B00KZKMDK0": {
+            "asin": "B00KZKMDK0",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Gift Corral Key Rack - Mini Horse - Black/bronze",
+            "normalizedName": "Gift Corral Key Rack - Mini Horse - Black/bronze",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00R1P3B4O": {
+            "asin": "B00R1P3B4O",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Fujifilm Instax Mini Single Pack 10 Sheets Instant Film for Fuji Instant Cameras",
+            "normalizedName": "Fujifilm Instax Mini Single Pack 10 Sheets Instant Film for Fuji Instant Cameras",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00TLZGJOQ": {
+            "asin": "B00TLZGJOQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Fujifilm Instax Mini 8 Instant Film Camera (Grape)",
+            "normalizedName": "Fujifilm Instax Mini 8 Instant Film Camera (Grape)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

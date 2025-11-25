@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0323287883": {
+            "asin": "0323287883",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Essentials of Psychiatric Mental Health Nursing - Revised Reprint, 2e",
+            "normalizedName": "Essentials of Psychiatric Mental Health Nursing - Revised Reprint, 2e",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B0002TV2NS": {
+            "asin": "B0002TV2NS",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Memoir '44",
+            "normalizedName": "Memoir '44",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.188740225354224
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B01BURVMXU": {
+            "asin": "B01BURVMXU",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "BATTOP Pink Princess Tent Indoor and Outdoor 1 to 8 Years Old Children Game Play Toys Tent Balls Not Included",
+            "normalizedName": "BATTOP Pink Princess Tent Indoor and Outdoor 1 to 8 Years Old Children Game Play Toys Tent Balls Not Included",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

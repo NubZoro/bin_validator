@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EQU16I": {
+            "asin": "B000EQU16I",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "ACDelco D6264C GM Original Equipment Turn Signal, Headlight, Headlight Dimmer, Cruise, and Fog Lamp Switch with Lever",
+            "normalizedName": "ACDelco D6264C GM Original Equipment Turn Signal, Headlight, Headlight Dimmer, Cruise, and Fog Lamp Switch with Lever",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00M2UJN6I": {
+            "asin": "B00M2UJN6I",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "ASUS 12X Blu-ray Burning Speed USB 2.0/USB 3.0 External Blu-ray Drive (BW-12D1S-U Lite)",
+            "normalizedName": "ASUS 12X Blu-ray Burning Speed USB 2.0/USB 3.0 External Blu-ray Drive (BW-12D1S-U Lite)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

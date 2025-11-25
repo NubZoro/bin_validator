@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007KK2KG": {
+            "asin": "B0007KK2KG",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Scosche Radio Wiring Harness for 1993-Up Select Subaru Power/4 Speaker Connector",
+            "normalizedName": "Scosche Radio Wiring Harness for 1993-Up Select Subaru Power/4 Speaker Connector",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512
+            }
+        },
+        "B0017IFSIS": {
+            "asin": "B0017IFSIS",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Thermos Stainless King Food Jar with Folding Spoon, 16 ounce, Midnight Blue",
+            "normalizedName": "Thermos Stainless King Food Jar with Folding Spoon, 16 ounce, Midnight Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

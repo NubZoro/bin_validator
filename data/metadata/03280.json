@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ADYQFMK": {
+            "asin": "B00ADYQFMK",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Studio Silversmiths 7 Piece set of Six 9 Ounce Highball Glasses In Black Deco Metal Rack",
+            "normalizedName": "7 Piece set Studio Silversmiths of Six 9 Ounce Highball Glasses In Black Deco Metal Rack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.399999996310202
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990411999
+            }
+        },
+        "B01AMHAV6S": {
+            "asin": "B01AMHAV6S",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "AT&T TL92151 Connect to Cell\u2122 answering system with caller ID/call waiting",
+            "normalizedName": "AT&T TL92151 Connect to Cell\u2122 answering system with caller ID/call waiting",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

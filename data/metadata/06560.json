@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002VL119K": {
+            "asin": "B002VL119K",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Helix Ultraflex 12-Inch Wide Ruler (37459)",
+            "normalizedName": "Helix Ultraflex 12-Inch Wide Ruler (37459)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        },
+        "B017TJNTXY": {
+            "asin": "B017TJNTXY",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Due North APINDUSTRIAL-L All Purpose Industrial Traction Aid, Large, Black",
+            "normalizedName": "Due North APINDUSTRIAL-L All Purpose Industrial Traction Aid, Large, Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B019H7YPWK": {
+            "asin": "B019H7YPWK",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Mokungit 5m 30 leds/m 150 SMD RGB WS2811 Led Digital strip Non-waterproof Black PCB Pixel Light 12V IP20",
+            "normalizedName": "Mokungit 5m 30 leds/m 150 SMD RGB WS2811 Led Digital strip Non-waterproof Black PCB Pixel Light 12V IP20",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

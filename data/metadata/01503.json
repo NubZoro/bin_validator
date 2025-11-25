@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FU1YOZQ": {
+            "asin": "B00FU1YOZQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Conair Metal and Plastic LED Mirror, Chrome/White Finish",
+            "normalizedName": "Conair Metal and Plastic LED Mirror, Chrome/White Finish",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01BTNMGXU": {
+            "asin": "B01BTNMGXU",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Organic Lavender Flowers (Extra Grade - Dried) - 4oz Resealable Bag - 100% Raw From France - by Feel Good Organics",
+            "normalizedName": "Organic Lavender Flowers (Extra Grade - Dried) - 4oz Resealable Bag - 100% Raw From France - by Feel Good Organics",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

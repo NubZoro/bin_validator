@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1590581849": {
+            "asin": "1590581849",
+            "height": {
+                "unit": "IN",
+                "value": 0.90157480223
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.40157479458
+            },
+            "name": "Three Can Keep A Secret (Stella Crown Series)",
+            "normalizedName": "Three Can Keep A Secret (Stella Crown Series)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0500176614536
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.59842519114
+            }
+        },
+        "B006Y7QR6E": {
+            "asin": "B006Y7QR6E",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Michelin MN-4535B Digital Programmable Tire Gauge with Bleed Valve",
+            "normalizedName": "Michelin MN-4535B Digital Programmable Tire Gauge with Bleed Valve",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

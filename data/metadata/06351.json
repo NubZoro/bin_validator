@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00192KYNQ": {
+            "asin": "B00192KYNQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.4724409342
+            },
+            "name": "Camco 43902 12 oz Polycarbonate Margarita Glass - 2 pack",
+            "normalizedName": "Camco 43902 12 oz Polycarbonate Margarita Glass - 2 pack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560426986952
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.055118101
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

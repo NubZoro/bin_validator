@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005KG7EDU": {
+            "asin": "B005KG7EDU",
+            "height": {
+                "unit": "IN",
+                "value": 4.015748023303937
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.559055102689764
+            },
+            "name": "Great Lakes Gelatin Collagen Hydrolysate Beef, Kosher, 16 oz.",
+            "normalizedName": "Great Lakes Gelatin Collagen Hydrolysate Beef, Kosher, 16 oz.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.094488180623622
+            }
+        },
+        "B006KH48VY": {
+            "asin": "B006KH48VY",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Fortrezz SSA2USR Siren Strobe Alarm Wireless Z-wave Red Lense",
+            "normalizedName": "Fortrezz SSA2USR Siren Strobe Alarm Wireless Z-wave Red Lense",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

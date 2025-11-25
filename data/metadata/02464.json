@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001WT11Y2": {
+            "asin": "B001WT11Y2",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.299999982354
+            },
+            "name": "Suncourt HC500-B Flush Fit Brown Register Booster",
+            "normalizedName": "Suncourt HC500-B Flush Fit Brown Register Booster",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00U29M0TI": {
+            "asin": "B00U29M0TI",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "Mega Bloks\u00a0Halo Phaeton Gunship",
+            "normalizedName": "Mega Bloks\u00a0Halo Phaeton Gunship",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B00YESSPFG": {
+            "asin": "B00YESSPFG",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Natural Wood Space Saver Letter and Bill Organizer with Compartments Drawer and 31 Slots",
+            "normalizedName": "Natural Wood Space Saver Letter and Bill Organizer with Compartments Drawer and 31 Slots",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4499999962682715
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B01CQTJJ54": {
+            "asin": "B01CQTJJ54",
+            "height": {
+                "unit": "IN",
+                "value": 6.1499999937270005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.249999990565
+            },
+            "name": "Prefer Green 3-Compartment Bento Lunch Box Containers Multi Color Portion Control Containers with Lids [6 PACK]",
+            "normalizedName": "Prefer Green 3-Compartment Bento Lunch Box Containers Multi Color Portion Control Containers with Lids [6 PACK]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1699999973416677
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0054G5RH6": {
+            "asin": "B0054G5RH6",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Darice 09210 Decorative Wood, Shaker Peg, 3-1/2-Inch",
+            "normalizedName": "Darice 09210 Decorative Wood, Shaker Peg, 3-1/2-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00LKUFKBS": {
+            "asin": "B00LKUFKBS",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Starbucks Cinnamon Dolce K Cups 0.35oz 16 count",
+            "normalizedName": "Starbucks Cinnamon Dolce K Cups 0.35oz 16 count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

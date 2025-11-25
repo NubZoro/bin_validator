@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002J4U62W": {
+            "asin": "B002J4U62W",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "MagnoGrip 203-017 Magnetic Carpenter's Tool Belt",
+            "normalizedName": "MagnoGrip 203-017 Magnetic Carpenter's Tool Belt",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B019D9HESO": {
+            "asin": "B019D9HESO",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "RTIC 30 oz. Tumbler",
+            "normalizedName": "RTIC 30 oz. Tumbler",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1399999990440066
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1567933769": {
+            "asin": "1567933769",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Applying Quality Management in Healthcare, Third Edition",
+            "normalizedName": "Applying Quality Management in Healthcare, Third Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B0182NI3OG": {
+            "asin": "B0182NI3OG",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Modern Innovations Stainless Steel Wine Glasses, Set of 2, 12 Oz Made of Unbreakable BPA Free Shatterproof Steel That Is Dishwasher Safe Great for Daily, Formal and Outdoor Use, Camping & Picnics",
+            "normalizedName": "Set of 2 Modern Innovations Stainless Steel Wine Glasses, , 12 Oz Made of Unbreakable BPA Free Shatterproof Steel That Is Dishwasher Safe Great for Daily, Formal and Outdoor Use, Camping & Picnics",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

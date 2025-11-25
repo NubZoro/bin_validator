@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004QRKWKQ": {
+            "asin": "B004QRKWKQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Microsoft Xbox 360 Wireless Controller for Windows & Xbox 360 Console",
+            "normalizedName": "Microsoft Xbox 360 Wireless Controller for Windows & Xbox 360 Console",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

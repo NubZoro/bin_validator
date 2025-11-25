@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000OONS0G": {
+            "asin": "B000OONS0G",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Boogybytes, Vol. 3",
+            "normalizedName": "Boogybytes, Vol. 3",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770752888384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00313O6H6": {
+            "asin": "B00313O6H6",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "Behind the Smile",
+            "normalizedName": "Behind the Smile",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00DM8JXLO": {
+            "asin": "B00DM8JXLO",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Whirlpool 49572A Gas Conversion Kit",
+            "normalizedName": "Whirlpool 49572A Gas Conversion Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00KTFGIKM": {
+            "asin": "B00KTFGIKM",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Lifefactory 4-Cup Glass Food Storage with Silicone Sleeve, Huckleberry",
+            "normalizedName": "Lifefactory 4-Cup Glass Food Storage with Silicone Sleeve, Huckleberry",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

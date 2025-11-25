@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0043ICR2O": {
+            "asin": "B0043ICR2O",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Berkley Stainless Steel Hook Remover, Black",
+            "normalizedName": "Berkley Stainless Steel Hook Remover, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645638
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01B1GE6KG": {
+            "asin": "B01B1GE6KG",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Laser Lights Outdoor Starry Projector Red and Green Blinking Christmas light Decoration for House Valentine Wedding Party Nightclub",
+            "normalizedName": "Laser Lights Outdoor Starry Projector Red and Green Blinking Christmas light Decoration for House Valentine Wedding Party Nightclub",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

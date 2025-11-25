@@ -1,0 +1,43 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01F9EVPIM": {
+            "asin": "B01F9EVPIM",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.267716527
+            },
+            "name": "Learning Spring Batch - Training DVD",
+            "normalizedName": "Learning Spring Batch - Training DVD",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B01FGCXKSA": {
+            "asin": "B01FGCXKSA",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.267716527
+            },
+            "name": "Introduction to Apache HBase Operations - Training DVD",
+            "normalizedName": "Introduction to Apache HBase Operations - Training DVD",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

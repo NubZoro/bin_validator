@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LCJGZ4I": {
+            "asin": "B00LCJGZ4I",
+            "height": {
+                "unit": "IN",
+                "value": 4.1
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8
+            },
+            "name": "Vandor 26514 Marvel Guardians of the Galaxy 18 oz Acrylic Travel Cup with Lid and Straw, Multicolor",
+            "normalizedName": "Vandor 26514 Marvel Guardians of the Galaxy 18 oz Acrylic Travel Cup with Lid and Straw, Multicolor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.3
+            }
+        },
+        "B01FOJABTQ": {
+            "asin": "B01FOJABTQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Kona Coffee Beans by Imagine - 100% Kona Hawaii - Medium Dark Roast Whole Bean \u2013 8oz Bag",
+            "normalizedName": "Kona Coffee Beans by Imagine - 100% Kona Hawaii - Medium Dark Roast Whole Bean \u2013 8oz Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

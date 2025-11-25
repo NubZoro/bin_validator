@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0182YQW8E": {
+            "asin": "B0182YQW8E",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "name": "TruePower 30A RV Power Twist Lock Inlet",
+            "normalizedName": "TruePower 30A RV Power Twist Lock Inlet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

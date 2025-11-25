@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009AT0RQE": {
+            "asin": "B009AT0RQE",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.6141732216
+            },
+            "name": "Tech21 D3O Impact Snap Case for iPhone 5 / iPhone 5S - Black",
+            "normalizedName": "Tech21 D3O Impact Snap Case for iPhone 5 / iPhone 5S - Black",
+            "quantity": 12,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        },
+        "B00GVA1RCI": {
+            "asin": "B00GVA1RCI",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "Lumitec Shadow Polished Housing White Dimming Light, Red Non-Dimming/Blue Non-Dimming/Purple Non-Dimming",
+            "normalizedName": "Lumitec Shadow Polished Housing White Dimming Light, Red Non-Dimming/Blue Non-Dimming/Purple Non-Dimming",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.34219
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        },
+        "B01E3U221C": {
+            "asin": "B01E3U221C",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "5 Ft Long 2A AC/DC Wall Power Charger Adapter Cord For RCA Voyager RCT6773W22 7 Inch Tablet PC",
+            "normalizedName": "5 Ft Long 2A AC/DC Wall Power Charger Adapter Cord For RCA Voyager RCT6773W22 7 Inch Tablet PC",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

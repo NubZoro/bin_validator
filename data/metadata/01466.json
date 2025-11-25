@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002JM16KA": {
+            "asin": "B002JM16KA",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Chef Works CHAT Chef Hat, White",
+            "normalizedName": "Chef Works CHAT Chef Hat, White",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1556523777": {
+            "asin": "1556523777",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Marco Polo for Kids: His Marvelous Journey to China, 21 Activities (For Kids series)",
+            "normalizedName": "Marco Polo for Kids: His Marvelous Journey to China, 21 Activities (For Kids series)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "161547997X": {
+            "asin": "161547997X",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Excel VLOOKUP Laminated Tip Card: Master VLOOKUP from MrExcel",
+            "normalizedName": "Excel VLOOKUP Laminated Tip Card: Master VLOOKUP from MrExcel",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B010NAIE1I": {
+            "asin": "B010NAIE1I",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "TSSS\u00ae 10 Pack 3-Pin Signal XLR Connection DMX Stage Light Cable Wire 6.5ft/2m for Moving Head Light Par Light",
+            "normalizedName": "10 Pack TSSS\u00ae 3-Pin Signal XLR Connection DMX Stage Light Cable Wire 6.5ft/2m for Moving Head Light Par Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.089999997408755
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

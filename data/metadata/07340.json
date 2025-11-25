@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000UN3H2": {
+            "asin": "B0000UN3H2",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "All of Me-Live in Tokyo",
+            "normalizedName": "All of Me-Live in Tokyo",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770752888384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B002KD0M8A": {
+            "asin": "B002KD0M8A",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Royal Purple 11484 API-Licensed SAE 0W-40 High Performance Synthetic Motor Oil - 1 qt.",
+            "normalizedName": "Royal Purple 11484 API-Licensed SAE 0W-40 High Performance Synthetic Motor Oil - 1 qt.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00I97GM2Q": {
+            "asin": "B00I97GM2Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "One A Day Men's Vitacraves, 150 Count",
+            "normalizedName": "One A Day Men's Vitacraves, 150 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00NMTXYN6": {
+            "asin": "B00NMTXYN6",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "HP x3000 Wireless Mouse, Black (H2C22AA#ABL)",
+            "normalizedName": "HP x3000 Wireless Mouse, Black (H2C22AA#ABL)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B01AHWAGLI": {
+            "asin": "B01AHWAGLI",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Belemay Cowhide Leather Wallet Case with Kickstand for iPhone 6/6s - Brown",
+            "normalizedName": "Belemay Cowhide Leather Wallet Case with Kickstand for iPhone 6/6s - Brown",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

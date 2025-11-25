@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NYDHJHC": {
+            "asin": "B00NYDHJHC",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Redbarn - Small Peanut Butter Filled Bone (5-Pack)",
+            "normalizedName": "(5-Pack) Redbarn - Small Peanut Butter Filled Bone",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00O2TKWSK": {
+            "asin": "B00O2TKWSK",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Lutema 915B441001-P Mitsubishi 915B441001 915B441A01 Replacement DLP/LCD Projection TV Lamp - Premium",
+            "normalizedName": "Lutema 915B441001-P Mitsubishi 915B441001 915B441A01 Replacement DLP/LCD Projection TV Lamp - Premium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

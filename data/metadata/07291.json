@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NH6O4QK": {
+            "asin": "B00NH6O4QK",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "aden + anais Organic Burpy Bib, Wise Guys",
+            "normalizedName": "aden + anais Organic Burpy Bib, Wise Guys",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400474429947
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B00VT940XE": {
+            "asin": "B00VT940XE",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Onker Cute RV Vintage Glass Egg Camper Travel Trailer Pillow Home Style Cotton Linen Decorative Couple Throw Pillow Cover Cushion Case Couple Pillow Case",
+            "normalizedName": "Onker Cute RV Vintage Glass Egg Camper Travel Trailer Pillow Home Style Cotton Linen Decorative Couple Throw Pillow Cover Cushion Case Couple Pillow Case",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

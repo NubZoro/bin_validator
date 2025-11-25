@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000RHGNB6": {
+            "asin": "B000RHGNB6",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Mountain House Rice and Chicken Pro-Pak",
+            "normalizedName": "Mountain House Rice and Chicken Pro-Pak",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B015MGRO64": {
+            "asin": "B015MGRO64",
+            "height": {
+                "unit": "IN",
+                "value": 2.5196850368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.4566929068
+            },
+            "name": "iClever Wireless Bluetooth FM Transmitter Radio Adapter Car Kit with SD Remote Controller, Black",
+            "normalizedName": "iClever Wireless Bluetooth FM Transmitter Radio Adapter Car Kit with SD Remote Controller, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440163462221
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.330708657
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

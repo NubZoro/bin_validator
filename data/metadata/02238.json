@@ -1,0 +1,181 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0133918920": {
+            "asin": "0133918920",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Engineering Mechanics: Statics (14th Edition)",
+            "normalizedName": "Engineering Mechanics: Statics (14th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "0321872185": {
+            "asin": "0321872185",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Intermediate Algebra (10th Edition)",
+            "normalizedName": "Intermediate Algebra (10th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "032195789X": {
+            "asin": "032195789X",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "The Environment and You (2nd Edition)",
+            "normalizedName": "The Environment and You (2nd Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.16
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "0321967674": {
+            "asin": "0321967674",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Campbell Essential Biology with Physiology (5th Edition)",
+            "normalizedName": "Campbell Essential Biology with Physiology (5th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6999999968972146
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "111823376X": {
+            "asin": "111823376X",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Fundamentals of Physics, Volume 1 (Chapters 1 - 20)",
+            "normalizedName": "Fundamentals of Physics, Volume 1 (Chapters 1 - 20)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B000C6OL2U": {
+            "asin": "B000C6OL2U",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Purolator F65277 Fuel Filter",
+            "normalizedName": "Purolator F65277 Fuel Filter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B000V6FKGM": {
+            "asin": "B000V6FKGM",
+            "height": {
+                "unit": "IN",
+                "value": 1.3385826758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.9763779436
+            },
+            "name": "Antec Big Boy 200 - 200mm Tricool Computer Case Fan",
+            "normalizedName": "Antec Big Boy 200 - 200mm Tricool Computer Case Fan",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.66
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.267716527
+            }
+        },
+        "B01D4W0L04": {
+            "asin": "B01D4W0L04",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Weboost 460119 4G Signal-Booster Kit 13.25In. X 10.50In. X 2.25In.",
+            "normalizedName": "Weboost 460119 4G Signal-Booster Kit 13.25In. X 10.50In. X 2.25In.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

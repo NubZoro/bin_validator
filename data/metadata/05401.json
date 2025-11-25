@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001ET7FGS": {
+            "asin": "B001ET7FGS",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Dial Clean & Refresh Body Wash, Lavender & Twilight Jasmine, 21-Ounce (Pack of 3)",
+            "normalizedName": "(Pack of 3) Dial Clean & Refresh Body Wash, Lavender & Twilight Jasmine, 21-Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00B7SAH3E": {
+            "asin": "B00B7SAH3E",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "16 Inch Raptor Tactical Rifled Barrel Type E Paintball Game Accessory",
+            "normalizedName": "16 Inch Raptor Tactical Rifled Barrel Type E Paintball Game Accessory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.199999998776
+            }
+        },
+        "B00C18TYCY": {
+            "asin": "B00C18TYCY",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Samsung MLT-D116L 3.0K High Yield Toner for SL-M2825DW, SL-M2875FD/FW, SL-M2835DW, SL-M2885FW, Black",
+            "normalizedName": "Samsung MLT-D116L 3.0K High Yield Toner for SL-M2825DW, SL-M2875FD/FW, SL-M2835DW, SL-M2885FW, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B01CL6U5W8": {
+            "asin": "B01CL6U5W8",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.173228332
+            },
+            "name": "Sunwell Portable Wig Stand, Collapsible Durable Plastic Wig dryer, Wig Display Tool, 1 PCS Grey",
+            "normalizedName": "Sunwell Portable Wig Stand, Collapsible Durable Plastic Wig dryer, Wig Display Tool, 1 PCS Grey",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 7.87401574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

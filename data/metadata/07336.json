@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009M27MB2": {
+            "asin": "B009M27MB2",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Motorola S11-Flex HD Wireless Stereo Bluetooth Headset - Black/White",
+            "normalizedName": "Motorola S11-Flex HD Wireless Stereo Bluetooth Headset - Black/White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B013RTA1P4": {
+            "asin": "B013RTA1P4",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Funko POP Movies: Crimson Peak - Sir Thomas Sharpe Action Figure",
+            "normalizedName": "Funko POP Movies: Crimson Peak - Sir Thomas Sharpe Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B015NGS7AK": {
+            "asin": "B015NGS7AK",
+            "height": {
+                "unit": "IN",
+                "value": 2.249999997705
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.349999995563
+            },
+            "name": "Naturabest Thermo Blend",
+            "normalizedName": "Naturabest Thermo Blend",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5049999995765116
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B015QZMGLO": {
+            "asin": "B015QZMGLO",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Disney Planes Die-Cast Oversize Sharpes with Spinning Propellers",
+            "normalizedName": "Disney Planes Die-Cast Oversize Sharpes with Spinning Propellers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EXLTF1M": {
+            "asin": "B00EXLTF1M",
+            "height": {
+                "unit": "IN",
+                "value": 4.4881889718
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.1259842396
+            },
+            "name": "Care Bears Cheer Bear 12 Inch Plush",
+            "normalizedName": "Care Bears Cheer Bear 12 Inch Plush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054720373627935
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.7952755826
+            }
+        },
+        "B00YH6AJWC": {
+            "asin": "B00YH6AJWC",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.199999984496
+            },
+            "name": "Telescopic Car and Home Cleaning Duster By Janazala Including Microfiber Towel - For Exterior or Interior Use - Telescopic Extendable Handle. Car Cleaning Kit For Dust.",
+            "normalizedName": "Telescopic Car and Home Cleaning Duster By Janazala Including Microfiber Towel - For Exterior or Interior Use - Telescopic Extendable Handle. Car Cleaning Kit For Dust.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00YV5WD1E": {
+            "asin": "B00YV5WD1E",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Xbox 360 PROEX REALTREE APS",
+            "normalizedName": "Xbox 360 PROEX REALTREE APS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

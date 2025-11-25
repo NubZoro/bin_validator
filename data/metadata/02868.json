@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00068ORVO": {
+            "asin": "B00068ORVO",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Mr. Gasket 54 Carburetor Gasket",
+            "normalizedName": "Mr. Gasket 54 Carburetor Gasket",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00P8DWI5O": {
+            "asin": "B00P8DWI5O",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "EveryDay/\u00aa Multi-Vitamin Capsules - Hypo 125 count",
+            "normalizedName": "EveryDay/\u00aa Multi-Vitamin Capsules - Hypo 125 count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.199999998776
+            }
+        },
+        "B00U3AZQT2": {
+            "asin": "B00U3AZQT2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "5.45cm/12.3g Topwater Frog Fishing Lure Crankbait Tackle Crank Bait Bass Soft Bait",
+            "normalizedName": "5.45cm/12.3g Topwater Frog Fishing Lure Crankbait Tackle Crank Bait Bass Soft Bait",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

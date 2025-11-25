@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006SW71G": {
+            "asin": "B0006SW71G",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Advil Tablets Pain Reliever Refill,200 mg, 50 Two-Packs per Box",
+            "normalizedName": "Advil Tablets Pain Reliever Refill,200 mg, 50 Two-Packs per Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01434I7HQ": {
+            "asin": "B01434I7HQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Alpine Swiss Men's Top Grain Leather Slimfold Wallet Brown",
+            "normalizedName": "Alpine Swiss Men's Top Grain Leather Slimfold Wallet Brown",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995817999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

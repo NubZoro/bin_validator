@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01D88C9U4": {
+            "asin": "B01D88C9U4",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Prolight Jamaican Polarized Sport Sunglasses (Cyan limited)",
+            "normalizedName": "Prolight Jamaican Polarized Sport Sunglasses (Cyan limited)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D8UCDTA": {
+            "asin": "B00D8UCDTA",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "Spiderman Rebound Game",
+            "normalizedName": "Spiderman Rebound Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        },
+        "B00HGGJZN4": {
+            "asin": "B00HGGJZN4",
+            "height": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "479 Degrees Artisan Popcorn, Asiago, Parmesan and Cheddar, 4 Ounce",
+            "normalizedName": "479 Degrees Artisan Popcorn, Asiago, Parmesan and Cheddar, 4 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.399999986332
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

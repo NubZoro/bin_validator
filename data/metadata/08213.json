@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000H0ZJHW": {
+            "asin": "B000H0ZJHW",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Zuke's Mini Naturals Dog Treats, Roasted Chicken Recipe, 16-Ounce",
+            "normalizedName": "Zuke's Mini Naturals Dog Treats, Roasted Chicken Recipe, 16-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B00O0S97SE": {
+            "asin": "B00O0S97SE",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "TFY Universal Car Headrest Mount Holder for Portable DVD Player",
+            "normalizedName": "TFY Universal Car Headrest Mount Holder for Portable DVD Player",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002UC2U2C": {
+            "asin": "B002UC2U2C",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "JR Products 13575 White SPST Modular On/Off Single Switch",
+            "normalizedName": "JR Products 13575 White SPST Modular On/Off Single Switch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B002UC2WNO": {
+            "asin": "B002UC2WNO",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "JR Products 81165 Type B Wheeled Curtain Carrier with Ring, (Pack of 14)",
+            "normalizedName": "(Pack of 14) JR Products 81165 Type B Wheeled Curtain Carrier with Ring,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B01D3TDUCO": {
+            "asin": "B01D3TDUCO",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Rubber Comfort Grip 36 Gel Coloring Pen Set With 50% More Ink Than Other Sets: Glitter, Neon & Pastel Pens, Great For Adult Colouring Books",
+            "normalizedName": "Rubber Comfort Grip 36 Gel Coloring Pen Set With 50% More Ink Than Other Sets: Glitter, Neon & Pastel Pens, Great For Adult Colouring Books",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B01EJSZG1Q": {
+            "asin": "B01EJSZG1Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "\"Shark Tail\" Sleepers Very Cool for the Big Boys!!",
+            "normalizedName": "\"Shark Tail\" Sleepers Very Cool for the Big Boys!!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

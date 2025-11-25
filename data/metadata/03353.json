@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CFU09UO": {
+            "asin": "B00CFU09UO",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Genestra Brands - Super Flavonoids - 90 Capsules",
+            "normalizedName": "Genestra Brands - Super Flavonoids - 90 Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01DUBCQF2": {
+            "asin": "B01DUBCQF2",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Bluetooth Headphones, allimity; Wireless Bluetooth v4.1 Hifi Stereo Headset with Mic Noise Cancelling Sweatproof Sports Earphones for iPhone, iPad, Samsung, Sony, HTC, LG, Motorola and More (Black)",
+            "normalizedName": "Bluetooth Headphones, allimity; Wireless Bluetooth v4.1 Hifi Stereo Headset with Mic Noise Cancelling Sweatproof Sports Earphones for iPhone, iPad, Samsung, Sony, HTC, LG, Motorola and More (Black)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

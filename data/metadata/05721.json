@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JN4VNHS": {
+            "asin": "B00JN4VNHS",
+            "height": {
+                "unit": "IN",
+                "value": 2.7165354303
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.7480314902
+            },
+            "name": "I Love New Yoku / Dolphin Bath Light, White",
+            "normalizedName": "I Love New Yoku / Dolphin Bath Light, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20723241114910373
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0157480274
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

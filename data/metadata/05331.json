@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00368CAV0": {
+            "asin": "B00368CAV0",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Franklin Brass 64044 Paisley Single Duplex Outlet Wall Plate / Switch Plate / Cover, Brushed Satin Pewter",
+            "normalizedName": "Franklin Brass 64044 Paisley Single Duplex Outlet Wall Plate / Switch Plate / Cover, Brushed Satin Pewter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B006L2137U": {
+            "asin": "B006L2137U",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Cetaphil Dermacontrol Moisturizer SPF 30, 4 Fluid Ounce",
+            "normalizedName": "Cetaphil Dermacontrol Moisturizer SPF 30, 4 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B00BUHL3Q2": {
+            "asin": "B00BUHL3Q2",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Vichy Capital Soleil Face & Body Spray For Children SPF 50+ - 200ml",
+            "normalizedName": "Vichy Capital Soleil Face & Body Spray For Children SPF 50+ - 200ml",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00G9E1GYA": {
+            "asin": "B00G9E1GYA",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "GoodSense All Day Allergy, Cetirizine HCL Tablets, 10 mg, 365 Count",
+            "normalizedName": "GoodSense All Day Allergy, Cetirizine HCL Tablets, 10 mg, 365 Count",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.009999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

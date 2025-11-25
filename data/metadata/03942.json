@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001B8ONZI": {
+            "asin": "B001B8ONZI",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Caldwell E-Max Low Profile Electronic Muffs",
+            "normalizedName": "Caldwell E-Max Low Profile Electronic Muffs",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B01AVSY542": {
+            "asin": "B01AVSY542",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Deckey LED Night Light Smart Light 8 ColorsTouch-Sensitive Dimmable Activated Step lighting Lamps Portable Moving Desk Table Atmosphere Light Bedside Lamp",
+            "normalizedName": "Deckey LED Night Light Smart Light 8 ColorsTouch-Sensitive Dimmable Activated Step lighting Lamps Portable Moving Desk Table Atmosphere Light Bedside Lamp",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

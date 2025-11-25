@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0199827001": {
+            "asin": "0199827001",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Trouble in Mind: Stories from a Neuropsychologist's Casebook",
+            "normalizedName": "Trouble in Mind: Stories from a Neuropsychologist's Casebook",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B0006V6TNK": {
+            "asin": "B0006V6TNK",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Joseph Schmidt: A Star Fell from Heaven",
+            "normalizedName": "Joseph Schmidt: A Star Fell from Heaven",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B002L5GQPK": {
+            "asin": "B002L5GQPK",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Volcanoes",
+            "normalizedName": "Volcanoes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18333454586339856
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B01CTEI8EE": {
+            "asin": "B01CTEI8EE",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Deercy LED Light Reflective Vest, 2 LED Wristbands, LED Light Bag Hanging, For Night Running, Jogging, Cycling, Hiking, Party (red)",
+            "normalizedName": "Deercy LED Light Reflective Vest, 2 LED Wristbands, LED Light Bag Hanging, For Night Running, Jogging, Cycling, Hiking, Party (red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01CSJOE6G": {
+            "asin": "B01CSJOE6G",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "iPhone 6 Case, iPhone 6s Clear Case,UCMDA Soft Flexible TPU Silicone Crystal Scratch-Proof Protective Back Case Cover for iPhone 6/6s -4.7\"[Butterfly Wedding Dress]",
+            "normalizedName": "iPhone 6 Case, iPhone 6s Clear Case,UCMDA Soft Flexible TPU Silicone Crystal Scratch-Proof Protective Back Case Cover for iPhone 6/6s -4.7\"[Butterfly Wedding Dress]",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01GWRRR1O": {
+            "asin": "B01GWRRR1O",
+            "height": {
+                "unit": "IN",
+                "value": 3.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "Decorative Rectangle Slate Garden Stake - Pack of 6 Stakes For Indoor or Ourdoor Use.",
+            "normalizedName": "Pack of 6 Decorative Rectangle Slate Garden Stake - Stakes For Indoor or Ourdoor Use.",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

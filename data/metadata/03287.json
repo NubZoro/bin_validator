@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00Z4TQEH0": {
+            "asin": "B00Z4TQEH0",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Reo 11-Piece Measure Mix And Prep Set, Assorted",
+            "normalizedName": "Reo 11-Piece Measure Mix And Prep Set, Assorted",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.7999999959747655
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988066
+            }
+        },
+        "B013OHOD9O": {
+            "asin": "B013OHOD9O",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.599999983068
+            },
+            "name": "WolVol Baby Piano Activity Center with Beautiful Light Shows and Various Music Tunes, Hanging in the Crib",
+            "normalizedName": "WolVol Baby Piano Activity Center with Beautiful Light Shows and Various Music Tunes, Hanging in the Crib",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B01CUQ23HY": {
+            "asin": "B01CUQ23HY",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "DC Comics Superman Plush and Activity Blankie Grow With Me Set",
+            "normalizedName": "DC Comics Superman Plush and Activity Blankie Grow With Me Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

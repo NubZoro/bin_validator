@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002NSJPGM": {
+            "asin": "B002NSJPGM",
+            "height": {
+                "unit": "IN",
+                "value": 3.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "Tervis 1048449 Gonzaga University Emblem Individual Tumbler, 10 oz, Clear",
+            "normalizedName": "Tervis 1048449 Gonzaga University Emblem Individual Tumbler, 10 oz, Clear",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.2
+            }
+        },
+        "B003P0WM12": {
+            "asin": "B003P0WM12",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Master Lock 4688DBLK TSA Accepted Cable Luggage Lock, Black",
+            "normalizedName": "Master Lock 4688DBLK TSA Accepted Cable Luggage Lock, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B003YZ1PLG": {
+            "asin": "B003YZ1PLG",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "j/fit 6lb Rubber Hex Dumbbell (Single)",
+            "normalizedName": "j/fit 6lb Rubber Hex Dumbbell (Single)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

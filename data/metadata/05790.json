@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006JOKQBO": {
+            "asin": "B006JOKQBO",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Intex Kiddie Float 32in x 26in (ages 1-2 years)",
+            "normalizedName": "Intex Kiddie Float 32in x 26in (ages 1-2 years)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B016YA1OHC": {
+            "asin": "B016YA1OHC",
+            "height": {
+                "unit": "IN",
+                "value": 3.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.5
+            },
+            "name": "Tervis 1196057 Iowa University Emblem Individual Tumbler, 16 oz, Quartz",
+            "normalizedName": "Tervis 1196057 Iowa University Emblem Individual Tumbler, 16 oz, Quartz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.1
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EXOTMN0": {
+            "asin": "B00EXOTMN0",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Daniel Tiger's Neighborhood Friend Daniel Tiger Plush",
+            "normalizedName": "Daniel Tiger's Neighborhood Friend Daniel Tiger Plush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B012GBJBDW": {
+            "asin": "B012GBJBDW",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "RDX Maya Hide Leather Boxing Gloves Gel Sparring Glove Punching Bag Mitts Training Muay Thai F7",
+            "normalizedName": "RDX Maya Hide Leather Boxing Gloves Gel Sparring Glove Punching Bag Mitts Training Muay Thai F7",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

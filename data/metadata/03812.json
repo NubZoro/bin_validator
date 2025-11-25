@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01B3KXESU": {
+            "asin": "B01B3KXESU",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Crossfit and Weight Lifting Fingerless Gloves By Circuit+ (Small)",
+            "normalizedName": "Crossfit and Weight Lifting Fingerless Gloves By Circuit+ (Small)",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

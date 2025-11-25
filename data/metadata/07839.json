@@ -1,0 +1,137 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00008OE2L": {
+            "asin": "B00008OE2L",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Richard Strauss: Sinfonia Domestica; Parergon",
+            "normalizedName": "Richard Strauss: Sinfonia Domestica; Parergon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770752888384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B000N5QECU": {
+            "asin": "B000N5QECU",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Hydrosorbent Silica Gel Dehumidifier 200 Gram Reuseable",
+            "normalizedName": "Hydrosorbent Silica Gel Dehumidifier 200 Gram Reuseable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00ABMAJJE": {
+            "asin": "B00ABMAJJE",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Discovery Vaults",
+            "normalizedName": "Discovery Vaults",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00F43DJ06": {
+            "asin": "B00F43DJ06",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "name": "Wrapped in Red: Deluxe Edition",
+            "normalizedName": "Wrapped in Red: Deluxe Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001186074865
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        },
+        "B00FP0KETC": {
+            "asin": "B00FP0KETC",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Classic Christmas Album",
+            "normalizedName": "Classic Christmas Album",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770734815265533
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00PRWT2EG": {
+            "asin": "B00PRWT2EG",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Four (cd + Digital Copy)",
+            "normalizedName": "Four (cd + Digital Copy)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770734815265533
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

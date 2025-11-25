@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000PSBAOM": {
+            "asin": "B000PSBAOM",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Leisure Time 45005 4 way Bromine Test Strip, 50 Count",
+            "normalizedName": "Leisure Time 45005 4 way Bromine Test Strip, 50 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B003HESEU4": {
+            "asin": "B003HESEU4",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Tea Brewing Ball, 2''",
+            "normalizedName": "Tea Brewing Ball, 2''",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B01BCZFM1I": {
+            "asin": "B01BCZFM1I",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.5039369992
+            },
+            "name": "Galaxy S7 Edge Case, VRS Design [Shine Guard][Gray] - [Clear Frost][Rugged Protection] For Samsung S7 Edge",
+            "normalizedName": "Galaxy S7 Edge Case, VRS Design [Shine Guard][Gray] - [Clear Frost][Rugged Protection] For Samsung S7 Edge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9606299162
+            }
+        },
+        "B01G9LWDVC": {
+            "asin": "B01G9LWDVC",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.749999989035
+            },
+            "name": "Teatox Life: Liver Detox tea with dandelion root and milk thistle powder bundle, organic herbal cleanse formula as liver detoxifier, flush and health | Made in USA| USDA Certified",
+            "normalizedName": "Teatox Life: Liver Detox tea with dandelion root and milk thistle powder bundle, organic herbal cleanse formula as liver detoxifier, flush and health | Made in USA| USDA Certified",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064933
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

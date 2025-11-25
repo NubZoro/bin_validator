@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0199972230": {
+            "asin": "0199972230",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Warriors and Worriers: The Survival of the Sexes",
+            "normalizedName": "Warriors and Worriers: The Survival of the Sexes",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B007G5V8KS": {
+            "asin": "B007G5V8KS",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Mind & Body Neck and Shoulder Wrap",
+            "normalizedName": "Mind & Body Neck and Shoulder Wrap",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

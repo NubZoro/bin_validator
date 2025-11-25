@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0892435666": {
+            "asin": "0892435666",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Catechism of the Catholic Church/English",
+            "normalizedName": "Catechism of the Catholic Church/English",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00526P84A": {
+            "asin": "B00526P84A",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Lenox French Perle Dessert Plates, White, Set of 4",
+            "normalizedName": "Set of 4 Lenox French Perle Dessert Plates, White,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B0191SLETC": {
+            "asin": "B0191SLETC",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Aquafaucet Brushed Nickel Waterfall Bathroom Sink Faucet Lavatory Mixer Tap Single Handle Lever",
+            "normalizedName": "Aquafaucet Brushed Nickel Waterfall Bathroom Sink Faucet Lavatory Mixer Tap Single Handle Lever",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7499999968552853
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

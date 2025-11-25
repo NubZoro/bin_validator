@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1111343160": {
+            "asin": "1111343160",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Major Problems in American History, Volume II: Since 1865 (Major Problems in American History Series)",
+            "normalizedName": "Major Problems in American History, Volume II: Since 1865 (Major Problems in American History Series)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "1111531013": {
+            "asin": "1111531013",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Personal Finance",
+            "normalizedName": "Personal Finance",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B000SI2FFM": {
+            "asin": "B000SI2FFM",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Specialty Products Company 1906 1\" Front Coil Spring Spacer",
+            "normalizedName": "Specialty Products Company 1906 1\" Front Coil Spring Spacer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B000V8X7O2": {
+            "asin": "B000V8X7O2",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Rounds Galore! Captivating Rounds, Old and New",
+            "normalizedName": "Rounds Galore! Captivating Rounds, Old and New",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024
+            }
+        },
+        "B00WSA0UB4": {
+            "asin": "B00WSA0UB4",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.299999983374
+            },
+            "name": "'Amy Classic' Lady's Service Satchel (Large Capacity) - Charcoal Gray",
+            "normalizedName": "'Amy Classic' Lady's Service Satchel (Large Capacity) - Charcoal Gray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.49999998623
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

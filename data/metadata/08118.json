@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "157224223X": {
+            "asin": "157224223X",
+            "height": {
+                "unit": "IN",
+                "value": 1.09842519573
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.79921258741
+            },
+            "name": "The Anxiety & Phobia Workbook",
+            "normalizedName": "The Anxiety & Phobia Workbook",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3000386869936
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B01AWWM8FK": {
+            "asin": "B01AWWM8FK",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Yumbox Leakproof Bento Lunch Box Container (French Pink) for Kids and Adults",
+            "normalizedName": "Yumbox Leakproof Bento Lunch Box Container (French Pink) for Kids and Adults",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

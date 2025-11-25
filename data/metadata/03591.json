@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0545117550": {
+            "asin": "0545117550",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "How Do Dinosaurs Eat Their Food? (Book & CD)",
+            "normalizedName": "How Do Dinosaurs Eat Their Food? (Book & CD)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B0085TZRME": {
+            "asin": "B0085TZRME",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "King Pig with Angry Birds Magic. Works with iPad",
+            "normalizedName": "King Pig with Angry Birds Magic. Works with iPad",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00F9Q39XK": {
+            "asin": "B00F9Q39XK",
+            "height": {
+                "unit": "IN",
+                "value": 0.79921259761
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.79921258843
+            },
+            "name": "i-BLASON Apple iPad Air / iPad 5 Auto Wake / Sleep Smart Cover Leather Case (Elastic Hand Strap, Multi-Angle, Card Holder) With Bonus Stylus (Multi-Color to Choose From) 3 Year Warranty (Purple)",
+            "normalizedName": "i-BLASON Apple iPad Air / iPad 5 Auto Wake / Sleep Smart Cover Leather Case (Elastic Hand Strap, Multi-Angle, Card Holder) With Bonus Stylus (Multi-Color to Choose From) 3 Year Warranty (Purple)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.90157479611
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

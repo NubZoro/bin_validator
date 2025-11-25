@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0057PFJW2": {
+            "asin": "B0057PFJW2",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Plasticolor 006949R01 \"Nightmare Before Christmas\" Seat Cover",
+            "normalizedName": "Plasticolor 006949R01 \"Nightmare Before Christmas\" Seat Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B010K6LK1Q": {
+            "asin": "B010K6LK1Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Pool Mate 1-3749 Heavy-Duty 4-foot x 15-foot Winterizing Air Pillow for Above Ground Swimming Pools",
+            "normalizedName": "Pool Mate 1-3749 Heavy-Duty 4-foot x 15-foot Winterizing Air Pillow for Above Ground Swimming Pools",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.499999994549161
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

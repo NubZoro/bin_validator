@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005MHRK5Y": {
+            "asin": "B005MHRK5Y",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Plum Organics Baby Second Blends, Blueberry, Pear and Purple Carrot, 4.0-Ounce Pouches (Pack of 12)",
+            "normalizedName": "(Pack of 12) Plum Organics Baby Second Blends, Blueberry, Pear and Purple Carrot, 4.0-Ounce Pouches",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7499999968552853
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B00W5DMX3C": {
+            "asin": "B00W5DMX3C",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.6850393602
+            },
+            "name": "NoCry Cut Resistant Gloves - High Performance Level 5 Protection, Food Grade. Size Large, Free Ebook Included!",
+            "normalizedName": "NoCry Cut Resistant Gloves - High Performance Level 5 Protection, Food Grade. Size Large, Free Ebook Included!",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.1653543234
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

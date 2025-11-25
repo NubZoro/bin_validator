@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005108J": {
+            "asin": "B00005108J",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.7480314902
+            },
+            "name": "Antec Advance Accent Lighting Red USB-powered 6 LED Strip",
+            "normalizedName": "Antec Advance Accent Lighting Red USB-powered 6 LED Strip",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B004RKP35Q": {
+            "asin": "B004RKP35Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Angry Birds Plush 5-Inch White Bird with Sound",
+            "normalizedName": "Angry Birds Plush 5-Inch White Bird with Sound",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00I0BJ80O": {
+            "asin": "B00I0BJ80O",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "BlenderBottle Full Color Bottles - New Black Translucent Color with Shaker Ball - Pink - 28oz",
+            "normalizedName": "BlenderBottle Full Color Bottles - New Black Translucent Color with Shaker Ball - Pink - 28oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

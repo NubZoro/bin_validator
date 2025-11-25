@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00F1GCZNS": {
+            "asin": "B00F1GCZNS",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Tea, 95 Percent organic, Herbal, Fenugreek, 24 bag ( Multi-Pack)",
+            "normalizedName": "Tea, 95 Percent organic, Herbal, Fenugreek, 24 bag ( Multi-Pack)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.011874878778371569
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

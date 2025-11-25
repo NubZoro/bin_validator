@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TFZKFT2": {
+            "asin": "B00TFZKFT2",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Intel Pemtium Mobile CPU Processor Pm770 Sl7sl 2.133ghz 533fsb 2mb Socket Mpga478c 478m",
+            "normalizedName": "Intel Pemtium Mobile CPU Processor Pm770 Sl7sl 2.133ghz 533fsb 2mb Socket Mpga478c 478m",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01B93PPGK": {
+            "asin": "B01B93PPGK",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "LivingAid\u00ae Essential Oil Diffuser-Aromatherapy Humidifier-300 ml Diffuser with 7 Color Changing LED,Waterless Auto Shut-off Function",
+            "normalizedName": "LivingAid\u00ae Essential Oil Diffuser-Aromatherapy Humidifier-300 ml Diffuser with 7 Color Changing LED,Waterless Auto Shut-off Function",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

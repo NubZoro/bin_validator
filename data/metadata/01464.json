@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LOSLRAO": {
+            "asin": "B00LOSLRAO",
+            "height": {
+                "unit": "IN",
+                "value": 2.5196850368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.7637795176
+            },
+            "name": "Scoopy Condensation Squeegee with Free Ultra Fine Microfibre Cloth",
+            "normalizedName": "Scoopy Condensation Squeegee with Free Ultra Fine Microfibre Cloth",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5291040284657967
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5669291292
+            }
+        },
+        "B01E3XPUNQ": {
+            "asin": "B01E3XPUNQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "VR Headset 3D Virtual Reality Glasses Headset Box for Apple iphone 6 6s plus samsung Galaxy S6/S7/NOTE4/NOTE5/LG G4/Nexus 6/6P",
+            "normalizedName": "VR Headset 3D Virtual Reality Glasses Headset Box for Apple iphone 6 6s plus samsung Galaxy S6/S7/NOTE4/NOTE5/LG G4/Nexus 6/6P",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

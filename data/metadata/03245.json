@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004395680": {
+            "asin": "B004395680",
+            "height": {
+                "unit": "IN",
+                "value": 0.2362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "name": "StarTech.com USB3SAB1 1 Feet SuperSpeed USB 3.0 Cable A to B - M/M",
+            "normalizedName": "StarTech.com USB3SAB1 1 Feet SuperSpeed USB 3.0 Cable A to B - M/M",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5669291292
+            }
+        },
+        "B00C6OG5NY": {
+            "asin": "B00C6OG5NY",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Levenger Circa Vivacious Checklist Pad Trio (ADS8030)",
+            "normalizedName": "Levenger Circa Vivacious Checklist Pad Trio (ADS8030)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

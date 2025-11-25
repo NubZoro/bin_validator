@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0019Z43J4": {
+            "asin": "B0019Z43J4",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "DEWALT DC9320BP 7.2-to-18-Volt NiCd/NiMH/Li-Ion 1-Hour Dual Port Charger and XRP 18-Volt Battery Combo Pack",
+            "normalizedName": "DEWALT DC9320BP 7.2-to-18-Volt NiCd/NiMH/Li-Ion 1-Hour Dual Port Charger and XRP 18-Volt Battery Combo Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0039SLSU6": {
+            "asin": "B0039SLSU6",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Thermos 16 Ounce Vacuum Insulated Travel Mug, Stainless Steel",
+            "normalizedName": "Thermos 16 Ounce Vacuum Insulated Travel Mug, Stainless Steel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00PRMH3JC": {
+            "asin": "B00PRMH3JC",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Minus SOL Ivory Facial Sun Protection SPF40 PA+++ Perfectly Waterproof Dermatologically Tested Approved by the ISPE 25 g",
+            "normalizedName": "Minus SOL Ivory Facial Sun Protection SPF40 PA+++ Perfectly Waterproof Dermatologically Tested Approved by the ISPE 25 g",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

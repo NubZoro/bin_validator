@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001E1Y5O6": {
+            "asin": "B001E1Y5O6",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "VELCRO Brand - ONE-WRAP Cable Management, Thin Self-Gripping Cable Ties: Reusable, Light Duty - 8\" x 1/2\" Ties, 100 Pack - Black",
+            "normalizedName": "100 Pack VELCRO Brand - ONE-WRAP Cable Management, Thin Self-Gripping Cable Ties: Reusable, Light Duty - 8\" x 1/2\" Ties, - Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B011TAQ1NY": {
+            "asin": "B011TAQ1NY",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "name": "EShine\u00ae Rear Facing Back Main Camera Module Flex Cable Replacement for Note 4 N910 N910A, N910V, N910T, N910P, N910R4 (ALL CARRIERS) + EShine Cloth",
+            "normalizedName": "EShine\u00ae Rear Facing Back Main Camera Module Flex Cable Replacement for Note 4 N910 N910A, N910V, N910T, N910P, N910R4 (ALL CARRIERS) + EShine Cloth",
+            "quantity": 28,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 30
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I2Y1CNU": {
+            "asin": "B00I2Y1CNU",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "FURminator deShedding Ultra Premium Shampoo, 16-Ounce",
+            "normalizedName": "FURminator deShedding Ultra Premium Shampoo, 16-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00NEWO2RI": {
+            "asin": "B00NEWO2RI",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "OtterBox Defender Series Case & Holster for Apple iPhone 5 - Wounded Warrior Project - Black / White",
+            "normalizedName": "OtterBox Defender Series Case & Holster for Apple iPhone 5 - Wounded Warrior Project - Black / White",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

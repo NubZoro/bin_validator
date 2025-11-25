@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00280W8UA": {
+            "asin": "B00280W8UA",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Nature: The Wolf That Changed America",
+            "normalizedName": "Nature: The Wolf That Changed America",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B010OPXV38": {
+            "asin": "B010OPXV38",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.749999992095
+            },
+            "name": "MySack Smack a Sack, Stress Relief Sack w/2 Red Stress Balls",
+            "normalizedName": "MySack Smack a Sack, Stress Relief Sack w/2 Red Stress Balls",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.11
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

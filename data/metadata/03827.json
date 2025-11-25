@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001J38N9W": {
+            "asin": "B001J38N9W",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "DEWALT DWS5031 TrackSaw Router Adapter",
+            "normalizedName": "DEWALT DWS5031 TrackSaw Router Adapter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452
+            }
+        },
+        "B00B7QF5QK": {
+            "asin": "B00B7QF5QK",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Clara Clark \u00ae Supreme 1500 Collection 4pc Bed Sheet Set - King Size, Calla Green",
+            "normalizedName": "Clara Clark \u00ae Supreme 1500 Collection 4pc Bed Sheet Set - King Size, Calla Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

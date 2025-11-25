@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0892818700": {
+            "asin": "0892818700",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.661417314
+            },
+            "name": "Indian Mythology: Tales, Symbols, and Rituals from the Heart of the Subcontinent",
+            "normalizedName": "Indian Mythology: Tales, Symbols, and Rituals from the Heart of the Subcontinent",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880332100962
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "0892819855": {
+            "asin": "0892819855",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.7637795176
+            },
+            "name": "Hildegard of Bingen's Spiritual Remedies",
+            "normalizedName": "Hildegard of Bingen's Spiritual Remedies",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.46
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.9527558974
+            }
+        },
+        "1591430704": {
+            "asin": "1591430704",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "The Mayan Code: Time Acceleration and Awakening the World Mind",
+            "normalizedName": "The Mayan Code: Time Acceleration and Awakening the World Mind",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B002VKMA1Y": {
+            "asin": "B002VKMA1Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "2 Pounds - Himalayan Natural Crystal Cooking Pink Salt - X-FINE GROUND",
+            "normalizedName": "2 Pounds - Himalayan Natural Crystal Cooking Pink Salt - X-FINE GROUND",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00SJ2S3SC": {
+            "asin": "B00SJ2S3SC",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Monkey Man 16-Item Accessory Bundle for Amazon Kindle Voyage",
+            "normalizedName": "Monkey Man 16-Item Accessory Bundle for Amazon Kindle Voyage",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000TYQN4O": {
+            "asin": "B000TYQN4O",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Dorman 77534 Rear Driver Side Replacement Exterior Door Handle",
+            "normalizedName": "Dorman 77534 Rear Driver Side Replacement Exterior Door Handle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00FK0AEG0": {
+            "asin": "B00FK0AEG0",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Sangean PR-D18BK Portable Digital Radio (Black/Grey)",
+            "normalizedName": "Sangean PR-D18BK Portable Digital Radio (Black/Grey)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

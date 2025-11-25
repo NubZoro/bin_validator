@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002H3ISDO": {
+            "asin": "B002H3ISDO",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "LASCO 03-1603 Sure Grip Chrome Plated Shallow Flange Fits 3/4-Inch Inside Diameter Copper Pipe",
+            "normalizedName": "LASCO 03-1603 Sure Grip Chrome Plated Shallow Flange Fits 3/4-Inch Inside Diameter Copper Pipe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00R1T7MA4": {
+            "asin": "B00R1T7MA4",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Ultimate Beard Care Kit - Initiative",
+            "normalizedName": "Ultimate Beard Care Kit - Initiative",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B014DAVV00": {
+            "asin": "B014DAVV00",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "ThermoPro TP11 Remote Wireless Digital Electronic Kitchen Cooking Food Meat Thermometer BBQ Smoker Grill Oven - 300 Feet Range",
+            "normalizedName": "ThermoPro TP11 Remote Wireless Digital Electronic Kitchen Cooking Food Meat Thermometer BBQ Smoker Grill Oven - 300 Feet Range",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01AXEWMA8": {
+            "asin": "B01AXEWMA8",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Tanto Cuore: Oktoberfest",
+            "normalizedName": "Tanto Cuore: Oktoberfest",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

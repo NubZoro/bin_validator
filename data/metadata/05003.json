@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000C9WJ8K": {
+            "asin": "B000C9WJ8K",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "WIX Filters - 33001 Fuel (Complete In-Line) Filter, Pack of 1",
+            "normalizedName": "Pack of 1 WIX Filters - 33001 Fuel (Complete In-Line) Filter,",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B014PNOWGU": {
+            "asin": "B014PNOWGU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "250ft Red Crepe Paper Streamers",
+            "normalizedName": "250ft Red Crepe Paper Streamers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

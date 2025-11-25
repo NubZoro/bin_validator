@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003YFGL42": {
+            "asin": "B003YFGL42",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "GOJO 8240-06 Skin Lotion, 800mL Refill (Pack of 6)",
+            "normalizedName": "(Pack of 6) GOJO 8240-06 Skin Lotion, 800mL Refill",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B015PGKDVO": {
+            "asin": "B015PGKDVO",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Roewell\u00ae Baby Elastic Hair Hoops Headbands and Girl's Fashion Soft Headbands (6 Pack set 7)",
+            "normalizedName": "6 Pack Roewell\u00ae Baby Elastic Hair Hoops Headbands and Girl's Fashion Soft Headbands ( set 7)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

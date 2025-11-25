@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001QTMTNA": {
+            "asin": "B001QTMTNA",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Waterbed Mattress Fill & Drain Kit",
+            "normalizedName": "Waterbed Mattress Fill & Drain Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00EOMJAWY": {
+            "asin": "B00EOMJAWY",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Cabin in the Woods / Tucker & Dale VS Evil (Double Feature)",
+            "normalizedName": "Cabin in the Woods / Tucker & Dale VS Evil (Double Feature)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18333454586339856
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009T45X78": {
+            "asin": "B009T45X78",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Nerf N-Strike Jolt Blaster (blue)",
+            "normalizedName": "Nerf N-Strike Jolt Blaster (blue)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00FEPLC0S": {
+            "asin": "B00FEPLC0S",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "New Star 42542 Commercial Grade Iron Steak Weight/Bacon Press, 9.25 by 5.25-Inch",
+            "normalizedName": "New Star 42542 Commercial Grade Iron Steak Weight/Bacon Press, 9.25 by 5.25-Inch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0999999974003694
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

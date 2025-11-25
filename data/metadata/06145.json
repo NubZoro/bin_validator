@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NB619UA": {
+            "asin": "B00NB619UA",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.4330708606
+            },
+            "name": "Melody Road",
+            "normalizedName": "Melody Road",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001186074865
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8031496014
+            }
+        },
+        "B00NSL0GFM": {
+            "asin": "B00NSL0GFM",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Fiskars Tag Maker, Simple",
+            "normalizedName": "Fiskars Tag Maker, Simple",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01GSB6ZF8": {
+            "asin": "B01GSB6ZF8",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "name": "4-in-1 Beauty System Care Kit by Youth Stream",
+            "normalizedName": "4-in-1 Beauty System Care Kit by Youth Stream",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

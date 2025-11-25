@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00032K2NA": {
+            "asin": "B00032K2NA",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Cruiser Accessories 20650 Nouveau, Black",
+            "normalizedName": "Cruiser Accessories 20650 Nouveau, Black",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B002HNZTPO": {
+            "asin": "B002HNZTPO",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Rubbermaid Dustpan, Small",
+            "normalizedName": "Rubbermaid Dustpan, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B007F0QWE6": {
+            "asin": "B007F0QWE6",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.992125971
+            },
+            "name": "10\" Natural Fans (1 Dozen) - BULK",
+            "normalizedName": "10\" Natural Fans (1 Dozen) - BULK",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.1811023508
+            }
+        },
+        "B00LOWZZVM": {
+            "asin": "B00LOWZZVM",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Pantry Gypsy Moth Trap (Pack of 2)",
+            "normalizedName": "(Pack of 2) Pantry Gypsy Moth Trap",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

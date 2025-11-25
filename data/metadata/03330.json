@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0062220977": {
+            "asin": "0062220977",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Asylum",
+            "normalizedName": "Asylum",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "0070431469": {
+            "asin": "0070431469",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Get More Money on Your Next Job: 25 Proven Strategies for Getting More Money, Better Benefits, and Greater Job Security",
+            "normalizedName": "Get More Money on Your Next Job: 25 Proven Strategies for Getting More Money, Better Benefits, and Greater Job Security",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "1476779171": {
+            "asin": "1476779171",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Trust No One: A Thriller",
+            "normalizedName": "Trust No One: A Thriller",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1463920607145395
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.2204724346
+            }
+        },
+        "B000UWQUK2": {
+            "asin": "B000UWQUK2",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Archipelago Botanicals Milk Body Wash 33 Oz",
+            "normalizedName": "Archipelago Botanicals Milk Body Wash 33 Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B000XYCQR8": {
+            "asin": "B000XYCQR8",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Advil Advanced Medicine for Pain, 200mg, Liqui-gels 80 Ea",
+            "normalizedName": "Advil Advanced Medicine for Pain, 200mg, Liqui-gels 80 Ea",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

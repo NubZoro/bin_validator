@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006RH5I": {
+            "asin": "B00006RH5I",
+            "height": {
+                "unit": "IN",
+                "value": 5.1968503884
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.7559054988
+            },
+            "name": "Celestron Accessory Kit",
+            "normalizedName": "Celestron Accessory Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.2769242300985235
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.7322834526
+            }
+        },
+        "B00BS00BGE": {
+            "asin": "B00BS00BGE",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Ikea Nyponros Duvet Cover and Pillowcases, Full/queen, Gray",
+            "normalizedName": "Ikea Nyponros Duvet Cover and Pillowcases, Full/queen, Gray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B018QAYM7C": {
+            "asin": "B018QAYM7C",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Samsung Galaxy Tab E 9.6\" 16 GB Wifi (Black)",
+            "normalizedName": "Samsung Galaxy Tab E 9.6\" 16 GB Wifi (Black)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

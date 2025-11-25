@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00XASPZ86": {
+            "asin": "B00XASPZ86",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Disney Frozen Silver Snowflakes Elsa Wig Exclusive Dress Up Toy",
+            "normalizedName": "Disney Frozen Silver Snowflakes Elsa Wig Exclusive Dress Up Toy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

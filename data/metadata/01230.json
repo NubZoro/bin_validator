@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007CZI6BG": {
+            "asin": "B007CZI6BG",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "The Universal Capper OJ-NDV7-41ZH Rigamonti Capper",
+            "normalizedName": "The Universal Capper OJ-NDV7-41ZH Rigamonti Capper",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B007OQ7BQO": {
+            "asin": "B007OQ7BQO",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Crystal Light On-The-Go Green Tea Peach Mango, 0.8 ounce, 10 count",
+            "normalizedName": "Crystal Light On-The-Go Green Tea Peach Mango, 0.8 ounce, 10 count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B008244516": {
+            "asin": "B008244516",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Wiss 9328 1570B Replacement Blades For Quick-Clip Lightweight Speed Cutters",
+            "normalizedName": "Wiss 9328 1570B Replacement Blades For Quick-Clip Lightweight Speed Cutters",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01D8YBSOG": {
+            "asin": "B01D8YBSOG",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Ole's Pancake & Waffle Mix (pack of 3)",
+            "normalizedName": "Ole's Pancake & Waffle Mix (pack of 3)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098323
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

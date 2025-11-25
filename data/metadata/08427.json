@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00COLHKEM": {
+            "asin": "B00COLHKEM",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "Uncle Milton - Dinosaur Expedition Wild Walls - Light and Sound Room Decor",
+            "normalizedName": "Uncle Milton - Dinosaur Expedition Wild Walls - Light and Sound Room Decor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B00O0G360G": {
+            "asin": "B00O0G360G",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Ohuhu Flameless Weatherproof Outdoor and Indoor Color Changing Candles with Remote Control & Timer, 3 Pack",
+            "normalizedName": "3 Pack Ohuhu Flameless Weatherproof Outdoor and Indoor Color Changing Candles with Remote Control & Timer,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00WV92MV8": {
+            "asin": "B00WV92MV8",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Disney Frozen 6 Instrument Party Band",
+            "normalizedName": "Disney Frozen 6 Instrument Party Band",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

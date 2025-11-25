@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001072BVS": {
+            "asin": "B001072BVS",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "AvoDerm Natural Oatmeal Formula Shampoo for Dogs and Cats, 16 oz",
+            "normalizedName": "AvoDerm Natural Oatmeal Formula Shampoo for Dogs and Cats, 16 oz",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

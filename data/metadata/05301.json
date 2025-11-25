@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000COVG8E": {
+            "asin": "B000COVG8E",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.799999981844
+            },
+            "name": "Magnaflow 94005 Universal Catalytic Converter (Non CARB compliant)",
+            "normalizedName": "Magnaflow 94005 Universal Catalytic Converter (Non CARB compliant)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B000XQQ07S": {
+            "asin": "B000XQQ07S",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.799999983884
+            },
+            "name": "Magnaflow 10781 Tru - X Stainless Steel 2.5\" Exhaust Pipe",
+            "normalizedName": "Magnaflow 10781 Tru - X Stainless Steel 2.5\" Exhaust Pipe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CBFAF48": {
+            "asin": "B00CBFAF48",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Thermos Funtainer 16 Ounce Bottle, Purple",
+            "normalizedName": "Thermos Funtainer 16 Ounce Bottle, Purple",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999877513042544
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00IDHMJ4W": {
+            "asin": "B00IDHMJ4W",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "PackIt Freezable Lunch Bag with Zip Closure, Hearts",
+            "normalizedName": "PackIt Freezable Lunch Bag with Zip Closure, Hearts",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

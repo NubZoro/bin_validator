@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0030BBHN0": {
+            "asin": "B0030BBHN0",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "K&N 63-1126 Harley Davidson Performance Intake Kit",
+            "normalizedName": "K&N 63-1126 Harley Davidson Performance Intake Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B010VWT110": {
+            "asin": "B010VWT110",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Home Art Contemporary Art Zen Giclee Canvas Prints Framed Canvas Wall Art for Home Decor Perfect 4 Panels Wall Decorations for Living Room Bedroom Office Each Panel Size:12x12inch",
+            "normalizedName": "Home Art Contemporary Art Zen Giclee Canvas Prints Framed Canvas Wall Art for Home Decor Perfect 4 Panels Wall Decorations for Living Room Bedroom Office Each Panel Size:12x12inch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.199999987556
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

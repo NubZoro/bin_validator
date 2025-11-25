@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005KDEIZ0": {
+            "asin": "B005KDEIZ0",
+            "height": {
+                "unit": "IN",
+                "value": 1.6535433054
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.2204724346
+            },
+            "name": "Rubbermaid Commercial Oven Thermometer, Stainless Steel, FGTH0550",
+            "normalizedName": "Rubbermaid Commercial Oven Thermometer, Stainless Steel, FGTH0550",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5669291292
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

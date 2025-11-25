@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00UJ2GX82": {
+            "asin": "B00UJ2GX82",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Playskool Heroes Star Wars Galactic Heroes Han Solo and Chewbacca",
+            "normalizedName": "Playskool Heroes Star Wars Galactic Heroes Han Solo and Chewbacca",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

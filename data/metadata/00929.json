@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B018R6493W": {
+            "asin": "B018R6493W",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Elf On The Shelf Plush Dolls Girl Figure Christmas Tradition Novelty Toy Gift red",
+            "normalizedName": "Elf On The Shelf Plush Dolls Girl Figure Christmas Tradition Novelty Toy Gift red",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

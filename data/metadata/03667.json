@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003DR4XKK": {
+            "asin": "B003DR4XKK",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Macally ISYNCABLEP 3' Data and Sync Cable for iPhone, iPod and iPad 1 and 2",
+            "normalizedName": "Macally ISYNCABLEP 3' Data and Sync Cable for iPhone, iPod and iPad 1 and 2",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.699999996226
+            }
+        },
+        "B0083ER6Y8": {
+            "asin": "B0083ER6Y8",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Bullet Weights Ball with Fin Downrigger (6-Pound, Black)",
+            "normalizedName": "Bullet Weights Ball with Fin Downrigger (6-Pound, Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GSWU07W": {
+            "asin": "B00GSWU07W",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.599999984088
+            },
+            "name": "The North Face Men's Apex Chromium Thermal Jacket TNF Black Heather/TNF Black Heather MD",
+            "normalizedName": "The North Face Men's Apex Chromium Thermal Jacket TNF Black Heather/TNF Black Heather MD",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

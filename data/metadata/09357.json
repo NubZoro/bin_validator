@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012MGTM1C": {
+            "asin": "B012MGTM1C",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Marvel 6-Inch Legends Series Iron Man Mark 46 Figure",
+            "normalizedName": "Marvel 6-Inch Legends Series Iron Man Mark 46 Figure",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

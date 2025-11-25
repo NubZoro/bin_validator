@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EPXAGW": {
+            "asin": "B000EPXAGW",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "name": "BHI Calming Tablets, 100 Count",
+            "normalizedName": "BHI Calming Tablets, 100 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.4960629906
+            }
+        },
+        "B003L4YLAC": {
+            "asin": "B003L4YLAC",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "Baldwin 4045150 Satin Nickel Door Stop Accessory",
+            "normalizedName": "Baldwin 4045150 Satin Nickel Door Stop Accessory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B007JZ1N00": {
+            "asin": "B007JZ1N00",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "3M Half Facepiece Reusable Respirator 6200/07025(AAD), Respiratory Protection, Medium(Pack of 1)",
+            "normalizedName": "(Pack of 1) 3M Half Facepiece Reusable Respirator 6200/07025(AAD), Respiratory Protection, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00IM3GSA8": {
+            "asin": "B00IM3GSA8",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Tac-force Assisted Opening Sawback Bowie Rescue High Carbon Half Serrated Silver Stainless Steel Blade Knife - Pink",
+            "normalizedName": "Tac-force Assisted Opening Sawback Bowie Rescue High Carbon Half Serrated Silver Stainless Steel Blade Knife - Pink",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B015QZMHRM": {
+            "asin": "B015QZMHRM",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Minecraft Mini Figure 3-Pack, Alex with Enchanted Armor, Skeleton with Pumpkin Armor & Zombie At Door",
+            "normalizedName": "3-Pack Minecraft Mini Figure , Alex with Enchanted Armor, Skeleton with Pumpkin Armor & Zombie At Door",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

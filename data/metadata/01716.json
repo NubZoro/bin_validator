@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ES3V8OC": {
+            "asin": "B00ES3V8OC",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Great Lakes Gelatin, Gelatin Collagen (Green), 1 Lb (Pack of 4",
+            "normalizedName": "Pack of 4 Great Lakes Gelatin, Gelatin Collagen (Green), 1 Lb (",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.849999995932835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

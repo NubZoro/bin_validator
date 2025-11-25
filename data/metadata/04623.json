@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GAXXDK": {
+            "asin": "B000GAXXDK",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "name": "S.P. Richards Company Envelope Moistener, Pencil Type, Sponge Tipped (SPR01482)",
+            "normalizedName": "S.P. Richards Company Envelope Moistener, Pencil Type, Sponge Tipped (SPR01482)",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B000IXC7IW": {
+            "asin": "B000IXC7IW",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "SOG Specialty Knives & Tools FSA8-CP Flash II Knife with Straight Edge Assisted Folding 3.5-Inch Steel Drop Point Blade and GRN Handle, Satin Finish",
+            "normalizedName": "SOG Specialty Knives & Tools FSA8-CP Flash II Knife with Straight Edge Assisted Folding 3.5-Inch Steel Drop Point Blade and GRN Handle, Satin Finish",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01D1B550E": {
+            "asin": "B01D1B550E",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Anker PowerLine USB-C Combo, includes USB-C to USB-C 2.0 and USB-C to USB-A 3.0 cables, High Data Transfer Speeds and Unrivaled Durability",
+            "normalizedName": "Anker PowerLine USB-C Combo, includes USB-C to USB-C 2.0 and USB-C to USB-A 3.0 cables, High Data Transfer Speeds and Unrivaled Durability",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 19
+}

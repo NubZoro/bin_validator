@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CXLQIAU": {
+            "asin": "B00CXLQIAU",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Nerf Rebelle Dart Refill Pack",
+            "normalizedName": "Nerf Rebelle Dart Refill Pack",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00SCHHTA2": {
+            "asin": "B00SCHHTA2",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "6PC City Color Matte Lipstick Perfect Shades of Red set of 6 color #L0021C",
+            "normalizedName": "6PC City Color Matte Lipstick Perfect Shades of Red set of 6 color #L0021C",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VSCDC6S": {
+            "asin": "B00VSCDC6S",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "Furla Women's SU4881 550700 Rectangular Sunglasses, Black/Leather/Gradient Grey Lens, 55 mm",
+            "normalizedName": "Furla Women's SU4881 550700 Rectangular Sunglasses, Black/Leather/Gradient Grey Lens, 55 mm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200237214973
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.2283464534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

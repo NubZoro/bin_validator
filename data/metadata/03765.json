@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0962936022": {
+            "asin": "0962936022",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "The First Days of School: How to Be an Effective Teacher",
+            "normalizedName": "The First Days of School: How to Be an Effective Teacher",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00R5Y5ONC": {
+            "asin": "B00R5Y5ONC",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "The Orb Factory Sew Softies Sea Creatures Kit",
+            "normalizedName": "The Orb Factory Sew Softies Sea Creatures Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B011MIV3EU": {
+            "asin": "B011MIV3EU",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Playskool Heroes Marvel Super Hero Adventures Ultimate Super Hero Set",
+            "normalizedName": "Playskool Heroes Marvel Super Hero Adventures Ultimate Super Hero Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

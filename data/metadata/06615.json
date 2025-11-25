@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KGHWL04": {
+            "asin": "B00KGHWL04",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Aqua Fresh WF700 Replacement for LG LT700P (Pack of 3)",
+            "normalizedName": "(Pack of 3) Aqua Fresh WF700 Replacement for LG LT700P",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

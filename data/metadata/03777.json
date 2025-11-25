@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NJBN6I": {
+            "asin": "B000NJBN6I",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "Denali 93-Piece 1/4-, 3/8-, and 1/2-Inch Drive Socket Set, SAE/Metric",
+            "normalizedName": "Denali 93-Piece 1/4-, 3/8-, and 1/2-Inch Drive Socket Set, SAE/Metric",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.549999990314278
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.399999987352
+            }
+        },
+        "B016U26V86": {
+            "asin": "B016U26V86",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "JBM Adult Extra Large Cap Street Knee and Elbow Pads with Wrist Guards for Street / Park Skate, Skateboard, Skateboarding, Inline Roller Skating, Bmx, Bike, Cycling, Scooters (Black & White, Adult)",
+            "normalizedName": "JBM Adult Extra Large Cap Street Knee and Elbow Pads with Wrist Guards for Street / Park Skate, Skateboard, Skateboarding, Inline Roller Skating, Bmx, Bike, Cycling, Scooters (Black & White, Adult)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        },
+        "B0185Z99BM": {
+            "asin": "B0185Z99BM",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Honeywell MA0251 Led Utility Light",
+            "normalizedName": "Honeywell MA0251 Led Utility Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.7999999959747655
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

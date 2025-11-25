@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000N30EC8": {
+            "asin": "B000N30EC8",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Erin Baker's Breakfast Cookie Caramel Apple, 3-Ounce Individually Wrapped Cookies,12 Count",
+            "normalizedName": "Erin Baker's Breakfast Cookie Caramel Apple, 3-Ounce Individually Wrapped Cookies,12 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.249999998113171
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00NS0JD4S": {
+            "asin": "B00NS0JD4S",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Magnetic Invisible Quilt Hangers",
+            "normalizedName": "Magnetic Invisible Quilt Hangers",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.42000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B012T97SDQ": {
+            "asin": "B012T97SDQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.29921259506
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Solgar Magnesium Citrate Tablets, 120 Count",
+            "normalizedName": "Solgar Magnesium Citrate Tablets, 120 Count",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9700339528
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.40157479968
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

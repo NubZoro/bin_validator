@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002Q10XD0": {
+            "asin": "B002Q10XD0",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Quicktop Soda Preserver",
+            "normalizedName": "Quicktop Soda Preserver",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00JBDBZW4": {
+            "asin": "B00JBDBZW4",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "GE 20396 4 Conductor 25-Feet Line Cord Phone Cord Cable Extension Line + Duplex Wall Jack Adapter Splitter RJ11 , Ivory",
+            "normalizedName": "GE 20396 4 Conductor 25-Feet Line Cord Phone Cord Cable Extension Line + Duplex Wall Jack Adapter Splitter RJ11 , Ivory",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

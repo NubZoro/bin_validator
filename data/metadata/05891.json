@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004FUJ5NE": {
+            "asin": "B004FUJ5NE",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Red Sea Reef Foundation Test Kit - Calcium, Alkalinity & Magnesium",
+            "normalizedName": "Red Sea Reef Foundation Test Kit - Calcium, Alkalinity & Magnesium",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00SOGBIBM": {
+            "asin": "B00SOGBIBM",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Outdoor Water Bottle 32 Ounce - Leakproof - Sturdy - Lightweight - Unbreakable - Easy to Carry - Great for Hiking - Camping - Traveling",
+            "normalizedName": "Outdoor Water Bottle 32 Ounce - Leakproof - Sturdy - Lightweight - Unbreakable - Easy to Carry - Great for Hiking - Camping - Traveling",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00VG4ZPLI": {
+            "asin": "B00VG4ZPLI",
+            "height": {
+                "unit": "IN",
+                "value": 1.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.4
+            },
+            "name": "KaLeido Men's 32mm Leather Belt With Plaque Buckle (32-34, Black)",
+            "normalizedName": "KaLeido Men's 32mm Leather Belt With Plaque Buckle (32-34, Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3
+            }
+        },
+        "B018TRMM6K": {
+            "asin": "B018TRMM6K",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Jagwire OEM Braided Universal Housing kit for Bicycle Brake and Shifter -4 Colors (Black Silver)",
+            "normalizedName": "Jagwire OEM Braided Universal Housing kit for Bicycle Brake and Shifter -4 Colors (Black Silver)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

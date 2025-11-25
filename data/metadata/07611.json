@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002563MW": {
+            "asin": "B0002563MW",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "PENN PLAX Standard Airline Tubing Air Pump Accessories, 25-Feet",
+            "normalizedName": "PENN PLAX Standard Airline Tubing Air Pump Accessories, 25-Feet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B001HDRHR8": {
+            "asin": "B001HDRHR8",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "NeilMed Sinus Rinse - 2 Bottles - 250 Premixed Packets and NasaMist Saline Spray, Kit",
+            "normalizedName": "NeilMed Sinus Rinse - 2 Bottles - 250 Premixed Packets and NasaMist Saline Spray, Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

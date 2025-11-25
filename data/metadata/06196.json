@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001M0FZW": {
+            "asin": "B0001M0FZW",
+            "height": {
+                "unit": "IN",
+                "value": 1.7322834628
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8188976288
+            },
+            "name": "Vacu Vin Wine Saver Pump with 2 x Vacuum Bottle Stoppers - White",
+            "normalizedName": "Vacu Vin Wine Saver Pump with 2 x Vacuum Bottle Stoppers - White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26455201423289837
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3858267682
+            }
+        },
+        "B004DJGT9K": {
+            "asin": "B004DJGT9K",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Pentair 190092 Internal Air Bleed Assembly Replacement FNS Plus Pool and Spa Vertical Grid D.E. Filter",
+            "normalizedName": "Pentair 190092 Internal Air Bleed Assembly Replacement FNS Plus Pool and Spa Vertical Grid D.E. Filter",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.03
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B009RP7NEU": {
+            "asin": "B009RP7NEU",
+            "height": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.0393700736
+            },
+            "name": "Pepper fresh Pod By Joie",
+            "normalizedName": "Pepper fresh Pod By Joie",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2645520140110475
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

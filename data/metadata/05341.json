@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1462502423": {
+            "asin": "1462502423",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Taking Charge of Anger, Second Edition: Six Steps to Asserting Yourself without Losing Control",
+            "normalizedName": "Taking Charge of Anger, Second Edition: Six Steps to Asserting Yourself without Losing Control",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "1593850638": {
+            "asin": "1593850638",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8188976288
+            },
+            "name": "I Love a Fire Fighter: What the Family Needs to Know",
+            "normalizedName": "I Love a Fire Fighter: What the Family Needs to Know",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8800192112254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "1593854269": {
+            "asin": "1593854269",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024
+            },
+            "name": "Helping Teens Who Cut: Understanding and Ending Self-Injury",
+            "normalizedName": "Helping Teens Who Cut: Understanding and Ending Self-Injury",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

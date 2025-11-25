@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IVPU786": {
+            "asin": "B00IVPU786",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Samsung EVO 32GB Class 10 Micro SDHC Card with Adapter (MB-MP32DA/AM)",
+            "normalizedName": "Samsung EVO 32GB Class 10 Micro SDHC Card with Adapter (MB-MP32DA/AM)",
+            "quantity": 14,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.039999999966456375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B017IC71OK": {
+            "asin": "B017IC71OK",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "(2 pack) Reusable Brilliant Carafe K Cups for Keurig 2.0 \u2013Compatible & Refillable with Keurig 2.0 coffee filter for, K200, K300, K400, K500 Series",
+            "normalizedName": "(2 pack) Reusable Brilliant Carafe K Cups for Keurig 2.0 \u2013Compatible & Refillable with Keurig 2.0 coffee filter for, K200, K300, K400, K500 Series",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 17
+}

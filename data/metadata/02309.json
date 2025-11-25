@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007782HM2": {
+            "asin": "B007782HM2",
+            "height": {
+                "unit": "IN",
+                "value": 3.3858267682
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.960629906
+            },
+            "name": "Batman Dark Knight Rises Child's Deluxe Muscle Chest Batman Costume with Mask/Headpiece and Cape - Small",
+            "normalizedName": "Batman Dark Knight Rises Child's Deluxe Muscle Chest Batman Costume with Mask/Headpiece and Cape - Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0141160537090157
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.2913385732
+            }
+        },
+        "B013OZUKTI": {
+            "asin": "B013OZUKTI",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.49999998317
+            },
+            "name": "OUTERDO Woodland and Forest Design Ghillie Suit Military Leaf Hunting Camo Tactical Camouflage Clothing Ghillie Suit Free Size",
+            "normalizedName": "OUTERDO Woodland and Forest Design Ghillie Suit Military Leaf Hunting Camo Tactical Camouflage Clothing Ghillie Suit Free Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3499999971907215
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993777999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

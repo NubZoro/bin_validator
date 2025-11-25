@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011W7IA42": {
+            "asin": "B011W7IA42",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "AmazonBasics Nano Bluetooth Speaker - Blue",
+            "normalizedName": "AmazonBasics Nano Bluetooth Speaker - Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01BDZXT0S": {
+            "asin": "B01BDZXT0S",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.749999993115
+            },
+            "name": "DreamGEAR Dreamgear Dgxb1-6624 Xbox One Dual Power Dock - Xbox One",
+            "normalizedName": "DreamGEAR Dreamgear Dgxb1-6624 Xbox One Dual Power Dock - Xbox One",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.249999995665
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001LPGS1S": {
+            "asin": "B001LPGS1S",
+            "height": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.779527545
+            },
+            "name": "Chicago Express",
+            "normalizedName": "Chicago Express",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.26
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.9763779436
+            }
+        },
+        "B00720I7TC": {
+            "asin": "B00720I7TC",
+            "height": {
+                "unit": "IN",
+                "value": 3.3464566895
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.81102361
+            },
+            "name": "Escape",
+            "normalizedName": "Escape",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4392112872
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.81102361
+            }
+        },
+        "B008IYFV40": {
+            "asin": "B008IYFV40",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Generic 50W LED RGB Color Change Flood Outdoor Light Lamp Remote Control 90-240V",
+            "normalizedName": "Generic 50W LED RGB Color Change Flood Outdoor Light Lamp Remote Control 90-240V",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.399999987352
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

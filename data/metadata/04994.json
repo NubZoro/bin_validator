@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000MN1PLI": {
+            "asin": "B000MN1PLI",
+            "height": {
+                "unit": "IN",
+                "value": 0.749999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Steel Machine Screw, Zinc Plated Finish, Pan Head, Phillips Drive, 3/4\" Length, #6-32 Threads (Pack of 100)",
+            "normalizedName": "(Pack of 100) Steel Machine Screw, Zinc Plated Finish, Pan Head, Phillips Drive, 3/4\" Length, #6-32 Threads",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.31
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.249999996685
+            }
+        },
+        "B0152Y03XC": {
+            "asin": "B0152Y03XC",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "5.9\" Women Lace Bun Cover Net Snood Bowknot Decor Barrette Hair Clip HCA816 (Purple)",
+            "normalizedName": "5.9\" Women Lace Bun Cover Net Snood Bowknot Decor Barrette Hair Clip HCA816 (Purple)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01DTZKOGM": {
+            "asin": "B01DTZKOGM",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Morecoo Art LED Desk Lamp with Flexible Neck USB Rechargeable Eye-care Night Lights(Blue)",
+            "normalizedName": "Morecoo Art LED Desk Lamp with Flexible Neck USB Rechargeable Eye-care Night Lights(Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.539999999547161
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

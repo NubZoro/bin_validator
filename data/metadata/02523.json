@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000I19A7K": {
+            "asin": "B000I19A7K",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Prime-Line Products R 7085 Drawer Track Guide Kit, 1-1/8 in. Plastic, Green Guide w/White Saddles (Pack of 2)",
+            "normalizedName": "(Pack of 2) Prime-Line Products R 7085 Drawer Track Guide Kit, 1-1/8 in. Plastic, Green Guide w/White Saddles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B004AHOGXG": {
+            "asin": "B004AHOGXG",
+            "height": {
+                "unit": "IN",
+                "value": 1.1299999988473999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.4399999944512
+            },
+            "name": "Prime-Line Products U 9839 Keyed Sliding Window Lock, White Finish",
+            "normalizedName": "Prime-Line Products U 9839 Keyed Sliding Window Lock, White Finish",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.8099999961138
+            }
+        },
+        "B00B22BCJS": {
+            "asin": "B00B22BCJS",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Ultra Moisture Body Wash With Shea Butter 13.5 oz",
+            "normalizedName": "Ultra Moisture Body Wash With Shea Butter 13.5 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00E3NFAQE": {
+            "asin": "B00E3NFAQE",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Prime-Line Products N 7439 Bi-Fold Door Knob, 1-11/16 in. Outside Diameter, Diecast, White",
+            "normalizedName": "Prime-Line Products N 7439 Bi-Fold Door Knob, 1-11/16 in. Outside Diameter, Diecast, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00V57W65Y": {
+            "asin": "B00V57W65Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Spiceologist Premium Spices - Crushed Chili Flake - 12 oz - Packaged in Standard PC1 Bulk Container",
+            "normalizedName": "Spiceologist Premium Spices - Crushed Chili Flake - 12 oz - Packaged in Standard PC1 Bulk Container",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

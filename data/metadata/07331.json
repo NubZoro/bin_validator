@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008FUUQJW": {
+            "asin": "B008FUUQJW",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Instant Pot Silicone Sealing Ring, White",
+            "normalizedName": "Instant Pot Silicone Sealing Ring, White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B01FDGXFVQ": {
+            "asin": "B01FDGXFVQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "iPhone 6 / 6S Screen Protector,0.33mm Thickness Professional Screen Protector [Explosion-proof] [Anti-Scratch][Anti-Bubble] for iPhone 6 and iPhone 6S 4.7 inch with Lifetime Warranty,2-Pack",
+            "normalizedName": "2-Pack iPhone 6 / 6S Screen Protector,0.33mm Thickness Professional Screen Protector [Explosion-proof] [Anti-Scratch][Anti-Bubble] for iPhone 6 and iPhone 6S 4.7 inch with Lifetime Warranty,",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

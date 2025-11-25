@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0768939631": {
+            "asin": "0768939631",
+            "height": {
+                "unit": "IN",
+                "value": 1.8110236202
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.9448818786
+            },
+            "name": "Scholarships, Grants & Prizes 2016 (Peterson's Scholarships, Grants & Prizes)",
+            "normalizedName": "Scholarships, Grants & Prizes 2016 (Peterson's Scholarships, Grants & Prizes)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.17462416813257
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.5826771566
+            }
+        },
+        "1782760229": {
+            "asin": "1782760229",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.9448818786
+            },
+            "name": "Devil May Cry",
+            "normalizedName": "Devil May Cry",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8818400474429946
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1102362122
+            }
+        },
+        "B00WU5OM5M": {
+            "asin": "B00WU5OM5M",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Laluce 18LED Par Lights for Stage Lighting with RGB Magic Effect by Remote Control and DMX512",
+            "normalizedName": "Laluce 18LED Par Lights for Stage Lighting with RGB Magic Effect by Remote Control and DMX512",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

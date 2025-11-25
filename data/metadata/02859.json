@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0195339223": {
+            "asin": "0195339223",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "A Modern History of Japan: From Tokugawa Times to the Present, 2nd Edition",
+            "normalizedName": "A Modern History of Japan: From Tokugawa Times to the Present, 2nd Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "0205851649": {
+            "asin": "0205851649",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.9763779436
+            },
+            "name": "International Politics: Enduring Concepts and Contemporary Issues (11th Edition)",
+            "normalizedName": "International Politics: Enduring Concepts and Contemporary Issues (11th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "B000NHTUCY": {
+            "asin": "B000NHTUCY",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Duck Brand Stretch Wrap, 5 Inches Wide x 1000 Feet Long, Single Roll (964682)",
+            "normalizedName": "Duck Brand Stretch Wrap, 5 Inches Wide x 1000 Feet Long, Single Roll (964682)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

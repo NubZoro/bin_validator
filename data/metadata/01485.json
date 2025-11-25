@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009M2TQLQ": {
+            "asin": "B009M2TQLQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Disney Princess Belle Bath Doll",
+            "normalizedName": "Disney Princess Belle Bath Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440163462221
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00ENLRPU0": {
+            "asin": "B00ENLRPU0",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.3307086468
+            },
+            "name": "The Purple Cow Lenticular White Horses Puzzle",
+            "normalizedName": "The Purple Cow Lenticular White Horses Puzzle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.940048104374588
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6220472404
+            }
+        },
+        "B00IQBT1AK": {
+            "asin": "B00IQBT1AK",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Samsung MLT-D111S Toner for SL-M2020W, SL-M2070W/FW, Black",
+            "normalizedName": "Samsung MLT-D111S Toner for SL-M2020W, SL-M2070W/FW, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B01BLV4P6Q": {
+            "asin": "B01BLV4P6Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "MLB Baseball Bat Electric Wine Opener (Angels)",
+            "normalizedName": "MLB Baseball Bat Electric Wine Opener (Angels)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7799999985073085
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

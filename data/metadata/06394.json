@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0024MJ8XC": {
+            "asin": "B0024MJ8XC",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Zapper Light Gun for Nintendo Wii (Links Remote / Nunchuk for Shooting Games)",
+            "normalizedName": "Zapper Light Gun for Nintendo Wii (Links Remote / Nunchuk for Shooting Games)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00ELKDD4U": {
+            "asin": "B00ELKDD4U",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Boy Meets World: The Complete Collection",
+            "normalizedName": "Boy Meets World: The Complete Collection",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

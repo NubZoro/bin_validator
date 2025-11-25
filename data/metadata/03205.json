@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007TJGY6O": {
+            "asin": "B007TJGY6O",
+            "height": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Coffee People Donut Shop Coffee, Regular Medium Roast, K-Cup Portion Count for Keurig Brewers 24-Count (Pack of 4)",
+            "normalizedName": "(Pack of 4) Coffee People Donut Shop Coffee, Regular Medium Roast, K-Cup Portion Count for Keurig Brewers 24-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.249999995597399
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B015902LR0": {
+            "asin": "B015902LR0",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "BRATZ Sleepover Bed Playset",
+            "normalizedName": "BRATZ Sleepover Bed Playset",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

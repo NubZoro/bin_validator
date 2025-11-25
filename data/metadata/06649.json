@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007A0O1EO": {
+            "asin": "B007A0O1EO",
+            "height": {
+                "unit": "IN",
+                "value": 1.7322834628
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.1653543234
+            },
+            "name": "Sheaffer Intensity, Carbon Fiber, Chrome Trim, Ballpoint (E2923451)",
+            "normalizedName": "Sheaffer Intensity, Carbon Fiber, Chrome Trim, Ballpoint (E2923451)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5984251942
+            }
+        },
+        "B009B2Y98C": {
+            "asin": "B009B2Y98C",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "3M 70071559465 Virtua 11228-00000-100 Clear Polycarbonate Safety Glasses, Uncoated Lens, Clear Temple, Price Per Each",
+            "normalizedName": "3M 70071559465 Virtua 11228-00000-100 Clear Polycarbonate Safety Glasses, Uncoated Lens, Clear Temple, Price Per Each",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.019999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00UC5YMBG": {
+            "asin": "B00UC5YMBG",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "COW PRINT 4\" Tin Cowbell Novelty Musical Instrument",
+            "normalizedName": "COW PRINT 4\" Tin Cowbell Novelty Musical Instrument",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

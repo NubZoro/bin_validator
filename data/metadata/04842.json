@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00XMD61OG": {
+            "asin": "B00XMD61OG",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "name": "Spongebob 8 Inches Plush with Tin Box",
+            "normalizedName": "Spongebob 8 Inches Plush with Tin Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.034375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0
+            }
+        },
+        "B0109TN1JI": {
+            "asin": "B0109TN1JI",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Pebble Time Screen Protector [Full Coverage 2 Pack], Armorsuit MilitaryShield - Made in USA - [2-Pack] Anti-Bubble / Ultra HD Clear Shield - Lifetime Warranty",
+            "normalizedName": "2-Pack Pebble Time Screen Protector [Full Coverage 2 Pack], Armorsuit MilitaryShield - Made in USA - [ ] Anti-Bubble / Ultra HD Clear Shield - Lifetime Warranty",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B01463DI8M": {
+            "asin": "B01463DI8M",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "KES 6-Inch Sink Faucet Hole Cover Deck Plate Escutcheon for Bathroom or Kitchen Single Hole Mixer Tap, Polished Chrome, PEP1S15",
+            "normalizedName": "KES 6-Inch Sink Faucet Hole Cover Deck Plate Escutcheon for Bathroom or Kitchen Single Hole Mixer Tap, Polished Chrome, PEP1S15",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

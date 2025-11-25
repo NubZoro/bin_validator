@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002LE31SG": {
+            "asin": "B002LE31SG",
+            "height": {
+                "unit": "IN",
+                "value": 4.4094488144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.141732267
+            },
+            "name": "Luca - Baby Doll 16\"",
+            "normalizedName": "Luca - Baby Doll 16\"",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0141160545594439
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.086614166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00283OC7Y": {
+            "asin": "B00283OC7Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Genie GITR-3BX 3-Button Remote Control with Intellicode",
+            "normalizedName": "Genie GITR-3BX 3-Button Remote Control with Intellicode",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00TGLZBJO": {
+            "asin": "B00TGLZBJO",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Mud Pie Lady Bug Stroller Toy, Polka Dot",
+            "normalizedName": "Mud Pie Lady Bug Stroller Toy, Polka Dot",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002C3R5XI": {
+            "asin": "B002C3R5XI",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "12 Pairs of 80's Sunglasses - Party Favors",
+            "normalizedName": "12 Pairs of 80's Sunglasses - Party Favors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00791QYMQ": {
+            "asin": "B00791QYMQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Casio Women's LRW200H-7BVCF Watch",
+            "normalizedName": "Casio Women's LRW200H-7BVCF Watch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

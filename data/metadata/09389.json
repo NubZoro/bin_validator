@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BC470V0": {
+            "asin": "B00BC470V0",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "NUTRO Crunchy Treats With Real Mixed Berries - 10 oz. (283 g)",
+            "normalizedName": "NUTRO Crunchy Treats With Real Mixed Berries - 10 oz. (283 g)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00MLGB3M0": {
+            "asin": "B00MLGB3M0",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Chill Pal Ultimate Cooling Towel \u2605Love It Or It's Free Guaranteed\u2605",
+            "normalizedName": "Chill Pal Ultimate Cooling Towel \u2605Love It Or It's Free Guaranteed\u2605",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

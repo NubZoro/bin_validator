@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007MCMNK4": {
+            "asin": "B007MCMNK4",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Protect-A-Bed AllerZip Smooth Waterproof Pillow Protector, Standard 21 by 27-Inch, 2-Pack",
+            "normalizedName": "2-Pack Protect-A-Bed AllerZip Smooth Waterproof Pillow Protector, Standard 21 by 27-Inch,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B00PYXSTTM": {
+            "asin": "B00PYXSTTM",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Motorola MH230R Rechargeable Two Way Radio 4 Pack",
+            "normalizedName": "4 Pack Motorola MH230R Rechargeable Two Way Radio",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00P4CE7US": {
+            "asin": "B00P4CE7US",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Diamond Select Toys Marvel Deadpool Silicone Tray",
+            "normalizedName": "Diamond Select Toys Marvel Deadpool Silicone Tray",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00UXPIDH4": {
+            "asin": "B00UXPIDH4",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Fromm 2.4-Inch Standard Cotton Squares - 160-piece (DEE033)",
+            "normalizedName": "Fromm 2.4-Inch Standard Cotton Squares - 160-piece (DEE033)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017ETGIAK": {
+            "asin": "B017ETGIAK",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Home Value 3-Cup Plastic Measuring Cup (MEASURINGCUPPC03)",
+            "normalizedName": "Home Value 3-Cup Plastic Measuring Cup (MEASURINGCUPPC03)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

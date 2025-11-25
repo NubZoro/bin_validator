@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00009W3G8": {
+            "asin": "B00009W3G8",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Deflecto Adjustable Wall Air Deflector, 10\" x 16\" (51)",
+            "normalizedName": "Deflecto Adjustable Wall Air Deflector, 10\" x 16\" (51)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B01DO6G34I": {
+            "asin": "B01DO6G34I",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "King's Store,Rubber Duck Ducky Baby Shower Bath Floating Birthday Party Favors",
+            "normalizedName": "King's Store,Rubber Duck Ducky Baby Shower Bath Floating Birthday Party Favors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.36499999969391445
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

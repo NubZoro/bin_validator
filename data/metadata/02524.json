@@ -1,0 +1,84 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AMGV010": {
+            "asin": "B00AMGV010",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Spectra 360 Electrode Gel - Parker Laboratories - 60g (2oz) Tube - (Pack of 3)",
+            "normalizedName": "(Pack of 3) Spectra 360 Electrode Gel - Parker Laboratories - 60g (2oz) Tube -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00C104Q4S": {
+            "asin": "B00C104Q4S",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "ROBERTSON 3M10006 VT235 /A Step Down Voltage Transformer Frequency: 60Hz. 277Vac. Primary, 120Vac. Secondary, 25VA Max Load",
+            "normalizedName": "ROBERTSON 3M10006 VT235 /A Step Down Voltage Transformer Frequency: 60Hz. 277Vac. Primary, 120Vac. Secondary, 25VA Max Load",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00MWULNNO": {
+            "asin": "B00MWULNNO",
+            "height": null,
+            "length": null,
+            "name": "Cebeci Arms For Glock Leather Small-of-the-Back, SoB, Unisex Holster, Black, Right, For Glock 36",
+            "normalizedName": "Cebeci Arms For Glock Leather Small-of-the-Back, SoB, Unisex Holster, Black, Right, For Glock 36",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": null
+        },
+        "B00PO6W2OC": {
+            "asin": "B00PO6W2OC",
+            "height": {
+                "unit": "IN",
+                "value": 0.249999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.749999991075
+            },
+            "name": "VHC Brands 6098 Burgundy Check Fabric Pillow Cover 16 x 16 in.",
+            "normalizedName": "VHC Brands 6098 Burgundy Check Fabric Pillow Cover 16 x 16 in.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

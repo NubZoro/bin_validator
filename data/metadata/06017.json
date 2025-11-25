@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003JCKPF6": {
+            "asin": "B003JCKPF6",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "name": "Bumble and Bumble Sumotech 1.5oz",
+            "normalizedName": "Bumble and Bumble Sumotech 1.5oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00CPCBN8E": {
+            "asin": "B00CPCBN8E",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Pen Blank 5 Pack - Purple Heart, Zebrawood, Sapele, Walnut, Padauk",
+            "normalizedName": "5 Pack Pen Blank - Purple Heart, Zebrawood, Sapele, Walnut, Padauk",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00HANWC10": {
+            "asin": "B00HANWC10",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "FosPower 4x1 HDMI Switcher 4 port Splitter with IR Remote (Supports 3D and 4Kx2K@30Hz / 1080p@120Hz) - Black/Silver (Aluminium Casing) 2016 Edition",
+            "normalizedName": "FosPower 4x1 HDMI Switcher 4 port Splitter with IR Remote (Supports 3D and 4Kx2K@30Hz / 1080p@120Hz) - Black/Silver (Aluminium Casing) 2016 Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B016XQZ4KK": {
+            "asin": "B016XQZ4KK",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Bluetooth Earbud Headphones, SmartOmni \u00ae Smart i8 In-Ear V4.1 Bluetooth Sports Headphones with Mic, APT-X Stereo CVC 6.0 Noise-Cancelling Headset for Apple and Android Devices-Blue & Black",
+            "normalizedName": "Bluetooth Earbud Headphones, SmartOmni \u00ae Smart i8 In-Ear V4.1 Bluetooth Sports Headphones with Mic, APT-X Stereo CVC 6.0 Noise-Cancelling Headset for Apple and Android Devices-Blue & Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

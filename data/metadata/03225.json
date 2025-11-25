@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1472801253": {
+            "asin": "1472801253",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.6850393602
+            },
+            "name": "Robin Hood (Myths and Legends)",
+            "normalizedName": "Robin Hood (Myths and Legends)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880332100962
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.086614166
+            }
+        },
+        "B004ZMYTYC": {
+            "asin": "B004ZMYTYC",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.3779527494
+            },
+            "name": "StarTech.com 1 Port FTDI USB to Serial RS232 Adapter Cable with COM Retention ICUSB2321F (Black)",
+            "normalizedName": "StarTech.com 1 Port FTDI USB to Serial RS232 Adapter Cable with COM Retention ICUSB2321F (Black)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280213493476
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.3543307032
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

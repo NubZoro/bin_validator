@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M0I1QP8": {
+            "asin": "B00M0I1QP8",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.749999982915
+            },
+            "name": "Sterilite 16 Quart Basic Clear Storage Box with White Lid (Pack of 2)",
+            "normalizedName": "(Pack of 2) Sterilite 16 Quart Basic Clear Storage Box with White Lid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.749999988015
+            }
+        },
+        "B01G9G58AA": {
+            "asin": "B01G9G58AA",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Whirlwind USA LSS 12-Inch Dry or Wet Cutting General Purpose Power Saw Segmented Diamond Blades for Concrete Stone Brick Masonry (Factory Direct Sale) (12\")",
+            "normalizedName": "Whirlwind USA LSS 12-Inch Dry or Wet Cutting General Purpose Power Saw Segmented Diamond Blades for Concrete Stone Brick Masonry (Factory Direct Sale) (12\")",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.949999997526158
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

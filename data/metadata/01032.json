@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00SP6G6G8": {
+            "asin": "B00SP6G6G8",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Ravensburger Vintage Bicycle Large Format Puzzle (300-Piece)",
+            "normalizedName": "Ravensburger Vintage Bicycle Large Format Puzzle (300-Piece)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B015W3BPY4": {
+            "asin": "B015W3BPY4",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Workpro Quick Change Folding Utility Knife",
+            "normalizedName": "Workpro Quick Change Folding Utility Knife",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.649999997777735
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B016OAFC20": {
+            "asin": "B016OAFC20",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "iPhone Bluetooth Selfie Stick,Ubegood Foldable Extendable Self-portrait Monopod with Adjustable Phone Holder for iPhone SE/iPhone 6/6s/6 Plus/6s Plus,Samsung s7 edge/S7/S6/S5 (Green)",
+            "normalizedName": "iPhone Bluetooth Selfie Stick,Ubegood Foldable Extendable Self-portrait Monopod with Adjustable Phone Holder for iPhone SE/iPhone 6/6s/6 Plus/6s Plus,Samsung s7 edge/S7/S6/S5 (Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

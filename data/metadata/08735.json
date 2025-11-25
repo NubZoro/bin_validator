@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0008G8G8Y": {
+            "asin": "B0008G8G8Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Sakura 30062 6-Piece Pigma Micron Ink Pen Set, Black",
+            "normalizedName": "Sakura 30062 6-Piece Pigma Micron Ink Pen Set, Black",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13999999988259734
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B0009WPZMW": {
+            "asin": "B0009WPZMW",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Burnout Revenge - Xbox 360",
+            "normalizedName": "Burnout Revenge - Xbox 360",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

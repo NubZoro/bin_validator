@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IOW08M6": {
+            "asin": "B00IOW08M6",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Yummi Bears Organics Children's Multi-Vitamin & Mineral - 180 Gummy Bears",
+            "normalizedName": "Yummi Bears Organics Children's Multi-Vitamin & Mineral - 180 Gummy Bears",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00KW8EGNW": {
+            "asin": "B00KW8EGNW",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "TruLam 5 Mil Mini Prayer Card Laminating Pouches 2-3/4 x 3-3/4 Inches, 100 per Box (LP05PRMN)",
+            "normalizedName": "TruLam 5 Mil Mini Prayer Card Laminating Pouches 2-3/4 x 3-3/4 Inches, 100 per Box (LP05PRMN)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

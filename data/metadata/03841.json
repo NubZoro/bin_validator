@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NG3YMM": {
+            "asin": "B000NG3YMM",
+            "height": {
+                "unit": "IN",
+                "value": 2.799999997144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "3M Scotch-Brite Easy Erasing Pad, 4-Pad",
+            "normalizedName": "3M Scotch-Brite Easy Erasing Pad, 4-Pad",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

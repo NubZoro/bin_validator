@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AHINTYO": {
+            "asin": "B00AHINTYO",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Tide High-Performance Lingerie Wash Bag, 2-Pack",
+            "normalizedName": "2-Pack Tide High-Performance Lingerie Wash Bag,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

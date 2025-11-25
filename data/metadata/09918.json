@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NF1PSQC": {
+            "asin": "B00NF1PSQC",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Dorman 931-693 Door Lock Actuator Motor",
+            "normalizedName": "Dorman 931-693 Door Lock Actuator Motor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00ZVJ4MLI": {
+            "asin": "B00ZVJ4MLI",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Chicago Blackhawks 2015 Stanley Cup Champs Womens Natural Hatty T-shirt XX-Large",
+            "normalizedName": "Chicago Blackhawks 2015 Stanley Cup Champs Womens Natural Hatty T-shirt XX-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

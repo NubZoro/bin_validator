@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00008KA7I": {
+            "asin": "B00008KA7I",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002
+            },
+            "name": "Belkin Snagless CAT6 Patch Cable * RJ45M/RJ45M; 25  Black ( A3L980b25-BLK-S )",
+            "normalizedName": "Belkin Snagless CAT6 Patch Cable * RJ45M/RJ45M; 25  Black ( A3L980b25-BLK-S )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

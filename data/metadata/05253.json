@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000001630": {
+            "asin": "B000001630",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Live at Red Rocks",
+            "normalizedName": "Live at Red Rocks",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B00008EQ1M": {
+            "asin": "B00008EQ1M",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Forever Your Girl",
+            "normalizedName": "Forever Your Girl",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B00ECFV9UO": {
+            "asin": "B00ECFV9UO",
+            "height": {
+                "unit": "IN",
+                "value": 0.8
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "name": "Ranger Perfect Pearls Pigment Powder, 1-Ounce, Confetti White",
+            "normalizedName": "Ranger Perfect Pearls Pigment Powder, 1-Ounce, Confetti White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.0
+            }
+        },
+        "B00IXWMR6M": {
+            "asin": "B00IXWMR6M",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.5196850368
+            },
+            "name": "Ranger Multi Medium Bottle, 0.5-Ounce, Matte",
+            "normalizedName": "Ranger Multi Medium Bottle, 0.5-Ounce, Matte",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.9448818888
+            }
+        },
+        "B01BUUBXS6": {
+            "asin": "B01BUUBXS6",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "EcoScents The Peace and Love Pack, Multicolor",
+            "normalizedName": "EcoScents The Peace and Love Pack, Multicolor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0800796705": {
+            "asin": "0800796705",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "The Supernatural Life",
+            "normalizedName": "The Supernatural Life",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B010VVJE5O": {
+            "asin": "B010VVJE5O",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Home Art Contemporary Art Red Wine Giclee Canvas Prints Framed Canvas Wall Art for Home Decor Perfect 4 Panels Wall Decorations for Living Room Dinning-room Office Each Panel Size:12x12inch",
+            "normalizedName": "Home Art Contemporary Art Red Wine Giclee Canvas Prints Framed Canvas Wall Art for Home Decor Perfect 4 Panels Wall Decorations for Living Room Dinning-room Office Each Panel Size:12x12inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        },
+        "B0142MCKK4": {
+            "asin": "B0142MCKK4",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "DC Comics, Cyborg, 12\" Figure",
+            "normalizedName": "DC Comics, Cyborg, 12\" Figure",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

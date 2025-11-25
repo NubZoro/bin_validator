@@ -1,0 +1,112 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NVR9GY": {
+            "asin": "B000NVR9GY",
+            "height": {
+                "unit": "IN",
+                "value": 1.3385826758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.8267716476
+            },
+            "name": "BENZOYL PEROX GEL 5 Percent (1.5 Oz)",
+            "normalizedName": "BENZOYL PEROX GEL 5 Percent (1.5 Oz)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001186074865
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.8582677126
+            }
+        },
+        "B004XCW4DC": {
+            "asin": "B004XCW4DC",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Chewbeads Necklace - Jane - Emerald Green",
+            "normalizedName": "Chewbeads Necklace - Jane - Emerald Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B008JG3HOI": {
+            "asin": "B008JG3HOI",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Party Essentials Heavy Duty Plastic Table Cover Available in 44 Colors, 54\" x 108\", Royal Blue",
+            "normalizedName": "Party Essentials Heavy Duty Plastic Table Cover Available in 44 Colors, 54\" x 108\", Royal Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00DCHCG7I": {
+            "asin": "B00DCHCG7I",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Harrisville Designs PRO 10\" Cotton Loops, White",
+            "normalizedName": "Harrisville Designs PRO 10\" Cotton Loops, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01DC2ARVE": {
+            "asin": "B01DC2ARVE",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299212592
+            },
+            "name": "Galaxy S7 Edge Case, Welity SHOCKPROOF Dual Layers 2 in 1 Hybrid [Hard Cover + Soft Silicone] High Impact Protective Carrying Defender Case for Samsung Galaxy S7 Edge (Purple)",
+            "normalizedName": "Galaxy S7 Edge Case, Welity SHOCKPROOF Dual Layers 2 in 1 Hybrid [Hard Cover + Soft Silicone] High Impact Protective Carrying Defender Case for Samsung Galaxy S7 Edge (Purple)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

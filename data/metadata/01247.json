@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008LEPOP8": {
+            "asin": "B008LEPOP8",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "CytoSport Cytomax Cool Citrus - 24 oz (680 g)",
+            "normalizedName": "CytoSport Cytomax Cool Citrus - 24 oz (680 g)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

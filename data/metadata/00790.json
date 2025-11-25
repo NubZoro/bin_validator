@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EBB6NAU": {
+            "asin": "B00EBB6NAU",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Front Line Inside the Waistband Leather Holster (Black), Right Hand, H&K P30",
+            "normalizedName": "Front Line Inside the Waistband Leather Holster (Black), Right Hand, H&K P30",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00G993GUC": {
+            "asin": "B00G993GUC",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.3858267682
+            },
+            "name": "Mizani Edge Taming Gel, 1.7 Ounce",
+            "normalizedName": "Mizani Edge Taming Gel, 1.7 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26455201423289837
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3858267682
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

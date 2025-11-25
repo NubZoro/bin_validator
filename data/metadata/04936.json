@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002E3IH1K": {
+            "asin": "B002E3IH1K",
+            "height": {
+                "unit": "IN",
+                "value": 2.9921259812
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "name": "Briggs & Stratton 492932S Oil Filter",
+            "normalizedName": "Briggs & Stratton 492932S Oil Filter",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.529104028022095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.2283464534
+            }
+        },
+        "B00D0GCMIO": {
+            "asin": "B00D0GCMIO",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "name": "Manic Panic Semi-Permanent Cleo Color Cream, Rose",
+            "normalizedName": "Manic Panic Semi-Permanent Cleo Color Cream, Rose",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.362204722
+            }
+        },
+        "B00L0KMFBQ": {
+            "asin": "B00L0KMFBQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Kerastase Bain Volumifique Shampoo 8.5 Oz By Kerastase",
+            "normalizedName": "Kerastase Bain Volumifique Shampoo 8.5 Oz By Kerastase",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

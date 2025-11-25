@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015PRWP4G": {
+            "asin": "B015PRWP4G",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Star Wars Silver Buffalo SE0732 Disney Star Wars Ep7 BB-8 Orange Ceramic Mug, 14 oz, Multicolor",
+            "normalizedName": "Star Wars Silver Buffalo SE0732 Disney Star Wars Ep7 BB-8 Orange Ceramic Mug, 14 oz, Multicolor",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01E3XPUNQ": {
+            "asin": "B01E3XPUNQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "VR Headset 3D Virtual Reality Glasses Headset Box for Apple iphone 6 6s plus samsung Galaxy S6/S7/NOTE4/NOTE5/LG G4/Nexus 6/6P",
+            "normalizedName": "VR Headset 3D Virtual Reality Glasses Headset Box for Apple iphone 6 6s plus samsung Galaxy S6/S7/NOTE4/NOTE5/LG G4/Nexus 6/6P",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

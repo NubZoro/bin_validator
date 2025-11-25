@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I86UK08": {
+            "asin": "B00I86UK08",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Vandor 99661 Star Wars Darth Vader \"The Dark Side\" 12 oz Ceramic Mug, Black and Red",
+            "normalizedName": "Vandor 99661 Star Wars Darth Vader \"The Dark Side\" 12 oz Ceramic Mug, Black and Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.88
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01AUJ82GY": {
+            "asin": "B01AUJ82GY",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995205999
+            },
+            "name": "CLOTHOBEAUTY 40pcs makeup brushes pen guard protector set reusable expandable mesh cover(Not include Brushes)",
+            "normalizedName": "CLOTHOBEAUTY 40pcs makeup brushes pen guard protector set reusable expandable mesh cover(Not include Brushes)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.019999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

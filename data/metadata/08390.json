@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000VLPGW": {
+            "asin": "B0000VLPGW",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Fox Run Heart Pie Top Cutter",
+            "normalizedName": "Fox Run Heart Pie Top Cutter",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004
+            }
+        },
+        "B00DWSX3OC": {
+            "asin": "B00DWSX3OC",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Moneysworth & Best Polar Men's Warmth Down to -25c Felt Insole, 7",
+            "normalizedName": "Moneysworth & Best Polar Men's Warmth Down to -25c Felt Insole, 7",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01GA49FU0": {
+            "asin": "B01GA49FU0",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "ONME Silicone Whisk, Kitchen Balloon Wire Whisks, Egg Frother, Milk Beater Blender, Kitchen Utensils for Blending, Whisking,Stirring, Set of 2",
+            "normalizedName": "Set of 2 ONME Silicone Whisk, Kitchen Balloon Wire Whisks, Egg Frother, Milk Beater Blender, Kitchen Utensils for Blending, Whisking,Stirring,",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004AHL53K": {
+            "asin": "B004AHL53K",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Kartell 222205 5 Piece Polymethylpentene Griffin Beaker Set",
+            "normalizedName": "Kartell 222205 5 Piece Polymethylpentene Griffin Beaker Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01EHSLQWQ": {
+            "asin": "B01EHSLQWQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Fitbit Blaze Watch Band, MoKo Stainless Steel Metal Replacement Link Bracelet with Double Button Folding Clasp for Fitbit Blaze Smart Fitness Watch, Frame NOT Included - BLACK",
+            "normalizedName": "Fitbit Blaze Watch Band, MoKo Stainless Steel Metal Replacement Link Bracelet with Double Button Folding Clasp for Fitbit Blaze Smart Fitness Watch, Frame NOT Included - BLACK",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

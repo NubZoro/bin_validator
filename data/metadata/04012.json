@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00192JGA8": {
+            "asin": "B00192JGA8",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Camco 55223 15M/30F AMP PowerGrip Adapter",
+            "normalizedName": "Camco 55223 15M/30F AMP PowerGrip Adapter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00KWHJ0R0": {
+            "asin": "B00KWHJ0R0",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Disney INFINITY: Marvel Super Heroes (2.0 Edition) Power Disc Pack",
+            "normalizedName": "Disney INFINITY: Marvel Super Heroes (2.0 Edition) Power Disc Pack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00ZRDL8MO": {
+            "asin": "B00ZRDL8MO",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "OUTERDO 5000Lumen LED Headlamp 3 LED 3 X CREE Chips XML T6 +2R5 Headlight Flashlight Torch 4 Mode Head Lamp For Outdoor Sports",
+            "normalizedName": "OUTERDO 5000Lumen LED Headlamp 3 LED 3 X CREE Chips XML T6 +2R5 Headlight Flashlight Torch 4 Mode Head Lamp For Outdoor Sports",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

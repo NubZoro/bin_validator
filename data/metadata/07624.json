@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00020S7XK": {
+            "asin": "B00020S7XK",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.1023621934
+            },
+            "name": "Sony ICF-S10MK2 Pocket AM/FM Radio, Silver",
+            "normalizedName": "Sony ICF-S10MK2 Pocket AM/FM Radio, Silver",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26455201423289837
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.8897637725
+            }
+        },
+        "B00URFZT04": {
+            "asin": "B00URFZT04",
+            "height": {
+                "unit": "IN",
+                "value": 7.384386
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.935051
+            },
+            "name": "beleduc Big Sand Roller",
+            "normalizedName": "beleduc Big Sand Roller",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4550492
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.163456
+            }
+        },
+        "B01AQZZYXG": {
+            "asin": "B01AQZZYXG",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Sheriff Callie Throw - 50\"x60\" - Pink",
+            "normalizedName": "Sheriff Callie Throw - 50\"x60\" - Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006N48FO": {
+            "asin": "B0006N48FO",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "NASCAR Jeff Gordon Metal License Plate Frame",
+            "normalizedName": "NASCAR Jeff Gordon Metal License Plate Frame",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00475S0EW": {
+            "asin": "B00475S0EW",
+            "height": {
+                "unit": "IN",
+                "value": 6.0629921198
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.0629921096
+            },
+            "name": "Onkyo Center Speaker Sysytem D-077C(B) Japan Import",
+            "normalizedName": "Onkyo Center Speaker Sysytem D-077C(B) Japan Import",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.984160358
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.6377952678
+            }
+        },
+        "B00HZELAOY": {
+            "asin": "B00HZELAOY",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Rubies Thomas and Friends: Deluxe Percy The Small Engine and Engineer Costume, Toddler",
+            "normalizedName": "Rubies Thomas and Friends: Deluxe Percy The Small Engine and Engineer Costume, Toddler",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00JJ5DLM6": {
+            "asin": "B00JJ5DLM6",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Goldbug 2 in 1 Safety Harness - Monkey",
+            "normalizedName": "Goldbug 2 in 1 Safety Harness - Monkey",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

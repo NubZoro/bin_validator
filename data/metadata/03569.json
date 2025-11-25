@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0178AW962": {
+            "asin": "B0178AW962",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Aden + Anais Classic Swaddle Blanket Single - Up Up and Away",
+            "normalizedName": "Aden + Anais Classic Swaddle Blanket Single - Up Up and Away",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

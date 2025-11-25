@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0061911690": {
+            "asin": "0061911690",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Rules of the Game",
+            "normalizedName": "Rules of the Game",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00KJ8XRW6": {
+            "asin": "B00KJ8XRW6",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "3dRose dc_154502_1 60th Anniversary Gift Gold Text for Celebrating Wedding Anniversaries 60 Years Married Together Desk Clock, 6 by 6-Inch",
+            "normalizedName": "3dRose dc_154502_1 60th Anniversary Gift Gold Text for Celebrating Wedding Anniversaries 60 Years Married Together Desk Clock, 6 by 6-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B01EROMDJ0": {
+            "asin": "B01EROMDJ0",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.0
+            },
+            "name": "Mens Short Sleeve ( SS ) Snug Fitting Rash Guard, Swimming Shirt, UV Protection 50+ (Red, 2X-Large)",
+            "normalizedName": "Mens Short Sleeve ( SS ) Snug Fitting Rash Guard, Swimming Shirt, UV Protection 50+ (Red, 2X-Large)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

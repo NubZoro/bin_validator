@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008M40URO": {
+            "asin": "B008M40URO",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Drinkwell 360 Replacement Filter, 12-Pack",
+            "normalizedName": "12-Pack Drinkwell 360 Replacement Filter,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B012CY0FVU": {
+            "asin": "B012CY0FVU",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "KING DO WAY Cotton Fabric Canvas Hammock Tree Hanging Swing Suspended Outdoor Indoor Bed 68\"x31\" Blue",
+            "normalizedName": "KING DO WAY Cotton Fabric Canvas Hammock Tree Hanging Swing Suspended Outdoor Indoor Bed 68\"x31\" Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

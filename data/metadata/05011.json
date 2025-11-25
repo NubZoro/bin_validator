@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A6VPOYK": {
+            "asin": "B00A6VPOYK",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "WEAVER'S 2.5 Lbs Premium Snack Sticks - Original",
+            "normalizedName": "WEAVER'S 2.5 Lbs Premium Snack Sticks - Original",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

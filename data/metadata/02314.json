@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321911210": {
+            "asin": "0321911210",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Elementary Statistics: Picturing the World (6th Edition)",
+            "normalizedName": "Elementary Statistics: Picturing the World (6th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "0321967461": {
+            "asin": "0321967461",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "General, Organic, and Biological Chemistry: Structures of Life (5th Edition)",
+            "normalizedName": "General, Organic, and Biological Chemistry: Structures of Life (5th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "092654439X": {
+            "asin": "092654439X",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.2
+            },
+            "name": "Uppers, Downers, and All Arounders 8thEd",
+            "normalizedName": "Uppers, Downers, and All Arounders 8thEd",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.5
+            }
+        },
+        "1285858913": {
+            "asin": "1285858913",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Essentials of Business Communication (with Premium Website, 1 term (6 months) Printed Access Card)",
+            "normalizedName": "Essentials of Business Communication (with Premium Website, 1 term (6 months) Printed Access Card)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "1464158932": {
+            "asin": "1464158932",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Introduction to the Practice of Statistics: w/CrunchIt/EESEE Access Card",
+            "normalizedName": "Introduction to the Practice of Statistics: w/CrunchIt/EESEE Access Card",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

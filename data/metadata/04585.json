@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1481444425": {
+            "asin": "1481444425",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.3464566844
+            },
+            "name": "City of Heavenly Fire (The Mortal Instruments)",
+            "normalizedName": "City of Heavenly Fire (The Mortal Instruments)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.410944074725587
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "1627797890": {
+            "asin": "1627797890",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Bill O'Reilly's Legends and Lies: The Patriots",
+            "normalizedName": "Bill O'Reilly's Legends and Lies: The Patriots",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.299999998071242
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "193196811X": {
+            "asin": "193196811X",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.29921258894
+            },
+            "name": "A Recent History of the United States in Political Cartoons: A Look Bok (Law, Politics, and Society)",
+            "normalizedName": "A Recent History of the United States in Political Cartoons: A Look Bok (Law, Politics, and Society)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4500243896264
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.09842519063
+            }
+        },
+        "B01EEY1IQ2": {
+            "asin": "B01EEY1IQ2",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Crest Pro-Health Intensive Clean with Micro-Scrubbing Complex Toothpaste, 4.2 Ounce (pack of 3)",
+            "normalizedName": "Crest Pro-Health Intensive Clean with Micro-Scrubbing Complex Toothpaste, 4.2 Ounce (pack of 3)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

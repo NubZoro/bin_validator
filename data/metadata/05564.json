@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0055BYEE2": {
+            "asin": "B0055BYEE2",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "BSN AMINO X - Green Apple, 15.3 Ounce, 30 Servings",
+            "normalizedName": "BSN AMINO X - Green Apple, 15.3 Ounce, 30 Servings",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00LEM8D5C": {
+            "asin": "B00LEM8D5C",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Smart Bones 10 Count Play Time Chicken Dog Chew, Small",
+            "normalizedName": "Smart Bones 10 Count Play Time Chicken Dog Chew, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

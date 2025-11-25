@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00J4DUVR6": {
+            "asin": "B00J4DUVR6",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.9527558974
+            },
+            "name": "Monster Power Superstar High Definition Bluetooth Speaker (Black/Green)",
+            "normalizedName": "Monster Power Superstar High Definition Bluetooth Speaker (Black/Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054720379543957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.6456692866
+            }
+        },
+        "B00TJIGYTA": {
+            "asin": "B00TJIGYTA",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Epson Ink Maintenance Box - T671000",
+            "normalizedName": "Epson Ink Maintenance Box - T671000",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

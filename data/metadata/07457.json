@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0051GSF14": {
+            "asin": "B0051GSF14",
+            "height": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Beach Pails & Shovels - 9 Inch, Assorted Colors (6/pkg)",
+            "normalizedName": "Beach Pails & Shovels - 9 Inch, Assorted Colors (6/pkg)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

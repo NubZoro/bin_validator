@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015NEFW1E": {
+            "asin": "B015NEFW1E",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Oxygenetix Oxygenating Foundation, 15ml, Taupe",
+            "normalizedName": "Oxygenetix Oxygenating Foundation, 15ml, Taupe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.899999999082
+            }
+        },
+        "B01BL08PF4": {
+            "asin": "B01BL08PF4",
+            "height": {
+                "unit": "IN",
+                "value": 0.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.0
+            },
+            "name": "Alabama Crimson Tide NCAA 2015 16 Time National Champions 11 x 15 Inch Garden Flag",
+            "normalizedName": "Alabama Crimson Tide NCAA 2015 16 Time National Champions 11 x 15 Inch Garden Flag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1875
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        },
+        "B01BL0GHMM": {
+            "asin": "B01BL0GHMM",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.0
+            },
+            "name": "San Antonio Spurs NBA 27 x 37 inch Vertical Flag",
+            "normalizedName": "San Antonio Spurs NBA 27 x 37 inch Vertical Flag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0
+            }
+        },
+        "B01EX4UXPU": {
+            "asin": "B01EX4UXPU",
+            "height": {
+                "unit": "IN",
+                "value": 0.9842519675
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "Paisley Compression Socks Womens & Mens - Pair of Medical Grade 20-30 mmHg Graduated Sock Support Stockings - Ideal for Running & Athletic Wear, Pregnancy/Maternity, Flight & Travel",
+            "normalizedName": "Paisley Compression Socks Womens & Mens - Pair of Medical Grade 20-30 mmHg Graduated Sock Support Stockings - Ideal for Running & Athletic Wear, Pregnancy/Maternity, Flight & Travel",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.1338582635
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01B7P0MRM": {
+            "asin": "B01B7P0MRM",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Finding Dory Swigglefish Bailey Figure",
+            "normalizedName": "Finding Dory Swigglefish Bailey Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01CH6ONPM": {
+            "asin": "B01CH6ONPM",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "LARABAR Mint Chip Brownie, Fruit & Nut Food Bar, 5 Count - 1.6 Ounce Bars in Retail Packaging: Gluten Free, Non-GMO, Vegan, Dairy Free, Kosher, Fair Trade Certified Chocolate",
+            "normalizedName": "LARABAR Mint Chip Brownie, Fruit & Nut Food Bar, 5 Count - 1.6 Ounce Bars in Retail Packaging: Gluten Free, Non-GMO, Vegan, Dairy Free, Kosher, Fair Trade Certified Chocolate",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

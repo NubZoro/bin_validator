@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0547166621": {
+            "asin": "0547166621",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "The American Pageant: A History of the American People, AP Edition",
+            "normalizedName": "The American Pageant: A History of the American People, AP Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B00X6A1OD8": {
+            "asin": "B00X6A1OD8",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Ivory Color Pure 100% Cotton Thermal Hospital/Home Blanket - Twin Size",
+            "normalizedName": "Ivory Color Pure 100% Cotton Thermal Hospital/Home Blanket - Twin Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        },
+        "B019FNCXLQ": {
+            "asin": "B019FNCXLQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Conair 1875 Watt Pro Styler",
+            "normalizedName": "Conair 1875 Watt Pro Styler",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3668520723904125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000N46YWG": {
+            "asin": "B000N46YWG",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "Plasticolor Spoiled w/ Pink Flowers Front & Rear Floor Mat Set",
+            "normalizedName": "Plasticolor Spoiled w/ Pink Flowers Front & Rear Floor Mat Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B002Y26V0A": {
+            "asin": "B002Y26V0A",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Method Gel Hand Wash Refill, Sweet Water, 34 Ounce (Pack of 6)",
+            "normalizedName": "(Pack of 6) Method Gel Hand Wash Refill, Sweet Water, 34 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 14.299999988008155
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B0118GJKIW": {
+            "asin": "B0118GJKIW",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "Xbox One 500GB Console - Gears of War: Ultimate Edition Bundle",
+            "normalizedName": "Xbox One 500GB Console - Gears of War: Ultimate Edition Bundle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.949999989978842
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

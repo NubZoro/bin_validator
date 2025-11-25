@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002WP362U": {
+            "asin": "B002WP362U",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Dynamat 13100 1-1/2\" Wide and 30' Long DynaTape Sound Deadener",
+            "normalizedName": "Dynamat 13100 1-1/2\" Wide and 30' Long DynaTape Sound Deadener",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01G37LZX4": {
+            "asin": "B01G37LZX4",
+            "height": {
+                "unit": "IN",
+                "value": 2.8
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8
+            },
+            "name": "Torege Men's Sports Style Polarized Sunglasses Driver Glasses Unbreakable Frame M291 (Gray)",
+            "normalizedName": "Torege Men's Sports Style Polarized Sunglasses Driver Glasses Unbreakable Frame M291 (Gray)",
+            "quantity": 4,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

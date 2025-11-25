@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MX2ID0M": {
+            "asin": "B00MX2ID0M",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "NEWSTYLE Samsung Galaxy Tab 4 7.0 Shockproof Case Light Weight Kids Case Super Protection Cover Handle Stand Case for Kids Children For Samsung Galaxy Tab 4 7-inch SM-T230 SM-T231 SM-T235 - Blue Color",
+            "normalizedName": "NEWSTYLE Samsung Galaxy Tab 4 7.0 Shockproof Case Light Weight Kids Case Super Protection Cover Handle Stand Case for Kids Children For Samsung Galaxy Tab 4 7-inch SM-T230 SM-T231 SM-T235 - Blue Color",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B00RBT1PBQ": {
+            "asin": "B00RBT1PBQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Source One Premium Counter Top Acrylic Clear Brochure Holder with Business Card Holder 4 Inch Wide (S1-CT-TRIWBC)",
+            "normalizedName": "Source One Premium Counter Top Acrylic Clear Brochure Holder with Business Card Holder 4 Inch Wide (S1-CT-TRIWBC)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000Z93FQC": {
+            "asin": "B000Z93FQC",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Y.S. Eco Bee Farms Raw Honey - 22 oz",
+            "normalizedName": "Y.S. Eco Bee Farms Raw Honey - 22 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B003ZZUK6Q": {
+            "asin": "B003ZZUK6Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "3\" x 5\", 2 Mil Clear Plymor Brand Zipper Reclosable Storage Bags, 5 DispenserBag Packs of 100",
+            "normalizedName": "3\" x 5\", 2 Mil Clear Plymor Brand Zipper Reclosable Storage Bags, 5 DispenserBag Packs of 100",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B004HJ1WI4": {
+            "asin": "B004HJ1WI4",
+            "height": {
+                "unit": "IN",
+                "value": 3.8582677126
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.6692913328
+            },
+            "name": "PYLE-PRO PDS445 1.75-Inch Titanium Ceramic Screw On Horn Driver At 8 Ohms",
+            "normalizedName": "PYLE-PRO PDS445 1.75-Inch Titanium Ceramic Screw On Horn Driver At 8 Ohms",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.76
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6692913328
+            }
+        },
+        "B00E0CWC5K": {
+            "asin": "B00E0CWC5K",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Frigidaire 5304440323 Door Handle",
+            "normalizedName": "Frigidaire 5304440323 Door Handle",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

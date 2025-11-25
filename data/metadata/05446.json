@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001ACRR8A": {
+            "asin": "B001ACRR8A",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Roundup Weed and Grass Killer Concentrate Plus, 16-Ounce",
+            "normalizedName": "Roundup Weed and Grass Killer Concentrate Plus, 16-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00WH4O8AU": {
+            "asin": "B00WH4O8AU",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Glory Daze Retro Trivia Card Game",
+            "normalizedName": "Glory Daze Retro Trivia Card Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B014S24C4K": {
+            "asin": "B014S24C4K",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Amazon.com $30 Gift Card in a Gift Box Reveal (Classic Black Card Design)",
+            "normalizedName": "Amazon.com $30 Gift Card in a Gift Box Reveal (Classic Black Card Design)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0393082393": {
+            "asin": "0393082393",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "The Rocks Don't Lie: A Geologist Investigates Noah's Flood",
+            "normalizedName": "The Rocks Don't Lie: A Geologist Investigates Noah's Flood",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B006IJHK96": {
+            "asin": "B006IJHK96",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Linksys Advanced DOCSIS 3.0 Cable Modem for Comcast, Connector, F-type female 75 ohm Cable (DPC3008)",
+            "normalizedName": "Linksys Advanced DOCSIS 3.0 Cable Modem for Comcast, Connector, F-type female 75 ohm Cable (DPC3008)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1499882616066683
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00WG8R2ZA": {
+            "asin": "B00WG8R2ZA",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Veevanpro Foldable Sports Duffel Bag (Red)",
+            "normalizedName": "Veevanpro Foldable Sports Duffel Bag (Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

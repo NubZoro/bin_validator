@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0049RRGVG": {
+            "asin": "B0049RRGVG",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "ProActive 16 x 22 Microfiber Towel (Plush Black)",
+            "normalizedName": "ProActive 16 x 22 Microfiber Towel (Plush Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B008CCE7HK": {
+            "asin": "B008CCE7HK",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Genesis GPS080 Corner Palm Sander, Grey",
+            "normalizedName": "Genesis GPS080 Corner Palm Sander, Grey",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

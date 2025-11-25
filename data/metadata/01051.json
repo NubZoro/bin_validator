@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00N4NSOYO": {
+            "asin": "B00N4NSOYO",
+            "height": {
+                "unit": "IN",
+                "value": 4.0944881848
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.5275590454
+            },
+            "name": "Frostfire Solar Garden Light With Optional Sound Alarm",
+            "normalizedName": "Frostfire Solar Garden Light With Optional Sound Alarm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.970024052187294
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B01GP8MZJE": {
+            "asin": "B01GP8MZJE",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Cheerson CX - 10W Tiny WIFI FPV APP Control 0.3 Mega Pixel CAM 2.4GHz 4CH 6 Axis Quadcopter Drone Light Gray",
+            "normalizedName": "Cheerson CX - 10W Tiny WIFI FPV APP Control 0.3 Mega Pixel CAM 2.4GHz 4CH 6 Axis Quadcopter Drone Light Gray",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FW5R6XC": {
+            "asin": "B00FW5R6XC",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.4
+            },
+            "name": "Sandvik Coromant R390-025B25-11L CoroMill 390 Square Shoulder Milling Cutter, Weldon Shank, Steel, Right Hand, 25mm Cutting Diameter x 56.5mm Overall Length, 11 Insert Size, 2 Coarse Pitch",
+            "normalizedName": "Sandvik Coromant R390-025B25-11L CoroMill 390 Square Shoulder Milling Cutter, Weldon Shank, Steel, Right Hand, 25mm Cutting Diameter x 56.5mm Overall Length, 11 Insert Size, 2 Coarse Pitch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.86
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6
+            }
+        },
+        "B01C2TT5KW": {
+            "asin": "B01C2TT5KW",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Zyliss \"Fresh\" Plastic Food Storage Containers, 14-Piece Set",
+            "normalizedName": "14-Piece Set Zyliss \"Fresh\" Plastic Food Storage Containers,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

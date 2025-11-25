@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GA1YJ4G": {
+            "asin": "B00GA1YJ4G",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Hampton Nautical  Mayflower Tall Ship, 14\"",
+            "normalizedName": "Hampton Nautical  Mayflower Tall Ship, 14\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.99999998572
+            }
+        },
+        "B00SF9TLTO": {
+            "asin": "B00SF9TLTO",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.699999982966
+            },
+            "name": "Deconovo\u00ae Solid Thermal Insulated Super Thick Lined Oxford Curtain, 1 Pair, Fuchsia, 104x84 Inch",
+            "normalizedName": "Deconovo\u00ae Solid Thermal Insulated Super Thick Lined Oxford Curtain, 1 Pair, Fuchsia, 104x84 Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

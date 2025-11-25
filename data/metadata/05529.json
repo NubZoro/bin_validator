@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001ABZGU2": {
+            "asin": "B001ABZGU2",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Bright Starts Lots of Links Accessory Toy",
+            "normalizedName": "Bright Starts Lots of Links Accessory Toy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00EVPL43C": {
+            "asin": "B00EVPL43C",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Etude House Collagen Eye Patch, 0.14 oz. 10 pack",
+            "normalizedName": "Etude House Collagen Eye Patch, 0.14 oz. 10 pack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00M55BMBE": {
+            "asin": "B00M55BMBE",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "SanDisk Ultra 32GB Class 10 SDHC Memory Card Up to 40MB/s- SDSDUN-032G-G46 [Older Version]",
+            "normalizedName": "SanDisk Ultra 32GB Class 10 SDHC Memory Card Up to 40MB/s- SDSDUN-032G-G46 [Older Version]",
+            "quantity": 25,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 28
+}

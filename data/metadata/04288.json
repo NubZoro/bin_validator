@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K5NEPLW": {
+            "asin": "B00K5NEPLW",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995205999
+            },
+            "name": "Garden of Life mykind Organics Vegan D3 Spray, 2oz Spray",
+            "normalizedName": "Garden of Life mykind Organics Vegan D3 Spray, 2oz Spray",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

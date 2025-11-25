@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014060S4W": {
+            "asin": "B014060S4W",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Jurassic World Adhesive Bandages - 20 Ct, Pack of 6",
+            "normalizedName": "Pack of 6 Jurassic World Adhesive Bandages - 20 Ct,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B011N862IG": {
+            "asin": "B011N862IG",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Teenage Mutant Ninja Turtles Mutations Donatello with Recon Battle Shell Action Figure",
+            "normalizedName": "Teenage Mutant Ninja Turtles Mutations Donatello with Recon Battle Shell Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B01E0BFWXE": {
+            "asin": "B01E0BFWXE",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "New Arrival Premium Quality Soft Rattle Plush Toy Pink, a cute Baby Girl Gifts and Baby Girl Toys",
+            "normalizedName": "New Arrival Premium Quality Soft Rattle Plush Toy Pink, a cute Baby Girl Gifts and Baby Girl Toys",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

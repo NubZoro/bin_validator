@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K6O8V8I": {
+            "asin": "B00K6O8V8I",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6220472404
+            },
+            "name": "Bicycle Panda Playing Cards",
+            "normalizedName": "Bicycle Panda Playing Cards",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001186074865
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5984251942
+            }
+        },
+        "B01598QHAO": {
+            "asin": "B01598QHAO",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "name": "2015 Sesame Street Light Up Ball Carlton Ornament",
+            "normalizedName": "2015 Sesame Street Light Up Ball Carlton Ornament",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

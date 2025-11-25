@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FL4OYDE": {
+            "asin": "B00FL4OYDE",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Clara Clark Premier 1800 Collection Pillowcase Set - King Size, White",
+            "normalizedName": "Clara Clark Premier 1800 Collection Pillowcase Set - King Size, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01COSTM0O": {
+            "asin": "B01COSTM0O",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Apple Watch & iPhone, iPad Charging Dock by Pantheon Wireless, (MFI - APPLE CERTIFIED) Premium Aluminum Charging Station for Apple Watch, iPhone, iPad plus Two USB Ports and Cable Organizer (Gold)",
+            "normalizedName": "Apple Watch & iPhone, iPad Charging Dock by Pantheon Wireless, (MFI - APPLE CERTIFIED) Premium Aluminum Charging Station for Apple Watch, iPhone, iPad plus Two USB Ports and Cable Organizer (Gold)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

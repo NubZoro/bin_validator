@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000V4PL22": {
+            "asin": "B000V4PL22",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Conair Quick Gems Hair Jeweler",
+            "normalizedName": "Conair Quick Gems Hair Jeweler",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00LP9Q5B8": {
+            "asin": "B00LP9Q5B8",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Philips 435081 60 Watt Equivalent Dimmable LED F15 Medium Base Decorative Candle Light Bulb, Soft White",
+            "normalizedName": "Philips 435081 60 Watt Equivalent Dimmable LED F15 Medium Base Decorative Candle Light Bulb, Soft White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00V35U9MK": {
+            "asin": "B00V35U9MK",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Kawei Knight Nylon Sling Bag Backpack Travel Outdoor Large Fits iPad (Army Green&Yellow)",
+            "normalizedName": "Kawei Knight Nylon Sling Bag Backpack Travel Outdoor Large Fits iPad (Army Green&Yellow)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

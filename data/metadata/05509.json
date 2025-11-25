@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00T3ER4S0": {
+            "asin": "B00T3ER4S0",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Canon PowerShot SX410 IS (Red)",
+            "normalizedName": "Canon PowerShot SX410 IS (Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

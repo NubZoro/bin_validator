@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003FO2B5U": {
+            "asin": "B003FO2B5U",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Fit & Fresh Cool Coolers Slim Lunch Ice Packs - Set of 4",
+            "normalizedName": "Set of 4 Fit & Fresh Cool Coolers Slim Lunch Ice Packs -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B017S4CJMM": {
+            "asin": "B017S4CJMM",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Graceful Shine Baby Girl Headbands Set Newborn Infant Toddler Hair Accessories",
+            "normalizedName": "Graceful Shine Baby Girl Headbands Set Newborn Infant Toddler Hair Accessories",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

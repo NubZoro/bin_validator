@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006QWJJGW": {
+            "asin": "B006QWJJGW",
+            "height": {
+                "unit": "IN",
+                "value": 6.299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.8740157298
+            },
+            "name": "Mamas & Papas Tummy Time",
+            "normalizedName": "Mamas & Papas Tummy Time",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054720373627935
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.4015747956
+            }
+        },
+        "B012D3PN7G": {
+            "asin": "B012D3PN7G",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "Huge Rainbow Kite For Kids - One Of The Best Selling Toys For Outdoor Games Activities - Good Plan For Memorable Summer Fun - This Magic Kit Comes With Lifetime Warranty & Money Back Guarantee",
+            "normalizedName": "Huge Rainbow Kite For Kids - One Of The Best Selling Toys For Outdoor Games Activities - Good Plan For Memorable Summer Fun - This Magic Kit Comes With Lifetime Warranty & Money Back Guarantee",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B015Y754AE": {
+            "asin": "B015Y754AE",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Giro Verona Helmet - Women's Coral Speckle",
+            "normalizedName": "Giro Verona Helmet - Women's Coral Speckle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000C9O89S": {
+            "asin": "B000C9O89S",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "ACDelco 45U0170 Professional Front Driveshaft at Transfer Case U-Joint",
+            "normalizedName": "ACDelco 45U0170 Professional Front Driveshaft at Transfer Case U-Joint",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B009J0MORY": {
+            "asin": "B009J0MORY",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "NSD Power Winner's Precision Sterling Spinner Gyroscopic Wrist and Forearm Exerciser with Digital Speedometer, and Heavyweight Zinc Rotor and Stainless Steel Shell",
+            "normalizedName": "NSD Power Winner's Precision Sterling Spinner Gyroscopic Wrist and Forearm Exerciser with Digital Speedometer, and Heavyweight Zinc Rotor and Stainless Steel Shell",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B01EKSR6HC": {
+            "asin": "B01EKSR6HC",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "S7 Edge Case, Zenic(TM) Wallet Case Lightweight [Soft Rubber Bumper] [Sliding Card Slot] Dual Layer Impact Resistant Shockproof Protection Case for Samsung Galaxy S7 Edge (Rose Gold)",
+            "normalizedName": "S7 Edge Case, Zenic(TM) Wallet Case Lightweight [Soft Rubber Bumper] [Sliding Card Slot] Dual Layer Impact Resistant Shockproof Protection Case for Samsung Galaxy S7 Edge (Rose Gold)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

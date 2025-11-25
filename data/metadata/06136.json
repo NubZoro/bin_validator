@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009QYLOD8": {
+            "asin": "B009QYLOD8",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Black & Decker BDA91109 Combination Accessory Set, 109-Piece",
+            "normalizedName": "Black & Decker BDA91109 Combination Accessory Set, 109-Piece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0499999974422987
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B0152D83LW": {
+            "asin": "B0152D83LW",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "2015/2016 Christiano Ronaldo #7 Real Madrid Kids Youth Away Gray Jersey & Shorts (M \"140\" (Ages 6-7))",
+            "normalizedName": "2015/2016 Christiano Ronaldo #7 Real Madrid Kids Youth Away Gray Jersey & Shorts (M \"140\" (Ages 6-7))",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

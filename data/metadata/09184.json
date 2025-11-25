@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IUFILXU": {
+            "asin": "B00IUFILXU",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "100% Cotton Greek Key Embroidery, Single Ply, 2-Piece King Kendell Pillowcase Set, White/ Black",
+            "normalizedName": "100% Cotton Greek Key Embroidery, Single Ply, 2-Piece King Kendell Pillowcase Set, White/ Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

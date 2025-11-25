@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B019H0WCI6": {
+            "asin": "B019H0WCI6",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "O.N.E. Diaper (Fun Fair)",
+            "normalizedName": "O.N.E. Diaper (Fun Fair)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

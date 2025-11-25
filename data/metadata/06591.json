@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015GMX83C": {
+            "asin": "B015GMX83C",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Funko POP Animation Bob's Burgers Tina Action Figure",
+            "normalizedName": "Funko POP Animation Bob's Burgers Tina Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B015XW7YE4": {
+            "asin": "B015XW7YE4",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "GLW\u00ae 20W LED RGB Flood Light, Remote Control Waterproof Outdoor Security Light, 4 Models with 16 Color Tones Spotlight, Dimmable Color Changing",
+            "normalizedName": "GLW\u00ae 20W LED RGB Flood Light, Remote Control Waterproof Outdoor Security Light, 4 Models with 16 Color Tones Spotlight, Dimmable Color Changing",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

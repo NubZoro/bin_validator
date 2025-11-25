@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KPTMEF0": {
+            "asin": "B00KPTMEF0",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993777999
+            },
+            "name": "Celestial Seasonings Decaf Mint Green Tea Bags, 20 ct, 2 pk",
+            "normalizedName": "Celestial Seasonings Decaf Mint Green Tea Bags, 20 ct, 2 pk",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MPQR47O": {
+            "asin": "B00MPQR47O",
+            "height": {
+                "unit": "IN",
+                "value": 4.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.5
+            },
+            "name": "Boogie Wipes Natural Saline Kids and Baby Nose Wipes for Cold and Flu, Unscented, 90 Count",
+            "normalizedName": "Boogie Wipes Natural Saline Kids and Baby Nose Wipes for Cold and Flu, Unscented, 90 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5
+            }
+        },
+        "B019ILLPZK": {
+            "asin": "B019ILLPZK",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "2-Pack Padded Knee Sleeves,JeeMax Protective Compression Wear for Men and Women Basketball,Running,Badminton Brace Support,Black",
+            "normalizedName": "2-Pack  Padded Knee Sleeves,JeeMax Protective Compression Wear for Men and Women Basketball,Running,Badminton Brace Support,Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3599999996981074
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

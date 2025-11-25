@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006R2XDF4": {
+            "asin": "B006R2XDF4",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Hitachi 746577 .105-Inch 1165-Feet Trimmer Line Spool, Black",
+            "normalizedName": "Hitachi 746577 .105-Inch 1165-Feet Trimmer Line Spool, Black",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00LD8BYIA": {
+            "asin": "B00LD8BYIA",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Disney Frozen Table Decorating Kit Assorted Birthday Party Decoration (23 Pack), Multi Color, .",
+            "normalizedName": "(23 Pack) Disney Frozen Table Decorating Kit Assorted Birthday Party Decoration , Multi Color, .",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B00SPYDSFC": {
+            "asin": "B00SPYDSFC",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Whirlpool W10712394 Adjuster KIT",
+            "normalizedName": "Whirlpool W10712394 Adjuster KIT",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

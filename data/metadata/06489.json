@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0133760030": {
+            "asin": "0133760030",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.9448818786
+            },
+            "name": "Electric Circuits (10th Edition)",
+            "normalizedName": "Electric Circuits (10th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.5826771566
+            }
+        },
+        "B015CY8RS0": {
+            "asin": "B015CY8RS0",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Barbie Collector Batman v Superman: Dawn of Justice Wonder Woman Doll",
+            "normalizedName": "Barbie Collector Batman v Superman: Dawn of Justice Wonder Woman Doll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

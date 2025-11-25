@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000002ONY": {
+            "asin": "B000002ONY",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "The Truth",
+            "normalizedName": "The Truth",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17707528883839999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00PAOFJ70": {
+            "asin": "B00PAOFJ70",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Energetic Cleansing - Angel Aura Essence 100ml",
+            "normalizedName": "Energetic Cleansing - Angel Aura Essence 100ml",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.0472440924
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

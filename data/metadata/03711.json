@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JA7Q4SQ": {
+            "asin": "B00JA7Q4SQ",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Braun Series 5 5090cc Electric Foil Shaver with Clean&Charge Station, Electric Men's Shaver, Razors, Shavers",
+            "normalizedName": "Braun Series 5 5090cc Electric Foil Shaver with Clean&Charge Station, Electric Men's Shaver, Razors, Shavers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00ZG2H636": {
+            "asin": "B00ZG2H636",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "2LB MED Avian Diet (Pack of 2)",
+            "normalizedName": "(Pack of 2) 2LB MED Avian Diet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

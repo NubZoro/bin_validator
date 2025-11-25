@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B019WWFTP2": {
+            "asin": "B019WWFTP2",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Peace Yoga Set of 2 Super Absorbent 24\"x72\" Microfiber Suede Non Slip Hot Yoga Gym Workout Towels - Brown",
+            "normalizedName": "Set of 2 Peace Yoga Super Absorbent 24\"x72\" Microfiber Suede Non Slip Hot Yoga Gym Workout Towels - Brown",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B01BLQSP58": {
+            "asin": "B01BLQSP58",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "My Mind's Eye Black & White Party Fans - Set of 8 Fans",
+            "normalizedName": "Set of 8 My Mind's Eye Black & White Party Fans - Fans",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9299999992201108
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

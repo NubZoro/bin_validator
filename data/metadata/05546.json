@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012HGVMVU": {
+            "asin": "B012HGVMVU",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Star Wars Classic Characters Kids School Backpack with Insulated Lunch Bag",
+            "normalizedName": "Star Wars Classic Characters Kids School Backpack with Insulated Lunch Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            }
+        },
+        "B01FLJ19Q8": {
+            "asin": "B01FLJ19Q8",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Ohyesbat 2 Pack Battery Replacement For Ryobi ONE+ 18V 1.5Ah P100 P101 High Capacity Cordless Power Tools( 2packs)",
+            "normalizedName": "2 Pack Ohyesbat Battery Replacement For Ryobi ONE+ 18V 1.5Ah P100 P101 High Capacity Cordless Power Tools( 2packs)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9999999966456374
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001OFHM2Y": {
+            "asin": "B001OFHM2Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "name": "Hawaiian Poi Powder 3oz Jar - Made in Hawaii From Hawaian Taro",
+            "normalizedName": "Hawaiian Poi Powder 3oz Jar - Made in Hawaii From Hawaian Taro",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B00MUDDEEO": {
+            "asin": "B00MUDDEEO",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Bang Long Bicycle Sports Sunglasses with Anti-scratch Lenses for Running Driving Racing Ski golf",
+            "normalizedName": "Bang Long Bicycle Sports Sunglasses with Anti-scratch Lenses for Running Driving Racing Ski golf",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00ND2E6O8": {
+            "asin": "B00ND2E6O8",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "iPod Touch 5 Case Snoopy & Charlie Brown Dancing",
+            "normalizedName": "iPod Touch 5 Case Snoopy & Charlie Brown Dancing",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B014QDF1QO": {
+            "asin": "B014QDF1QO",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "iPhone 6S Case, OBLIQ [Naked Shield][Clear][Metal Kickstand] Thin Slim Fit Crystal Clear Case + TPU Bumper Armor Scratch Resist Protection for Apple iPhone 6S(2015) & iPhone 6(2014)",
+            "normalizedName": "iPhone 6S Case, OBLIQ [Naked Shield][Clear][Metal Kickstand] Thin Slim Fit Crystal Clear Case + TPU Bumper Armor Scratch Resist Protection for Apple iPhone 6S(2015) & iPhone 6(2014)",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

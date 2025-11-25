@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000M8071M": {
+            "asin": "B000M8071M",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Mountain House, Diced Chicken, Cooked",
+            "normalizedName": "Mountain House, Diced Chicken, Cooked",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

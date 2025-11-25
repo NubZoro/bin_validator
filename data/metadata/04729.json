@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0802427340": {
+            "asin": "0802427340",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Basic Theology: A Popular Systematic Guide to Understanding Biblical Truth",
+            "normalizedName": "Basic Theology: A Popular Systematic Guide to Understanding Biblical Truth",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B01CDO7TUY": {
+            "asin": "B01CDO7TUY",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Disney Store Gazelle Singing Doll 12'' -Zootopia",
+            "normalizedName": "Disney Store Gazelle Singing Doll 12'' -Zootopia",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

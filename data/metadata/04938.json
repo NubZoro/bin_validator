@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K6ECUAS": {
+            "asin": "B00K6ECUAS",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Aviditi STBLN1 Letter/Number Brass Stencils, 1\" (Pack of 45)",
+            "normalizedName": "(Pack of 45) Aviditi STBLN1 Letter/Number Brass Stencils, 1\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00RH3EQBC": {
+            "asin": "B00RH3EQBC",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Burgundy Star Scalloped Valance",
+            "normalizedName": "Burgundy Star Scalloped Valance",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B01EH6H1G8": {
+            "asin": "B01EH6H1G8",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Fitbit Blaze Bands, Feitenn Metal Stailess Steel Bracelet Band Strap Replacement Watchband for Fitbit Blaze Smart Watch (Gold)",
+            "normalizedName": "Fitbit Blaze Bands, Feitenn Metal Stailess Steel Bracelet Band Strap Replacement Watchband for Fitbit Blaze Smart Watch (Gold)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

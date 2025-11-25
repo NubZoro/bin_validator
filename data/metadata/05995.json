@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0018N91YY": {
+            "asin": "B0018N91YY",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.7795275552
+            },
+            "name": "DecoArt Crafter's Acrylic Paint, 2-Ounce, Burgundy",
+            "normalizedName": "DecoArt Crafter's Acrylic Paint, 2-Ounce, Burgundy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.181102361
+            }
+        },
+        "B01D9L6MVC": {
+            "asin": "B01D9L6MVC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Men's 17 Pockets Mesh Water Resistant Fishing Photography Vest Khaki US XL",
+            "normalizedName": "Men's 17 Pockets Mesh Water Resistant Fishing Photography Vest Khaki US XL",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

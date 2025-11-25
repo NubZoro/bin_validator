@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "143368912X": {
+            "asin": "143368912X",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Unashamed",
+            "normalizedName": "Unashamed",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B000GCJNDC": {
+            "asin": "B000GCJNDC",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002
+            },
+            "name": "NUK Confetti Ducks Orthodontic Silicone Pacifier",
+            "normalizedName": "NUK Confetti Ducks Orthodontic Silicone Pacifier",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00JR8K8DA": {
+            "asin": "B00JR8K8DA",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Mazuri Rat & Mouse Food, 2 lbs.",
+            "normalizedName": "Mazuri Rat & Mouse Food, 2 lbs.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B016Y1PR7E": {
+            "asin": "B016Y1PR7E",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "MYSKY HOME Solid Grommet top Thermal Insulated Window Blackout Curtains for Living Room, 52 by 63 inch, Burgundy (1 panel)",
+            "normalizedName": "MYSKY HOME Solid Grommet top Thermal Insulated Window Blackout Curtains for Living Room, 52 by 63 inch, Burgundy (1 panel)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65999999860794
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

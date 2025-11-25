@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0030UF6EW": {
+            "asin": "B0030UF6EW",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Aveeno Baby Daily Moisture Lotion, Fragrance Free, 18  Ounce",
+            "normalizedName": "Aveeno Baby Daily Moisture Lotion, Fragrance Free, 18  Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B00QCAGMPY": {
+            "asin": "B00QCAGMPY",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Ella the Elephant Tiki Small Plush Toy",
+            "normalizedName": "Ella the Elephant Tiki Small Plush Toy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

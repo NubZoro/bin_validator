@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NQWL2II": {
+            "asin": "B00NQWL2II",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "L.A. Girl HD Pro Setting Powder",
+            "normalizedName": "L.A. Girl HD Pro Setting Powder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00ZQVSKSM": {
+            "asin": "B00ZQVSKSM",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Motorola Moto G (3rd Generation) - Black - 8 GB - Global GSM Unlocked Phone",
+            "normalizedName": "Motorola Moto G (3rd Generation) - Black - 8 GB - Global GSM Unlocked Phone",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01G26R18Y": {
+            "asin": "B01G26R18Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "PNY Elite 32GB microSDHC Card with Adapter -UHS-I, U1, up to 85MB/Sec (P-SDU32U185EL-GE)",
+            "normalizedName": "PNY Elite 32GB microSDHC Card with Adapter -UHS-I, U1, up to 85MB/Sec (P-SDU32U185EL-GE)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

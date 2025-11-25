@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0323287883": {
+            "asin": "0323287883",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Essentials of Psychiatric Mental Health Nursing - Revised Reprint, 2e",
+            "normalizedName": "Essentials of Psychiatric Mental Health Nursing - Revised Reprint, 2e",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B00FLVZA3U": {
+            "asin": "B00FLVZA3U",
+            "height": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Cytosport  Milk Pro Series Intense Protein Power Shake, Vanilla, 14oz Bottles,12 Count",
+            "normalizedName": "Cytosport  Milk Pro Series Intense Protein Power Shake, Vanilla, 14oz Bottles,12 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.800000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

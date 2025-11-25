@@ -1,0 +1,137 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0887082750": {
+            "asin": "0887082750",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Pancakes, Pancakes!",
+            "normalizedName": "Pancakes, Pancakes!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00149YRB4": {
+            "asin": "B00149YRB4",
+            "height": {
+                "unit": "IN",
+                "value": 1.6535433054
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.118110231
+            },
+            "name": "Baby Banz Retro Banz Oval Baby Sunglasses, Arctic White",
+            "normalizedName": "Baby Banz Retro Banz Oval Baby Sunglasses, Arctic White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.0472440924
+            }
+        },
+        "B0057R2MXY": {
+            "asin": "B0057R2MXY",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Bower XPDNEL10 Digital Camera Battery Replaces Nikon EN-EL10",
+            "normalizedName": "Bower XPDNEL10 Digital Camera Battery Replaces Nikon EN-EL10",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00BPJ14ZK": {
+            "asin": "B00BPJ14ZK",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "name": "theBalm INSTAIN Blush, Lace",
+            "normalizedName": "theBalm INSTAIN Blush, Lace",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00MV7T0GA": {
+            "asin": "B00MV7T0GA",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Aqua Sphere Kaiman Swim Goggle (Regular, Smoke Lens, White / Neon Green)",
+            "normalizedName": "Aqua Sphere Kaiman Swim Goggle (Regular, Smoke Lens, White / Neon Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B01DL3MW6M": {
+            "asin": "B01DL3MW6M",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Men's Classic Stitched Leather Dress Belt - Black (34) Single Pack",
+            "normalizedName": "Men's Classic Stitched Leather Dress Belt - Black (34) Single Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645639
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

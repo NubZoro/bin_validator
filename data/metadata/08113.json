@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321971663": {
+            "asin": "0321971663",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Literature: An Introduction to Fiction, Poetry, Drama, and Writing (13th Edition)",
+            "normalizedName": "Literature: An Introduction to Fiction, Poetry, Drama, and Writing (13th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "1285428943": {
+            "asin": "1285428943",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "The Legal Environment of Business: Text and Cases",
+            "normalizedName": "The Legal Environment of Business: Text and Cases",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "1285438256": {
+            "asin": "1285438256",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Introduction to Law and the Legal System",
+            "normalizedName": "Introduction to Law and the Legal System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

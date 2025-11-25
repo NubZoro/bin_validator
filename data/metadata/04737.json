@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003U8CRGY": {
+            "asin": "B003U8CRGY",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Laptop AC Adapter/Power Supply/Charger+US Power Cord for Toshiba Satellite",
+            "normalizedName": "Laptop AC Adapter/Power Supply/Charger+US Power Cord for Toshiba Satellite",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00UYH8ISK": {
+            "asin": "B00UYH8ISK",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Anleolife 12'' Ballet Birthday Tutu Dress Cheap Tutu Skirt Ballet Dance Mini Skirts (light blue)",
+            "normalizedName": "Anleolife 12'' Ballet Birthday Tutu Dress Cheap Tutu Skirt Ballet Dance Mini Skirts (light blue)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

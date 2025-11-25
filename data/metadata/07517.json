@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A5UADL6": {
+            "asin": "B00A5UADL6",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Dr. Brown's Level-3 Wide Neck Nipple, 6 Pack",
+            "normalizedName": "6 Pack Dr. Brown's Level-3 Wide Neck Nipple,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00II5ZDXI": {
+            "asin": "B00II5ZDXI",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "name": "The Hillman Group 4631 6-32 x 3/8-Inch - USS Socket Set Screw, 25-Pack",
+            "normalizedName": "25-Pack The Hillman Group 4631 6-32 x 3/8-Inch - USS Socket Set Screw,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.599999998368
+            }
+        },
+        "B00OM8B9H4": {
+            "asin": "B00OM8B9H4",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Kappa Delta Plastic Travel Mug",
+            "normalizedName": "Kappa Delta Plastic Travel Mug",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9699999991865671
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00TR7PNFO": {
+            "asin": "B00TR7PNFO",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Funko 4629 POP TV: Doctor Who Dr #4 Action Figure",
+            "normalizedName": "Funko 4629 POP TV: Doctor Who Dr #4 Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.36
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

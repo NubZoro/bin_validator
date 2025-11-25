@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OCAVMSS": {
+            "asin": "B00OCAVMSS",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Eyourlife 50W Watts Outdoor LED Tunnel Waterproof Flood Lamp Light Warm White High Power Spotlights",
+            "normalizedName": "Eyourlife 50W Watts Outdoor LED Tunnel Waterproof Flood Lamp Light Warm White High Power Spotlights",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00U696HF2": {
+            "asin": "B00U696HF2",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Corelle Livingware 28-Ounce Super Soup/Cereal Bowl, Navy Blue (3 Bowls)",
+            "normalizedName": "Corelle Livingware 28-Ounce Super Soup/Cereal Bowl, Navy Blue (3 Bowls)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

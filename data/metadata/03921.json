@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00236RBL0": {
+            "asin": "B00236RBL0",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Safariland 771 Competition Single Magazine Holder, Black, Plain, for 1.5-Inch Belt Right Hand",
+            "normalizedName": "Safariland 771 Competition Single Magazine Holder, Black, Plain, for 1.5-Inch Belt Right Hand",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00RHJI806": {
+            "asin": "B00RHJI806",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Neiko Stainless Steel 6-Inch Digital Caliper with Extra-Large LCD Screen - Instant SAE-Metric Conversion",
+            "normalizedName": "Neiko Stainless Steel 6-Inch Digital Caliper with Extra-Large LCD Screen - Instant SAE-Metric Conversion",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00UIC5FHI": {
+            "asin": "B00UIC5FHI",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Fujifilm Instax Groovy Camera Case - Raspberry",
+            "normalizedName": "Fujifilm Instax Groovy Camera Case - Raspberry",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B019ZUNCU0": {
+            "asin": "B019ZUNCU0",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Aurum Cables Mini DisplayPort to HDMI + VGA Female Cable - 2 Pack with 2 Piece Cable Ties - 1 Feet",
+            "normalizedName": "2 Pack Aurum Cables Mini DisplayPort to HDMI + VGA Female Cable - with 2 Piece Cable Ties - 1 Feet",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ANNI4GQ": {
+            "asin": "B00ANNI4GQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Thermal Receipt Paper 2 1/4\" x 85' Paper Tray Pack (10 Rolls) - BAM POS",
+            "normalizedName": "Thermal Receipt Paper 2 1/4\" x 85' Paper Tray Pack (10 Rolls) - BAM POS",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01CVNKLFM": {
+            "asin": "B01CVNKLFM",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Niteangel Colorful Wiggles and Wafers Toy for Birds, Chewing Gnawing Parrot Toy",
+            "normalizedName": "Niteangel Colorful Wiggles and Wafers Toy for Birds, Chewing Gnawing Parrot Toy",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

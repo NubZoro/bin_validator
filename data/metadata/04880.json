@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0738719641": {
+            "asin": "0738719641",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "A Love Alchemist's Notebook: Magical Secrets for Drawing Your True Love into Your Life",
+            "normalizedName": "A Love Alchemist's Notebook: Magical Secrets for Drawing Your True Love into Your Life",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452
+            }
+        },
+        "B013U3ZGT8": {
+            "asin": "B013U3ZGT8",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Lunera HN-V-G24Q-26W-4000-G3 Helen Lamp Plug-and-Play Horizontal LED Replacement for 13W, 18W, 26W, 32W, and 42W CFL Lamps with G24q Electronic Ballast Sockets, 4-Pin, 4000 K, 4.5\" Height, 1.9\" Width",
+            "normalizedName": "Lunera HN-V-G24Q-26W-4000-G3 Helen Lamp Plug-and-Play Horizontal LED Replacement for 13W, 18W, 26W, 32W, and 42W CFL Lamps with G24q Electronic Ballast Sockets, 4-Pin, 4000 K, 4.5\" Height, 1.9\" Width",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

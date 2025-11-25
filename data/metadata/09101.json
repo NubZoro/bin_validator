@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001KYO6M8": {
+            "asin": "B001KYO6M8",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Scotch-Brite Multi-purpose Non-scratch Scrub Sponge (9-pack)",
+            "normalizedName": "Scotch-Brite Multi-purpose Non-scratch Scrub Sponge (9-pack)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00KVQUMKQ": {
+            "asin": "B00KVQUMKQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Shepherd Hardware 3946 2-Inch Adhesive, Triangle, Slide Glide Furniture Sliders, 4-Pack",
+            "normalizedName": "4-Pack Shepherd Hardware 3946 2-Inch Adhesive, Triangle, Slide Glide Furniture Sliders,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

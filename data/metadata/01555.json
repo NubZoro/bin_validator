@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005IGW8IS": {
+            "asin": "B005IGW8IS",
+            "height": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Grayline 40194, Locker Stacking Shelf, White",
+            "normalizedName": "Grayline 40194, Locker Stacking Shelf, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B00QH4VUUM": {
+            "asin": "B00QH4VUUM",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "EEZ-Y Wired Selfie Stick Bundle w/ Flexible Tripod + Bluetooth Remote + Two Adjustable Phone Holders - Awesome Photography Tools for iPhone Samsung Sony LG Nexus Devices - Best Value Bundle (Black)",
+            "normalizedName": "EEZ-Y Wired Selfie Stick Bundle w/ Flexible Tripod + Bluetooth Remote + Two Adjustable Phone Holders - Awesome Photography Tools for iPhone Samsung Sony LG Nexus Devices - Best Value Bundle (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B010CAEOUO": {
+            "asin": "B010CAEOUO",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "JBL GO Portable Wireless Bluetooth Speaker W/ A Built-In Strap-Hook (GREY)",
+            "normalizedName": "JBL GO Portable Wireless Bluetooth Speaker W/ A Built-In Strap-Hook (GREY)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

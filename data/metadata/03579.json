@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007ZYF298": {
+            "asin": "B007ZYF298",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Pilot B2P - Bottle to Pen - Retractable Ball Point Pens Made from Recycled Bottles, 2 Pen Pack, Medium Point, Black (32805)",
+            "normalizedName": "Pilot B2P - Bottle to Pen - Retractable Ball Point Pens Made from Recycled Bottles, 2 Pen Pack, Medium Point, Black (32805)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            }
+        },
+        "B00DBLVXBK": {
+            "asin": "B00DBLVXBK",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "name": "Taste of Cyprus, Non-GMO, 1.7oz, Gourmet Seasoning",
+            "normalizedName": "Taste of Cyprus, Non-GMO, 1.7oz, Gourmet Seasoning",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

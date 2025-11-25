@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013WCH3C": {
+            "asin": "B0013WCH3C",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Hitachi 728246 5/8-inch x 12-inch Auger Drill Bit",
+            "normalizedName": "Hitachi 728246 5/8-inch x 12-inch Auger Drill Bit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        },
+        "B00KFG2AX4": {
+            "asin": "B00KFG2AX4",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "The Homemade Gin Kit",
+            "normalizedName": "The Homemade Gin Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B01DZOCCK8": {
+            "asin": "B01DZOCCK8",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999997144
+            },
+            "name": "Rebecca Minkoff Finn Cross Body, Deep Cyan, One Size",
+            "normalizedName": "Rebecca Minkoff Finn Cross Body, Deep Cyan, One Size",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1499999980712416
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999997756
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

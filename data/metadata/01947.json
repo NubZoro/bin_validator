@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NQIFFBM": {
+            "asin": "B00NQIFFBM",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Satisfaction: Season 1",
+            "normalizedName": "Satisfaction: Season 1",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00T6IGMI6": {
+            "asin": "B00T6IGMI6",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Package of 24 /50/100/200 Pcs Small Mini Glass Jars with Cork Stoppers - Size: 1-1/2\" Tall X 3/4 Inches Diameter (50)",
+            "normalizedName": "Package of 24 /50/100/200 Pcs Small Mini Glass Jars with Cork Stoppers - Size: 1-1/2\" Tall X 3/4 Inches Diameter (50)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

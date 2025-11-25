@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004GHIEZQ": {
+            "asin": "B004GHIEZQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Lumene Vitamin C+ Dry Skin Comfort Radiance Cocktail - 1 fl oz.",
+            "normalizedName": "Lumene Vitamin C+ Dry Skin Comfort Radiance Cocktail - 1 fl oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.31
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B01CUUG5BU": {
+            "asin": "B01CUUG5BU",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Senkada Tea Black Tea Kandy",
+            "normalizedName": "Senkada Tea Black Tea Kandy",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

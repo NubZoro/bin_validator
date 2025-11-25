@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004ZMXE66": {
+            "asin": "B004ZMXE66",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Cisco RV110W-A-NA-K9 Small Business RV110W Wireless N VPN Firewall Router",
+            "normalizedName": "Cisco RV110W-A-NA-K9 Small Business RV110W Wireless N VPN Firewall Router",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B00DIZQJPO": {
+            "asin": "B00DIZQJPO",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Aokin PU Leather Remote control/controller TV Guide/mail/CD organizer/caddy/holder with (PU Black)",
+            "normalizedName": "Aokin PU Leather Remote control/controller TV Guide/mail/CD organizer/caddy/holder with (PU Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

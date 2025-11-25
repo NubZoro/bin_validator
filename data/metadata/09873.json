@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004KQF4UQ": {
+            "asin": "B004KQF4UQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Panasonic KX-TS880W Integrated Corded Telephone",
+            "normalizedName": "Panasonic KX-TS880W Integrated Corded Telephone",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B00NPMEG8W": {
+            "asin": "B00NPMEG8W",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "NCAA Central Michigan Chippewas Zuma Insulated Cooler Backpack, Black",
+            "normalizedName": "NCAA Central Michigan Chippewas Zuma Insulated Cooler Backpack, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            }
+        },
+        "B00NQN9YIC": {
+            "asin": "B00NQN9YIC",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "12\" x 10 ft Roll of Glossy Oracal 651 Metallic Silver Gray Permanent Adhesive-Backed Vinyl for Craft Cutters, Punches and Vinyl Sign Cutters by VinylXSticker",
+            "normalizedName": "12\" x 10 ft Roll of Glossy Oracal 651 Metallic Silver Gray Permanent Adhesive-Backed Vinyl for Craft Cutters, Punches and Vinyl Sign Cutters by VinylXSticker",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.599999998368
+            }
+        },
+        "B016FO0P4A": {
+            "asin": "B016FO0P4A",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Apple Macbook Pro MF840LL/A 13.3-Inch Laptop with Retina Display (256 GB) New...",
+            "normalizedName": "Apple Macbook Pro MF840LL/A 13.3-Inch Laptop with Retina Display (256 GB) New...",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.399999995471611
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B01CJB92BK": {
+            "asin": "B01CJB92BK",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "Toshiba - Satellite Radius 2-in-1 15.6\" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 12GB Memory - 1TB Hard Drive - Carbon Gray",
+            "normalizedName": "Toshiba - Satellite Radius 2-in-1 15.6\" 4K Ultra HD Touch-Screen Laptop - Intel Core i7 - 12GB Memory - 1TB Hard Drive - Carbon Gray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.2499999947588085
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.599999986128
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

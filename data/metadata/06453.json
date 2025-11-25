@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007CNG96C": {
+            "asin": "B007CNG96C",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Watch Box Large 12 Mens Black Leather Display Glass Top Jewelry Case Organizer",
+            "normalizedName": "Watch Box Large 12 Mens Black Leather Display Glass Top Jewelry Case Organizer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.749999997693876
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B00CF7E0R0": {
+            "asin": "B00CF7E0R0",
+            "height": {
+                "unit": "IN",
+                "value": 6.6141732216
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0472440822
+            },
+            "name": "AmazonBasics Medium DSLR Gadget Bag (Gray Interior)",
+            "normalizedName": "AmazonBasics Medium DSLR Gadget Bag (Gray Interior)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6314207388
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9212598324
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

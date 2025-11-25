@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000I4AC0G": {
+            "asin": "B000I4AC0G",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Kid-e-Sooth Glycerite Dr. Christopher 2 oz Liquid",
+            "normalizedName": "Kid-e-Sooth Glycerite Dr. Christopher 2 oz Liquid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B007PLFE5I": {
+            "asin": "B007PLFE5I",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.5984251942
+            },
+            "name": "Hurraw! Balm, Earl Grey Lip Balm, .15 Oz (4.3 G)",
+            "normalizedName": "Hurraw! Balm, Earl Grey Lip Balm, .15 Oz (4.3 G)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.8267716527
+            }
+        },
+        "B00FPQQKI0": {
+            "asin": "B00FPQQKI0",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Franklin Sports Birdies Shuttlecock (6-Pack)",
+            "normalizedName": "(6-Pack) Franklin Sports Birdies Shuttlecock",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01B59TY9C": {
+            "asin": "B01B59TY9C",
+            "height": {
+                "unit": "IN",
+                "value": 1.1417322823
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.8267716476
+            },
+            "name": "Satechi Aluminum Desktop Charging Stand for iPhone 5 / 5S / 5C / 6 / 6s / 6 Plus / 6s Plus / iPod touch 5G / iPod nano 7G (Gold)",
+            "normalizedName": "Satechi Aluminum Desktop Charging Stand for iPhone 5 / 5S / 5C / 6 / 6s / 6 Plus / 6s Plus / iPod touch 5G / iPod nano 7G (Gold)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4541476240522983
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.3543307032
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01837VCK8": {
+            "asin": "B01837VCK8",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Solar Lights UNIFUN Solar spotlight 200 lumen Solar Powered Waterproof Outdoor Wall Light",
+            "normalizedName": "Solar Lights UNIFUN Solar spotlight 200 lumen Solar Powered Waterproof Outdoor Wall Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B01AWGZRN6": {
+            "asin": "B01AWGZRN6",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Mattel 6-Inch DC Super Hero Girls Action Figure",
+            "normalizedName": "Mattel 6-Inch DC Super Hero Girls Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1999999998322819
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

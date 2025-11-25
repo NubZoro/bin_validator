@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005VZTZP0": {
+            "asin": "B005VZTZP0",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "40 Piece Tegu Explorer Magnetic Wooden Block Set, Natural",
+            "normalizedName": "40 Piece Tegu Explorer Magnetic Wooden Block Set, Natural",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B01BI8LDLC": {
+            "asin": "B01BI8LDLC",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "Maya Reyes Michele Crossbody Bag (Black)",
+            "normalizedName": "Maya Reyes Michele Crossbody Bag (Black)",
+            "quantity": 4,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

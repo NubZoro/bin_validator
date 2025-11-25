@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003294J4O": {
+            "asin": "B003294J4O",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Fiddyment Farms 1 Lb Lightly Salted Pistachios in Green Burlap Bag",
+            "normalizedName": "Fiddyment Farms 1 Lb Lightly Salted Pistachios in Green Burlap Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00KOCLVZC": {
+            "asin": "B00KOCLVZC",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Glade 2-in-1 Jar Candle, Creamy Custard/Apple Cinnamon, 3.8 Ounce",
+            "normalizedName": "Glade 2-in-1 Jar Candle, Creamy Custard/Apple Cinnamon, 3.8 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

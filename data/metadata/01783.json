@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002R0IHTC": {
+            "asin": "B002R0IHTC",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "TYC 11-5060-21 Dodge/Plymouth Driver Side Replacement Tail Light Assembly",
+            "normalizedName": "TYC 11-5060-21 Dodge/Plymouth Driver Side Replacement Tail Light Assembly",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991738
+            }
+        },
+        "B019ZU3KDO": {
+            "asin": "B019ZU3KDO",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "UBOXES 30-Feet Roll of Red Bubble Small 3/16\" Wrap x 12\" Wide",
+            "normalizedName": "UBOXES 30-Feet Roll of Red Bubble Small 3/16\" Wrap x 12\" Wide",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

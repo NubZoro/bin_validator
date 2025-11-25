@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01967MFRS": {
+            "asin": "B01967MFRS",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "XSPC RayStorm WaterBlock V3, Intel CPU, White LEDs",
+            "normalizedName": "XSPC RayStorm WaterBlock V3, Intel CPU, White LEDs",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

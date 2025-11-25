@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00SX9UD8E": {
+            "asin": "B00SX9UD8E",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Monster Hunter 4 Ultimate Standard Edition - Nintendo 3DS",
+            "normalizedName": "Monster Hunter 4 Ultimate Standard Edition - Nintendo 3DS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B0138L3DH4": {
+            "asin": "B0138L3DH4",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "COOLcessories Apple iPhone Smart Watch Charging Station \u2013 Anti Scratch TPU Stand with Cord Management and Comfortable Viewing Angle \u2013 Fits Both Watch Sizes (Gray)",
+            "normalizedName": "COOLcessories Apple iPhone Smart Watch Charging Station \u2013 Anti Scratch TPU Stand with Cord Management and Comfortable Viewing Angle \u2013 Fits Both Watch Sizes (Gray)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

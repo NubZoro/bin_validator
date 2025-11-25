@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CQBMD6": {
+            "asin": "B000CQBMD6",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.49999998317
+            },
+            "name": "WARN 63936 ATV Center Plow Mounting Kit",
+            "normalizedName": "WARN 63936 ATV Center Plow Mounting Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B01DFSFY2W": {
+            "asin": "B01DFSFY2W",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "LePrene Perfect Bag 2 Bottle Insulated Neoprene Stylish Wine Carrier Lunch Travel Bag. Great Summer Beach Laptop Tote with Reinforced Cross-body Strap and Zipper",
+            "normalizedName": "LePrene Perfect Bag 2 Bottle Insulated Neoprene Stylish Wine Carrier Lunch Travel Bag. Great Summer Beach Laptop Tote with Reinforced Cross-body Strap and Zipper",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.99999998572
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

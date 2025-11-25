@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003X9XKPC": {
+            "asin": "B003X9XKPC",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Samsung 1500mAh Li-Ion Standard Battery for T-Mobile Galaxy S Samsung Vibrant T959 EB575152VA",
+            "normalizedName": "Samsung 1500mAh Li-Ion Standard Battery for T-Mobile Galaxy S Samsung Vibrant T959 EB575152VA",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00VHHIUNY": {
+            "asin": "B00VHHIUNY",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Quick Charge 2.0 AUKEY 3-Port USB Wall Charger",
+            "normalizedName": "Quick Charge 2.0 AUKEY 3-Port USB Wall Charger",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B01F73DZ1K": {
+            "asin": "B01F73DZ1K",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "SnowCinda 12pack High Definition (HD+) Screen Protectors for Garmin Vivosmart HR",
+            "normalizedName": "SnowCinda 12pack High Definition (HD+) Screen Protectors for Garmin Vivosmart HR",
+            "quantity": 6,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

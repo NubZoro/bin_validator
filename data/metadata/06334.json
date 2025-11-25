@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009NYIC6I": {
+            "asin": "B009NYIC6I",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Can Crusher Crushes Soda Cans and Beer Cans",
+            "normalizedName": "Can Crusher Crushes Soda Cans and Beer Cans",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B017DZ8E0M": {
+            "asin": "B017DZ8E0M",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Vacuum Storage Bags, 8 Multi-size Premium Quality Space Saver Compression Bags (Jumbo, XL, Large, Medium, Travel Roll-up) - Ideal for Clothing, Comforters, Pillows, Bedding",
+            "normalizedName": "Vacuum Storage Bags, 8 Multi-size Premium Quality Space Saver Compression Bags (Jumbo, XL, Large, Medium, Travel Roll-up) - Ideal for Clothing, Comforters, Pillows, Bedding",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

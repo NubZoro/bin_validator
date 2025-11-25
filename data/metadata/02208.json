@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00F5G7MJG": {
+            "asin": "B00F5G7MJG",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Truck RV ATV Snowmobile Trailer LED License Plate Light - Black Finish",
+            "normalizedName": "Truck RV ATV Snowmobile Trailer LED License Plate Light - Black Finish",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

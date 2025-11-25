@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000WA7SCQ": {
+            "asin": "B000WA7SCQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Bormioli Rocco Rock Bar 16-1/4-Ounce Stackable Beverage Glasses, Set of 6",
+            "normalizedName": "Set of 6 Bormioli Rocco Rock Bar 16-1/4-Ounce Stackable Beverage Glasses,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.999999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00JOOHL3W": {
+            "asin": "B00JOOHL3W",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Washburn Dad's Wrapped Root Beer Barrels, 2.5Lb",
+            "normalizedName": "Washburn Dad's Wrapped Root Beer Barrels, 2.5Lb",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

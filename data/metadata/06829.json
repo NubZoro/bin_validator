@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001M1YPUC": {
+            "asin": "B001M1YPUC",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Americolor Airbrush Cake Decorating color, 4.5-Ounce, Amerimist Bright White",
+            "normalizedName": "Americolor Airbrush Cake Decorating color, 4.5-Ounce, Amerimist Bright White",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B00IBNZAEE": {
+            "asin": "B00IBNZAEE",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Hikari ORGANIC White Miso Paste - 1 tub, 17.6 oz",
+            "normalizedName": "Hikari ORGANIC White Miso Paste - 1 tub, 17.6 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

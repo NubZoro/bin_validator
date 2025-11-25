@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0091HKNLE": {
+            "asin": "B0091HKNLE",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Dr. Browns Natural Flow Level 3 Standard Nipple - 6 Nipples",
+            "normalizedName": "Dr. Browns Natural Flow Level 3 Standard Nipple - 6 Nipples",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B013INLPF4": {
+            "asin": "B013INLPF4",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "WowWee Snap Petz Dog Novelty, Light Blue/Purple",
+            "normalizedName": "WowWee Snap Petz Dog Novelty, Light Blue/Purple",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01G317714": {
+            "asin": "B01G317714",
+            "height": {
+                "unit": "IN",
+                "value": 3.75
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "name": "Cute Frog Scrub Sponge 3 3/4 x 3 Yellow Green Pink (3 Pack)",
+            "normalizedName": "(3 Pack) Cute Frog Scrub Sponge 3 3/4 x 3 Yellow Green Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.75
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

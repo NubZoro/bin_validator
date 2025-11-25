@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003ZZUJJO": {
+            "asin": "B003ZZUJJO",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "13\" x 15\", 2 Mil White Block Zipper Reclosable Storage Bags, Pack of 100",
+            "normalizedName": "Pack of 100 13\" x 15\", 2 Mil White Block Zipper Reclosable Storage Bags,",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B01AA9NLG0": {
+            "asin": "B01AA9NLG0",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Bomcosy 12W A19 E26 LED Bulbs, 100W Incandescent Bulb Equivalent,Not Dimmable,1050 Luminous,6000K Daylight-5 Pack",
+            "normalizedName": "5 Pack Bomcosy 12W A19 E26 LED Bulbs, 100W Incandescent Bulb Equivalent,Not Dimmable,1050 Luminous,6000K Daylight-",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0520241509": {
+            "asin": "0520241509",
+            "height": {
+                "unit": "IN",
+                "value": 1.2992125971
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.90157479407
+            },
+            "name": "The Modern Middle East: A Political History since the First World War",
+            "normalizedName": "The Modern Middle East: A Political History since the First World War",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3000218665616
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.90157479713
+            }
+        },
+        "0830742905": {
+            "asin": "0830742905",
+            "height": {
+                "unit": "IN",
+                "value": 1.40157480172
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Living Well: 365 Daily devotions for a Balanced Life (First Place)",
+            "normalizedName": "Living Well: 365 Daily devotions for a Balanced Life (First Place)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4000235486048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.20078739525
+            }
+        },
+        "B00I9M9U02": {
+            "asin": "B00I9M9U02",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "CAMERON'S VELVET MOON ESPRESSO COFFEE 24 SINGLE SERVE CUPS",
+            "normalizedName": "CAMERON'S VELVET MOON ESPRESSO COFFEE 24 SINGLE SERVE CUPS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01F6UGT6W": {
+            "asin": "B01F6UGT6W",
+            "height": {
+                "unit": "IN",
+                "value": 1.549999998419
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Solar Charger, Levin 10000mAh USB Solar Panel Portable Charger for iPhone, Android Smart Phone, Windows Phone and Tablets, Orange",
+            "normalizedName": "Solar Charger, Levin 10000mAh USB Solar Panel Portable Charger for iPhone, Android Smart Phone, Windows Phone and Tablets, Orange",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3349999988804815
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

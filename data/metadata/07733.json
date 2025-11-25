@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ATPL5TQ": {
+            "asin": "B00ATPL5TQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Premier Protein Bar, Double Chocolate Crunch, 30g Protein, 2.53 Ounce Bars (Pack of 6)",
+            "normalizedName": "(Pack of 6) Premier Protein Bar, Double Chocolate Crunch, 30g Protein, 2.53 Ounce Bars",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01CUQD30K": {
+            "asin": "B01CUQD30K",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "MEGALOVEMART\u00ae Pink Anti-Burst Exercise Balance Stability Fitness Yoga Ball w/ Pump - 75cm",
+            "normalizedName": "MEGALOVEMART\u00ae Pink Anti-Burst Exercise Balance Stability Fitness Yoga Ball w/ Pump - 75cm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4499999971068624
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

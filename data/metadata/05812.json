@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KCW7C1G": {
+            "asin": "B00KCW7C1G",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "MLB Boston Red Sox Strike Plush Raschel Blanket, Blue, 60 x 80-Inch",
+            "normalizedName": "MLB Boston Red Sox Strike Plush Raschel Blanket, Blue, 60 x 80-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B00RXM29FC": {
+            "asin": "B00RXM29FC",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "LifeShoppingMall LifeShoppingMall Unisex DuRaRaRa Cosplay Orihara Izaya Costume Cotton Padded Hoodie-Male-X-Large",
+            "normalizedName": "LifeShoppingMall LifeShoppingMall Unisex DuRaRaRa Cosplay Orihara Izaya Costume Cotton Padded Hoodie-Male-X-Large",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

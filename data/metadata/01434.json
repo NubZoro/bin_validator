@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005F7KQDO": {
+            "asin": "B005F7KQDO",
+            "height": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "NFL Chicago Bears 50-Inch-by-60-Inch Sherpa on Sherpa Throw Blanket \"Strobe\" Design",
+            "normalizedName": "NFL Chicago Bears 50-Inch-by-60-Inch Sherpa on Sherpa Throw Blanket \"Strobe\" Design",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.99999998572
+            }
+        },
+        "B00M9R8B12": {
+            "asin": "B00M9R8B12",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.099999981538
+            },
+            "name": "Rasta Imposta Men's Miss Universe Male Bikini, Red, One Size",
+            "normalizedName": "Rasta Imposta Men's Miss Universe Male Bikini, Red, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 14.299999985414
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

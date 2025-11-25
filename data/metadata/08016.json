@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006B8IU": {
+            "asin": "B00006B8IU",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.448818888
+            },
+            "name": "Gel Crystal Transparent Mousepad and Wrist Rest - Purple",
+            "normalizedName": "Gel Crystal Transparent Mousepad and Wrist Rest - Purple",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560426986952
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.2913385732
+            }
+        },
+        "B004VXAJU8": {
+            "asin": "B004VXAJU8",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Mmm... Nice Melons! Watermelon, Cantaloupe, Honeydew Melon Scented 13 Ounce Mason Jar Candle By Our Own Candle Company",
+            "normalizedName": "Mmm... Nice Melons! Watermelon, Cantaloupe, Honeydew Melon Scented 13 Ounce Mason Jar Candle By Our Own Candle Company",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

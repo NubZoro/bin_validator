@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008H430NU": {
+            "asin": "B008H430NU",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "name": "XCSOURCE\u00ae 8x Step Up + 8x Step Down Ring Filter Stepping Adapter 49-82mm 82-49mm DC147",
+            "normalizedName": "XCSOURCE\u00ae 8x Step Up + 8x Step Down Ring Filter Stepping Adapter 49-82mm 82-49mm DC147",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        },
+        "B00VH8IHT0": {
+            "asin": "B00VH8IHT0",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Butterfly Pro 5h",
+            "normalizedName": "Butterfly Pro 5h",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00008KA7I": {
+            "asin": "B00008KA7I",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002
+            },
+            "name": "Belkin Snagless CAT6 Patch Cable * RJ45M/RJ45M; 25  Black ( A3L980b25-BLK-S )",
+            "normalizedName": "Belkin Snagless CAT6 Patch Cable * RJ45M/RJ45M; 25  Black ( A3L980b25-BLK-S )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B003GSXV68": {
+            "asin": "B003GSXV68",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Vortex Hunter 30mm Riflescope High Rings (Set of 2) Picatinny/Weaver Mount",
+            "normalizedName": "(Set of 2) Vortex Hunter 30mm Riflescope High Rings Picatinny/Weaver Mount",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B0048KGSZY": {
+            "asin": "B0048KGSZY",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Desantis Super Fly Ambidextrous Holster fits Beretta PX4 Sub-Compact 9/40, Black",
+            "normalizedName": "Desantis Super Fly Ambidextrous Holster fits Beretta PX4 Sub-Compact 9/40, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            }
+        },
+        "B00JOP3BJY": {
+            "asin": "B00JOP3BJY",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "L'Oreal Nature's Therapy Mega Sleek Deep Conditioning Creme, 8 Ounce",
+            "normalizedName": "L'Oreal Nature's Therapy Mega Sleek Deep Conditioning Creme, 8 Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

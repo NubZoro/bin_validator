@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0033AHLN8": {
+            "asin": "B0033AHLN8",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.249999988525
+            },
+            "name": "Pet Grab-n-Go Crate Cover and Carry-All for Pet Travel, Large, Red",
+            "normalizedName": "Pet Grab-n-Go Crate Cover and Carry-All for Pet Travel, Large, Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00KKABG6W": {
+            "asin": "B00KKABG6W",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Downy Unstopables in Wash Fresh Scent Booster, 36.2 Ounce",
+            "normalizedName": "Downy Unstopables in Wash Fresh Scent Booster, 36.2 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

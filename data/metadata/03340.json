@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A47CMKA": {
+            "asin": "B00A47CMKA",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Task Tools TR112 16-Feet/5-Meter ProTrak Tape Measure, Red",
+            "normalizedName": "Task Tools TR112 16-Feet/5-Meter ProTrak Tape Measure, Red",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

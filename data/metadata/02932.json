@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00061MQSW": {
+            "asin": "B00061MQSW",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "DiaGel 1ml Sm Dogs",
+            "normalizedName": "DiaGel 1ml Sm Dogs",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B001GLFPWK": {
+            "asin": "B001GLFPWK",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "The Blue Lagoon / Return to the Blue Lagoon (Double Feature)",
+            "normalizedName": "The Blue Lagoon / Return to the Blue Lagoon (Double Feature)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00HFKRG2I": {
+            "asin": "B00HFKRG2I",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Beistle 66676 Pin The Tail on The Cow Game, 17-Inch by 18-1/4-Inch",
+            "normalizedName": "Beistle 66676 Pin The Tail on The Cow Game, 17-Inch by 18-1/4-Inch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B01CJ97156": {
+            "asin": "B01CJ97156",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Clip on Fan Battery Rechargeable Desk Fan, Quietness, Adjustable 5\" (Purple)",
+            "normalizedName": "Clip on Fan Battery Rechargeable Desk Fan, Quietness, Adjustable 5\" (Purple)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

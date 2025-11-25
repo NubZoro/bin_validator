@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009NOX3DA": {
+            "asin": "B009NOX3DA",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "AGPtek\u00ae 100 Battery Operated LED Amber Flameless Flickering Flashing Tea Light Candle",
+            "normalizedName": "AGPtek\u00ae 100 Battery Operated LED Amber Flameless Flickering Flashing Tea Light Candle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

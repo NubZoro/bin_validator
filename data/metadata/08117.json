@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BS8360Y": {
+            "asin": "B00BS8360Y",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.299999984394
+            },
+            "name": "Hoffmaster 110014 Plastic Tableskirt, 14' Length x 29\" Width, Blue (Case of 6)",
+            "normalizedName": "(Case of 6) Hoffmaster 110014 Plastic Tableskirt, 14' Length x 29\" Width, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        },
+        "B00GISGGH4": {
+            "asin": "B00GISGGH4",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "D. Charles Luxury Microfiber Sheets with Near Cotton Finish and 2 Extra Bonus Pillowcases (White, King)",
+            "normalizedName": "D. Charles Luxury Microfiber Sheets with Near Cotton Finish and 2 Extra Bonus Pillowcases (White, King)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

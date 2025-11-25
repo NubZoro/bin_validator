@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006P2KG0Q": {
+            "asin": "B006P2KG0Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.599999983068
+            },
+            "name": "Victorio VKP1024 Deluxe Hand Operated Grain Mill",
+            "normalizedName": "Victorio VKP1024 Deluxe Hand Operated Grain Mill",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00TBDJDG4": {
+            "asin": "B00TBDJDG4",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "My Singing Monsters: Monster Hood",
+            "normalizedName": "My Singing Monsters: Monster Hood",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B010TVMH00": {
+            "asin": "B010TVMH00",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "O'Neal Element Digi Camo Jersey (Black, XX-Large)",
+            "normalizedName": "O'Neal Element Digi Camo Jersey (Black, XX-Large)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B01G065K0M": {
+            "asin": "B01G065K0M",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Western Digital RE4-GP WD2003FYPS 2TB Intellipower 64MB Cache SATA 3.0Gb/s 3.5\" (Enterprise Grade) Internal Hard Drive - [Certified Refurbished] w/ 1 Year Warranty",
+            "normalizedName": "Western Digital RE4-GP WD2003FYPS 2TB Intellipower 64MB Cache SATA 3.0Gb/s 3.5\" (Enterprise Grade) Internal Hard Drive - [Certified Refurbished] w/ 1 Year Warranty",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

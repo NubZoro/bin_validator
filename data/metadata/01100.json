@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EDBY7X8": {
+            "asin": "B00EDBY7X8",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "Monopoly Junior Board Game",
+            "normalizedName": "Monopoly Junior Board Game",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

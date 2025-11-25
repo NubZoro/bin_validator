@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GAS1DC": {
+            "asin": "B000GAS1DC",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Gardner Bender 46-415UVB Heavy-Duty Cable Tie UVB, 15-Inch Length, 120-Pound Tensil Strength, 50/Bag, Ultraviolet Resistant Black",
+            "normalizedName": "Gardner Bender 46-415UVB Heavy-Duty Cable Tie UVB, 15-Inch Length, 120-Pound Tensil Strength, 50/Bag, Ultraviolet Resistant Black",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B002CJF51G": {
+            "asin": "B002CJF51G",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Purina Mighty Dog Wet Dog Food, Hearty Beef Dinner, 5.5-Ounce Can, Pack of 24",
+            "normalizedName": "Pack of 24 Purina Mighty Dog Wet Dog Food, Hearty Beef Dinner, 5.5-Ounce Can,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        },
+        "B01COU3UJG": {
+            "asin": "B01COU3UJG",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.199999984496
+            },
+            "name": "CarBole\uff08940798\uff09 4500 PSI Heavy Duty Pistol Grip Style",
+            "normalizedName": "CarBole\uff08940798\uff09 4500 PSI Heavy Duty Pistol Grip Style",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.249999998113171
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

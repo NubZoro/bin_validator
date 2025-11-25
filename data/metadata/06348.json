@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006TPDSO": {
+            "asin": "B0006TPDSO",
+            "height": {
+                "unit": "IN",
+                "value": 0.59842519624
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Arrowsmith (1931)",
+            "normalizedName": "Arrowsmith (1931)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2000033640864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.29921259302
+            }
+        },
+        "B00JM72W58": {
+            "asin": "B00JM72W58",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Philips 433201 40 Watt Equivalent SlimStyle A19 LED Light Bulb Soft White, Dimmable",
+            "normalizedName": "Philips 433201 40 Watt Equivalent SlimStyle A19 LED Light Bulb Soft White, Dimmable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0053HH0QM": {
+            "asin": "B0053HH0QM",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Jim Shore Heartwood Creek from Enesco Santa with Lion and Lamb Figurine 5.25 IN",
+            "normalizedName": "Jim Shore Heartwood Creek from Enesco Santa with Lion and Lamb Figurine 5.25 IN",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.59
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B00J0HB1YI": {
+            "asin": "B00J0HB1YI",
+            "height": {
+                "unit": "IN",
+                "value": 2.9921259812
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.661417314
+            },
+            "name": "HATCHBOX 3D ABS-1KG1.75-RED ABS 3D Printer Filament, Dimensional Accuracy +/- 0.05 mm, 1 kg Spool, 1.75 mm, Red",
+            "normalizedName": "HATCHBOX 3D ABS-1KG1.75-RED ABS 3D Printer Filament, Dimensional Accuracy +/- 0.05 mm, 1 kg Spool, 1.75 mm, Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9541641564566974
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.5826771566
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

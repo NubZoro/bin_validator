@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B018QQJ7JE": {
+            "asin": "B018QQJ7JE",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "Bellotte Fashion Easy-to-carry Satchel Tote Diaper Bags",
+            "normalizedName": "Bellotte Fashion Easy-to-carry Satchel Tote Diaper Bags",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.99999998572
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

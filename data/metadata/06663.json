@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0033UTJB0": {
+            "asin": "B0033UTJB0",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Kantek Cubicle Partition-Mounted 8-Compartment Incline Sorter, 15 x 15 x 7.5 Inches, Black (S3755)",
+            "normalizedName": "Kantek Cubicle Partition-Mounted 8-Compartment Incline Sorter, 15 x 15 x 7.5 Inches, Black (S3755)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1499882616066683
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.99999998572
+            }
+        },
+        "B016DTKX58": {
+            "asin": "B016DTKX58",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Zotz 425 Pieces - Wholesale Bulk 5 Full Pounds",
+            "normalizedName": "Zotz 425 Pieces - Wholesale Bulk 5 Full Pounds",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.29999999555547
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

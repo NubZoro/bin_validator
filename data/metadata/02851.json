@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007NHBH6E": {
+            "asin": "B007NHBH6E",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.3307086468
+            },
+            "name": "JJ Cole Bib Pink Blush 1 Pack",
+            "normalizedName": "1 Pack JJ Cole Bib Pink Blush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400474429947
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.842519675
+            }
+        },
+        "B00EXLLXK8": {
+            "asin": "B00EXLLXK8",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Vktech 150Pcs 2:1 Polyolefin Halogen-Free Heat Shrink Tubing Tube 2-13mm 8 Sizes",
+            "normalizedName": "Vktech 150Pcs 2:1 Polyolefin Halogen-Free Heat Shrink Tubing Tube 2-13mm 8 Sizes",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000MW5SCQ": {
+            "asin": "B000MW5SCQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Energy Suspension 4.5102G Ford 7/8\" 2 X Front Stabilizer Bush",
+            "normalizedName": "Energy Suspension 4.5102G Ford 7/8\" 2 X Front Stabilizer Bush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00BFVF120": {
+            "asin": "B00BFVF120",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "3dRose mug_100061_3 A Steering Wheel on a Cadillac Magic Transforming Mug, 11-Ounce",
+            "normalizedName": "3dRose mug_100061_3 A Steering Wheel on a Cadillac Magic Transforming Mug, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

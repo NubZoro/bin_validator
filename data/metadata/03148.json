@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00809ERAM": {
+            "asin": "B00809ERAM",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "The Face Shop - Rice Water Bright - Cleansing Light Oil - Facial Care",
+            "normalizedName": "The Face Shop - Rice Water Bright - Cleansing Light Oil - Facial Care",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B00EC60MYW": {
+            "asin": "B00EC60MYW",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "BENTON Snail Bee High Content Essence",
+            "normalizedName": "BENTON Snail Bee High Content Essence",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B00G5X238I": {
+            "asin": "B00G5X238I",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Korean Cosmetics A.H.C Velvet Mask (VITAL C COMPLEX/HYDRA SOOTHER/PHYTO COMPLEX) (HYDRA SOOTHER MASK)",
+            "normalizedName": "Korean Cosmetics A.H.C Velvet Mask (VITAL C COMPLEX/HYDRA SOOTHER/PHYTO COMPLEX) (HYDRA SOOTHER MASK)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B012CCAW6K": {
+            "asin": "B012CCAW6K",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "My Little Pony Equestria Girls Minis Applejack Doll",
+            "normalizedName": "My Little Pony Equestria Girls Minis Applejack Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

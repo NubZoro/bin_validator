@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0451468228": {
+            "asin": "0451468228",
+            "height": {
+                "unit": "IN",
+                "value": 1.3385826758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "Winter of the World: Book Two of the Century Trilogy",
+            "normalizedName": "Winter of the World: Book Two of the Century Trilogy",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8377480450708449
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        },
+        "B00MFLARAU": {
+            "asin": "B00MFLARAU",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "32nd\u00ae Shock Proof Heavy Duty Dual Protection Case Cover For Apple iPhone 5 5S SE, including screen protector, cleaning cloth and touch stylus - Orange",
+            "normalizedName": "32nd\u00ae Shock Proof Heavy Duty Dual Protection Case Cover For Apple iPhone 5 5S SE, including screen protector, cleaning cloth and touch stylus - Orange",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

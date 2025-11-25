@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00SURH7W4": {
+            "asin": "B00SURH7W4",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Floureon 38-piece Precision Screwdriver Set Repair Tool Kit for iPad, iPhone, Tablets, Laptops, PC, Smartphones, Watch & Other Devices",
+            "normalizedName": "Floureon 38-piece Precision Screwdriver Set Repair Tool Kit for iPad, iPhone, Tablets, Laptops, PC, Smartphones, Watch & Other Devices",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00TZI3YZ6": {
+            "asin": "B00TZI3YZ6",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "NUTRO Kitten Chicken and Whole Brown Rice Recipe Natural Kitten Food 6.5 Pounds",
+            "normalizedName": "NUTRO Kitten Chicken and Whole Brown Rice Recipe Natural Kitten Food 6.5 Pounds",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.700000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

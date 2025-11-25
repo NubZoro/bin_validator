@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006IFGP": {
+            "asin": "B00006IFGP",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Sharpie Pro King Size Permanent Markers, Chisel Tip, Black, Box of 12",
+            "normalizedName": "Sharpie Pro King Size Permanent Markers, Chisel Tip, Black, Box of 12",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

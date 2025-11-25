@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00181UEHY": {
+            "asin": "B00181UEHY",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "NCAA Michigan State Spartans 1 Liter Macho Mug",
+            "normalizedName": "NCAA Michigan State Spartans 1 Liter Macho Mug",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B003WHF148": {
+            "asin": "B003WHF148",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Eminence Strawberry Rhubarb Dermafoliant, 4.2 Ounce",
+            "normalizedName": "Eminence Strawberry Rhubarb Dermafoliant, 4.2 Ounce",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00O9GW8VK": {
+            "asin": "B00O9GW8VK",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.9842519624
+            },
+            "name": "Nintendo Super Smash Bros. Black Classic Gamecube Controller",
+            "normalizedName": "Nintendo Super Smash Bros. Black Classic Gamecube Controller",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560426986952
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008ATHIQ2": {
+            "asin": "B008ATHIQ2",
+            "height": {
+                "unit": "IN",
+                "value": 0.8799999991024
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Philips 416099 6-Watt S6 12-Volt Candelabra Base Indicator Light Bulb, 2-Pack",
+            "normalizedName": "2-Pack Philips 416099 6-Watt S6 12-Volt Candelabra Base Indicator Light Bulb,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.1299999968074
+            }
+        },
+        "B00EB4ADQW": {
+            "asin": "B00EB4ADQW",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Fujifilm INSTAX Mini Instant Film Twin Pack (White)",
+            "normalizedName": "Fujifilm INSTAX Mini Instant Film Twin Pack (White)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

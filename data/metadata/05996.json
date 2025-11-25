@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002H49BC": {
+            "asin": "B0002H49BC",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Leatherman 830039 Wave Multitool with Leather/Nylon Combination Sheath, Silver",
+            "normalizedName": "Leatherman 830039 Wave Multitool with Leather/Nylon Combination Sheath, Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B000TJFWSM": {
+            "asin": "B000TJFWSM",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "name": "Pro-Line Barber Select Wave & Styling Gel",
+            "normalizedName": "Pro-Line Barber Select Wave & Styling Gel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

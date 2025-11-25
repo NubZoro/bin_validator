@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "006241075X": {
+            "asin": "006241075X",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Pinkalicious and Aqua, the Mini-Mermaid",
+            "normalizedName": "Pinkalicious and Aqua, the Mini-Mermaid",
+            "quantity": 29,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 29
+}

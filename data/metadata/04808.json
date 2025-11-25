@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000002C2E": {
+            "asin": "B000002C2E",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Time Out Of Mind",
+            "normalizedName": "Time Out Of Mind",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B004L8J15C": {
+            "asin": "B004L8J15C",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "La Roche-Posay Effaclar Duo Dual Action Acne Treatment Cream with Benzoyl Peroxide",
+            "normalizedName": "La Roche-Posay Effaclar Duo Dual Action Acne Treatment Cream with Benzoyl Peroxide",
+            "quantity": 16,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            }
+        },
+        "B01DXW0FFG": {
+            "asin": "B01DXW0FFG",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "BASON USB Powered LED TV Backlighting Home Theather Lighting for 55\" Flat Screen TV",
+            "normalizedName": "BASON USB Powered LED TV Backlighting Home Theather Lighting for 55\" Flat Screen TV",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 18
+}

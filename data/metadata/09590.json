@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DHLE2BM": {
+            "asin": "B00DHLE2BM",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Tervis 1063976 Appalachian State University Emblem Individual Tumbler with Yellow lid, 24 oz, Quartz",
+            "normalizedName": "Tervis 1063976 Appalachian State University Emblem Individual Tumbler with Yellow lid, 24 oz, Quartz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01D0VC27O": {
+            "asin": "B01D0VC27O",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Hippo Compatible Auto Protector Car Windshield Sunshade Nylon Sun Shade With Customize Jumbo Size",
+            "normalizedName": "Hippo Compatible Auto Protector Car Windshield Sunshade Nylon Sun Shade With Customize Jumbo Size",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        },
+        "B01E5WFPUS": {
+            "asin": "B01E5WFPUS",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "iPhone 6 Plus / 6s Plus Case shell, iPhone 6 Plus 6S Plus (5.5) Slim Case with Premium Matte Hard Case Cover",
+            "normalizedName": "iPhone 6 Plus / 6s Plus Case shell, iPhone 6 Plus 6S Plus (5.5) Slim Case with Premium Matte Hard Case Cover",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

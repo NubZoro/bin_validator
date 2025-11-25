@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00020I0JG": {
+            "asin": "B00020I0JG",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Solaray - Calcium Magnesium Zinc, 250 capsules",
+            "normalizedName": "Solaray - Calcium Magnesium Zinc, 250 capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B005LQT3H4": {
+            "asin": "B005LQT3H4",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "name": "Helia-D Classic Anti-Wrinkle Day Cream with UV protection",
+            "normalizedName": "Helia-D Classic Anti-Wrinkle Day Cream with UV protection",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00A9V1H1G": {
+            "asin": "B00A9V1H1G",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Chewbeads Mulberry Teether - Punchy Pink",
+            "normalizedName": "Chewbeads Mulberry Teether - Punchy Pink",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B01DC3YSWM": {
+            "asin": "B01DC3YSWM",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299212592
+            },
+            "name": "Galaxy S7 Case, Welity SHOCKPROOF Dual Layer 2 in 1 Hybrid [Hard Cover + Soft Silicone] High Impact Protective Case with Bling Crystal Stones for Samsung Galaxy S7 (Golden/Black)",
+            "normalizedName": "Galaxy S7 Case, Welity SHOCKPROOF Dual Layer 2 in 1 Hybrid [Hard Cover + Soft Silicone] High Impact Protective Case with Bling Crystal Stones for Samsung Galaxy S7 (Golden/Black)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

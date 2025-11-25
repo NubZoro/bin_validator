@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001CCXMP0": {
+            "asin": "B001CCXMP0",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Kaytee Apple Orchard Sticks (10 Pieces)",
+            "normalizedName": "Kaytee Apple Orchard Sticks (10 Pieces)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B007AS62J8": {
+            "asin": "B007AS62J8",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Yes To Tomatoes Blemish Clearing Facial Towelettes, 25 Count",
+            "normalizedName": "Yes To Tomatoes Blemish Clearing Facial Towelettes, 25 Count",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

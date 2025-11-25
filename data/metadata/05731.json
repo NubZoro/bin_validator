@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GZLHYM": {
+            "asin": "B000GZLHYM",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "California Baby Shampoo & Body Wash - Calming, 17.5 oz",
+            "normalizedName": "California Baby Shampoo & Body Wash - Calming, 17.5 oz",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B013W087UO": {
+            "asin": "B013W087UO",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Galaxy Note 5 Case, Caseology\u00ae [Envoy Series] Premium Leather Bumper Cover [Leather Navy Blue] [Leather Bound] for Samsung Galaxy Note 5 - Leather Navy Blue",
+            "normalizedName": "Galaxy Note 5 Case, Caseology\u00ae [Envoy Series] Premium Leather Bumper Cover [Leather Navy Blue] [Leather Bound] for Samsung Galaxy Note 5 - Leather Navy Blue",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

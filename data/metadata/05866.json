@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "013334777X": {
+            "asin": "013334777X",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Mathematics for the Trades: A Guided Approach (10th Edition)",
+            "normalizedName": "Mathematics for the Trades: A Guided Approach (10th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00A7R6GUE": {
+            "asin": "B00A7R6GUE",
+            "height": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.6456692764
+            },
+            "name": "Bavarian Women's Midi Dirndl dress 3-pieces with apron and blouse black red",
+            "normalizedName": "Bavarian Women's Midi Dirndl dress 3-pieces with apron and blouse black red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5432200830252405
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.992125971
+            }
+        },
+        "B00BLBTXZ0": {
+            "asin": "B00BLBTXZ0",
+            "height": {
+                "unit": "IN",
+                "value": 4.9606299162
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.2834645544
+            },
+            "name": "Luxury Dallas Jacquard Panel with attached valance 120\" x 84\" + 18\"",
+            "normalizedName": "Luxury Dallas Jacquard Panel with attached valance 120\" x 84\" + 18\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.6062992028
+            }
+        },
+        "B00ILFD0LW": {
+            "asin": "B00ILFD0LW",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Hunter Fan Company Hunter Fan Company 99140 Three Light Fitter- Black",
+            "normalizedName": "Hunter Fan Company Hunter Fan Company 99140 Three Light Fitter- Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

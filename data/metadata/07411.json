@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003LZ6KZA": {
+            "asin": "B003LZ6KZA",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Olay Total Effects Refreshing Citrus Scrub, 6.5 fl oz (Pack of 3)",
+            "normalizedName": "(Pack of 3) Olay Total Effects Refreshing Citrus Scrub, 6.5 fl oz",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

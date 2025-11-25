@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00L77191E": {
+            "asin": "B00L77191E",
+            "height": {
+                "unit": "IN",
+                "value": 1.6
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "Ikea Frakta Storage Bag,Extra Large - Blue (2 PACK)",
+            "normalizedName": "Ikea Frakta Storage Bag,Extra Large - Blue (2 PACK)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.440924524
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.2
+            }
+        },
+        "B016H2FZ6I": {
+            "asin": "B016H2FZ6I",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Bzybel 41 Pcs 4\" Baby Girl Boutique Hair Bows Alligator Clips Grosgrain Ribbon Bows for Teens Baby Girls Babies Toddlers Barrettes",
+            "normalizedName": "Bzybel 41 Pcs 4\" Baby Girl Boutique Hair Bows Alligator Clips Grosgrain Ribbon Bows for Teens Baby Girls Babies Toddlers Barrettes",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B01C2M7Z88": {
+            "asin": "B01C2M7Z88",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Penn State Nittany Lions 2-Tone \"Rookie\" Youth Beanie Hat POM POM - NCAA Toddler/Kids Cuffed Winter Toque Knit Cap",
+            "normalizedName": "Penn State Nittany Lions 2-Tone \"Rookie\" Youth Beanie Hat POM POM - NCAA Toddler/Kids Cuffed Winter Toque Knit Cap",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

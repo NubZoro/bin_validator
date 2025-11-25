@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000J1FAFK": {
+            "asin": "B000J1FAFK",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "BOSS AUDIO CH6CK Chaos Exxtreme 6.5\" 2-way 350-watt Component Speakers",
+            "normalizedName": "BOSS AUDIO CH6CK Chaos Exxtreme 6.5\" 2-way 350-watt Component Speakers",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00FB45SI4": {
+            "asin": "B00FB45SI4",
+            "height": {
+                "unit": "IN",
+                "value": 3.6220472404
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0472440822
+            },
+            "name": "ASUS (RT-AC68U) Wireless-AC1900 Dual-Band Gigabit Router",
+            "normalizedName": "ASUS (RT-AC68U) Wireless-AC1900 Dual-Band Gigabit Router",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.130532165797396
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.2125984158
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

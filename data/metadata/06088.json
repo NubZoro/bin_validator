@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D901B4W": {
+            "asin": "B00D901B4W",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Kenu Airframe | Car Mount for Smartphones (Non Phablets) | Black",
+            "normalizedName": "Kenu Airframe | Car Mount for Smartphones (Non Phablets) | Black",
+            "quantity": 30,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 30
+}

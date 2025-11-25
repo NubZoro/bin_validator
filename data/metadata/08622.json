@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0028MOD60": {
+            "asin": "B0028MOD60",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Wire Loop Sgraffito",
+            "normalizedName": "Wire Loop Sgraffito",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.49999999949
+            }
+        },
+        "B00P0E0WTK": {
+            "asin": "B00P0E0WTK",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Enter the Dragon: Special Edition",
+            "normalizedName": "Enter the Dragon: Special Edition",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B016Y9BNV0": {
+            "asin": "B016Y9BNV0",
+            "height": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "Sirai L172VB021B12AE6 Brass Body Direct Acting Subminiature Solenoid Valve, 1/8\" Pipe Size, 2-Way Normally Closed, Fluorocarbon Elastomer Sealing, 1/16\" Orifice, B12A DIN Coil, 0.08 Cv Flow, 240V/50/6",
+            "normalizedName": "Sirai L172VB021B12AE6 Brass Body Direct Acting Subminiature Solenoid Valve, 1/8\" Pipe Size, 2-Way Normally Closed, Fluorocarbon Elastomer Sealing, 1/16\" Orifice, B12A DIN Coil, 0.08 Cv Flow, 240V/50/6",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0
+            }
+        },
+        "B01E910CEO": {
+            "asin": "B01E910CEO",
+            "height": {
+                "unit": "IN",
+                "value": 0.4
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.1
+            },
+            "name": "iPhone 6S Plus Case, Vakoo [Ultra Protective] Slim Fit Series Hybrid Shockproof Dual Layer Impact Resistant TPU Bumper Case Cover for Apple iPhone 6S Plus 6 Plus with Built-in Screen Protector (White)",
+            "normalizedName": "iPhone 6S Plus Case, Vakoo [Ultra Protective] Slim Fit Series Hybrid Shockproof Dual Layer Impact Resistant TPU Bumper Case Cover for Apple iPhone 6S Plus 6 Plus with Built-in Screen Protector (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.1
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

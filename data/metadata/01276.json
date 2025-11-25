@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1616855711": {
+            "asin": "1616855711",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Barnes & Noble 7\" Mary Phillip Chocolate NOOK Case, Black",
+            "normalizedName": "Barnes & Noble 7\" Mary Phillip Chocolate NOOK Case, Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

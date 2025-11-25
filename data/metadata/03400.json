@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001FWYGJS": {
+            "asin": "B001FWYGJS",
+            "height": {
+                "unit": "IN",
+                "value": 3.4645669256
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.5748031378
+            },
+            "name": "TP-LINK N300 Wireless Wi-Fi Router, Up to 300Mbps (TL-WR841N)",
+            "normalizedName": "TP-LINK N300 Wireless Wi-Fi Router, Up to 300Mbps (TL-WR841N)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2786680677200633
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1102362122
+            }
+        },
+        "B0040FIYIQ": {
+            "asin": "B0040FIYIQ",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Officemate OIC Achieva Jumbo Magazine File, Recycled, Black (26216)",
+            "normalizedName": "Officemate OIC Achieva Jumbo Magazine File, Recycled, Black (26216)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

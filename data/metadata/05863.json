@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000MMEBRE": {
+            "asin": "B000MMEBRE",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Airborne- Effervescent Adult Formula, 36Tablets Lemon-Lime (Bonus Size)",
+            "normalizedName": "Airborne- Effervescent Adult Formula, 36Tablets Lemon-Lime (Bonus Size)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00O5VTY0C": {
+            "asin": "B00O5VTY0C",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "TDK Life On Record A12-2PK Trek Bluetooth Wireless Speaker, 2 Pack (Black)",
+            "normalizedName": "2 Pack TDK Life On Record A12-2PK Trek Bluetooth Wireless Speaker, (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

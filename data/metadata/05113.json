@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "2213622213": {
+            "asin": "2213622213",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.3464566844
+            },
+            "name": "Aux sources du terrorisme : De la petite guerre aux attentats-suicides",
+            "normalizedName": "Aux sources du terrorisme : De la petite guerre aux attentats-suicides",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.06
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.3543307032
+            }
+        },
+        "B003XL6EIA": {
+            "asin": "B003XL6EIA",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Not of This Earth (Roger Corman's Cult Classics)",
+            "normalizedName": "Not of This Earth (Roger Corman's Cult Classics)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01FFSPGO6": {
+            "asin": "B01FFSPGO6",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Stens 100-929 Briggs and Stratton 793569 Air Filter",
+            "normalizedName": "Stens 100-929 Briggs and Stratton 793569 Air Filter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

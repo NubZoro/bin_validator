@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001E2XW2G": {
+            "asin": "B001E2XW2G",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Walmart 25th Anniversary Pink Jubilee Blonde Barbie Doll by Mattel",
+            "normalizedName": "Walmart 25th Anniversary Pink Jubilee Blonde Barbie Doll by Mattel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B004FC8JRU": {
+            "asin": "B004FC8JRU",
+            "height": {
+                "unit": "IN",
+                "value": 6.8503936938
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.4409448692
+            },
+            "name": "Wishpets 15\" Pink Furry Tiger Plush Slippers Medium",
+            "normalizedName": "Wishpets 15\" Pink Furry Tiger Plush Slippers Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0314960548
+            }
+        },
+        "B004N8C0RG": {
+            "asin": "B004N8C0RG",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Olive Kids Trains, Planes and Trucks Pack 'n Snack",
+            "normalizedName": "Olive Kids Trains, Planes and Trucks Pack 'n Snack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

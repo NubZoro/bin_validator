@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0486465810": {
+            "asin": "0486465810",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Little Hidden Pictures (Dover Little Activity Books)",
+            "normalizedName": "Little Hidden Pictures (Dover Little Activity Books)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B002PY7P4I": {
+            "asin": "B002PY7P4I",
+            "height": {
+                "unit": "IN",
+                "value": 2.8999999970420003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Maxell 723443 Alkaline Battery AA Cell 48-Pack",
+            "normalizedName": "48-Pack Maxell 723443 Alkaline Battery AA Cell",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.749999997693876
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00KLTPUG4": {
+            "asin": "B00KLTPUG4",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.5275590505
+            },
+            "name": "Transcend 256GB SATA III 6Gb/s MTS400 42 mm M.2 SSD Solid State Drive (TS256GMTS400)",
+            "normalizedName": "Transcend 256GB SATA III 6Gb/s MTS400 42 mm M.2 SSD Solid State Drive (TS256GMTS400)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.149606296
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004MG1R9Q": {
+            "asin": "B004MG1R9Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Gund Karina Labradoodle Dog Stuffed Animal",
+            "normalizedName": "Gund Karina Labradoodle Dog Stuffed Animal",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

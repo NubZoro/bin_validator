@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014P0K2A8": {
+            "asin": "B014P0K2A8",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Clorox Toilet Wand Disinfecting Refills, Rainforest Rush, 30 Count",
+            "normalizedName": "Clorox Toilet Wand Disinfecting Refills, Rainforest Rush, 30 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

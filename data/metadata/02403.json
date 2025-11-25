@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006IX85K": {
+            "asin": "B0006IX85K",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Camco 22763 TastePURE Drinking Water Hose (1/2\"ID x 4') - Lead Free",
+            "normalizedName": "Camco 22763 TastePURE Drinking Water Hose (1/2\"ID x 4') - Lead Free",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00VKYKY7E": {
+            "asin": "B00VKYKY7E",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Fast & Furious 1-7 Collection - Limited Edition",
+            "normalizedName": "Fast & Furious 1-7 Collection - Limited Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

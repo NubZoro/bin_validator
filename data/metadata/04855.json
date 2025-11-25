@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OQZ1KJK": {
+            "asin": "B00OQZ1KJK",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Epic Bar Bison Bacon Sampler - (Pack of 12)- (6 Bison Bacon Cranberry, 2 Beef Habanero Cherry, 2 Lamb Currant Mint, 2 Turkey Almond Cranberry)",
+            "normalizedName": "(Pack of 12) Epic Bar Bison Bacon Sampler - - (6 Bison Bacon Cranberry, 2 Beef Habanero Cherry, 2 Lamb Currant Mint, 2 Turkey Almond Cranberry)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B01EZ804QM": {
+            "asin": "B01EZ804QM",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Spots8\u00ae for LG Spree case, LG Optimus Zone 3 case, Slim Fit Heavy Duty Protection Case with Card Kickstand in Metallic White",
+            "normalizedName": "Spots8\u00ae for LG Spree case, LG Optimus Zone 3 case, Slim Fit Heavy Duty Protection Case with Card Kickstand in Metallic White",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01G7SZOEA": {
+            "asin": "B01G7SZOEA",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "for LG G Stylo 2 & LG LS775 phone case, Metallic Chic Slim Fit Heavy Duty Protection with Card slot in silver",
+            "normalizedName": "for LG G Stylo 2 & LG LS775 phone case, Metallic Chic Slim Fit Heavy Duty Protection with Card slot in silver",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

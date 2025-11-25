@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000052XUG": {
+            "asin": "B000052XUG",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Dr. Scholl's Corn Cushions 9 ea",
+            "normalizedName": "Dr. Scholl's Corn Cushions 9 ea",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B000RK2WHC": {
+            "asin": "B000RK2WHC",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Center Enterprise CE412 \"PLEASE SIGN AND RETURN\" Stamp",
+            "normalizedName": "Center Enterprise CE412 \"PLEASE SIGN AND RETURN\" Stamp",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B005I4WANI": {
+            "asin": "B005I4WANI",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "L'Occitane Lavender Cleansing Hand Wash, 10.1 fl. oz.",
+            "normalizedName": "L'Occitane Lavender Cleansing Hand Wash, 10.1 fl. oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01CSF8SL2": {
+            "asin": "B01CSF8SL2",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811012377953
+            },
+            "name": "UNMCORE (5 PACK) 90 Degree Right-Angle SATA III Cable 6.0 Gbps with Locking Latch Straight (60CM)- Black",
+            "normalizedName": "UNMCORE (5 PACK) 90 Degree Right-Angle SATA III Cable 6.0 Gbps with Locking Latch Straight (60CM)- Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

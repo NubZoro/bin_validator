@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00SSXNGB6": {
+            "asin": "B00SSXNGB6",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.599999981028002
+            },
+            "name": "Rubie's Men's Avengers 2 Age of Ultron Vision Top Cape and Mask, Multi, Standard",
+            "normalizedName": "Rubie's Men's Avengers 2 Age of Ultron Vision Top Cape and Mask, Multi, Standard",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B017B1BXQU": {
+            "asin": "B017B1BXQU",
+            "height": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.8582677024
+            },
+            "name": "LEGO Super Heroes Kryptonite Interception 76045",
+            "normalizedName": "LEGO Super Heroes Kryptonite Interception 76045",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2345760653848885
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.480314953
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0073R7TWU": {
+            "asin": "B0073R7TWU",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Trojan Condom ENZ Lubricated, 36 Count",
+            "normalizedName": "Trojan Condom ENZ Lubricated, 36 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00ISKNECU": {
+            "asin": "B00ISKNECU",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Fitbit Flex Replacement USB Charging Cable / Charger Cord",
+            "normalizedName": "Fitbit Flex Replacement USB Charging Cable / Charger Cord",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

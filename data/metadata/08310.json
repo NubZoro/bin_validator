@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000I82DTU": {
+            "asin": "B000I82DTU",
+            "height": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Milk-Bone Original Dog Treats for Medium Dogs, 10-Pound",
+            "normalizedName": "Milk-Bone Original Dog Treats for Medium Dogs, 10-Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.449999991236727
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B005ECLUXK": {
+            "asin": "B005ECLUXK",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "KOHLER K-5317-4-CP Refinia Widespread Lavatory Faucet, Polished Chrome",
+            "normalizedName": "KOHLER K-5317-4-CP Refinia Widespread Lavatory Faucet, Polished Chrome",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.3999999946330215
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        },
+        "B01H4FJUYU": {
+            "asin": "B01H4FJUYU",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "ALEKO\u00ae SMR01 Solar Mole Repellent Outdoor Waterproof Mouse Rat Snake Repellent Pest Control",
+            "normalizedName": "ALEKO\u00ae SMR01 Solar Mole Repellent Outdoor Waterproof Mouse Rat Snake Repellent Pest Control",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452686
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

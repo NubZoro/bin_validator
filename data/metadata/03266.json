@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001JT1IWU": {
+            "asin": "B001JT1IWU",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "RoadPro RP-18CC Black 18' CB Antenna Coax Cable with PL-259 Connector",
+            "normalizedName": "RoadPro RP-18CC Black 18' CB Antenna Coax Cable with PL-259 Connector",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00EC72FVE": {
+            "asin": "B00EC72FVE",
+            "height": {
+                "unit": "IN",
+                "value": 2.5196850368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.5354330642
+            },
+            "name": "Hot Wheels Moto X No.20 Rider and Black Bike Figure, Blue",
+            "normalizedName": "Hot Wheels Moto X No.20 Rider and Black Bike Figure, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "B00WC0EKAM": {
+            "asin": "B00WC0EKAM",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Teenage Mutant Ninja Turtles T-Machines Extreme Party Wagon with Leonardo Vehicle with Sound",
+            "normalizedName": "Teenage Mutant Ninja Turtles T-Machines Extreme Party Wagon with Leonardo Vehicle with Sound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0316017930": {
+            "asin": "0316017930",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Outliers: The Story of Success",
+            "normalizedName": "Outliers: The Story of Success",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B0084B84ZK": {
+            "asin": "B0084B84ZK",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Alok International 325-110003 325 Thread Count Organic Cotton Sheet Set, Full, Latte",
+            "normalizedName": "Alok International 325-110003 325 Thread Count Organic Cotton Sheet Set, Full, Latte",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B00M8ABHVQ": {
+            "asin": "B00M8ABHVQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.1968503884
+            },
+            "name": "SanDisk Ultra II 960GB SATA III 2.5-Inch 7mm Height Solid State Drive (SSD) with Read Up To 550MB/s- SDSSDHII-960G-G25",
+            "normalizedName": "SanDisk Ultra II 960GB SATA III 2.5-Inch 7mm Height Solid State Drive (SSD) with Read Up To 550MB/s- SDSSDHII-960G-G25",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

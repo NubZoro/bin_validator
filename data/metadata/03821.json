@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00835WDO0": {
+            "asin": "B00835WDO0",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Smith-Cooper International 9101 Series Bronze Gate Valve, Non-Rising Stem, Inline, 3\" NPT Female",
+            "normalizedName": "Smith-Cooper International 9101 Series Bronze Gate Valve, Non-Rising Stem, Inline, 3\" NPT Female",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00JZCCOU8": {
+            "asin": "B00JZCCOU8",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Rothco 8'' GI Type Jungle Boot, Black, 14",
+            "normalizedName": "Rothco 8'' GI Type Jungle Boot, Black, 14",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005IBVT9M": {
+            "asin": "B005IBVT9M",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987046
+            },
+            "name": "Dynarex #1340 Underpads, 17x24 in. Economy Tissue Fill, 100ct",
+            "normalizedName": "Dynarex #1340 Underpads, 17x24 in. Economy Tissue Fill, 100ct",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862
+            }
+        },
+        "B007GCQ702": {
+            "asin": "B007GCQ702",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Plastic Rectangular Table Cloth 54\" x 108\", Lime Green",
+            "normalizedName": "Plastic Rectangular Table Cloth 54\" x 108\", Lime Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

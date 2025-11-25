@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IFWSNLS": {
+            "asin": "B00IFWSNLS",
+            "height": {
+                "unit": "IN",
+                "value": 3.1899999967462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Play-Doh Launch Game",
+            "normalizedName": "Play-Doh Launch Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00MLF55U2": {
+            "asin": "B00MLF55U2",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "5 x 5 Ruled Graph Composition Book (Pack of Two Books)",
+            "normalizedName": "5 x 5 Ruled Graph Composition Book (Pack of Two Books)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B014JOU43U": {
+            "asin": "B014JOU43U",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 19.599999980008004
+            },
+            "name": "O'Neill Wetsuits Wake Waterski Womens Superlite USCG Life Vest, Black/Smoke/Black/UV, Large",
+            "normalizedName": "O'Neill Wetsuits Wake Waterski Womens Superlite USCG Life Vest, Black/Smoke/Black/UV, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 18.599999981028002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007Y4A1GI": {
+            "asin": "B007Y4A1GI",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Dragon's Peak Dragon Oil Warmer Figurine",
+            "normalizedName": "Dragon's Peak Dragon Oil Warmer Figurine",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

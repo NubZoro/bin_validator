@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AEGLA4U": {
+            "asin": "B00AEGLA4U",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Babo Botanicals Soothing Diaper Cream, 3 Ounce - Natural Zinc, Sensitive Skin, Best Natural Diaper Rash Cream",
+            "normalizedName": "Babo Botanicals Soothing Diaper Cream, 3 Ounce - Natural Zinc, Sensitive Skin, Best Natural Diaper Rash Cream",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        },
+        "B00OGKQAJK": {
+            "asin": "B00OGKQAJK",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "LifeProof NUUD iPhone 6 Waterproof Case (4.7\" Version) - Pink Pursuit (White/Deep Pink)",
+            "normalizedName": "LifeProof NUUD iPhone 6 Waterproof Case (4.7\" Version) - Pink Pursuit (White/Deep Pink)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00VMFPLY2": {
+            "asin": "B00VMFPLY2",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Cable Matters Mini DisplayPort 1.2 (Thunderbolt&trade; 2 Port Compatible) to HDTV Cable Supporting 4K in Black 6 Feet",
+            "normalizedName": "Cable Matters Mini DisplayPort 1.2 (Thunderbolt&trade; 2 Port Compatible) to HDTV Cable Supporting 4K in Black 6 Feet",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01FLXL9U0": {
+            "asin": "B01FLXL9U0",
+            "height": {
+                "unit": "IN",
+                "value": 0.0787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.149606296
+            },
+            "name": "Fitbit Alta Replacement Band,007plus Soft Silicone Bracelet Strap Replacement Band For Fitbit Alta Smart Fitness Watch ( Black Small)",
+            "normalizedName": "Fitbit Alta Replacement Band,007plus Soft Silicone Bracelet Strap Replacement Band For Fitbit Alta Smart Fitness Watch ( Black Small)",
+            "quantity": 5,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 0.393700787
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

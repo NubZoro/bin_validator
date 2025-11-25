@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TX14HPQ": {
+            "asin": "B00TX14HPQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Ramblewood Gas Pressure Regulator, GR1-2N, Natural/Propane Gas",
+            "normalizedName": "Ramblewood Gas Pressure Regulator, GR1-2N, Natural/Propane Gas",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B019XBM9YG": {
+            "asin": "B019XBM9YG",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "NUTK Car Kit MP3 Player Wireless Bluetooth FM Transmitter Radio Adapter Car Charger with USB SD Card Reader and Calling Remote Control for Ipad, Ipod, Smart phones",
+            "normalizedName": "NUTK Car Kit MP3 Player Wireless Bluetooth FM Transmitter Radio Adapter Car Charger with USB SD Card Reader and Calling Remote Control for Ipad, Ipod, Smart phones",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

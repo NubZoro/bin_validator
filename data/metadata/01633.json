@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00838I1KM": {
+            "asin": "B00838I1KM",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "EZ-FLO 92045 Motor Run Capacitor,  Round",
+            "normalizedName": "EZ-FLO 92045 Motor Run Capacitor,  Round",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B00IXNL3YS": {
+            "asin": "B00IXNL3YS",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.0393700736
+            },
+            "name": "Westone EPIC 52 Inch Replacement Cable - Clear, 78563",
+            "normalizedName": "Westone EPIC 52 Inch Replacement Cable - Clear, 78563",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.0472440924
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

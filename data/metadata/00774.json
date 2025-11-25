@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004S8F7QM": {
+            "asin": "B004S8F7QM",
+            "height": {
+                "unit": "IN",
+                "value": 2.6771653516
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7165354252
+            },
+            "name": "Cards Against Humanity",
+            "normalizedName": "Cards Against Humanity",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        },
+        "B00FK6RIDQ": {
+            "asin": "B00FK6RIDQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "Biotics Research Gastrazyme -- 90 Tablets",
+            "normalizedName": "Biotics Research Gastrazyme -- 90 Tablets",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

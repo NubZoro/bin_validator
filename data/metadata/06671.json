@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A7KLMOG": {
+            "asin": "B00A7KLMOG",
+            "height": {
+                "unit": "IN",
+                "value": 4.1732283422
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2519684945
+            },
+            "name": "Bundle Monster 9in1 Fashion Hair Design Styling Tools Accessories Kit- Bun Maker, Roller, Braid Twist, Elastics, Pins for BRUNETTE Hair Color",
+            "normalizedName": "Bundle Monster 9in1 Fashion Hair Design Styling Tools Accessories Kit- Bun Maker, Roller, Braid Twist, Elastics, Pins for BRUNETTE Hair Color",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.49
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        },
+        "B00P936188": {
+            "asin": "B00P936188",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Anker 60W/12A 6-Port USB Charger PowerPort 6 for iPhone 6/6 Plus, iPad Air 2/mini 3, Samsung Galaxy s6/s6 edge, Note 5 and More",
+            "normalizedName": "Anker 60W/12A 6-Port USB Charger PowerPort 6 for iPhone 6/6 Plus, iPad Air 2/mini 3, Samsung Galaxy s6/s6 edge, Note 5 and More",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

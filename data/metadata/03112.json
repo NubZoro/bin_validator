@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TIWLZI2": {
+            "asin": "B00TIWLZI2",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "2 X 4.75\"x10 Yards Silver DIAMOND MESH WRAP RHINESTONE Ribbon",
+            "normalizedName": "2 X 4.75\"x10 Yards Silver DIAMOND MESH WRAP RHINESTONE Ribbon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B01DSA300U": {
+            "asin": "B01DSA300U",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.75
+            },
+            "name": "Reflective Safety Vest for Running",
+            "normalizedName": "Reflective Safety Vest for Running",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10625
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007WMB8MS": {
+            "asin": "B007WMB8MS",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Realistic Bouquet of 8 Wire Stem Cream Roses in Cellophane Sleeve - So Realistic It Is Hard to Believe They Are Made From Thin Shaved Wood!",
+            "normalizedName": "Realistic Bouquet of 8 Wire Stem Cream Roses in Cellophane Sleeve - So Realistic It Is Hard to Believe They Are Made From Thin Shaved Wood!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00A34MN2Q": {
+            "asin": "B00A34MN2Q",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "CHEFS Soup & Sandwich Set, 4-pieces",
+            "normalizedName": "CHEFS Soup & Sandwich Set, 4-pieces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.299999993039698
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B012MH8VPE": {
+            "asin": "B012MH8VPE",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.1259842396
+            },
+            "name": "Spider-Man Ultimate Spider Man Action Figure",
+            "normalizedName": "Spider-Man Ultimate Spider Man Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.661386786
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0157480274
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

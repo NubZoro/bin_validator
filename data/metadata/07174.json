@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0048IZXKM": {
+            "asin": "B0048IZXKM",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "ACDelco 11M127 Professional Power Window Motor",
+            "normalizedName": "ACDelco 11M127 Professional Power Window Motor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00T4SVGB6": {
+            "asin": "B00T4SVGB6",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Galco Stow-N-Go Inside The Pant Holster for Sig-Sauer P220R Carry, P225 P6, P228, P229, P229 E2",
+            "normalizedName": "Galco Stow-N-Go Inside The Pant Holster for Sig-Sauer P220R Carry, P225 P6, P228, P229, P229 E2",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

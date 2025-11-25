@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007WVIFKM": {
+            "asin": "B007WVIFKM",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "SPRI Xering (Green, Light)",
+            "normalizedName": "SPRI Xering (Green, Light)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00JMCZQKQ": {
+            "asin": "B00JMCZQKQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Dawn Platinum Dishfoam 10.1oz (Pack of 2)",
+            "normalizedName": "(Pack of 2) Dawn Platinum Dishfoam 10.1oz",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.149978052505168
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

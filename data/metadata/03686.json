@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00802F244": {
+            "asin": "B00802F244",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "HID Xenon Headlight Conversion Kit by Kensun, 9006, 8000K - 2 Year Warranty",
+            "normalizedName": "HID Xenon Headlight Conversion Kit by Kensun, 9006, 8000K - 2 Year Warranty",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B00DDZ7ZUC": {
+            "asin": "B00DDZ7ZUC",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Red Heart Super Saver Yarn, Dove",
+            "normalizedName": "Red Heart Super Saver Yarn, Dove",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

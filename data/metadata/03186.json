@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IJJTDAC": {
+            "asin": "B00IJJTDAC",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Plackers Micro Mint Flossers 90 Count- (Pack of 6)",
+            "normalizedName": "(Pack of 6) Plackers Micro Mint Flossers 90 Count-",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B00WXYDZ2G": {
+            "asin": "B00WXYDZ2G",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.0
+            },
+            "name": "UN92 Coastline Board Shorts China Blue 32",
+            "normalizedName": "UN92 Coastline Board Shorts China Blue 32",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 9.0
+            }
+        },
+        "B01B3BHLH4": {
+            "asin": "B01B3BHLH4",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Star Wars Lightsaber Pen Set --3 Pens and Bonus The Force Awakens Weekly Notepad",
+            "normalizedName": "3 Pens Star Wars Lightsaber Pen Set -- and Bonus The Force Awakens Weekly Notepad",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

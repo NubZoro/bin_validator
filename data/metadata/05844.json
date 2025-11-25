@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000UYWNK6": {
+            "asin": "B000UYWNK6",
+            "height": {
+                "unit": "IN",
+                "value": 7.4015747956
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.2755905356
+            },
+            "name": "Makita 999TSH8 Copa America Centenario Limited Edition T-Shirt, X-Large, White",
+            "normalizedName": "Makita 999TSH8 Copa America Centenario Limited Edition T-Shirt, X-Large, White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.87401574
+            }
+        },
+        "B003V0T5HA": {
+            "asin": "B003V0T5HA",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "K9 Granola Factory Apricot and Kiwi Coconut Crunchers",
+            "normalizedName": "K9 Granola Factory Apricot and Kiwi Coconut Crunchers",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B007PRRZ3G": {
+            "asin": "B007PRRZ3G",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Gymboree Bubble Ooodles with Wand and Tray - 4oz",
+            "normalizedName": "Gymboree Bubble Ooodles with Wand and Tray - 4oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00IEN5TT2": {
+            "asin": "B00IEN5TT2",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "BigMouth Inc Froggy Style Garden Statue (Discontinued by Manufacturer)",
+            "normalizedName": "BigMouth Inc Froggy Style Garden Statue (Discontinued by Manufacturer)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

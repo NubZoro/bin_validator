@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000L8EF16": {
+            "asin": "B000L8EF16",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "Boston Harbor TL-TREE-134-WH Three Light Tree Lamp, 65\", White",
+            "normalizedName": "Boston Harbor TL-TREE-134-WH Three Light Tree Lamp, 65\", White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988066
+            }
+        },
+        "B004MDM8ZQ": {
+            "asin": "B004MDM8ZQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "Rubbermaid Commercial FG704104WHT Rubber Safti-Grip Bath Mat, Large, White",
+            "normalizedName": "Rubbermaid Commercial FG704104WHT Rubber Safti-Grip Bath Mat, Large, White",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

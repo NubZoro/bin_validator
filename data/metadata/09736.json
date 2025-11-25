@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1483817121": {
+            "asin": "1483817121",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Task Cards - Word Problems, Grade 2",
+            "normalizedName": "Task Cards - Word Problems, Grade 2",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B00JF2LGF2": {
+            "asin": "B00JF2LGF2",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Schaeffer Manufacturing Co. 0132-023S Moly EP Oil Treatment, 1 pint",
+            "normalizedName": "Schaeffer Manufacturing Co. 0132-023S Moly EP Oil Treatment, 1 pint",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B015VYR0A2": {
+            "asin": "B015VYR0A2",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Wysong Uretic with Organic Chicken Feline Canned Diet Can, 5.5 oz",
+            "normalizedName": "Wysong Uretic with Organic Chicken Feline Canned Diet Can, 5.5 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

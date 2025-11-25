@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002P8QUB8": {
+            "asin": "B002P8QUB8",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "TYC 4800031 Honda Element Passenger Side Power Non-Heated Replacement Mirror",
+            "normalizedName": "TYC 4800031 Honda Element Passenger Side Power Non-Heated Replacement Mirror",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B004GNGID0": {
+            "asin": "B004GNGID0",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Brita 10 Cup Everyday BPA Free Water Pitcher with 1 Filter, White",
+            "normalizedName": "Brita 10 Cup Everyday BPA Free Water Pitcher with 1 Filter, White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999979035237
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

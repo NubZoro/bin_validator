@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004C1J7F2": {
+            "asin": "B004C1J7F2",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "CyberPower CPH320AP Charging Dock and 3 Port USB Hub for iPod/iPhone 3G, 3GS, 4, 4S",
+            "normalizedName": "CyberPower CPH320AP Charging Dock and 3 Port USB Hub for iPod/iPhone 3G, 3GS, 4, 4S",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

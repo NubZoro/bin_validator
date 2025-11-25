@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00067OOF4": {
+            "asin": "B00067OOF4",
+            "height": {
+                "unit": "IN",
+                "value": 2.8346456664
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.8897637674
+            },
+            "name": "Canon P23-DH V 2 color mini-Desktop Printing Calculator",
+            "normalizedName": "Canon P23-DH V 2 color mini-Desktop Printing Calculator",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.0078740086
+            }
+        },
+        "B000E19BZA": {
+            "asin": "B000E19BZA",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Tazo Organic Chai, Spiced Black Tea, 20-Count Tea Bags (Pack of 6)",
+            "normalizedName": "(Pack of 6) Tazo Organic Chai, Spiced Black Tea, 20-Count Tea Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.57
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01DDJ7H4Q": {
+            "asin": "B01DDJ7H4Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622024755908
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.15748029423937
+            },
+            "name": "Topwedding Chiffon Bridal Wedding Shawl Wrap Women's Evening Dress Stole Scarves,79*24'', Fuchsia",
+            "normalizedName": "Topwedding Chiffon Bridal Wedding Shawl Wrap Women's Evening Dress Stole Scarves,79*24'', Fuchsia",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.30864401608739617
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.79527557464882
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

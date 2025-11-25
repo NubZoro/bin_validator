@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ARH9DPY": {
+            "asin": "B00ARH9DPY",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Operation Despicable Me Silly Skill Game",
+            "normalizedName": "Operation Despicable Me Silly Skill Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259733
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        },
+        "B00B3QT8FS": {
+            "asin": "B00B3QT8FS",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.6692913226
+            },
+            "name": "PLAYMOBIL Dragon's Treasure Battle Advent Calendar",
+            "normalizedName": "PLAYMOBIL Dragon's Treasure Battle Advent Calendar",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6754960887366348
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.8897637674
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

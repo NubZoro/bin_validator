@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BOKOAQ": {
+            "asin": "B000BOKOAQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Franklin International 4221 Premium Construction Adhesive, 10.5-Ounce",
+            "normalizedName": "Franklin International 4221 Premium Construction Adhesive, 10.5-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00PZWBX40": {
+            "asin": "B00PZWBX40",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Solong Tattoo\u00ae Complete Tattoo Kit 3 Pro Machine Guns 40 Inks Power Supply Foot Pedal Needles Grips Tips TK356",
+            "normalizedName": "Solong Tattoo\u00ae Complete Tattoo Kit 3 Pro Machine Guns 40 Inks Power Supply Foot Pedal Needles Grips Tips TK356",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

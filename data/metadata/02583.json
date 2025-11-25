@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001MBUHJK": {
+            "asin": "B001MBUHJK",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "Dr Seuss Ball Point Pen Assortment, 12-Pack(66874)",
+            "normalizedName": "12-Pack Dr Seuss Ball Point Pen Assortment, (66874)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B015CH1PJU": {
+            "asin": "B015CH1PJU",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.8267716476
+            },
+            "name": "SanDisk Ultra Flair USB 3.0 128GB Flash Drive High Performance up to 150MB/s (SDCZ73-128G-G46)",
+            "normalizedName": "SanDisk Ultra Flair USB 3.0 128GB Flash Drive High Performance up to 150MB/s (SDCZ73-128G-G46)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0881849048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.6456692866
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

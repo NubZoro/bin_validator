@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000302YM": {
+            "asin": "B0000302YM",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Dremel 1550 T2 Versa Tip Multipurpose Tool  Kit",
+            "normalizedName": "Dremel 1550 T2 Versa Tip Multipurpose Tool  Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999744817536274
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.249999993625
+            }
+        },
+        "B00B41JQPY": {
+            "asin": "B00B41JQPY",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Valentine's Day / Hearts Disposable Goblets/Wine glasses",
+            "normalizedName": "Valentine's Day / Hearts Disposable Goblets/Wine glasses",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01BZ9GJWM": {
+            "asin": "B01BZ9GJWM",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Ceramic Collegiate Piggy Bank (Kansas State Wildcats)",
+            "normalizedName": "Ceramic Collegiate Piggy Bank (Kansas State Wildcats)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

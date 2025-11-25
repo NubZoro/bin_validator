@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000YF99GM": {
+            "asin": "B000YF99GM",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Bob's Red Mill, Coconut Flour, Organic, 16 oz",
+            "normalizedName": "Bob's Red Mill, Coconut Flour, Organic, 16 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00P7XDT58": {
+            "asin": "B00P7XDT58",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "KitchenAid Pizza Wheel, Pomegranate Red",
+            "normalizedName": "KitchenAid Pizza Wheel, Pomegranate Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00SZXANL0": {
+            "asin": "B00SZXANL0",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.5511810916
+            },
+            "name": "Arkon Tripod Tablet Mount for iPad Air 2 iPad Pro iPad 4 3 2 Galaxy Note 10.1 Galaxy Tab Pro Retail Black",
+            "normalizedName": "Arkon Tripod Tablet Mount for iPad Air 2 iPad Pro iPad 4 3 2 Galaxy Note 10.1 Galaxy Tab Pro Retail Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800355822459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1889763696
+            }
+        },
+        "B018DATVDA": {
+            "asin": "B018DATVDA",
+            "height": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.5039369992
+            },
+            "name": "RamPro 6 Pack 72\" Long Bungee Cords Set with Galvanized Steel Hooks \u2013 Heavy-Duty Variety Pack of Thick Straps",
+            "normalizedName": "6 Pack RamPro 72\" Long Bungee Cords Set with Galvanized Steel Hooks \u2013 Heavy-Duty Variety Pack of Thick Straps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8499999967714262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.9527558974
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

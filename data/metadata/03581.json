@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005202V": {
+            "asin": "B00005202V",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "M-D Building Products 2113 Low Density Foam Tape, 1/2-by-3/4-Inch by 17 Feet, Gray",
+            "normalizedName": "M-D Building Products 2113 Low Density Foam Tape, 1/2-by-3/4-Inch by 17 Feet, Gray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B017M0ES58": {
+            "asin": "B017M0ES58",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Zyliss \"Fresh\" Glass Food Storage Containers, 6-Piece Set",
+            "normalizedName": "6-Piece Set Zyliss \"Fresh\" Glass Food Storage Containers,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.299999994716879
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

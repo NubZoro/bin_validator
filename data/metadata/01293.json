@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0047P8LH8": {
+            "asin": "B0047P8LH8",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Rosaclear System Skin Balancing Sun Protection SPF 30 - Obagi - Rosaclear - Day Care - 88ml/3oz",
+            "normalizedName": "Rosaclear System Skin Balancing Sun Protection SPF 30 - Obagi - Rosaclear - Day Care - 88ml/3oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B00CHQAM08": {
+            "asin": "B00CHQAM08",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Core Science Medical Gluten Cutter Capsules, 30 Count",
+            "normalizedName": "Core Science Medical Gluten Cutter Capsules, 30 Count",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

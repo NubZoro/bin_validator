@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1617690228": {
+            "asin": "1617690228",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Simon Leach's Pottery Handbook: A Comprehensive Guide to Throwing Beautiful, Functional Pots",
+            "normalizedName": "Simon Leach's Pottery Handbook: A Comprehensive Guide to Throwing Beautiful, Functional Pots",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        },
+        "B001CROHX6": {
+            "asin": "B001CROHX6",
+            "height": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1889763696
+            },
+            "name": "SONOS CONNECT Wireless Receiver Component for Streaming Music",
+            "normalizedName": "SONOS CONNECT Wireless Receiver Component for Streaming Music",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7778245012
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.5590551104
+            }
+        },
+        "B00KG72F1Y": {
+            "asin": "B00KG72F1Y",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.699999983986
+            },
+            "name": "Vintage Canvas Cross Body Laptop Messenger Bag , Iblue College Bookbags for M...",
+            "normalizedName": "Vintage Canvas Cross Body Laptop Messenger Bag , Iblue College Bookbags for M...",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.399999986332
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

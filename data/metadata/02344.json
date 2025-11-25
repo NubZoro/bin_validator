@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00RD2CQLE": {
+            "asin": "B00RD2CQLE",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.1968503884
+            },
+            "name": "Kerastase Chronologiste, 8.5 FL OZ",
+            "normalizedName": "Kerastase Chronologiste, 8.5 FL OZ",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5732018812
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5196850368
+            }
+        },
+        "B01ATYIK7G": {
+            "asin": "B01ATYIK7G",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Vergiano Super Bright Flexible Dual Head Clip on LED Reading Light - Clamp Lamp Sensitive Eye Care - Rechargeable USB Desk or Table Lamp - Music Stand Light (BLACK)",
+            "normalizedName": "Vergiano Super Bright Flexible Dual Head Clip on LED Reading Light - Clamp Lamp Sensitive Eye Care - Rechargeable USB Desk or Table Lamp - Music Stand Light (BLACK)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BKV3GV8": {
+            "asin": "B00BKV3GV8",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Steren 25-Feet T-T Digital Optical Cable (260-025)",
+            "normalizedName": "Steren 25-Feet T-T Digital Optical Cable (260-025)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00U7YKSL0": {
+            "asin": "B00U7YKSL0",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.5669291292
+            },
+            "name": "Samsung Wireless Charger Pad, International Version - No US Warranty (Black)",
+            "normalizedName": "Samsung Wireless Charger Pad, International Version - No US Warranty (Black)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2645547144
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4881889718
+            }
+        },
+        "B018FZ8ZH6": {
+            "asin": "B018FZ8ZH6",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Auskic HDMI to RCA Cable, 5Ft 1.5M HDMI Male to 3RCA Video Audio AV Component Converter Adapter Cable For HDTV DVD and Most LCD Projectors (Black)",
+            "normalizedName": "Auskic HDMI to RCA Cable, 5Ft 1.5M HDMI Male to 3RCA Video Audio AV Component Converter Adapter Cable For HDTV DVD and Most LCD Projectors (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

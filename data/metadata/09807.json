@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007WFY4S": {
+            "asin": "B0007WFY4S",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "The Dick Van Dyke Show - The Complete Series",
+            "normalizedName": "The Dick Van Dyke Show - The Complete Series",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B01BLVG50U": {
+            "asin": "B01BLVG50U",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "MLB Baseball Bat Electric Wine Opener (Mets)",
+            "normalizedName": "MLB Baseball Bat Electric Wine Opener (Mets)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.579999998675027
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01FFG9J0U": {
+            "asin": "B01FFG9J0U",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Essential Oil Ultrasonic Diffuser for Aromatherapy, 16.9 fl. oz. Aroma Diffuser and Cool Mist Personal Humidifier, Whisper Quiet with Energy Saving LED Lights by Namastra",
+            "normalizedName": "Essential Oil Ultrasonic Diffuser for Aromatherapy, 16.9 fl. oz. Aroma Diffuser and Cool Mist Personal Humidifier, Whisper Quiet with Energy Saving LED Lights by Namastra",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

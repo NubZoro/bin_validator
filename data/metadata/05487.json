@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "093074327X": {
+            "asin": "093074327X",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Branson, Missouri: Travel Guide to Fun City, U.S.A. for a Vacation or a Lifetime",
+            "normalizedName": "Branson, Missouri: Travel Guide to Fun City, U.S.A. for a Vacation or a Lifetime",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "0984418407": {
+            "asin": "0984418407",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "If You Lived Here You'd Already Be Home",
+            "normalizedName": "If You Lived Here You'd Already Be Home",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B002WE8VQ2": {
+            "asin": "B002WE8VQ2",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Fairway Needlecraft 82577 Vintage Ruffled Edge Pillowcases, Southern Bell Lady Design, Standard, White",
+            "normalizedName": "Fairway Needlecraft 82577 Vintage Ruffled Edge Pillowcases, Southern Bell Lady Design, Standard, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00RKOA99Q": {
+            "asin": "B00RKOA99Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "YUMBOX Panino (Pomme Green) Leakproof Bento Lunch Box Container for Kids and Adults",
+            "normalizedName": "YUMBOX Panino (Pomme Green) Leakproof Bento Lunch Box Container for Kids and Adults",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CO7AV6": {
+            "asin": "B000CO7AV6",
+            "height": {
+                "unit": "IN",
+                "value": 0.79921259761
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.29921259404
+            },
+            "name": "SYLVANIA 1156 Long Life Miniature Bulb, (Pack of 2)",
+            "normalizedName": "(Pack of 2) SYLVANIA 1156 Long Life Miniature Bulb,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0600098277164
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B00DBXR7MW": {
+            "asin": "B00DBXR7MW",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Ferrero Collection, 12 Count, 4.6 Ounce (129 gm)",
+            "normalizedName": "Ferrero Collection, 12 Count, 4.6 Ounce (129 gm)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B014XT2UTM": {
+            "asin": "B014XT2UTM",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "iPhone 6 Case,CLONG iPhone 6S Cover Colorful Clear Shell Slim Case Translucent Impact Resistant Flexible TPU Soft Bumper Case Protective Shell for Apple iPhone 6/6S 4.7 inch(Blue&Pink)",
+            "normalizedName": "iPhone 6 Case,CLONG iPhone 6S Cover Colorful Clear Shell Slim Case Translucent Impact Resistant Flexible TPU Soft Bumper Case Protective Shell for Apple iPhone 6/6S 4.7 inch(Blue&Pink)",
+            "quantity": 15,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 17
+}

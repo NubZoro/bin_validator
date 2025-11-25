@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001TQDTA2": {
+            "asin": "B001TQDTA2",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Halyard Health 55083 Model KC500 Nitrile Powder Free Exam Gloves, Disposable, Large, Purple (Pack of 100)",
+            "normalizedName": "(Pack of 100) Halyard Health 55083 Model KC500 Nitrile Powder Free Exam Gloves, Disposable, Large, Purple",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00C0DZS4S": {
+            "asin": "B00C0DZS4S",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Lux Hotel Bedding Tailored Bedskirt, Classic 14\" drop length, Pleated Styling, Queen, White",
+            "normalizedName": "Lux Hotel Bedding Tailored Bedskirt, Classic 14\" drop length, Pleated Styling, Queen, White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00X140B06": {
+            "asin": "B00X140B06",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Sony 64GB Class 10 UHS-1 SDXC up to 70MB/s Memory Card (SF64UY2/TQ)",
+            "normalizedName": "Sony 64GB Class 10 UHS-1 SDXC up to 70MB/s Memory Card (SF64UY2/TQ)",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01DYGKM0E": {
+            "asin": "B01DYGKM0E",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "BLU Advance 4.0 L2 - US GSM Unlocked - Black",
+            "normalizedName": "BLU Advance 4.0 L2 - US GSM Unlocked - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

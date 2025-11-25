@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00SL0BR0S": {
+            "asin": "B00SL0BR0S",
+            "height": {
+                "unit": "IN",
+                "value": 4.330708657
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.8661417212
+            },
+            "name": "Fisher-Price Nickelodeon Blaze and the Monster Machines Blaze Turbo Launcher",
+            "normalizedName": "Fisher-Price Nickelodeon Blaze and the Monster Machines Blaze Turbo Launcher",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05820805604419
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.6377952678
+            }
+        },
+        "B01D42YN6W": {
+            "asin": "B01D42YN6W",
+            "height": {
+                "unit": "IN",
+                "value": 4.249999995665
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "DBPOWER 500A Peak 12000mAh Portable Car Jump Starter DJS60 External Battery Smart Charger Power Bank with Compass & LCD Screen and LED Flash Light for Laptop Smartphone Tablet and More",
+            "normalizedName": "DBPOWER 500A Peak 12000mAh Portable Car Jump Starter DJS60 External Battery Smart Charger Power Bank with Compass & LCD Screen and LED Flash Light for Laptop Smartphone Tablet and More",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K38B8GO": {
+            "asin": "B00K38B8GO",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Metal Pedicure Foot File Callus Reducer compare to Microplane",
+            "normalizedName": "Metal Pedicure Foot File Callus Reducer compare to Microplane",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00PR5L02U": {
+            "asin": "B00PR5L02U",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "US Art Supply 14-Piece Acrylic Painting Set with Mini Table Easel",
+            "normalizedName": "US Art Supply 14-Piece Acrylic Painting Set with Mini Table Easel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B01D9CSDR2": {
+            "asin": "B01D9CSDR2",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.599999984088
+            },
+            "name": "FantasyDeco Polyester Velvet Plush Throw (52\"x62\", Teal)",
+            "normalizedName": "FantasyDeco Polyester Velvet Plush Throw (52\"x62\", Teal)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0062366998": {
+            "asin": "0062366998",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Warriors #4: Rising Storm (Warriors: The Prophecies Begin)",
+            "normalizedName": "Warriors #4: Rising Storm (Warriors: The Prophecies Begin)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B016KXVKOU": {
+            "asin": "B016KXVKOU",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "[Lifetime Warranty] Okra\u00ae Universal 360\u00b0 Degree Rotating Tablet Car Headrest Grip Mount for iPad, Galaxy, & all Tablets up to 11\" (New 2015 Version) [Retail Packaging]",
+            "normalizedName": "[Lifetime Warranty] Okra\u00ae Universal 360\u00b0 Degree Rotating Tablet Car Headrest Grip Mount for iPad, Galaxy, & all Tablets up to 11\" (New 2015 Version) [Retail Packaging]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0307980952": {
+            "asin": "0307980952",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.3385826656
+            },
+            "name": "Pocoyo's Big Lift-and-Look Book (Pocoyo)",
+            "normalizedName": "Pocoyo's Big Lift-and-Look Book (Pocoyo)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8818400474429946
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.0787401472
+            }
+        },
+        "B00286H82W": {
+            "asin": "B00286H82W",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "NFL Kansas City Chiefs Foamhead",
+            "normalizedName": "NFL Kansas City Chiefs Foamhead",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B004MUAJDM": {
+            "asin": "B004MUAJDM",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Wire-o Journal - Cherry Blossoms - Large ( Black wire-o )",
+            "normalizedName": "Wire-o Journal - Cherry Blossoms - Large ( Black wire-o )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5432200830252405
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

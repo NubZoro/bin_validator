@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0847844773": {
+            "asin": "0847844773",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Charlotte Moss: Garden Inspirations",
+            "normalizedName": "Charlotte Moss: Garden Inspirations",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B005G8BOME": {
+            "asin": "B005G8BOME",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "Master Kitz Kidzaw The Starry Night By Vincent Van Gogh Childrens Art Kit",
+            "normalizedName": "Master Kitz Kidzaw The Starry Night By Vincent Van Gogh Childrens Art Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01FSKPK10": {
+            "asin": "B01FSKPK10",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.354330693
+            },
+            "name": "Kany Snorkeling Package Set for Adults,Snorkeling Gear,Anti-Fog Coated Glass Diving Mask, Snorkel with Silicone Mouth Piece,Perfect for Diving, Snorkeling, Swimming",
+            "normalizedName": "Kany Snorkeling Package Set for Adults,Snorkeling Gear,Anti-Fog Coated Glass Diving Mask, Snorkel with Silicone Mouth Piece,Perfect for Diving, Snorkeling, Swimming",
+            "quantity": 3,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

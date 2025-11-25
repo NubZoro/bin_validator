@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1579656684": {
+            "asin": "1579656684",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.448818888
+            },
+            "name": "Cooking with Loula: Greek Recipes from My Family to Yours",
+            "normalizedName": "Cooking with Loula: Greek Recipes from My Family to Yours",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7636800934069836
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.7716535364
+            }
+        },
+        "B00025K0TY": {
+            "asin": "B00025K0TY",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Tetra 16106 TetraMin Flakes, 7.06-Ounce",
+            "normalizedName": "Tetra 16106 TetraMin Flakes, 7.06-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

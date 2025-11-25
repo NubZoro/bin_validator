@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0026SUCDE": {
+            "asin": "B0026SUCDE",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Pentel Arts Oil Pastels, 50 Color Set (PHN-50)",
+            "normalizedName": "Pentel Arts Oil Pastels, 50 Color Set (PHN-50)",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

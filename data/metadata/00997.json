@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001FXU9IO": {
+            "asin": "B001FXU9IO",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "BlueBonnet Plant Sterols Supplement, 90 Count",
+            "normalizedName": "BlueBonnet Plant Sterols Supplement, 90 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B017JR5UOM": {
+            "asin": "B017JR5UOM",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "MazeTechno Suction Cup Mount for Gopro HERO 4 Silver Black Session 3+ 3 2 1 HD (Diameter 9cm)",
+            "normalizedName": "MazeTechno Suction Cup Mount for Gopro HERO 4 Silver Black Session 3+ 3 2 1 HD (Diameter 9cm)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

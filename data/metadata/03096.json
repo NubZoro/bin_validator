@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00E3P7SEY": {
+            "asin": "B00E3P7SEY",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Oregon's Wild Harvest Chaste Tree, 90 Vcaps (Pack of 2)",
+            "normalizedName": "(Pack of 2) Oregon's Wild Harvest Chaste Tree, 90 Vcaps",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B010OV4Y4W": {
+            "asin": "B010OV4Y4W",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Muscle Relax 90 caps - 2 Pack",
+            "normalizedName": "2 Pack Muscle Relax 90 caps -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

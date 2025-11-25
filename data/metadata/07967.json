@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013AOVHO": {
+            "asin": "B0013AOVHO",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "name": "Ranger Perfect Pearls Pigment Powders, Pearl",
+            "normalizedName": "Ranger Perfect Pearls Pigment Powders, Pearl",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.2834645646
+            }
+        },
+        "B016D9K970": {
+            "asin": "B016D9K970",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Car Mount, Bestrix Universal CD Slot Smartphone Car Mount Holder Cradle for All iPhone and Android Devices up to 5.7\"",
+            "normalizedName": "Car Mount, Bestrix Universal CD Slot Smartphone Car Mount Holder Cradle for All iPhone and Android Devices up to 5.7\"",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

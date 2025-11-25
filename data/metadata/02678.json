@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002GEC2ZO": {
+            "asin": "B002GEC2ZO",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Treat Organic Body Cream, Soft Candy Vanilla Buttercream",
+            "normalizedName": "Treat Organic Body Cream, Soft Candy Vanilla Buttercream",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B004BPJZWO": {
+            "asin": "B004BPJZWO",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Scotch Heavy Duty Shipping Packaging Tape, 1.88 Inch x 800 Inch, Tan",
+            "normalizedName": "Scotch Heavy Duty Shipping Packaging Tape, 1.88 Inch x 800 Inch, Tan",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B01C75TTDY": {
+            "asin": "B01C75TTDY",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "iPhone 6s Plus/6 Plus case, Geekmart Soft TPU Fantastic Cartoon Galaxy Star Cover Case 5.5 inch (G)",
+            "normalizedName": "iPhone 6s Plus/6 Plus case, Geekmart Soft TPU Fantastic Cartoon Galaxy Star Cover Case 5.5 inch (G)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.28999999975680874
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B01G9XVHJO": {
+            "asin": "B01G9XVHJO",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Stand Flip PU Leather ID Credit Card Pockets Wallet Cover Case For Apple iPhone 6 Plus 5.5\" (Star Kito)",
+            "normalizedName": "Stand Flip PU Leather ID Credit Card Pockets Wallet Cover Case For Apple iPhone 6 Plus 5.5\" (Star Kito)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

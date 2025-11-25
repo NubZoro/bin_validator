@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000088O9Y": {
+            "asin": "B000088O9Y",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Coleman Water Carrier, 5-Gallon",
+            "normalizedName": "Coleman Water Carrier, 5-Gallon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

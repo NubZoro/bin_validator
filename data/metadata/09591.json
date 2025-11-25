@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0014ZJX6C": {
+            "asin": "B0014ZJX6C",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Papo Enchantress Toy",
+            "normalizedName": "Papo Enchantress Toy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.699999996226
+            }
+        },
+        "B018LJ7NGU": {
+            "asin": "B018LJ7NGU",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Disposable Flow & Filtration Optimized K Carafe Cup Coffee Filters by Nature's Kitchen (90 pack)",
+            "normalizedName": "Disposable Flow & Filtration Optimized K Carafe Cup Coffee Filters by Nature's Kitchen (90 pack)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200233517459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VJ4IGDY": {
+            "asin": "B00VJ4IGDY",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Ultimate Kitchen Stainless Steel Sink Soap Dispenser - Model SSD2 (Satin Finish)",
+            "normalizedName": "Ultimate Kitchen Stainless Steel Sink Soap Dispenser - Model SSD2 (Satin Finish)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01DU97VTU": {
+            "asin": "B01DU97VTU",
+            "height": {
+                "unit": "IN",
+                "value": 1.7
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "Sunny 20 inch New Balayage Color Remy Hair Extensions Natural Black to Chesnut Brown Highlight Black Clip in Human Hair Extensions 7pcs 120gram for Beautiful Hairstyle",
+            "normalizedName": "Sunny 20 inch New Balayage Color Remy Hair Extensions Natural Black to Chesnut Brown Highlight Black Clip in Human Hair Extensions 7pcs 120gram for Beautiful Hairstyle",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

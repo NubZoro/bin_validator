@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008657ER8": {
+            "asin": "B008657ER8",
+            "height": {
+                "unit": "IN",
+                "value": 3.6220472404
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.7007873978
+            },
+            "name": "Stevita Stevia Supreme Economy Jar",
+            "normalizedName": "Stevita Stevia Supreme Economy Jar",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7007873978
+            }
+        },
+        "B008GVXKUW": {
+            "asin": "B008GVXKUW",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.1417322772
+            },
+            "name": "Polaroid Z2300 10MP Digital Instant Print Camera - Black",
+            "normalizedName": "Polaroid Z2300 10MP Digital Instant Print Camera - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6754960901416898
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.7480314902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

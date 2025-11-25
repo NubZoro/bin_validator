@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K316IB6": {
+            "asin": "B00K316IB6",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Bissell 28806 Perfect Sweep Turbo, Grey",
+            "normalizedName": "Bissell 28806 Perfect Sweep Turbo, Grey",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.49999998623
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,37 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1933591218": {
+            "asin": "1933591218",
+            "height": null,
+            "length": null,
+            "name": "In Paths of Righteousness",
+            "normalizedName": "In Paths of Righteousness",
+            "quantity": 1,
+            "weight": null,
+            "width": null
+        },
+        "B00000IZQP": {
+            "asin": "B00000IZQP",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Fisher-Price Brilliant Basics Rock-a-Stack",
+            "normalizedName": "Fisher-Price Brilliant Basics Rock-a-Stack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

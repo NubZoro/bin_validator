@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005KDDV4Y": {
+            "asin": "B005KDDV4Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Rubbermaid Commercial FG634200SILV Plastic Block Counter Brush, Silver",
+            "normalizedName": "Rubbermaid Commercial FG634200SILV Plastic Block Counter Brush, Silver",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B017JO1TXQ": {
+            "asin": "B017JO1TXQ",
+            "height": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "16oz Cobalt Glass Spray Bottles (6 Pack), Heavy Duty Mist and Stream Sprayer",
+            "normalizedName": "(6 Pack) 16oz Cobalt Glass Spray Bottles , Heavy Duty Mist and Stream Sprayer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

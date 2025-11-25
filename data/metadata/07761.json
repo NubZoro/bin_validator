@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00U1OL356": {
+            "asin": "B00U1OL356",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Philips H11 CrystalVision Ultra Upgrade Headlight Bulb, 2 Pack",
+            "normalizedName": "2 Pack Philips H11 CrystalVision Ultra Upgrade Headlight Bulb,",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

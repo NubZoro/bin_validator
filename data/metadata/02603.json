@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004BU8XYU": {
+            "asin": "B004BU8XYU",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.6692913277
+            },
+            "name": "Topeak Bike bag accessories Rain Cover for MTX TrunkBag EX + DX",
+            "normalizedName": "Topeak Bike bag accessories Rain Cover for MTX TrunkBag EX + DX",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.11
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.2519684996
+            }
+        },
+        "B00L8XU8XW": {
+            "asin": "B00L8XU8XW",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Swift Green Replacement Water Filter SGF-M9, fits Maytag UKF8001, PuriClean II; Whirlpool WF50-KWI500, WF50-NI300, OWF51",
+            "normalizedName": "Swift Green Replacement Water Filter SGF-M9, fits Maytag UKF8001, PuriClean II; Whirlpool WF50-KWI500, WF50-NI300, OWF51",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

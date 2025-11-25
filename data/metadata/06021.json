@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013W36P32": {
+            "asin": "B013W36P32",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.5
+            },
+            "name": "TOPSUNG Waterproof Puppy Raincoat White Transparent Pet Rainwear Clothes for Small Dogs/Cats, Size M",
+            "normalizedName": "TOPSUNG Waterproof Puppy Raincoat White Transparent Pet Rainwear Clothes for Small Dogs/Cats, Size M",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 7.0
+            }
+        },
+        "B017KNVV48": {
+            "asin": "B017KNVV48",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "MARATHON CL030053SV Analog Desk Alarm Clock With Auto-Night Light - Batteries Included",
+            "normalizedName": "MARATHON CL030053SV Analog Desk Alarm Clock With Auto-Night Light - Batteries Included",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

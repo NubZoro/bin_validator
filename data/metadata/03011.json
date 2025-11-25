@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FTN6SZ4": {
+            "asin": "B00FTN6SZ4",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Loon Outdoors UV CLEAR FLY FINISH, Thin, 1/2 OZ.",
+            "normalizedName": "Loon Outdoors UV CLEAR FLY FINISH, Thin, 1/2 OZ.",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00HWQNV8I": {
+            "asin": "B00HWQNV8I",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Blueberry Pet 3/4-Inch Summer Nautical Flags Inspired Designer Basic Polyester Nylon Dog Collar, Medium",
+            "normalizedName": "Blueberry Pet 3/4-Inch Summer Nautical Flags Inspired Designer Basic Polyester Nylon Dog Collar, Medium",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

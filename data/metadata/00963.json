@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00103XN8M": {
+            "asin": "B00103XN8M",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Simple Green 18202 Concrete and Driveway Cleaner, 1 Gallon Bottle",
+            "normalizedName": "Simple Green 18202 Concrete and Driveway Cleaner, 1 Gallon Bottle",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00EPD6UFM": {
+            "asin": "B00EPD6UFM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Full Extra Long (XL) SureGuard Mattress Protector - 100% Waterproof, Hypoallergenic - Premium Fitted Cotton Terry Cover - 10 Year Warranty",
+            "normalizedName": "Full Extra Long (XL) SureGuard Mattress Protector - 100% Waterproof, Hypoallergenic - Premium Fitted Cotton Terry Cover - 10 Year Warranty",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

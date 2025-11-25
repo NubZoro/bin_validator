@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "111929343X": {
+            "asin": "111929343X",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990411999
+            },
+            "name": "Excel 2016 For Dummies (Excel for Dummies)",
+            "normalizedName": "Excel 2016 For Dummies (Excel for Dummies)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582552
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00H9HLQ1O": {
+            "asin": "B00H9HLQ1O",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "ROBERTSON 3P10066 CMH0400N04932 M mHID 5-Tap Ballast Kit for 400 Watt (M59) Metal Halide Lamp, 120/208/240/277/480Vac, 60Hz, CWA, HPF (Replaces Model CMH0400N04932)",
+            "normalizedName": "ROBERTSON 3P10066 CMH0400N04932 M mHID 5-Tap Ballast Kit for 400 Watt (M59) Metal Halide Lamp, 120/208/240/277/480Vac, 60Hz, CWA, HPF (Replaces Model CMH0400N04932)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 13.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

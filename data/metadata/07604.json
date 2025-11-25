@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JDQK10G": {
+            "asin": "B00JDQK10G",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Amazon.com $100 Gift Card in a Birthday Cupcake Tin (Birthday Cupcake Card Design)",
+            "normalizedName": "Amazon.com $100 Gift Card in a Birthday Cupcake Tin (Birthday Cupcake Card Design)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00R3GI2SG": {
+            "asin": "B00R3GI2SG",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Superband PREMIUM Insect Repellent Bracelet: Assorted Colors - Red, Blue, & Yellow (10 Pack)",
+            "normalizedName": "(10 Pack) Superband PREMIUM Insect Repellent Bracelet: Assorted Colors - Red, Blue, & Yellow",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

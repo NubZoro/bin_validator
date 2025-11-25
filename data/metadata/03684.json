@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NQNOFKE": {
+            "asin": "B00NQNOFKE",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "12\" x 10 Ft Roll of Glossy Oracal 651 Red Permanent Adhesive-Backed Vinyl for Craft Cutters, Punches and Vinyl Sign Cutters",
+            "normalizedName": "12\" x 10 Ft Roll of Glossy Oracal 651 Red Permanent Adhesive-Backed Vinyl for Craft Cutters, Punches and Vinyl Sign Cutters",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B010YHMQEQ": {
+            "asin": "B010YHMQEQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7165354252
+            },
+            "name": "Stellar Rotating Sink Caddy Storage",
+            "normalizedName": "Stellar Rotating Sink Caddy Storage",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4109440759087915
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

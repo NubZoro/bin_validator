@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PZP4VSC": {
+            "asin": "B00PZP4VSC",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "LOUISE MAELYS Womens Long Curly Anime Cosplay Wig Double Ponytail Bun Hair Gold",
+            "normalizedName": "LOUISE MAELYS Womens Long Curly Anime Cosplay Wig Double Ponytail Bun Hair Gold",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B013QIFCLE": {
+            "asin": "B013QIFCLE",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Midland Consumer Radio GXT1030VP4 36-Mile 50-Channel GMRS Two-Way Radio (Black/Yellow)",
+            "normalizedName": "Midland Consumer Radio GXT1030VP4 36-Mile 50-Channel GMRS Two-Way Radio (Black/Yellow)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B018TQCBXA": {
+            "asin": "B018TQCBXA",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Calvin Klein Leather Cross Body Bag, Black/Gold, One Size",
+            "normalizedName": "Calvin Klein Leather Cross Body Bag, Black/Gold, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

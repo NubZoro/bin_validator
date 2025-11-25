@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1119119804": {
+            "asin": "1119119804",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Leading with Noble Purpose: How to Create a Tribe of True Believers",
+            "normalizedName": "Leading with Noble Purpose: How to Create a Tribe of True Believers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186
+            }
+        },
+        "B0016IHR7Y": {
+            "asin": "B0016IHR7Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "ACDelco 15-80564 GM Original Equipment Auxiliary Heating and Air Conditioning Blower Motor Resistor",
+            "normalizedName": "ACDelco 15-80564 GM Original Equipment Auxiliary Heating and Air Conditioning Blower Motor Resistor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B001PR09DU": {
+            "asin": "B001PR09DU",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "NCAA Georgia Tech Yellow Jackets Embossed Genuine Leather Checkbook Cover",
+            "normalizedName": "NCAA Georgia Tech Yellow Jackets Embossed Genuine Leather Checkbook Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B0030BOCL4": {
+            "asin": "B0030BOCL4",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "The Wraith (Special Edition)",
+            "normalizedName": "The Wraith (Special Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

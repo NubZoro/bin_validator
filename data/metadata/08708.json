@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001FEO74U": {
+            "asin": "B001FEO74U",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Rayman Raving Rabbids TV Party",
+            "normalizedName": "Rayman Raving Rabbids TV Party",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B001U2BMF4": {
+            "asin": "B001U2BMF4",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Tiger Woods PGA Tour 10 - Nintendo Wii",
+            "normalizedName": "Tiger Woods PGA Tour 10 - Nintendo Wii",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00NJPY860": {
+            "asin": "B00NJPY860",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "M5.7x114.2 Buna-N O-Ring, 70A Durometer, Round, Black, Buna-N, 114.2 mm ID, 125.6 mm OD, 5.7 mm Width (Pack of 5)",
+            "normalizedName": "(Pack of 5) M5.7x114.2 Buna-N O-Ring, 70A Durometer, Round, Black, Buna-N, 114.2 mm ID, 125.6 mm OD, 5.7 mm Width",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

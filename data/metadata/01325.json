@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BP2M46": {
+            "asin": "B000BP2M46",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Aurora Plush Ludwig the 12-Inch Schnauzer",
+            "normalizedName": "Aurora Plush Ludwig the 12-Inch Schnauzer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B0043DSGX8": {
+            "asin": "B0043DSGX8",
+            "height": {
+                "unit": "IN",
+                "value": 3.699999996226
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "SmartParts 120250 2.5\" Butt Joint Aluminized Steel Exhaust Clamp with I Block",
+            "normalizedName": "SmartParts 120250 2.5\" Butt Joint Aluminized Steel Exhaust Clamp with I Block",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00DV8AJLS": {
+            "asin": "B00DV8AJLS",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Elegant Comfort 1500 Thread Count Wrinkle & Fade Resistant Egyptian Quality Ultra Soft Luxurious 4-Piece Bed Sheet Set, Queen, Gray",
+            "normalizedName": "Elegant Comfort 1500 Thread Count Wrinkle & Fade Resistant Egyptian Quality Ultra Soft Luxurious 4-Piece Bed Sheet Set, Queen, Gray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2499999972745806
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B00H0S99Z2": {
+            "asin": "B00H0S99Z2",
+            "height": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.3307086468
+            },
+            "name": "Orbeez - Ultimate Soothing Spa",
+            "normalizedName": "Orbeez - Ultimate Soothing Spa",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.084696322254094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.9685039248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

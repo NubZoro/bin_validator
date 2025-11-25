@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008E0R8ZS": {
+            "asin": "B008E0R8ZS",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "AnyCommand Universal Air Conditioner AC Remote Control ACR-20 with LCD Display",
+            "normalizedName": "AnyCommand Universal Air Conditioner AC Remote Control ACR-20 with LCD Display",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00H5B14ES": {
+            "asin": "B00H5B14ES",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "1000 Aluminum Pop Soda Beer Tabs",
+            "normalizedName": "1000 Aluminum Pop Soda Beer Tabs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B013RLJORI": {
+            "asin": "B013RLJORI",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Fun to be One - Boy 1st Birthday Party Balloon Kit",
+            "normalizedName": "Fun to be One - Boy 1st Birthday Party Balloon Kit",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

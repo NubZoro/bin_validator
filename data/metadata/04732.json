@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D1DP00S": {
+            "asin": "B00D1DP00S",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "True Lime Limeade Stick Pack, Black Cherry, 10 Count (1.06oz)",
+            "normalizedName": "True Lime Limeade Stick Pack, Black Cherry, 10 Count (1.06oz)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014DEIJOM": {
+            "asin": "B014DEIJOM",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Barbie Birthday Wishes 2016 Barbie Doll, Blonde",
+            "normalizedName": "Barbie Birthday Wishes 2016 Barbie Doll, Blonde",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

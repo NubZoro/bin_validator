@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000930B66": {
+            "asin": "B000930B66",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Hot Wheels 1:64 Monster Jam Assortment (21572)",
+            "normalizedName": "Hot Wheels 1:64 Monster Jam Assortment (21572)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B000FGWBD8": {
+            "asin": "B000FGWBD8",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Designs for Health - Brain Vitale - 60 Caps",
+            "normalizedName": "Designs for Health - Brain Vitale - 60 Caps",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00UTK65W8": {
+            "asin": "B00UTK65W8",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Colon Detox Cleanse, Super 14 Day Body Cleansing Pills for Weight Loss, Best Pure Natural Laxatives to Relieve Gas, Bloating & Constipation, Supports Digestion & Total Intestinal Health, 60 Capsules",
+            "normalizedName": "Colon Detox Cleanse, Super 14 Day Body Cleansing Pills for Weight Loss, Best Pure Natural Laxatives to Relieve Gas, Bloating & Constipation, Supports Digestion & Total Intestinal Health, 60 Capsules",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

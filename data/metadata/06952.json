@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1590172329": {
+            "asin": "1590172329",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "The Dud Avocado (New York Review Books Classics)",
+            "normalizedName": "The Dud Avocado (New York Review Books Classics)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B000FGWTZ8": {
+            "asin": "B000FGWTZ8",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "The Art of Shaving Pre-Shave Oil, Lemon, 2 fl. oz.",
+            "normalizedName": "The Art of Shaving Pre-Shave Oil, Lemon, 2 fl. oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B007NJT912": {
+            "asin": "B007NJT912",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "elure Advanced Brightening Lotion 45ml",
+            "normalizedName": "elure Advanced Brightening Lotion 45ml",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B00UM20UPQ": {
+            "asin": "B00UM20UPQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Opaque Compression Socks Knee-Hi Firm Support Open Toe (Medium, Beige) Compression stockings 20-30mmHg, Surgical Weight, medical compression socks, compression stockings post surgery, compression socks for men & woman",
+            "normalizedName": "Opaque Compression Socks Knee-Hi Firm Support Open Toe (Medium, Beige) Compression stockings 20-30mmHg, Surgical Weight, medical compression socks, compression stockings post surgery, compression socks for men & woman",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

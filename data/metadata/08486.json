@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CD3C8C": {
+            "asin": "B000CD3C8C",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Redken All Soft Shampoo, 10.1 Ounce",
+            "normalizedName": "Redken All Soft Shampoo, 10.1 Ounce",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00XVIYHSE": {
+            "asin": "B00XVIYHSE",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Cartman 1/4\" Elastic Cord Crafting Stretch String with Various Colors, 40kg x 50ft, with 4 More Hooks, Orange Color",
+            "normalizedName": "Cartman 1/4\" Elastic Cord Crafting Stretch String with Various Colors, 40kg x 50ft, with 4 More Hooks, Orange Color",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

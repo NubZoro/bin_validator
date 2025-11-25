@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0062073508": {
+            "asin": "0062073508",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Murder on the Orient Express: A Hercule Poirot Mystery (Hercule Poirot Mysteries)",
+            "normalizedName": "Murder on the Orient Express: A Hercule Poirot Mystery (Hercule Poirot Mysteries)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B003ZNITJS": {
+            "asin": "B003ZNITJS",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Kerastase Concentre Pixelist Treatment 4 X 0.41 fl. oz Vials",
+            "normalizedName": "Kerastase Concentre Pixelist Treatment 4 X 0.41 fl. oz Vials",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00AESJ1MG": {
+            "asin": "B00AESJ1MG",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "NeuroScience - Serene 60 Count",
+            "normalizedName": "NeuroScience - Serene 60 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

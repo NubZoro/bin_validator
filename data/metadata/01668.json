@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JF979EM": {
+            "asin": "B00JF979EM",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Profoot Plantar Fasciitis Men's 1 Pr (2 Pack)",
+            "normalizedName": "(2 Pack) Profoot Plantar Fasciitis Men's 1 Pr",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00PH4ALJY": {
+            "asin": "B00PH4ALJY",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.7007873978
+            },
+            "name": "B+W 82mm XS-Pro HTC Kaesemann Circular Polarizer with Multi-Resistant Nano Coating",
+            "normalizedName": "B+W 82mm XS-Pro HTC Kaesemann Circular Polarizer with Multi-Resistant Nano Coating",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600711644918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6220472404
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

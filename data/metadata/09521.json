@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HYZFO6O": {
+            "asin": "B00HYZFO6O",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Eye Cooling Cream For Dark Circles, Puffiness and Wrinkles By Diva Stuff",
+            "normalizedName": "Eye Cooling Cream For Dark Circles, Puffiness and Wrinkles By Diva Stuff",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00KZNOZA8": {
+            "asin": "B00KZNOZA8",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "BSN N.O.-XPLODE, Fruit Punch, 1.22 lb (30 Servings)",
+            "normalizedName": "BSN N.O.-XPLODE, Fruit Punch, 1.22 lb (30 Servings)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

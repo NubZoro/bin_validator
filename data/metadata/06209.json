@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003NHN8YW": {
+            "asin": "B003NHN8YW",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Reflections REF320KN Heavyweight Plastic Disposable Knives 40/PK WNAREF320KN",
+            "normalizedName": "Reflections REF320KN Heavyweight Plastic Disposable Knives 40/PK WNAREF320KN",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00WH1RG70": {
+            "asin": "B00WH1RG70",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Funny Guy Mugs I Love You More Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs I Love You More Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

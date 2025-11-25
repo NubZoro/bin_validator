@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0205743161": {
+            "asin": "0205743161",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Colonial America",
+            "normalizedName": "Colonial America",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "020583258X": {
+            "asin": "020583258X",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Client-Centered Evaluation: New Models for Helping Professionals",
+            "normalizedName": "Client-Centered Evaluation: New Models for Helping Professionals",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.62
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.2440944808
+            }
+        },
+        "0310492572": {
+            "asin": "0310492572",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Grasping God's Word: A Hands-On Approach to Reading, Interpreting, and Applying the Bible",
+            "normalizedName": "Grasping God's Word: A Hands-On Approach to Reading, Interpreting, and Applying the Bible",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

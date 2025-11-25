@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00N0FOK58": {
+            "asin": "B00N0FOK58",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Vaseline Men Spray Lotion, Fast Absorbing 6.5 oz, Twin Pack",
+            "normalizedName": "Vaseline Men Spray Lotion, Fast Absorbing 6.5 oz, Twin Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00N4ABODK": {
+            "asin": "B00N4ABODK",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Fox amiibo (Super Smash Bros Series)",
+            "normalizedName": "Fox amiibo (Super Smash Bros Series)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

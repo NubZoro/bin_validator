@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003NGRE7U": {
+            "asin": "B003NGRE7U",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991738
+            },
+            "name": "NFL Dallas Cowboys Woven Golf Towel",
+            "normalizedName": "NFL Dallas Cowboys Woven Golf Towel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

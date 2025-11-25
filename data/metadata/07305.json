@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0077318838": {
+            "asin": "0077318838",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.9448818786
+            },
+            "name": "International Business: The Challenge of Global Competition w/ CESIM access card",
+            "normalizedName": "International Business: The Challenge of Global Competition w/ CESIM access card",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.7401574714
+            }
+        },
+        "007811277X": {
+            "asin": "007811277X",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "International Business: Competing in the Global Marketplace",
+            "normalizedName": "International Business: Competing in the Global Marketplace",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "0766813983": {
+            "asin": "0766813983",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "I-Car Professional Automotive Collision Repair",
+            "normalizedName": "I-Car Professional Automotive Collision Repair",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00VG7VZ7I": {
+            "asin": "B00VG7VZ7I",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "YouCopia StoreMore Adjustable Bakeware Rack",
+            "normalizedName": "YouCopia StoreMore Adjustable Bakeware Rack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B00VKT8Q88": {
+            "asin": "B00VKT8Q88",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Set of 2 Planter Saucer with Wheels (Green)",
+            "normalizedName": "Set of 2  Planter Saucer with Wheels (Green)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

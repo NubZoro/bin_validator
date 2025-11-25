@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01CUUG2SG": {
+            "asin": "B01CUUG2SG",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Senkada Tea Black Tea Ginger Lemon & Honey",
+            "normalizedName": "Senkada Tea Black Tea Ginger Lemon & Honey",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1899999998406678
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

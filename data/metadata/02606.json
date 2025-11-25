@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AZ55T9C": {
+            "asin": "B00AZ55T9C",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Italian Home Collection Luxury Soft Wrinkle Resistant Striped Queen Sheet Set, GOLD",
+            "normalizedName": "Italian Home Collection Luxury Soft Wrinkle Resistant Striped Queen Sheet Set, GOLD",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00FYYZ3T0": {
+            "asin": "B00FYYZ3T0",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Abundant Chef (TM) Premium 9 Piece Ceramic Cutlery Knife and Peeler Set (6\" Chef's, 5\" Utility, 4\" Paring, 3\" Fruit Knife, with One Peeler) Black Handle and White Blade, 4 Sheaths",
+            "normalizedName": "Abundant Chef (TM) Premium 9 Piece Ceramic Cutlery Knife and Peeler Set (6\" Chef's, 5\" Utility, 4\" Paring, 3\" Fruit Knife, with One Peeler) Black Handle and White Blade, 4 Sheaths",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

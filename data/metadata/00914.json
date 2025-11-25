@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000PH0684": {
+            "asin": "B000PH0684",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Ice Pack (6x10 Size)",
+            "normalizedName": "Ice Pack (6x10 Size)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B01DXVJXKU": {
+            "asin": "B01DXVJXKU",
+            "height": {
+                "unit": "IN",
+                "value": 1.7716535415
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.724409444
+            },
+            "name": "Toprime&#174;Waterproof U9 Fitness Tracker Sleep Monitor Pedometer Watch Anti-lost Bluetooth Sync,Black",
+            "normalizedName": "Toprime&#174;Waterproof U9 Fitness Tracker Sleep Monitor Pedometer Watch Anti-lost Bluetooth Sync,Black",
+            "quantity": 5,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.149606296
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

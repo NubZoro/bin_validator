@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0083LE73Y": {
+            "asin": "B0083LE73Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Coats Yarn Red Heart Soft Yarn, Charcoal",
+            "normalizedName": "Coats Yarn Red Heart Soft Yarn, Charcoal",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00PX80Q1M": {
+            "asin": "B00PX80Q1M",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "RCA 7\" Voyager Tablet 8GB Quad Core - Charcoal",
+            "normalizedName": "RCA 7\" Voyager Tablet 8GB Quad Core - Charcoal",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00UOOAAP2": {
+            "asin": "B00UOOAAP2",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "HOMMP Tall Kitchen Trash Bags 13 Gallon,120 Counts",
+            "normalizedName": "HOMMP Tall Kitchen Trash Bags 13 Gallon,120 Counts",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KIG3WPQ": {
+            "asin": "B00KIG3WPQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "smartwater, 6 ct, 1L Bottle",
+            "normalizedName": "smartwater, 6 ct, 1L Bottle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 13.849999988385518
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00OJWLNMO": {
+            "asin": "B00OJWLNMO",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "BLACK+DECKER BDEMS600 Mouse Detail Sander",
+            "normalizedName": "BLACK+DECKER BDEMS600 Mouse Detail Sander",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

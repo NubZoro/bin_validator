@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HZJ7X1S": {
+            "asin": "B00HZJ7X1S",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Egyptian Cotton 650 Thread Count Full 4-Piece Sheet Set, Deep Pocket, Single Ply, Stripe, Grey",
+            "normalizedName": "Egyptian Cotton 650 Thread Count Full 4-Piece Sheet Set, Deep Pocket, Single Ply, Stripe, Grey",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.599999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B01GKUDGF4": {
+            "asin": "B01GKUDGF4",
+            "height": {
+                "unit": "IN",
+                "value": 2.7559055061889763
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.385826744346456
+            },
+            "name": "Waker Professional Titanium Flat Iron, Digital Ceramic Ionic Hair Straightener, Dual Voltage 110-220v, 1-inch",
+            "normalizedName": "Waker Professional Titanium Flat Iron, Digital Ceramic Ionic Hair Straightener, Dual Voltage 110-220v, 1-inch",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.9370078659842522
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

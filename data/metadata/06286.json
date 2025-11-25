@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C3I3BUS": {
+            "asin": "B00C3I3BUS",
+            "height": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Lucky Bums Youth 0-Degree Serenity II Sleeping Bag, Green",
+            "normalizedName": "Lucky Bums Youth 0-Degree Serenity II Sleeping Bag, Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B015RK39R8": {
+            "asin": "B015RK39R8",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Rabbit Freezable Beer/Beverage Glasses (Clear/Black, Set of 2)",
+            "normalizedName": "Set of 2 Rabbit Freezable Beer/Beverage Glasses (Clear/Black, )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4499999979454534
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

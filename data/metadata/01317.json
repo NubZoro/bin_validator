@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000RYKOMS": {
+            "asin": "B000RYKOMS",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990106
+            },
+            "name": "Safari Ltd  Wild Safari Tyrannosaurus Rex",
+            "normalizedName": "Safari Ltd  Wild Safari Tyrannosaurus Rex",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01AQG9FJ4": {
+            "asin": "B01AQG9FJ4",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Zizo Bolt Cover For Galaxy Amp Prime | Galaxy J3 [.33mm 9H Tempered Glass Screen Protector] Dual-Layered [Military Grade] Case Kickstand Belt Clip-Black/Black",
+            "normalizedName": "Zizo Bolt Cover For Galaxy Amp Prime | Galaxy J3 [.33mm 9H Tempered Glass Screen Protector] Dual-Layered [Military Grade] Case Kickstand Belt Clip-Black/Black",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

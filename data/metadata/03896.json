@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000CF68V": {
+            "asin": "B0000CF68V",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "John Boos 12-Inch Square End Grain Chopping Block with Feet",
+            "normalizedName": "John Boos 12-Inch Square End Grain Chopping Block with Feet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        },
+        "B001HT5TIG": {
+            "asin": "B001HT5TIG",
+            "height": {
+                "unit": "IN",
+                "value": 2.199999997756
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Winco AMF-12NS 12-Cup Non-stick Muffin and Cupcake Pan, Tin Plated",
+            "normalizedName": "Winco AMF-12NS 12-Cup Non-stick Muffin and Cupcake Pan, Tin Plated",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B004445T7C": {
+            "asin": "B004445T7C",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.299999983374
+            },
+            "name": "Napoleon 62035 PRO Stainless Steel Grill Brush",
+            "normalizedName": "Napoleon 62035 PRO Stainless Steel Grill Brush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

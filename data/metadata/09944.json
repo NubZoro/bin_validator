@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000V0DM9K": {
+            "asin": "B000V0DM9K",
+            "height": {
+                "unit": "IN",
+                "value": 2.199999997756
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Daron Southwest Airlines Plush Toy Airplane with Sound",
+            "normalizedName": "Daron Southwest Airlines Plush Toy Airplane with Sound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0062IBCMY": {
+            "asin": "B0062IBCMY",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Bosch BS5618-15S 56-1/8-Inch by 1/8-Inch by 15TPI Wood Bandsaw Blade",
+            "normalizedName": "Bosch BS5618-15S 56-1/8-Inch by 1/8-Inch by 15TPI Wood Bandsaw Blade",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00UCDIBJ2": {
+            "asin": "B00UCDIBJ2",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Reptile Hide Box (C- Medium)",
+            "normalizedName": "Reptile Hide Box (C- Medium)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B01A50LX64": {
+            "asin": "B01A50LX64",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "BZONE IP65 Waterproof Solar Powered Flexible Outdoor LED Rope Light Copper Wire Fairy String Lights for Home Garden Path Stairway Patio Lawn Decoration (16.4ft 50LED, Warm White)",
+            "normalizedName": "BZONE IP65 Waterproof Solar Powered Flexible Outdoor LED Rope Light Copper Wire Fairy String Lights for Home Garden Path Stairway Patio Lawn Decoration (16.4ft 50LED, Warm White)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

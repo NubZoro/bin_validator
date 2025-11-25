@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002LHA74O": {
+            "asin": "B002LHA74O",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Super Jumbo Playing Cards",
+            "normalizedName": "Super Jumbo Playing Cards",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00QYIVWOU": {
+            "asin": "B00QYIVWOU",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "JEBSENS - Z2 Super Bright Clamp On LED Desk Lamp - Large Clamp Clip Anywhere with Flexible Goose Neck , 7W 3 Brightness Level Touch Dimmer, Eye-Care, 5000K Daylight White",
+            "normalizedName": "JEBSENS - Z2 Super Bright Clamp On LED Desk Lamp - Large Clamp Clip Anywhere with Flexible Goose Neck , 7W 3 Brightness Level Touch Dimmer, Eye-Care, 5000K Daylight White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B00SO7HLEY": {
+            "asin": "B00SO7HLEY",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Fisher-Price Imaginext DC Super Friends Transforming Batmobile",
+            "normalizedName": "Fisher-Price Imaginext DC Super Friends Transforming Batmobile",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.399999987352
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

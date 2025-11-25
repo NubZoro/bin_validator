@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008BI7AZG": {
+            "asin": "B008BI7AZG",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Watch Box 6 Mens Black Leather Display Glass Top Jewelry Case Organizer",
+            "normalizedName": "Watch Box 6 Mens Black Leather Display Glass Top Jewelry Case Organizer",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00WHSV2MS": {
+            "asin": "B00WHSV2MS",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "SGL 6\" Dimmable LED Downlight, Energy Star and UL Listed, 13W (100W Replacement), 4000K Netural White, 1080 Lumens, Retrofit LED Recessed Lighting Fixture, LED Ceiling Light, Recessed Downlight, Pack of 4 Units",
+            "normalizedName": "Pack of 4 SGL 6\" Dimmable LED Downlight, Energy Star and UL Listed, 13W (100W Replacement), 4000K Netural White, 1080 Lumens, Retrofit LED Recessed Lighting Fixture, LED Ceiling Light, Recessed Downlight, Units",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.799999985924
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

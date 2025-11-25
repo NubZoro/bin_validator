@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D9AOU3G": {
+            "asin": "B00D9AOU3G",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "LG Optimus F3 Black (Virgin Mobile)",
+            "normalizedName": "LG Optimus F3 Black (Virgin Mobile)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01GFA3C44": {
+            "asin": "B01GFA3C44",
+            "height": {
+                "unit": "IN",
+                "value": 0.99606299111
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.59842518502
+            },
+            "name": "Neleus Men's Athletic Lightweight Shorts with Pockets,805,Yellow & Brown,USA L,Tag XL",
+            "normalizedName": "Neleus Men's Athletic Lightweight Shorts with Pockets,805,Yellow & Brown,USA L,Tag XL",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2333152118746
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49606298346
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008GZ7Q12": {
+            "asin": "B008GZ7Q12",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "MikroTik RB2011iLS-IN 10 Ethernet Ports RouterBoard",
+            "normalizedName": "MikroTik RB2011iLS-IN 10 Ethernet Ports RouterBoard",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B01DKX8CD0": {
+            "asin": "B01DKX8CD0",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "The Sunrise*Glass Filtering Tea Maker Teapot with a Warmer and 6 Tea Cups (25*15*11cm, red1) (4 cups)",
+            "normalizedName": "The Sunrise*Glass Filtering Tea Maker Teapot with a Warmer and 6 Tea Cups (25*15*11cm, red1) (4 cups)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

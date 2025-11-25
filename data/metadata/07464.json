@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008NOCYWC": {
+            "asin": "B008NOCYWC",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Indus Organic High Purity Turmeric Powder, 8 Ounce",
+            "normalizedName": "Indus Organic High Purity Turmeric Powder, 8 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0345511395": {
+            "asin": "0345511395",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8503936938
+            },
+            "name": "Star Wars: The Old Republic - Deceived (Star Wars: The Old Republic - Legends)",
+            "normalizedName": "Star Wars: The Old Republic - Deceived (Star Wars: The Old Republic - Legends)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        },
+        "B00UKEKHJK": {
+            "asin": "B00UKEKHJK",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Paw Patrol Puzzle Pack by Cardinal 11x15 inches",
+            "normalizedName": "Paw Patrol Puzzle Pack by Cardinal 11x15 inches",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00YQNVIXU": {
+            "asin": "B00YQNVIXU",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.0
+            },
+            "name": "1992 Street & Smith's Pro Football Preview Magazine- Lawrence Taylor",
+            "normalizedName": "1992 Street & Smith's Pro Football Preview Magazine- Lawrence Taylor",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 8.5
+            }
+        },
+        "B00ZC27TSW": {
+            "asin": "B00ZC27TSW",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "JCSPORTLINE Car Steering Light Auto Led Turn Signal Fender Side Light/Lamp 1 Pair (White)",
+            "normalizedName": "JCSPORTLINE Car Steering Light Auto Led Turn Signal Fender Side Light/Lamp 1 Pair (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

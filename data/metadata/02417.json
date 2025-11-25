@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "081299860X": {
+            "asin": "081299860X",
+            "height": {
+                "unit": "IN",
+                "value": 1.3385826758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.5826771566
+            },
+            "name": "The Girls: A Novel",
+            "normalizedName": "The Girls: A Novel",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05820805604419
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "1603584684": {
+            "asin": "1603584684",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "The Gourmet Butcher's Guide to Meat: How to Source it Ethically, Cut it Professionally, and Prepare it Properly (with CD)",
+            "normalizedName": "The Gourmet Butcher's Guide to Meat: How to Source it Ethically, Cut it Professionally, and Prepare it Properly (with CD)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B00IDAC778": {
+            "asin": "B00IDAC778",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "ETD 4.0 Pressure Washer Rotating Turbo Nozzle 3000 PSI 3 GPM with 1/4\" Quick Connect Plug",
+            "normalizedName": "ETD 4.0 Pressure Washer Rotating Turbo Nozzle 3000 PSI 3 GPM with 1/4\" Quick Connect Plug",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B0132X5AP6": {
+            "asin": "B0132X5AP6",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "100% Egyptian Cotton 400 Thread Count Soft and Smooth 2 Piece Pillowcases, King, Solid Burgundy",
+            "normalizedName": "100% Egyptian Cotton 400 Thread Count Soft and Smooth 2 Piece Pillowcases, King, Solid Burgundy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

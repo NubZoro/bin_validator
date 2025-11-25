@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003PQRAHC": {
+            "asin": "B003PQRAHC",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Zipfizz Liquid Energy Shot, Fruit Punch, 24-count",
+            "normalizedName": "Zipfizz Liquid Energy Shot, Fruit Punch, 24-count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.9365604203314275
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B008RWUKXK": {
+            "asin": "B008RWUKXK",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "KIND Healthy Grains Granola Clusters, Oats and Honey with Toasted Coconut, Gluten Free, 11 Ounce Bags, 3 Count",
+            "normalizedName": "KIND Healthy Grains Granola Clusters, Oats and Honey with Toasted Coconut, Gluten Free, 11 Ounce Bags, 3 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.299999998071242
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00H0CV9TM": {
+            "asin": "B00H0CV9TM",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Motorola Buds Universal Bluetooth Stereo Headset - Retail Packaging - Black",
+            "normalizedName": "Motorola Buds Universal Bluetooth Stereo Headset - Retail Packaging - Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

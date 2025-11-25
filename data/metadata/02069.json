@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004S93D62": {
+            "asin": "B004S93D62",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452
+            },
+            "name": "Beta Premium Readers with Spring Hinges +150 (Pack of 3)",
+            "normalizedName": "(Pack of 3) Beta Premium Readers with Spring Hinges +150",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

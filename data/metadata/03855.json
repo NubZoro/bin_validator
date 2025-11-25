@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007C5S3AU": {
+            "asin": "B007C5S3AU",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Samsung Premium Stereo Headset, 3.5mm, Non-Retail Packaging, White",
+            "normalizedName": "Samsung Premium Stereo Headset, 3.5mm, Non-Retail Packaging, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.799999999184
+            }
+        },
+        "B015Z8J1OW": {
+            "asin": "B015Z8J1OW",
+            "height": {
+                "unit": "IN",
+                "value": 1.499996998470003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.89999019500201
+            },
+            "name": "AUKEY 5000mAh Portable Charger - Mini Power Bank for iPhone6S, 6, 6 Plus, iPad Air 2, Samsung Galaxy S6/Note 5 & More - Blue",
+            "normalizedName": "AUKEY 5000mAh Portable Charger - Mini Power Bank for iPhone6S, 6, 6 Plus, iPad Air 2, Samsung Galaxy S6/Note 5 & More - Blue",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999781445639
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.8999941970420053
+            }
+        },
+        "B01B6F1LT6": {
+            "asin": "B01B6F1LT6",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Pure Antarctic Krill Oil with Astaxanthin - 1000mg - High Concentration of DHA and EPA Omega 3s and Phosphlipids - 100% Gauranteed by Active Laboratory",
+            "normalizedName": "Pure Antarctic Krill Oil with Astaxanthin - 1000mg - High Concentration of DHA and EPA Omega 3s and Phosphlipids - 100% Gauranteed by Active Laboratory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

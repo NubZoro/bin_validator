@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01CUUG2SG": {
+            "asin": "B01CUUG2SG",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Senkada Tea Black Tea Ginger Lemon & Honey",
+            "normalizedName": "Senkada Tea Black Tea Ginger Lemon & Honey",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1899999998406678
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01ER3GNHE": {
+            "asin": "B01ER3GNHE",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Toner Kingdom 3,000 & 2,500 High Yield Laser Toner Cartridge Compatible for Dell H625, H825, S2825 Printer, 1 Set(Black, Cyan, Yellow, Magenta)",
+            "normalizedName": "Toner Kingdom 3,000 & 2,500 High Yield Laser Toner Cartridge Compatible for Dell H625, H825, S2825 Printer, 1 Set(Black, Cyan, Yellow, Magenta)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

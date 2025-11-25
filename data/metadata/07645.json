@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0062410059": {
+            "asin": "0062410059",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Warriors: Dawn of the Clans #5: A Forest Divided",
+            "normalizedName": "Warriors: Dawn of the Clans #5: A Forest Divided",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00Z0P6R2A": {
+            "asin": "B00Z0P6R2A",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "TY Beanie Boos Friends Board Game",
+            "normalizedName": "TY Beanie Boos Friends Board Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B01B2745SM": {
+            "asin": "B01B2745SM",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            },
+            "name": "GOLME Superlative Match Soccer Ball - Solar Yellow Size 5",
+            "normalizedName": "GOLME Superlative Match Soccer Ball - Solar Yellow Size 5",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452686
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

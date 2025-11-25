@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BQHFM9K": {
+            "asin": "B00BQHFM9K",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Woodstock Rainbow Maker Collection, Crystal Spiral- Rainbow Hearts",
+            "normalizedName": "Woodstock Rainbow Maker Collection, Crystal Spiral- Rainbow Hearts",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00WH3V55C": {
+            "asin": "B00WH3V55C",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Blue and Gold Feathered Chevron Pattern- 8 by Rosie Parker",
+            "normalizedName": "Blue and Gold Feathered Chevron Pattern- 8 by Rosie Parker",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

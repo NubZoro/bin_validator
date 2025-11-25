@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00WXYDZ2G": {
+            "asin": "B00WXYDZ2G",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.0
+            },
+            "name": "UN92 Coastline Board Shorts China Blue 32",
+            "normalizedName": "UN92 Coastline Board Shorts China Blue 32",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 9.0
+            }
+        },
+        "B01B3BHLH4": {
+            "asin": "B01B3BHLH4",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Star Wars Lightsaber Pen Set --3 Pens and Bonus The Force Awakens Weekly Notepad",
+            "normalizedName": "3 Pens Star Wars Lightsaber Pen Set -- and Bonus The Force Awakens Weekly Notepad",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B01G3Y95W0": {
+            "asin": "B01G3Y95W0",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Water balloons\uff0cHigh Quality GameWood 296 total water balloons\uff0c4 different colors\uff0c FIll in 1 minute.",
+            "normalizedName": "Water balloons\uff0cHigh Quality GameWood 296 total water balloons\uff0c4 different colors\uff0c FIll in 1 minute.",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

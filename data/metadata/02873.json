@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000JJJ5OY": {
+            "asin": "B000JJJ5OY",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Nikon 7247 Action 16x50 EX Extreme All-Terrain Binocular",
+            "normalizedName": "Nikon 7247 Action 16x50 EX Extreme All-Terrain Binocular",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B015U3WGOY": {
+            "asin": "B015U3WGOY",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Cool Toner CC1491A002-E40B Compatible Toner Replacement for Canon Cartridge E40 (Black)",
+            "normalizedName": "Cool Toner CC1491A002-E40B Compatible Toner Replacement for Canon Cartridge E40 (Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01GSDS1XK": {
+            "asin": "B01GSDS1XK",
+            "height": {
+                "unit": "IN",
+                "value": 0.8
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.0
+            },
+            "name": "Apple MacBook Air 13'' Case(US Flag)",
+            "normalizedName": "Apple MacBook Air 13'' Case(US Flag)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 9.1
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

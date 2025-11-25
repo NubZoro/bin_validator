@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00X4SGP9K": {
+            "asin": "B00X4SGP9K",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Stain Station Stain-Removal System",
+            "normalizedName": "Stain Station Stain-Removal System",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B016757MO8": {
+            "asin": "B016757MO8",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Kole GW323 Multi-Purpose Laser Level with Suction Mount",
+            "normalizedName": "Kole GW323 Multi-Purpose Laser Level with Suction Mount",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01BLDDPZG": {
+            "asin": "B01BLDDPZG",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "RTIC 20 Oz Stainless Steel Tumbler",
+            "normalizedName": "RTIC 20 Oz Stainless Steel Tumbler",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.8999999975680875
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B01C27N2US": {
+            "asin": "B01C27N2US",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Pop! Marvel Leaping Deadpool Collector Corps Exclusive Vinyl Figure",
+            "normalizedName": "Pop! Marvel Leaping Deadpool Collector Corps Exclusive Vinyl Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

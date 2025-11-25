@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VSCVO9K": {
+            "asin": "B00VSCVO9K",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "220 Disposable Diaper Refill Bags with FREE Dispenser, Unscented (Color: Pink)",
+            "normalizedName": "220 Disposable Diaper Refill Bags with FREE Dispenser, Unscented (Color: Pink)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01EKLFEVY": {
+            "asin": "B01EKLFEVY",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "Star Wars Comic Book Panel Coin/Cosmetic Bag",
+            "normalizedName": "Star Wars Comic Book Panel Coin/Cosmetic Bag",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

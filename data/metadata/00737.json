@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0891075615": {
+            "asin": "0891075615",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "The Francis A. Schaeffer Trilogy: Three Essential Books in One Volume",
+            "normalizedName": "The Francis A. Schaeffer Trilogy: Three Essential Books in One Volume",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B0108Z7I9M": {
+            "asin": "B0108Z7I9M",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Apple iPad Mini 4 Case, INNOVAA Fashion Studded Rhinestone Armor Case W/ Touch Screen Stylus Pen - Light Pink",
+            "normalizedName": "Apple iPad Mini 4 Case, INNOVAA Fashion Studded Rhinestone Armor Case W/ Touch Screen Stylus Pen - Light Pink",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

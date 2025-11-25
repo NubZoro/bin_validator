@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NBQUNW": {
+            "asin": "B000NBQUNW",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Benecol Smart Chews, Caramel, 120-Count Soft Chews",
+            "normalizedName": "Benecol Smart Chews, Caramel, 120-Count Soft Chews",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B014XF80S6": {
+            "asin": "B014XF80S6",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "FakeFace Kids Stretchy Cotton Knee Pads Brace Warp Sleeve For Kids Sport Dance",
+            "normalizedName": "FakeFace Kids Stretchy Cotton Knee Pads Brace Warp Sleeve For Kids Sport Dance",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

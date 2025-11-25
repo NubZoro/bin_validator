@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003O680RM": {
+            "asin": "B003O680RM",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "The Sly Collection - Playstation 3",
+            "normalizedName": "The Sly Collection - Playstation 3",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001AT4IE4": {
+            "asin": "B001AT4IE4",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Pet Naturals Hip & Joint for Cats (45 count)",
+            "normalizedName": "Pet Naturals Hip & Joint for Cats (45 count)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00573LLPI": {
+            "asin": "B00573LLPI",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Baby Aspen \"Sweet Feet\" Three Scoops of Socks Gift Set, Pink",
+            "normalizedName": "Baby Aspen \"Sweet Feet\" Three Scoops of Socks Gift Set, Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B015JQ60NA": {
+            "asin": "B015JQ60NA",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Samsung Gear S2 Smartwatch - Classic",
+            "normalizedName": "Samsung Gear S2 Smartwatch - Classic",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

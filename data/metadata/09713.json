@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014AHMW5Y": {
+            "asin": "B014AHMW5Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Barbie Fashionistas Doll 30 White & Pink Pizzazz - Tall",
+            "normalizedName": "Barbie Fashionistas Doll 30 White & Pink Pizzazz - Tall",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

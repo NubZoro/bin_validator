@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001TNCK0": {
+            "asin": "B0001TNCK0",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Now Foods Apple Cider Vinegar, 450 mg Capsules, 180-Count",
+            "normalizedName": "Now Foods Apple Cider Vinegar, 450 mg Capsules, 180-Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00JH2RD2U": {
+            "asin": "B00JH2RD2U",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Baby Fanatic BFA-LAD30002 Los Angeles Dodgers MLB Infant Bib and Shoe Gift Set",
+            "normalizedName": "Baby Fanatic BFA-LAD30002 Los Angeles Dodgers MLB Infant Bib and Shoe Gift Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

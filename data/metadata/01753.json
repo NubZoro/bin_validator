@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0024NKMA4": {
+            "asin": "B0024NKMA4",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Splash-A-Round Pools SEC385 Waterfall Spray Pool Fountain",
+            "normalizedName": "Splash-A-Round Pools SEC385 Waterfall Spray Pool Fountain",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00YNSB34W": {
+            "asin": "B00YNSB34W",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Hori Hori Knife: BlizeTec Multipurpose Gardening Digging Tool Kit",
+            "normalizedName": "Hori Hori Knife: BlizeTec Multipurpose Gardening Digging Tool Kit",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01CQWYCQC": {
+            "asin": "B01CQWYCQC",
+            "height": {
+                "unit": "IN",
+                "value": 1.6999999982660001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Superfeet Women's Me Fashion Comfort Full Length Shoe Insoles, Opal, Large/8.5-10 M US",
+            "normalizedName": "Superfeet Women's Me Fashion Comfort Full Length Shoe Insoles, Opal, Large/8.5-10 M US",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645638
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

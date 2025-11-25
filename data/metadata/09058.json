@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009NCH946": {
+            "asin": "B009NCH946",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Eathtek New Laptop Keyboard for Toshiba Satellite C655 L655 C655D L655D seris Black US Layout",
+            "normalizedName": "Eathtek New Laptop Keyboard for Toshiba Satellite C655 L655 C655D L655D seris Black US Layout",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00FGFSZQ0": {
+            "asin": "B00FGFSZQ0",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Star Trek:The Original Series Art Prints Set 12",
+            "normalizedName": "Star Trek:The Original Series Art Prints Set 12",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B00ND5ZPLI": {
+            "asin": "B00ND5ZPLI",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Marvel Avengers Hulk Gamma Grip Fists",
+            "normalizedName": "Marvel Avengers Hulk Gamma Grip Fists",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

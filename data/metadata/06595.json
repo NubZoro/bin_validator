@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000AY1D6": {
+            "asin": "B0000AY1D6",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Flambeau Tackle Spinnerbait Utility Box (Clear, 6.5x4.625x4.125-Inch)",
+            "normalizedName": "Flambeau Tackle Spinnerbait Utility Box (Clear, 6.5x4.625x4.125-Inch)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B0041YIC56": {
+            "asin": "B0041YIC56",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Crews FF210 ForceFlex 2  Safety Glasses with Black Frame and Clear Lens, 1 Pair",
+            "normalizedName": "Crews FF210 ForceFlex 2  Safety Glasses with Black Frame and Clear Lens, 1 Pair",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B0134TU5Q2": {
+            "asin": "B0134TU5Q2",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Samsung Galaxy Note 5, Black\u00a0 32GB (Sprint)",
+            "normalizedName": "Samsung Galaxy Note 5, Black\u00a0 32GB (Sprint)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

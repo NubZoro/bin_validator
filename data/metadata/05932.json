@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004JMZQQS": {
+            "asin": "B004JMZQQS",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Music City Metals 29561 Cast Iron Burner Replacement for Kenmore Gas Grill",
+            "normalizedName": "Music City Metals 29561 Cast Iron Burner Replacement for Kenmore Gas Grill",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00Y2DB0PU": {
+            "asin": "B00Y2DB0PU",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Careshine USA!Dental Surgical Binocular Loupes 3.5X Optical Glass420mm+LED Head Lamp light RED",
+            "normalizedName": "Careshine USA!Dental Surgical Binocular Loupes 3.5X Optical Glass420mm+LED Head Lamp light RED",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0871404788": {
+            "asin": "0871404788",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "After Mandela: The Struggle for Freedom in Post-Apartheid South Africa",
+            "normalizedName": "After Mandela: The Struggle for Freedom in Post-Apartheid South Africa",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B000XAP08E": {
+            "asin": "B000XAP08E",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989086
+            },
+            "name": "Design Originals-Jewelry With Wire",
+            "normalizedName": "Design Originals-Jewelry With Wire",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B0032QA5C2": {
+            "asin": "B0032QA5C2",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "SUPER PRO 3-in-1 NICKEL FILE",
+            "normalizedName": "SUPER PRO 3-in-1 NICKEL FILE",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01FJG7V2E": {
+            "asin": "B01FJG7V2E",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168001
+            },
+            "name": "P2P@zita 190T Nylon Waterproof Bike/ Bicycle Cover (Size: L) and Black soft gel relief bike saddle seat cushion pad cover",
+            "normalizedName": "P2P@zita 190T Nylon Waterproof Bike/ Bicycle Cover (Size: L) and Black soft gel relief bike saddle seat cushion pad cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.23499999812575
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B01FYQPPKY": {
+            "asin": "B01FYQPPKY",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999985312
+            },
+            "name": "WODISON Lightweight Sports Gym Beach Drawstring Mesh Backpack Sackpack Black",
+            "normalizedName": "WODISON Lightweight Sports Gym Beach Drawstring Mesh Backpack Sackpack Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001149099725
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999985516
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CO86EG": {
+            "asin": "B000CO86EG",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Torin T90603 Hydraulic Jack - 6 Ton",
+            "normalizedName": "Torin T90603 Hydraulic Jack - 6 Ton",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00EE79EZM": {
+            "asin": "B00EE79EZM",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "COOLING TOWEL - Stay Cool with the Advanced Hyper-Absorbent Cooling Sports Towel, Highly Effective Golf Towel, Gym and Yoga Towel - Quality Cooling Towel For All Sports Players",
+            "normalizedName": "COOLING TOWEL - Stay Cool with the Advanced Hyper-Absorbent Cooling Sports Towel, Highly Effective Golf Towel, Gym and Yoga Towel - Quality Cooling Towel For All Sports Players",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

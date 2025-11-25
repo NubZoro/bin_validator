@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001E67XZ4": {
+            "asin": "B001E67XZ4",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Staedtler 12-Inches Architect Triangular Scale (98718-31BK)",
+            "normalizedName": "Staedtler 12-Inches Architect Triangular Scale (98718-31BK)",
+            "quantity": 14,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B006GZMG6Y": {
+            "asin": "B006GZMG6Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.5590551155
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.5433070728
+            },
+            "name": "Hobby Boss Meng Shi 1.5 Ton Military Light Utility Vehicle Model Building Kit",
+            "normalizedName": "Hobby Boss Meng Shi 1.5 Ton Military Light Utility Vehicle Model Building Kit",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.8188976288
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 17
+}

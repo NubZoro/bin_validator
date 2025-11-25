@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0020BV2ZY": {
+            "asin": "B0020BV2ZY",
+            "height": {
+                "unit": "IN",
+                "value": 3.699999996226
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Equate - Fiber Powder, Clear Soluble, 125 Servings, 16.7 oz (Compare to Benefiber)",
+            "normalizedName": "Equate - Fiber Powder, Clear Soluble, 125 Servings, 16.7 oz (Compare to Benefiber)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B01C89DTFI": {
+            "asin": "B01C89DTFI",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "YI Smart Dash Camera Car DVR Night Vision HD 1080P, Golden",
+            "normalizedName": "YI Smart Dash Camera Car DVR Night Vision HD 1080P, Golden",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

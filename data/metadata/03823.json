@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001C88M90": {
+            "asin": "B001C88M90",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.899999982761997
+            },
+            "name": "Fellowes Designer Suites Monitor Riser",
+            "normalizedName": "Fellowes Designer Suites Monitor Riser",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B00G8WVGSE": {
+            "asin": "B00G8WVGSE",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "VETOQUINOL 30 Count Enzadent Chews, Medium",
+            "normalizedName": "VETOQUINOL 30 Count Enzadent Chews, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 16.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.99999998572
+            }
+        },
+        "B01ASRCQPG": {
+            "asin": "B01ASRCQPG",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "H.Versailtex Thermal Insulated Innovated High Density Microfiber Home Fashion Blackout Curtains Window Drapes,Grommet Top,52 by 96 - Inch - Turquoise Blue - Set of 2 Panels",
+            "normalizedName": "Set of 2 H.Versailtex Thermal Insulated Innovated High Density Microfiber Home Fashion Blackout Curtains Window Drapes,Grommet Top,52 by 96 - Inch - Turquoise Blue - Panels",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9299999967043386
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

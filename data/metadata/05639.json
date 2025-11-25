@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001228RNM": {
+            "asin": "B001228RNM",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Monin Simple Syrup, Pure Cane, 33.8-Ounce Plastic Bottles (Pack of 4)",
+            "normalizedName": "(Pack of 4) Monin Simple Syrup, Pure Cane, 33.8-Ounce Plastic Bottles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00QNSS29E": {
+            "asin": "B00QNSS29E",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Tricam Farm and Ranch FR2106 No-Flat Replacement Turf Tire for Hand Trucks and Utility Carts, 10-Inch",
+            "normalizedName": "Tricam Farm and Ranch FR2106 No-Flat Replacement Turf Tire for Hand Trucks and Utility Carts, 10-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B017VN8WZI": {
+            "asin": "B017VN8WZI",
+            "height": {
+                "unit": "IN",
+                "value": 4.249999995665
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "Scotts EZ Bermudagrass Lawns Grass Seed 10 LB",
+            "normalizedName": "Scotts EZ Bermudagrass Lawns Grass Seed 10 LB",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.799999990943222
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

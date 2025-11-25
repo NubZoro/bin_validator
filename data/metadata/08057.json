@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000SE1XHW": {
+            "asin": "B000SE1XHW",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "Wilton 12-Piece Mini Halloween Cookie Cutter Set",
+            "normalizedName": "Wilton 12-Piece Mini Halloween Cookie Cutter Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

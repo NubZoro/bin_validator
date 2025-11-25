@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NODETZW": {
+            "asin": "B00NODETZW",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "XSPC G1/4\" to 1/2\" ID, 3/4\" OD Compression Fitting Black Chrome V2 - 4 pack",
+            "normalizedName": "XSPC G1/4\" to 1/2\" ID, 3/4\" OD Compression Fitting Black Chrome V2 - 4 pack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00V2RP5AK": {
+            "asin": "B00V2RP5AK",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Swiftech G1/4\" to 1/2\" Barb Fitting, Black, 4-pack",
+            "normalizedName": "Swiftech G1/4\" to 1/2\" Barb Fitting, Black, 4-pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

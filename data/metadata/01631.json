@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006LHB6": {
+            "asin": "B00006LHB6",
+            "height": {
+                "unit": "IN",
+                "value": 0.59842519624
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.4015747956
+            },
+            "name": "Bob Hope Tribute Collection - Sorrowful Jones / The Paleface Double Feature",
+            "normalizedName": "Bob Hope Tribute Collection - Sorrowful Jones / The Paleface Double Feature",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.250004205108
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.09842519165
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BLHYDL8": {
+            "asin": "B00BLHYDL8",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Clear Packing List Enclosed Envelope Plain Face Back Load 2.0 Mil Thick - 7\" X 10\" 1000 / Case",
+            "normalizedName": "Clear Packing List Enclosed Envelope Plain Face Back Load 2.0 Mil Thick - 7\" X 10\" 1000 / Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 18.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

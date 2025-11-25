@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0634054791": {
+            "asin": "0634054791",
+            "height": {
+                "unit": "IN",
+                "value": 0.59842519624
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.70078738964
+            },
+            "name": "Country Gospel: The Christian Musician",
+            "normalizedName": "Country Gospel: The Christian Musician",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1000185024752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B003YVN914": {
+            "asin": "B003YVN914",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "PEDIGREE JUMBONE Mini Bones Mini Snacks for Dogs 6.34 oz. 10 Count (Pack of 8)",
+            "normalizedName": "(Pack of 8) PEDIGREE JUMBONE Mini Bones Mini Snacks for Dogs 6.34 oz. 10 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.799999996813355
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B016MPNGLQ": {
+            "asin": "B016MPNGLQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.249999995665
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Disney Lion Guard Bunga Battle Brawlers Action Figure",
+            "normalizedName": "Disney Lion Guard Bunga Battle Brawlers Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.749999991075
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

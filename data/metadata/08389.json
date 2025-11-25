@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002AHY6Q": {
+            "asin": "B0002AHY6Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Waterpik Waterflosser Cordless Rechargeable WP-360W",
+            "normalizedName": "Waterpik Waterflosser Cordless Rechargeable WP-360W",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B000LZRKFC": {
+            "asin": "B000LZRKFC",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Master Lock 8418KADCAM-TMB Python Adjustable Locking Cable, Braided Steel, Camo Colored, 6-Feet x 5/16-inch",
+            "normalizedName": "Master Lock 8418KADCAM-TMB Python Adjustable Locking Cable, Braided Steel, Camo Colored, 6-Feet x 5/16-inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

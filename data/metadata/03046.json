@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00099YJ6S": {
+            "asin": "B00099YJ6S",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Tachikara Institutional quality Composite VolleyBall, Black-White",
+            "normalizedName": "Tachikara Institutional quality Composite VolleyBall, Black-White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00C5PSLHC": {
+            "asin": "B00C5PSLHC",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "WWE Rumblers Brock Lesnar and John Cena Action Figure, 2-Pack",
+            "normalizedName": "2-Pack WWE Rumblers Brock Lesnar and John Cena Action Figure,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

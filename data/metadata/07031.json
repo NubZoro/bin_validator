@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016KX4B78": {
+            "asin": "B016KX4B78",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.7322834526
+            },
+            "name": "Liguria Strategy Board Game",
+            "normalizedName": "Liguria Strategy Board Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5714521891491424
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.6535432952
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

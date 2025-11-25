@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006JL0Q": {
+            "asin": "B00006JL0Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.90157479917
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.29921258588
+            },
+            "name": "Chef's Choice 839 Krumkake Express",
+            "normalizedName": "Chef's Choice 839 Krumkake Express",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.500075691944
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.79921258639
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

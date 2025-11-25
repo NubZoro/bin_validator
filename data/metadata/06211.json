@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00RFLXC1G": {
+            "asin": "B00RFLXC1G",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "1byone Window Antenna 50 Miles Super Thin HDTV Antenna with 20ft Coaxial Cable, Extreme Soft Design and Lightweight",
+            "normalizedName": "1byone Window Antenna 50 Miles Super Thin HDTV Antenna with 20ft Coaxial Cable, Extreme Soft Design and Lightweight",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B01DMDJ9L2": {
+            "asin": "B01DMDJ9L2",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Clorox\u00ae Fraganzia\u00ae Multi-Purpose Cleaner, Spring Scent, Two 40 Fl. Oz Bottles (80 fl oz total)",
+            "normalizedName": "Clorox\u00ae Fraganzia\u00ae Multi-Purpose Cleaner, Spring Scent, Two 40 Fl. Oz Bottles (80 fl oz total)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.549999995345822
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

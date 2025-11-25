@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005MNGQ6C": {
+            "asin": "B005MNGQ6C",
+            "height": {
+                "unit": "IN",
+                "value": 1.7322834628
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0629921198
+            },
+            "name": "Transcend StoreJet 1 TB Military Drop Tested USB 3.0 External Hard Drive (TS1TSJ25M3)",
+            "normalizedName": "Transcend StoreJet 1 TB Military Drop Tested USB 3.0 External Hard Drive (TS1TSJ25M3)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054792384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8031496014
+            }
+        },
+        "B0065YOBQO": {
+            "asin": "B0065YOBQO",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "MONTEVERDE Invincia Color Fusion Stealth Black Fountain Pen Fine Nib (MV41137F)",
+            "normalizedName": "MONTEVERDE Invincia Color Fusion Stealth Black Fountain Pen Fine Nib (MV41137F)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00JYFMH9Y": {
+            "asin": "B00JYFMH9Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Power Rangers Super Megaforce - Mighty Morphin Alien Rangers Legendary Ranger Key Pack, Red/Blue/Black",
+            "normalizedName": "Power Rangers Super Megaforce - Mighty Morphin Alien Rangers Legendary Ranger Key Pack, Red/Blue/Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

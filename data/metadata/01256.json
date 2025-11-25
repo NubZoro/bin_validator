@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1230359397": {
+            "asin": "1230359397",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Religious Experience and Journal of Mrs. Jarena Lee, Giving an Account of Her Call to Preach the Gospel",
+            "normalizedName": "Religious Experience and Journal of Mrs. Jarena Lee, Giving an Account of Her Call to Preach the Gospel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "1942872526": {
+            "asin": "1942872526",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Tell the Truth & Shame the Devil: The Life, Legacy, and Love of My Son Michael Brown",
+            "normalizedName": "Tell the Truth & Shame the Devil: The Life, Legacy, and Love of My Son Michael Brown",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B0075LDFA4": {
+            "asin": "B0075LDFA4",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "TOPS Idea Collective Journal, Black Cover, Wide Rule, Cream Paper, 8.25 x 5 Inches, 240 Pages (56872)",
+            "normalizedName": "TOPS Idea Collective Journal, Black Cover, Wide Rule, Cream Paper, 8.25 x 5 Inches, 240 Pages (56872)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

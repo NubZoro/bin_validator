@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FCM1JG": {
+            "asin": "B000FCM1JG",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.173228332
+            },
+            "name": "Scalextric C8224 Borders Tan Outer Radius - 22.5 Degrees",
+            "normalizedName": "Scalextric C8224 Borders Tan Outer Radius - 22.5 Degrees",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.62
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.661417314
+            }
+        },
+        "B00NERIRBK": {
+            "asin": "B00NERIRBK",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Giro Grynd Shoe - Men's Dark Shadow/Glowing Red 44",
+            "normalizedName": "Giro Grynd Shoe - Men's Dark Shadow/Glowing Red 44",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00ZBGFVN4": {
+            "asin": "B00ZBGFVN4",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Building Sets Toys Magmagic Magnetic Mega Block Toy Smart DIY Intelligence Kit Construction Set",
+            "normalizedName": "Building Sets Toys Magmagic Magnetic Mega Block Toy Smart DIY Intelligence Kit Construction Set",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

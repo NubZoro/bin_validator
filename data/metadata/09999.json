@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003B32UXI": {
+            "asin": "B003B32UXI",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Dorman 911-005 Fuel Level Sensor",
+            "normalizedName": "Dorman 911-005 Fuel Level Sensor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B005HUVJYO": {
+            "asin": "B005HUVJYO",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Miyasaka Instant Authentic Soup, Miso, 0.27-Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Miyasaka Instant Authentic Soup, Miso, 0.27-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

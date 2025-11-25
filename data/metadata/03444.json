@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GTSFQWE": {
+            "asin": "B00GTSFQWE",
+            "height": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.0
+            },
+            "name": "Rio Faux Silk Grommet Top 90\" Curtain Panel Two Pack Chocolate",
+            "normalizedName": "Rio Faux Silk Grommet Top 90\" Curtain Panel Two Pack Chocolate",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.25
+            }
+        },
+        "B01524J2SE": {
+            "asin": "B01524J2SE",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Car Seat Protector By Carwear Essentials - Keeps Car Seats Clean and Damage-free - Latch Compatible - No-slip, Easy-install Construction - Sturdy Color-safe Design",
+            "normalizedName": "Car Seat Protector By Carwear Essentials - Keeps Car Seats Clean and Damage-free - Latch Compatible - No-slip, Easy-install Construction - Sturdy Color-safe Design",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

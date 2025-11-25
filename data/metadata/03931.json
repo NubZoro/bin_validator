@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003WOIVRU": {
+            "asin": "B003WOIVRU",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "LEDwholesalers Waterproof LED Driver Transformer 60 Watt 12V with 3-prong Plug, 3204",
+            "normalizedName": "LEDwholesalers Waterproof LED Driver Transformer 60 Watt 12V with 3-prong Plug, 3204",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B008ATHFEC": {
+            "asin": "B008ATHFEC",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Philips 415380 Indoor Spot Light 40-Watt R14 Light Bulb",
+            "normalizedName": "Philips 415380 Indoor Spot Light 40-Watt R14 Light Bulb",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

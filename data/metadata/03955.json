@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002HVWE0E": {
+            "asin": "B002HVWE0E",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "County Leather Perforated Bat - Size:19\" Color:Black",
+            "normalizedName": "County Leather Perforated Bat - Size:19\" Color:Black",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.299999998674
+            }
+        },
+        "B014JN7VWI": {
+            "asin": "B014JN7VWI",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "O'Neill Wetsuits Womens 3/2 mm Bahia Full Wetsuit, Black/Deep Teal/White, Size 4",
+            "normalizedName": "O'Neill Wetsuits Womens 3/2 mm Bahia Full Wetsuit, Black/Deep Teal/White, Size 4",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.699999986026
+            }
+        },
+        "B0167MYRBW": {
+            "asin": "B0167MYRBW",
+            "height": {
+                "unit": "IN",
+                "value": 3.4299999965014005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Samsung Da29-00003g Hafcu1 Wf289 Da2900003g Comparable Icepure Water Filter 4-pk\"",
+            "normalizedName": "Samsung Da29-00003g Hafcu1 Wf289 Da2900003g Comparable Icepure Water Filter 4-pk\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0499999974422987
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

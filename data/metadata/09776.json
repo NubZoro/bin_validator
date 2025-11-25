@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00B4WJB26": {
+            "asin": "B00B4WJB26",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Aurora World Sweet and Softer Perky Penguin 9.5\" Plush",
+            "normalizedName": "Aurora World Sweet and Softer Perky Penguin 9.5\" Plush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00D2UMHPG": {
+            "asin": "B00D2UMHPG",
+            "height": {
+                "unit": "IN",
+                "value": 4.1732283422
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.9527558974
+            },
+            "name": "TRIAL & RETRIBUTION: COMPLETE COLLECTION",
+            "normalizedName": "TRIAL & RETRIBUTION: COMPLETE COLLECTION",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.8267716476
+            }
+        },
+        "B00PWEN2ZE": {
+            "asin": "B00PWEN2ZE",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Motorola Moto E Android Prepaid Phone with Triple Minutes (Tracfone)",
+            "normalizedName": "Motorola Moto E Android Prepaid Phone with Triple Minutes (Tracfone)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

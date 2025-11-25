@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OAV9QBY": {
+            "asin": "B00OAV9QBY",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Amazing Grass Green SuperFood Alkalize & Detox, 30 Servings, 8.5 Ounces",
+            "normalizedName": "Amazing Grass Green SuperFood Alkalize & Detox, 30 Servings, 8.5 Ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B0186TZYPC": {
+            "asin": "B0186TZYPC",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Organic Cocoa Butter By Sky Organics: Unrefined, 100% Pure Raw Cocoa Butter 16oz \u2013 Skin Nourishing, Moisturizing & Healing, for Dry Skin, Stretch Marks - For Skin Care, Hair Care & DIY Recipes",
+            "normalizedName": "Organic Cocoa Butter By Sky Organics: Unrefined, 100% Pure Raw Cocoa Butter 16oz \u2013 Skin Nourishing, Moisturizing & Healing, for Dry Skin, Stretch Marks - For Skin Care, Hair Care & DIY Recipes",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

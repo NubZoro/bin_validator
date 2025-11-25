@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003WC5WQA": {
+            "asin": "B003WC5WQA",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Japanese Rice Cake Mochi Daifuku (Assorted)15.8 oz",
+            "normalizedName": "Japanese Rice Cake Mochi Daifuku (Assorted)15.8 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B017TZEW7A": {
+            "asin": "B017TZEW7A",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "OUTXPRO Motion Activated PIR Ultrasonic Cat Dog Deer Pest Repeller, Solar Charged Distance and Frequence Adjustable Device",
+            "normalizedName": "OUTXPRO Motion Activated PIR Ultrasonic Cat Dog Deer Pest Repeller, Solar Charged Distance and Frequence Adjustable Device",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01ESSM0SY": {
+            "asin": "B01ESSM0SY",
+            "height": {
+                "unit": "IN",
+                "value": 2.755905509
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "name": "ASHANKS Middle Size Collection Gopro Case Box Bag For Gopro Hero3+ Hero3 Hero2 SJ4000 Camera",
+            "normalizedName": "ASHANKS Middle Size Collection Gopro Case Box Bag For Gopro Hero3+ Hero3 Hero2 SJ4000 Camera",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.299212592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009ZAA4C": {
+            "asin": "B0009ZAA4C",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Sangean WR-2 WH HiFi AM/FM-RDS Table-Top Radio (White)",
+            "normalizedName": "Sangean WR-2 WH HiFi AM/FM-RDS Table-Top Radio (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B0013G040G": {
+            "asin": "B0013G040G",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "ACDelco 15037353 GM Original Equipment Automatic Transmission Control Lever Cable",
+            "normalizedName": "ACDelco 15037353 GM Original Equipment Automatic Transmission Control Lever Cable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

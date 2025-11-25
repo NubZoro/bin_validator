@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1401311113": {
+            "asin": "1401311113",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "The Moth",
+            "normalizedName": "The Moth",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00N5ZSDU6": {
+            "asin": "B00N5ZSDU6",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Fruitables Whole Jerky Grilled Duck Dog Treats",
+            "normalizedName": "Fruitables Whole Jerky Grilled Duck Dog Treats",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

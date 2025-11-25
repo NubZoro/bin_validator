@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0099UWHH6": {
+            "asin": "B0099UWHH6",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Cable Matters Gold Plated Toslink Digital Optical Audio Cable with Metal Connectors and Braided Jacket 10 Feet",
+            "normalizedName": "Cable Matters Gold Plated Toslink Digital Optical Audio Cable with Metal Connectors and Braided Jacket 10 Feet",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B009JCLW8Y": {
+            "asin": "B009JCLW8Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.2598425184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299212592
+            },
+            "name": "Diamond Select Toys Back to The Future Silicone Tray",
+            "normalizedName": "Diamond Select Toys Back to The Future Silicone Tray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001186074865
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0083F2ZIY": {
+            "asin": "B0083F2ZIY",
+            "height": {
+                "unit": "IN",
+                "value": 6.0629921198
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.1338582584
+            },
+            "name": "Mega Bloks Caterpillar Lil' Dump Truck",
+            "normalizedName": "Mega Bloks Caterpillar Lil' Dump Truck",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.5354330642
+            }
+        },
+        "B00AGI2UFO": {
+            "asin": "B00AGI2UFO",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Corolle Mon Premier Bebe Bath Boy Doll",
+            "normalizedName": "Corolle Mon Premier Bebe Bath Boy Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00MZX4WRC": {
+            "asin": "B00MZX4WRC",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Philips 452466 65 Watt Equivalent Slim Style BR30 LED Dimmable Daylight Light Bulb",
+            "normalizedName": "Philips 452466 65 Watt Equivalent Slim Style BR30 LED Dimmable Daylight Light Bulb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.009999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00U8NGUQM": {
+            "asin": "B00U8NGUQM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Sofia the First Royal Dress",
+            "normalizedName": "Sofia the First Royal Dress",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

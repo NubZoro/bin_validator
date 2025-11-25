@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1610170806": {
+            "asin": "1610170806",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "What So Proudly We Hail: The American Soul in Story, Speech, and Song",
+            "normalizedName": "What So Proudly We Hail: The American Soul in Story, Speech, and Song",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00K30K6AQ": {
+            "asin": "B00K30K6AQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Eagles Nest Outfitters - DoubleNest Hammock, Sapphire/Orange (FFP)",
+            "normalizedName": "Eagles Nest Outfitters - DoubleNest Hammock, Sapphire/Orange (FFP)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JPVZ2IA": {
+            "asin": "B00JPVZ2IA",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Women's Black Studded Fashion Fanny or Waist Pack - fits up to 42 inch waist",
+            "normalizedName": "Women's Black Studded Fashion Fanny or Waist Pack - fits up to 42 inch waist",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00Q2VPI8A": {
+            "asin": "B00Q2VPI8A",
+            "height": {
+                "unit": "IN",
+                "value": 3.3858267682
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "name": "Bluedio T2s Turbine Bluetooth Wireless Stereo Headphones with Microphone 57mm Drivers Rotary Folding(White)",
+            "normalizedName": "Bluedio T2s Turbine Bluetooth Wireless Stereo Headphones with Microphone 57mm Drivers Rotary Folding(White)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9259415004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

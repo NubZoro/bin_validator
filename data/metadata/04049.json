@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FA1P5O": {
+            "asin": "B000FA1P5O",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Unifix Letter Cubes: Consonant-Vowel-Consonant Set",
+            "normalizedName": "Unifix Letter Cubes: Consonant-Vowel-Consonant Set",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

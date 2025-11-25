@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "111835611X": {
+            "asin": "111835611X",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Posttraumatic Stress Disorder: From Neurobiology to Treatment",
+            "normalizedName": "Posttraumatic Stress Disorder: From Neurobiology to Treatment",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.249999998113171
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B014KOHYRS": {
+            "asin": "B014KOHYRS",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Intex Mushroom Baby Pool for Ages 1-3, 40 x 35\"",
+            "normalizedName": "Intex Mushroom Baby Pool for Ages 1-3, 40 x 35\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1499999973584396
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

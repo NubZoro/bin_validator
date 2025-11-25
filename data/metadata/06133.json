@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014DAVV00": {
+            "asin": "B014DAVV00",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "ThermoPro TP11 Remote Wireless Digital Electronic Kitchen Cooking Food Meat Thermometer BBQ Smoker Grill Oven - 300 Feet Range",
+            "normalizedName": "ThermoPro TP11 Remote Wireless Digital Electronic Kitchen Cooking Food Meat Thermometer BBQ Smoker Grill Oven - 300 Feet Range",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B01BEXG78K": {
+            "asin": "B01BEXG78K",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Funko POP Movies: Flash Gordon Action Figure - Emperor Ming",
+            "normalizedName": "Funko POP Movies: Flash Gordon Action Figure - Emperor Ming",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

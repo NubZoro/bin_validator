@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006O4NAI": {
+            "asin": "B0006O4NAI",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Geo F. Trumper Almond Soft Shaving Cream 75 g cream",
+            "normalizedName": "Geo F. Trumper Almond Soft Shaving Cream 75 g cream",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00JLLIS1C": {
+            "asin": "B00JLLIS1C",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "2 PACK - IHOP at Home Butter Pecan Flavored Syrup, 24 oz",
+            "normalizedName": "2 PACK - IHOP at Home Butter Pecan Flavored Syrup, 24 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

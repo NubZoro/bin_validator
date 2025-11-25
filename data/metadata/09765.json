@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01ARGBDL6": {
+            "asin": "B01ARGBDL6",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Mega Bloks Star Trek Klingon D7 Battle Cruiser Collector Construction Set",
+            "normalizedName": "Mega Bloks Star Trek Klingon D7 Battle Cruiser Collector Construction Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B01FAC3AW2": {
+            "asin": "B01FAC3AW2",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "WALI Bullet Dummy Fake Surveillance Security CCTV Dome Camera Indoor Outdoor with 30 Illuminating LED Light + Warning Security Alert Sticker Decals WL-S30-4(Silver), 4 Pack",
+            "normalizedName": "4 Pack WALI Bullet Dummy Fake Surveillance Security CCTV Dome Camera Indoor Outdoor with 30 Illuminating LED Light + Warning Security Alert Sticker Decals WL-S30-4(Silver),",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1999999973165107
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

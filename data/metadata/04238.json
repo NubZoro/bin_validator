@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004O2A29E": {
+            "asin": "B004O2A29E",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Alcon Clear Care with Lens Case, Twin pack,12 Ounce Each",
+            "normalizedName": "Alcon Clear Care with Lens Case, Twin pack,12 Ounce Each",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00NJ37K0S": {
+            "asin": "B00NJ37K0S",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "GroVia No Prep Soaker Pad",
+            "normalizedName": "GroVia No Prep Soaker Pad",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00SX40C4Y": {
+            "asin": "B00SX40C4Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "PackIt Freezable Lunch Bag with Zip Closure, Micro Dot",
+            "normalizedName": "PackIt Freezable Lunch Bag with Zip Closure, Micro Dot",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B017CBG07Q": {
+            "asin": "B017CBG07Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Descendants Birthday Party Pack (Plates & Napkins) 16 Guests by Party Supplies",
+            "normalizedName": "Descendants Birthday Party Pack (Plates & Napkins) 16 Guests by Party Supplies",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

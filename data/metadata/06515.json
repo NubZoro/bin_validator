@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C1C0YAQ": {
+            "asin": "B00C1C0YAQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "name": "Gorgeous Cosmetics Lipstick, Nevada",
+            "normalizedName": "Gorgeous Cosmetics Lipstick, Nevada",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.899999999082
+            }
+        },
+        "B00LB49I3Y": {
+            "asin": "B00LB49I3Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Atomic Skin (PKT-064) Coax Battery Lead (Standard Duty 15 Amp 26\")",
+            "normalizedName": "Atomic Skin (PKT-064) Coax Battery Lead (Standard Duty 15 Amp 26\")",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B015AMYF3K": {
+            "asin": "B015AMYF3K",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "name": "Nylon Thread, Nylon Jewelry Cord for Custom Woven Jewelry Making, Black, 0.8mm; About 120m/roll",
+            "normalizedName": "Nylon Thread, Nylon Jewelry Cord for Custom Woven Jewelry Making, Black, 0.8mm; About 120m/roll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

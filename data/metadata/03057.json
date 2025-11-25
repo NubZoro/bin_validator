@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00URZ38DE": {
+            "asin": "B00URZ38DE",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Whiffer Sniffers Bitsy Berry Collectible 4\" Backpack Clip",
+            "normalizedName": "Whiffer Sniffers Bitsy Berry Collectible 4\" Backpack Clip",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B011NI45E4": {
+            "asin": "B011NI45E4",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Yuntab Octa-core 5 Inch 3G Unlocked Cell Phone, CPU MTK6592 Android 4.4 Bluetooth 4.0 Support GPS, IPS 720*1280, Dual camera(2MP+8MP), with Phone Case Included",
+            "normalizedName": "Yuntab Octa-core 5 Inch 3G Unlocked Cell Phone, CPU MTK6592 Android 4.4 Bluetooth 4.0 Support GPS, IPS 720*1280, Dual camera(2MP+8MP), with Phone Case Included",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7699999993542853
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

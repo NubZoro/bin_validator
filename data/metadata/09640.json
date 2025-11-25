@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00002N8OW": {
+            "asin": "B00002N8OW",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Apex 8695-25 Commercial 5/8-Inch by 25-Feet All Rubber Hot Water Hose, Red",
+            "normalizedName": "Apex 8695-25 Commercial 5/8-Inch by 25-Feet All Rubber Hot Water Hose, Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.849999995094245
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B004MDM8WY": {
+            "asin": "B004MDM8WY",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Rubbermaid Commercial 6306 6 qt Capacity, 8-3/4\" Length x 8.8\" Width x 6.9\" Height, Clear Color, Polycarbonate Space Saving Square Container",
+            "normalizedName": "Rubbermaid Commercial 6306 6 qt Capacity, 8-3/4\" Length x 8.8\" Width x 6.9\" Height, Clear Color, Polycarbonate Space Saving Square Container",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B014LQYTGE": {
+            "asin": "B014LQYTGE",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "BlackVue New 2 Channel DR650GW-2CH 32GB, Car Black Box/Car DVR Recorder, Built-in Wi-Fi, Full HD(1080p@30fps), up to 64GB support",
+            "normalizedName": "BlackVue New 2 Channel DR650GW-2CH 32GB, Car Black Box/Car DVR Recorder, Built-in Wi-Fi, Full HD(1080p@30fps), up to 64GB support",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00008QUK6": {
+            "asin": "B00008QUK6",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Oneida Michelangelo 5-Piece Place Setting, Service for 1",
+            "normalizedName": "Oneida Michelangelo 5-Piece Place Setting, Service for 1",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00MJ8JSFE": {
+            "asin": "B00MJ8JSFE",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Crayola Construction Paper, 240 Count, 2-Pack",
+            "normalizedName": "2-Pack Crayola Construction Paper, 240 Count,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B00O174T64": {
+            "asin": "B00O174T64",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Deadpool Crazy Molded Head Mug",
+            "normalizedName": "Deadpool Crazy Molded Head Mug",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

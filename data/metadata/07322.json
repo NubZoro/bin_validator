@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FI29TTS": {
+            "asin": "B00FI29TTS",
+            "height": {
+                "unit": "IN",
+                "value": 4.330708657
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.5748031378
+            },
+            "name": "Hoosier Hill Farm Gourmet Popcorn, Midwest Set, 4.5 Pound",
+            "normalizedName": "Hoosier Hill Farm Gourmet Popcorn, Midwest Set, 4.5 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.395084179808443
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0629921198
+            }
+        },
+        "B01CFKP5NE": {
+            "asin": "B01CFKP5NE",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Thank You (Deluxe Edition)",
+            "normalizedName": "Thank You (Deluxe Edition)",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EK61DAQ": {
+            "asin": "B00EK61DAQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Kattee Top Canvas British Style Chest/ Waist Bag, with Invisible Headphone Hole",
+            "normalizedName": "Kattee Top Canvas British Style Chest/ Waist Bag, with Invisible Headphone Hole",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B019DDQ1I4": {
+            "asin": "B019DDQ1I4",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Remedios Round Polyester Tablecloth - for Wedding, Restaurant, or Banquet use, Black, 70-inch",
+            "normalizedName": "Remedios Round Polyester Tablecloth - for Wedding, Restaurant, or Banquet use, Black, 70-inch",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B01BERCX6G": {
+            "asin": "B01BERCX6G",
+            "height": {
+                "unit": "IN",
+                "value": 0.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "name": "Bolbove American Flag Bag Keychain Sparkling Keyring Rhinestones Purse Pendant Handbag Charm",
+            "normalizedName": "Bolbove American Flag Bag Keychain Sparkling Keyring Rhinestones Purse Pendant Handbag Charm",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

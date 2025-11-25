@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008TLMUAU": {
+            "asin": "B008TLMUAU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "LinenTablecloth 90-Inch Round Polyester Tablecloth Red & White Checker",
+            "normalizedName": "LinenTablecloth 90-Inch Round Polyester Tablecloth Red & White Checker",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

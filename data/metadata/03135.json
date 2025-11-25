@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000050FZP": {
+            "asin": "B000050FZP",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "AT&T 210M Trimline Corded Phone, 1 Handset, White",
+            "normalizedName": "AT&T 210M Trimline Corded Phone, 1 Handset, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2299999989685335
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B008GVOVK0": {
+            "asin": "B008GVOVK0",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.1338582584
+            },
+            "name": "Fosmon HD1831 3-Port HDMI Switch with Pigtail Cable",
+            "normalizedName": "Fosmon HD1831 3-Port HDMI Switch with Pigtail Cable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.1968503884
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001911ZRQ": {
+            "asin": "B001911ZRQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Kensington K64560US ComboSaver Portable Notebook Computer Lock",
+            "normalizedName": "Kensington K64560US ComboSaver Portable Notebook Computer Lock",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B01G83SRIE": {
+            "asin": "B01G83SRIE",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Retseliney Hydration Face wash with Tea Tree Oil, 10% MSM, Calendula, Deep Cleanse Pores, Natural and Organic Treatment for Acne and Blemishes, Anti-Aging & Anti-Wrinkles Facial Cleanser",
+            "normalizedName": "Retseliney Hydration Face wash with Tea Tree Oil, 10% MSM, Calendula, Deep Cleanse Pores, Natural and Organic Treatment for Acne and Blemishes, Anti-Aging & Anti-Wrinkles Facial Cleanser",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

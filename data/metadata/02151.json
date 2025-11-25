@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EIKN2XU": {
+            "asin": "B00EIKN2XU",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Funny Guy Mugs Diner Ceramic Coffee Mug, Cream, 10 Ounces",
+            "normalizedName": "Funny Guy Mugs Diner Ceramic Coffee Mug, Cream, 10 Ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B012FLPBZU": {
+            "asin": "B012FLPBZU",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Vensmile Solar Powered Mole Repeller Repel Mole, Voles, Gopher, Mice and Rats",
+            "normalizedName": "Vensmile Solar Powered Mole Repeller Repel Mole, Voles, Gopher, Mice and Rats",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

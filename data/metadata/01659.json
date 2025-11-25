@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008HHNB86": {
+            "asin": "B008HHNB86",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "AD-C53U AC Adapter + USB Cable for Casio Digital Cameras",
+            "normalizedName": "AD-C53U AC Adapter + USB Cable for Casio Digital Cameras",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B01FFG9J0U": {
+            "asin": "B01FFG9J0U",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Essential Oil Ultrasonic Diffuser for Aromatherapy, 16.9 fl. oz. Aroma Diffuser and Cool Mist Personal Humidifier, Whisper Quiet with Energy Saving LED Lights by Namastra",
+            "normalizedName": "Essential Oil Ultrasonic Diffuser for Aromatherapy, 16.9 fl. oz. Aroma Diffuser and Cool Mist Personal Humidifier, Whisper Quiet with Energy Saving LED Lights by Namastra",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

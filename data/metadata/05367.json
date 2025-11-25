@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OY3ESR0": {
+            "asin": "B00OY3ESR0",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Speck Products StyleFolio Case for iPad Mini/2/3 - Dark Poppy Red/Slate Grey",
+            "normalizedName": "Speck Products StyleFolio Case for iPad Mini/2/3 - Dark Poppy Red/Slate Grey",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B01G436X5W": {
+            "asin": "B01G436X5W",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Speck Products iPad Mini FitFolio Case in Vegan Leather, Raspberry Pink",
+            "normalizedName": "Speck Products iPad Mini FitFolio Case in Vegan Leather, Raspberry Pink",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

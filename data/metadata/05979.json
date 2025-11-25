@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014JOU93A": {
+            "asin": "B014JOU93A",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 20.099999979498
+            },
+            "name": "O'Neill Wetsuits Wake Waterski Infant Superlite USCG Life Vest, Pacific/Yellow/Black/Yellow, One Size",
+            "normalizedName": "O'Neill Wetsuits Wake Waterski Infant Superlite USCG Life Vest, Pacific/Yellow/Black/Yellow, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B014S4MY1G": {
+            "asin": "B014S4MY1G",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Aden+Anais Dream Blanket - Little Lamb",
+            "normalizedName": "Aden+Anais Dream Blanket - Little Lamb",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

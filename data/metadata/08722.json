@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VWTA94": {
+            "asin": "B000VWTA94",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Book, Memorandum, 5-1/2\" X 8\" Green Log Book (12/pack), NSN 7530-00-222-3521",
+            "normalizedName": "Book, Memorandum, 5-1/2\" X 8\" Green Log Book (12/pack), NSN 7530-00-222-3521",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B016KX4B78": {
+            "asin": "B016KX4B78",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.7322834526
+            },
+            "name": "Liguria Strategy Board Game",
+            "normalizedName": "Liguria Strategy Board Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5714521891491424
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.6535432952
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

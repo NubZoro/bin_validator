@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DN4KS16": {
+            "asin": "B00DN4KS16",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Premier Yarn  Wool Free Sock Yarn, Grand Canyon, Pack of 3",
+            "normalizedName": "Pack of 3 Premier Yarn  Wool Free Sock Yarn, Grand Canyon,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B01AMIZ9M8": {
+            "asin": "B01AMIZ9M8",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.049999988729002
+            },
+            "name": "Back & Lumbar Support Brace by NONPAREIL - Improve Posture & Relieve Lower Thoracic, Neck & Spine Pain & Pressure - Large (Waist 33-36), White",
+            "normalizedName": "Back & Lumbar Support Brace by NONPAREIL - Improve Posture & Relieve Lower Thoracic, Neck & Spine Pain & Pressure - Large (Waist 33-36), White",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5699999995220031
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.049999991789
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007RUV8M": {
+            "asin": "B0007RUV8M",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Klorane Eye Make-up Remover with Soothing Cornflower, 6.7 fl. oz.",
+            "normalizedName": "Klorane Eye Make-up Remover with Soothing Cornflower, 6.7 fl. oz.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B008RZJHJU": {
+            "asin": "B008RZJHJU",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Baofeng USB Programming Cable for Baofeng Two way Radio UV-5R, BF-888S,BF-F8+ With Driver CD",
+            "normalizedName": "Baofeng USB Programming Cable for Baofeng Two way Radio UV-5R, BF-888S,BF-F8+ With Driver CD",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

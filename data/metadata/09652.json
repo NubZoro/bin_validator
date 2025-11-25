@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00114Q7TC": {
+            "asin": "B00114Q7TC",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Fairfield Crafter's Choice Pillow Form, 14 by 14-Inch",
+            "normalizedName": "Fairfield Crafter's Choice Pillow Form, 14 by 14-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999938751177213
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        },
+        "B001K37L08": {
+            "asin": "B001K37L08",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Beistle Oktoberfest Tablecover",
+            "normalizedName": "Beistle Oktoberfest Tablecover",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B00BD8ZUEO": {
+            "asin": "B00BD8ZUEO",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.5433070728
+            },
+            "name": "Amscan Sweet Monkey Love Birthday Party Plastic Table Cover Tableware Decoration (1 Piece), 54\" x 96\", Pink",
+            "normalizedName": "Amscan Sweet Monkey Love Birthday Party Plastic Table Cover Tableware Decoration (1 Piece), 54\" x 96\", Pink",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.480314953
+            }
+        },
+        "B00CFNUHEO": {
+            "asin": "B00CFNUHEO",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Martin Harness Latigo Breast Collar 2 3/4in",
+            "normalizedName": "Martin Harness Latigo Breast Collar 2 3/4in",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.299999997232651
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ZEDKNW8": {
+            "asin": "B00ZEDKNW8",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Apple Watch Microfiber Wrist Band (With Adapters) (Sky Blue - 42mm)",
+            "normalizedName": "Apple Watch Microfiber Wrist Band (With Adapters) (Sky Blue - 42mm)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01B6ZFXE0": {
+            "asin": "B01B6ZFXE0",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Scottii Luxurii Carbon Case [Carbon Fiber Pattern] for iPhone 6 & iPhone 6s (4.7\" Screen), [Drop Protection] iPhone 6s Case - Dark Blue",
+            "normalizedName": "Scottii Luxurii Carbon Case [Carbon Fiber Pattern] for iPhone 6 & iPhone 6s (4.7\" Screen), [Drop Protection] iPhone 6s Case - Dark Blue",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B01B6ZTHGU": {
+            "asin": "B01B6ZTHGU",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Scottii Luxurii Carbon iPhone 6 Plus Case [Carbon Fiber Pattern] iPhone 6s Plus Case (5.5-inch screen), [Drop Protection] (Dark Blue)",
+            "normalizedName": "Scottii Luxurii Carbon iPhone 6 Plus Case [Carbon Fiber Pattern] iPhone 6s Plus Case (5.5-inch screen), [Drop Protection] (Dark Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.049999999958070473
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01DOAAJWQ": {
+            "asin": "B01DOAAJWQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Galaxy S7 Case, iMangoo Premium Shockproof Protective Soft Bumper Samsung Galaxy S7 Case Durable Kickstand Shell Stylish Design Ring Drop Resistance Tough Cover Cases for Galaxy S7 Black",
+            "normalizedName": "Galaxy S7 Case, iMangoo Premium Shockproof Protective Soft Bumper Samsung Galaxy S7 Case Durable Kickstand Shell Stylish Design Ring Drop Resistance Tough Cover Cases for Galaxy S7 Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01868XNMY": {
+            "asin": "B01868XNMY",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "MAM Perfect Silicone Pacifier, Assorted Colors, 0-6 Months",
+            "normalizedName": "MAM Perfect Silicone Pacifier, Assorted Colors, 0-6 Months",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01GDITOEU": {
+            "asin": "B01GDITOEU",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Phaiser BHS-730 Bluetooth Earbuds Runner Headset Sport Earphones with Mic and Lifetime Sweatproof Warranty - Wireless Headphones for Running, Oceanblue",
+            "normalizedName": "Phaiser BHS-730 Bluetooth Earbuds Runner Headset Sport Earphones with Mic and Lifetime Sweatproof Warranty - Wireless Headphones for Running, Oceanblue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

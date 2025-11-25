@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "193791366X": {
+            "asin": "193791366X",
+            "height": {
+                "unit": "IN",
+                "value": 0.0393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.9527559025
+            },
+            "name": "Notre-Dame de Lourdes (French Edition)",
+            "normalizedName": "Notre-Dame de Lourdes (French Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1653543285
+            }
+        },
+        "B000JRQONG": {
+            "asin": "B000JRQONG",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Maxell HS-8/112 Helical-Scan 8mm Data Cartridge -1 pack-10 cartridges",
+            "normalizedName": "Maxell HS-8/112 Helical-Scan 8mm Data Cartridge -1 pack-10 cartridges",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00BX5FOCK": {
+            "asin": "B00BX5FOCK",
+            "height": {
+                "unit": "IN",
+                "value": 0.1574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.3858267682
+            },
+            "name": "SanDisk Cruzer Blade 64GB USB 2.0 Flash Drive- SDCZ50-064G-B35",
+            "normalizedName": "SanDisk Cruzer Blade 64GB USB 2.0 Flash Drive- SDCZ50-064G-B35",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0881849048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.6771653516
+            }
+        },
+        "B00IPMKSAC": {
+            "asin": "B00IPMKSAC",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "dCables Nikon CoolPix L830 USB Cable - USB Computer Cord for CoolPix L830",
+            "normalizedName": "dCables Nikon CoolPix L830 USB Cable - USB Computer Cord for CoolPix L830",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

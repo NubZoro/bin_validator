@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000DBMMO": {
+            "asin": "B0000DBMMO",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Fellowes Workstation Letter Size Desk Tray Organizer, Wire, Black (60112)",
+            "normalizedName": "Fellowes Workstation Letter Size Desk Tray Organizer, Wire, Black (60112)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00AM1WAN2": {
+            "asin": "B00AM1WAN2",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Kinedyne (642001) 2\" x 20' Logistic Cargo Ratchet Strap with E/A Series Spring Fitting",
+            "normalizedName": "Kinedyne (642001) 2\" x 20' Logistic Cargo Ratchet Strap with E/A Series Spring Fitting",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00OKRSMV8": {
+            "asin": "B00OKRSMV8",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Nylabone Holiday Dura Chew Dental Dino, T-Rex, Red and Green 2-Pack",
+            "normalizedName": "2-Pack Nylabone Holiday Dura Chew Dental Dino, T-Rex, Red and Green",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

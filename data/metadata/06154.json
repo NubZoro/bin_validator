@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AE9YS1O": {
+            "asin": "B00AE9YS1O",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Intex Beanless Bag Inflatable Chair, 42\" X 41\" X 27\", Gray",
+            "normalizedName": "Intex Beanless Bag Inflatable Chair, 42\" X 41\" X 27\", Gray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.399999995471611
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B00OBGVMW4": {
+            "asin": "B00OBGVMW4",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Hefty Drawstring Multipurpose Bags, 30 Gallon, 56 Count",
+            "normalizedName": "Hefty Drawstring Multipurpose Bags, 30 Gallon, 56 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B0185OKEPS": {
+            "asin": "B0185OKEPS",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.299999982354
+            },
+            "name": "Pinty 2L Hiking Backpack Hydration Pack with Water Bladder Cycling Climbing Camping Bag (Black)",
+            "normalizedName": "Pinty 2L Hiking Backpack Hydration Pack with Water Bladder Cycling Climbing Camping Bag (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

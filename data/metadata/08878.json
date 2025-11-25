@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000N4G8IQ": {
+            "asin": "B000N4G8IQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9606299162
+            },
+            "name": "IMAK Compression Arthritis Gloves, Original with Arthritis Foundation Ease of Use Seal, Small",
+            "normalizedName": "IMAK Compression Arthritis Gloves, Original with Arthritis Foundation Ease of Use Seal, Small",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.543307083
+            }
+        },
+        "B0019LWIW2": {
+            "asin": "B0019LWIW2",
+            "height": {
+                "unit": "IN",
+                "value": 2.199999997756
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Garden of Life Minami Omega-3 60 Softgels (Packaging May Vary)",
+            "normalizedName": "Garden of Life Minami Omega-3 60 Softgels (Packaging May Vary)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01643BXL6": {
+            "asin": "B01643BXL6",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Bairly Sheer Ultra Mist Foundation, Shade 2 Bloom",
+            "normalizedName": "Bairly Sheer Ultra Mist Foundation, Shade 2 Bloom",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

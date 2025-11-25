@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00007JO37": {
+            "asin": "B00007JO37",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "C2G / Cables To Go 03129 18 AWG Universal Power Cord for NEMA 5-15P to IEC320C13, Black (3 Feet/0.91 Meters)",
+            "normalizedName": "C2G / Cables To Go 03129 18 AWG Universal Power Cord for NEMA 5-15P to IEC320C13, Black (3 Feet/0.91 Meters)",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B018EC5MVW": {
+            "asin": "B018EC5MVW",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8503936938
+            },
+            "name": "BEON Apple Lightning to USB Cable - 3.3 feet (1 meter) for iPhone 6 6s 6 Plus 5 5s 5c iPad Pro Air 2 iPad mini 4 3 2 iPod touch 5th 6th 7th gen",
+            "normalizedName": "BEON Apple Lightning to USB Cable - 3.3 feet (1 meter) for iPhone 6 6s 6 Plus 5 5s 5c iPad Pro Air 2 iPad mini 4 3 2 iPod touch 5th 6th 7th gen",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6614173191
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

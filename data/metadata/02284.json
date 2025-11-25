@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006LCQ4Q": {
+            "asin": "B0006LCQ4Q",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "name": "Nature's Way Activated Charcoal, 100 Capsules",
+            "normalizedName": "Nature's Way Activated Charcoal, 100 Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.0472440924
+            }
+        },
+        "B00P2PNOOM": {
+            "asin": "B00P2PNOOM",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Kingwin SATA Internal Hot Swap Rack with Lock (KF-1003-BK)",
+            "normalizedName": "Kingwin SATA Internal Hot Swap Rack with Lock (KF-1003-BK)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

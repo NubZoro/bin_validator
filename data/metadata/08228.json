@@ -1,0 +1,100 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007QGT1G": {
+            "asin": "B0007QGT1G",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Royal Purple 01130 API-Licensed SAE 10W-30 High Performance Synthetic Motor Oil - 1 qt.",
+            "normalizedName": "Royal Purple 01130 API-Licensed SAE 10W-30 High Performance Synthetic Motor Oil - 1 qt.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B000WK97N4": {
+            "asin": "B000WK97N4",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Vortex 3273-15 Silver 15-Tooth 520-Pitch Front Sprocket",
+            "normalizedName": "Vortex 3273-15 Silver 15-Tooth 520-Pitch Front Sprocket",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B003VF7T0K": {
+            "asin": "B003VF7T0K",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "NHL Dallas Stars Pet Bandana, Team Color, Large",
+            "normalizedName": "NHL Dallas Stars Pet Bandana, Team Color, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B0192BO1RK": {
+            "asin": "B0192BO1RK",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "Contraband Pink Label 5257 Womens Design Series Houndstooth Print Lifting Gloves (PAIR) (Pink/White, Medium)",
+            "normalizedName": "Contraband Pink Label 5257 Womens Design Series Houndstooth Print Lifting Gloves (PAIR) (Pink/White, Medium)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        },
+        "B01FS35K44": {
+            "asin": "B01FS35K44",
+            "height": null,
+            "length": null,
+            "name": "BRCbeads 10Pcs Silver Plate Yellow Chrysanthemum Fimo/Soft Clay Polymer Murano Lampwork European Glass Crystal Charms Beads Spacers Fit Pandora Troll Chamilia Carlo Biagi Zable Snake Chain Bracelets.",
+            "normalizedName": "BRCbeads 10Pcs Silver Plate Yellow Chrysanthemum Fimo/Soft Clay Polymer Murano Lampwork European Glass Crystal Charms Beads Spacers Fit Pandora Troll Chamilia Carlo Biagi Zable Snake Chain Bracelets.",
+            "quantity": 1,
+            "weight": null,
+            "width": null
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

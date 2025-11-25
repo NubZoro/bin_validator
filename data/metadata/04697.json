@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BCOHDW6": {
+            "asin": "B00BCOHDW6",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Clarion M303 Marine CD-USB-MP3 Receiver",
+            "normalizedName": "Clarion M303 Marine CD-USB-MP3 Receiver",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00QKH1K92": {
+            "asin": "B00QKH1K92",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Hawking Technology Hi-Gain 5GHz Wireless AC Network Upgrade (HW5AC)",
+            "normalizedName": "Hawking Technology Hi-Gain 5GHz Wireless AC Network Upgrade (HW5AC)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001TANN7M": {
+            "asin": "B001TANN7M",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Black & Decker CG800B Spacemaker Traditional Mini Food Processor and Coffee Grinder, Black",
+            "normalizedName": "Black & Decker CG800B Spacemaker Traditional Mini Food Processor and Coffee Grinder, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

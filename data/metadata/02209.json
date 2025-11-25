@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008XZAQDU": {
+            "asin": "B008XZAQDU",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "GLW\u00ae 10w 12v Ac or Dc Warm White Led Flood Light Waterproof Outdoor Lights 750lm 80w Halogen Bulb Equivalent Black Case",
+            "normalizedName": "GLW\u00ae 10w 12v Ac or Dc Warm White Led Flood Light Waterproof Outdoor Lights 750lm 80w Halogen Bulb Equivalent Black Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00F5G7MJG": {
+            "asin": "B00F5G7MJG",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Truck RV ATV Snowmobile Trailer LED License Plate Light - Black Finish",
+            "normalizedName": "Truck RV ATV Snowmobile Trailer LED License Plate Light - Black Finish",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

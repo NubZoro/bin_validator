@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008ZT66JC": {
+            "asin": "B008ZT66JC",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Mommy's Helper Slide-Lok Bi-Fold Door Lock, 2 Count",
+            "normalizedName": "Mommy's Helper Slide-Lok Bi-Fold Door Lock, 2 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00CCIM1YQ": {
+            "asin": "B00CCIM1YQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "The Club UTL810 Utility Lock, Yellow",
+            "normalizedName": "The Club UTL810 Utility Lock, Yellow",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4499999971068624
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.899999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

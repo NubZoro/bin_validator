@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01CFX0KZO": {
+            "asin": "B01CFX0KZO",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Brinkmann QBeam 800-2380-W Max Million III Rechargeable Spotlight Offroad Automotive/Garage /Emergency/ Boating/Fishing/Hunting/Camping/Hiking/Patrolling",
+            "normalizedName": "Brinkmann QBeam 800-2380-W Max Million III Rechargeable Spotlight Offroad Automotive/Garage /Emergency/ Boating/Fishing/Hunting/Camping/Hiking/Patrolling",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.399999995471611
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        },
+        "B01GJEUJ0G": {
+            "asin": "B01GJEUJ0G",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.899999981742
+            },
+            "name": "Placemats, Easome Washable Stain-resistant Woven Vinyl Kitchen PVC Non-slip Insulation Placemats Set of 4 (Brown-ten)",
+            "normalizedName": "Set of 4 Placemats, Easome Washable Stain-resistant Woven Vinyl Kitchen PVC Non-slip Insulation Placemats (Brown-ten)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

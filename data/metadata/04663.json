@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005CX21AM": {
+            "asin": "B005CX21AM",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Caramel Apple Dip - Can (8 lbs)",
+            "normalizedName": "Caramel Apple Dip - Can (8 lbs)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B007T1S2GW": {
+            "asin": "B007T1S2GW",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Mizani Thermasmooth Shampoo + Conditioner 33.8oz Duo \"Set\"",
+            "normalizedName": "Mizani Thermasmooth Shampoo + Conditioner 33.8oz Duo \"Set\"",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00TGHO6GM": {
+            "asin": "B00TGHO6GM",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Hefty Slider Freezer Bags, Gallon, 70 Count",
+            "normalizedName": "Hefty Slider Freezer Bags, Gallon, 70 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00TOVN56C": {
+            "asin": "B00TOVN56C",
+            "height": {
+                "unit": "IN",
+                "value": 3.6220472404
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.8661417212
+            },
+            "name": "Wonder Workshop Xylophone for Dash Robot",
+            "normalizedName": "Wonder Workshop Xylophone for Dash Robot",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2345760664201924
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.7401574714
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

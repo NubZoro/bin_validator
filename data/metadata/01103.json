@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001B5DTO2": {
+            "asin": "B001B5DTO2",
+            "height": {
+                "unit": "IN",
+                "value": 2.199999997756
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Petite Creations Baby Cubes, 1 Ounce, 8-Count",
+            "normalizedName": "Petite Creations Baby Cubes, 1 Ounce, 8-Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B0027Z7KN6": {
+            "asin": "B0027Z7KN6",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Kicking Horse Coffee, Cliff Hanger Espresso, Whole Bean Coffee,  2.2 Pound",
+            "normalizedName": "Kicking Horse Coffee, Cliff Hanger Espresso, Whole Bean Coffee,  2.2 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00701ROB0": {
+            "asin": "B00701ROB0",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "ChicoBag Snack Time rePETe (Recycled PET) Baggies Snack and Sandwich Reusable Bags, Pack of 3",
+            "normalizedName": "Pack of 3 ChicoBag Snack Time rePETe (Recycled PET) Baggies Snack and Sandwich Reusable Bags,",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B01AZMP23C": {
+            "asin": "B01AZMP23C",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 20.299999979294
+            },
+            "name": "Finding Dory Favor Pack 48ct [Contains 1 Manufacturer Retail Unit(s) Per Amazon Combined Package Sales Unit] - SKU# 396868",
+            "normalizedName": "Finding Dory Favor Pack 48ct [Contains 1 Manufacturer Retail Unit(s) Per Amazon Combined Package Sales Unit] - SKU# 396868",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.199999987556
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

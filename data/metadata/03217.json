@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003DYS2IC": {
+            "asin": "B003DYS2IC",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Nordic Naturals - Omega Joint Xtra, With Glucosamine Sulfate & Type II Collagen, 90 Soft Gels",
+            "normalizedName": "Nordic Naturals - Omega Joint Xtra, With Glucosamine Sulfate & Type II Collagen, 90 Soft Gels",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B004C0XKGK": {
+            "asin": "B004C0XKGK",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "name": "Standard Motor Products TX40T Engine Coolant Temperature Sensor",
+            "normalizedName": "Standard Motor Products TX40T Engine Coolant Temperature Sensor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B01C8X8AJY": {
+            "asin": "B01C8X8AJY",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "SockGuy SGX 8in Speed Trap Performance Cycling/Running Socks (Speed Trap - S/M)",
+            "normalizedName": "SockGuy SGX 8in Speed Trap Performance Cycling/Running Socks (Speed Trap - S/M)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

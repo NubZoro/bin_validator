@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0073UYW9U": {
+            "asin": "B0073UYW9U",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "3 Way ELL Sweep Central Vacuum Fitting",
+            "normalizedName": "3 Way ELL Sweep Central Vacuum Fitting",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B01F186UC2": {
+            "asin": "B01F186UC2",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8
+            },
+            "name": "Xperia XA Case\uff0cVinve Flip Premium PU Leather Cover Slim Folio Perfect Fit Case For Sony Xperia XA (Elegance Brown)",
+            "normalizedName": "Xperia XA Case\uff0cVinve Flip Premium PU Leather Cover Slim Folio Perfect Fit Case For Sony Xperia XA (Elegance Brown)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

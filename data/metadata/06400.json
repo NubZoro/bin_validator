@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009MI6UR8": {
+            "asin": "B009MI6UR8",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Saxx Men's Ultra Brief Fly, Black, X-Large",
+            "normalizedName": "Saxx Men's Ultra Brief Fly, Black, X-Large",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

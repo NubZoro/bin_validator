@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "8131526623": {
+            "asin": "8131526623",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Financial Management : Theory and Practice , 14th Ed",
+            "normalizedName": "Financial Management : Theory and Practice , 14th Ed",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B001HJYUDG": {
+            "asin": "B001HJYUDG",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Omegagenics METAGENICS EPA-DHA 720 - 120 SOFTGELS",
+            "normalizedName": "Omegagenics METAGENICS EPA-DHA 720 - 120 SOFTGELS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B002XPP7NU": {
+            "asin": "B002XPP7NU",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.2
+            },
+            "name": "Adventure Comics, Edition# 489",
+            "normalizedName": "Adventure Comics, Edition# 489",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 8.8
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

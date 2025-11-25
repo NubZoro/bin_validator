@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00096ZRQM": {
+            "asin": "B00096ZRQM",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Saxon Basic Fly Sheet Standard Neck",
+            "normalizedName": "Saxon Basic Fly Sheet Standard Neck",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00LR7ZELK": {
+            "asin": "B00LR7ZELK",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Colgate Optic White Toothpaste (5 Pack, 6.3 oz each, 31.5 oz total)",
+            "normalizedName": "5 Pack Colgate Optic White Toothpaste ( , 6.3 oz each, 31.5 oz total)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00UDJ4G62": {
+            "asin": "B00UDJ4G62",
+            "height": {
+                "unit": "IN",
+                "value": 3.8
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.7
+            },
+            "name": "Betsey Johnson On The Fringe Cosmetic Case, Blush, One Size",
+            "normalizedName": "Betsey Johnson On The Fringe Cosmetic Case, Blush, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.1
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005G2JFI0": {
+            "asin": "B005G2JFI0",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "StarTech.com 2.5-Inch Anti-Static Hard Drive Protector Case - 3 Pack - HDDCASE25BK (Black)",
+            "normalizedName": "3 Pack StarTech.com 2.5-Inch Anti-Static Hard Drive Protector Case - - HDDCASE25BK (Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00TQ3272G": {
+            "asin": "B00TQ3272G",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Pencils Pre-sharpened No. 2 144/box 12 Boxes of 12  New Improved Eraser",
+            "normalizedName": "Pencils Pre-sharpened No. 2 144/box 12 Boxes of 12  New Improved Eraser",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

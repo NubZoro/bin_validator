@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005O6B7": {
+            "asin": "B00005O6B7",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Intex King Kool Inflatable Lounge, 63\" X 33.5\", (Colors May Vary), 1 Pack",
+            "normalizedName": "1 Pack Intex King Kool Inflatable Lounge, 63\" X 33.5\", (Colors May Vary),",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1999999973165107
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B00I2F3EBM": {
+            "asin": "B00I2F3EBM",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Cetaphil Gentle Skin Cleanser, For all skin types, 16 Ounce Bottles (Pack of 3)",
+            "normalizedName": "(Pack of 3) Cetaphil Gentle Skin Cleanser, For all skin types, 16 Ounce Bottles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

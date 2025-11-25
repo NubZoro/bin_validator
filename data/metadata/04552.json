@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0399166157": {
+            "asin": "0399166157",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Firebird",
+            "normalizedName": "Firebird",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        },
+        "B00AVMRI0C": {
+            "asin": "B00AVMRI0C",
+            "height": {
+                "unit": "IN",
+                "value": 4.0157480274
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.8346456562
+            },
+            "name": "Professional 4 Tier Petal Multilayer Wedding Anniversary Cake baking pan 6\" 8\" 10\" 12\"",
+            "normalizedName": "Professional 4 Tier Petal Multilayer Wedding Anniversary Cake baking pan 6\" 8\" 10\" 12\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1746241707947807
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.8346456562
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

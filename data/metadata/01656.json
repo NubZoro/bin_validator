@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000HDC3QE": {
+            "asin": "B000HDC3QE",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.3385826656
+            },
+            "name": "Magformers Classic Set, colors may vary (30-pieces)",
+            "normalizedName": "Magformers Classic Set, colors may vary (30-pieces)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1904962148
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.5275590454
+            }
+        },
+        "B007BD9G9A": {
+            "asin": "B007BD9G9A",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "BRIGHT PURPLE PLASTIC PAILS (1 DOZEN) - BULK",
+            "normalizedName": "BRIGHT PURPLE PLASTIC PAILS (1 DOZEN) - BULK",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B014Z7ILY0": {
+            "asin": "B014Z7ILY0",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Pioneer TS-A1676R 6-1/2\" 3-Way Speaker, Set of 1",
+            "normalizedName": "Set of 1 Pioneer TS-A1676R 6-1/2\" 3-Way Speaker,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4999999970649336
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

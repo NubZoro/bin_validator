@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002ICX0I2": {
+            "asin": "B002ICX0I2",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Speakman S-4127 Metering Faucet with Lever Handles",
+            "normalizedName": "Speakman S-4127 Metering Faucet with Lever Handles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B002V0F7F0": {
+            "asin": "B002V0F7F0",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Ziploc Easy Zipper Variety Pack - 140 Bags(including 80 Quart Size Bags & 60 Gallon Size Bags)",
+            "normalizedName": "Ziploc Easy Zipper Variety Pack - 140 Bags(including 80 Quart Size Bags & 60 Gallon Size Bags)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

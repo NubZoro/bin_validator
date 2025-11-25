@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EZOXVKS": {
+            "asin": "B00EZOXVKS",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Norton 07660704056 Hook and Sand Universal Vac Hole Abrasive Disc with Hook and Loop Attachment, Paper Backing, Aluminum Oxide, 5 and 8 Holes, 5\" Diameter, Grit P320 Extra Fine (Pack of 25)",
+            "normalizedName": "(Pack of 25) Norton 07660704056 Hook and Sand Universal Vac Hole Abrasive Disc with Hook and Loop Attachment, Paper Backing, Aluminum Oxide, 5 and 8 Holes, 5\" Diameter, Grit P320 Extra Fine",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B0124XEI5S": {
+            "asin": "B0124XEI5S",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Swanson Premium Brand Turmeric Whole Root Powder 720 mg, 240 Capsules-2 Count,",
+            "normalizedName": "Swanson Premium Brand Turmeric Whole Root Powder 720 mg, 240 Capsules-2 Count,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

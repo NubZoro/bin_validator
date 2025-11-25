@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006HXWD": {
+            "asin": "B00006HXWD",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Belkin F1D9401-12 Enterprise 12' Dual Port USB KVM Cable",
+            "normalizedName": "Belkin F1D9401-12 Enterprise 12' Dual Port USB KVM Cable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00PVE6C34": {
+            "asin": "B00PVE6C34",
+            "height": {
+                "unit": "IN",
+                "value": 3.7795275552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.4566929068
+            },
+            "name": "D-Link Wireless Range Extender (DAP-1330)",
+            "normalizedName": "D-Link Wireless Range Extender (DAP-1330)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6613800350276188
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.2519684996
+            }
+        },
+        "B00WIVX72C": {
+            "asin": "B00WIVX72C",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "MLB St. Louis Cardinals Split Color Slide Slipper, Small, Red",
+            "normalizedName": "MLB St. Louis Cardinals Split Color Slide Slipper, Small, Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.099999989698
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

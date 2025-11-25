@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KZQ0GPS": {
+            "asin": "B00KZQ0GPS",
+            "height": {
+                "unit": "IN",
+                "value": 4.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.5
+            },
+            "name": "Captain America Dual Alarm Clock ( MC-M23 )",
+            "normalizedName": "Captain America Dual Alarm Clock ( MC-M23 )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

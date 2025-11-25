@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004LLGBQG": {
+            "asin": "B004LLGBQG",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Nespresso OriginalLine: Ristretto, 50 Count",
+            "normalizedName": "Nespresso OriginalLine: Ristretto, 50 Count",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00O8B7CFS": {
+            "asin": "B00O8B7CFS",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Pioneer AppRadio 4 SPH-DA120 6-Inch Capacitive Touchscreen Display Smartphone Receiver",
+            "normalizedName": "Pioneer AppRadio 4 SPH-DA120 6-Inch Capacitive Touchscreen Display Smartphone Receiver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.699999996058625
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

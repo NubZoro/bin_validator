@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01BG1V0IW": {
+            "asin": "B01BG1V0IW",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0199999877396
+            },
+            "name": "BPA Free Premium Cat Litter Mat - Extra Large - Best Quality Kitty Litter Catcher with 9-TM Scatter Control \u2013 Urine Proof \u2013 Soft Touch for Cats Paws - Black Color",
+            "normalizedName": "BPA Free Premium Cat Litter Mat - Extra Large - Best Quality Kitty Litter Catcher with 9-TM Scatter Control \u2013 Urine Proof \u2013 Soft Touch for Cats Paws - Black Color",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3499999971907215
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B01E9NBOIK": {
+            "asin": "B01E9NBOIK",
+            "height": {
+                "unit": "IN",
+                "value": 8.299999991534001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Rust-Oleum 2422 DIF Wallpaper Stripper Concentrate, 22-Ounce - 12 Pack",
+            "normalizedName": "12 Pack Rust-Oleum 2422 DIF Wallpaper Stripper Concentrate, 22-Ounce -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 21.09999998230574
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

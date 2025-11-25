@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "161519102X": {
+            "asin": "161519102X",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Build Your Running Body: A Total-Body Fitness Plan for All Distance Runners, from Milers to UltramarathonersRun Farther, Faster, and Injury-Free",
+            "normalizedName": "Build Your Running Body: A Total-Body Fitness Plan for All Distance Runners, from Milers to UltramarathonersRun Farther, Faster, and Injury-Free",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00O9931CC": {
+            "asin": "B00O9931CC",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Teenage Mutant Ninja Turtles Michelangelo Mikey Ceramic Piggy Bank Coin Bank",
+            "normalizedName": "Teenage Mutant Ninja Turtles Michelangelo Mikey Ceramic Piggy Bank Coin Bank",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

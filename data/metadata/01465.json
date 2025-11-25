@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0012KIBCQ": {
+            "asin": "B0012KIBCQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.8
+            },
+            "name": "Fancy Feast Wet Cat Food, Classic, Savory Salmon Feast, 3-Ounce Can, Pack of 24",
+            "normalizedName": "Pack of 24 Fancy Feast Wet Cat Food, Classic, Savory Salmon Feast, 3-Ounce Can,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

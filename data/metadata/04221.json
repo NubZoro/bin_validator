@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I9LCTSI": {
+            "asin": "B00I9LCTSI",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Clorox Disinfecting Wipes Value Pack, Fresh Scent and Citrus Blend, 225 Count - Amazon Vine",
+            "normalizedName": "Clorox Disinfecting Wipes Value Pack, Fresh Scent and Citrus Blend, 225 Count - Amazon Vine",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

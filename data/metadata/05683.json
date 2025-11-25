@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0050JDTZE": {
+            "asin": "B0050JDTZE",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Grasslands Road Simply Fabulous Happy Birthday Girl Wine Glass",
+            "normalizedName": "Grasslands Road Simply Fabulous Happy Birthday Girl Wine Glass",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994288
+            }
+        },
+        "B009GV22K0": {
+            "asin": "B009GV22K0",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Chicago Cutlery Kinzie Colors 3-Piece Chef/Utility/Parer Knife Set, Red/Yellow/Green",
+            "normalizedName": "Chicago Cutlery Kinzie Colors 3-Piece Chef/Utility/Parer Knife Set, Red/Yellow/Green",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

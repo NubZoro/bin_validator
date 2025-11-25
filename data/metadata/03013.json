@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PV15BPW": {
+            "asin": "B00PV15BPW",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Majestic Pure Therapeutic Grade Peppermint Essential Oil, 4 Oz. With Dropper",
+            "normalizedName": "Majestic Pure Therapeutic Grade Peppermint Essential Oil, 4 Oz. With Dropper",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01C73YYI6": {
+            "asin": "B01C73YYI6",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "name": "S7 Edge Case,Galaxy S7 Edge Case,Galaxy S7 Edge wallet leather Case,Thinkcase Galaxy S7 Edge Wallet Case [Wallet Function] Flip Covers Samsung Galaxy S7 Edge leather case",
+            "normalizedName": "S7 Edge Case,Galaxy S7 Edge Case,Galaxy S7 Edge wallet leather Case,Thinkcase Galaxy S7 Edge Wallet Case [Wallet Function] Flip Covers Samsung Galaxy S7 Edge leather case",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.362204722
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

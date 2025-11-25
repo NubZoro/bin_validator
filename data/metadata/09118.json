@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007C1KNH0": {
+            "asin": "B007C1KNH0",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Belkin Cinema Stripe Folio Case with Stand for the iPad 4th/3rd Generation and iPad 2 (Blue/Light Grey)",
+            "normalizedName": "Belkin Cinema Stripe Folio Case with Stand for the iPad 4th/3rd Generation and iPad 2 (Blue/Light Grey)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

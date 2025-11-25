@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00L5FUJEG": {
+            "asin": "B00L5FUJEG",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "ERIN erin fetherston Women's Isabelle Strapless Evening Gown, Black, 10",
+            "normalizedName": "ERIN erin fetherston Women's Isabelle Strapless Evening Gown, Black, 10",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.99999998572
+            }
+        },
+        "B012G1AVTA": {
+            "asin": "B012G1AVTA",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.399999983272
+            },
+            "name": "Optoma GT760A 720p 3D DLP Gaming Projector",
+            "normalizedName": "Optoma GT760A 720p 3D DLP Gaming Projector",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.249999993081628
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.199999986536
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

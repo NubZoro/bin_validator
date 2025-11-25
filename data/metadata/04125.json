@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321910397": {
+            "asin": "0321910397",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Nutrition: An Applied Approach (4th Edition)",
+            "normalizedName": "Nutrition: An Applied Approach (4th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "1305094158": {
+            "asin": "1305094158",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Sociology in Our Times: The Essentials",
+            "normalizedName": "Sociology in Our Times: The Essentials",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432002
+            }
+        },
+        "B008ZWILNS": {
+            "asin": "B008ZWILNS",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Aroy-D Pure Coconut Cream, 33.8 Fluid Ounce (Pack of 3)",
+            "normalizedName": "(Pack of 3) Aroy-D Pure Coconut Cream, 33.8 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00XM0M8NC": {
+            "asin": "B00XM0M8NC",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "New Ventilated Weight Lifting Gloves with Built-In Wrist Wraps, Full Palm Protection & Extra Grip. Great for Pull Ups, Cross Training, Crossfit, WOD's, Fitness, & Weightlifting. Suits Men & Women",
+            "normalizedName": "New Ventilated Weight Lifting Gloves with Built-In Wrist Wraps, Full Palm Protection & Extra Grip. Great for Pull Ups, Cross Training, Crossfit, WOD's, Fitness, & Weightlifting. Suits Men & Women",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

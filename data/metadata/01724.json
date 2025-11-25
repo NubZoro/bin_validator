@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002IT6X3O": {
+            "asin": "B002IT6X3O",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Bormioli Rocco Selecta Rocks 6-Piece Glass Set",
+            "normalizedName": "Bormioli Rocco Selecta Rocks 6-Piece Glass Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B002RND3XY": {
+            "asin": "B002RND3XY",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Paradise GL22725BK Low Voltage Cast Aluminum 50-Watt Halogen Sunfire Uplight, Black",
+            "normalizedName": "Paradise GL22725BK Low Voltage Cast Aluminum 50-Watt Halogen Sunfire Uplight, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B0036FB6FY": {
+            "asin": "B0036FB6FY",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Nature\u2019s Earthly Choice: Organic Quinoa (1 x 4 lbs)",
+            "normalizedName": "Nature\u2019s Earthly Choice: Organic Quinoa (1 x 4 lbs)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

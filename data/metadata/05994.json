@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000RUL8M2": {
+            "asin": "B000RUL8M2",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Schlage F40GEO716 Georgian Privacy Knob, Aged Bronze",
+            "normalizedName": "Schlage F40GEO716 Georgian Privacy Knob, Aged Bronze",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2786680687923422
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B01AD1SSC2": {
+            "asin": "B01AD1SSC2",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Funko POP Games: Doom - Space Marine Action Figure",
+            "normalizedName": "Funko POP Games: Doom - Space Marine Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JDLRIFM": {
+            "asin": "B00JDLRIFM",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Bastex Heavy Duty Hybrid Dual Armor Case for Sasmung Galaxy S4 IV i9500 - Blue & Black Hard Shell",
+            "normalizedName": "Bastex Heavy Duty Hybrid Dual Armor Case for Sasmung Galaxy S4 IV i9500 - Blue & Black Hard Shell",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00S0X00A4": {
+            "asin": "B00S0X00A4",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Gund Curious George Doctor",
+            "normalizedName": "Gund Curious George Doctor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

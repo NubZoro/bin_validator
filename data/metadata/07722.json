@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001M0AK5M": {
+            "asin": "B001M0AK5M",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Quaker Instant Oatmeal, Apples & Cinnamon, Breakfast Cereal, 10 Packets Per Box (Pack of 4)",
+            "normalizedName": "(Pack of 4) Quaker Instant Oatmeal, Apples & Cinnamon, Breakfast Cereal, 10 Packets Per Box",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.700000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B00DK8TQM2": {
+            "asin": "B00DK8TQM2",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Speakman S-2760-BN Rainstream Modern Round Rain Shower, Brushed Nickel",
+            "normalizedName": "Speakman S-2760-BN Rainstream Modern Round Rain Shower, Brushed Nickel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

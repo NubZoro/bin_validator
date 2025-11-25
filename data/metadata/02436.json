@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GCNBYY": {
+            "asin": "B000GCNBYY",
+            "height": {
+                "unit": "IN",
+                "value": 0.25196850368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Dr. Scholl's Bunion Cushions with ComfortPlus 6 ea...",
+            "normalizedName": "Dr. Scholl's Bunion Cushions with ComfortPlus 6 ea...",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.75196850113
+            }
+        },
+        "B003JMGTAG": {
+            "asin": "B003JMGTAG",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "name": "FusionBeauty Sculptdiva Contouring and Sculpting Blush with Amplifat, Cherub",
+            "normalizedName": "FusionBeauty Sculptdiva Contouring and Sculpting Blush with Amplifat, Cherub",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00OUDSD84": {
+            "asin": "B00OUDSD84",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "[Super Bright] Music Stand Light - Can Be Used As Bulb LED Book Reading Lamp - Clip On - Comes With USB Cable and Adapter - Best Suited For: Music Stands, Reading, BBQ, Grilling, Desk & Travel - Used By Musicians, Readers, Artists, Chefs - Fully Portable - Divine LEDs",
+            "normalizedName": "[Super Bright] Music Stand Light - Can Be Used As Bulb LED Book Reading Lamp - Clip On - Comes With USB Cable and Adapter - Best Suited For: Music Stands, Reading, BBQ, Grilling, Desk & Travel - Used By Musicians, Readers, Artists, Chefs - Fully Portable - Divine LEDs",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

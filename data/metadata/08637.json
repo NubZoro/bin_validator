@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KCJQZVW": {
+            "asin": "B00KCJQZVW",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "vitaminwater zero variety pack, 20 fl oz (Pack of 12)",
+            "normalizedName": "(Pack of 12) vitaminwater zero variety pack, 20 fl oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 17.0999999856601
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B01AWGZKR4": {
+            "asin": "B01AWGZKR4",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Ever After High Epic Winter Blondie Lockes Doll",
+            "normalizedName": "Ever After High Epic Winter Blondie Lockes Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

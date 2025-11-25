@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000CGB68": {
+            "asin": "B0000CGB68",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Sculpey III S3 30-1 Oven Bake Clay Sampler, 30 Colors",
+            "normalizedName": "Sculpey III S3 30-1 Oven Bake Clay Sampler, 30 Colors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B00SK9OI5G": {
+            "asin": "B00SK9OI5G",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "Self Adhesive Weatherstrip, .375'' Wide High Quality Silicone Teardrop",
+            "normalizedName": "Self Adhesive Weatherstrip, .375'' Wide High Quality Silicone Teardrop",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        },
+        "B014ZGE7BW": {
+            "asin": "B014ZGE7BW",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Bruntmor, 15 Oz Double Wall 18/8 Stainless Steel Beer Mug with Handle. Set of 2",
+            "normalizedName": "Set of 2 Bruntmor, 15 Oz Double Wall 18/8 Stainless Steel Beer Mug with Handle.",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

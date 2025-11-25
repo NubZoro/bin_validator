@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005DNVLJS": {
+            "asin": "B005DNVLJS",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Mickey Mouse Plush Head Cushion Pillow",
+            "normalizedName": "Mickey Mouse Plush Head Cushion Pillow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B00F9TJ5F8": {
+            "asin": "B00F9TJ5F8",
+            "height": {
+                "unit": "IN",
+                "value": 5.0393700736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.448818888
+            },
+            "name": "Enesco Disney Showcase Rapunzel Figurine, 8-Inch",
+            "normalizedName": "Enesco Disney Showcase Rapunzel Figurine, 8-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.719588091071809
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.9291338512
+            }
+        },
+        "B0199R4ZSW": {
+            "asin": "B0199R4ZSW",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Disney Tsum Tsum Lights & Sounds Mickey Plush",
+            "normalizedName": "Disney Tsum Tsum Lights & Sounds Mickey Plush",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

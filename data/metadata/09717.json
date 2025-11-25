@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00S98IJK8": {
+            "asin": "B00S98IJK8",
+            "height": {
+                "unit": "IN",
+                "value": 5.88
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.25
+            },
+            "name": "Rishi Organic Masala Chai Tea - 15 bags per pack -- 6 packs per case.",
+            "normalizedName": "Rishi Organic Masala Chai Tea - 15 bags per pack -- 6 packs per case.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.75
+            }
+        },
+        "B019YJQOI4": {
+            "asin": "B019YJQOI4",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Peace Yoga\u00ae Set of 2 Turquoise 9\" x 6\" x 4\" Yoga Blocks",
+            "normalizedName": "Set of 2 Peace Yoga\u00ae Turquoise 9\" x 6\" x 4\" Yoga Blocks",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

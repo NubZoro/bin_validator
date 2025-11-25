@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1484725921": {
+            "asin": "1484725921",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Finding Dory (Novelty): Come Swim with Me!",
+            "normalizedName": "Finding Dory (Novelty): Come Swim with Me!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B002BDNLR8": {
+            "asin": "B002BDNLR8",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.8267716476
+            },
+            "name": "Staedtler Ballpoint Stick Pens, 43235MWP10TH",
+            "normalizedName": "Staedtler Ballpoint Stick Pens, 43235MWP10TH",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800934069835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4881889718
+            }
+        },
+        "B00GOLGWVK": {
+            "asin": "B00GOLGWVK",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Panera Bread Gift Card $25",
+            "normalizedName": "Panera Bread Gift Card $25",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00WIWXQYK": {
+            "asin": "B00WIWXQYK",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Funny Guy Mugs I Don't Like Morning People Or Mornings Or People Ceramic Coffee Mug, Black, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs I Don't Like Morning People Or Mornings Or People Ceramic Coffee Mug, Black, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B013OGMYFA": {
+            "asin": "B013OGMYFA",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Galaxy A8 Case, Style4U Samsung Galaxy A8 Dual Layer Hybrid Armor Protective Case Cover for Samsung Galaxy A8 with 1 Style4U Stylus [Red]",
+            "normalizedName": "Galaxy A8 Case, Style4U Samsung Galaxy A8 Dual Layer Hybrid Armor Protective Case Cover for Samsung Galaxy A8 with 1 Style4U Stylus [Red]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 20
+}

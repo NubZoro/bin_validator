@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "113395653X": {
+            "asin": "113395653X",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Group Dynamics",
+            "normalizedName": "Group Dynamics",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00G97S4HE": {
+            "asin": "B00G97S4HE",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Fiber Optic Glacier Lite with Color-Changing Crystals by Westminster Inc.",
+            "normalizedName": "Fiber Optic Glacier Lite with Color-Changing Crystals by Westminster Inc.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00W7S34HY": {
+            "asin": "B00W7S34HY",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Optrix by Body Glove Pro Kit for iPhone 6/6s- Retail Packaging",
+            "normalizedName": "Optrix by Body Glove Pro Kit for iPhone 6/6s- Retail Packaging",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B019D199SK": {
+            "asin": "B019D199SK",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "Monster Cable Interlink DataLink 100 Digital Coaxial Cable (4 Meters)(No Frills Packaging)",
+            "normalizedName": "Monster Cable Interlink DataLink 100 Digital Coaxial Cable (4 Meters)(No Frills Packaging)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 8.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00020T4UK": {
+            "asin": "B00020T4UK",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Verbatim DVD-R 4.7GB 8X DataLifePlus White Inkjet Printable, Hub Printable 50 Disc Spindle 94854",
+            "normalizedName": "Verbatim DVD-R 4.7GB 8X DataLifePlus White Inkjet Printable, Hub Printable 50 Disc Spindle 94854",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B003SM8LLC": {
+            "asin": "B003SM8LLC",
+            "height": {
+                "unit": "IN",
+                "value": 4.4094488144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.8031495912
+            },
+            "name": "Sagaform Pet Thermal Glass Water Bottle with Stopper, 50-Ounce",
+            "normalizedName": "Sagaform Pet Thermal Glass Water Bottle with Stopper, 50-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4094488144
+            }
+        },
+        "B00O35DMNU": {
+            "asin": "B00O35DMNU",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Mellanni Bed Sheet Set - HIGHEST QUALITY Brushed Microfiber 1800 Bedding - Wrinkle, Fade, Stain Resistant - Hypoallergenic - 4 Piece (Full, Burgundy)",
+            "normalizedName": "Mellanni Bed Sheet Set - HIGHEST QUALITY Brushed Microfiber 1800 Bedding - Wrinkle, Fade, Stain Resistant - Hypoallergenic - 4 Piece (Full, Burgundy)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2499999972745806
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

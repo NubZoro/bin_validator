@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01F2DYXVG": {
+            "asin": "B01F2DYXVG",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Crayola Washable Finger Paints, 8-Count ( 3 ounce no-drip tubes ), Red, Blue, Yellow, Green, Orange, Purple, Lime Green And Teal",
+            "normalizedName": "Crayola Washable Finger Paints, 8-Count ( 3 ounce no-drip tubes ), Red, Blue, Yellow, Green, Orange, Purple, Lime Green And Teal",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3499999980293125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

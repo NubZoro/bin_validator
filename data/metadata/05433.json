@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00427TAIK": {
+            "asin": "B00427TAIK",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Evoluent VerticalMouse 4 \"Regular Size\" Right Hand (model # VM4R) - USB Wired",
+            "normalizedName": "Evoluent VerticalMouse 4 \"Regular Size\" Right Hand (model # VM4R) - USB Wired",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00U15IVNC": {
+            "asin": "B00U15IVNC",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Olay Regenerist Luminous Brightening Foaming Cleanser Cream, 6.7 Fluid Ounce",
+            "normalizedName": "Olay Regenerist Luminous Brightening Foaming Cleanser Cream, 6.7 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TKF689I": {
+            "asin": "B00TKF689I",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "2X Contigo Cleaning Brushes, Set of 3",
+            "normalizedName": "Set of 3 2X Contigo Cleaning Brushes,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01DVS096C": {
+            "asin": "B01DVS096C",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Minoniso 7-in-1 Fujifilm Instax Mini 8 Camera Accessory Set Bundle with Camera Case, Book Album, Color Lens Set, Selfie Lens, Wall Hanging Frames, Film Frame and Stickers",
+            "normalizedName": "Minoniso 7-in-1 Fujifilm Instax Mini 8 Camera Accessory Set Bundle with Camera Case, Book Album, Color Lens Set, Selfie Lens, Wall Hanging Frames, Film Frame and Stickers",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

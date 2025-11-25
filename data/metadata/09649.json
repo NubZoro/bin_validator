@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ENP4F4K": {
+            "asin": "B00ENP4F4K",
+            "height": {
+                "unit": "IN",
+                "value": 2.1
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.375
+            },
+            "name": "Calista Tools Refine Conditioner, 8 Ounce",
+            "normalizedName": "Calista Tools Refine Conditioner, 8 Ounce",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1
+            }
+        },
+        "B00NNC9GVQ": {
+            "asin": "B00NNC9GVQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8503936938
+            },
+            "name": "OtterBox Defender Series 4.7-Inch Case for iPhone 6, Crushed Damson (77-50209)",
+            "normalizedName": "OtterBox Defender Series 4.7-Inch Case for iPhone 6, Crushed Damson (77-50209)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280213493476
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

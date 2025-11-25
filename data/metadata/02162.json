@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BDB95G": {
+            "asin": "B000BDB95G",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "name": "The Hillman Group 829300 1/4 by 20-Inch Stainless Steel Finish Hex Nut, 100-Pack",
+            "normalizedName": "100-Pack The Hillman Group 829300 1/4 by 20-Inch Stainless Steel Finish Hex Nut,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B00R97J6BG": {
+            "asin": "B00R97J6BG",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Rosewill 10' 18 AWG 2-Slot AC Power Cord/Cable for Laptops & Notebooks C7/1-15P (RCPC-14018)",
+            "normalizedName": "Rosewill 10' 18 AWG 2-Slot AC Power Cord/Cable for Laptops & Notebooks C7/1-15P (RCPC-14018)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

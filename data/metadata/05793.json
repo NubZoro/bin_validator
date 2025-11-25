@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0048RFDSA": {
+            "asin": "B0048RFDSA",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Household Essentials Holiday Dinnerware Storage Chest for Dessert Plates or Bowls, Red with Green Trim",
+            "normalizedName": "Household Essentials Holiday Dinnerware Storage Chest for Dessert Plates or Bowls, Red with Green Trim",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B00ZL29LHA": {
+            "asin": "B00ZL29LHA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Toptheway Long Straight White Costume Anime Cosplay Synthetic Unisex Wig",
+            "normalizedName": "Toptheway Long Straight White Costume Anime Cosplay Synthetic Unisex Wig",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

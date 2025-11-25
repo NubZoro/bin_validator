@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000Q1F008": {
+            "asin": "B000Q1F008",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Rachael Ray's Holidays 3 discs (30 Minute Meals Holidays in a Hurry / Thanksgiving in 60 / Holiday Entertaining in 60)",
+            "normalizedName": "Rachael Ray's Holidays 3 discs (30 Minute Meals Holidays in a Hurry / Thanksgiving in 60 / Holiday Entertaining in 60)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B000UKBJOQ": {
+            "asin": "B000UKBJOQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "The Human Body",
+            "normalizedName": "The Human Body",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B01CMFTUE2": {
+            "asin": "B01CMFTUE2",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "LCD Display &Touch Screen Digitizer Assembly for Iphone 5C + Free Tools (Black)",
+            "normalizedName": "LCD Display &Touch Screen Digitizer Assembly for Iphone 5C + Free Tools (Black)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084001
+            }
+        },
+        "B01D44BV88": {
+            "asin": "B01D44BV88",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "iPhone 6s Case, Kinps iPhone Protective Case TPU Bumper Frame & PC Back Panel Drop Resistance Anti-Scratch Clear Back for iPhone 6/6S - Rose Gold",
+            "normalizedName": "iPhone 6s Case, Kinps iPhone Protective Case TPU Bumper Frame & PC Back Panel Drop Resistance Anti-Scratch Clear Back for iPhone 6/6S - Rose Gold",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

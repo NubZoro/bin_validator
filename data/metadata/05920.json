@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000LSZ2D6": {
+            "asin": "B000LSZ2D6",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Plantronics HW251N SupraPlus Wideband Headset (64338-31)",
+            "normalizedName": "Plantronics HW251N SupraPlus Wideband Headset (64338-31)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00E9ODPEG": {
+            "asin": "B00E9ODPEG",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "2\" X 27' HFS 10,000 Lb Heavy-duty Tie Down - J Hook - Rubber Coated Handle",
+            "normalizedName": "2\" X 27' HFS 10,000 Lb Heavy-duty Tie Down - J Hook - Rubber Coated Handle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B01CWFY5ME": {
+            "asin": "B01CWFY5ME",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.75
+            },
+            "name": "Sadek J Willfred Frog Couple on Lily Pad Salt & Pepper S/P Shakers",
+            "normalizedName": "Sadek J Willfred Frog Couple on Lily Pad Salt & Pepper S/P Shakers",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.75
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

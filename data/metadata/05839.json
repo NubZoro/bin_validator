@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "143368912X": {
+            "asin": "143368912X",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Unashamed",
+            "normalizedName": "Unashamed",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B000GCJNDC": {
+            "asin": "B000GCJNDC",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002
+            },
+            "name": "NUK Confetti Ducks Orthodontic Silicone Pacifier",
+            "normalizedName": "NUK Confetti Ducks Orthodontic Silicone Pacifier",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

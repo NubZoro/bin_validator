@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00H88W6CC": {
+            "asin": "B00H88W6CC",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Neenah Capitol Bond Writing Paper, Letter 8.5 x 11 Inches, 24 Pound, White 91 Brightness, 500 Sheets (B724)",
+            "normalizedName": "Neenah Capitol Bond Writing Paper, Letter 8.5 x 11 Inches, 24 Pound, White 91 Brightness, 500 Sheets (B724)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00LA520Y8": {
+            "asin": "B00LA520Y8",
+            "height": {
+                "unit": "IN",
+                "value": 3.7007873978
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.661417314
+            },
+            "name": "Bluedio HT Turbine Wireless Bluetooth 4.1 Stereo Headphones with Mic (Black)",
+            "normalizedName": "Bluedio HT Turbine Wireless Bluetooth 4.1 Stereo Headphones with Mic (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9259320490386663
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.267716527
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

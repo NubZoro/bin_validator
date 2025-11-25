@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00SL0C7XE": {
+            "asin": "B00SL0C7XE",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Fisher-Price Nickelodeon Blaze and the Monster Machines Talking Blaze",
+            "normalizedName": "Fisher-Price Nickelodeon Blaze and the Monster Machines Talking Blaze",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

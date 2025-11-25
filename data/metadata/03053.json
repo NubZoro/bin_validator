@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0544628268": {
+            "asin": "0544628268",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "CliffsNotes Praxis Mathematics: Content Knowledge (5161), 3rd Edition",
+            "normalizedName": "CliffsNotes Praxis Mathematics: Content Knowledge (5161), 3rd Edition",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B003RCOAVS": {
+            "asin": "B003RCOAVS",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Blocker Tie Ring II",
+            "normalizedName": "Blocker Tie Ring II",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

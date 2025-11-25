@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006B8IU": {
+            "asin": "B00006B8IU",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.448818888
+            },
+            "name": "Gel Crystal Transparent Mousepad and Wrist Rest - Purple",
+            "normalizedName": "Gel Crystal Transparent Mousepad and Wrist Rest - Purple",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560426986952
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.2913385732
+            }
+        },
+        "B002JAKRAM": {
+            "asin": "B002JAKRAM",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.1811023508
+            },
+            "name": "Frigidaire ULTRAWF Refrigerator Water Filter",
+            "normalizedName": "Frigidaire ULTRAWF Refrigerator Water Filter",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5731960303572697
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.4409448794
+            }
+        },
+        "B004LO7ND8": {
+            "asin": "B004LO7ND8",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.249999986485
+            },
+            "name": "CareFRESH\u00ae Natural\u2122 Premium Soft Bedding 14L Bag, 2.2 Lbs.",
+            "normalizedName": "CareFRESH\u00ae Natural\u2122 Premium Soft Bedding 14L Bag, 2.2 Lbs.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B00RXY16EA": {
+            "asin": "B00RXY16EA",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "The Orb Factory PlushCraft Unicorn Pillow",
+            "normalizedName": "The Orb Factory PlushCraft Unicorn Pillow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

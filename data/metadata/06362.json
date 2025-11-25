@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000ZML6PQ": {
+            "asin": "B000ZML6PQ",
+            "height": {
+                "unit": "IN",
+                "value": 8.5826771566
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.236220462
+            },
+            "name": "KAHLA Five Senses Pepper Flask, White Color, 1 Piece",
+            "normalizedName": "KAHLA Five Senses Pepper Flask, White Color, 1 Piece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.06
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.7637795176
+            }
+        },
+        "B002ZZB9MQ": {
+            "asin": "B002ZZB9MQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Smead Seal & View File Folder Label Protector with Clear Laminate, 3-1/2 x 1-11/16 -100 per Pack Sold as 2 Packs of - 100 - / - Total of 200 Each",
+            "normalizedName": "2 Pack Smead Seal & View File Folder Label Protector with Clear Laminate, 3-1/2 x 1-11/16 -100 per Pack Sold as s of - 100 - / - Total of 200 Each",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

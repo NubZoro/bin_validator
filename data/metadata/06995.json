@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0073381497": {
+            "asin": "0073381497",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.4960629804
+            },
+            "name": "Organizational Behavior: Human Behavior at Work",
+            "normalizedName": "Organizational Behavior: Human Behavior at Work",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.44
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0314960548
+            }
+        },
+        "0399133844": {
+            "asin": "0399133844",
+            "height": {
+                "unit": "IN",
+                "value": 1.11023621934
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.12992125053
+            },
+            "name": "Gracie: A Love Story",
+            "normalizedName": "Gracie: A Love Story",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5799928130036134
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.57086613503
+            }
+        },
+        "B015S8CSEO": {
+            "asin": "B015S8CSEO",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "High End Essentials \u2605 Organic Shea Butter - *USDA CERTIFIED - Grade A - BPA Free Jar - 16 oz, 100% Pure Premium Unrefined Raw African Ivory Karite *Highest Quality for Organic Skin Care & Hair Care",
+            "normalizedName": "High End Essentials \u2605 Organic Shea Butter - *USDA CERTIFIED - Grade A - BPA Free Jar - 16 oz, 100% Pure Premium Unrefined Raw African Ivory Karite *Highest Quality for Organic Skin Care & Hair Care",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B0184NW5ZM": {
+            "asin": "B0184NW5ZM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Culiri(TM) Pizza Wheel. Compact Strong Lightweight Zinc Alloy Pizza Cutter. 2.5 Inch Blade. For Homemade Pizza, Pies, and Pastries.",
+            "normalizedName": "Culiri(TM) Pizza Wheel. Compact Strong Lightweight Zinc Alloy Pizza Cutter. 2.5 Inch Blade. For Homemade Pizza, Pies, and Pastries.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

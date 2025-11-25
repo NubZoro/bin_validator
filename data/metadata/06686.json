@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000XMI2P0": {
+            "asin": "B000XMI2P0",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Troxel Spirit - (Black, X-Large)",
+            "normalizedName": "Troxel Spirit - (Black, X-Large)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B01E7XY29K": {
+            "asin": "B01E7XY29K",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "SIX-Position, 360\u00b0 Ergonomic Baby & Child Carrier by LILLEbaby \u2013 The COMPLETE Original (Black \"Soho\")",
+            "normalizedName": "SIX-Position, 360\u00b0 Ergonomic Baby & Child Carrier by LILLEbaby \u2013 The COMPLETE Original (Black \"Soho\")",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.11641611208838
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.399999986332
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

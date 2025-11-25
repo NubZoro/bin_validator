@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OV9JT0I": {
+            "asin": "B00OV9JT0I",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "EVGA GeForce GTX 970 4GB SC+ GAMING ACX 2.0, 26% Cooler and 36% Quieter Cooling Graphics Card 04G-P4-2977-KR",
+            "normalizedName": "EVGA GeForce GTX 970 4GB SC+ GAMING ACX 2.0, 26% Cooler and 36% Quieter Cooling Graphics Card 04G-P4-2977-KR",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B01DY13G8Y": {
+            "asin": "B01DY13G8Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Toprime&#174; Wireless Bluetooth Speakers with Smart Touch LED Mood Lamp, Muisc Player / Hands-free Bluetooth Speakerphone,TF Card Supported Music Player",
+            "normalizedName": "Toprime&#174; Wireless Bluetooth Speakers with Smart Touch LED Mood Lamp, Muisc Player / Hands-free Bluetooth Speakerphone,TF Card Supported Music Player",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

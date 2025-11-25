@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013U75B8": {
+            "asin": "B0013U75B8",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Dynarex SafeTouch Nitrile Exam Gloves, Non Latex, Powder-Free, Medium, Box/100",
+            "normalizedName": "Dynarex SafeTouch Nitrile Exam Gloves, Non Latex, Powder-Free, Medium, Box/100",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B001KQEO8W": {
+            "asin": "B001KQEO8W",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Fram CA10234 Extra Guard Panel Air Filter",
+            "normalizedName": "Fram CA10234 Extra Guard Panel Air Filter",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00QU8V7JO": {
+            "asin": "B00QU8V7JO",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Inspired Basics Grill Gloves 662\u00b0F Heat Resistant Oven Gloves for Kitchen and Outdoor Cooking Gloves (One Pair)",
+            "normalizedName": "Inspired Basics Grill Gloves 662\u00b0F Heat Resistant Oven Gloves for Kitchen and Outdoor Cooking Gloves (One Pair)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00WI2DN4S": {
+            "asin": "B00WI2DN4S",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Anker PowerPort 6 (60W 6-Port USB Charging Hub) + [6-Pack] Premium 1ft Micro USB Cables for Samsung Galaxy, Nexus, HTC, Motorola and More",
+            "normalizedName": "6-Pack Anker PowerPort 6 (60W 6-Port USB Charging Hub) + [ ] Premium 1ft Micro USB Cables for Samsung Galaxy, Nexus, HTC, Motorola and More",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

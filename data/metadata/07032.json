@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NPZYZRQ": {
+            "asin": "B00NPZYZRQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "SARO LIFESTYLE 4-Piece Studded Design Charger Plate Set, 13-Inch, Gold, Round",
+            "normalizedName": "SARO LIFESTYLE 4-Piece Studded Design Charger Plate Set, 13-Inch, Gold, Round",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.299999986434
+            }
+        },
+        "B0115VMHSU": {
+            "asin": "B0115VMHSU",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "Up & Up Yard Stuffer Lawn and Leaf Bag 30 Gallon 20 Pack",
+            "normalizedName": "20 Pack Up & Up Yard Stuffer Lawn and Leaf Bag 30 Gallon",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.099999990691645
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.399999987352
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

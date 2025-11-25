@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000040W4": {
+            "asin": "B0000040W4",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.4330708606
+            },
+            "name": "Bach: Magnificat; Jauchzet Gott in allen Landen",
+            "normalizedName": "Bach: Magnificat; Jauchzet Gott in allen Landen",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        },
+        "B007RA0ZAQ": {
+            "asin": "B007RA0ZAQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Phillips Colon Health Probiotic Capsules, 60 Count",
+            "normalizedName": "Phillips Colon Health Probiotic Capsules, 60 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B00LURTD2S": {
+            "asin": "B00LURTD2S",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Uxcell Waterproof Bib Apron PVC Nylon Flower Pattern, Yellow/Orange",
+            "normalizedName": "Uxcell Waterproof Bib Apron PVC Nylon Flower Pattern, Yellow/Orange",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00NB1U6OA": {
+            "asin": "B00NB1U6OA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Aqua Sphere Kaiman Swim Goggle (Regular, Clear Lens, White / Neon Green)",
+            "normalizedName": "Aqua Sphere Kaiman Swim Goggle (Regular, Clear Lens, White / Neon Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002PNVXEC": {
+            "asin": "B002PNVXEC",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Darice 40-Piece Metal Spacer Beads, Assorted Shapes, Antique Gold",
+            "normalizedName": "Darice 40-Piece Metal Spacer Beads, Assorted Shapes, Antique Gold",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999795854029018
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B008ORUYU2": {
+            "asin": "B008ORUYU2",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Duracell Alkaline Duralock Batteries AA 20 Pack + FREE Storage Case Clamshell Blister Pack",
+            "normalizedName": "20 Pack Duracell Alkaline Duralock Batteries AA + FREE Storage Case Clamshell Blister Pack",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

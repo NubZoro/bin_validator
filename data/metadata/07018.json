@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0055B6J9A": {
+            "asin": "B0055B6J9A",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Folgers Coffee Singles Classic Roast Coffee Bags, 6 Ounce, 38 Count",
+            "normalizedName": "Folgers Coffee Singles Classic Roast Coffee Bags, 6 Ounce, 38 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01FUDU0OW": {
+            "asin": "B01FUDU0OW",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Hammock Tree Straps, Rusee Tree Swings Hammock Accessories Suspension Hanging Strap Kit Heavy Duty Hook, Safer Lock Snap Carabiner Hook + Carry Pouch for Outdoor Camping, Hiking, Travel, Backpacking",
+            "normalizedName": "Hammock Tree Straps, Rusee Tree Swings Hammock Accessories Suspension Hanging Strap Kit Heavy Duty Hook, Safer Lock Snap Carabiner Hook + Carry Pouch for Outdoor Camping, Hiking, Travel, Backpacking",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

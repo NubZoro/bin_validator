@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1476886857": {
+            "asin": "1476886857",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "The Most Requested Songs of the '80s",
+            "normalizedName": "The Most Requested Songs of the '80s",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00B0OY8EY": {
+            "asin": "B00B0OY8EY",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Group Vertical\u00ae White Touch Screen Display Digitizer Complete Assembly + Home Button Menu for Apple iPad 3 3rd Generation A1416 A1403 A1430",
+            "normalizedName": "Group Vertical\u00ae White Touch Screen Display Digitizer Complete Assembly + Home Button Menu for Apple iPad 3 3rd Generation A1416 A1403 A1430",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

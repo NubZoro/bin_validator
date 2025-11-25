@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005DQ5C2C": {
+            "asin": "B005DQ5C2C",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Factory Spec FS-206 1.5\" Aluminum ATV Wheel Spacer",
+            "normalizedName": "Factory Spec FS-206 1.5\" Aluminum ATV Wheel Spacer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B0096451FA": {
+            "asin": "B0096451FA",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.799999983884002
+            },
+            "name": "UPPAbaby Vista/Cruz Snack Tray, Pre-2015 Model",
+            "normalizedName": "UPPAbaby Vista/Cruz Snack Tray, Pre-2015 Model",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

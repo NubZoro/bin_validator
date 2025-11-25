@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M7S11YC": {
+            "asin": "B00M7S11YC",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Folio Case for iPhone 6 Case - Bear Motion for iPhone 6 4.7 - Luxury Denim + 100% Genuine Buffalo Hide Leather Wallet Folio Case for iPhone 6 4.7 (Brown)",
+            "normalizedName": "Folio Case for iPhone 6 Case - Bear Motion for iPhone 6 4.7 - Luxury Denim + 100% Genuine Buffalo Hide Leather Wallet Folio Case for iPhone 6 4.7 (Brown)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00V068M8A": {
+            "asin": "B00V068M8A",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "name": "Rikki Knight Compact Mirror on Distressed Wood Design, Saint Pierre and Miquelon Flag, 3 Ounce",
+            "normalizedName": "Rikki Knight Compact Mirror on Distressed Wood Design, Saint Pierre and Miquelon Flag, 3 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

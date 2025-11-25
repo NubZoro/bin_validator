@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0471253111": {
+            "asin": "0471253111",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Secrets and Lies: Digital Security in a Networked World",
+            "normalizedName": "Secrets and Lies: Digital Security in a Networked World",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "0813912660": {
+            "asin": "0813912660",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "James Monroe: The Quest for National Identity",
+            "normalizedName": "James Monroe: The Quest for National Identity",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "1400067820": {
+            "asin": "1400067820",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Antifragile: Things That Gain from Disorder (Incerto)",
+            "normalizedName": "Antifragile: Things That Gain from Disorder (Incerto)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "1455583529": {
+            "asin": "1455583529",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Cook Your Butt Off!: Lose Up to a Pound a Day with Fat-Burning Foods and Gluten-Free Recipes",
+            "normalizedName": "Cook Your Butt Off!: Lose Up to a Pound a Day with Fat-Burning Foods and Gluten-Free Recipes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

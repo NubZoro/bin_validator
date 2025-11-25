@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008ORUL50": {
+            "asin": "B008ORUL50",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Calista Tools Ion Hot Rollers Short Style Set 12 Base",
+            "normalizedName": "Calista Tools Ion Hot Rollers Short Style Set 12 Base",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00C9802CW": {
+            "asin": "B00C9802CW",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Beats Mixr On-Ear Headphone - Neon Yellow",
+            "normalizedName": "Beats Mixr On-Ear Headphone - Neon Yellow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00UVN20AO": {
+            "asin": "B00UVN20AO",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "EVGA SuperNOVA 650 GS 80+ GOLD, 650W Continuous Power, ECO Mode Fully Modular NVIDIA SLI and Crossfire Ready 5 Year Warranty Power Supply 220-GS-0650-V1",
+            "normalizedName": "EVGA SuperNOVA 650 GS 80+ GOLD, 650W Continuous Power, ECO Mode Fully Modular NVIDIA SLI and Crossfire Ready 5 Year Warranty Power Supply 220-GS-0650-V1",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

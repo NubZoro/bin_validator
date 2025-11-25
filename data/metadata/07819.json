@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004TNU40U": {
+            "asin": "B004TNU40U",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.699999982966
+            },
+            "name": "Alpine SPS-619 6x9\" Coaxial 3-Way Type-S Speaker Set",
+            "normalizedName": "Alpine SPS-619 6x9\" Coaxial 3-Way Type-S Speaker Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B00OLSI22A": {
+            "asin": "B00OLSI22A",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.699999982966
+            },
+            "name": "Mini Pedal Exerciser w/ LCD Display Indoor Exercise Bike Resistance Adjustable",
+            "normalizedName": "Mini Pedal Exerciser w/ LCD Display Indoor Exercise Bike Resistance Adjustable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.599999986128
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

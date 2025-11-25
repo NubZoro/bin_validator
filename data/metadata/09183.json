@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000G1CPV0": {
+            "asin": "B000G1CPV0",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Amy's Organic Soups, Low Fat Minestrone, 14.1 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Amy's Organic Soups, Low Fat Minestrone, 14.1 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 12.499999989517617
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B00IUFILXU": {
+            "asin": "B00IUFILXU",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "100% Cotton Greek Key Embroidery, Single Ply, 2-Piece King Kendell Pillowcase Set, White/ Black",
+            "normalizedName": "100% Cotton Greek Key Embroidery, Single Ply, 2-Piece King Kendell Pillowcase Set, White/ Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

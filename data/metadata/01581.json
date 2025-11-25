@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0089LTCSS": {
+            "asin": "B0089LTCSS",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Genuine Honda Parts 17220-RJE-A00 Air Filter for Honda Ridgeline",
+            "normalizedName": "Genuine Honda Parts 17220-RJE-A00 Air Filter for Honda Ridgeline",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B0186IJ3IC": {
+            "asin": "B0186IJ3IC",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "MaxEeze Care Premium Disposable Underpads Moderate Absorbency (Chux) 23X36 Bag of 20",
+            "normalizedName": "MaxEeze Care Premium Disposable Underpads Moderate Absorbency (Chux) 23X36 Bag of 20",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005TOXFAO": {
+            "asin": "B005TOXFAO",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Superior 900 Gram Egyptian Cotton 4-Piece Hand Towel Set, Cream",
+            "normalizedName": "Superior 900 Gram Egyptian Cotton 4-Piece Hand Towel Set, Cream",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.13
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B01BSZKLK4": {
+            "asin": "B01BSZKLK4",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "Home Intuition 3-Feet Draft Stop Cloth Seal, Beige (1)",
+            "normalizedName": "Home Intuition 3-Feet Draft Stop Cloth Seal, Beige (1)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

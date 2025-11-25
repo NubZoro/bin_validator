@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000F4WOAU": {
+            "asin": "B000F4WOAU",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "MegaFood - Calcium, Magnesium & Potassium, Supports Healthy Bones & Muscles, 90 Tablets",
+            "normalizedName": "MegaFood - Calcium, Magnesium & Potassium, Supports Healthy Bones & Muscles, 90 Tablets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B001Q4HX36": {
+            "asin": "B001Q4HX36",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "name": "Chartpak Graphic Chart Tape, 1/8 Inch, Matte Black (BG1251M)",
+            "normalizedName": "Chartpak Graphic Chart Tape, 1/8 Inch, Matte Black (BG1251M)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

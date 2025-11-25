@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0470499087": {
+            "asin": "0470499087",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494
+            },
+            "name": "Enterprise Risk Management: Today's Leading Research and Best Practices for Tomorrow's Executives",
+            "normalizedName": "Enterprise Risk Management: Today's Leading Research and Best Practices for Tomorrow's Executives",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452
+            }
+        },
+        "B01739Y2FY": {
+            "asin": "B01739Y2FY",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Shopkins Season 4 Toy Figure (12 Pack)",
+            "normalizedName": "(12 Pack) Shopkins Season 4 Toy Figure",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

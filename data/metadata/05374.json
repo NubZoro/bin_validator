@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0312503008": {
+            "asin": "0312503008",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "First Words (Bilingual Bright Baby) / Primeras Palabras (Bebe Listo) (Spanish Edition)",
+            "normalizedName": "First Words (Bilingual Bright Baby) / Primeras Palabras (Bebe Listo) (Spanish Edition)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B0015KUE14": {
+            "asin": "B0015KUE14",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Walker (35786) 3\" Guillotine Exhaust Clamp",
+            "normalizedName": "Walker (35786) 3\" Guillotine Exhaust Clamp",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00A39IEN8": {
+            "asin": "B00A39IEN8",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Need for Speed Most Wanted U - Nintendo Wii U",
+            "normalizedName": "Need for Speed Most Wanted U - Nintendo Wii U",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

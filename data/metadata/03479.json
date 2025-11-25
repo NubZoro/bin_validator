@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0821221876": {
+            "asin": "0821221876",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.448818888
+            },
+            "name": "The Print (Ansel Adams Photography, Book 3)",
+            "normalizedName": "The Print (Ansel Adams Photography, Book 3)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.480314953
+            }
+        },
+        "1433552272": {
+            "asin": "1433552272",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Missional Motherhood: The Everyday Ministry of Motherhood in the Grand Plan of God",
+            "normalizedName": "Missional Motherhood: The Everyday Ministry of Motherhood in the Grand Plan of God",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B017M65LUI": {
+            "asin": "B017M65LUI",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Throttle Muscle TM2797 - Monster Scrubber Pumice Lotion Industrial Hand Cleaner 16 Oz",
+            "normalizedName": "Throttle Muscle TM2797 - Monster Scrubber Pumice Lotion Industrial Hand Cleaner 16 Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01BCOH7DU": {
+            "asin": "B01BCOH7DU",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "ChefStir Silicone Spatula Set of 4 - Heat Resistant Kitchen Spatulas - Best for Nonstick Cookware (Yellow)",
+            "normalizedName": "Set of 4 ChefStir Silicone Spatula - Heat Resistant Kitchen Spatulas - Best for Nonstick Cookware (Yellow)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B01EZGYV9A": {
+            "asin": "B01EZGYV9A",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "ASUS TS10-B017D VivoStick Intel Atom Z8350",
+            "normalizedName": "ASUS TS10-B017D VivoStick Intel Atom Z8350",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00U64B7DE": {
+            "asin": "B00U64B7DE",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.799999984904002
+            },
+            "name": "Mentadent Toothpaste, Advanced Whitening, 2- 5.25 oz. Packages  (Pack of 3)",
+            "normalizedName": "(Pack of 3) Mentadent Toothpaste, Advanced Whitening, 2- 5.25 oz. Packages",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.849999997610017
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00ZOPVSKW": {
+            "asin": "B00ZOPVSKW",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Logitech Illuminated Living-Room Wireless Keyboard K830 and Touchpad for Internet-Connected TVs (Unifying and Bluetooth)",
+            "normalizedName": "Logitech Illuminated Living-Room Wireless Keyboard K830 and Touchpad for Internet-Connected TVs (Unifying and Bluetooth)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

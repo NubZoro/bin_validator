@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015MGHA40": {
+            "asin": "B015MGHA40",
+            "height": {
+                "unit": "IN",
+                "value": 1.8110236202
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.5354330642
+            },
+            "name": "Ray-Ban Men's 0RB4235 Aviator Sunglasses, Black, 57 mm",
+            "normalizedName": "Ray-Ban Men's 0RB4235 Aviator Sunglasses, Black, 57 mm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2645520140110475
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.8346456664
+            }
+        },
+        "B018F4ZWXM": {
+            "asin": "B018F4ZWXM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "LG V10 Case, NageBee - Design Premium Heavy Duty Defender Dual Layer Protector Hybrid Phone Cover Case for LG V10 (Hybrid Tie)",
+            "normalizedName": "LG V10 Case, NageBee - Design Premium Heavy Duty Defender Dual Layer Protector Hybrid Phone Cover Case for LG V10 (Hybrid Tie)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B01DGK0ZDW": {
+            "asin": "B01DGK0ZDW",
+            "height": {
+                "unit": "IN",
+                "value": 2.249999997705
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.349999990463001
+            },
+            "name": "For Anker Astro E6 E7 PowerCore+ 26800 Premium Compact Portable Charger External Battery Power Bank Travel EVA Hard Protective Case Carrying Pouch Bag by Hermitshell",
+            "normalizedName": "For Anker Astro E6 E7 PowerCore+ 26800 Premium Compact Portable Charger External Battery Power Bank Travel EVA Hard Protective Case Carrying Pouch Bag by Hermitshell",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3249999997274581
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B01F09DLBU": {
+            "asin": "B01F09DLBU",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "Calmpal C lock Air Vent Universal Smartphone Car Mount Holder Cradle for iPhone 6 6Plus 5 5S 5C Samsung Galaxy S7 Edge S7 S5 S4 S3 Note 5 and all Smartphones",
+            "normalizedName": "Calmpal C lock Air Vent Universal Smartphone Car Mount Holder Cradle for iPhone 6 6Plus 5 5S 5C Samsung Galaxy S7 Edge S7 S5 S4 S3 Note 5 and all Smartphones",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.2
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

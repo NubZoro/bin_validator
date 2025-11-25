@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000270HS": {
+            "asin": "B0000270HS",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Guess Who",
+            "normalizedName": "Guess Who",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770752888384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B000LXJ28M": {
+            "asin": "B000LXJ28M",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Zantrex-3 - Rapid Weight Loss Incredible Energy - 2/60 Ct. Bottles",
+            "normalizedName": "Zantrex-3 - Rapid Weight Loss Incredible Energy - 2/60 Ct. Bottles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B002BAODTQ": {
+            "asin": "B002BAODTQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "Tchaikovsky: Nutcracker / Suites Nos 3 & 4",
+            "normalizedName": "Tchaikovsky: Nutcracker / Suites Nos 3 & 4",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "B007Z7Q5QY": {
+            "asin": "B007Z7Q5QY",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "1/8-Watt 100 Ohm Carbon Film Resistors (5-Pack)",
+            "normalizedName": "(5-Pack) 1/8-Watt 100 Ohm Carbon Film Resistors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B01CO0NWCG": {
+            "asin": "B01CO0NWCG",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Muscletech Hydroxycut Next Gen Stimulant Free 150 Count",
+            "normalizedName": "Muscletech Hydroxycut Next Gen Stimulant Free 150 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.049999999958070473
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

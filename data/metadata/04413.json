@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000AXZ9DK": {
+            "asin": "B000AXZ9DK",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Prime-Line Products P 7515 Screen Door Repair Kit with Rolling Tool, Charcoal Fiberglass",
+            "normalizedName": "Prime-Line Products P 7515 Screen Door Repair Kit with Rolling Tool, Charcoal Fiberglass",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B008OJBJ9U": {
+            "asin": "B008OJBJ9U",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Cool Toner Compatible Toner Cartridge Replacement for Canon 125 3484B001AA (Black, 1-Pack)",
+            "normalizedName": "1-Pack Cool Toner Compatible Toner Cartridge Replacement for Canon 125 3484B001AA (Black, )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00OBGVMW4": {
+            "asin": "B00OBGVMW4",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Hefty Extra Strong Drawstring Multipurpose Trash Bags (Unscented, 30-Gallon Bags, 56-Count Box)",
+            "normalizedName": "Hefty Extra Strong Drawstring Multipurpose Trash Bags (Unscented, 30-Gallon Bags, 56-Count Box)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

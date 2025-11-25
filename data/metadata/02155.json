@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HZSGD4C": {
+            "asin": "B00HZSGD4C",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "7 Day XXL Twice a Day Weekly Pill Organizer (Pack of 2)",
+            "normalizedName": "(Pack of 2) 7 Day XXL Twice a Day Weekly Pill Organizer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

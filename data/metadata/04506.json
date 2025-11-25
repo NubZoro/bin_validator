@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00P9R85R4": {
+            "asin": "B00P9R85R4",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Advantage Commercial Grade Door Closer Size 4 Spring, Duronotic Brown",
+            "normalizedName": "Advantage Commercial Grade Door Closer Size 4 Spring, Duronotic Brown",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.23
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01ARGBDL6": {
+            "asin": "B01ARGBDL6",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Mega Bloks Star Trek Klingon D7 Battle Cruiser Collector Construction Set",
+            "normalizedName": "Mega Bloks Star Trek Klingon D7 Battle Cruiser Collector Construction Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

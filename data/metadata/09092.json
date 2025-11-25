@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004CJ8CFA": {
+            "asin": "B004CJ8CFA",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.399999983272
+            },
+            "name": "KidKraft Tasty Treats Chef Accessory Set - Pink",
+            "normalizedName": "KidKraft Tasty Treats Chef Accessory Set - Pink",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        },
+        "B004M3CPDG": {
+            "asin": "B004M3CPDG",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.199999984496
+            },
+            "name": "Depend  FIT-FLEX  Incontinence Underwear for Men, Maximum Absorbency, S/M",
+            "normalizedName": "Depend  FIT-FLEX  Incontinence Underwear for Men, Maximum Absorbency, S/M",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.719999996880443
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

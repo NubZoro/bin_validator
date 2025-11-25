@@ -1,0 +1,137 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0385538057": {
+            "asin": "0385538057",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Make Something Up: Stories You Can't Unread",
+            "normalizedName": "Make Something Up: Stories You Can't Unread",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "0761457275": {
+            "asin": "0761457275",
+            "height": {
+                "unit": "IN",
+                "value": 0.0799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Don't Be Silly, Mrs. Millie!",
+            "normalizedName": "Don't Be Silly, Mrs. Millie!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.30999999974003695
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "0789399873": {
+            "asin": "0789399873",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Yoga (Yoga Journal Books)",
+            "normalizedName": "Yoga (Yoga Journal Books)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "1111837171": {
+            "asin": "1111837171",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Discovering the Western Past: A Look at the Evidence, Volume II: Since 1500",
+            "normalizedName": "Discovering the Western Past: A Look at the Evidence, Volume II: Since 1500",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.455036078280941
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.3228346382
+            }
+        },
+        "B002C68TVC": {
+            "asin": "B002C68TVC",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Stanley Proto J25TR02C Proto 12 Pocket Tool Roll",
+            "normalizedName": "Stanley Proto J25TR02C Proto 12 Pocket Tool Roll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00BSK7AOK": {
+            "asin": "B00BSK7AOK",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Habitat Manhatten Panel Pair, Natural",
+            "normalizedName": "Habitat Manhatten Panel Pair, Natural",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

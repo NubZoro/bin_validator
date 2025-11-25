@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "3832796134": {
+            "asin": "3832796134",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.7559054988
+            },
+            "name": "Luxury Hotels Best of Europe Volume 2",
+            "normalizedName": "Luxury Hotels Best of Europe Volume 2",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.89
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.236220462
+            }
+        },
+        "B000CIQ4VE": {
+            "asin": "B000CIQ4VE",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Coverking UVCCAR3S98 Universal Fit Cover for Sedan Length 14.3 ft. to 16.8 ft. - Coverguard Indoor (Gray)",
+            "normalizedName": "Coverking UVCCAR3S98 Universal Fit Cover for Sedan Length 14.3 ft. to 16.8 ft. - Coverguard Indoor (Gray)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.699999988066
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

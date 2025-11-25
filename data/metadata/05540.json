@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EOHCCG": {
+            "asin": "B000EOHCCG",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Brandenburg German Bundeslander Flags",
+            "normalizedName": "Brandenburg German Bundeslander Flags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B013CP5IWO": {
+            "asin": "B013CP5IWO",
+            "height": {
+                "unit": "IN",
+                "value": 0.2362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.7480314902
+            },
+            "name": "SanDisk Extreme 64GB MicroSDXC UHS-1 Card with Adapter (SDSQXNE-064G-GN6MA)",
+            "normalizedName": "SanDisk Extreme 64GB MicroSDXC UHS-1 Card with Adapter (SDSQXNE-064G-GN6MA)",
+            "quantity": 29,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7795275552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 30
+}

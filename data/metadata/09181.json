@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002IT5JQG": {
+            "asin": "B002IT5JQG",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Nature2 DuoClear Mineral Cartridge for DuoClear Pool Sanitizers",
+            "normalizedName": "Nature2 DuoClear Mineral Cartridge for DuoClear Pool Sanitizers",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "B007H0SOPY": {
+            "asin": "B007H0SOPY",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Luau Pig Wind-Spinner Party Accessory (1 count) (1/Pkg)",
+            "normalizedName": "Luau Pig Wind-Spinner Party Accessory (1 count) (1/Pkg)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

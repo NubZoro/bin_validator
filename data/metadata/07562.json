@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000UYSSB4": {
+            "asin": "B000UYSSB4",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Joico K-pak Reconstructor, 5.1-ounce",
+            "normalizedName": "Joico K-pak Reconstructor, 5.1-ounce",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.599999998368
+            }
+        },
+        "B00906M148": {
+            "asin": "B00906M148",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "1 X Ultraviolet Detecting Beads - 250 Beads Per Pack",
+            "normalizedName": "1 X Ultraviolet Detecting Beads - 250 Beads Per Pack",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00WH9YRJW": {
+            "asin": "B00WH9YRJW",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "USB 3.1 Type C OTG Cable,NewLobo(TM) 1Pack 8in/20cm Reversible Design Hi-speed Micro USB 3.1 Type C Male to Standard Type A USB 3.0 Female OTG Data Cable for Apple New Macbook 12 Inch, Nokia N1, Tablet, Mobile Phone and Other Type-C Supported Devices (2Ocm,1Pack)-White",
+            "normalizedName": "1Pack USB 3.1 Type C OTG Cable,NewLobo(TM) 8in/20cm Reversible Design Hi-speed Micro USB 3.1 Type C Male to Standard Type A USB 3.0 Female OTG Data Cable for Apple New Macbook 12 Inch, Nokia N1, Tablet, Mobile Phone and Other Type-C Supported Devices (2Ocm,1Pack)-White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

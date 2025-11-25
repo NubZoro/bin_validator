@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004QN2Y56": {
+            "asin": "B004QN2Y56",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "name": "Energizer Advanced Lithium Batteries, AAA Size, 8-Count",
+            "normalizedName": "Energizer Advanced Lithium Batteries, AAA Size, 8-Count",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B009LSRYJC": {
+            "asin": "B009LSRYJC",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "AllyDrew Black Diamond Sticker 4mm Adhesive Rhinestones, 1000 pieces",
+            "normalizedName": "AllyDrew Black Diamond Sticker 4mm Adhesive Rhinestones, 1000 pieces",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00NH11PEY": {
+            "asin": "B00NH11PEY",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.3700787306
+            },
+            "name": "AmazonBasics USB 2.0 Extension Cable - A-Male to A-Female - 9.8 Feet (3 Meters)",
+            "normalizedName": "AmazonBasics USB 2.0 Extension Cable - A-Male to A-Female - 9.8 Feet (3 Meters)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440163462221
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 16
+}

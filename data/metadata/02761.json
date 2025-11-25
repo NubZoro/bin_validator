@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VGU78PI": {
+            "asin": "B00VGU78PI",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Best Naturals Probiotic 10 Strains & 30 Billion CFU Intestinal Flora, 120 Veggie Capsules",
+            "normalizedName": "Best Naturals Probiotic 10 Strains & 30 Billion CFU Intestinal Flora, 120 Veggie Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001186074865
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B019DT7SCG": {
+            "asin": "B019DT7SCG",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Keychain Car Escape Tool",
+            "normalizedName": "Keychain Car Escape Tool",
+            "quantity": 14,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.599999998368
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

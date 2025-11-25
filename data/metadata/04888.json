@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00YNKGPIO": {
+            "asin": "B00YNKGPIO",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "64 OZ Jumbo Le Blanc Linen Wash Classic Scent Clean Vintage Precious Heirloom Linens Safely, One",
+            "normalizedName": "64 OZ Jumbo Le Blanc Linen Wash Classic Scent Clean Vintage Precious Heirloom Linens Safely, One",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01FMZW8V6": {
+            "asin": "B01FMZW8V6",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "MLB American Needle The Big Show Baseball Wool Adjustable Snapback Hat (Chicago Cubs - Blue/Red)",
+            "normalizedName": "MLB American Needle The Big Show Baseball Wool Adjustable Snapback Hat (Chicago Cubs - Blue/Red)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

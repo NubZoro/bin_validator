@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0133495531": {
+            "asin": "0133495531",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Criminology Today: An Integrative Introduction (7th Edition)",
+            "normalizedName": "Criminology Today: An Integrative Introduction (7th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B0084UAWNI": {
+            "asin": "B0084UAWNI",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Looney Tunes Pepe Le Pew Toon Tumbler",
+            "normalizedName": "Looney Tunes Pepe Le Pew Toon Tumbler",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010TV6F5I": {
+            "asin": "B010TV6F5I",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Meri Meri Toot Sweet Yellow Stripe Small Plates",
+            "normalizedName": "Meri Meri Toot Sweet Yellow Stripe Small Plates",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

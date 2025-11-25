@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006N8X0K": {
+            "asin": "B0006N8X0K",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "ALEX Toys Artist Studio Watercolor Pencils",
+            "normalizedName": "ALEX Toys Artist Studio Watercolor Pencils",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

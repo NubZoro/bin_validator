@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014W5CC04": {
+            "asin": "B014W5CC04",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "TMH 36w 2600lm Cree Spot Led Work Light Bar for Off-road SUV Boat 4x4 Jeep Lamp",
+            "normalizedName": "TMH 36w 2600lm Cree Spot Led Work Light Bar for Off-road SUV Boat 4x4 Jeep Lamp",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B016KDLSII": {
+            "asin": "B016KDLSII",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "ELLO&ALLO 14.57\" Single Handle Kitchen Bar Sink Faucet with One Hole Mixer Tap, 360 Available and High-Arch Spout, Chrome",
+            "normalizedName": "ELLO&ALLO 14.57\" Single Handle Kitchen Bar Sink Faucet with One Hole Mixer Tap, 360 Available and High-Arch Spout, Chrome",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B01BHMJJIS": {
+            "asin": "B01BHMJJIS",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Funko POP Disney: Alice: Through The Looking Glass - Iracebeth",
+            "normalizedName": "Funko POP Disney: Alice: Through The Looking Glass - Iracebeth",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

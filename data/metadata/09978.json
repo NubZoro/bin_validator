@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00USLG98S": {
+            "asin": "B00USLG98S",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "One Size Fits All Book Cover",
+            "normalizedName": "One Size Fits All Book Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

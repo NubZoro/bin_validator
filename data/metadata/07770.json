@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00Q7OBS7C": {
+            "asin": "B00Q7OBS7C",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "AmazonBasics Lightweight 200 Thread Count Sheet Set - Full, White",
+            "normalizedName": "AmazonBasics Lightweight 200 Thread Count Sheet Set - Full, White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

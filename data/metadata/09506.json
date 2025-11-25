@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0988668122": {
+            "asin": "0988668122",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Behold Your God Student Workbook: The Twelve-Week Study Companion To Behold Your God",
+            "normalizedName": "Behold Your God Student Workbook: The Twelve-Week Study Companion To Behold Your God",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00E9INVY6": {
+            "asin": "B00E9INVY6",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Honest Conditioning Detangler - Sweet 4 fl oz (118 ml) Liquid",
+            "normalizedName": "Honest Conditioning Detangler - Sweet 4 fl oz (118 ml) Liquid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.899999999082
+            }
+        },
+        "B00O6FY2HC": {
+            "asin": "B00O6FY2HC",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Pruning Shears, Gardening Tools. Best As Heavy Duty Trimmers, Garden Shears, Hand Pruners & Cutters",
+            "normalizedName": "Pruning Shears, Gardening Tools. Best As Heavy Duty Trimmers, Garden Shears, Hand Pruners & Cutters",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

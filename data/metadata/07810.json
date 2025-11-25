@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002LML5K4": {
+            "asin": "B002LML5K4",
+            "height": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.75
+            },
+            "name": "Sweet Leaf White Stevia Extract Powder, 0.9 Ounce -- 3 per case.",
+            "normalizedName": "Sweet Leaf White Stevia Extract Powder, 0.9 Ounce -- 3 per case.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        },
+        "B003M6GBFC": {
+            "asin": "B003M6GBFC",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Tough-1 Nylon Grazing Muzzle",
+            "normalizedName": "Tough-1 Nylon Grazing Muzzle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

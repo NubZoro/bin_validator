@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1440587965": {
+            "asin": "1440587965",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8976377862
+            },
+            "name": "Advanced Bushcraft: An Expert Field Guide to the Art of Wilderness Survival",
+            "normalizedName": "Advanced Bushcraft: An Expert Field Guide to the Art of Wilderness Survival",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.661386786
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B004YAVF8I": {
+            "asin": "B004YAVF8I",
+            "height": {
+                "unit": "IN",
+                "value": 2.755905509
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "Logitech Wireless Mouse M185 - Swift Gray (910-002225)",
+            "normalizedName": "Logitech Wireless Mouse M185 - Swift Gray (910-002225)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

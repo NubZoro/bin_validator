@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0056APFTK": {
+            "asin": "B0056APFTK",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "Standard Process Cholacol II 90 T",
+            "normalizedName": "Standard Process Cholacol II 90 T",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B008Q7IOD4": {
+            "asin": "B008Q7IOD4",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Protective Card Sleeves (100 Count), Orange",
+            "normalizedName": "Protective Card Sleeves (100 Count), Orange",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B009NAOEO6": {
+            "asin": "B009NAOEO6",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Warrick 16L1C0 General Purpose Open Circuit Board Control with Screw Mount Standoff, 10K ohms Inverse Sensitivity, 120 VAC Voltage",
+            "normalizedName": "Warrick 16L1C0 General Purpose Open Circuit Board Control with Screw Mount Standoff, 10K ohms Inverse Sensitivity, 120 VAC Voltage",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B01AXI796G": {
+            "asin": "B01AXI796G",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7999999930640005
+            },
+            "name": "Kingway 5 Pcs Ink Cartridges Replacement for HP 932 933 932xl 933xl Use With HP Officejet 6700 6600 6100 7110 7610 7612 inkjet Printers (2BK+1C+M+1Y)",
+            "normalizedName": "Kingway 5 Pcs Ink Cartridges Replacement for HP 932 933 932xl 933xl Use With HP Officejet 6700 6600 6100 7110 7610 7612 inkjet Printers (2BK+1C+M+1Y)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

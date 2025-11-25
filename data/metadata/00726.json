@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0026IB9G8": {
+            "asin": "B0026IB9G8",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Ringers Gloves 147-11 Impact Glove, Stealth, X-Large",
+            "normalizedName": "Ringers Gloves 147-11 Impact Glove, Stealth, X-Large",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00IZZN7VG": {
+            "asin": "B00IZZN7VG",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "HOODDEAL Baby Mosquito Net Baby Toddler Bed Crib Canopy Netting Blue Yellow White Available (White(2.2M*5.5M))",
+            "normalizedName": "HOODDEAL Baby Mosquito Net Baby Toddler Bed Crib Canopy Netting Blue Yellow White Available (White(2.2M*5.5M))",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

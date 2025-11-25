@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009INAF9Q": {
+            "asin": "B009INAF9Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Deadly Blessing (Collector's Edition)",
+            "normalizedName": "Deadly Blessing (Collector's Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B00IOFDKQO": {
+            "asin": "B00IOFDKQO",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Busou Shinki: Complete",
+            "normalizedName": "Busou Shinki: Complete",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18333454586339856
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B014PM3XE8": {
+            "asin": "B014PM3XE8",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Brandon Jacobs Autographed New York Giants Encapsulated Trading Card - Certified Authentic",
+            "normalizedName": "Brandon Jacobs Autographed New York Giants Encapsulated Trading Card - Certified Authentic",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

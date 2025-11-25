@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0047726E0": {
+            "asin": "B0047726E0",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Green Mountain Coffee Decaf Breakfast Blend  (Light Roast Coffee), K-Cup Portion Pack for Keurig K-Cup Brewers (Pack of 24)",
+            "normalizedName": "(Pack of 24) Green Mountain Coffee Decaf Breakfast Blend  (Light Roast Coffee), K-Cup Portion Pack for Keurig K-Cup Brewers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B011ERMDPW": {
+            "asin": "B011ERMDPW",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.5590551104
+            },
+            "name": "UAG Samsung Galaxy Note 5 Feather-Light Composite [ASH] Military Drop Tested Phone Case",
+            "normalizedName": "UAG Samsung Galaxy Note 5 Feather-Light Composite [ASH] Military Drop Tested Phone Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.330708657
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0545850312": {
+            "asin": "0545850312",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Game On! 2016: All the Best Games: Awesome Facts and Coolest Secrets",
+            "normalizedName": "Game On! 2016: All the Best Games: Awesome Facts and Coolest Secrets",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

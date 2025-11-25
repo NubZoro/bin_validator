@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LXT23RA": {
+            "asin": "B00LXT23RA",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Noggle Extend Your Air Conditioning or Heat to Your Kids Instantly (8 Feet, Black Ice)",
+            "normalizedName": "Noggle Extend Your Air Conditioning or Heat to Your Kids Instantly (8 Feet, Black Ice)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B017SVI564": {
+            "asin": "B017SVI564",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Solia SuperHot Professional Lightweight Hair Dryer",
+            "normalizedName": "Solia SuperHot Professional Lightweight Hair Dryer",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0499999974422987
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

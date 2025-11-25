@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004ZPWUPE": {
+            "asin": "B004ZPWUPE",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.330708657
+            },
+            "name": "Briggs & Stratton 693981 Float Bowl Gasket Replacement for Model 280492",
+            "normalizedName": "Briggs & Stratton 693981 Float Bowl Gasket Replacement for Model 280492",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.4409448794
+            }
+        },
+        "B00DCL6Q6Q": {
+            "asin": "B00DCL6Q6Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "name": "Oral IV Ultra Concentrate Hydration Fluid, 4-pack",
+            "normalizedName": "Oral IV Ultra Concentrate Hydration Fluid, 4-pack",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B016Y2GTQQ": {
+            "asin": "B016Y2GTQQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Elemart(TM) 4 Pieces Set Steel Stainless Cheese Slicer Cheese Cutter Cheese Knives with Wood Handle",
+            "normalizedName": "Elemart(TM) 4 Pieces Set Steel Stainless Cheese Slicer Cheese Cutter Cheese Knives with Wood Handle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

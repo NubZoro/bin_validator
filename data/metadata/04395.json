@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007DHI00": {
+            "asin": "B0007DHI00",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Royal Doulton Precious Platinum 5-Piece Place Setting, Service for 1",
+            "normalizedName": "Royal Doulton Precious Platinum 5-Piece Place Setting, Service for 1",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.799999996813355
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        },
+        "B005D6G4K6": {
+            "asin": "B005D6G4K6",
+            "height": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.99999998062
+            },
+            "name": "KitchenAid 17-piece Tools and Gadget Set, Black",
+            "normalizedName": "KitchenAid 17-piece Tools and Gadget Set, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9399999975345437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.099999986638
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

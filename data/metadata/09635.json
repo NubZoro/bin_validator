@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002EAJXM": {
+            "asin": "B0002EAJXM",
+            "height": {
+                "unit": "IN",
+                "value": 0.049999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "name": "Air Line Jumper 5' with Screw Clamps",
+            "normalizedName": "Air Line Jumper 5' with Screw Clamps",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.049999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00O9931CC": {
+            "asin": "B00O9931CC",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Teenage Mutant Ninja Turtles Michelangelo Mikey Ceramic Piggy Bank Coin Bank",
+            "normalizedName": "Teenage Mutant Ninja Turtles Michelangelo Mikey Ceramic Piggy Bank Coin Bank",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006IFIA": {
+            "asin": "B00006IFIA",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Sharpie Chisel Assorted 8 Pack",
+            "normalizedName": "8 Pack Sharpie Chisel Assorted",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B01B2TBIQ2": {
+            "asin": "B01B2TBIQ2",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Bestrix Universal Headrest Cradle Car Mount Holder for iPad Air2/3/4/Mini, Galaxy Tab 3/4, Nexus 7, Kindle Fire HD 6/7 Fire HDX 7/8.9 Fire 2 and all Tablet Devices 7\" to 11\" 360\u00b0 Rotating",
+            "normalizedName": "Bestrix Universal Headrest Cradle Car Mount Holder for iPad Air2/3/4/Mini, Galaxy Tab 3/4, Nexus 7, Kindle Fire HD 6/7 Fire HDX 7/8.9 Fire 2 and all Tablet Devices 7\" to 11\" 360\u00b0 Rotating",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

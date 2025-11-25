@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0038TVH3Y": {
+            "asin": "B0038TVH3Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "SheaMoisture Coconut & Hibiscus Curl Enhancing Smoothie, 12 Ounce",
+            "normalizedName": "SheaMoisture Coconut & Hibiscus Curl Enhancing Smoothie, 12 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B013UG0UAA": {
+            "asin": "B013UG0UAA",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Compatible Ink Cartridge Replacement for Epson T127 (2xBlack, 2xCyan, 2xMagenta, 2xYellow, 8-Pack)",
+            "normalizedName": "8-Pack Compatible Ink Cartridge Replacement for Epson T127 (2xBlack, 2xCyan, 2xMagenta, 2xYellow, )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

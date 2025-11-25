@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000P51LDK": {
+            "asin": "B000P51LDK",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Toysmith Bug Out Bob Toy",
+            "normalizedName": "Toysmith Bug Out Bob Toy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B004JD6MGK": {
+            "asin": "B004JD6MGK",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Potassium Sulfate - Sulfate of Potash - Organic - 1 Pound",
+            "normalizedName": "Potassium Sulfate - Sulfate of Potash - Organic - 1 Pound",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999887719715962
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.1249999947725
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

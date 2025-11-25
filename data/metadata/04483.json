@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009K54W6O": {
+            "asin": "B009K54W6O",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Gibson Holders 12 DCWB Adjustable Wire Display Easels-5.5\" W x 8.75\" H w/ 1.5\" display ledge, Black",
+            "normalizedName": "Gibson Holders 12 DCWB Adjustable Wire Display Easels-5.5\" W x 8.75\" H w/ 1.5\" display ledge, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00ZB7W4QU": {
+            "asin": "B00ZB7W4QU",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Microsoft Xbox Wireless Adapter for Windows",
+            "normalizedName": "Microsoft Xbox Wireless Adapter for Windows",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B01ER2JN72": {
+            "asin": "B01ER2JN72",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "GOOKIT\u00ae R1 SE HD1080P 60FPS 4K 2.7K WiFi Waterproof 12MP Digital Sports Camera with 2.4G RF Remote Control Bundle with Accessories, Black",
+            "normalizedName": "GOOKIT\u00ae R1 SE HD1080P 60FPS 4K 2.7K WiFi Waterproof 12MP Digital Sports Camera with 2.4G RF Remote Control Bundle with Accessories, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

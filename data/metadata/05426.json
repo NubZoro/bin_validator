@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "014241381X": {
+            "asin": "014241381X",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Boy",
+            "normalizedName": "Boy",
+            "quantity": 14,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

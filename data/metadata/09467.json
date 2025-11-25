@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0804139679": {
+            "asin": "0804139679",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "A Letter to My Mom",
+            "normalizedName": "A Letter to My Mom",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B001BL96K2": {
+            "asin": "B001BL96K2",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452
+            },
+            "name": "Baby Mama",
+            "normalizedName": "Baby Mama",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00U52SLZE": {
+            "asin": "B00U52SLZE",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Rolaids Advanced Antacid Plus Anti Gas Tablets Mixed Berry, 60 Count",
+            "normalizedName": "Rolaids Advanced Antacid Plus Anti Gas Tablets Mixed Berry, 60 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001ISH4CK": {
+            "asin": "B001ISH4CK",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Westmark Apple Slicer, Apple Corer Provides 10 Slices, Made of Coated Aluminum and Stainless Steel Blades",
+            "normalizedName": "Westmark Apple Slicer, Apple Corer Provides 10 Slices, Made of Coated Aluminum and Stainless Steel Blades",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B01C7M5SIC": {
+            "asin": "B01C7M5SIC",
+            "height": {
+                "unit": "IN",
+                "value": 1.1811023597952754
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.291338563722835
+            },
+            "name": "Urban Expressions Womens Vegan Leather Sandra Clutch Wallet (Raspberry)",
+            "normalizedName": "Urban Expressions Womens Vegan Leather Sandra Clutch Wallet (Raspberry)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7495640390693908
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.748031484337008
+            }
+        },
+        "B01FREA8M8": {
+            "asin": "B01FREA8M8",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "LG K10 / K420N Case, INNOVAA Detachable Leather Wallet Case with STAND Flip Cover W/ Free Screen Protector & Touch Screen Stylus Pen - Black",
+            "normalizedName": "LG K10 / K420N Case, INNOVAA Detachable Leather Wallet Case with STAND Flip Cover W/ Free Screen Protector & Touch Screen Stylus Pen - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

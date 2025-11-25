@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "143361586X": {
+            "asin": "143361586X",
+            "height": {
+                "unit": "IN",
+                "value": 1.8
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.7
+            },
+            "name": "HCSB Super Giant Print Reference Bible, Classic Mahogany LeatherTouch",
+            "normalizedName": "HCSB Super Giant Print Reference Bible, Classic Mahogany LeatherTouch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.6
+            }
+        },
+        "B0000A0AIA": {
+            "asin": "B0000A0AIA",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Tasco World Class 3-9x50 Riflescope w/30/30 Reticle",
+            "normalizedName": "Tasco World Class 3-9x50 Riflescope w/30/30 Reticle",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B000NHWMGU": {
+            "asin": "B000NHWMGU",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "PetSafe Drinkwell Pet Fountain Cleaning Kit",
+            "normalizedName": "PetSafe Drinkwell Pet Fountain Cleaning Kit",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

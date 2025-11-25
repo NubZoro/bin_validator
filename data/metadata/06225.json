@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00819THP6": {
+            "asin": "B00819THP6",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Colorescience Beauty On The Go Mineral Palette, 0.42 oz.",
+            "normalizedName": "Colorescience Beauty On The Go Mineral Palette, 0.42 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B01E6LR5X8": {
+            "asin": "B01E6LR5X8",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "LG G Stylo 2 LS775 Case\uff0cLG G Stylus 2 K520 Case, SGM\u00ae Hybrid Gel Rhinestone Bling Armor Defender Case For LG Stylo 2, LG G Stylus 2 (Gold / Black)",
+            "normalizedName": "LG G Stylo 2 LS775 Case\uff0cLG G Stylus 2 K520 Case, SGM\u00ae Hybrid Gel Rhinestone Bling Armor Defender Case For LG Stylo 2, LG G Stylus 2 (Gold / Black)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

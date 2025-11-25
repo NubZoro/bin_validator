@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IOSSZ6G": {
+            "asin": "B00IOSSZ6G",
+            "height": {
+                "unit": "IN",
+                "value": 3.2283464534
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.9133858136
+            },
+            "name": "Barbie Closet and Fashion Set",
+            "normalizedName": "Barbie Closet and Fashion Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8959561020024385
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.842519675
+            }
+        },
+        "B00RFX553W": {
+            "asin": "B00RFX553W",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "xtava Auto Styler - Professional Auto Rotating Curling Iron with 1.1\" Barrel - Featuring Innovative Automated Bi-Directional Rotating Control",
+            "normalizedName": "xtava Auto Styler - Professional Auto Rotating Curling Iron with 1.1\" Barrel - Featuring Innovative Automated Bi-Directional Rotating Control",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B016Q3XLPA": {
+            "asin": "B016Q3XLPA",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Godinger Moscow Mule Set of 4",
+            "normalizedName": "Set of 4 Godinger Moscow Mule",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

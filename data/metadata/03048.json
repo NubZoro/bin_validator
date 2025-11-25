@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000C6OKNU": {
+            "asin": "B000C6OKNU",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Purolator F23175 Fuel Filter",
+            "normalizedName": "Purolator F23175 Fuel Filter",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00F7BYOMW": {
+            "asin": "B00F7BYOMW",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "ASSEM\u00ae Mini Black Metal Box 2 Port HDMI Splitter for HDTV 1080p & 3D Support (One Input To Two Outputs)",
+            "normalizedName": "ASSEM\u00ae Mini Black Metal Box 2 Port HDMI Splitter for HDTV 1080p & 3D Support (One Input To Two Outputs)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00TTXQLLG": {
+            "asin": "B00TTXQLLG",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.661417314
+            },
+            "name": "Navy Blue Dinner Plates, 16ct",
+            "normalizedName": "Navy Blue Dinner Plates, 16ct",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.661417314
+            }
+        },
+        "B015L2LVHC": {
+            "asin": "B015L2LVHC",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.9291338512
+            },
+            "name": "Ray-Ban Men's 0RB3449 Aviator Sunglasses, Gunmetal, 59 mm",
+            "normalizedName": "Ray-Ban Men's 0RB3449 Aviator Sunglasses, Gunmetal, 59 mm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.2283464534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

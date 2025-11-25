@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EVOSE4": {
+            "asin": "B000EVOSE4",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Haribo Gummi Candy Gold-Bears, 5-Pound Bag",
+            "normalizedName": "Haribo Gummi Candy Gold-Bears, 5-Pound Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.049999995765117
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00566HYM0": {
+            "asin": "B00566HYM0",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Amazing Grass Kidz Superfood 100 Servings, Chocolate, 21-Ounce",
+            "normalizedName": "Amazing Grass Kidz Superfood 100 Servings, Chocolate, 21-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00NH11PEY": {
+            "asin": "B00NH11PEY",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.3700787306
+            },
+            "name": "AmazonBasics USB 2.0 Extension Cable - A-Male to A-Female - 9.8 Feet (3 Meters)",
+            "normalizedName": "AmazonBasics USB 2.0 Extension Cable - A-Male to A-Female - 9.8 Feet (3 Meters)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440163462221
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        },
+        "B0163L6MQA": {
+            "asin": "B0163L6MQA",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Techna Clip Concealable Gun Belt Clip - Ruger LC9 - (Right-Side)",
+            "normalizedName": "Techna Clip Concealable Gun Belt Clip - Ruger LC9 - (Right-Side)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

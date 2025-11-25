@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005BGCI8K": {
+            "asin": "B005BGCI8K",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Quickie Microfiber Towel, 24-Pack",
+            "normalizedName": "24-Pack Quickie Microfiber Towel,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00NB8NA14": {
+            "asin": "B00NB8NA14",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Rug Doctor Oxy Pro Carpet Cleaner,64oz",
+            "normalizedName": "Rug Doctor Oxy Pro Carpet Cleaner,64oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01C3Y6W48": {
+            "asin": "B01C3Y6W48",
+            "height": {
+                "unit": "IN",
+                "value": 1.79921259659
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Cai- Fashion Men Messenger Bag Casual Shoulder Bag High Quality Military Men Canvas Bag Men Bags Black Blue Coffee Gray Khaki Cr10 (Coffee)",
+            "normalizedName": "Cai- Fashion Men Messenger Bag Casual Shoulder Bag High Quality Military Men Canvas Bag Men Bags Black Blue Coffee Gray Khaki Cr10 (Coffee)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499905690978
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

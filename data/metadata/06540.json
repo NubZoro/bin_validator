@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004TX6242": {
+            "asin": "B004TX6242",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Clean Green High-Performance Microfiber Cleaning and Dusting Gloves - 1 Pair",
+            "normalizedName": "Clean Green High-Performance Microfiber Cleaning and Dusting Gloves - 1 Pair",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01CYX000A": {
+            "asin": "B01CYX000A",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Galaxy S7 Edge Case, Celljoy [Shock Armor] {Eiffel Tower Paris} Samsung S7 Edge G935 Slim Fit Dual Layer Protective **Shockproof** Hybrid Reinforced Bumper **Impact Resistant** Premium Elegant",
+            "normalizedName": "Galaxy S7 Edge Case, Celljoy [Shock Armor] {Eiffel Tower Paris} Samsung S7 Edge G935 Slim Fit Dual Layer Protective **Shockproof** Hybrid Reinforced Bumper **Impact Resistant** Premium Elegant",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

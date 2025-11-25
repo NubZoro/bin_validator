@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012NO019K": {
+            "asin": "B012NO019K",
+            "height": {
+                "unit": "IN",
+                "value": 1.6535433054
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0314960548
+            },
+            "name": "Mudder Hummingbird Feeder Tubes Stoppers - Make Your Own Feeders - Bird Feeder Replacement Parts (5 Pack)",
+            "normalizedName": "(5 Pack) Mudder Hummingbird Feeder Tubes Stoppers - Make Your Own Feeders - Bird Feeder Replacement Parts",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601868139676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.8267716476
+            }
+        },
+        "B014T96WBI": {
+            "asin": "B014T96WBI",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.5
+            },
+            "name": "AirClassics Dispatch Flight Bag",
+            "normalizedName": "AirClassics Dispatch Flight Bag",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 12.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

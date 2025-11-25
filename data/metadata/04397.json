@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00004TT3S": {
+            "asin": "B00004TT3S",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.417322823
+            },
+            "name": "BOOMWHACKERS Octavator Caps 8-Pack",
+            "normalizedName": "8-Pack BOOMWHACKERS Octavator Caps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.180007436923
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7007873978
+            }
+        },
+        "B00G6C7XUG": {
+            "asin": "B00G6C7XUG",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Fujifilm Instax Mini Instant Film, 10 Sheets of 5 Pack \u00d7 2 (100 Sheets)",
+            "normalizedName": "5 Pack Fujifilm Instax Mini Instant Film, 10 Sheets of \u00d7 2 (100 Sheets)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B00NODLUGI": {
+            "asin": "B00NODLUGI",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Keeper (07512) Koastal 12' x 1-1/2\" Lashing Strap with Protective Cover, (Pack of 2)",
+            "normalizedName": "(Pack of 2) Keeper (07512) Koastal 12' x 1-1/2\" Lashing Strap with Protective Cover,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0078SL2UY": {
+            "asin": "B0078SL2UY",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Keratin Blondeshell Complex Shampoo for Unisex, 13.5 Ounce",
+            "normalizedName": "Keratin Blondeshell Complex Shampoo for Unisex, 13.5 Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

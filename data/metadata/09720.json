@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0011BARFA": {
+            "asin": "B0011BARFA",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "NPW Desktop Ping Pong/Table Tennis Set, Red/Blue",
+            "normalizedName": "NPW Desktop Ping Pong/Table Tennis Set, Red/Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00F8C0XRA": {
+            "asin": "B00F8C0XRA",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Classic Accessories 55-199-012401-EC Hickory Heavy Duty Round Fire Pit Cover, Small",
+            "normalizedName": "Classic Accessories 55-199-012401-EC Hickory Heavy Duty Round Fire Pit Cover, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B0114CB452": {
+            "asin": "B0114CB452",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.299999983374
+            },
+            "name": "Pink New Cute Kid Child Swimming Scuba Anti Fog Goggles Mask Snorkel Snorkeling Suit",
+            "normalizedName": "Pink New Cute Kid Child Swimming Scuba Anti Fog Goggles Mask Snorkel Snorkeling Suit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

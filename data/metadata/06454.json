@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CF7E0R0": {
+            "asin": "B00CF7E0R0",
+            "height": {
+                "unit": "IN",
+                "value": 6.6141732216
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0472440822
+            },
+            "name": "AmazonBasics Medium DSLR Gadget Bag (Gray Interior)",
+            "normalizedName": "AmazonBasics Medium DSLR Gadget Bag (Gray Interior)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6314207388
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9212598324
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

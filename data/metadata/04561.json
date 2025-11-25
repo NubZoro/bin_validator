@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01ASVCQPW": {
+            "asin": "B01ASVCQPW",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Fisher-Price Stacking Action Blocks",
+            "normalizedName": "Fisher-Price Stacking Action Blocks",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B01FQY1OT0": {
+            "asin": "B01FQY1OT0",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "QUBIC INC Barrel Hammered Copper Moscow Mule Mug, 18 Oz - Set Of 4",
+            "normalizedName": "Set Of 4 QUBIC INC Barrel Hammered Copper Moscow Mule Mug, 18 Oz -",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

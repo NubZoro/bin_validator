@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00003JRCQ": {
+            "asin": "B00003JRCQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Persuasion",
+            "normalizedName": "Persuasion",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B000NQRE1E": {
+            "asin": "B000NQRE1E",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Titanic (Four-Disc Combo: Blu-ray / DVD / Digital Copy)",
+            "normalizedName": "Titanic (Four-Disc Combo: Blu-ray / DVD / Digital Copy)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00B6E5AHW": {
+            "asin": "B00B6E5AHW",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Baby Little Beginnings Fleece Blanket",
+            "normalizedName": "Baby Little Beginnings Fleece Blanket",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B0141RBHTU": {
+            "asin": "B0141RBHTU",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Ikiru (The Criterion Collection) [Blu-ray]",
+            "normalizedName": "Ikiru (The Criterion Collection) [Blu-ray]",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01888G9UU": {
+            "asin": "B01888G9UU",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Paper Pink Floral Lunch Napkins, 40 Pcs",
+            "normalizedName": "Paper Pink Floral Lunch Napkins, 40 Pcs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

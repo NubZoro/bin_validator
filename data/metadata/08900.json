@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009OXF68": {
+            "asin": "B0009OXF68",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Guayaki Yerba Mate Loose Tea Traditional 8 oz Pkg",
+            "normalizedName": "Guayaki Yerba Mate Loose Tea Traditional 8 oz Pkg",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B001CEKOOK": {
+            "asin": "B001CEKOOK",
+            "height": {
+                "unit": "IN",
+                "value": 0.9055118101
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.0866141711
+            },
+            "name": "jane iredale Circle Delete Concealer, 1/Yellow, 0.10 oz.",
+            "normalizedName": "jane iredale Circle Delete Concealer, 1/Yellow, 0.10 oz.",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.06
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.0866141711
+            }
+        },
+        "B00BWV5N9O": {
+            "asin": "B00BWV5N9O",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "jane iredale PureGloss Lip Gloss, Sangria",
+            "normalizedName": "jane iredale PureGloss Lip Gloss, Sangria",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

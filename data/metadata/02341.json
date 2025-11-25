@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0012LOQUQ": {
+            "asin": "B0012LOQUQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "American Weigh 100g x 0.01g Digital Scale",
+            "normalizedName": "American Weigh 100g x 0.01g Digital Scale",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00H7MRY76": {
+            "asin": "B00H7MRY76",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Miracle Tree USDA Organic Premium Moringa Wellness Tea, 25 Individually Sealed Tea Bags, Strawberry",
+            "normalizedName": "Miracle Tree USDA Organic Premium Moringa Wellness Tea, 25 Individually Sealed Tea Bags, Strawberry",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

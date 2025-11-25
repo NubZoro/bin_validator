@@ -1,0 +1,134 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001GZ526K": {
+            "asin": "B001GZ526K",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Dap 08785 Almond Silicone Plus Premium Silicone Rubber Sealant 10.1-Ounce",
+            "normalizedName": "Dap 08785 Almond Silicone Plus Premium Silicone Rubber Sealant 10.1-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B004A0YIM2": {
+            "asin": "B004A0YIM2",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Hitachi IGC0025 Ignition Coil",
+            "normalizedName": "Hitachi IGC0025 Ignition Coil",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00D8YZ2SA": {
+            "asin": "B00D8YZ2SA",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Micro USB to USB OTG Adapter Cable",
+            "normalizedName": "Micro USB to USB OTG Adapter Cable",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B00EU7KHAC": {
+            "asin": "B00EU7KHAC",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Nespresso OriginalLine Capsules: Kazaar, 10 Count",
+            "normalizedName": "Nespresso OriginalLine Capsules: Kazaar, 10 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.599999998368
+            }
+        },
+        "B00FMTO5A0": {
+            "asin": "B00FMTO5A0",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Bella Cupcake Couture 12-Pack Labels Beverage Bottle Wraps, Hannah Floral Pink and Brown",
+            "normalizedName": "12-Pack Bella Cupcake Couture Labels Beverage Bottle Wraps, Hannah Floral Pink and Brown",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B01DDEOTME": {
+            "asin": "B01DDEOTME",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "25 Foot - Canare 4S11 Speaker Cable with a Neutrik NL2FX SPEAKON Connector & an Unterminated Bare-End",
+            "normalizedName": "25 Foot - Canare 4S11 Speaker Cable with a Neutrik NL2FX SPEAKON Connector & an Unterminated Bare-End",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

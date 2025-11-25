@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001NI2MWM": {
+            "asin": "B001NI2MWM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Extra Sugar Free Gum Winterfresh -10x15 Stk [Misc.] [Misc.]",
+            "normalizedName": "Extra Sugar Free Gum Winterfresh -10x15 Stk [Misc.] [Misc.]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00PMOVOTU": {
+            "asin": "B00PMOVOTU",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "SkyLong - 10,000mah, Double USB Ports, Torch Light, Handy, Super Long Lasting External Battery Charger, For iPhone, Samsung and More (White) (M200)",
+            "normalizedName": "SkyLong - 10,000mah, Double USB Ports, Torch Light, Handy, Super Long Lasting External Battery Charger, For iPhone, Samsung and More (White) (M200)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B01DEZZGLU": {
+            "asin": "B01DEZZGLU",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "name": "TOOTO 5pcs 1.75mm E3D V6 V5 Throat Heat Hotend Stainless Steel Remote Feeding V with Teflon Tube",
+            "normalizedName": "TOOTO 5pcs 1.75mm E3D V6 V5 Throat Heat Hotend Stainless Steel Remote Feeding V with Teflon Tube",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B01FHHTN8K": {
+            "asin": "B01FHHTN8K",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "name": "TOOTO NEW Apple Macbook Pro Unibody 13\" 15\" 17\" A1278 A1286 A1297 HDD Hard Drive/hard disks Screw x 4pcs",
+            "normalizedName": "TOOTO NEW Apple Macbook Pro Unibody 13\" 15\" 17\" A1278 A1286 A1297 HDD Hard Drive/hard disks Screw x 4pcs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

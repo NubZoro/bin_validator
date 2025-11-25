@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1476743959": {
+            "asin": "1476743959",
+            "height": {
+                "unit": "IN",
+                "value": 1.3385826758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Game of Crowns: Elizabeth, Camilla, Kate, and the Throne",
+            "normalizedName": "Game of Crowns: Elizabeth, Camilla, Kate, and the Throne",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.190484063049714
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.2204724346
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

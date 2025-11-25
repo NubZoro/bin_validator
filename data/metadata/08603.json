@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002NFEBQE": {
+            "asin": "B002NFEBQE",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "WIX Filters - 33961 Heavy Duty Spin-On Fuel Filter, Pack of 1",
+            "normalizedName": "Pack of 1 WIX Filters - 33961 Heavy Duty Spin-On Fuel Filter,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B003OANWQC": {
+            "asin": "B003OANWQC",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Hurricane Speck Tail Rig, White/Pink, 1/8-Ounce",
+            "normalizedName": "Hurricane Speck Tail Rig, White/Pink, 1/8-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B00RBG687A": {
+            "asin": "B00RBG687A",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.2755905458
+            },
+            "name": "Panasonic LUMIX DMC-ZS50K 30X Travel Zoom with Eye Viewfinder (Black)",
+            "normalizedName": "Panasonic LUMIX DMC-ZS50K 30X Travel Zoom with Eye Viewfinder (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.1968503884
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

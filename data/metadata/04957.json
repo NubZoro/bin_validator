@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1259586367": {
+            "asin": "1259586367",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Practice Makes Perfect: Spanish Conversation, Premium Second Edition",
+            "normalizedName": "Practice Makes Perfect: Spanish Conversation, Premium Second Edition",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291276
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            }
+        },
+        "9332549443": {
+            "asin": "9332549443",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "The C Programming Language",
+            "normalizedName": "The C Programming Language",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B00OLOKMK4": {
+            "asin": "B00OLOKMK4",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "iPad Mini Case, iPad Mini 2 with Retina Display Case, iPad Mini 3 Case, FYY Detachable Rotating Leather Case Smart Cover with Velcro Hand Strap and Card Slots for iPad Mini 3 Green (With Auto Wake/Sleep Feature)",
+            "normalizedName": "iPad Mini Case, iPad Mini 2 with Retina Display Case, iPad Mini 3 Case, FYY Detachable Rotating Leather Case Smart Cover with Velcro Hand Strap and Card Slots for iPad Mini 3 Green (With Auto Wake/Sleep Feature)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

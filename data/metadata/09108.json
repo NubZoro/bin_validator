@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0037KMSQE": {
+            "asin": "B0037KMSQE",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Closet Complete Ultra Thin No Slip Velvet Hangers for Shirts and Dresses, Black, Set of 50",
+            "normalizedName": "Set of 50 Closet Complete Ultra Thin No Slip Velvet Hangers for Shirts and Dresses, Black,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.699999995220034
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.249999986485
+            }
+        },
+        "B01ABDOBGY": {
+            "asin": "B01ABDOBGY",
+            "height": {
+                "unit": "IN",
+                "value": 0.9448818888
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.5905511652
+            },
+            "name": "Mosiso Laptop Shoulder Sleeve Bag / Briefcase, Quatrefoil Style Canvas Fabric Carry Case for 14 Inch Notebook Computer / MacBook Air / MacBook Pro, Wine Red",
+            "normalizedName": "Mosiso Laptop Shoulder Sleeve Bag / Briefcase, Quatrefoil Style Canvas Fabric Carry Case for 14 Inch Notebook Computer / MacBook Air / MacBook Pro, Wine Red",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.10231131
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.81102361
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

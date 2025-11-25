@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014HX8L1U": {
+            "asin": "B014HX8L1U",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Lip Smacker Skittle Lime Flavored 2 pack Balm Stick",
+            "normalizedName": "Lip Smacker Skittle Lime Flavored 2 pack Balm Stick",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B01DDX30Q6": {
+            "asin": "B01DDX30Q6",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "FPS Freek Snipr - Xbox One",
+            "normalizedName": "FPS Freek Snipr - Xbox One",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

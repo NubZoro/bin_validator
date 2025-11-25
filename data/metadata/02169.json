@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0035J3XC0": {
+            "asin": "B0035J3XC0",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Pure Protein Chewy Chocolate Chip, 50 gram, 6 count Multipack",
+            "normalizedName": "Pure Protein Chewy Chocolate Chip, 50 gram, 6 count Multipack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00A878J80": {
+            "asin": "B00A878J80",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Wii U Gamepad Silicone Jacket - Pink",
+            "normalizedName": "Wii U Gamepad Silicone Jacket - Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00K30HC4E": {
+            "asin": "B00K30HC4E",
+            "height": {
+                "unit": "IN",
+                "value": 5.6
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.3
+            },
+            "name": "Eagles Nest Outfitters - SingleNest Hammock, Sapphire/Yellow (FFP)",
+            "normalizedName": "Eagles Nest Outfitters - SingleNest Hammock, Sapphire/Yellow (FFP)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

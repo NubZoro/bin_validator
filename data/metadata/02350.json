@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002RL8ICC": {
+            "asin": "B002RL8ICC",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Chamberlain NLS2 Wireless Portable Intercom-Double Unit",
+            "normalizedName": "Chamberlain NLS2 Wireless Portable Intercom-Double Unit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B014TE51C4": {
+            "asin": "B014TE51C4",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "Angry Birds K'nex Mission Mayham & Hammin Around with 2 Bonus Character Sets",
+            "normalizedName": "Angry Birds K'nex Mission Mayham & Hammin Around with 2 Bonus Character Sets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B0167HG1V6": {
+            "asin": "B0167HG1V6",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "ASUS RT-AC5300 Wireless AC5300 Tri-Band Gigabit Router, AiProtection with Trend Micro for Complete Network Security",
+            "normalizedName": "ASUS RT-AC5300 Wireless AC5300 Tri-Band Gigabit Router, AiProtection with Trend Micro for Complete Network Security",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.249999993920218
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B019FNCXLQ": {
+            "asin": "B019FNCXLQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Conair 1875 Watt Pro Styler",
+            "normalizedName": "Conair 1875 Watt Pro Styler",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3668520723904125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00Y4QBKLE": {
+            "asin": "B00Y4QBKLE",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Crayola Ultra Clean Large Crayons (Pack of 12, 16-Count)",
+            "normalizedName": "Pack of 12 Crayola Ultra Clean Large Crayons ( , 16-Count)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B013FL7IF0": {
+            "asin": "B013FL7IF0",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Gonex Road/Mountain Cycling Bike Helmet Adult Helmet(Black+Red)",
+            "normalizedName": "Gonex Road/Mountain Cycling Bike Helmet Adult Helmet(Black+Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4899999995890906
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

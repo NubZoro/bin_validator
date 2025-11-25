@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MO8X756": {
+            "asin": "B00MO8X756",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Field4U&reg; Women's Elastic Mirror Metal Waist Belt Metallic Waistband",
+            "normalizedName": "Field4U&reg; Women's Elastic Mirror Metal Waist Belt Metallic Waistband",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B01CSH5Q2O": {
+            "asin": "B01CSH5Q2O",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.49999998113
+            },
+            "name": "Anne Klein a Stitch in Time Tote Md, Midnight/Cognac",
+            "normalizedName": "Anne Klein a Stitch in Time Tote Md, Midnight/Cognac",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905368
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

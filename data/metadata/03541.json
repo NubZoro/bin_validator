@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BBDKSVQ": {
+            "asin": "B00BBDKSVQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "StarTech.com 3 ft Power Extension Cord - NEMA 5-15R to NEMA 5-15P - 16 AWG Power Extension Cable Cord - 125 Volts at 13 Amps - SJT - 3ft",
+            "normalizedName": "StarTech.com 3 ft Power Extension Cord - NEMA 5-15R to NEMA 5-15P - 16 AWG Power Extension Cable Cord - 125 Volts at 13 Amps - SJT - 3ft",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B0126M38YO": {
+            "asin": "B0126M38YO",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Hard Target (Blu-ray + DIGITAL HD)",
+            "normalizedName": "Hard Target (Blu-ray + DIGITAL HD)",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

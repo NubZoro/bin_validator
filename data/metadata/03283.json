@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006UPHRKA": {
+            "asin": "B006UPHRKA",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Aurora World Sweet and Softer 12\" Rocky Raccoon",
+            "normalizedName": "Aurora World Sweet and Softer 12\" Rocky Raccoon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.485012026093647
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00MB1CX5G": {
+            "asin": "B00MB1CX5G",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Aurora World My Little Pony Spike Plush, 10\"",
+            "normalizedName": "Aurora World My Little Pony Spike Plush, 10\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

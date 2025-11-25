@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00125RS9I": {
+            "asin": "B00125RS9I",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "ScotchBlue Painter's Tape, Multi-Use, .94-Inch by 60-Yard, 9-Roll",
+            "normalizedName": "ScotchBlue Painter's Tape, Multi-Use, .94-Inch by 60-Yard, 9-Roll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00134D3BA": {
+            "asin": "B00134D3BA",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Innovera Gel Mouse Pad with Wrist Rest, Nonskid Base, 9 X 7.5 - Inches Black (51450)",
+            "normalizedName": "Innovera Gel Mouse Pad with Wrist Rest, Nonskid Base, 9 X 7.5 - Inches Black (51450)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B01AJP50QY": {
+            "asin": "B01AJP50QY",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "iPad Pro 9.7 Case - MoKo Ultra Slim Lightweight Smart-shell Stand Cover with Translucent Frosted Back Protector for Apple iPad Pro 9.7 Inch 2016 Release Tablet, Tiffany BLUE (with Auto Wake / Sleep)",
+            "normalizedName": "iPad Pro 9.7 Case - MoKo Ultra Slim Lightweight Smart-shell Stand Cover with Translucent Frosted Back Protector for Apple iPad Pro 9.7 Inch 2016 Release Tablet, Tiffany BLUE (with Auto Wake / Sleep)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0249999991404446
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991635998
+            }
+        },
+        "B01B8L4PCI": {
+            "asin": "B01B8L4PCI",
+            "height": {
+                "unit": "IN",
+                "value": 0.3
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.7
+            },
+            "name": "Wiha 76091 PoziDrive Power Blades Bit Set, 3-Piece",
+            "normalizedName": "Wiha 76091 PoziDrive Power Blades Bit Set, 3-Piece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.12
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.1
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

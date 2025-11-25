@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004GEC2JS": {
+            "asin": "B004GEC2JS",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "BIC Pencil Xtra Strong (Yellow Barrels), Thick Point (0.9 mm), 24-Count",
+            "normalizedName": "BIC Pencil Xtra Strong (Yellow Barrels), Thick Point (0.9 mm), 24-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.699999996226
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

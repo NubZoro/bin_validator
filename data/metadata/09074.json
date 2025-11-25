@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003KLT05C": {
+            "asin": "B003KLT05C",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Doctor Kracker Crispbread, Pumpkin Seed Cheddar, 7 Ounce (Pack of 6)",
+            "normalizedName": "(Pack of 6) Doctor Kracker Crispbread, Pumpkin Seed Cheddar, 7 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B013E77GSE": {
+            "asin": "B013E77GSE",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "XDOBO Mesh Laundry Bag Wash Set with Zipper Multipurpose Travel Set of 5 (Small * 1, Medium * 1, Large * 1, Bra Wash Bag * 2)",
+            "normalizedName": "Set of 5 XDOBO Mesh Laundry Bag Wash Set with Zipper Multipurpose Travel (Small * 1, Medium * 1, Large * 1, Bra Wash Bag * 2)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645638
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B0182PRY9E": {
+            "asin": "B0182PRY9E",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168001
+            },
+            "name": "12 inch ruler 3 Axis Leveling tool for leveling pool tables and other construction uses",
+            "normalizedName": "12 inch ruler 3 Axis Leveling tool for leveling pool tables and other construction uses",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064933
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

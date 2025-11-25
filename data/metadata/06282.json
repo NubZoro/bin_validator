@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0319886921": {
+            "asin": "0319886921",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Sunshine and Shadow",
+            "normalizedName": "Sunshine and Shadow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7899964065018067
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B01B14YY3M": {
+            "asin": "B01B14YY3M",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Maxx Elite \"Clear\" Microwave Sterilizer Gift Set",
+            "normalizedName": "Maxx Elite \"Clear\" Microwave Sterilizer Gift Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

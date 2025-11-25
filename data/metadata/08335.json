@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HK1MIUC": {
+            "asin": "B00HK1MIUC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Gooby Fashion Quilted Bomber Dog Vest with Stretchable Chest, Pink, Medium",
+            "normalizedName": "Gooby Fashion Quilted Bomber Dog Vest with Stretchable Chest, Pink, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

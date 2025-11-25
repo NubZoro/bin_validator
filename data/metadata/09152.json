@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0055VPOTQ": {
+            "asin": "B0055VPOTQ",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "NFL New Oleans Saints Wineholder Shoe",
+            "normalizedName": "NFL New Oleans Saints Wineholder Shoe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6999999977358056
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B00D4INF0M": {
+            "asin": "B00D4INF0M",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Beats Executive Over-Ear Noise Cancelling Headphones (Black)",
+            "normalizedName": "Beats Executive Over-Ear Noise Cancelling Headphones (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.06
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

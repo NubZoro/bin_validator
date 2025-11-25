@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BRNKEU": {
+            "asin": "B000BRNKEU",
+            "height": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Pampered Chef Ice Shaver",
+            "normalizedName": "Pampered Chef Ice Shaver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B00BFY3N54": {
+            "asin": "B00BFY3N54",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "3\" Recessed Light Kit with Swivel Trim And 50 Watt Bulbs, Remodeler's Non-IC Cans, Contractor Pack of 2 Lights",
+            "normalizedName": "Pack of 2 3\" Recessed Light Kit with Swivel Trim And 50 Watt Bulbs, Remodeler's Non-IC Cans, Contractor Lights",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

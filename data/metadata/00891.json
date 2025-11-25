@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006HVUSS": {
+            "asin": "B0006HVUSS",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Stanley GS20DT Dual Temperature 4-Inch Glue Sticks, 24-Pack",
+            "normalizedName": "24-Pack Stanley GS20DT Dual Temperature 4-Inch Glue Sticks,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00WKUCIK8": {
+            "asin": "B00WKUCIK8",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "6 Grid Plastic Box Beads Organizer 3 1/4-Inch by 4 3/4-Inch",
+            "normalizedName": "6 Grid Plastic Box Beads Organizer 3 1/4-Inch by 4 3/4-Inch",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

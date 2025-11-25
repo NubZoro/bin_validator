@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002GAXWFW": {
+            "asin": "B002GAXWFW",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.086614166
+            },
+            "name": "Panasonic RP-HS46E-W Slim Earhook Headphone (White)",
+            "normalizedName": "Panasonic RP-HS46E-W Slim Earhook Headphone (White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8031496014
+            }
+        },
+        "B006ZB30LE": {
+            "asin": "B006ZB30LE",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Tripp Lite Heavy-Duty Power Extension Cord 15A, 14AWG (IEC-320-C14 to IEC-320-C13 with Red Plugs) 6-ft.(P005-006-RD)",
+            "normalizedName": "Tripp Lite Heavy-Duty Power Extension Cord 15A, 14AWG (IEC-320-C14 to IEC-320-C13 with Red Plugs) 6-ft.(P005-006-RD)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00JAQJNN0": {
+            "asin": "B00JAQJNN0",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "The Grand Budapest Hotel [Blu-ray]",
+            "normalizedName": "The Grand Budapest Hotel [Blu-ray]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00YD53YQU": {
+            "asin": "B00YD53YQU",
+            "height": {
+                "unit": "IN",
+                "value": 2.8346456664
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.2204724346
+            },
+            "name": "Apple iPhone 5S Silver 16GB Unlocked GSM Smartphone (Certified Refurbished)",
+            "normalizedName": "Apple iPhone 5S Silver 16GB Unlocked GSM Smartphone (Certified Refurbished)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5731960303572697
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4881889718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

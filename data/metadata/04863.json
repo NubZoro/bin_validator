@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0670060852": {
+            "asin": "0670060852",
+            "height": {
+                "unit": "IN",
+                "value": 0.40157480274
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.09842518655
+            },
+            "name": "Angelina and the Princess (Angelina Ballerina)",
+            "normalizedName": "Angelina and the Princess (Angelina Ballerina)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7000117743024
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.29921258996
+            }
+        },
+        "1629972126": {
+            "asin": "1629972126",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "The Great Courses: How to Publish Your Book",
+            "normalizedName": "The Great Courses: How to Publish Your Book",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B000CQID92": {
+            "asin": "B000CQID92",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990106
+            },
+            "name": "Stash Tea Herbal Tea Sampler, Nine Flavor Variety Pack, 18 Count Tea Bags in Foil (Pack of 6)",
+            "normalizedName": "(Pack of 6) Stash Tea Herbal Tea Sampler, Nine Flavor Variety Pack, 18 Count Tea Bags in Foil",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

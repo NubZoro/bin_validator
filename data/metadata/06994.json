@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0060935464": {
+            "asin": "0060935464",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "To Kill a Mockingbird",
+            "normalizedName": "To Kill a Mockingbird",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "0393920313": {
+            "asin": "0393920313",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Give Me Liberty!: An American History (Seagull Fourth Edition)  (Vol. 2)",
+            "normalizedName": "Give Me Liberty!: An American History (Seagull Fourth Edition)  (Vol. 2)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

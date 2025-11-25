@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006J3S9U0": {
+            "asin": "B006J3S9U0",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Twinings Herbal Tea, Orange & Cinnamon Spice, 20 Count Bagged Tea (6 Pack)",
+            "normalizedName": "(6 Pack) Twinings Herbal Tea, Orange & Cinnamon Spice, 20 Count Bagged Tea",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B00809ERAM": {
+            "asin": "B00809ERAM",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "The Face Shop - Rice Water Bright - Cleansing Light Oil - Facial Care",
+            "normalizedName": "The Face Shop - Rice Water Bright - Cleansing Light Oil - Facial Care",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B00YW4M07G": {
+            "asin": "B00YW4M07G",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "BOSS by Hugo Boss Men's B0701S Aviator Sunglasses, Palladium Dark Horn/Brown, 57 mm",
+            "normalizedName": "BOSS by Hugo Boss Men's B0701S Aviator Sunglasses, Palladium Dark Horn/Brown, 57 mm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

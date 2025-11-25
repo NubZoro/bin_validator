@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001VW3LM": {
+            "asin": "B0001VW3LM",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Solgar Standardized Full Potency Rhodiola Root Extract Vegetable Capsules, 60 Count",
+            "normalizedName": "Solgar Standardized Full Potency Rhodiola Root Extract Vegetable Capsules, 60 Count",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B019OYHTWO": {
+            "asin": "B019OYHTWO",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "name": "ZHUOZZ Metal Replacement Bracelet With New Unique Design Silver Metal Housing for Fitbit Flex Smart Band",
+            "normalizedName": "ZHUOZZ Metal Replacement Bracelet With New Unique Design Silver Metal Housing for Fitbit Flex Smart Band",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

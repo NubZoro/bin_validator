@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0133576876": {
+            "asin": "0133576876",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Fundamentals of Corporate Finance Plus NEW MyFinanceLab with Pearson eText -- Access Card Package (3rd Edition) (Pearson Series in Finance)",
+            "normalizedName": "Fundamentals of Corporate Finance Plus NEW MyFinanceLab with Pearson eText -- Access Card Package (3rd Edition) (Pearson Series in Finance)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B003VY9REC": {
+            "asin": "B003VY9REC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "NFL Buffalo Bills Hoodie Purse",
+            "normalizedName": "NFL Buffalo Bills Hoodie Purse",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B00MA5LA48": {
+            "asin": "B00MA5LA48",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862
+            },
+            "name": "Cafe Bustelo Espresso Style, K-Cups for Keurig Brewers, 72 Count",
+            "normalizedName": "Cafe Bustelo Espresso Style, K-Cups for Keurig Brewers, 72 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3999999971487918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00XLQJH9A": {
+            "asin": "B00XLQJH9A",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Zombicide Angry Neighbors Tiles Pack",
+            "normalizedName": "Zombicide Angry Neighbors Tiles Pack",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

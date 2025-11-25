@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1452118329": {
+            "asin": "1452118329",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8976377862
+            },
+            "name": "642 Fashion Things to Draw",
+            "normalizedName": "642 Fashion Things to Draw",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5873120853973903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.480314953
+            }
+        },
+        "B01B1DEJRO": {
+            "asin": "B01B1DEJRO",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Fintie Impact Resistant Case for Fire 7 2015 - [CaseBot Tuatara] Rugged Unibody Dual Layer Hybrid Full Protective Bumper Cover with Built-in Screen Protector for Amazon Fire 7\" Tablet (5th Gen), Blue",
+            "normalizedName": "Fintie Impact Resistant Case for Fire 7 2015 - [CaseBot Tuatara] Rugged Unibody Dual Layer Hybrid Full Protective Bumper Cover with Built-in Screen Protector for Amazon Fire 7\" Tablet (5th Gen), Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

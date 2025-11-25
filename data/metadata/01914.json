@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006I5BOG": {
+            "asin": "B0006I5BOG",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Educational Insights Jumbo Lowercase Alphabet",
+            "normalizedName": "Educational Insights Jumbo Lowercase Alphabet",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B004676AW0": {
+            "asin": "B004676AW0",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Genova Products 81630 ABS-DWV Fitting Clean-Outs with Threaded Plug, 3\"",
+            "normalizedName": "Genova Products 81630 ABS-DWV Fitting Clean-Outs with Threaded Plug, 3\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00NHZW1FM": {
+            "asin": "B00NHZW1FM",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.0
+            },
+            "name": "Metallic Foil Stamped Framed Irish Blessing Tabletop or Wall Plaque",
+            "normalizedName": "Metallic Foil Stamped Framed Irish Blessing Tabletop or Wall Plaque",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 9.0
+            }
+        },
+        "B01B3745AY": {
+            "asin": "B01B3745AY",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "DELE Pet Dematting Comb Rake,Dual Sided 6+11 Teeth Mat Brush Splitter,Removes Mats,Tangles Hair,Pink",
+            "normalizedName": "DELE Pet Dematting Comb Rake,Dual Sided 6+11 Teeth Mat Brush Splitter,Removes Mats,Tangles Hair,Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

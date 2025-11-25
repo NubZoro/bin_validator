@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "013386295X": {
+            "asin": "013386295X",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "The Longman Reader (11th Edition)",
+            "normalizedName": "The Longman Reader (11th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "1423165241": {
+            "asin": "1423165241",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1889763696
+            },
+            "name": "Kingdom Keepers VII: The Insider",
+            "normalizedName": "Kingdom Keepers VII: The Insider",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5432200830252405
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

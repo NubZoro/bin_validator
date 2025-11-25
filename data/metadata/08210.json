@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009P8C1BE": {
+            "asin": "B009P8C1BE",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Geranium Fairy",
+            "normalizedName": "Geranium Fairy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00PG7G46Q": {
+            "asin": "B00PG7G46Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Dr. Browns Baby Bottles Boys 6 Pack - 3 (8 oz) Blue and 3 (8 oz) Clear Bottles with New Prints",
+            "normalizedName": "6 Pack Dr. Browns Baby Bottles Boys - 3 (8 oz) Blue and 3 (8 oz) Clear Bottles with New Prints",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

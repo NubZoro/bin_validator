@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0516259377": {
+            "asin": "0516259377",
+            "height": {
+                "unit": "IN",
+                "value": 0.0787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.6141732216
+            },
+            "name": "Watching the Seasons (Welcome Books: Watching Nature (Paperback))",
+            "normalizedName": "Watching the Seasons (Welcome Books: Watching Nature (Paperback))",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.7480314902
+            }
+        },
+        "B004I10K48": {
+            "asin": "B004I10K48",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Depo 313-1505L-AS Isuzu Trooper/Acura SLX Driver Side Replacement Parking/Signal Light Assembly",
+            "normalizedName": "Depo 313-1505L-AS Isuzu Trooper/Acura SLX Driver Side Replacement Parking/Signal Light Assembly",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

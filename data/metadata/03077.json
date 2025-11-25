@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0012UPCAU": {
+            "asin": "B0012UPCAU",
+            "height": {
+                "unit": "IN",
+                "value": 1.1
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.0
+            },
+            "name": "Natural Two Tone Cane Handle - Double Bottle Carrier",
+            "normalizedName": "Natural Two Tone Cane Handle - Double Bottle Carrier",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4
+            }
+        },
+        "B00M7GY8QW": {
+            "asin": "B00M7GY8QW",
+            "height": {
+                "unit": "IN",
+                "value": 3.1
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.4
+            },
+            "name": "Herbal Detox and Wellness Tea (28 Potent Tea Bags). USDA Certified Organic. Rich in Antioxidants and Daily Needed Essential Nutrients. No Artificial Flavors or Preservatives. All Natural!",
+            "normalizedName": "Herbal Detox and Wellness Tea (28 Potent Tea Bags). USDA Certified Organic. Rich in Antioxidants and Daily Needed Essential Nutrients. No Artificial Flavors or Preservatives. All Natural!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.1
+            }
+        },
+        "B011OONHE6": {
+            "asin": "B011OONHE6",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Greens SuperFood Powder Drink Mix with Chia Seeds and over 15 Super Foods. Delicious Berry Flavor and Loaded with Dark Greens, Wild Fruits, Fiber, Digestive Enzymes, Probiotics, Antioxidants, and Vitamins. PhytoFood 30 Servings by NutraHouse",
+            "normalizedName": "Greens SuperFood Powder Drink Mix with Chia Seeds and over 15 Super Foods. Delicious Berry Flavor and Loaded with Dark Greens, Wild Fruits, Fiber, Digestive Enzymes, Probiotics, Antioxidants, and Vitamins. PhytoFood 30 Servings by NutraHouse",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

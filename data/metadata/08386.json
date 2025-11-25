@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004KRDJN4": {
+            "asin": "B004KRDJN4",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "bowlingball.com Shoe Protectors - X-Large",
+            "normalizedName": "bowlingball.com Shoe Protectors - X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B00PEYA2KU": {
+            "asin": "B00PEYA2KU",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "5\" x 9-10MM Munchy Peanut Butter Stick (100pk)(2Pack)",
+            "normalizedName": "(2Pack) 5\" x 9-10MM Munchy Peanut Butter Stick (100pk)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B00UT11Y6E": {
+            "asin": "B00UT11Y6E",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Crocodile Creek Jungle 123 Playground Ball, Lime Green, 5\"",
+            "normalizedName": "Crocodile Creek Jungle 123 Playground Ball, Lime Green, 5\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

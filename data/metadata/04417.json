@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004EDUVHQ": {
+            "asin": "B004EDUVHQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Green Mountain Coffee Breakfast Blend Decaf,  K-Cup Portion Pack for Keurig K-Cup Brewers, 12-Count (Pack of 3)",
+            "normalizedName": "(Pack of 3) Green Mountain Coffee Breakfast Blend Decaf,  K-Cup Portion Pack for Keurig K-Cup Brewers, 12-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B01E7MQPWI": {
+            "asin": "B01E7MQPWI",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Sharp Atomic Radio Controlled Small Digital Travel Alarm Clock With 3.5\" Digital Display, Snooze,Night Light, Date",
+            "normalizedName": "Sharp Atomic Radio Controlled Small Digital Travel Alarm Clock With 3.5\" Digital Display, Snooze,Night Light, Date",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

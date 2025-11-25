@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BITISWY": {
+            "asin": "B00BITISWY",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "PT Auto Warehouse HY-2323G-LH - Inside Interior Inner Door Handle, Gray - Driver Side",
+            "normalizedName": "PT Auto Warehouse HY-2323G-LH - Inside Interior Inner Door Handle, Gray - Driver Side",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00VU38QNE": {
+            "asin": "B00VU38QNE",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "NASCAR Womens Black Glitter Girl Fitted Tee-Kurt Busch #41-Small",
+            "normalizedName": "NASCAR Womens Black Glitter Girl Fitted Tee-Kurt Busch #41-Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B01EILHJC8": {
+            "asin": "B01EILHJC8",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Shoe Orthotic/Arch Support BestSole Inc. - M",
+            "normalizedName": "Shoe Orthotic/Arch Support BestSole Inc. - M",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

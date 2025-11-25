@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0156J3PUQ": {
+            "asin": "B0156J3PUQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Ultra Seal 1 Gallon Pitcher",
+            "normalizedName": "Ultra Seal 1 Gallon Pitcher",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B015MGDAEO": {
+            "asin": "B015MGDAEO",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Shenfan Displayport Dp To Dvi Converter Adapter Cable Pc Laptop Color Black",
+            "normalizedName": "Shenfan Displayport Dp To Dvi Converter Adapter Cable Pc Laptop Color Black",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1599999998658255
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

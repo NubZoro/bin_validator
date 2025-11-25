@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000TSQ8O": {
+            "asin": "B0000TSQ8O",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.59842518196
+            },
+            "name": "DryGuy BootGlove Boot Covers,Black,Large",
+            "normalizedName": "DryGuy BootGlove Boot Covers,Black,Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3500058871512
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B001IVYO3Y": {
+            "asin": "B001IVYO3Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Smoky Mountain Mens Bradley Boots - Size:11.0/D Color:Bay Apache",
+            "normalizedName": "Smoky Mountain Mens Bradley Boots - Size:11.0/D Color:Bay Apache",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00SC9F1SW": {
+            "asin": "B00SC9F1SW",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "B&O PLAY by BANG & OLUFSEN - Beolit 15 Portable Bluetooth Speaker, Shaded Rosa (1287634)",
+            "normalizedName": "B&O PLAY by BANG & OLUFSEN - Beolit 15 Portable Bluetooth Speaker, Shaded Rosa (1287634)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.049999993249347
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

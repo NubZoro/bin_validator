@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009VKJT52": {
+            "asin": "B009VKJT52",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Prepworks seafood scissors",
+            "normalizedName": "Prepworks seafood scissors",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00KZ1JIM0": {
+            "asin": "B00KZ1JIM0",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "Watchover Voodoo Pixie Voodoo Novelty",
+            "normalizedName": "Watchover Voodoo Pixie Voodoo Novelty",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

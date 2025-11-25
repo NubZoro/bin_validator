@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009Q6F6EO": {
+            "asin": "B009Q6F6EO",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Persona 4: The Animation Collection 2",
+            "normalizedName": "Persona 4: The Animation Collection 2",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00KY1I0E8": {
+            "asin": "B00KY1I0E8",
+            "height": {
+                "unit": "IN",
+                "value": 0.59842519624
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "The Walking Dead: Season 2 - Xbox 360",
+            "normalizedName": "The Walking Dead: Season 2 - Xbox 360",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000132276007118
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.29921259302
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003LD5QIE": {
+            "asin": "B003LD5QIE",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Epson DURABrite XL T127120 Ultra 127 Extra High-capacity Inkjet Cartridge-Black",
+            "normalizedName": "Epson DURABrite XL T127120 Ultra 127 Extra High-capacity Inkjet Cartridge-Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601868139676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B007AGH86G": {
+            "asin": "B007AGH86G",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "SharkBite 22771 Temperature Gauge, 1/2-Inch",
+            "normalizedName": "SharkBite 22771 Temperature Gauge, 1/2-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00RDOTTCG": {
+            "asin": "B00RDOTTCG",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Vixen War Paint Cherry Tastic Conditioning Hair Color",
+            "normalizedName": "Vixen War Paint Cherry Tastic Conditioning Hair Color",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

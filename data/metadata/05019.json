@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00I4RPXBM": {
+            "asin": "B00I4RPXBM",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Natural Balance Dental Chews Pumpkin & Chicken Meal Formula with Papaya, Small Dog Treats, 13-Ounce",
+            "normalizedName": "Natural Balance Dental Chews Pumpkin & Chicken Meal Formula with Papaya, Small Dog Treats, 13-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B0147PKUTE": {
+            "asin": "B0147PKUTE",
+            "height": {
+                "unit": "IN",
+                "value": 3.8188976339
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.7795275501
+            },
+            "name": "Blackburn Cinch Carbon Fiber Bottle Cage - Matte White",
+            "normalizedName": "Blackburn Cinch Carbon Fiber Bottle Cage - Matte White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.07936560420331425
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.8661417263
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

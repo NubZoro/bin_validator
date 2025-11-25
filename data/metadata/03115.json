@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0785260242": {
+            "asin": "0785260242",
+            "height": {
+                "unit": "IN",
+                "value": 0.90157480223
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Can a Smart Person Believe in God?",
+            "normalizedName": "Can a Smart Person Believe in God?",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3500058871512
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.29921259302
+            }
+        },
+        "0786868716": {
+            "asin": "0786868716",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "The Five People You Meet In Heaven",
+            "normalizedName": "The Five People You Meet In Heaven",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00FCBXCZM": {
+            "asin": "B00FCBXCZM",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "Patch Magic Natures Splendor 54 by 16-Inch Table Runner, Small",
+            "normalizedName": "Patch Magic Natures Splendor 54 by 16-Inch Table Runner, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

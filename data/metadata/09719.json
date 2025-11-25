@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01AHP8DG0": {
+            "asin": "B01AHP8DG0",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Berta Ceramic Hair Straightener and Curler Iron, Gold",
+            "normalizedName": "Berta Ceramic Hair Straightener and Curler Iron, Gold",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

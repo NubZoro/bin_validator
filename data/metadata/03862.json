@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1579656846": {
+            "asin": "1579656846",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "On the Origins of Sports: The Early History and Original Rules of Everybody's Favorite Games",
+            "normalizedName": "On the Origins of Sports: The Early History and Original Rules of Everybody's Favorite Games",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00062NHI4": {
+            "asin": "B00062NHI4",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Calvin Klein Men's 3-Pack Classic V-Neck T-Shirt, White, Medium",
+            "normalizedName": "3-Pack Calvin Klein Men's Classic V-Neck T-Shirt, White, Medium",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B0141G6WL4": {
+            "asin": "B0141G6WL4",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "TopCase Gray Quatrefoil / Moroccan Trellis Sleeve Bag Case Cover for Apple Macbook Air 11\" Model A1370 and A1466 with TopCase Mouse Pad",
+            "normalizedName": "TopCase Gray Quatrefoil / Moroccan Trellis Sleeve Bag Case Cover for Apple Macbook Air 11\" Model A1370 and A1466 with TopCase Mouse Pad",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

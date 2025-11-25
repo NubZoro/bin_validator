@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006IFN9": {
+            "asin": "B00006IFN9",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989086
+            },
+            "name": "Fiskars 8 Inch The Original Orange-Handled Scissors",
+            "normalizedName": "Fiskars 8 Inch The Original Orange-Handled Scissors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B003U8CRGY": {
+            "asin": "B003U8CRGY",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Laptop AC Adapter/Power Supply/Charger+US Power Cord for Toshiba Satellite",
+            "normalizedName": "Laptop AC Adapter/Power Supply/Charger+US Power Cord for Toshiba Satellite",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B009Q8M816": {
+            "asin": "B009Q8M816",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "17 Mode Drop Shot, Quick Scope, Auto Aim, Dual Rapid Fire, Reprogrammable Xbox 360 Modded Rapid Fire Controller For COD Advanced Warfare Ghost Mw3 Black Ops Mw 2 with Blue Dpad, Sticks and Led",
+            "normalizedName": "17 Mode Drop Shot, Quick Scope, Auto Aim, Dual Rapid Fire, Reprogrammable Xbox 360 Modded Rapid Fire Controller For COD Advanced Warfare Ghost Mw3 Black Ops Mw 2 with Blue Dpad, Sticks and Led",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B013VQ60ZI": {
+            "asin": "B013VQ60ZI",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Triceratops Dinosaur by NATIONAL GEOGRAPHIC",
+            "normalizedName": "Triceratops Dinosaur by NATIONAL GEOGRAPHIC",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

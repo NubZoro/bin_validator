@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000QU6R88": {
+            "asin": "B000QU6R88",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Wrapp-It White Styling Strips",
+            "normalizedName": "Wrapp-It White Styling Strips",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B004GEC2JS": {
+            "asin": "B004GEC2JS",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "BIC Pencil Xtra Strong (Yellow Barrels), Thick Point (0.9 mm), 24-Count",
+            "normalizedName": "BIC Pencil Xtra Strong (Yellow Barrels), Thick Point (0.9 mm), 24-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.699999996226
+            }
+        },
+        "B00YE8M926": {
+            "asin": "B00YE8M926",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Decorative Animal Red Fox Thick Cotton Linen Throw Pillow Cover Car Cushion Pillowcase",
+            "normalizedName": "Decorative Animal Red Fox Thick Cotton Linen Throw Pillow Cover Car Cushion Pillowcase",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

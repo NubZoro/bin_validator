@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EZWS0VK": {
+            "asin": "B00EZWS0VK",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Cetaphil Daily Facial Cleanser, for normal to oily skin, 16 Ounce Bottles (Pack of 3)",
+            "normalizedName": "(Pack of 3) Cetaphil Daily Facial Cleanser, for normal to oily skin, 16 Ounce Bottles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00W9KAQP8": {
+            "asin": "B00W9KAQP8",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "D'Addario NYXL1260 Nickel Wound Electric Guitar Strings, Extra Heavy, 12-60",
+            "normalizedName": "D'Addario NYXL1260 Nickel Wound Electric Guitar Strings, Extra Heavy, 12-60",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B019GQH29U": {
+            "asin": "B019GQH29U",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "name": "Icerain Motorola Moto 360 2 Wireless Charger, Wireless Charging Cradle for Motorola Moto 360 2nd 42mm and 46mm Smartwatch with Black Micro USB Cable (Moto 360 2nd)",
+            "normalizedName": "Icerain Motorola Moto 360 2 Wireless Charger, Wireless Charging Cradle for Motorola Moto 360 2nd 42mm and 46mm Smartwatch with Black Micro USB Cable (Moto 360 2nd)",
+            "quantity": 12,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 1.574803148
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

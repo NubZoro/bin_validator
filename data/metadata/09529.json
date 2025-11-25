@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006X8TYQ4": {
+            "asin": "B006X8TYQ4",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Water Sports Inc 861790 Swim Thru Rings, 3 Pack",
+            "normalizedName": "3 Pack Water Sports Inc 861790 Swim Thru Rings,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        },
+        "B0072DNCQM": {
+            "asin": "B0072DNCQM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.299999983374
+            },
+            "name": "Globe-Weis Hanging File Folders, 1/5 Cut Clear Tab, Legal Size, Standard Green, 25 Folders Per Box (65155GW)",
+            "normalizedName": "Globe-Weis Hanging File Folders, 1/5 Cut Clear Tab, Legal Size, Standard Green, 25 Folders Per Box (65155GW)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

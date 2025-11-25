@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006L3MDDC": {
+            "asin": "B006L3MDDC",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Burt's Bees Baby Bee Shampoo & Wash, 12 Fluid Ounces, Pack of 3 (Packaging May Vary)",
+            "normalizedName": "Pack of 3 Burt's Bees Baby Bee Shampoo & Wash, 12 Fluid Ounces, (Packaging May Vary)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9099999975597015
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00NGLAIU2": {
+            "asin": "B00NGLAIU2",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Nick Jr Paw Patrol Ruff Ruff Rescue Cotton/Polyester Sheet Set, Twin",
+            "normalizedName": "Nick Jr Paw Patrol Ruff Ruff Rescue Cotton/Polyester Sheet Set, Twin",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

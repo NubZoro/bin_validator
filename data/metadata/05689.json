@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0006HVEAW": {
+            "asin": "B0006HVEAW",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Smead Desk File/Sorter, Daily (1-31) and Monthly (Jan.-Dec.), 43 Dividers, Letter Size, Blue (89235)",
+            "normalizedName": "Smead Desk File/Sorter, Daily (1-31) and Monthly (Jan.-Dec.), 43 Dividers, Letter Size, Blue (89235)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B000M3BTMI": {
+            "asin": "B000M3BTMI",
+            "height": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.199999983475998
+            },
+            "name": "Oster BRLY07-B 600-watt, 7-Speed Fusion Blender, Black",
+            "normalizedName": "Oster BRLY07-B 600-watt, 7-Speed Fusion Blender, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.199999989596
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

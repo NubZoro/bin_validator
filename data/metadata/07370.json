@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004LK3SIQ": {
+            "asin": "B004LK3SIQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Flax USA 100% Natural Organic Flax Cold Milled Ground Golden Flax Seed, 48-Ounce Pack",
+            "normalizedName": "Flax USA 100% Natural Organic Flax Cold Milled Ground Golden Flax Seed, 48-Ounce Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B009P4MX3Y": {
+            "asin": "B009P4MX3Y",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Atomic FireBall 240 Pieces 4.05lb",
+            "normalizedName": "Atomic FireBall 240 Pieces 4.05lb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

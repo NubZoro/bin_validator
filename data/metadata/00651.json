@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000IIYKUK": {
+            "asin": "B000IIYKUK",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.3228346382
+            },
+            "name": "Lego Bionicle Heroes",
+            "normalizedName": "Lego Bionicle Heroes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2600131918028
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.3543307032
+            }
+        },
+        "B001DW69TA": {
+            "asin": "B001DW69TA",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Dora Saves The Snow Princess",
+            "normalizedName": "Dora Saves The Snow Princess",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

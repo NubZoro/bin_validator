@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0012WLBYO": {
+            "asin": "B0012WLBYO",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.599999984088
+            },
+            "name": "Armstrong 69-490 2-Pound Rubber Mallet Fiberglass Handle",
+            "normalizedName": "Armstrong 69-490 2-Pound Rubber Mallet Fiberglass Handle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01FM4JEV4": {
+            "asin": "B01FM4JEV4",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "OXA 4-Piece 1800 TC Bed sheet sets \u2013 Pliable Brushed Microfiber \u2013 Moderate, Non-fading, Not crimping (Queen, Grey)",
+            "normalizedName": "OXA 4-Piece 1800 TC Bed sheet sets \u2013 Pliable Brushed Microfiber \u2013 Moderate, Non-fading, Not crimping (Queen, Grey)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.849999997610017
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

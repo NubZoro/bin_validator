@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AHXY10U": {
+            "asin": "B00AHXY10U",
+            "height": {
+                "unit": "IN",
+                "value": 0.0787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.8740157298
+            },
+            "name": "WWE Intercontinental Championship Title Belt",
+            "normalizedName": "WWE Intercontinental Championship Title Belt",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054792384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.055118101
+            }
+        },
+        "B01DJF9AJY": {
+            "asin": "B01DJF9AJY",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 19.099999980518
+            },
+            "name": "1 Teak Wood Board / Spindle. Measures 3\" x 3\" x 18\". Kiln dry lumber.",
+            "normalizedName": "1 Teak Wood Board / Spindle. Measures 3\" x 3\" x 18\". Kiln dry lumber.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8999999967294965
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B01DZ869DK": {
+            "asin": "B01DZ869DK",
+            "height": {
+                "unit": "IN",
+                "value": 11.249999988525
+            },
+            "length": {
+                "unit": "IN",
+                "value": 19.799999979804
+            },
+            "name": "2-Person Giant Double Sleeping Bag with 2 Pillows for Couple, a Carrying Bag for Camping, Backpacking, Hiking Included, 300G /M2 3D cotton filling for Extra Warm",
+            "normalizedName": "2-Person Giant Double Sleeping Bag with 2 Pillows for Couple, a Carrying Bag for Camping, Backpacking, Hiking Included, 300G /M2 3D cotton filling for Extra Warm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 16.82499998589071
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.599999986128001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1119166713": {
+            "asin": "1119166713",
+            "height": {
+                "unit": "IN",
+                "value": 1.11023621934
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.12992125053
+            },
+            "name": "From Impossible To Inevitable: How Hyper-Growth Companies Create Predictable Revenue",
+            "normalizedName": "From Impossible To Inevitable: How Hyper-Growth Companies Create Predictable Revenue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5800089393016
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.57086613503
+            }
+        },
+        "B01BCMBTTA": {
+            "asin": "B01BCMBTTA",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "LEGO Star Wars: The Force Awakens - Wii U Standard Edition",
+            "normalizedName": "LEGO Star Wars: The Force Awakens - Wii U Standard Edition",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

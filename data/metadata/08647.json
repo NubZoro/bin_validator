@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017JA3QEU": {
+            "asin": "B017JA3QEU",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "ALEKO TS-DF23 Electronic Pet Fencing System With Audible And Visual Wires Break Alarm, Variable Field Width Control",
+            "normalizedName": "ALEKO TS-DF23 Electronic Pet Fencing System With Audible And Visual Wires Break Alarm, Variable Field Width Control",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B019G9P3OI": {
+            "asin": "B019G9P3OI",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Starwest Botanicals Organic Turmeric Root Powder, 1 lb.",
+            "normalizedName": "Starwest Botanicals Organic Turmeric Root Powder, 1 lb.",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098323
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00004W4WM": {
+            "asin": "B00004W4WM",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452
+            },
+            "name": "Madden NFL 2001",
+            "normalizedName": "Madden NFL 2001",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B01C81R3FS": {
+            "asin": "B01C81R3FS",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Avolare 3Pack 3ft 6ft 10ft Durable USB Cable Nylon Braided lightning Sync and Charging Cord with Aluminum Connector for iPhone 6/6s/6 plus/6s plus, 5c/5s/5, iPad Air/Mini,iPod Nano/Touch(Gold)",
+            "normalizedName": "3Pack Avolare 3ft 6ft 10ft Durable USB Cable Nylon Braided lightning Sync and Charging Cord with Aluminum Connector for iPhone 6/6s/6 plus/6s plus, 5c/5s/5, iPad Air/Mini,iPod Nano/Touch(Gold)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

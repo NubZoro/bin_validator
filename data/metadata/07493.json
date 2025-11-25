@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017TDHFS0": {
+            "asin": "B017TDHFS0",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Brielle Tencel Sateen Sheet Set, Queen, Glacier Grey",
+            "normalizedName": "Brielle Tencel Sateen Sheet Set, Queen, Glacier Grey",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.19999999647792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

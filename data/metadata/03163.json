@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012AR5GM2": {
+            "asin": "B012AR5GM2",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Ironclad EXO-MWR-06-XXL Modern Water Resistant Gloves, XX-Large",
+            "normalizedName": "Ironclad EXO-MWR-06-XXL Modern Water Resistant Gloves, XX-Large",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B014KXMDXO": {
+            "asin": "B014KXMDXO",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Animal Crossing Series 3-Pack Amiibo (Animal Crossing Series)",
+            "normalizedName": "3-Pack Animal Crossing Series Amiibo (Animal Crossing Series)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

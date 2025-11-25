@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CEQW0G": {
+            "asin": "B000CEQW0G",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Laurey 51920 Nantucket 5-Inch Pull, Matte Black",
+            "normalizedName": "Laurey 51920 Nantucket 5-Inch Pull, Matte Black",
+            "quantity": 13,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0500008410216
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.90157480121
+            }
+        },
+        "B0048LRK5K": {
+            "asin": "B0048LRK5K",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Fossil Quartz Rosegold Gem Dial Rosegold Band - Women's Watch ES2811",
+            "normalizedName": "Fossil Quartz Rosegold Gem Dial Rosegold Band - Women's Watch ES2811",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01F3Q7SOQ": {
+            "asin": "B01F3Q7SOQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Quick Charge 3.0, Skiva 18W USB Wall Charger (Quick Charge 2.0 Compatible) PowerFlow QuickCharger for Samsung Galaxy S7 S6 Edge Plus, Note 5 4, Google Nexus 6, LG G5 V10, iPhone [Model:AC136]",
+            "normalizedName": "Quick Charge 3.0, Skiva 18W USB Wall Charger (Quick Charge 2.0 Compatible) PowerFlow QuickCharger for Samsung Galaxy S7 S6 Edge Plus, Note 5 4, Google Nexus 6, LG G5 V10, iPhone [Model:AC136]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 15
+}

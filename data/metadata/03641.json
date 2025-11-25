@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00M0I1QP8": {
+            "asin": "B00M0I1QP8",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.749999982915
+            },
+            "name": "Sterilite 16 Quart Basic Clear Storage Box with White Lid (Pack of 2)",
+            "normalizedName": "(Pack of 2) Sterilite 16 Quart Basic Clear Storage Box with White Lid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.749999988015
+            }
+        },
+        "B01C35K79I": {
+            "asin": "B01C35K79I",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Norwood Commercial Furniture NOR-CID1045-24 Dry Erase Lapboards, White (Pack of 24)",
+            "normalizedName": "(Pack of 24) Norwood Commercial Furniture NOR-CID1045-24 Dry Erase Lapboards, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.78
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B01G9G58AA": {
+            "asin": "B01G9G58AA",
+            "height": {
+                "unit": "IN",
+                "value": 0.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "Whirlwind USA LSS 12-Inch Dry or Wet Cutting General Purpose Power Saw Segmented Diamond Blades for Concrete Stone Brick Masonry (Factory Direct Sale) (12\")",
+            "normalizedName": "Whirlwind USA LSS 12-Inch Dry or Wet Cutting General Purpose Power Saw Segmented Diamond Blades for Concrete Stone Brick Masonry (Factory Direct Sale) (12\")",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

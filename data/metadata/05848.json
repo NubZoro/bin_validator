@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013FRNKG": {
+            "asin": "B0013FRNKG",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Apple iPad 2 MC769LL/A Tablet ( iOS 7,16GB, WiFi) Black 2nd Generation",
+            "normalizedName": "Apple iPad 2 MC769LL/A Tablet ( iOS 7,16GB, WiFi) Black 2nd Generation",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003H0U5BY": {
+            "asin": "B003H0U5BY",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "BaByliss Pro - Porcelain Plate Ceramic Flat Iron - 1 Inch - model: BABP9557",
+            "normalizedName": "BaByliss Pro - Porcelain Plate Ceramic Flat Iron - 1 Inch - model: BABP9557",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994083999
+            }
+        },
+        "B00QFTIW96": {
+            "asin": "B00QFTIW96",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Large 7\" Round 9-10 Lb Fire Himalayan Bowl Salt Lamp (FL01), By JIC Gem",
+            "normalizedName": "Large 7\" Round 9-10 Lb Fire Himalayan Bowl Salt Lamp (FL01), By JIC Gem",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B01FLPTXE2": {
+            "asin": "B01FLPTXE2",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Huawei Mate 2 Case, HL Brothers [Ultra Slim] Premium Crocodile Pattern Lightweight Leather Phone Protective Case Cover for Huawei Ascend Mate 2 Smartphone (Crocodile Cover Red)",
+            "normalizedName": "Huawei Mate 2 Case, HL Brothers [Ultra Slim] Premium Crocodile Pattern Lightweight Leather Phone Protective Case Cover for Huawei Ascend Mate 2 Smartphone (Crocodile Cover Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

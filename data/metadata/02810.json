@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009IULJMG": {
+            "asin": "B009IULJMG",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "uxcell\u00ae Black Carved Skull Car Gear Stick Shift Knob",
+            "normalizedName": "uxcell\u00ae Black Carved Skull Car Gear Stick Shift Knob",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00BFZJMJE": {
+            "asin": "B00BFZJMJE",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Louis Garneau Men's Creek Cycling Gloves, Black, Large",
+            "normalizedName": "Louis Garneau Men's Creek Cycling Gloves, Black, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B018AP1WMQ": {
+            "asin": "B018AP1WMQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Pacifier Clip Girls by Liname - 3 Pack - Premium Quality Universal Pacifier Clip - Adorable 2-Sided Stylish Design - Soothie Pacifier Holder - Perfect Baby Shower Gift",
+            "normalizedName": "3 Pack Pacifier Clip Girls by Liname - - Premium Quality Universal Pacifier Clip - Adorable 2-Sided Stylish Design - Soothie Pacifier Holder - Perfect Baby Shower Gift",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

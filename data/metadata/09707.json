@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000042HY": {
+            "asin": "B0000042HY",
+            "height": {
+                "unit": "IN",
+                "value": 0.9448818888
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "name": "Rachmaninov: The Symphonies",
+            "normalizedName": "Rachmaninov: The Symphonies",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000067281728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8031496014
+            }
+        },
+        "B0060OQQJE": {
+            "asin": "B0060OQQJE",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Chili Pepper Tissue Straws",
+            "normalizedName": "Chili Pepper Tissue Straws",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B008GOZP8Y": {
+            "asin": "B008GOZP8Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Dublin Crystal Bedside Night Carafe With Tumbler Glass",
+            "normalizedName": "Dublin Crystal Bedside Night Carafe With Tumbler Glass",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

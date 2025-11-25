@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017YNUH6C": {
+            "asin": "B017YNUH6C",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Philips Norelco Electric Shaver 5100 Wet & Dry, S5210/81, with Precision Trimmer",
+            "normalizedName": "Philips Norelco Electric Shaver 5100 Wet & Dry, S5210/81, with Precision Trimmer",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

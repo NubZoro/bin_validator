@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007AM8QDO": {
+            "asin": "B007AM8QDO",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "BlueDot Trading Dictionary Secret Book Hidden Safe with Key Lock, Small, Blue",
+            "normalizedName": "BlueDot Trading Dictionary Secret Book Hidden Safe with Key Lock, Small, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B011PVEUOO": {
+            "asin": "B011PVEUOO",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Moon Light - Deluxe Edition- 7 Color Settings and New Features!",
+            "normalizedName": "Moon Light - Deluxe Edition- 7 Color Settings and New Features!",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

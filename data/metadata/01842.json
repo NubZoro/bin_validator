@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "030797667X": {
+            "asin": "030797667X",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Twinky the Dinky Dog (Step into Reading)",
+            "normalizedName": "Twinky the Dinky Dog (Step into Reading)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994083999
+            }
+        },
+        "0375866876": {
+            "asin": "0375866876",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "How Tia Lola Saved the Summer (The Tia Lola Stories)",
+            "normalizedName": "How Tia Lola Saved the Summer (The Tia Lola Stories)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.118110231
+            }
+        },
+        "0375868003": {
+            "asin": "0375868003",
+            "height": {
+                "unit": "IN",
+                "value": 0.2362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7952755826
+            },
+            "name": "The Merry Shipwreck (Little Golden Book)",
+            "normalizedName": "The Merry Shipwreck (Little Golden Book)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.5354330642
+            }
+        },
+        "B0002I5QHW": {
+            "asin": "B0002I5QHW",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Norpro Meat Grinder, Mincer, and Pasta Maker",
+            "normalizedName": "Norpro Meat Grinder, Mincer, and Pasta Maker",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

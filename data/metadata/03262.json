@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002E2GQU": {
+            "asin": "B0002E2GQU",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Lavazza Crema e Aroma - Coffee Beans, 2.2-Pound Bag",
+            "normalizedName": "Lavazza Crema e Aroma - Coffee Beans, 2.2-Pound Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B006LW0W5Y": {
+            "asin": "B006LW0W5Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.8999999970420003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "AmazonBasics 16-Gauge Speaker Wire - 100 Feet",
+            "normalizedName": "AmazonBasics 16-Gauge Speaker Wire - 100 Feet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2499999972745806
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00Q5KIRN6": {
+            "asin": "B00Q5KIRN6",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Secret Color Headband Hair Extensions Pink",
+            "normalizedName": "Secret Color Headband Hair Extensions Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00SL3KNUK": {
+            "asin": "B00SL3KNUK",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Tetley Tea, Peach, 18 Count (Pack of 5)",
+            "normalizedName": "(Pack of 5) Tetley Tea, Peach, 18 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

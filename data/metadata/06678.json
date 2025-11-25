@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004BW8TYC": {
+            "asin": "B004BW8TYC",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "HABA My Very First Games - First Orchard",
+            "normalizedName": "HABA My Very First Games - First Orchard",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

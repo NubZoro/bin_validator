@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002UP026": {
+            "asin": "B0002UP026",
+            "height": {
+                "unit": "IN",
+                "value": 2.29921259608
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.70078739066
+            },
+            "name": "Model Horse 3-D Paint By Number Kit",
+            "normalizedName": "Model Horse 3-D Paint By Number Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8500311177992
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.79921258843
+            }
+        },
+        "B01BBRORPO": {
+            "asin": "B01BBRORPO",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Chastep Soft Pu Sport Soccer Football 8 Inch (Dark Blue)",
+            "normalizedName": "Chastep Soft Pu Sport Soccer Football 8 Inch (Dark Blue)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

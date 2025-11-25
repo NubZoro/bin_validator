@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KYQMDDW": {
+            "asin": "B00KYQMDDW",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "10pcs 36mm 6 LED Yellow Festoon Dome Light Bulb DE3423 6418 Internal",
+            "normalizedName": "10pcs 36mm 6 LED Yellow Festoon Dome Light Bulb DE3423 6418 Internal",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00W5IYHEK": {
+            "asin": "B00W5IYHEK",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Boost Calorie Smart 100 Calories, Balanced Nutritional Drink, Vanilla Caramel, 4 Fluid Ounce (Pack of 4)",
+            "normalizedName": "(Pack of 4) Boost Calorie Smart 100 Calories, Balanced Nutritional Drink, Vanilla Caramel, 4 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B011QHAOWO": {
+            "asin": "B011QHAOWO",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Slingbox M2",
+            "normalizedName": "Slingbox M2",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

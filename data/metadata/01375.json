@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D7H9LIA": {
+            "asin": "B00D7H9LIA",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "HotHands Hand Warmers 10 Pair Value Pack",
+            "normalizedName": "HotHands Hand Warmers 10 Pair Value Pack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00UFGBWVK": {
+            "asin": "B00UFGBWVK",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "ZWXJ New Li-Polymer Phone Battery (11.4Wh 3000mAh 3.8V) for Sony Xperia Z1 C6902 C6903 C6906 C6943 L39h 1588-4170 LIS1525ERPC",
+            "normalizedName": "ZWXJ New Li-Polymer Phone Battery (11.4Wh 3000mAh 3.8V) for Sony Xperia Z1 C6902 C6903 C6906 C6943 L39h 1588-4170 LIS1525ERPC",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

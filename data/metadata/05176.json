@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0038B9GIA": {
+            "asin": "B0038B9GIA",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "Anzo USA 511045 Chevrolet Camaro Black Bumper Light Assembly with Amber Reflector - (Sold in Pairs)",
+            "normalizedName": "Anzo USA 511045 Chevrolet Camaro Black Bumper Light Assembly with Amber Reflector - (Sold in Pairs)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494
+            }
+        },
+        "B015Y34EC2": {
+            "asin": "B015Y34EC2",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Coach OTL Signature J Small Kelsey - Black/Smoke/Black",
+            "normalizedName": "Coach OTL Signature J Small Kelsey - Black/Smoke/Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

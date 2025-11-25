@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FNFSPY": {
+            "asin": "B000FNFSPY",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.086614166
+            },
+            "name": "TP-LINK 5-Port Fast Ethernet Desktop Switch (TL-SF1005D)",
+            "normalizedName": "TP-LINK 5-Port Fast Ethernet Desktop Switch (TL-SF1005D)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5732018812
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        },
+        "B00ARF5LWU": {
+            "asin": "B00ARF5LWU",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "name": "Bakugan 2: Defenders of the Core - Wii",
+            "normalizedName": "Bakugan 2: Defenders of the Core - Wii",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.0
+            }
+        },
+        "B016CXCMTK": {
+            "asin": "B016CXCMTK",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7952755826
+            },
+            "name": "Fire 7 5th Generation Case,Mama Mouth PU Leather Folio 2-folding Stand Cover with Stylus Holder for 7\" Amazon Fire 7 Android Tablet 5th Generation 2015 release,Light Blue",
+            "normalizedName": "Fire 7 5th Generation Case,Mama Mouth PU Leather Folio 2-folding Stand Cover with Stylus Holder for 7\" Amazon Fire 7 Android Tablet 5th Generation 2015 release,Light Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

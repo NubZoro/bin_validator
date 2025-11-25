@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00009YXGH": {
+            "asin": "B00009YXGH",
+            "height": {
+                "unit": "IN",
+                "value": 0.40157480274
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.59842519114
+            },
+            "name": "Three Days Grace",
+            "normalizedName": "Three Days Grace",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1000016820432
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.90157479815
+            }
+        },
+        "B01CF2G5TA": {
+            "asin": "B01CF2G5TA",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "name": "Infant Multi-Vitamins by Mother\u2019s Select for Immune Support, Children\u2019s Growth & Development, 25-Serving Per Container, No Artificial Colors, Flavors or Preservatives, Natural Baby Vitamins",
+            "normalizedName": "Infant Multi-Vitamins by Mother\u2019s Select for Immune Support, Children\u2019s Growth & Development, 25-Serving Per Container, No Artificial Colors, Flavors or Preservatives, Natural Baby Vitamins",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2645547144
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5196850368
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

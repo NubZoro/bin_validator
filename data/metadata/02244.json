@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006M64H7S": {
+            "asin": "B006M64H7S",
+            "height": {
+                "unit": "IN",
+                "value": 3.3858267682
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.1259842396
+            },
+            "name": "Molecule-R Cuisine R-Evolution Kit",
+            "normalizedName": "Molecule-R Cuisine R-Evolution Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2786680687923422
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.086614166
+            }
+        },
+        "B017SHB3MQ": {
+            "asin": "B017SHB3MQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "[Lifetime Replacement Warranty] iPad Mini 4 Tempered Glass Screen Protector, Abestbox\u00ae 9H Premium Tempered Glass [0.26mm Thickness] HD Screen Protector (for iPad Mini 4)",
+            "normalizedName": "[Lifetime Replacement Warranty] iPad Mini 4 Tempered Glass Screen Protector, Abestbox\u00ae 9H Premium Tempered Glass [0.26mm Thickness] HD Screen Protector (for iPad Mini 4)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

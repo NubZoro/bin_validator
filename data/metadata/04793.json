@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0020R399A": {
+            "asin": "B0020R399A",
+            "height": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Proto Switch EL Paintball Goggle (Black/Black)",
+            "normalizedName": "Proto Switch EL Paintball Goggle (Black/Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B01AVVD5YA": {
+            "asin": "B01AVVD5YA",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "SLG\u00ae Dimmable LED BR30 Flood Bulb, 120VAC, 9 Watts(65 Watt equivalent), 680LM, Soft White (2700K), Energy Star and UL listed, 6 Pack",
+            "normalizedName": "6 Pack SLG\u00ae Dimmable LED BR30 Flood Bulb, 120VAC, 9 Watts(65 Watt equivalent), 680LM, Soft White (2700K), Energy Star and UL listed,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.949999997526158
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

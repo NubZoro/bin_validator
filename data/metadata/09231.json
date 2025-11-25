@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001E6CPO8": {
+            "asin": "B001E6CPO8",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Hammermill Colors Goldenrod, 20lb., 8.5x11, 500 Sheets/1 Ream, (103168R)",
+            "normalizedName": "Hammermill Colors Goldenrod, 20lb., 8.5x11, 500 Sheets/1 Ream, (103168R)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B009VDW0R8": {
+            "asin": "B009VDW0R8",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "DEWALT DW083K 3-Beam Laser Pointer",
+            "normalizedName": "DEWALT DW083K 3-Beam Laser Pointer",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B013PXQ6E2": {
+            "asin": "B013PXQ6E2",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Gigabyte Motherboard Micro ATX DDR3 1333 LGA 1150 Motherboards GA-H81M-D3V",
+            "normalizedName": "Gigabyte Motherboard Micro ATX DDR3 1333 LGA 1150 Motherboards GA-H81M-D3V",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

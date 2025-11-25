@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002BUUKP2": {
+            "asin": "B002BUUKP2",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Spongebob Truth Or Square - Nintendo DS",
+            "normalizedName": "Spongebob Truth Or Square - Nintendo DS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "B003BMJKI2": {
+            "asin": "B003BMJKI2",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Super Scribblenauts",
+            "normalizedName": "Super Scribblenauts",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B006ZPAYPU": {
+            "asin": "B006ZPAYPU",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "LEGO\u00a0Batman\u00a02: DC Super Heroes - Nintendo DS",
+            "normalizedName": "LEGO\u00a0Batman\u00a02: DC Super Heroes - Nintendo DS",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00K3K8TKA": {
+            "asin": "B00K3K8TKA",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "V-MODA XL Memory Cushions for Over-Ear Headphones (Black)",
+            "normalizedName": "V-MODA XL Memory Cushions for Over-Ear Headphones (Black)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.019999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

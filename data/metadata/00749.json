@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0815344546": {
+            "asin": "0815344546",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Essential Cell Biology, 4th Edition",
+            "normalizedName": "Essential Cell Biology, 4th Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00GMGBAHI": {
+            "asin": "B00GMGBAHI",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Yamaha TSX-B72WH Desktop Audio System (White)",
+            "normalizedName": "Yamaha TSX-B72WH Desktop Audio System (White)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.700000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B011PMD670": {
+            "asin": "B011PMD670",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Speedo Occulus Prime Goggles, Black/Hot Pink, One Size",
+            "normalizedName": "Speedo Occulus Prime Goggles, Black/Hot Pink, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

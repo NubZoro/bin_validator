@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0060995068": {
+            "asin": "0060995068",
+            "height": {
+                "unit": "IN",
+                "value": 0.749999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1099999917278
+            },
+            "name": "Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland",
+            "normalizedName": "Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452686
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.1599999947368
+            }
+        },
+        "B001FSJCPK": {
+            "asin": "B001FSJCPK",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "FELINE GREENIES PILL POCKETS Treats for Cats Chicken Flavor - 1.6 oz. 45 Treats",
+            "normalizedName": "FELINE GREENIES PILL POCKETS Treats for Cats Chicken Flavor - 1.6 oz. 45 Treats",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

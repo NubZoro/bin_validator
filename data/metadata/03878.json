@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0062LJ26O": {
+            "asin": "B0062LJ26O",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "EUKANUBA HEALTHY EXTRAS Adult Weight Control Dog Treats 12 Ounces",
+            "normalizedName": "EUKANUBA HEALTHY EXTRAS Adult Weight Control Dog Treats 12 Ounces",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B010Q588D4": {
+            "asin": "B010Q588D4",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "SanDisk Ultra 64GB microSDXC UHS-I Card with Adapter, Grey/Red, Standard Packaging (SDSQUNC-064G-GN6MA)",
+            "normalizedName": "SanDisk Ultra 64GB microSDXC UHS-I Card with Adapter, Grey/Red, Standard Packaging (SDSQUNC-064G-GN6MA)",
+            "quantity": 17,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.2519684996
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 19
+}

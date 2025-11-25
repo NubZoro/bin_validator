@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0316204269": {
+            "asin": "0316204269",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1889763696
+            },
+            "name": "Where'd You Go, Bernadette: A Novel",
+            "normalizedName": "Where'd You Go, Bernadette: A Novel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054720379543957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "0825443334": {
+            "asin": "0825443334",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Organic Mentoring: A Mentor's Guide to Relationships with Next Generation Women",
+            "normalizedName": "Organic Mentoring: A Mentor's Guide to Relationships with Next Generation Women",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "1631492683": {
+            "asin": "1631492683",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "High-Rise: A Novel (Movie Tie-in Editions)",
+            "normalizedName": "High-Rise: A Novel (Movie Tie-in Editions)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

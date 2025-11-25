@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006I58N": {
+            "asin": "B00006I58N",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0314960548
+            },
+            "name": "Fellowes Powershred Performance Shredder Oil, 12 oz. Extended Nozzle Bottle (35250)",
+            "normalizedName": "Fellowes Powershred Performance Shredder Oil, 12 oz. Extended Nozzle Bottle (35250)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8818400467034918
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.1968503884
+            }
+        },
+        "B012UQJNMC": {
+            "asin": "B012UQJNMC",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Argan Oil Shampoo from Majestic Pure Offers Vitamin Enriched Gentle Hair Restoration Formula for Daily Use, Sulfate Free, Moroccan Oil & Potent Natural Ingredients, for Men and Women 16 fl. oz",
+            "normalizedName": "Argan Oil Shampoo from Majestic Pure Offers Vitamin Enriched Gentle Hair Restoration Formula for Daily Use, Sulfate Free, Moroccan Oil & Potent Natural Ingredients, for Men and Women 16 fl. oz",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002XMUC6K": {
+            "asin": "B002XMUC6K",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Vim Tools MTX900-7 Miniature Torx Screwdriver Set - 7 Piece",
+            "normalizedName": "Vim Tools MTX900-7 Miniature Torx Screwdriver Set - 7 Piece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B008GYGOJI": {
+            "asin": "B008GYGOJI",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0708661335
+            },
+            "name": "1 X Blue Fuji Instax Soft Cover Photo Album x Instax Mini 8 /7s /50s/ Polaroid Mio & 300 Lomo Diana Instant Cameras",
+            "normalizedName": "1 X Blue Fuji Instax Soft Cover Photo Album x Instax Mini 8 /7s /50s/ Polaroid Mio & 300 Lomo Diana Instant Cameras",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9212598375
+            }
+        },
+        "B00M1VMTLE": {
+            "asin": "B00M1VMTLE",
+            "height": {
+                "unit": "IN",
+                "value": 3.7795275552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.236220462
+            },
+            "name": "BlenderBottle Classic Loop Top Shaker Bottle, Pink, 28 Ounce",
+            "normalizedName": "BlenderBottle Classic Loop Top Shaker Bottle, Pink, 28 Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35273601868139676
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        },
+        "B00MN2GDJ0": {
+            "asin": "B00MN2GDJ0",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999999999998
+            },
+            "name": "Quiksilver Men's Manic 22 Inch Boardshort, Black3, 32",
+            "normalizedName": "Quiksilver Men's Manic 22 Inch Boardshort, Black3, 32",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

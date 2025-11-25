@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BD1NTTY": {
+            "asin": "B00BD1NTTY",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866108
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.2440944808
+            },
+            "name": "Hario Ceramic Coffee Mill Acrylic Box",
+            "normalizedName": "Hario Ceramic Coffee Mill Acrylic Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.455036078280941
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        },
+        "B01AJL17BA": {
+            "asin": "B01AJL17BA",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "8 PCS Ball Shape Clear Table Corner Protectors Safety Corner Guards",
+            "normalizedName": "8 PCS Ball Shape Clear Table Corner Protectors Safety Corner Guards",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1999999998322819
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3999999965320002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0026UU264": {
+            "asin": "B0026UU264",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Organic Nettle Leaf Powder",
+            "normalizedName": "Organic Nettle Leaf Powder",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B009VGIHS6": {
+            "asin": "B009VGIHS6",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Conair Styling Essentials 18 Pillow Soft Rollers / Curlers",
+            "normalizedName": "Conair Styling Essentials 18 Pillow Soft Rollers / Curlers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00ADYJYQY": {
+            "asin": "B00ADYJYQY",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Bobs Red Mill Gluten Free Oat Bran, 18 Ounce",
+            "normalizedName": "Bobs Red Mill Gluten Free Oat Bran, 18 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

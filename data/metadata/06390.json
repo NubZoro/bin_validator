@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OY137MO": {
+            "asin": "B00OY137MO",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Dritz Wood Shawl Pin, Carnation",
+            "normalizedName": "Dritz Wood Shawl Pin, Carnation",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B01AXLJDTE": {
+            "asin": "B01AXLJDTE",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Zizo Bolt Cover For iPhone 6 Plus 6s Plus 5.5in [.33mm 9H Tempered Glass Screen Protector] Dual-Layered [Military Grade] Case Kickstand Holster Belt - Retail Packaging - Gray/Black Bolt",
+            "normalizedName": "Zizo Bolt Cover For iPhone 6 Plus 6s Plus 5.5in [.33mm 9H Tempered Glass Screen Protector] Dual-Layered [Military Grade] Case Kickstand Holster Belt - Retail Packaging - Gray/Black Bolt",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

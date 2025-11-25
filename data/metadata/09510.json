@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006JPRQ": {
+            "asin": "B00006JPRQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Maxell HB-202 Stereo Head Buds - (190317) - Color may vary",
+            "normalizedName": "Maxell HB-202 Stereo Head Buds - (190317) - Color may vary",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00JMAJ2WG": {
+            "asin": "B00JMAJ2WG",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Deck Protector Pro - Slayer Black",
+            "normalizedName": "Deck Protector Pro - Slayer Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00M3DLV8M": {
+            "asin": "B00M3DLV8M",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "NOKIA Lumia 520 Case, CellJoy\u00ae [Future Armor] (Orange) Nokia 520 Hybrid Cases Full Body Dual Protective Cover [Heavy Duty] Kickstand Case \u00bb\u00bb Shock-proof \u00ab\u00ab [Belt Clip Holster Combo] - Robot Case",
+            "normalizedName": "NOKIA Lumia 520 Case, CellJoy\u00ae [Future Armor] (Orange) Nokia 520 Hybrid Cases Full Body Dual Protective Cover [Heavy Duty] Kickstand Case \u00bb\u00bb Shock-proof \u00ab\u00ab [Belt Clip Holster Combo] - Robot Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

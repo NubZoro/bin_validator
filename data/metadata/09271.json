@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00777QXC8": {
+            "asin": "B00777QXC8",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Stompeez Unusual Unicorn (Medium)",
+            "normalizedName": "Stompeez Unusual Unicorn (Medium)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00TY40K26": {
+            "asin": "B00TY40K26",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.199999984496
+            },
+            "name": "Spy Gear - Batman Ultimate Utility Belt Bundle",
+            "normalizedName": "Spy Gear - Batman Ultimate Utility Belt Bundle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

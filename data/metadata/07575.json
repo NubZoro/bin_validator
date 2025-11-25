@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1931882347": {
+            "asin": "1931882347",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "name": "The Hypnotic Power of Crop Circles",
+            "normalizedName": "The Hypnotic Power of Crop Circles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6600199199756
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.8267716476
+            }
+        },
+        "B0040IYZPE": {
+            "asin": "B0040IYZPE",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Barbara's Bakery High Fiber Medley Cereal Original -- 12 oz",
+            "normalizedName": "Barbara's Bakery High Fiber Medley Cereal Original -- 12 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        },
+        "B006XIQSJK": {
+            "asin": "B006XIQSJK",
+            "height": {
+                "unit": "IN",
+                "value": 6.249999993625
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.249999989545
+            },
+            "name": "Plymor Brand Glass Doll Display Dome with Walnut Base - 4.5\" x 8\"",
+            "normalizedName": "Plymor Brand Glass Doll Display Dome with Walnut Base - 4.5\" x 8\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.249999993625
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

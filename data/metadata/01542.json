@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0201073927": {
+            "asin": "0201073927",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Mechanics (3rd Edition)",
+            "normalizedName": "Mechanics (3rd Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "0205779050": {
+            "asin": "0205779050",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Global Perspectives (4th Edition)",
+            "normalizedName": "Global Perspectives (4th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "0691019029": {
+            "asin": "0691019029",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "The Basic Writings of C.G. Jung",
+            "normalizedName": "The Basic Writings of C.G. Jung",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B000MQLCS6": {
+            "asin": "B000MQLCS6",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Maca Magic 100% Raw Powder 2.2 lbs",
+            "normalizedName": "Maca Magic 100% Raw Powder 2.2 lbs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01087OC1C": {
+            "asin": "B01087OC1C",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Bauxko 13\" x 16\" Reclosable Poly Bags, 2 Mil, 25-Pack (x-PB3673-25)",
+            "normalizedName": "25-Pack Bauxko 13\" x 16\" Reclosable Poly Bags, 2 Mil, (x-PB3673-25)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

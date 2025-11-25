@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004TMGAE0": {
+            "asin": "B004TMGAE0",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Three Dog Bakery Entree For Dogs, Chicken Carrots Green Beans & Rice Recipe, 12 ounces, 7/pack",
+            "normalizedName": "Three Dog Bakery Entree For Dogs, Chicken Carrots Green Beans & Rice Recipe, 12 ounces, 7/pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

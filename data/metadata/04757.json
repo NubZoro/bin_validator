@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FVXMFE": {
+            "asin": "B000FVXMFE",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "AMERICAN DIAGNOSTIC ADC Guedel Airway Kit with Hard Case",
+            "normalizedName": "AMERICAN DIAGNOSTIC ADC Guedel Airway Kit with Hard Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00QZK6PIA": {
+            "asin": "B00QZK6PIA",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "name": "Energizer Holdings EVEXR92BP6 EcoAdvanced AAA Batteries",
+            "normalizedName": "Energizer Holdings EVEXR92BP6 EcoAdvanced AAA Batteries",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.799999998164
+            }
+        },
+        "B015QWHXWE": {
+            "asin": "B015QWHXWE",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "UP2 by Jawbone Activity + Sleep Tracker, Light Grey Hex (Silver), Classic Flat Strap",
+            "normalizedName": "UP2 by Jawbone Activity + Sleep Tracker, Light Grey Hex (Silver), Classic Flat Strap",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

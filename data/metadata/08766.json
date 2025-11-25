@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DLMM1DI": {
+            "asin": "B00DLMM1DI",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "XENTEC H10/9145 6000K Advanced Slim Alloy Ballast HID Xenon Kit (Ultra White)",
+            "normalizedName": "XENTEC H10/9145 6000K Advanced Slim Alloy Ballast HID Xenon Kit (Ultra White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00TIMBNIY": {
+            "asin": "B00TIMBNIY",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "OAKLAND RAIDERS WOMENS BIG LOGO V-NECK SWEATER SMALL",
+            "normalizedName": "OAKLAND RAIDERS WOMENS BIG LOGO V-NECK SWEATER SMALL",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.699999986026
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

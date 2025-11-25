@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00Q96XGUU": {
+            "asin": "B00Q96XGUU",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Majestic Pure Indian Healing Bentonite Clay, 16 Ounce",
+            "normalizedName": "Majestic Pure Indian Healing Bentonite Clay, 16 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012W5SWXC": {
+            "asin": "B012W5SWXC",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Penny Lane Brand Hacky Sack Imported From Guatamala Set of 6 Size: Set of 6 Model:",
+            "normalizedName": "Set of 6 Penny Lane Brand Hacky Sack Imported From Guatamala Size: Set of 6 Model:",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B0146D4P0W": {
+            "asin": "B0146D4P0W",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "3528 Green Strip Light, ELlight 16.5FT SMD Flexible LED Ribbon Lighting (300Led,no Adapter,Waterproof)",
+            "normalizedName": "3528 Green Strip Light, ELlight 16.5FT SMD Flexible LED Ribbon Lighting (300Led,no Adapter,Waterproof)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

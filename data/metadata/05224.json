@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0810347490": {
+            "asin": "0810347490",
+            "height": {
+                "unit": "IN",
+                "value": 2.29921259608
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.20078739015
+            },
+            "name": "Notable Black American Women: Book I (Bk. 1)",
+            "normalizedName": "Notable Black American Women: Book I (Bk. 1)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.6501118558728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.7007873927
+            }
+        },
+        "B000FA1P5O": {
+            "asin": "B000FA1P5O",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Unifix Letter Cubes: Consonant-Vowel-Consonant Set",
+            "normalizedName": "Unifix Letter Cubes: Consonant-Vowel-Consonant Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B000N351IA": {
+            "asin": "B000N351IA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "10 Jasmine Blooming Flower Tea",
+            "normalizedName": "10 Jasmine Blooming Flower Tea",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B0161CFMOY": {
+            "asin": "B0161CFMOY",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Barbie Glitz Doll, Pink Dress",
+            "normalizedName": "Barbie Glitz Doll, Pink Dress",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

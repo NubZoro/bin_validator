@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004YPMXGG": {
+            "asin": "B004YPMXGG",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Kirkland Signature Smart Closure Technology Trash Wraps, for 55 Gallon, 50 Count",
+            "normalizedName": "Kirkland Signature Smart Closure Technology Trash Wraps, for 55 Gallon, 50 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B0051AM818": {
+            "asin": "B0051AM818",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Stack-On PC-650 Portable Safe with Electronic Lock, Black",
+            "normalizedName": "Stack-On PC-650 Portable Safe with Electronic Lock, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

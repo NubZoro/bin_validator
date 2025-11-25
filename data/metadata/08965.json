@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005H3N43K": {
+            "asin": "B005H3N43K",
+            "height": {
+                "unit": "IN",
+                "value": 1.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.6
+            },
+            "name": "Prime-Line Products U 9809 Sliding Window Lock, 1/2 in., Diecast Construction, White, FOR VINYL WINDOWS (Pack of 2)",
+            "normalizedName": "(Pack of 2) Prime-Line Products U 9809 Sliding Window Lock, 1/2 in., Diecast Construction, White, FOR VINYL WINDOWS",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.5
+            }
+        },
+        "B00Y6Y8VN4": {
+            "asin": "B00Y6Y8VN4",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Note 4 Case, Galaxy Note 4 Case, StarCity \u00ae Samsung Galaxy Note 4 Case [Smart Window View] [Stand Feature] - Premium Slim Flip Cover Folio Case with Magnetic Closure for Samsung Galaxy Note 4 (Flip View Series_Paris Grey)",
+            "normalizedName": "Note 4 Case, Galaxy Note 4 Case, StarCity \u00ae Samsung Galaxy Note 4 Case [Smart Window View] [Stand Feature] - Premium Slim Flip Cover Folio Case with Magnetic Closure for Samsung Galaxy Note 4 (Flip View Series_Paris Grey)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

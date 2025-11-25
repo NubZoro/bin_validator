@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004XTX0VA": {
+            "asin": "B004XTX0VA",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.299999984394
+            },
+            "name": "BaBylissPRO Nano Titanium Professional 12 Jumbo Roller Hairsetter, 4.125 lb.",
+            "normalizedName": "BaBylissPRO Nano Titanium Professional 12 Jumbo Roller Hairsetter, 4.125 lb.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00NA3K0LS": {
+            "asin": "B00NA3K0LS",
+            "height": {
+                "unit": "IN",
+                "value": 6.6141732216
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.4724409342
+            },
+            "name": "Fit & Fresh Perfect Portion Kit with Breakfast Chiller and Snacker, Green",
+            "normalizedName": "Fit & Fresh Perfect Portion Kit with Breakfast Chiller and Snacker, Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.4074563923093315
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.3937007768
+            }
+        },
+        "B00S05KTOO": {
+            "asin": "B00S05KTOO",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Vibrant Splash Water/Beverage Highball Glasses, 13.25 Ounce - Set of 6",
+            "normalizedName": "Set of 6 Vibrant Splash Water/Beverage Highball Glasses, 13.25 Ounce -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

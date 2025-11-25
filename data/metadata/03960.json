@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CLZRN7U": {
+            "asin": "B00CLZRN7U",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "2-Piece Set Zebra Print w/ Red Trim Cosmetic Cases",
+            "normalizedName": "2-Piece Set  Zebra Print w/ Red Trim Cosmetic Cases",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B00WH1R5CQ": {
+            "asin": "B00WH1R5CQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Funny Guy Mugs Crazy Cat Lady Ceramic Coffee Mug, Red, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Crazy Cat Lady Ceramic Coffee Mug, Red, 11-Ounce",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

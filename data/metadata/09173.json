@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00E4JMVSC": {
+            "asin": "B00E4JMVSC",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Lang Chicken Coop Mug, 14-Ounce",
+            "normalizedName": "Lang Chicken Coop Mug, 14-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

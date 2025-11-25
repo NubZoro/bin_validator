@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008BI7AZG": {
+            "asin": "B008BI7AZG",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Watch Box 6 Mens Black Leather Display Glass Top Jewelry Case Organizer",
+            "normalizedName": "Watch Box 6 Mens Black Leather Display Glass Top Jewelry Case Organizer",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

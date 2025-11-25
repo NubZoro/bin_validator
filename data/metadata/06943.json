@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0052SRX00": {
+            "asin": "B0052SRX00",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "AccuQuilt Go Fabric Cutting Dies It Fits, Parallelogram",
+            "normalizedName": "AccuQuilt Go Fabric Cutting Dies It Fits, Parallelogram",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00MNY835A": {
+            "asin": "B00MNY835A",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "Pokemon Pikachu & Friends Scene Setters Wall Decorating Kit",
+            "normalizedName": "Pokemon Pikachu & Friends Scene Setters Wall Decorating Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B01EZNQ3VW": {
+            "asin": "B01EZNQ3VW",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Acomfort\u00ae Sturdy Indoor/Outdoor Rope Climbing Ladder for Kids(Green)",
+            "normalizedName": "Acomfort\u00ae Sturdy Indoor/Outdoor Rope Climbing Ladder for Kids(Green)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BU7U0W": {
+            "asin": "B000BU7U0W",
+            "height": {
+                "unit": "IN",
+                "value": 2.199999997756
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Stainless Steel Mesh Tea & Cooking Infuser",
+            "normalizedName": "Stainless Steel Mesh Tea & Cooking Infuser",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

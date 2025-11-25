@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1452135185": {
+            "asin": "1452135185",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "The Art of Inside Out",
+            "normalizedName": "The Art of Inside Out",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B009G4DX6O": {
+            "asin": "B009G4DX6O",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "13\" Disney Princess Toddler Doll - Belle",
+            "normalizedName": "13\" Disney Princess Toddler Doll - Belle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B012GOFVA6": {
+            "asin": "B012GOFVA6",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Vos Ceramic Kitchen Knives Set - 7 Pcs Chef Ceramic Knife Set - Elegant Box + Cookbook",
+            "normalizedName": "Vos Ceramic Kitchen Knives Set - 7 Pcs Chef Ceramic Knife Set - Elegant Box + Cookbook",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B018N8EU2E": {
+            "asin": "B018N8EU2E",
+            "height": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Modern White Ceramic Ribbed Design Garden Flower Plant Pot / Indoor Decorative Succulent Plant Container",
+            "normalizedName": "Modern White Ceramic Ribbed Design Garden Flower Plant Pot / Indoor Decorative Succulent Plant Container",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.249999998113171
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

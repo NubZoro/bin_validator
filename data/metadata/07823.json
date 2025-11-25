@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0679882812": {
+            "asin": "0679882812",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Dr. Seuss's ABC: An Amazing Alphabet Book!",
+            "normalizedName": "Dr. Seuss's ABC: An Amazing Alphabet Book!",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22999999980712413
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B0006O8RBY": {
+            "asin": "B0006O8RBY",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Dowling Magnets Simply Science Magnet Mania Kit",
+            "normalizedName": "Dowling Magnets Simply Science Magnet Mania Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B00HDG0EP0": {
+            "asin": "B00HDG0EP0",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Milwaukee 48-11-1828 M18 XC RED LITHIUM 18-Volt Lithium-ion Cordless Tool Battery ( 2 pack )",
+            "normalizedName": "Milwaukee 48-11-1828 M18 XC RED LITHIUM 18-Volt Lithium-ion Cordless Tool Battery ( 2 pack )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00TSWNROC": {
+            "asin": "B00TSWNROC",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "KEY II Hanayama Cast Metal Brain Teaser Puzzle (Level 2)",
+            "normalizedName": "KEY II Hanayama Cast Metal Brain Teaser Puzzle (Level 2)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

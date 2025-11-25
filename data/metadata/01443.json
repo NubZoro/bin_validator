@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0007506U2": {
+            "asin": "B0007506U2",
+            "height": {
+                "unit": "IN",
+                "value": 2.2047244072
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2913385732
+            },
+            "name": "TIGI Catwalk Curls Rock Amplifier, 5.07 Oz",
+            "normalizedName": "TIGI Catwalk Curls Rock Amplifier, 5.07 Oz",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200233517459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0157480274
+            }
+        },
+        "B00OMX2PKY": {
+            "asin": "B00OMX2PKY",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "WWE Signature Series -  Daniel Bryan",
+            "normalizedName": "WWE Signature Series -  Daniel Bryan",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

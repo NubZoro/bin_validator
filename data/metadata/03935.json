@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0091J4FEI": {
+            "asin": "B0091J4FEI",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Thomas Party Standard Kit Serves 8 Guests",
+            "normalizedName": "Thomas Party Standard Kit Serves 8 Guests",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

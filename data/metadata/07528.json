@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003SQS8RU": {
+            "asin": "B003SQS8RU",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Skin Medica Sensitive Skin Cleanser, 6 Fluid Ounce",
+            "normalizedName": "Skin Medica Sensitive Skin Cleanser, 6 Fluid Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B00BC6GEMO": {
+            "asin": "B00BC6GEMO",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "C-Clear 21 Lens Cleaning Cleaner Solution, 2 oz Bottle with Pump",
+            "normalizedName": "C-Clear 21 Lens Cleaning Cleaner Solution, 2 oz Bottle with Pump",
+            "quantity": 15,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 18
+}

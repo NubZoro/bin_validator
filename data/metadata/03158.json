@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00O3XJASS": {
+            "asin": "B00O3XJASS",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Cinelinx: A Card Game for People Who Love Movies",
+            "normalizedName": "Cinelinx: A Card Game for People Who Love Movies",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.279999998926604
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01AV5BPQQ": {
+            "asin": "B01AV5BPQQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Fiesta Toys Lubby Cubbies Tootsie the Octopus Plush Stuffed Toy - 3.5 Inches",
+            "normalizedName": "Fiesta Toys Lubby Cubbies Tootsie the Octopus Plush Stuffed Toy - 3.5 Inches",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

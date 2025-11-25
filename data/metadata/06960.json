@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QA9IAE8": {
+            "asin": "B00QA9IAE8",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "19Watt 5/6-inch High CRI Wet Location Dimmable Retrofit LED Recessed Lighting Fixture, Energy Star UL-classified 120W Equivalent Ceiling Light, 2700K Soft White 1200lm Remodel Recessed Downlight",
+            "normalizedName": "19Watt 5/6-inch High CRI Wet Location Dimmable Retrofit LED Recessed Lighting Fixture, Energy Star UL-classified 120W Equivalent Ceiling Light, 2700K Soft White 1200lm Remodel Recessed Downlight",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B013YKOVC0": {
+            "asin": "B013YKOVC0",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Wayward Pines: Ssn 1",
+            "normalizedName": "Wayward Pines: Ssn 1",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

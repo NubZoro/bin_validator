@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CQ7HOUE": {
+            "asin": "B00CQ7HOUE",
+            "height": {
+                "unit": "IN",
+                "value": 2.6
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "Badia Complete Seasoning, Sazon Completa 1.75 Lbs",
+            "normalizedName": "Badia Complete Seasoning, Sazon Completa 1.75 Lbs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6
+            }
+        },
+        "B00W0J4OTM": {
+            "asin": "B00W0J4OTM",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "DC Comics 12\" Batman Action Figure",
+            "normalizedName": "DC Comics 12\" Batman Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B016XJ430O": {
+            "asin": "B016XJ430O",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Dog Wigs, Itery Dog Lion Mane Wig Hair for Pet Halloween Festival Party Fancy Costume Clothes",
+            "normalizedName": "Dog Wigs, Itery Dog Lion Mane Wig Hair for Pet Halloween Festival Party Fancy Costume Clothes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

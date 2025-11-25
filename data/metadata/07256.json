@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0188A3N16": {
+            "asin": "B0188A3N16",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "AmazonBasics Wood-cased #2 HB Pencils -  Box of 96",
+            "normalizedName": "AmazonBasics Wood-cased #2 HB Pencils -  Box of 96",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B018GZXSPE": {
+            "asin": "B018GZXSPE",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Samsung Galaxy S6 Edge+ Screen Protector: Stalion\u00ae Shield Tempered Liquid Glass Shatterproof Full Screen Frame Edge to Edge Armor Guard (Gold Platinum)(for S6 EDGE PLUS ONLY)",
+            "normalizedName": "Samsung Galaxy S6 Edge+ Screen Protector: Stalion\u00ae Shield Tempered Liquid Glass Shatterproof Full Screen Frame Edge to Edge Armor Guard (Gold Platinum)(for S6 EDGE PLUS ONLY)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

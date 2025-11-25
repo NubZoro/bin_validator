@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MUTWMGY": {
+            "asin": "B00MUTWMGY",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Logitech Bluetooth Multi-Device Keyboard K480 for Computers, Tablets and Smartphones, White (920-006343)",
+            "normalizedName": "Logitech Bluetooth Multi-Device Keyboard K480 for Computers, Tablets and Smartphones, White (920-006343)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B016PW9UH0": {
+            "asin": "B016PW9UH0",
+            "height": {
+                "unit": "IN",
+                "value": 8.1102362122
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.2992125818
+            },
+            "name": "POC Tectal Bike Helmet, Uranium Black, X-Large",
+            "normalizedName": "POC Tectal Bike Helmet, Uranium Black, X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.11641611208838
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.6850393602
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

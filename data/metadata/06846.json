@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "143361586X": {
+            "asin": "143361586X",
+            "height": {
+                "unit": "IN",
+                "value": 1.74
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.31
+            },
+            "name": "HCSB Super Giant Print Reference Bible, Classic Mahogany LeatherTouch",
+            "normalizedName": "HCSB Super Giant Print Reference Bible, Classic Mahogany LeatherTouch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.06
+            }
+        },
+        "B0000A0AIA": {
+            "asin": "B0000A0AIA",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Tasco World Class 3-9x50 Riflescope w/30/30 Reticle",
+            "normalizedName": "Tasco World Class 3-9x50 Riflescope w/30/30 Reticle",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

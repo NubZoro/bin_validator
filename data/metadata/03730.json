@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00F3SISYO": {
+            "asin": "B00F3SISYO",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "OtterBox DEFENDER SERIES Case for iPhone 5/5s/SE - Retail Packaging - REALTREE MAX 4HD BLAZED (BLAZE ORANGE/BLACK/MAX 4HD DESIGN)",
+            "normalizedName": "OtterBox DEFENDER SERIES Case for iPhone 5/5s/SE - Retail Packaging - REALTREE MAX 4HD BLAZED (BLAZE ORANGE/BLACK/MAX 4HD DESIGN)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01EY4TCTM": {
+            "asin": "B01EY4TCTM",
+            "height": {
+                "unit": "IN",
+                "value": 0.049999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "iPhone SE Screen Protector,Coolreall 2-Pack iPhone SE 5S 5C 5 Tempered Glass Screen Protector-Transparent (0.25mm HD Ultra Clear)",
+            "normalizedName": "2-Pack iPhone SE Screen Protector,Coolreall iPhone SE 5S 5C 5 Tempered Glass Screen Protector-Transparent (0.25mm HD Ultra Clear)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20999999982389597
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

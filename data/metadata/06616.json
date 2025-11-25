@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CDT7TXW": {
+            "asin": "B00CDT7TXW",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Funny Guy Mugs Don't Even Ask Measuring Wine Glass, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Don't Even Ask Measuring Wine Glass, 11-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00LBX28I2": {
+            "asin": "B00LBX28I2",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Fawziya\u00ae Baguette Purse Bling Hard Case Crystal Clutch Bag-Silver",
+            "normalizedName": "Fawziya\u00ae Baguette Purse Bling Hard Case Crystal Clutch Bag-Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00V9YLKMI": {
+            "asin": "B00V9YLKMI",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "La Isla Women's One Piece Removable Halter Strap Bandeau Swimsuit Swimwear Black US 0",
+            "normalizedName": "La Isla Women's One Piece Removable Halter Strap Bandeau Swimsuit Swimwear Black US 0",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

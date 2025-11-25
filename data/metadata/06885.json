@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00000A1O0": {
+            "asin": "B00000A1O0",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "SFI / Sweating Like a Whore At Church",
+            "normalizedName": "SFI / Sweating Like a Whore At Church",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770734815265533
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

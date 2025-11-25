@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "080360694X": {
+            "asin": "080360694X",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Trauma and Mobile Radiography",
+            "normalizedName": "Trauma and Mobile Radiography",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B001U2HRLM": {
+            "asin": "B001U2HRLM",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Baby's Only Organic LactoRelief with DHA & ARA Toddler Formula",
+            "normalizedName": "Baby's Only Organic LactoRelief with DHA & ARA Toddler Formula",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01BUUBXS6": {
+            "asin": "B01BUUBXS6",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "EcoScents The Peace and Love Pack, Multicolor",
+            "normalizedName": "EcoScents The Peace and Love Pack, Multicolor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

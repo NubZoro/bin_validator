@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CJER0YE": {
+            "asin": "B00CJER0YE",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Terry Naturally - Curamed, 750 mg , 30 softgels",
+            "normalizedName": "Terry Naturally - Curamed, 750 mg , 30 softgels",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B019Z1JH4Y": {
+            "asin": "B019Z1JH4Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "name": "Yunko Mother's Day Cute Couple Keychain Love Key Ring Set(The Dolphins)",
+            "normalizedName": "Yunko Mother's Day Cute Couple Keychain Love Key Ring Set(The Dolphins)",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.0
+            }
+        },
+        "B01E8OFDIW": {
+            "asin": "B01E8OFDIW",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Yunko 100pcs Thank You Pink Flower Self Adhesive Cookie Bakery Candy Biscuit Roasting Treat Gift DIY Plastic Bag For Mother's Day",
+            "normalizedName": "Yunko 100pcs Thank You Pink Flower Self Adhesive Cookie Bakery Candy Biscuit Roasting Treat Gift DIY Plastic Bag For Mother's Day",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

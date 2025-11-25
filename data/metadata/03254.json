@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00P63GYEC": {
+            "asin": "B00P63GYEC",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Aimtech AIMT1417 Connector Plug Network Tool Set",
+            "normalizedName": "Aimtech AIMT1417 Connector Plug Network Tool Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B00Q23KKBI": {
+            "asin": "B00Q23KKBI",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Jergens Natural Glow Color Primer In-Shower Scrub, 5.5 Fluid Ounce",
+            "normalizedName": "Jergens Natural Glow Color Primer In-Shower Scrub, 5.5 Fluid Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B015PRCBBI": {
+            "asin": "B015PRCBBI",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Ubiquiti UAP-AC-LR Networks Enterprise Wi-Fi System",
+            "normalizedName": "Ubiquiti UAP-AC-LR Networks Enterprise Wi-Fi System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.949999998364748
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

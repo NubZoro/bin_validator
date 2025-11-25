@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006ANDK": {
+            "asin": "B00006ANDK",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Oral-B Power Sensitive Replacement Electric Toothbrush Head,3 Count",
+            "normalizedName": "Oral-B Power Sensitive Replacement Electric Toothbrush Head,3 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B008CF3KSO": {
+            "asin": "B008CF3KSO",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Organic Cooling Pitta Churna (Spice Mix), 3.5 oz (100 g)",
+            "normalizedName": "Organic Cooling Pitta Churna (Spice Mix), 3.5 oz (100 g)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00TGTN792": {
+            "asin": "B00TGTN792",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "#1 Organic Insect Repellent \u2605 OUTDOOR 4oz + INDOOR 4oz Value Pack \u2605 Certified Organic by USDA \u2605 DEET Free, Kid Safe \u2605 No synthetic chemicals, No Alcohol \u2605 Cruelty Free, No animal tested \u2605 Made in USA",
+            "normalizedName": "#1 Organic Insect Repellent \u2605 OUTDOOR 4oz + INDOOR 4oz Value Pack \u2605 Certified Organic by USDA \u2605 DEET Free, Kid Safe \u2605 No synthetic chemicals, No Alcohol \u2605 Cruelty Free, No animal tested \u2605 Made in USA",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

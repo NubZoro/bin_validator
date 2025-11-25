@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0080ML180": {
+            "asin": "B0080ML180",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Epson T200520 DURABrite Ultra Color Combo Pack Standard Capacity Cartridge Ink",
+            "normalizedName": "Epson T200520 DURABrite Ultra Color Combo Pack Standard Capacity Cartridge Ink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01B575N6M": {
+            "asin": "B01B575N6M",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Cocktail Boston Shaker Set By Kotai (Gold)",
+            "normalizedName": "Cocktail Boston Shaker Set By Kotai (Gold)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

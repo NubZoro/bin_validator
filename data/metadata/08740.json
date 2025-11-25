@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004DC13G6": {
+            "asin": "B004DC13G6",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "method Antibacterial Bathroom Cleaning Spray, Spearmint, 28 oz",
+            "normalizedName": "method Antibacterial Bathroom Cleaning Spray, Spearmint, 28 oz",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.03
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B01A0C8QN0": {
+            "asin": "B01A0C8QN0",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Note4 Leather Case ,Mossgreg 5 in 1 Genuine Handmade Leather Case for Samsung Galaxy Note4 N910 Case (Note4 Classic Brown)",
+            "normalizedName": "Note4 Leather Case ,Mossgreg 5 in 1 Genuine Handmade Leather Case for Samsung Galaxy Note4 N910 Case (Note4 Classic Brown)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

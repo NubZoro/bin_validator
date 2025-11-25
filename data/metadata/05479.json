@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B010XYJCP6": {
+            "asin": "B010XYJCP6",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "UREMCO 27138 Remanufactured Multi-Port Fuel Injection",
+            "normalizedName": "UREMCO 27138 Remanufactured Multi-Port Fuel Injection",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01GNXNEKK": {
+            "asin": "B01GNXNEKK",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "[Ladykin] Vanpir Dark Repair Cream",
+            "normalizedName": "[Ladykin] Vanpir Dark Repair Cream",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

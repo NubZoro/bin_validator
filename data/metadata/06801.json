@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AN9GMYG": {
+            "asin": "B00AN9GMYG",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "21 Gauge Round Half Hard 14/20 Gold Filled Wire - 5FT",
+            "normalizedName": "21 Gauge Round Half Hard 14/20 Gold Filled Wire - 5FT",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00IHJB31Q": {
+            "asin": "B00IHJB31Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "MRX Weight Lifting Gloves Pro Series Red (XLarge)",
+            "normalizedName": "MRX Weight Lifting Gloves Pro Series Red (XLarge)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B011NQB1PW": {
+            "asin": "B011NQB1PW",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "HOMETEK PU Leather Desktop Organizer Storage Box Desk Organizer Square Pen/Pencil/Remote Control Holder Collection Office Desk Accessories (Brown)",
+            "normalizedName": "HOMETEK PU Leather Desktop Organizer Storage Box Desk Organizer Square Pen/Pencil/Remote Control Holder Collection Office Desk Accessories (Brown)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

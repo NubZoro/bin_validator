@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CQJ0DK": {
+            "asin": "B000CQJ0DK",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "TCP 32030 CFL Circle Lamp - 120 Watt Equivalent (only 30w used) Soft White (2700K) T9 Circline Lamp",
+            "normalizedName": "TCP 32030 CFL Circle Lamp - 120 Watt Equivalent (only 30w used) Soft White (2700K) T9 Circline Lamp",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B00KDQXI8W": {
+            "asin": "B00KDQXI8W",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Tagua SH4-067 Full Slide Shoulder Holster, Diamondback DB380, Brown, Right Hand",
+            "normalizedName": "Tagua SH4-067 Full Slide Shoulder Holster, Diamondback DB380, Brown, Right Hand",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        },
+        "B01BX98V84": {
+            "asin": "B01BX98V84",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "SamuraYi - 3 in 1 Translucent Hard Case Cover & Silicon Keyboard Cover & Microfiber Cleaning Cloth for 13-inch MacBook Air 13.3\" (Model: A1369 and A1466), Purple A13PP3",
+            "normalizedName": "SamuraYi - 3 in 1 Translucent Hard Case Cover & Silicon Keyboard Cover & Microfiber Cleaning Cloth for 13-inch MacBook Air 13.3\" (Model: A1369 and A1466), Purple A13PP3",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

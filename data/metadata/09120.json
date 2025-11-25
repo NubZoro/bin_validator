@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005UBN5AQ": {
+            "asin": "B005UBN5AQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Coastal Scents 22 Piece Brush Set",
+            "normalizedName": "Coastal Scents 22 Piece Brush Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B005XXDD8U": {
+            "asin": "B005XXDD8U",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "O'Neill Dive Wetsuits Mens Tropical 3mm Boot,  ,Black, 9",
+            "normalizedName": "O'Neill Dive Wetsuits Mens Tropical 3mm Boot,  ,Black, 9",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008UFI4CS": {
+            "asin": "B008UFI4CS",
+            "height": {
+                "unit": "IN",
+                "value": 1.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.5
+            },
+            "name": "Hot Wheel Hot Rod Magazine #3of 4 Cars Tail Dragger on Square Card",
+            "normalizedName": "Hot Wheel Hot Rod Magazine #3of 4 Cars Tail Dragger on Square Card",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.25
+            }
+        },
+        "B01CTX1TIW": {
+            "asin": "B01CTX1TIW",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999980824001
+            },
+            "name": "HOBO Vintage Lauren Wallet Wristlet, Shimmer Snake Print, One Size",
+            "normalizedName": "HOBO Vintage Lauren Wallet Wristlet, Shimmer Snake Print, One Size",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999994129864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999990004001
+            }
+        },
+        "B01FX431HQ": {
+            "asin": "B01FX431HQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Cross Training Gloves with Wrist Support for WODs - The Best Weight Lifting Gloves for a Strong Grip-by Emerge (Black, Medium)",
+            "normalizedName": "Cross Training Gloves with Wrist Support for WODs - The Best Weight Lifting Gloves for a Strong Grip-by Emerge (Black, Medium)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

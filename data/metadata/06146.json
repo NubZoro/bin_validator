@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013FO3HCK": {
+            "asin": "B013FO3HCK",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "name": "Baloray ShengShou 2x2x2 Puzzle Cube, Black",
+            "normalizedName": "Baloray ShengShou 2x2x2 Puzzle Cube, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B01B86Y16S": {
+            "asin": "B01B86Y16S",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "Ibis & Orchid 50240 Red Painted Daisy Night Light",
+            "normalizedName": "Ibis & Orchid 50240 Red Painted Daisy Night Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

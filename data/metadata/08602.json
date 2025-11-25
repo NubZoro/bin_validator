@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KIG3WPQ": {
+            "asin": "B00KIG3WPQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "smartwater, 6 ct, 1L Bottle",
+            "normalizedName": "smartwater, 6 ct, 1L Bottle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 13.849999988385518
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00YWD4V5Q": {
+            "asin": "B00YWD4V5Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "Dorman 923-263 Third Brake Light Assembly for BMW Z4",
+            "normalizedName": "Dorman 923-263 Third Brake Light Assembly for BMW Z4",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7799999993458994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01BBNS1UK": {
+            "asin": "B01BBNS1UK",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.2834645544
+            },
+            "name": "Black iPad 2 Digitizer Replacement Screen Front Touch Glass Assembly Replacement - Includes Home Button + Camera Holder + Pre-Installed Adhesive with Tools \u2013 Repair Kit by Cell Phone DIY",
+            "normalizedName": "Black iPad 2 Digitizer Replacement Screen Front Touch Glass Assembly Replacement - Includes Home Button + Camera Holder + Pre-Installed Adhesive with Tools \u2013 Repair Kit by Cell Phone DIY",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200233517459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1102362122
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

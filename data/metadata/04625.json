@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008GE87BG": {
+            "asin": "B008GE87BG",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "True Lemon, Lime, Orange & Grapefruit 32ct Boxes Sampler Pack (4 packs)",
+            "normalizedName": "4 pack True Lemon, Lime, Orange & Grapefruit 32ct Boxes Sampler Pack ( s)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B013DOXZPQ": {
+            "asin": "B013DOXZPQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "120 LED Solar Powered String Lights By ICICLE,Starry String Copper Wire Fairy Lighing for Decorating Outdoor,Garden,Patio,Party,Holiday Decorations( White)",
+            "normalizedName": "120 LED Solar Powered String Lights By ICICLE,Starry String Copper Wire Fairy Lighing for Decorating Outdoor,Garden,Patio,Party,Holiday Decorations( White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

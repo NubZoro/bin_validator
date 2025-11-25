@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005GCBFLU": {
+            "asin": "B005GCBFLU",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Woodstock Gem Drop Windchime, Prism, 10-Inch",
+            "normalizedName": "Woodstock Gem Drop Windchime, Prism, 10-Inch",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00JG65X6K": {
+            "asin": "B00JG65X6K",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Nike Unisex Mvp Elite Black/Black/Silver/(Pewter Grey) MD",
+            "normalizedName": "Nike Unisex Mvp Elite Black/Black/Silver/(Pewter Grey) MD",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00ZN5E3AK": {
+            "asin": "B00ZN5E3AK",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "Lichdom: Battlemage - PlayStation 4",
+            "normalizedName": "Lichdom: Battlemage - PlayStation 4",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

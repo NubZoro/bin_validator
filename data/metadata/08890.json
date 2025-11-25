@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00L24VWIC": {
+            "asin": "B00L24VWIC",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Luigi Bormioli Strauss on The Rocks Spirits Bottle with Glass Stopper, 23.75-Ounce, Clear",
+            "normalizedName": "Luigi Bormioli Strauss on The Rocks Spirits Bottle with Glass Stopper, 23.75-Ounce, Clear",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

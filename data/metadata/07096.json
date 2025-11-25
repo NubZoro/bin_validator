@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005GMXMSY": {
+            "asin": "B005GMXMSY",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "name": "Scunci No-Slip Grip The Evolution Elastics, Shapes, Assorted Colors",
+            "normalizedName": "Scunci No-Slip Grip The Evolution Elastics, Shapes, Assorted Colors",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        },
+        "B01ANDWPC4": {
+            "asin": "B01ANDWPC4",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "LG G3 mini Case ,[Corner Protection] Protective Case Detachable Defender Thin Protective Anti-dirt Scratch Resistant Hard Soft Heavy Duty Rubber Bumper Case Cover for LG G3 mini(Black/Black)",
+            "normalizedName": "LG G3 mini Case ,[Corner Protection] Protective Case Detachable Defender Thin Protective Anti-dirt Scratch Resistant Hard Soft Heavy Duty Rubber Bumper Case Cover for LG G3 mini(Black/Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01F4A8LM4": {
+            "asin": "B01F4A8LM4",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "Women's NFL Team Logo Lightweight Lounge Pants (Washington Redskins, Large)",
+            "normalizedName": "Women's NFL Team Logo Lightweight Lounge Pants (Washington Redskins, Large)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

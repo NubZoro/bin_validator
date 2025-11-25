@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BQJODM": {
+            "asin": "B000BQJODM",
+            "height": {
+                "unit": "IN",
+                "value": 4.4094488144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.6850393602
+            },
+            "name": "EDUCATIONAL INSIGHTS GEOSAFARI GLOW-IN-THE-DARK SOLAR SYSTEM",
+            "normalizedName": "EDUCATIONAL INSIGHTS GEOSAFARI GLOW-IN-THE-DARK SOLAR SYSTEM",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.71
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.1417322772
+            }
+        },
+        "B005LI6ZNC": {
+            "asin": "B005LI6ZNC",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Mrs. Meyer's Hand Soap Honeysuckle, 12.5 Fluid Ounce (Pack of 3)",
+            "normalizedName": "(Pack of 3) Mrs. Meyer's Hand Soap Honeysuckle, 12.5 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2000000000000006
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00U3TCX08": {
+            "asin": "B00U3TCX08",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "iFixit iOpener Kit",
+            "normalizedName": "iFixit iOpener Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        },
+        "B017KY6JGM": {
+            "asin": "B017KY6JGM",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Bounce Fresh Linen Fabric Softener Sheets 160 Count (Pack of 2)",
+            "normalizedName": "(Pack of 2) Bounce Fresh Linen Fabric Softener Sheets 160 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

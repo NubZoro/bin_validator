@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000U0RKX0": {
+            "asin": "B000U0RKX0",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Levolor A7004213417 Sash Rod, 5/16-Inch Diameter, 12-to-22-Inch Width, White, 2-Pack",
+            "normalizedName": "2-Pack Levolor A7004213417 Sash Rod, 5/16-Inch Diameter, 12-to-22-Inch Width, White,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B007OXJMD2": {
+            "asin": "B007OXJMD2",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Green Mountain Coffee Hazelnut Decaf, Light Roasted, K-Cup Portion Pack for Keurig K-Cup Brewers (Pack of 48)",
+            "normalizedName": "(Pack of 48) Green Mountain Coffee Hazelnut Decaf, Light Roasted, K-Cup Portion Pack for Keurig K-Cup Brewers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00UGK3JPW": {
+            "asin": "B00UGK3JPW",
+            "height": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.2204724295
+            },
+            "name": "Loreal Professionnel Serie Expert Vitamino Color A-OX Shampoo, 50.7 Fluid Ounce",
+            "normalizedName": "Loreal Professionnel Serie Expert Vitamino Color A-OX Shampoo, 50.7 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5714521891491424
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

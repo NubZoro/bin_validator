@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002E1G7K": {
+            "asin": "B0002E1G7K",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990106
+            },
+            "name": "Mogami Gold AES 03 Reference Analog or Digital XLR Cable 3 feet",
+            "normalizedName": "Mogami Gold AES 03 Reference Analog or Digital XLR Cable 3 feet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B00NW3PBRE": {
+            "asin": "B00NW3PBRE",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "DBPOWER Waterproof Action Camera 12MP 1080P HD with 2 Batteries and Free Accessories Kit(White)",
+            "normalizedName": "DBPOWER Waterproof Action Camera 12MP 1080P HD with 2 Batteries and Free Accessories Kit(White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B01BJM6SBM": {
+            "asin": "B01BJM6SBM",
+            "height": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "name": "Denver Broncos Super Bowl 50 Champs Champions Choice Orange Long Sleeve T-shirt Large",
+            "normalizedName": "Denver Broncos Super Bowl 50 Champs Champions Choice Orange Long Sleeve T-shirt Large",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

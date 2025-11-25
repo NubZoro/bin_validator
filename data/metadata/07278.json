@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002VS644": {
+            "asin": "B0002VS644",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Brother DK2211 - Tape ( DK-2211 )",
+            "normalizedName": "Brother DK2211 - Tape ( DK-2211 )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00ZWW9VEW": {
+            "asin": "B00ZWW9VEW",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "StarMall Wooden Worms Eat Apples Threading Toys Early Childhood Educational Toys Apple Caterpillar Worm",
+            "normalizedName": "StarMall Wooden Worms Eat Apples Threading Toys Early Childhood Educational Toys Apple Caterpillar Worm",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1999999998322819
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

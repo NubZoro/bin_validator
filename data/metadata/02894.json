@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008ORUL50": {
+            "asin": "B008ORUL50",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Calista Tools Ion Hot Rollers Short Style Set 12 Base",
+            "normalizedName": "Calista Tools Ion Hot Rollers Short Style Set 12 Base",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00C9802CW": {
+            "asin": "B00C9802CW",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Beats Mixr On-Ear Headphone - Neon Yellow",
+            "normalizedName": "Beats Mixr On-Ear Headphone - Neon Yellow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

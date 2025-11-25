@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001E96OZQ": {
+            "asin": "B001E96OZQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "Neutrogena Ultra Sheer Dry-Touch Sunscreen, SPF 30, 3 Ounces (Pack of 2)",
+            "normalizedName": "(Pack of 2) Neutrogena Ultra Sheer Dry-Touch Sunscreen, SPF 30, 3 Ounces",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.699999996226
+            }
+        },
+        "B0108ECYLA": {
+            "asin": "B0108ECYLA",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Nespresso Reusable Capsule: Sealpod Starter Pack - One Stainless Steel Refillable Pod for OriginalLine Nespresso Machines and 24 Espresso Lids (1 Pod, 24 Lids)",
+            "normalizedName": "Nespresso Reusable Capsule: Sealpod Starter Pack - One Stainless Steel Refillable Pod for OriginalLine Nespresso Machines and 24 Espresso Lids (1 Pod, 24 Lids)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01FS9OBQQ": {
+            "asin": "B01FS9OBQQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "[Detachable] iPhone 6 / 6s Wallet Case, iXCC \u00ae Folio Magnetic Cover Case [2 in 1][Stand Feature] with Premium Leather and Credit Card Slots - Brown",
+            "normalizedName": "[Detachable] iPhone 6 / 6s Wallet Case, iXCC \u00ae Folio Magnetic Cover Case [2 in 1][Stand Feature] with Premium Leather and Credit Card Slots - Brown",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

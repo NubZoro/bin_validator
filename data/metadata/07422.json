@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01G154706": {
+            "asin": "B01G154706",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Mini DisplayPort to DisplayPort Cable, Mini DP to DP Cable, 6 Feet, 4K Resolution Ready\u2014Black, HAHAHA",
+            "normalizedName": "Mini DisplayPort to DisplayPort Cable, Mini DP to DP Cable, 6 Feet, 4K Resolution Ready\u2014Black, HAHAHA",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00H5UJ068": {
+            "asin": "B00H5UJ068",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "LOT of 10 White Pencil Starfish Wedding Decor 5\" - 6\"",
+            "normalizedName": "LOT of 10 White Pencil Starfish Wedding Decor 5\" - 6\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00XRK1V08": {
+            "asin": "B00XRK1V08",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Kiloline Professional Heat Resistant Glove for Hair Styling Heat Blocking for Curling, Flat Iron and Curling Wand Suitable for Left and Right Hands",
+            "normalizedName": "Kiloline Professional Heat Resistant Glove for Hair Styling Heat Blocking for Curling, Flat Iron and Curling Wand Suitable for Left and Right Hands",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

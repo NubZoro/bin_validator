@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00UYDFE86": {
+            "asin": "B00UYDFE86",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "COMMSCOPE MPS100E-003 CAT 5E BLACK POWERSUM INFORMATION OUTLET",
+            "normalizedName": "COMMSCOPE MPS100E-003 CAT 5E BLACK POWERSUM INFORMATION OUTLET",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01DFT2I2A": {
+            "asin": "B01DFT2I2A",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "name": "QALO- Mens Pink Quality- (13)",
+            "normalizedName": "QALO- Mens Pink Quality- (13)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

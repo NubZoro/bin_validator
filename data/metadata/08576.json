@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000H6LVFU": {
+            "asin": "B000H6LVFU",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "The Hillman Group 9415 Nylon Phillips-Drive Drywall Anchors with Screws",
+            "normalizedName": "The Hillman Group 9415 Nylon Phillips-Drive Drywall Anchors with Screws",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00FB3QS4S": {
+            "asin": "B00FB3QS4S",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Uni-ball Jetstream Extra Fine Point Retractable Roller Ball Pens,-rubber Grip Type -0.5mm-black Ink-value Set of 10",
+            "normalizedName": "Set of 10 Uni-ball Jetstream Extra Fine Point Retractable Roller Ball Pens,-rubber Grip Type -0.5mm-black Ink-value",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B00R3UKU6O": {
+            "asin": "B00R3UKU6O",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Trojan Studded Bareskin Lubricated Condoms, 10 Count",
+            "normalizedName": "Trojan Studded Bareskin Lubricated Condoms, 10 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B01BE3OR9Q": {
+            "asin": "B01BE3OR9Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "LS Photography 77mm UV Protection Filter Lens Accessory for Nikon, Canon, Pentax, DSLR Camera Lens Filters, Gray Cleaning Cloth, Cotton Swab, LGG263",
+            "normalizedName": "LS Photography 77mm UV Protection Filter Lens Accessory for Nikon, Canon, Pentax, DSLR Camera Lens Filters, Gray Cleaning Cloth, Cotton Swab, LGG263",
+            "quantity": 3,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

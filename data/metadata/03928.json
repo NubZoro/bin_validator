@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EIQTOFY": {
+            "asin": "B00EIQTOFY",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Seagate 1TB Desktop SSHD(Solid State Hybrid Drive) SATA 6Gb/s 64MB Cache 3.5-Inch Internal Bare Drive (ST1000DX001)",
+            "normalizedName": "Seagate 1TB Desktop SSHD(Solid State Hybrid Drive) SATA 6Gb/s 64MB Cache 3.5-Inch Internal Bare Drive (ST1000DX001)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2099999989853054
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

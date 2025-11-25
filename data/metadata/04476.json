@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1476709564": {
+            "asin": "1476709564",
+            "height": {
+                "unit": "IN",
+                "value": 1.3385826758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.3700787306
+            },
+            "name": "Bold: How to Go Big, Create Wealth and Impact the World",
+            "normalizedName": "Bold: How to Go Big, Create Wealth and Impact the World",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0582080569315935
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.3779527494
+            }
+        },
+        "B003AYYXWO": {
+            "asin": "B003AYYXWO",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "London Cuppa Tea 440 Bags",
+            "normalizedName": "London Cuppa Tea 440 Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494
+            }
+        },
+        "B018RMTA1M": {
+            "asin": "B018RMTA1M",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Baofeng Black UV-82 V2+ Tri-Power (1/4/7w) Dual-Band 136-174/400-520 MHz Dual PTT Hand Held Ham Radio Two-Way Transceiver FCC Cert. \u2013 With Battery, Earpiece, Antenna Charger, and More",
+            "normalizedName": "Baofeng Black UV-82 V2+ Tri-Power (1/4/7w) Dual-Band 136-174/400-520 MHz Dual PTT Hand Held Ham Radio Two-Way Transceiver FCC Cert. \u2013 With Battery, Earpiece, Antenna Charger, and More",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

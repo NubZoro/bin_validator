@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1319027504": {
+            "asin": "1319027504",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Going to the Source, Volume II: Since 1865: The Bedford Reader in American History",
+            "normalizedName": "Going to the Source, Volume II: Since 1865: The Bedford Reader in American History",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B00D1GFO6K": {
+            "asin": "B00D1GFO6K",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Andis Pet Clipper Kit with Instructional DVD, Blade Cleaning Brush, Lubricating Blade Oil, Protective Blade Guard, Durable Storage Case",
+            "normalizedName": "Andis Pet Clipper Kit with Instructional DVD, Blade Cleaning Brush, Lubricating Blade Oil, Protective Blade Guard, Durable Storage Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9399999983731342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00MI40GPK": {
+            "asin": "B00MI40GPK",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "PopClik JUMP PRO Headphone BLACK",
+            "normalizedName": "PopClik JUMP PRO Headphone BLACK",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

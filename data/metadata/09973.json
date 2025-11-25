@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000RH3DW8": {
+            "asin": "B000RH3DW8",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Black & Decker 71-081 Double Ended Screwdriving Bit Set, 10-Piece",
+            "normalizedName": "Black & Decker 71-081 Double Ended Screwdriving Bit Set, 10-Piece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00448MUVG": {
+            "asin": "B00448MUVG",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "D-Con Ultra Set Mouse Trap",
+            "normalizedName": "D-Con Ultra Set Mouse Trap",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B01FWPEP8K": {
+            "asin": "B01FWPEP8K",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "Dual usb car charger with data cable 2.1 amp fast charger, galaxy s6 s7 note 5 note 6 android phones.",
+            "normalizedName": "Dual usb car charger with data cable 2.1 amp fast charger, galaxy s6 s7 note 5 note 6 android phones.",
+            "quantity": 3,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

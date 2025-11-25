@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00372I9M4": {
+            "asin": "B00372I9M4",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Ray-Ban Men's RB4147 Square Sunglasses, Black & Crystal Grey Gradient, 60 mm",
+            "normalizedName": "Ray-Ban Men's RB4147 Square Sunglasses, Black & Crystal Grey Gradient, 60 mm",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00ILF6ZVE": {
+            "asin": "B00ILF6ZVE",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "AT&T EL52213 DECT 6.0 Phone Answering System with Caller ID/Call Waiting, 2 Cordless Handsets, Silver",
+            "normalizedName": "AT&T EL52213 DECT 6.0 Phone Answering System with Caller ID/Call Waiting, 2 Cordless Handsets, Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00OZQNH5U": {
+            "asin": "B00OZQNH5U",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Animal Planet Grow Eggs- Rain Forest- Hatch and Grow Three Different Super-sized Animals (Series 2)",
+            "normalizedName": "Animal Planet Grow Eggs- Rain Forest- Hatch and Grow Three Different Super-sized Animals (Series 2)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

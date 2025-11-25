@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008CJNSD2": {
+            "asin": "B008CJNSD2",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "Spenco Total Support Thin Insole, Size 8/9-9/10, 0.7 Pound",
+            "normalizedName": "Spenco Total Support Thin Insole, Size 8/9-9/10, 0.7 Pound",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00PTPLJ60": {
+            "asin": "B00PTPLJ60",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "VIVOSUN Hydroponic High PAR Enhanced Red and Orange Spectrums 600 Watt Flowering High Pressure Sodium HPS Grow Light Bulb Lamp Ultra Bright 90,000 Lumens",
+            "normalizedName": "VIVOSUN Hydroponic High PAR Enhanced Red and Orange Spectrums 600 Watt Flowering High Pressure Sodium HPS Grow Light Bulb Lamp Ultra Bright 90,000 Lumens",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

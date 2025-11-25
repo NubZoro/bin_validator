@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AY66OA0": {
+            "asin": "B00AY66OA0",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Set of 5 Tangle Fidget Toys: Original Metallic Textured Relax and Therapy by Tangle Toys",
+            "normalizedName": "Set of 5  Tangle Fidget Toys: Original Metallic Textured Relax and Therapy by Tangle Toys",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00PYDFD5A": {
+            "asin": "B00PYDFD5A",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Lu Bn French Vanilla Sandwich Cookies 10.5 Oz",
+            "normalizedName": "Lu Bn French Vanilla Sandwich Cookies 10.5 Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B014CE1I5A": {
+            "asin": "B014CE1I5A",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Dove Men Plus Care Everyday Gift Pack, Clean Comfort, 3 Count",
+            "normalizedName": "Dove Men Plus Care Everyday Gift Pack, Clean Comfort, 3 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.649999997777735
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

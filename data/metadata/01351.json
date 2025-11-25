@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MF2CR8Y": {
+            "asin": "B00MF2CR8Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Laptop Ac Adapter Charger Power Cord Supply for HP Pavilion DV6T-1200 DV6T-1300 DV6T-2000 DV6T-2100 DV6Z-2100 DV6Z-2000 DV6Z-3000 DV6Z-3100",
+            "normalizedName": "Laptop Ac Adapter Charger Power Cord Supply for HP Pavilion DV6T-1200 DV6T-1300 DV6T-2000 DV6T-2100 DV6Z-2100 DV6Z-2000 DV6Z-3000 DV6Z-3100",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B012J84CLS": {
+            "asin": "B012J84CLS",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Emerald Sriracha Cashews Stand Up Resealable Bag,, 5 Ounce",
+            "normalizedName": "Emerald Sriracha Cashews Stand Up Resealable Bag,, 5 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

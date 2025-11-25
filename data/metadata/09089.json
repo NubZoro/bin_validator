@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006QRHZJK": {
+            "asin": "B006QRHZJK",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "RAM UNPAINTED RAM MOUNT WITH SUCTION X GRIP",
+            "normalizedName": "RAM UNPAINTED RAM MOUNT WITH SUCTION X GRIP",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B019IJ690I": {
+            "asin": "B019IJ690I",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Shopkins Season 5 12  Pack",
+            "normalizedName": "12  Pack Shopkins Season 5",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "148471623X": {
+            "asin": "148471623X",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Disney Fairies Storybook Collection Special Edition",
+            "normalizedName": "Disney Fairies Storybook Collection Special Edition",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B002AQNXR4": {
+            "asin": "B002AQNXR4",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Queen Size Luna Premium Hypoallergenic 100% Waterproof Mattress Protector - Made in the USA - 10 Year Warranty",
+            "normalizedName": "Queen Size Luna Premium Hypoallergenic 100% Waterproof Mattress Protector - Made in the USA - 10 Year Warranty",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B00IYGLF9M": {
+            "asin": "B00IYGLF9M",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "ZOOB Z-Bricks Modeling System",
+            "normalizedName": "ZOOB Z-Bricks Modeling System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

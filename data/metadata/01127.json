@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017VUF6JG": {
+            "asin": "B017VUF6JG",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "iPhone Charger, Lightning to USB Cable (6ft) for iPhone 6/6s 6/6sPlus,5s 5c 5, iPad Pro Air 2, iPad mini 4 3 2, iPod touch 5th gen / 6th gen / nano 7th gen (2 Meters)(White)",
+            "normalizedName": "iPhone Charger, Lightning to USB Cable (6ft) for iPhone 6/6s 6/6sPlus,5s 5c 5, iPad Pro Air 2, iPad mini 4 3 2, iPod touch 5th gen / 6th gen / nano 7th gen (2 Meters)(White)",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.06999999994129867
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B01D9IK6MQ": {
+            "asin": "B01D9IK6MQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Shaving Brush, Oak Leaf 100% Pure Black Badger with Black Handle",
+            "normalizedName": "Shaving Brush, Oak Leaf 100% Pure Black Badger with Black Handle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

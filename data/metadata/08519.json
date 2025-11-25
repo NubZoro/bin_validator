@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ANL51CI": {
+            "asin": "B00ANL51CI",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Fiber Choice Sugar Free, Assorted Fruit, 90 Chewable Tablets",
+            "normalizedName": "Fiber Choice Sugar Free, Assorted Fruit, 90 Chewable Tablets",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

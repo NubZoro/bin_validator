@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JQXT5JO": {
+            "asin": "B00JQXT5JO",
+            "height": {
+                "unit": "IN",
+                "value": 2.1653543285
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.5354330642
+            },
+            "name": "Transcend 240GB JetDrive 420 SATA III SSD Upgrade Kit for MacBook (TS240GJDM420)",
+            "normalizedName": "Transcend 240GB JetDrive 420 SATA III SSD Upgrade Kit for MacBook (TS240GJDM420)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560426986952
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7795275552
+            }
+        },
+        "B019O8ZC2Y": {
+            "asin": "B019O8ZC2Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Funko POP Heroes: Batman vs Superman - Knightmare Batman Action Figure",
+            "normalizedName": "Funko POP Heroes: Batman vs Superman - Knightmare Batman Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

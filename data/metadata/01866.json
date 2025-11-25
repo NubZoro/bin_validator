@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0195117778": {
+            "asin": "0195117778",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514
+            },
+            "name": "Linear System Theory and Design (The Oxford Series in Electrical and Computer Engineering)",
+            "normalizedName": "Linear System Theory and Design (The Oxford Series in Electrical and Computer Engineering)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B015WFED50": {
+            "asin": "B015WFED50",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Wundermax Decorative Door Stopper 3 Pack With Free Bonus Holders, Door Stop Works on All Floor Surfaces, Premium Rubber Door Stops, The Original (White)",
+            "normalizedName": "3 Pack Wundermax Decorative Door Stopper With Free Bonus Holders, Door Stop Works on All Floor Surfaces, Premium Rubber Door Stops, The Original (White)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B01DT9210A": {
+            "asin": "B01DT9210A",
+            "height": {
+                "unit": "IN",
+                "value": 3.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.75
+            },
+            "name": "2016 COPA America Centenario Mason Straw Tumbler",
+            "normalizedName": "2016 COPA America Centenario Mason Straw Tumbler",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

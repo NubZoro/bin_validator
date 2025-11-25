@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00075ZWRE": {
+            "asin": "B00075ZWRE",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Russell Athletic Men's Cotton Muscle Shirt, Black, Medium",
+            "normalizedName": "Russell Athletic Men's Cotton Muscle Shirt, Black, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00DTYFJQO": {
+            "asin": "B00DTYFJQO",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "3dRose mug_117744_3 I Survived An Evil Clown Survial Pride and Humor Design Magic Transforming Mug, 11-Ounce",
+            "normalizedName": "3dRose mug_117744_3 I Survived An Evil Clown Survial Pride and Humor Design Magic Transforming Mug, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005I95IPU": {
+            "asin": "B005I95IPU",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.118110231
+            },
+            "name": "Brother LC71BKS Black Ink Cartridge",
+            "normalizedName": "Brother LC71BKS Black Ink Cartridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.4645669256
+            }
+        },
+        "B008J1QP7Y": {
+            "asin": "B008J1QP7Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Oball Shaker",
+            "normalizedName": "Oball Shaker",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B016DWN140": {
+            "asin": "B016DWN140",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Tech 21 Impactology Evo Wallet Phone Case - Galaxy S6 Edge+ Plus - Black",
+            "normalizedName": "Tech 21 Impactology Evo Wallet Phone Case - Galaxy S6 Edge+ Plus - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

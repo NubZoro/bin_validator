@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "161243438X": {
+            "asin": "161243438X",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Prepper's Natural Medicine: Life-Saving Herbs, Essential Oils and Natural Remedies for When There is No Doctor",
+            "normalizedName": "Prepper's Natural Medicine: Life-Saving Herbs, Essential Oils and Natural Remedies for When There is No Doctor",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B001TH92N4": {
+            "asin": "B001TH92N4",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Frost/Nixon",
+            "normalizedName": "Frost/Nixon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B008UUCVB8": {
+            "asin": "B008UUCVB8",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Rachel Getting Married",
+            "normalizedName": "Rachel Getting Married",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.18
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B019KKF7TE": {
+            "asin": "B019KKF7TE",
+            "height": {
+                "unit": "IN",
+                "value": 6.125
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.625
+            },
+            "name": "OSRAM SYLVANIA Value Line Led Lamp, A19, 8.5 Watts, 2700K, 80 Cri, Medium Base, 120 Volts, Frosted-3553381",
+            "normalizedName": "OSRAM SYLVANIA Value Line Led Lamp, A19, 8.5 Watts, 2700K, 80 Cri, Medium Base, 120 Volts, Frosted-3553381",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.231
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.25
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

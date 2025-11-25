@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012AWBP9U": {
+            "asin": "B012AWBP9U",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Samsung Fast Charge Qi Wireless Charging Pad - US Version - White",
+            "normalizedName": "Samsung Fast Charge Qi Wireless Charging Pad - US Version - White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01DIZ62QY": {
+            "asin": "B01DIZ62QY",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Simfonio Led Strip Lighting 10M 600Leds 3528 LED ,Flexible Color Changing Full Kit with 44 Keys IR Remote Controller ,Control Box, 24v 3A Power Supply for Home lighting",
+            "normalizedName": "Simfonio Led Strip Lighting 10M 600Leds 3528 LED ,Flexible Color Changing Full Kit with 44 Keys IR Remote Controller ,Control Box, 24v 3A Power Supply for Home lighting",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

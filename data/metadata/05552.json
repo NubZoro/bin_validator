@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013RIOPW": {
+            "asin": "B0013RIOPW",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Rugged Ridge 13321.01 Weather Lite Cab Cover",
+            "normalizedName": "Rugged Ridge 13321.01 Weather Lite Cab Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999987658
+            }
+        },
+        "B003TFE7ZM": {
+            "asin": "B003TFE7ZM",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Legacy HFZG550YW Flexzilla 5/8\" x 50' Hybrid Garden Hose with 3/4\" GHT Ends (Drinking Water Safe)",
+            "normalizedName": "Legacy HFZG550YW Flexzilla 5/8\" x 50' Hybrid Garden Hose with 3/4\" GHT Ends (Drinking Water Safe)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

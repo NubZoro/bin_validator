@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00009YJSJ": {
+            "asin": "B00009YJSJ",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Conair 1600 Watt Wall Mount Hair Dryer with LED Nightlight",
+            "normalizedName": "Conair 1600 Watt Wall Mount Hair Dryer with LED Nightlight",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B001QFCP6K": {
+            "asin": "B001QFCP6K",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989086
+            },
+            "name": "Amscan Hawaiian Summer Beach Party Inflatable Palm Tree Decoration (1 Piece), Green/Brown, 13.6 x 10\"",
+            "normalizedName": "Amscan Hawaiian Summer Beach Party Inflatable Palm Tree Decoration (1 Piece), Green/Brown, 13.6 x 10\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942
+            }
+        },
+        "B00F46300M": {
+            "asin": "B00F46300M",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995817999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Disney Mickey Mouse Clubhouse Clubhouse Pals",
+            "normalizedName": "Disney Mickey Mouse Clubhouse Clubhouse Pals",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01B1EQXAE": {
+            "asin": "B01B1EQXAE",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987658
+            },
+            "name": "Hydration Running Belt : EOTW Sports Hiking Waist Band Bag Pocket Pouch Belt With Water Bottle Holder - For iPhone 6 6S Plus,Samsung S5 S6 S7 Edge - 3M Reflective Strips, Roomy Pouch(Waist: 37''-68'')",
+            "normalizedName": "Hydration Running Belt : EOTW Sports Hiking Waist Band Bag Pocket Pouch Belt With Water Bottle Holder - For iPhone 6 6S Plus,Samsung S5 S6 S7 Edge - 3M Reflective Strips, Roomy Pouch(Waist: 37''-68'')",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

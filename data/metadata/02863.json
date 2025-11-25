@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016XEEXU4": {
+            "asin": "B016XEEXU4",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Stainless Steel Water Bottle - Wide Mouth Bottle - Insulated Water Bottle - Double Walled - Vacuum Insulated - Water Bottle 32 oz Insulated Thermos",
+            "normalizedName": "Stainless Steel Water Bottle - Wide Mouth Bottle - Insulated Water Bottle - Double Walled - Vacuum Insulated - Water Bottle 32 oz Insulated Thermos",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01C69U2S2": {
+            "asin": "B01C69U2S2",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "HR Wireless Carrying Case for LG G5 - Retail Packaging - Grey/Black",
+            "normalizedName": "HR Wireless Carrying Case for LG G5 - Retail Packaging - Grey/Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01CF1APYC": {
+            "asin": "B01CF1APYC",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "HR Wireless Carrying Case for Alcatel Onetouch Pixi Charm LTE Pop Astro - Retail Packaging - Gold/Black",
+            "normalizedName": "HR Wireless Carrying Case for Alcatel Onetouch Pixi Charm LTE Pop Astro - Retail Packaging - Gold/Black",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

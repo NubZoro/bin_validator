@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000QX8S1O": {
+            "asin": "B000QX8S1O",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "Elco Lighting EL1499R 4\" Low Voltage Airtight Remodel Housing",
+            "normalizedName": "Elco Lighting EL1499R 4\" Low Voltage Airtight Remodel Housing",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00MJYPL4A": {
+            "asin": "B00MJYPL4A",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Diamondback Men's Pillow Top Bicycle Saddle, Black",
+            "normalizedName": "Diamondback Men's Pillow Top Bicycle Saddle, Black",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00V8YU2JQ": {
+            "asin": "B00V8YU2JQ",
+            "height": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.249999987505001
+            },
+            "name": "Service Caster SCC-30CS620-PPUR-TLB-2-R620-2 Heavy Duty Swivel Casters, 2 Rigid 2 with Brakes Polyurethane Wheel, 6\" Size (Pack of 4)",
+            "normalizedName": "(Pack of 4) Service Caster SCC-30CS620-PPUR-TLB-2-R620-2 Heavy Duty Swivel Casters, 2 Rigid 2 with Brakes Polyurethane Wheel, 6\" Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 20.24999998301854
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.249999987505001
+            }
+        },
+        "B015WVX0DK": {
+            "asin": "B015WVX0DK",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Sleeping Dragon Protecting Eggs Cake Mold Pan - Heavy duty alluminum alloy",
+            "normalizedName": "Sleeping Dragon Protecting Eggs Cake Mold Pan - Heavy duty alluminum alloy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

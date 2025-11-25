@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IPBNDCS": {
+            "asin": "B00IPBNDCS",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "InterDesign Alta Over Door or Wall Mount Swinging Closet Organizer for Scarves, Ties, Belts, Handbags, Fashion Jewelry - Chrome",
+            "normalizedName": "InterDesign Alta Over Door or Wall Mount Swinging Closet Organizer for Scarves, Ties, Belts, Handbags, Fashion Jewelry - Chrome",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B0154ARM3I": {
+            "asin": "B0154ARM3I",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "AmazonBasics Microfiber Sheet Set - Twin, Olive",
+            "normalizedName": "AmazonBasics Microfiber Sheet Set - Twin, Olive",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B016QYAM88": {
+            "asin": "B016QYAM88",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Table Edge Corner Protector, Bumper Guard, Rubber 18ft Long with 8 Corner Cushions, Safety for Edges & Corners, Child & Baby-Proofing Protection, Extra Soft & Flexible for Easy Installation, White",
+            "normalizedName": "Table Edge Corner Protector, Bumper Guard, Rubber 18ft Long with 8 Corner Cushions, Safety for Edges & Corners, Child & Baby-Proofing Protection, Extra Soft & Flexible for Easy Installation, White",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

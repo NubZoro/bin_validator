@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000J69KZQ": {
+            "asin": "B000J69KZQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "Derwent Graphic Drawing Pencils, Medium, Metal Tin, 12 Count (34214)",
+            "normalizedName": "Derwent Graphic Drawing Pencils, Medium, Metal Tin, 12 Count (34214)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.330708657
+            }
+        },
+        "B01CMJREAU": {
+            "asin": "B01CMJREAU",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "World Sport MINI Disc Cones Red (25 Pack)",
+            "normalizedName": "(25 Pack) World Sport MINI Disc Cones Red",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

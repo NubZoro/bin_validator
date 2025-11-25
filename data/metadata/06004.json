@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0062268740": {
+            "asin": "0062268740",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Radical Remission: Surviving Cancer Against All Odds",
+            "normalizedName": "Radical Remission: Surviving Cancer Against All Odds",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "B01B25PU4W": {
+            "asin": "B01B25PU4W",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Fitbit Alta Fitness Tracker, Silver/Teal, Small",
+            "normalizedName": "Fitbit Alta Fitness Tracker, Silver/Teal, Small",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

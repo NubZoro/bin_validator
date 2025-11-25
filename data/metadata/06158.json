@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001F6L0UW": {
+            "asin": "B001F6L0UW",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0629921198
+            },
+            "name": "Grafix Medium Weight 6-Inch-by-6-Inch Chipboard-Sheets, White 25-Pack",
+            "normalizedName": "25-Pack Grafix Medium Weight 6-Inch-by-6-Inch Chipboard-Sheets, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0141160545594439
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        },
+        "B004V95EE8": {
+            "asin": "B004V95EE8",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Crosman Stinger P311 Airsoft Pistol (Black)",
+            "normalizedName": "Crosman Stinger P311 Airsoft Pistol (Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B008HBMR0A": {
+            "asin": "B008HBMR0A",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Burt's Bees Baby Bee Chlorine-Free Wipes, 72 count, Pack of 1",
+            "normalizedName": "Pack of 1 Burt's Bees Baby Bee Chlorine-Free Wipes, 72 count,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

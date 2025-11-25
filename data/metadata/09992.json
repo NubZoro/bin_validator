@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CPCHFYU": {
+            "asin": "B00CPCHFYU",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "3M Peltor X-Series Cap-Mount Earmuffs, NRR 25 dB, One Size Fits Most, Black/Chartreuse X4P3E (Pack of 1)",
+            "normalizedName": "(Pack of 1) 3M Peltor X-Series Cap-Mount Earmuffs, NRR 25 dB, One Size Fits Most, Black/Chartreuse X4P3E",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00ICD6308": {
+            "asin": "B00ICD6308",
+            "height": {
+                "unit": "IN",
+                "value": 1.8
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.5
+            },
+            "name": "Travelon Safe Id Accent Double Zip Clutch Wallet, Cobalt, One Size",
+            "normalizedName": "Travelon Safe Id Accent Double Zip Clutch Wallet, Cobalt, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

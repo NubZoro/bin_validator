@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00G8IS0LY": {
+            "asin": "B00G8IS0LY",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Rhode Island Novelty Foam Clown Noses, Red, 24-Pack",
+            "normalizedName": "24-Pack Rhode Island Novelty Foam Clown Noses, Red,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B014D1WGGW": {
+            "asin": "B014D1WGGW",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "KING DO WAY Portable Light Weight Outdoor Travel Camping Hammock Multifunctional Durable Stronger Hammocks 106x55'' blue&silver",
+            "normalizedName": "KING DO WAY Portable Light Weight Outdoor Travel Camping Hammock Multifunctional Durable Stronger Hammocks 106x55'' blue&silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

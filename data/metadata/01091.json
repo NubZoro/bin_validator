@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GGP44ZU": {
+            "asin": "B00GGP44ZU",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Creative Converting Paper Banquet Table Cover, Sunkissed Orange",
+            "normalizedName": "Creative Converting Paper Banquet Table Cover, Sunkissed Orange",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B00HT6E2NY": {
+            "asin": "B00HT6E2NY",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Schick Hydro Silk Sensitive Skin Shower Ready Moisturizing Razor Blade Refills for Women with ALL NEW Shower Hanger  - 4 Count",
+            "normalizedName": "Schick Hydro Silk Sensitive Skin Shower Ready Moisturizing Razor Blade Refills for Women with ALL NEW Shower Hanger  - 4 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B012MGSOEI": {
+            "asin": "B012MGSOEI",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Marvel Captain America: Civil War Marvel's War Machine Mask",
+            "normalizedName": "Marvel Captain America: Civil War Marvel's War Machine Mask",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

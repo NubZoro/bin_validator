@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017A6GMUS": {
+            "asin": "B017A6GMUS",
+            "height": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.7007873978
+            },
+            "name": "180 Cosmetics Salt and Oil Body Scrub, Pink Candy, 8.45 Oz",
+            "normalizedName": "180 Cosmetics Salt and Oil Body Scrub, Pink Candy, 8.45 Oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9700240513738411
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7007873978
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

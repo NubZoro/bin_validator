@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0553447688": {
+            "asin": "0553447688",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "June: A Novel",
+            "normalizedName": "June: A Novel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "0671231081": {
+            "asin": "0671231081",
+            "height": {
+                "unit": "IN",
+                "value": 2.0472440924
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2913385732
+            },
+            "name": "The Fitzgeralds and the Kennedys : An American Saga",
+            "normalizedName": "The Fitzgeralds and the Kennedys : An American Saga",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.2204724346
+            }
+        },
+        "1457683040": {
+            "asin": "1457683040",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Rules for Writers",
+            "normalizedName": "Rules for Writers",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0769801960962
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00GFDMUF4": {
+            "asin": "B00GFDMUF4",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Mr. Clean Bliss Premium Latex-Free Gloves, Large, 4 pairs",
+            "normalizedName": "Mr. Clean Bliss Premium Latex-Free Gloves, Large, 4 pairs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

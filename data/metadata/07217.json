@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A3XNUQA": {
+            "asin": "B00A3XNUQA",
+            "height": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "BEABA Babycook - Sorbet",
+            "normalizedName": "BEABA Babycook - Sorbet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

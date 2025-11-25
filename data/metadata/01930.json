@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005CLMZ0K": {
+            "asin": "B005CLMZ0K",
+            "height": {
+                "unit": "IN",
+                "value": 3.1199998823766824
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Depo 332-50019-471 Slide Passenger Side Exterior Door Handle",
+            "normalizedName": "Depo 332-50019-471 Slide Passenger Side Exterior Door Handle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.53
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.239999764753365
+            }
+        },
+        "B0125KTVDE": {
+            "asin": "B0125KTVDE",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Disney Princess Royal Shimmer Snow White Doll",
+            "normalizedName": "Disney Princess Royal Shimmer Snow White Doll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B019GKTACI": {
+            "asin": "B019GKTACI",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.799999983884002
+            },
+            "name": "Pepper Shapes 3 Fold Manual Sunny Rainy Umbrella,Red Color,Lifetime Guarantee",
+            "normalizedName": "Pepper Shapes 3 Fold Manual Sunny Rainy Umbrella,Red Color,Lifetime Guarantee",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01BHQ9TRU": {
+            "asin": "B01BHQ9TRU",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "Abstract Pronted 3 Fold Auto Open/close Umrella with Windproof Function (Blue)",
+            "normalizedName": "Abstract Pronted 3 Fold Auto Open/close Umrella with Windproof Function (Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

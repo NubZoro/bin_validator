@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007C6IXCM": {
+            "asin": "B007C6IXCM",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Craftsman 9-46813 Standard Short Arm Hex Key Set, 11-Piece",
+            "normalizedName": "Craftsman 9-46813 Standard Short Arm Hex Key Set, 11-Piece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B01CU7JFU6": {
+            "asin": "B01CU7JFU6",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999979804
+            },
+            "name": "Nine West Table Treasure Zip Around Wallet, Cobblestone, One Size",
+            "normalizedName": "Nine West Table Treasure Zip Around Wallet, Cobblestone, One Size",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999990412
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

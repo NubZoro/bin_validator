@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0030O1VS8": {
+            "asin": "B0030O1VS8",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Jumbo Inflatable Bowling Set",
+            "normalizedName": "Jumbo Inflatable Bowling Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B00NFSNAS8": {
+            "asin": "B00NFSNAS8",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988065999
+            },
+            "name": "Kensun YS-205 (Home 110V)/ DC (12V Car) Portable Air Compressor Tire Inflator",
+            "normalizedName": "Kensun YS-205 (Home 110V)/ DC (12V Car) Portable Air Compressor Tire Inflator",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.699999996058625
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

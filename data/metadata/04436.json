@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009SZ2P7E": {
+            "asin": "B009SZ2P7E",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Utopia Towels Ringspun Cotton Floor Mat, White, 2-Pack",
+            "normalizedName": "2-Pack Utopia Towels Ringspun Cotton Floor Mat, White,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

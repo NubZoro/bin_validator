@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0393922235": {
+            "asin": "0393922235",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Introduction to Sociology (Seagull Ninth Edition)",
+            "normalizedName": "Introduction to Sociology (Seagull Ninth Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B0092PDT20": {
+            "asin": "B0092PDT20",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "JBL Wireless Bluetooth Desktop Speakers (JBL Jembe BT)",
+            "normalizedName": "JBL Wireless Bluetooth Desktop Speakers (JBL Jembe BT)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

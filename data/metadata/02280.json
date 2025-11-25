@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C0C5OGG": {
+            "asin": "B00C0C5OGG",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "energy smart LED Globe G25 Light Bulb 2-Pack",
+            "normalizedName": "2-Pack energy smart LED Globe G25 Light Bulb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00SB94W6A": {
+            "asin": "B00SB94W6A",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Rattan Ball LED Decorative String Lights w/ IP44 UL-listed Power Adapter, Plug-and-Play 29ft Length 40 Balls Warm White Light Color for Christmas, Holiday, Party, Event Decorative Lighting",
+            "normalizedName": "Rattan Ball LED Decorative String Lights w/ IP44 UL-listed Power Adapter, Plug-and-Play 29ft Length 40 Balls Warm White Light Color for Christmas, Holiday, Party, Event Decorative Lighting",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B0145OQXCK": {
+            "asin": "B0145OQXCK",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Amcrest ProHD 1080P WiFi Wireless IP Security Camera - 1080P (1920TVL), IP2M-841 (White)",
+            "normalizedName": "Amcrest ProHD 1080P WiFi Wireless IP Security Camera - 1080P (1920TVL), IP2M-841 (White)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.199999998155101
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

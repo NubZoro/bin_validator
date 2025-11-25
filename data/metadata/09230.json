@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012G124DG": {
+            "asin": "B012G124DG",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "name": "Gamcube (TM) 3X3X3 Mirror Cube Puzzle Stickered Bright Green",
+            "normalizedName": "Gamcube (TM) 3X3X3 Mirror Cube Puzzle Stickered Bright Green",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.30999999974003695
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B01AG9FV0S": {
+            "asin": "B01AG9FV0S",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.267716527
+            },
+            "name": "iPhone 6S Plus Case,iPhone 6 Plus Case,NSSTAR Mini Love Heart Glitter Bling Crystal Rhinestone Diamonds Clear Rubber Rose Plating Frame TPU Soft Silicone Bumper Case Cover for iPhone 6/6S Plus 5.5\"",
+            "normalizedName": "iPhone 6S Plus Case,iPhone 6 Plus Case,NSSTAR Mini Love Heart Glitter Bling Crystal Rhinestone Diamonds Clear Rubber Rose Plating Frame TPU Soft Silicone Bumper Case Cover for iPhone 6/6S Plus 5.5\"",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.118110231
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

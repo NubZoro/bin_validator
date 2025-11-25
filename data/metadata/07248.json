@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00209QLM0": {
+            "asin": "B00209QLM0",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Steiner 21923 Welding Gloves, Burnt orange Y-Series 23-Inch Length Shoulder Split Cowhide, Foam Lined, Large",
+            "normalizedName": "Steiner 21923 Welding Gloves, Burnt orange Y-Series 23-Inch Length Shoulder Split Cowhide, Foam Lined, Large",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00SUTLKS4": {
+            "asin": "B00SUTLKS4",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Toddler Pillow - Baby Pillow - Travel Pillow - with TWO pillowcases - Hypoallergenic - 14in x 19in - Ideal for Kids & Infants - Machine Wash & Dryable - made in USA",
+            "normalizedName": "Toddler Pillow - Baby Pillow - Travel Pillow - with TWO pillowcases - Hypoallergenic - 14in x 19in - Ideal for Kids & Infants - Machine Wash & Dryable - made in USA",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.99999998572
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

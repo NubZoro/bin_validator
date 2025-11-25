@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000V6YNOW": {
+            "asin": "B000V6YNOW",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Motion Detector Alarm w/ Chime",
+            "normalizedName": "Motion Detector Alarm w/ Chime",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

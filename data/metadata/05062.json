@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003XL7WZO": {
+            "asin": "B003XL7WZO",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Aspects HummZinger HighView 12 oz Hanging Hummingbird Feeder",
+            "normalizedName": "Aspects HummZinger HighView 12 oz Hanging Hummingbird Feeder",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B0093CMYRS": {
+            "asin": "B0093CMYRS",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "5 lbs Vinyl Kettbell - \u00b2K2LKZ",
+            "normalizedName": "5 lbs Vinyl Kettbell - \u00b2K2LKZ",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

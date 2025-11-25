@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0135132150": {
+            "asin": "0135132150",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Architectural Drawing and Light Construction (8th Edition)",
+            "normalizedName": "Architectural Drawing and Light Construction (8th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991738
+            }
+        },
+        "B000Q38IZA": {
+            "asin": "B000Q38IZA",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Keeper 02806 ATV Winch Accessory Kit with Storage Case",
+            "normalizedName": "Keeper 02806 ATV Winch Accessory Kit with Storage Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B018HT09RY": {
+            "asin": "B018HT09RY",
+            "height": {
+                "unit": "IN",
+                "value": 2.33
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.5
+            },
+            "name": "Incense Gift Pack | 1 Hand Painted Incense Burner and 3 Boxes of Incense | Triskelion Design | Green | by ZenScents Incense",
+            "normalizedName": "Incense Gift Pack | 1 Hand Painted Incense Burner and 3 Boxes of Incense | Triskelion Design | Green | by ZenScents Incense",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.34375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.75
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

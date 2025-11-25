@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0065WQ0M4": {
+            "asin": "B0065WQ0M4",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Palmer's Cocoa Butter Formula Men's Lotion, 13.5 Fluid Ounce (Pack of 2)",
+            "normalizedName": "(Pack of 2) Palmer's Cocoa Butter Formula Men's Lotion, 13.5 Fluid Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00IARPC8A": {
+            "asin": "B00IARPC8A",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Bungalow 360 Mini Backpack, Cat",
+            "normalizedName": "Bungalow 360 Mini Backpack, Cat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B01DA38JYW": {
+            "asin": "B01DA38JYW",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "JK TECH Small Medium Large Dog Rechargeable Pet Fence System Waterproof Shock Dog Collar for 2 or 3 Dogs (for 2 dogs)",
+            "normalizedName": "JK TECH Small Medium Large Dog Rechargeable Pet Fence System Waterproof Shock Dog Collar for 2 or 3 Dogs (for 2 dogs)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

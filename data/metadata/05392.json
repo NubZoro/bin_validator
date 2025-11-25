@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000C7NQR0": {
+            "asin": "B000C7NQR0",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "name": "Sealed Power HT-2148 Valve Lifter",
+            "normalizedName": "Sealed Power HT-2148 Valve Lifter",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            }
+        },
+        "B006I6PEBA": {
+            "asin": "B006I6PEBA",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Funny Guy Mugs Coffee Makes Me Poop Ceramic Coffee Mug, Brown, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Coffee Makes Me Poop Ceramic Coffee Mug, Brown, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00HYM0NR2": {
+            "asin": "B00HYM0NR2",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "name": "The Hillman Group 3212 1/4-20 x 1-Inch Socket Head Cap Screw, 10-Pack",
+            "normalizedName": "10-Pack The Hillman Group 3212 1/4-20 x 1-Inch Socket Head Cap Screw,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B00V06LXRM": {
+            "asin": "B00V06LXRM",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "name": "Rikki Knight Compact Mirror, Purple Crocus Flowers on Grey Background, 3 Ounce",
+            "normalizedName": "Rikki Knight Compact Mirror, Purple Crocus Flowers on Grey Background, 3 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

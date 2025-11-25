@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GKEHWL0": {
+            "asin": "B00GKEHWL0",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988167998
+            },
+            "name": "Harry Potter Hufflepuff Men's Pajama Pants (X-Large)",
+            "normalizedName": "Harry Potter Hufflepuff Men's Pajama Pants (X-Large)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B014AHLFJI": {
+            "asin": "B014AHLFJI",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "WWE Wrestlemania 32 Elite Undertaker Figure",
+            "normalizedName": "WWE Wrestlemania 32 Elite Undertaker Figure",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

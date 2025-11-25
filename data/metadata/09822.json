@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CNJFDS": {
+            "asin": "B000CNJFDS",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024
+            },
+            "name": "FRAM CA8507 Air Filter",
+            "normalizedName": "FRAM CA8507 Air Filter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00ZAQI5XI": {
+            "asin": "B00ZAQI5XI",
+            "height": {
+                "unit": "IN",
+                "value": 2.2834645646
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.173228332
+            },
+            "name": "Refurbished Fire HD 10, 10.1\" HD Display, Wi-Fi, 32 GB, Black - R",
+            "normalizedName": "Refurbished Fire HD 10, 10.1\" HD Display, Wi-Fi, 32 GB, Black - R",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6093580852338727
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.0708661335
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

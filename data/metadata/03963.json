@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00B99JU4S": {
+            "asin": "B00B99JU4S",
+            "height": {
+                "unit": "IN",
+                "value": 3.0708661386
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.6377952678
+            },
+            "name": "Seagate SATA 6Gb/s 3.5-Inch 4TB Desktop HDD (ST4000DM000)",
+            "normalizedName": "Seagate SATA 6Gb/s 3.5-Inch 4TB Desktop HDD (ST4000DM000)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5873282864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.9842519624
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

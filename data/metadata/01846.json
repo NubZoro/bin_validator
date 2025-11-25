@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000K2ZWLK": {
+            "asin": "B000K2ZWLK",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Citrus Magic Solid Air Freshener, Pure Linen, 8-Ounce",
+            "normalizedName": "Citrus Magic Solid Air Freshener, Pure Linen, 8-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B016A7ERUU": {
+            "asin": "B016A7ERUU",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Two 24 oz. Tritan Nutri Ninja Cups with two Sip & Seal Lids (XSK2424)",
+            "normalizedName": "Two 24 oz. Tritan Nutri Ninja Cups with two Sip & Seal Lids (XSK2424)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

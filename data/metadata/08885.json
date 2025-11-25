@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EO7MEPE": {
+            "asin": "B00EO7MEPE",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Paper Party Cups, 9-oz., 12-ct. Packs",
+            "normalizedName": "Paper Party Cups, 9-oz., 12-ct. Packs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00OGRBR8M": {
+            "asin": "B00OGRBR8M",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Paperproducts Design Winter Solstice Fox Porcelain Gift Boxed Mug, 13.5-Ounce, Multi-Color",
+            "normalizedName": "Paperproducts Design Winter Solstice Fox Porcelain Gift Boxed Mug, 13.5-Ounce, Multi-Color",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00RJQYT7S": {
+            "asin": "B00RJQYT7S",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Dealgadgets 360 Degrees Slim Rotating Stand Leather Case Cover for Apple Ipad Mini 1/2 /3 Green",
+            "normalizedName": "Dealgadgets 360 Degrees Slim Rotating Stand Leather Case Cover for Apple Ipad Mini 1/2 /3 Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

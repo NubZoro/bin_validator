@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005QP41AY": {
+            "asin": "B005QP41AY",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "Marble Knives 5215 Firemans Axe Will Be Rusted",
+            "normalizedName": "Marble Knives 5215 Firemans Axe Will Be Rusted",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

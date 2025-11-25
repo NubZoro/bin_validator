@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K81J4TO": {
+            "asin": "B00K81J4TO",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "School Supplies Silicone Pencil Case Banana Shape Pen Bag",
+            "normalizedName": "School Supplies Silicone Pencil Case Banana Shape Pen Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B00OBEO34U": {
+            "asin": "B00OBEO34U",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "My True Nature Henry's Happy Hair Conditioner - Rosemary/Tea Tree - 8 oz",
+            "normalizedName": "My True Nature Henry's Happy Hair Conditioner - Rosemary/Tea Tree - 8 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.47999999959747647
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B0169SNI3C": {
+            "asin": "B0169SNI3C",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "PRIV by BlackBerry Unlocked Smartphone - Black (U.S. Warranty)",
+            "normalizedName": "PRIV by BlackBerry Unlocked Smartphone - Black (U.S. Warranty)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

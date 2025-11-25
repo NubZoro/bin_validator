@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004ZF4F2U": {
+            "asin": "B004ZF4F2U",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "55w Kensun HID Xenon Conversion Kit \"All Bulb Sizes and Colors\" with Digital Ballasts - H4 (HB2) (9003) Bi-Xenon - 6000k",
+            "normalizedName": "55w Kensun HID Xenon Conversion Kit \"All Bulb Sizes and Colors\" with Digital Ballasts - H4 (HB2) (9003) Bi-Xenon - 6000k",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.5000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00BPF32PY": {
+            "asin": "B00BPF32PY",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Adidas Mens Tierro 13 Goalie Pants Medium",
+            "normalizedName": "Adidas Mens Tierro 13 Goalie Pants Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        },
+        "B00IJHIPDK": {
+            "asin": "B00IJHIPDK",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Moen S3945ORB Traditional Deck Mounted Soap Dispenser, Oil Rubbed Bronze",
+            "normalizedName": "Moen S3945ORB Traditional Deck Mounted Soap Dispenser, Oil Rubbed Bronze",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

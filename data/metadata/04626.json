@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GFHPN4": {
+            "asin": "B000GFHPN4",
+            "height": {
+                "unit": "IN",
+                "value": 2.799999997144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Source Naturals Skin Eternal, 240 Tablets",
+            "normalizedName": "Source Naturals Skin Eternal, 240 Tablets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.799999997144
+            }
+        },
+        "B000OC6HJM": {
+            "asin": "B000OC6HJM",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Pisces Fish Multi-Lever Corkscrew",
+            "normalizedName": "Pisces Fish Multi-Lever Corkscrew",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B0080ML180": {
+            "asin": "B0080ML180",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Epson T200520 DURABrite Ultra Color Combo Pack Standard Capacity Cartridge Ink",
+            "normalizedName": "Epson T200520 DURABrite Ultra Color Combo Pack Standard Capacity Cartridge Ink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00CND8GGW": {
+            "asin": "B00CND8GGW",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "New Green Tea Formutation Berry Burst, 7g, 20 Count",
+            "normalizedName": "New Green Tea Formutation Berry Burst, 7g, 20 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.52
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

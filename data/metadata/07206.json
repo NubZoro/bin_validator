@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "031640702X": {
+            "asin": "031640702X",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "14th Deadly Sin (Women's Murder Club)",
+            "normalizedName": "14th Deadly Sin (Women's Murder Club)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

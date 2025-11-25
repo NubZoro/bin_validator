@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0739020048": {
+            "asin": "0739020048",
+            "height": {
+                "unit": "IN",
+                "value": 0.20078740137
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.90157479101
+            },
+            "name": "Alfred's Basic Piano Prep Course Theory, Bk F: For the Young Beginner (Alfred's Basic Piano Library)",
+            "normalizedName": "Alfred's Basic Piano Prep Course Theory, Bk F: For the Young Beginner (Alfred's Basic Piano Library)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.250004205108
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.09842518757
+            }
+        },
+        "B004OA6682": {
+            "asin": "B004OA6682",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Hospeco Airworks AWUS005-BX Dark Green Evergreen Urinal Screen (Box of 10)",
+            "normalizedName": "Hospeco Airworks AWUS005-BX Dark Green Evergreen Urinal Screen (Box of 10)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B0076YVPKC": {
+            "asin": "B0076YVPKC",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Barilla Italian Entrees, Spicy Marinara Penne, 9 Ounce (Pack of 6)",
+            "normalizedName": "(Pack of 6) Barilla Italian Entrees, Spicy Marinara Penne, 9 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.599999996142484
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

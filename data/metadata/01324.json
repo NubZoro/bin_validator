@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0043DSGX8": {
+            "asin": "B0043DSGX8",
+            "height": {
+                "unit": "IN",
+                "value": 3.699999996226
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "SmartParts 120250 2.5\" Butt Joint Aluminized Steel Exhaust Clamp with I Block",
+            "normalizedName": "SmartParts 120250 2.5\" Butt Joint Aluminized Steel Exhaust Clamp with I Block",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B008BBCRO2": {
+            "asin": "B008BBCRO2",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.899999981742
+            },
+            "name": "1 X Pink Flamingo Bird Beer Bong",
+            "normalizedName": "1 X Pink Flamingo Bird Beer Bong",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.34999642744550774
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00H0S99Z2": {
+            "asin": "B00H0S99Z2",
+            "height": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.3307086468
+            },
+            "name": "Orbeez - Ultimate Soothing Spa",
+            "normalizedName": "Orbeez - Ultimate Soothing Spa",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.084696322254094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.9685039248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

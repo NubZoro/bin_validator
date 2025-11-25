@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BWDUKY": {
+            "asin": "B000BWDUKY",
+            "height": {
+                "unit": "IN",
+                "value": 3.59842519318
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.20078739219
+            },
+            "name": "ACCEL 4049 8mm Super Stock Graphite Custom Wire Set - Yellow",
+            "normalizedName": "ACCEL 4049 8mm Super Stock Graphite Custom Wire Set - Yellow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000269126912
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.29921259098
+            }
+        },
+        "B000Z8W7I0": {
+            "asin": "B000Z8W7I0",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "SentrySafe CB10 Small Cash Box, Black",
+            "normalizedName": "SentrySafe CB10 Small Cash Box, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00CG3CBTC": {
+            "asin": "B00CG3CBTC",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "aden + anais Classic Muslin Swaddle Blanket 4 Pack, Night Sky",
+            "normalizedName": "4 Pack aden + anais Classic Muslin Swaddle Blanket , Night Sky",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        },
+        "B01CZRY7E0": {
+            "asin": "B01CZRY7E0",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "TOTOLINK A008KIT Two Indoor/Outdoor 2.4Ghz 8Dbi High-Gain Omni Directional, Wide Signal Coverage Wi-Fi Antennas for 802.11N/G/B Wireless Router/AP with RP-SMA Female Connector - 2 Piece",
+            "normalizedName": "TOTOLINK A008KIT Two Indoor/Outdoor 2.4Ghz 8Dbi High-Gain Omni Directional, Wide Signal Coverage Wi-Fi Antennas for 802.11N/G/B Wireless Router/AP with RP-SMA Female Connector - 2 Piece",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

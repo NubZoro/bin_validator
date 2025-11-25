@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00263UZMW": {
+            "asin": "B00263UZMW",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Fun Express Break Your Own Geodes - 12 Pieces",
+            "normalizedName": "Fun Express Break Your Own Geodes - 12 Pieces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4499999979454534
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B002NZK5S2": {
+            "asin": "B002NZK5S2",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Disclosure",
+            "normalizedName": "Disclosure",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

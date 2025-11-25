@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001NCDE8E": {
+            "asin": "B001NCDE8E",
+            "height": {
+                "unit": "IN",
+                "value": 3.6220472404
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.3464566844
+            },
+            "name": "Nalgene Tritan 1-Quart Wide Mouth BPA-Free Water Bottle,Lollipop Red",
+            "normalizedName": "Nalgene Tritan 1-Quart Wide Mouth BPA-Free Water Bottle,Lollipop Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280213493476
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6220472404
+            }
+        },
+        "B00I52RXZK": {
+            "asin": "B00I52RXZK",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Gerber 2nd Foods Organic, Apple Carrot Squash (6 Count, 3.5 Oz Each)",
+            "normalizedName": "Gerber 2nd Foods Organic, Apple Carrot Squash (6 Count, 3.5 Oz Each)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B00UTO949U": {
+            "asin": "B00UTO949U",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Espro Stainless Steel 12 Ounce Travel Press with Coffee Filter, Brushed Stainless",
+            "normalizedName": "Espro Stainless Steel 12 Ounce Travel Press with Coffee Filter, Brushed Stainless",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

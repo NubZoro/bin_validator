@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000PRKZ1M": {
+            "asin": "B000PRKZ1M",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Tomee GameCube / N64 / SNES S-Video AV Cable",
+            "normalizedName": "Tomee GameCube / N64 / SNES S-Video AV Cable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B01C7Y4KFM": {
+            "asin": "B01C7Y4KFM",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Betsey Johnson Pin Wheel Cross Body Bag, Stripe, One Size",
+            "normalizedName": "Betsey Johnson Pin Wheel Cross Body Bag, Stripe, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

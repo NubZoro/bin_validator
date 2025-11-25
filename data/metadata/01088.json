@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00829HM98": {
+            "asin": "B00829HM98",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Draft Warehouse Beer Faucet and 4-Inch Shank Kit with Black Handle",
+            "normalizedName": "Draft Warehouse Beer Faucet and 4-Inch Shank Kit with Black Handle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

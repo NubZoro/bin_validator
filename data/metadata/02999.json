@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00016XCGM": {
+            "asin": "B00016XCGM",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Oregon's Wild Harvest Alleraid with Quercetin Supplement, 90 Count, 90 Fluid Ounce",
+            "normalizedName": "Oregon's Wild Harvest Alleraid with Quercetin Supplement, 90 Count, 90 Fluid Ounce",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            }
+        },
+        "B001689PKG": {
+            "asin": "B001689PKG",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Party Favor 12-Pack: Whirl-A-Copters",
+            "normalizedName": "12-Pack Party Favor : Whirl-A-Copters",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

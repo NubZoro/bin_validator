@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00114VV3E": {
+            "asin": "B00114VV3E",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Board Dudes SRX Dry Eraser Markers, Medium Point, 6-Count, Assorted Fun Colors (DDN73)",
+            "normalizedName": "Board Dudes SRX Dry Eraser Markers, Medium Point, 6-Count, Assorted Fun Colors (DDN73)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B01AVF6UO8": {
+            "asin": "B01AVF6UO8",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Samsung T3 Portable 1 TB USB 3.0 External SSD (MU-PT1T0B/AM)",
+            "normalizedName": "Samsung T3 Portable 1 TB USB 3.0 External SSD (MU-PT1T0B/AM)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

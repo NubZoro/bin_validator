@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B019HIC2MY": {
+            "asin": "B019HIC2MY",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "La Regale Faux Raffia Striped Clutch, Red/Natural, One Size",
+            "normalizedName": "La Regale Faux Raffia Striped Clutch, Red/Natural, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B01EUEJ0B6": {
+            "asin": "B01EUEJ0B6",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.699999983986
+            },
+            "name": "Tocode Canvas Messenger Shoulder Bag Fits up to 14 Inch Laptop (Dark Gray)",
+            "normalizedName": "Tocode Canvas Messenger Shoulder Bag Fits up to 14 Inch Laptop (Dark Gray)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

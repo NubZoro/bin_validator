@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007BSCLCE": {
+            "asin": "B007BSCLCE",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Kitras 3-Inch Heart Celebration, Yay",
+            "normalizedName": "Kitras 3-Inch Heart Celebration, Yay",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000VLIH8": {
+            "asin": "B0000VLIH8",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Fat Daddio's Anodized Aluminum Round Cake Pan, 6-Inch x 3-Inch",
+            "normalizedName": "Fat Daddio's Anodized Aluminum Round Cake Pan, 6-Inch x 3-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B000H1HZ2S": {
+            "asin": "B000H1HZ2S",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Melissa Doug Mirror Flip-Flap Color Toy",
+            "normalizedName": "Melissa Doug Mirror Flip-Flap Color Toy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B00SGB9WHM": {
+            "asin": "B00SGB9WHM",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Pure Protein Greek Yogurt Nutrition Bar, Strawberry, 1.76 OZ, 6 Count",
+            "normalizedName": "Pure Protein Greek Yogurt Nutrition Bar, Strawberry, 1.76 OZ, 6 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B01AQNCO9U": {
+            "asin": "B01AQNCO9U",
+            "height": {
+                "unit": "IN",
+                "value": 0.8499999991330002
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.749999993115
+            },
+            "name": "Ellami Unique Gift Multilayer Tiger Eye and Obsidian Malas Prayer Beads Bracelet",
+            "normalizedName": "Ellami Unique Gift Multilayer Tiger Eye and Obsidian Malas Prayer Beads Bracelet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.12499999989517617
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.149999996787
+            }
+        },
+        "B01G9CG1EQ": {
+            "asin": "B01G9CG1EQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Sophia Global Compatible Ink Cartridge Replacement for CLI-271XL (1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Gray)",
+            "normalizedName": "Sophia Global Compatible Ink Cartridge Replacement for CLI-271XL (1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Gray)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645638
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

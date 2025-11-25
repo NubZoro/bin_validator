@@ -1,0 +1,90 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0001GZA26": {
+            "asin": "B0001GZA26",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "White 45 inch Shoe Laces",
+            "normalizedName": "White 45 inch Shoe Laces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B00S0S4406": {
+            "asin": "B00S0S4406",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "JSHANMEI \u00ae 1000Pcs Luminous Plastic Oval Shaped Beads Round Beads Fishing Lures Fishing Bead Fishing Tackle Tools Eggs",
+            "normalizedName": "JSHANMEI \u00ae 1000Pcs Luminous Plastic Oval Shaped Beads Round Beads Fishing Lures Fishing Bead Fishing Tackle Tools Eggs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B01BFWVIXO": {
+            "asin": "B01BFWVIXO",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Sony Headphones,Colorful Sony In-ear Earbuds Extra Bass Stereo Headphones Headset (Pink)",
+            "normalizedName": "Sony Headphones,Colorful Sony In-ear Earbuds Extra Bass Stereo Headphones Headset (Pink)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01FYLTDFC": {
+            "asin": "B01FYLTDFC",
+            "height": {
+                "unit": "IN",
+                "value": 0.25
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.0
+            },
+            "name": "San Francisco 49ers Men's Red Keep Score T-shirt X-Large",
+            "normalizedName": "San Francisco 49ers Men's Red Keep Score T-shirt X-Large",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 11.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0321883322": {
+            "asin": "0321883322",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Human Anatomy (8th Edition)",
+            "normalizedName": "Human Anatomy (8th Edition)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B01AIO5Q9M": {
+            "asin": "B01AIO5Q9M",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Ultimate Paleo Protein, Performance Formula (Unflavored/Unsweetened, 15 Servings)",
+            "normalizedName": "Ultimate Paleo Protein, Performance Formula (Unflavored/Unsweetened, 15 Servings)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B01ALAV2N2": {
+            "asin": "B01ALAV2N2",
+            "height": {
+                "unit": "IN",
+                "value": 4.40899999550282
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Snuggle Plus Super Fresh Fabric Softener Liquid with Odor Eliminating Technology, 95 Fluid Ounce",
+            "normalizedName": "Snuggle Plus Super Fresh Fabric Softener Liquid with Odor Eliminating Technology, 95 Fluid Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.299999994716879
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.19399999164212
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009J2HAMG": {
+            "asin": "B009J2HAMG",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Defeet Levitator Lite Tall 5\" Stripe Socks, Black/White, Medium",
+            "normalizedName": "Defeet Levitator Lite Tall 5\" Stripe Socks, Black/White, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00FI6JS8Q": {
+            "asin": "B00FI6JS8Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Defeet Thermeator 6\" Back Top Cuff Socks, Large, Black/Graphite",
+            "normalizedName": "Defeet Thermeator 6\" Back Top Cuff Socks, Large, Black/Graphite",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B00M3L8OMA": {
+            "asin": "B00M3L8OMA",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Defeet D-Evo Wool 1\" Socks, Charcoal/Grey, X-Large",
+            "normalizedName": "Defeet D-Evo Wool 1\" Socks, Charcoal/Grey, X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B011ILUQXK": {
+            "asin": "B011ILUQXK",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "LILYS PET 7inch Professional PET DOG Grooming scissors Cutting&Curved&Thinning shears",
+            "normalizedName": "LILYS PET 7inch Professional PET DOG Grooming scissors Cutting&Curved&Thinning shears",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

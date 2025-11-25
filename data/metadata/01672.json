@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000QYJ0WO": {
+            "asin": "B000QYJ0WO",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Nature's Way Primadophilus Bifidus, 90 Vcaps",
+            "normalizedName": "Nature's Way Primadophilus Bifidus, 90 Vcaps",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B00IVPU5BK": {
+            "asin": "B00IVPU5BK",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Samsung 16GB EVO Class 10 SDHC Card up to 48MB/s (MB-SP16D/AM)",
+            "normalizedName": "Samsung 16GB EVO Class 10 SDHC Card up to 48MB/s (MB-SP16D/AM)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B017TTS45W": {
+            "asin": "B017TTS45W",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "HVR Mini Drone with Video Camera 4GB Memory Card (and card reader) and Easy to Use Controller",
+            "normalizedName": "HVR Mini Drone with Video Camera 4GB Memory Card (and card reader) and Easy to Use Controller",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645638
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01EHIP988": {
+            "asin": "B01EHIP988",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "iPhone 6s case, Geekmart Clear Soft TPU Cartoon Design Cover Case 4.7 inch (B)",
+            "normalizedName": "iPhone 6s case, Geekmart Clear Soft TPU Cartoon Design Cover Case 4.7 inch (B)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

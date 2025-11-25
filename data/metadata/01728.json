@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002KR13M": {
+            "asin": "B0002KR13M",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "3.5mm Stereo Headphone Extension 15 feet Straight",
+            "normalizedName": "3.5mm Stereo Headphone Extension 15 feet Straight",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B01DL0Y04C": {
+            "asin": "B01DL0Y04C",
+            "height": {
+                "unit": "IN",
+                "value": 1.6999999982660001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Set of 2 - Spill Resistant and Splash Proof Lids with Slider Closure for 20 oz Tumblers and 10 oz Lowballs - Fits YETI Rambler",
+            "normalizedName": "Set of 2  - Spill Resistant and Splash Proof Lids with Slider Closure for 20 oz Tumblers and 10 oz Lowballs - Fits YETI Rambler",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1999999998322819
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

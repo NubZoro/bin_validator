@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003TQM9XS": {
+            "asin": "B003TQM9XS",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Aqua Chek Aqua Chek Yellow Test Strips Free Chlorine, 50 Strips",
+            "normalizedName": "Aqua Chek Aqua Chek Yellow Test Strips Free Chlorine, 50 Strips",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00DG8U80U": {
+            "asin": "B00DG8U80U",
+            "height": {
+                "unit": "IN",
+                "value": 3.149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.236220462
+            },
+            "name": "Lion Brand Yarn 135-600 Hometown USA Yarn, Bulldogs",
+            "normalizedName": "Lion Brand Yarn 135-600 Hometown USA Yarn, Bulldogs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001186074865
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.6456692866
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

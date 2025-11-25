@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001W26TIW": {
+            "asin": "B001W26TIW",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Mediabridge Cat5e Ethernet Patch Cable (50 Feet) - RJ45 Computer Networking Cord - Blue",
+            "normalizedName": "Mediabridge Cat5e Ethernet Patch Cable (50 Feet) - RJ45 Computer Networking Cord - Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B007KZ3FSC": {
+            "asin": "B007KZ3FSC",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Nunaturals Stevia Powder (1x100PKT )",
+            "normalizedName": "Nunaturals Stevia Powder (1x100PKT )",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B013RBJR3Y": {
+            "asin": "B013RBJR3Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "BLU Studio XL Android Smartphone - GSM Unlocked - White",
+            "normalizedName": "BLU Studio XL Android Smartphone - GSM Unlocked - White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

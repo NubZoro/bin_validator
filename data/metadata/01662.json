@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C2CBBAM": {
+            "asin": "B00C2CBBAM",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Cable Matters 5-Pack, Cat6 Snagless Ethernet Patch Cable in Black 3 Feet",
+            "normalizedName": "5-Pack Cable Matters , Cat6 Snagless Ethernet Patch Cable in Black 3 Feet",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01CXMBQVO": {
+            "asin": "B01CXMBQVO",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "9.7oz Hidden Alcohol Sunscreen Flask - Conceal Your Favorite Drinks Everywhere You Go With These Two 9.7oz Realistic Flasks - Funnel, Seals, and Extra Flask Included",
+            "normalizedName": "9.7oz Hidden Alcohol Sunscreen Flask - Conceal Your Favorite Drinks Everywhere You Go With These Two 9.7oz Realistic Flasks - Funnel, Seals, and Extra Flask Included",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

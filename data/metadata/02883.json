@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1421837447": {
+            "asin": "1421837447",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "Hope Is a Muscle",
+            "normalizedName": "Hope Is a Muscle",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7900044696508
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "1941259146": {
+            "asin": "1941259146",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Over the Fence: Adventures in Friendship (a 9-Week Story & Devotional for Kids)",
+            "normalizedName": "Over the Fence: Adventures in Friendship (a 9-Week Story & Devotional for Kids)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B001KCFE8U": {
+            "asin": "B001KCFE8U",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "K&H 8125 Perfect Climate Deluxe 250-Watt Pond De Icer",
+            "normalizedName": "K&H 8125 Perfect Climate Deluxe 250-Watt Pond De Icer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

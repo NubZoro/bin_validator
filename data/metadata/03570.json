@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0178AW962": {
+            "asin": "B0178AW962",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Aden + Anais Classic Swaddle Blanket Single - Up Up and Away",
+            "normalizedName": "Aden + Anais Classic Swaddle Blanket Single - Up Up and Away",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B01FWH0KQO": {
+            "asin": "B01FWH0KQO",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Solar Charger, Solar Power Bank 10000mAh External Backup Battery Pack Dual USB Solar Panel Charger with 2LED Light Carabiner Compass Portable for Emergency Outdoor Camping Travel-Orange",
+            "normalizedName": "Solar Charger, Solar Power Bank 10000mAh External Backup Battery Pack Dual USB Solar Panel Charger with 2LED Light Carabiner Compass Portable for Emergency Outdoor Camping Travel-Orange",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0027SHXRG": {
+            "asin": "B0027SHXRG",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Federal Signal 250121-02 UltraStar US5 Strobe Beacon, Class 1, Permanent/1\" Pipe Mount with Tall, Amber Dome",
+            "normalizedName": "Federal Signal 250121-02 UltraStar US5 Strobe Beacon, Class 1, Permanent/1\" Pipe Mount with Tall, Amber Dome",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B01DNAM4RU": {
+            "asin": "B01DNAM4RU",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Smart Roaster SET of 6 Telescoping Marshmallow Roasting Sticks - BONUS Mini LED Flashlight - Campfires Made Fun",
+            "normalizedName": "Smart Roaster SET of 6 Telescoping Marshmallow Roasting Sticks - BONUS Mini LED Flashlight - Campfires Made Fun",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

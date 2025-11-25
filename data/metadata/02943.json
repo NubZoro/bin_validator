@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000KSAMS2": {
+            "asin": "B000KSAMS2",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "StarTech.com Blue Gigabit Snagless RJ45 UTP Cat6 Patch Cable - 25 Feet (N6PATCH25BL)",
+            "normalizedName": "StarTech.com Blue Gigabit Snagless RJ45 UTP Cat6 Patch Cable - 25 Feet (N6PATCH25BL)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00439568A": {
+            "asin": "B00439568A",
+            "height": {
+                "unit": "IN",
+                "value": 0.5905511805
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "name": "StarTech.com USB3SAUB1 1 Feet SuperSpeed USB 3.0 Cable A to Micro B",
+            "normalizedName": "StarTech.com USB3SAUB1 1 Feet SuperSpeed USB 3.0 Cable A to Micro B",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400474429947
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.2204724346
+            }
+        },
+        "B015OGXV64": {
+            "asin": "B015OGXV64",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.3779527494
+            },
+            "name": "StarTech.com 2m 6' Micro-USB Charge-and-Sync Cable 24 AWG (USBAUB2MLA)",
+            "normalizedName": "StarTech.com 2m 6' Micro-USB Charge-and-Sync Cable 24 AWG (USBAUB2MLA)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4094488144
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

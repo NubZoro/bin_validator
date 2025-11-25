@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EKR2YRQ": {
+            "asin": "B00EKR2YRQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Brown Paper Food Trays | 50ct",
+            "normalizedName": "Brown Paper Food Trays | 50ct",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B01ANLECZE": {
+            "asin": "B01ANLECZE",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "OxyLED 60W Equivalent 3000K A19 LED Light Bulb with E26 Base, Soft White (6 Pack) - Super Bright 810 Lumens",
+            "normalizedName": "(6 Pack) OxyLED 60W Equivalent 3000K A19 LED Light Bulb with E26 Base, Soft White - Super Bright 810 Lumens",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000I40WAQ": {
+            "asin": "B000I40WAQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Paddington Bear 10\"",
+            "normalizedName": "Paddington Bear 10\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B01BJXMBOO": {
+            "asin": "B01BJXMBOO",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Calvin Klein Men's 3-Pack Cotton Stretch Boxer Brief, Red L",
+            "normalizedName": "3-Pack Calvin Klein Men's Cotton Stretch Boxer Brief, Red L",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

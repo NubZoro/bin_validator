@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0016A590Y": {
+            "asin": "B0016A590Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Purina Veterinary Diets Gentle Snackers Dog Treats (8 oz)",
+            "normalizedName": "Purina Veterinary Diets Gentle Snackers Dog Treats (8 oz)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01GG5UDMC": {
+            "asin": "B01GG5UDMC",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "JDX Sunglasses Accessories, Eyeglass Temple Tip,Comfortable Silicone Anti-slip Holder for Glasses, Ear Hook Anti-slip Glasses Retainers Size S (1 Pair-S, Black)",
+            "normalizedName": "JDX Sunglasses Accessories, Eyeglass Temple Tip,Comfortable Silicone Anti-slip Holder for Glasses, Ear Hook Anti-slip Glasses Retainers Size S (1 Pair-S, Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.034999999970649336
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

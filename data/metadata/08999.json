@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000N8LOGI": {
+            "asin": "B000N8LOGI",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Lee Precision 357 Mag Gauge/Holder",
+            "normalizedName": "Lee Precision 357 Mag Gauge/Holder",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B0185DHVE6": {
+            "asin": "B0185DHVE6",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Cand 4 Gallon Clear Garbage Bags, 110 Counts",
+            "normalizedName": "Cand 4 Gallon Clear Garbage Bags, 110 Counts",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

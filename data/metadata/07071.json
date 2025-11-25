@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001BLRYMO": {
+            "asin": "B001BLRYMO",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Conair Compact Hairsetter, Blue",
+            "normalizedName": "Conair Compact Hairsetter, Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        },
+        "B00BQYPZHW": {
+            "asin": "B00BQYPZHW",
+            "height": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.3149606194
+            },
+            "name": "LEGO Friends Pencil Holder",
+            "normalizedName": "LEGO Friends Pencil Holder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5731960308379465
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B0106RDIN2": {
+            "asin": "B0106RDIN2",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "EVGA SuperNOVA 650 G2 80 Plus Gold Rated, Fully Modular ATX 12V/EPS 12V ECO Mode Power Supply 220-G2-0650-Y1",
+            "normalizedName": "EVGA SuperNOVA 650 G2 80 Plus Gold Rated, Fully Modular ATX 12V/EPS 12V ECO Mode Power Supply 220-G2-0650-Y1",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.549999994507231
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B018AQHM06": {
+            "asin": "B018AQHM06",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Cosamo -Love Your Color- Ammonia & Peroxide Free Hair Color #775 Light Ash Brown (Pack of 3) with a Jarosa Beauty Bee Organic Peppermint Lip Balm 100% All Natural Deep Moisturizing Usda Certified",
+            "normalizedName": "(Pack of 3) Cosamo -Love Your Color- Ammonia & Peroxide Free Hair Color #775 Light Ash Brown with a Jarosa Beauty Bee Organic Peppermint Lip Balm 100% All Natural Deep Moisturizing Usda Certified",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

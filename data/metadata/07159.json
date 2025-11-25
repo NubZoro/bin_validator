@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0017VR54U": {
+            "asin": "B0017VR54U",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Paddle Ball Set - 12 Pack",
+            "normalizedName": "12 Pack Paddle Ball Set -",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B001CEEHWA": {
+            "asin": "B001CEEHWA",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "100-Count Green Christmas Light Set",
+            "normalizedName": "100-Count Green Christmas Light Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00KAFN9B2": {
+            "asin": "B00KAFN9B2",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Aveeno Positively Nourishing Energizing Lotion, 7 Ounce (Pack of 3)",
+            "normalizedName": "(Pack of 3) Aveeno Positively Nourishing Energizing Lotion, 7 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0439734215": {
+            "asin": "0439734215",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Read 180 Stage C Speak Enterprise Edition Audiobook CD Set",
+            "normalizedName": "Read 180 Stage C Speak Enterprise Edition Audiobook CD Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "1556228791": {
+            "asin": "1556228791",
+            "height": {
+                "unit": "IN",
+                "value": 0.64960629855
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.51968503068
+            },
+            "name": "Texas Bad Boys: Gamblers, Gunfighters, and Grifters",
+            "normalizedName": "Texas Bad Boys: Gamblers, Gunfighters, and Grifters",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7300166881606
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.57874015179
+            }
+        },
+        "B00AF613GY": {
+            "asin": "B00AF613GY",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Browne (3300) Grill Screen Holder",
+            "normalizedName": "Browne (3300) Grill Screen Holder",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00JHKSLLY": {
+            "asin": "B00JHKSLLY",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Panasonic K-KJ17MC124A Eneloop Power Pack for 12AA, 4AAA, 2 C Spacers, 2 D Spacers, Advanced Individual Battery Charger",
+            "normalizedName": "Panasonic K-KJ17MC124A Eneloop Power Pack for 12AA, 4AAA, 2 C Spacers, 2 D Spacers, Advanced Individual Battery Charger",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

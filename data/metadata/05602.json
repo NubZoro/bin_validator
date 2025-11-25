@@ -1,0 +1,137 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0011DMNXM": {
+            "asin": "B0011DMNXM",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Eucalptus Chest Rub 2 Ounces",
+            "normalizedName": "Eucalptus Chest Rub 2 Ounces",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B001SERK14": {
+            "asin": "B001SERK14",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Canon PSC-1050 Deluxe Leather Case (Black)",
+            "normalizedName": "Canon PSC-1050 Deluxe Leather Case (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B005HJHUKW": {
+            "asin": "B005HJHUKW",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Wartech YC-S-3653-CH Butterfly Style Bottle Opener, 8.25\"",
+            "normalizedName": "Wartech YC-S-3653-CH Butterfly Style Bottle Opener, 8.25\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        },
+        "B008FLZ2JA": {
+            "asin": "B008FLZ2JA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "name": "Application Wonder Woman Logo Patch",
+            "normalizedName": "Application Wonder Woman Logo Patch",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00FZPHIZ0": {
+            "asin": "B00FZPHIZ0",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Hakko CHP PN-2008 Long-Nose Pliers, Flat Nose, Flat Outside Edge, Smooth Jaws, 32mm Jaw Length, 3mm Nose Width, 3mm Thick Steel",
+            "normalizedName": "Hakko CHP PN-2008 Long-Nose Pliers, Flat Nose, Flat Outside Edge, Smooth Jaws, 32mm Jaw Length, 3mm Nose Width, 3mm Thick Steel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B01552AY12": {
+            "asin": "B01552AY12",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Shopsimple Bike Bicycle Crankset Crank Puller Remover Repair Wrench Handle Spanner Tool",
+            "normalizedName": "Shopsimple Bike Bicycle Crankset Crank Puller Remover Repair Wrench Handle Spanner Tool",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 17
+}

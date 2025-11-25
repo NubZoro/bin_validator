@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B013TLE0RU": {
+            "asin": "B013TLE0RU",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "SafeHands #1 Alcohol Free Foam Hand Sanitizer Brand, Clean Linen, 34 Oz",
+            "normalizedName": "SafeHands #1 Alcohol Free Foam Hand Sanitizer Brand, Clean Linen, 34 Oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.249999998113171
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

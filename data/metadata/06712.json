@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D3OWBR0": {
+            "asin": "B00D3OWBR0",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Toolocity STSC0015 Water Containment Ring for Core Drill Bits",
+            "normalizedName": "Toolocity STSC0015 Water Containment Ring for Core Drill Bits",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B0148U61NW": {
+            "asin": "B0148U61NW",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "name": "Angelstar 49762 I Love My Dog Pawsitive Token, 1-1/4\"",
+            "normalizedName": "Angelstar 49762 I Love My Dog Pawsitive Token, 1-1/4\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.199999998776
+            }
+        },
+        "B01E8B7RFM": {
+            "asin": "B01E8B7RFM",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Fitbit Blaze Bands,TPU Material Bracelet Strap Replacement Band For Fitbit Blaze Smart Fitness Watch",
+            "normalizedName": "Fitbit Blaze Bands,TPU Material Bracelet Strap Replacement Band For Fitbit Blaze Smart Fitness Watch",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

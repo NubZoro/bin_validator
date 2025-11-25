@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003EMKNPS": {
+            "asin": "B003EMKNPS",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Tom's of Maine Moisturizing Bar Daily, 4-Ounces Bars (Pack of 6)",
+            "normalizedName": "(Pack of 6) Tom's of Maine Moisturizing Bar Daily, 4-Ounces Bars",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8299999984653792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

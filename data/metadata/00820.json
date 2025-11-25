@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0012LOQUQ": {
+            "asin": "B0012LOQUQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "American Weigh 100g x 0.01g Digital Scale",
+            "normalizedName": "American Weigh 100g x 0.01g Digital Scale",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00IAC5UKU": {
+            "asin": "B00IAC5UKU",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Spiceologist - Tandoori Glory BBQ Rub and Seasoning - Moroccan Spice Blend - 9 oz.",
+            "normalizedName": "Spiceologist - Tandoori Glory BBQ Rub and Seasoning - Moroccan Spice Blend - 9 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B017DJUZMI": {
+            "asin": "B017DJUZMI",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Premium Miniature Yarn Pack - Pastel Brights Adventure - 8 Acrylic Yarn Skeins - Pastel Colors - Perfect for Any Crochet and Knitting Mini Yarn Project - FREE Ebook",
+            "normalizedName": "Premium Miniature Yarn Pack - Pastel Brights Adventure - 8 Acrylic Yarn Skeins - Pastel Colors - Perfect for Any Crochet and Knitting Mini Yarn Project - FREE Ebook",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3799999996813356
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

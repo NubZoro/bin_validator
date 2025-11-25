@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0027JCRVW": {
+            "asin": "B0027JCRVW",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Zoo Med Sun Dried Large Red Shrimp, 5-Ounce",
+            "normalizedName": "Zoo Med Sun Dried Large Red Shrimp, 5-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B00NPXE7MG": {
+            "asin": "B00NPXE7MG",
+            "height": {
+                "unit": "IN",
+                "value": 2.9921259812
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.4094488144
+            },
+            "name": "Skip Hop Explore and More Click Clack Toy, Hedgehog",
+            "normalizedName": "Skip Hop Explore and More Click Clack Toy, Hedgehog",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.149606296
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

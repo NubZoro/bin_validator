@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007PE7ANY": {
+            "asin": "B007PE7ANY",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "KIND Bars, Dark Chocolate Nuts & Sea Salt, Gluten Free, 1.4 Ounce Bars, 12 Count",
+            "normalizedName": "KIND Bars, Dark Chocolate Nuts & Sea Salt, Gluten Free, 1.4 Ounce Bars, 12 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993777999
+            }
+        },
+        "B0168QL97W": {
+            "asin": "B0168QL97W",
+            "height": {
+                "unit": "IN",
+                "value": 1.76
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.76
+            },
+            "name": "Morex Ribbon Swirl Wired Sheer Glitter, French Wired Nylon, 1 1/2 inches by 50 Yard, Gold/Bronze, Item 7416.40/50-623",
+            "normalizedName": "Morex Ribbon Swirl Wired Sheer Glitter, French Wired Nylon, 1 1/2 inches by 50 Yard, Gold/Bronze, Item 7416.40/50-623",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.76
+            }
+        },
+        "B01DK69P42": {
+            "asin": "B01DK69P42",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Shunjia\u00ae Reinforced Frame Crystal Slim Highly Durable Shock-Absorption Flexible Soft Rubber TPU Bumper Hybrid Protection Light Case for Apple iPhone 6/6S 4.7\" (Blue)",
+            "normalizedName": "Shunjia\u00ae Reinforced Frame Crystal Slim Highly Durable Shock-Absorption Flexible Soft Rubber TPU Bumper Hybrid Protection Light Case for Apple iPhone 6/6S 4.7\" (Blue)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

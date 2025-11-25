@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "032504693X": {
+            "asin": "032504693X",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Notice & Note: Strategies for Close Reading",
+            "normalizedName": "Notice & Note: Strategies for Close Reading",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B0009A40O8": {
+            "asin": "B0009A40O8",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Tyler Perry's Madea's Family Reunion: The Play",
+            "normalizedName": "Tyler Perry's Madea's Family Reunion: The Play",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

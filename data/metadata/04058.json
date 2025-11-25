@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GZY9DS": {
+            "asin": "B000GZY9DS",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Near East Whole Grain Blends, Roasted Pecan & Garlic, with Brown Rice and Bulgur (Pack of 12 Boxes)",
+            "normalizedName": "Pack of 12 Near East Whole Grain Blends, Roasted Pecan & Garlic, with Brown Rice and Bulgur ( Boxes)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00M1UKIMW": {
+            "asin": "B00M1UKIMW",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.899999983782
+            },
+            "name": "TowelSelections Super Soft Plush Bathrobe Fleece Spa Robe for Men Small/Medium Taupe",
+            "normalizedName": "TowelSelections Super Soft Plush Bathrobe Fleece Spa Robe for Men Small/Medium Taupe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

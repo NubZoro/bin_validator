@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1934082848": {
+            "asin": "1934082848",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "My Dad Loves Me! (Marianne Richmond)",
+            "normalizedName": "My Dad Loves Me! (Marianne Richmond)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.77
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00TRR071O": {
+            "asin": "B00TRR071O",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "KeyLine Chargers KC-fused-ring Terminal Connector with Black Universal SAE 2-Pin Quick Disconnect Plug",
+            "normalizedName": "KeyLine Chargers KC-fused-ring Terminal Connector with Black Universal SAE 2-Pin Quick Disconnect Plug",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

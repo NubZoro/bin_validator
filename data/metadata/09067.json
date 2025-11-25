@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0077861833": {
+            "asin": "0077861833",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Children",
+            "normalizedName": "Children",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "0815344546": {
+            "asin": "0815344546",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Essential Cell Biology, 4th Edition",
+            "normalizedName": "Essential Cell Biology, 4th Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00T5HWYFI": {
+            "asin": "B00T5HWYFI",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Brown Paper Food Trays | 250 Count",
+            "normalizedName": "Brown Paper Food Trays | 250 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B0157AAMA0": {
+            "asin": "B0157AAMA0",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "MOTA Mini Farm Tractor Set",
+            "normalizedName": "MOTA Mini Farm Tractor Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B01FXMLCK6": {
+            "asin": "B01FXMLCK6",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "[10 pack] Cat Toys , Zaneeta\u00ae Natural Feather and Sisal Rope Cat Mice Toys.",
+            "normalizedName": "[10 pack] Cat Toys , Zaneeta\u00ae Natural Feather and Sisal Rope Cat Mice Toys.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

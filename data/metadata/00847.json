@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MS4WRVQ": {
+            "asin": "B00MS4WRVQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "iHome Bluetooth Stereo Executive Music Station, Black (IBN10BC)",
+            "normalizedName": "iHome Bluetooth Stereo Executive Music Station, Black (IBN10BC)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.700000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        },
+        "B00QEE2QUI": {
+            "asin": "B00QEE2QUI",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.199999984496
+            },
+            "name": "3 Piece Poly-wicker Oval Nestable Basket Set, Microwavable, and Dishwasher Safe.",
+            "normalizedName": "3 Piece Poly-wicker Oval Nestable Basket Set, Microwavable, and Dishwasher Safe.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

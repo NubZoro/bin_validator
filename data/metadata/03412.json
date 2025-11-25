@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004EKHMXU": {
+            "asin": "B004EKHMXU",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Healthworks USDA Certified Organic 100% Raw Cacao Nibs, 16 Ounce",
+            "normalizedName": "Healthworks USDA Certified Organic 100% Raw Cacao Nibs, 16 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

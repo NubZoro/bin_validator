@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00C0ULS3G": {
+            "asin": "B00C0ULS3G",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Battleship Game",
+            "normalizedName": "Battleship Game",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B00WI0DCUU": {
+            "asin": "B00WI0DCUU",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Queen (9-12 in. Deep) SureGuard Mattress Encasement - 100% Waterproof, Bed Bug Proof, Hypoallergenic - Premium Zippered Six-Sided Cover - 10 Year Warranty",
+            "normalizedName": "Queen (9-12 in. Deep) SureGuard Mattress Encasement - 100% Waterproof, Bed Bug Proof, Hypoallergenic - Premium Zippered Six-Sided Cover - 10 Year Warranty",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3499999971907215
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

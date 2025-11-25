@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0034CHHV6": {
+            "asin": "B0034CHHV6",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "12 x 12 inch - 30 Sheets of Assorted Glossy Colors of Permanent Adhesive-Backed Vinyl for Craft Cutters, Punches and Vinyl Sign Cutters - Vinyl Ease V0101",
+            "normalizedName": "12 x 12 inch - 30 Sheets of Assorted Glossy Colors of Permanent Adhesive-Backed Vinyl for Craft Cutters, Punches and Vinyl Sign Cutters - Vinyl Ease V0101",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B00BCMDX04": {
+            "asin": "B00BCMDX04",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Verdero Vistoso II Molded Cleat Navy/Black Size 10.5",
+            "normalizedName": "Verdero Vistoso II Molded Cleat Navy/Black Size 10.5",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6999999977358056
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

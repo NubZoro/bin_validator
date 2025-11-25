@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MK0ZBAW": {
+            "asin": "B00MK0ZBAW",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.2440944808
+            },
+            "name": "Hot Wheels Star Wars Character Car 2-Pack, Darth Vader vs. Princess Leia",
+            "normalizedName": "2-Pack Hot Wheels Star Wars Character Car , Darth Vader vs. Princess Leia",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2645520140110475
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.5984251942
+            }
+        },
+        "B00PKRX4OW": {
+            "asin": "B00PKRX4OW",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "SUNYEE Universal 2pc 6 Feet Micro USB Charging Data Cable For Samsung Galaxy S3/S4/Note 2 & Other Smartphones (2M/6ft-2pack) (Orange)",
+            "normalizedName": "SUNYEE Universal 2pc 6 Feet Micro USB Charging Data Cable For Samsung Galaxy S3/S4/Note 2 & Other Smartphones (2M/6ft-2pack) (Orange)",
+            "quantity": 16,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 17
+}

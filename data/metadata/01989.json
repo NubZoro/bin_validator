@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00WH1RISM": {
+            "asin": "B00WH1RISM",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Funny Guy Mugs Polka Dot Ceramic Coffee Mug, Black, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Polka Dot Ceramic Coffee Mug, Black, 11-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01FUD5QBE": {
+            "asin": "B01FUD5QBE",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Galaxy S7 Case, S7 Case, [FE] with Newspapers Flower Pattern, PU Leather Flip Wallet Case with Card and Cash Slots, Folio Stand Cover Case for Samsung Galaxy S7",
+            "normalizedName": "Galaxy S7 Case, S7 Case, [FE] with Newspapers Flower Pattern, PU Leather Flip Wallet Case with Card and Cash Slots, Folio Stand Cover Case for Samsung Galaxy S7",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

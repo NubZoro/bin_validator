@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AX30MP2": {
+            "asin": "B00AX30MP2",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Serena 3-Piece Embroidered King Duvet Cover Set, White/Gray",
+            "normalizedName": "Serena 3-Piece Embroidered King Duvet Cover Set, White/Gray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

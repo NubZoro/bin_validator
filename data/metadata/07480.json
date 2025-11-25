@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00296YTMI": {
+            "asin": "B00296YTMI",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Smile Face Heart Relax Balls (dozen)",
+            "normalizedName": "Smile Face Heart Relax Balls (dozen)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B01F8V4BNW": {
+            "asin": "B01F8V4BNW",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Oudio FREESON Certified Lightning to USB Charging Cable",
+            "normalizedName": "Oudio FREESON Certified Lightning to USB Charging Cable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

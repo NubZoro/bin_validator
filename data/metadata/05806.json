@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002VAS5PE": {
+            "asin": "B002VAS5PE",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.480314953
+            },
+            "name": "Dunecraft Spit Balls Header Science Kit",
+            "normalizedName": "Dunecraft Spit Balls Header Science Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.03
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.93700787
+            }
+        },
+        "B00MTEJOZW": {
+            "asin": "B00MTEJOZW",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Kohree Set of 12 Flameless Votive Pillar LED Candles with Remote, Batteries Included",
+            "normalizedName": "Set of 12 Kohree Flameless Votive Pillar LED Candles with Remote, Batteries Included",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

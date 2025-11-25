@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00100LBCK": {
+            "asin": "B00100LBCK",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Watering Cones - 6 Pack",
+            "normalizedName": "6 Pack Watering Cones -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00MI8IDRE": {
+            "asin": "B00MI8IDRE",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "ASUS Sound Card Xonar U5",
+            "normalizedName": "ASUS Sound Card Xonar U5",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

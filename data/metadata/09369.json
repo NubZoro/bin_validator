@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001H37SUO": {
+            "asin": "B001H37SUO",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Country Life Women's Daily Nutrition, 120-Count",
+            "normalizedName": "Country Life Women's Daily Nutrition, 120-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00EQ1W7IC": {
+            "asin": "B00EQ1W7IC",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "General Projector Remote Control For Hitachi CP-X275WT CP-X275WA CP-X300 CP-X301 CP-X3010 CP-X3011 CP-X3W CP-X3030WN",
+            "normalizedName": "General Projector Remote Control For Hitachi CP-X275WT CP-X275WA CP-X300 CP-X301 CP-X3010 CP-X3011 CP-X3W CP-X3030WN",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B014UTLV6I": {
+            "asin": "B014UTLV6I",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Neohomesales Replacement Remote for SONY RM-YD092 LED HDTV REMOTE CONTROL (149206511)",
+            "normalizedName": "Neohomesales Replacement Remote for SONY RM-YD092 LED HDTV REMOTE CONTROL (149206511)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

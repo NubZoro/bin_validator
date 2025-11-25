@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002DYIZHG": {
+            "asin": "B002DYIZHG",
+            "height": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.7637795176
+            },
+            "name": "Optimum Nutrition 100% Whey Gold Standard, Extreme Milk Chocolate, 2 Pound",
+            "normalizedName": "Optimum Nutrition 100% Whey Gold Standard, Extreme Milk Chocolate, 2 Pound",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.425060130468235
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.1417322772
+            }
+        },
+        "B00NGKPS1W": {
+            "asin": "B00NGKPS1W",
+            "height": {
+                "unit": "IN",
+                "value": 2.1000000000000005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.4
+            },
+            "name": "PUMA Men's Fleece Track Jacket, Black/White, Large",
+            "normalizedName": "PUMA Men's Fleece Track Jacket, Black/White, Large",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.6
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

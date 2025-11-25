@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0393246876": {
+            "asin": "0393246876",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Bellow's People: How Saul Bellow Made Life Into Art",
+            "normalizedName": "Bellow's People: How Saul Bellow Made Life Into Art",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.04999999911948
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "039392212X": {
+            "asin": "039392212X",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Worlds Together, Worlds Apart: A History of the World: 1750 to the Present (Fourth Edition)  (Vol. C)",
+            "normalizedName": "Worlds Together, Worlds Apart: A History of the World: 1750 to the Present (Fourth Edition)  (Vol. C)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B003P9XGHW": {
+            "asin": "B003P9XGHW",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Blue Buffalo Healthy Gourmet Canned Cat Food, Flaked Tuna Entr\u00e9e, (Pack of 24 3-Ounce Cans)",
+            "normalizedName": "Pack of 24 Blue Buffalo Healthy Gourmet Canned Cat Food, Flaked Tuna Entr\u00e9e, ( 3-Ounce Cans)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B00766U4Z2": {
+            "asin": "B00766U4Z2",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Festool 498219 XL 14 by 140mm Domino Beech Tenons, 70-Pack",
+            "normalizedName": "70-Pack Festool 498219 XL 14 by 140mm Domino Beech Tenons,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

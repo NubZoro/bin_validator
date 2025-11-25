@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00E1CSEMO": {
+            "asin": "B00E1CSEMO",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.4251968418
+            },
+            "name": "Skullcandy Crusher Headphones with Built-in Amplifier and Mic, Black",
+            "normalizedName": "Skullcandy Crusher Headphones with Built-in Amplifier and Mic, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.10231131
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        },
+        "B00GD3IZ5K": {
+            "asin": "B00GD3IZ5K",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "O'Neill Wetsuits Hammer Shorts, Black, Large",
+            "normalizedName": "O'Neill Wetsuits Hammer Shorts, Black, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

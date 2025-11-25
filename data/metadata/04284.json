@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0830810498": {
+            "asin": "0830810498",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "The Bible Study Handbook: A Comprehensive Guide to an Essential Practice",
+            "normalizedName": "The Bible Study Handbook: A Comprehensive Guide to an Essential Practice",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "0972428216": {
+            "asin": "0972428216",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Moonjar Classic Moneybox: Save, Spend, Share",
+            "normalizedName": "Moonjar Classic Moneybox: Save, Spend, Share",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B004IW5ITO": {
+            "asin": "B004IW5ITO",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Blue Bidet BB-20 Portable Bidet",
+            "normalizedName": "Blue Bidet BB-20 Portable Bidet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B015QWHXWE": {
+            "asin": "B015QWHXWE",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "UP2 by Jawbone Activity + Sleep Tracker, Light Grey Hex (Silver), Classic Flat Strap",
+            "normalizedName": "UP2 by Jawbone Activity + Sleep Tracker, Light Grey Hex (Silver), Classic Flat Strap",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

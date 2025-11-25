@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0425235394": {
+            "asin": "0425235394",
+            "height": {
+                "unit": "IN",
+                "value": 0.72834645595
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.42913384967
+            },
+            "name": "The Lost Throne (Payne & Jones)",
+            "normalizedName": "The Lost Throne (Payne & Jones)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7899964065018067
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.85039369482
+            }
+        },
+        "1118368215": {
+            "asin": "1118368215",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Essentials of Planning, Selecting, and Tailoring Interventions for Unique Learners (Essentials of Psychological Assessment)",
+            "normalizedName": "Essentials of Planning, Selecting, and Tailoring Interventions for Unique Learners (Essentials of Psychological Assessment)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

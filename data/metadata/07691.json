@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003TWX5OY": {
+            "asin": "B003TWX5OY",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.249999982405
+            },
+            "name": "Allen Company Trooper Day Pack (Oakbrush)",
+            "normalizedName": "Allen Company Trooper Day Pack (Oakbrush)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        },
+        "B01AL329K4": {
+            "asin": "B01AL329K4",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Stanbroil LP Propane Gas Fire Pit Stainless Steel Burner Ring Installation Kit, 12-inch",
+            "normalizedName": "Stanbroil LP Propane Gas Fire Pit Stainless Steel Burner Ring Installation Kit, 12-inch",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.049999996603708
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

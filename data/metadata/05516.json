@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0085S0612": {
+            "asin": "B0085S0612",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Quick Dam QD1224-6 Sandless Sandbags, 12-Inch x 24-Inch x 3.5-inch, 6-Pack",
+            "normalizedName": "6-Pack Quick Dam QD1224-6 Sandless Sandbags, 12-Inch x 24-Inch x 3.5-inch,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2000000000000006
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B01GEPGZXU": {
+            "asin": "B01GEPGZXU",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Duel Tech 25 oz Fruit Infuser (Black) Water Bottle",
+            "normalizedName": "Duel Tech 25 oz Fruit Infuser (Black) Water Bottle",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

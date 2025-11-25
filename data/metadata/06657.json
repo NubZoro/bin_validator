@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1429244097": {
+            "asin": "1429244097",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Money, Banking and Financial Markets",
+            "normalizedName": "Money, Banking and Financial Markets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991738
+            }
+        },
+        "B00U26LL96": {
+            "asin": "B00U26LL96",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Mega Bloks Halo UNSC Gungoose",
+            "normalizedName": "Mega Bloks Halo UNSC Gungoose",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

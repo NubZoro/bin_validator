@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FCAHOOS": {
+            "asin": "B00FCAHOOS",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Hoosier Hill Farm Coconut Milk Powder, 8 oz.",
+            "normalizedName": "Hoosier Hill Farm Coconut Milk Powder, 8 oz.",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00RD82N4I": {
+            "asin": "B00RD82N4I",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "ARM & Hammer Essentials Solid Deodorant Fresh 2.5 Oz (Pack of 3)",
+            "normalizedName": "(Pack of 3) ARM & Hammer Essentials Solid Deodorant Fresh 2.5 Oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

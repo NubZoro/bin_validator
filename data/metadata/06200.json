@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00T62YM6G": {
+            "asin": "B00T62YM6G",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Nutro Dog Treats - Peanut - 4 oz",
+            "normalizedName": "Nutro Dog Treats - Peanut - 4 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00UB6UJ22": {
+            "asin": "B00UB6UJ22",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "DenTek Fun Flossers for Kids, Wild Fruit, 75 Count",
+            "normalizedName": "DenTek Fun Flossers for Kids, Wild Fruit, 75 Count",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

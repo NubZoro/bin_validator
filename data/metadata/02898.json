@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003SLM11Y": {
+            "asin": "B003SLM11Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "ZUPREEM 230301 Fruitblend Small Keet Food, 2-Pound",
+            "normalizedName": "ZUPREEM 230301 Fruitblend Small Keet Food, 2-Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B00M8VSKW4": {
+            "asin": "B00M8VSKW4",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Thai Kitchen Organic Coconut Milk, Premium, 13.66 Ounce (Pack of 6)",
+            "normalizedName": "(Pack of 6) Thai Kitchen Organic Coconut Milk, Premium, 13.66 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.5256163456058385
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B010TFQZA4": {
+            "asin": "B010TFQZA4",
+            "height": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Star Wars Furbacca",
+            "normalizedName": "Star Wars Furbacca",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

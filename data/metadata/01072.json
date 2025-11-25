@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0029EXWVO": {
+            "asin": "B0029EXWVO",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.249999991585002
+            },
+            "name": "CAP Barbell Deluxe Tricep V-Bar with Rubber Handgrips",
+            "normalizedName": "CAP Barbell Deluxe Tricep V-Bar with Rubber Handgrips",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.699999996058625
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.249999991585002
+            }
+        },
+        "B00W2XM4IO": {
+            "asin": "B00W2XM4IO",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Primal FPKFD14 Pet Foods Freeze-Dried Feline Pork Formula, 14 oz.",
+            "normalizedName": "Primal FPKFD14 Pet Foods Freeze-Dried Feline Pork Formula, 14 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

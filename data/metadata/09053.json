@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001DZ6TH4": {
+            "asin": "B001DZ6TH4",
+            "height": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Tribest CitriStar CS-1000 Citrus Juicer",
+            "normalizedName": "Tribest CitriStar CS-1000 Citrus Juicer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B012YUJJM8": {
+            "asin": "B012YUJJM8",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Anker 21W 2-Port USB Solar Charger PowerPort Solar for iPhone 6/6 Plus, iPad Air 2/mini 3, Galaxy S6/S6 Edge and More",
+            "normalizedName": "Anker 21W 2-Port USB Solar Charger PowerPort Solar for iPhone 6/6 Plus, iPad Air 2/mini 3, Galaxy S6/S6 Edge and More",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B014LCFD6I": {
+            "asin": "B014LCFD6I",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "AmazonBasics Microfiber Sheet Set - Queen, Grey Stripe",
+            "normalizedName": "AmazonBasics Microfiber Sheet Set - Queen, Grey Stripe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4499999971068624
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00149XVKW": {
+            "asin": "B00149XVKW",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Woodland Scenics SP4120 Foliage and Grasses Diorama Kit",
+            "normalizedName": "Woodland Scenics SP4120 Foliage and Grasses Diorama Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00PG23W84": {
+            "asin": "B00PG23W84",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Darden Restaurants $50 Gift Card",
+            "normalizedName": "Darden Restaurants $50 Gift Card",
+            "quantity": 58,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022045776137471565
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 59
+}

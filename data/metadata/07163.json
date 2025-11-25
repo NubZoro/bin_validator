@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HPZEMR0": {
+            "asin": "B00HPZEMR0",
+            "height": {
+                "unit": "IN",
+                "value": 4.249999995665
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Science Diet Feline Adult Perfect Weight 3 lb",
+            "normalizedName": "Science Diet Feline Adult Perfect Weight 3 lb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.749999992095
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

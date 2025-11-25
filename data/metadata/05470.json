@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006CNY186": {
+            "asin": "B006CNY186",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Knife Sharpener BOJ",
+            "normalizedName": "Knife Sharpener BOJ",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00VQALJS0": {
+            "asin": "B00VQALJS0",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "BR30 LED Bulbs Dimmable 9w, Shine Hai UL-Listed, 60W equivalent, 3000K Soft White LEDLight Bulb, E26 Base, FCC,Energy Star-Qualified, 6-Pack",
+            "normalizedName": "6-Pack BR30 LED Bulbs Dimmable 9w, Shine Hai UL-Listed, 60W equivalent, 3000K Soft White LEDLight Bulb, E26 Base, FCC,Energy Star-Qualified,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4999999999999996
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

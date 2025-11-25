@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000QSIL8E": {
+            "asin": "B000QSIL8E",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "ROMOS1816 - Mosaic Cushion 18X16, w/Hand Pump Cover",
+            "normalizedName": "ROMOS1816 - Mosaic Cushion 18X16, w/Hand Pump Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.69
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B001GFY39C": {
+            "asin": "B001GFY39C",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "BBK 1500 70mm Throttle Body And EGR Spacer Plate Kit - High Flow Power Plus Series for Ford Mustang 5.0L",
+            "normalizedName": "BBK 1500 70mm Throttle Body And EGR Spacer Plate Kit - High Flow Power Plus Series for Ford Mustang 5.0L",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B00BLXZJW4": {
+            "asin": "B00BLXZJW4",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Ortho Bug B Gon Insect Killer for Lawns and Gardens Hose-End Sprayer 32 Fl. Oz.(Kills 230+ Insects Including Mosquitoes, Fleas, Ticks, & Ants. Use in Lawns, Trees, Shrubs, Vegetables, and Fruit Trees)",
+            "normalizedName": "Ortho Bug B Gon Insect Killer for Lawns and Gardens Hose-End Sprayer 32 Fl. Oz.(Kills 230+ Insects Including Mosquitoes, Fleas, Ticks, & Ants. Use in Lawns, Trees, Shrubs, Vegetables, and Fruit Trees)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BR2ERO": {
+            "asin": "B000BR2ERO",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Stanley TR250 SharpShooter Plus Heavy-Duty Staple/Brad Nail Gun",
+            "normalizedName": "Stanley TR250 SharpShooter Plus Heavy-Duty Staple/Brad Nail Gun",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00TUAFKYC": {
+            "asin": "B00TUAFKYC",
+            "height": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "RR Line Coloured or Streaked hair shampoo 33.8 oz",
+            "normalizedName": "RR Line Coloured or Streaked hair shampoo 33.8 oz",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FNFSPY": {
+            "asin": "B000FNFSPY",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.086614166
+            },
+            "name": "TP-LINK 5-Port Fast Ethernet Desktop Switch (TL-SF1005D)",
+            "normalizedName": "TP-LINK 5-Port Fast Ethernet Desktop Switch (TL-SF1005D)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5732018812
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

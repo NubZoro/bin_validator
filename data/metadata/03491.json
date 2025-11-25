@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NL5FSI": {
+            "asin": "B000NL5FSI",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Zune Home AV Pack",
+            "normalizedName": "Zune Home AV Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00ARZZ0DU": {
+            "asin": "B00ARZZ0DU",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Coleman Cable 09542 14/3 STW 15 to 30-Amp RV Adapter Extension Cord with Lighted End, 18-Inch, Black",
+            "normalizedName": "Coleman Cable 09542 14/3 STW 15 to 30-Amp RV Adapter Extension Cord with Lighted End, 18-Inch, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B01ABL9L34": {
+            "asin": "B01ABL9L34",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Disney Whisker Haven Tales with the Palace Pets- Sweetie Tails- Daisy the Puppy",
+            "normalizedName": "Disney Whisker Haven Tales with the Palace Pets- Sweetie Tails- Daisy the Puppy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00265P5MU": {
+            "asin": "B00265P5MU",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Accent Rocks Stone Mini Fountain, Aquarium, Candel Vase Decor, 32 Ounce",
+            "normalizedName": "Accent Rocks Stone Mini Fountain, Aquarium, Candel Vase Decor, 32 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B018QAYM7C": {
+            "asin": "B018QAYM7C",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Samsung Galaxy Tab E 9.6\" 16 GB Wifi (Black)",
+            "normalizedName": "Samsung Galaxy Tab E 9.6\" 16 GB Wifi (Black)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6999999985743957
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006JW4STM": {
+            "asin": "B006JW4STM",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Campbell's Condensed Soup, Old Fashioned Tomato Rice, 11 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Campbell's Condensed Soup, Old Fashioned Tomato Rice, 11 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B01AWENDJS": {
+            "asin": "B01AWENDJS",
+            "height": {
+                "unit": "IN",
+                "value": 4.5669291292
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.5826771566
+            },
+            "name": "Virtual Reality Headset, SIDARDOE 3D VR Glasses for iPhone 6 6s Plus Samsung HTC Sony and Other Android Smartphones Black",
+            "normalizedName": "Virtual Reality Headset, SIDARDOE 3D VR Glasses for iPhone 6 6s Plus Samsung HTC Sony and Other Android Smartphones Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2257576649178537
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.4960629855
+            }
+        },
+        "B01CO2M7HK": {
+            "asin": "B01CO2M7HK",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "FriendlyTomato Xbox One Console and Controller Skin Set - Football NFL - PlayStation 4 Vinyl",
+            "normalizedName": "FriendlyTomato Xbox One Console and Controller Skin Set - Football NFL - PlayStation 4 Vinyl",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004I2I05S": {
+            "asin": "B004I2I05S",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Brother P-touch ~1/2\" (0.47\") White on Black Standard Laminated Tape - 26.2 ft. (8m)",
+            "normalizedName": "Brother P-touch ~1/2\" (0.47\") White on Black Standard Laminated Tape - 26.2 ft. (8m)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00ZTOQA24": {
+            "asin": "B00ZTOQA24",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "GV2 Men's 5 Pack New Aerocool Mesh Breathable Performance Boxer Brief Trunk I S",
+            "normalizedName": "5 Pack GV2 Men's New Aerocool Mesh Breathable Performance Boxer Brief Trunk I S",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B016NWKMU6": {
+            "asin": "B016NWKMU6",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Legend Pushup: Push Up Bars + Stability Trainer",
+            "normalizedName": "Legend Pushup: Push Up Bars + Stability Trainer",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.299999997232651
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

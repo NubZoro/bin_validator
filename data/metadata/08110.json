@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B006SVCY6I": {
+            "asin": "B006SVCY6I",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Generic 32 Pcs Black Rod Makeup Brush Cosmetic Set Kit with Case",
+            "normalizedName": "Generic 32 Pcs Black Rod Makeup Brush Cosmetic Set Kit with Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007PFDUUK": {
+            "asin": "B007PFDUUK",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Eco-Smart Work Gloves, Women's",
+            "normalizedName": "Eco-Smart Work Gloves, Women's",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B00DCBY3SE": {
+            "asin": "B00DCBY3SE",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Horze Hamptons Halter - Size:Pony Color:Peacoat Dark Blue",
+            "normalizedName": "Horze Hamptons Halter - Size:Pony Color:Peacoat Dark Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

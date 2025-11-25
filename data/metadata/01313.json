@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002L7FWV2": {
+            "asin": "B002L7FWV2",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "All Sales 96043K Grille Emblem",
+            "normalizedName": "All Sales 96043K Grille Emblem",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B00G96NOYS": {
+            "asin": "B00G96NOYS",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Best Bottom Training Pants, Bubblegum, X-Large",
+            "normalizedName": "Best Bottom Training Pants, Bubblegum, X-Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00Z7RR70W": {
+            "asin": "B00Z7RR70W",
+            "height": {
+                "unit": "IN",
+                "value": 1.181102361
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7952755826
+            },
+            "name": "Lifeproof N\u00dc\u00dcD SERIES iPhone 6s ONLY Waterproof Case - Retail Packaging - AVALANCE (BRIGHT WHITE/COOL GREY)",
+            "normalizedName": "Lifeproof N\u00dc\u00dcD SERIES iPhone 6s ONLY Waterproof Case - Retail Packaging - AVALANCE (BRIGHT WHITE/COOL GREY)",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968320716
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4881889718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000S5FFPM": {
+            "asin": "B000S5FFPM",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Amazing Gracie (The Tales from Grace Chapel Inn Series #27)",
+            "normalizedName": "Amazing Gracie (The Tales from Grace Chapel Inn Series #27)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B002GDZNE2": {
+            "asin": "B002GDZNE2",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Tyler Glamour Wash Laundry Detergent 32 Oz Kathina",
+            "normalizedName": "Tyler Glamour Wash Laundry Detergent 32 Oz Kathina",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B004P15HWG": {
+            "asin": "B004P15HWG",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Pixy Cubes",
+            "normalizedName": "Pixy Cubes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B00ZK4N3FU": {
+            "asin": "B00ZK4N3FU",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.200000000000001
+            },
+            "name": "Blueblue Sky Peacock Rhinestone Party Clutch with Strap,evening Handbags #1001 (silver)",
+            "normalizedName": "Blueblue Sky Peacock Rhinestone Party Clutch with Strap,evening Handbags #1001 (silver)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.5
+            }
+        },
+        "B0105619US": {
+            "asin": "B0105619US",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Vremi 350 Watt Hand Blender, 4-Blade 8-Speed Immersion Stick with 20 Ounce Travel Bottle (Pink)",
+            "normalizedName": "Vremi 350 Watt Hand Blender, 4-Blade 8-Speed Immersion Stick with 20 Ounce Travel Bottle (Pink)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

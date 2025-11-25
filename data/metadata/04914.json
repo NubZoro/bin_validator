@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015CITDRK": {
+            "asin": "B015CITDRK",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Mr.Lighting Dimmable 7W 4-inch LED Recessed Ceiling Lighting Fixtures, 45W Incandescent Bulb Equivalent, 6000K Daylight, LED Downlight (Budget-friendly, 2 Years Warranty)",
+            "normalizedName": "Mr.Lighting Dimmable 7W 4-inch LED Recessed Ceiling Lighting Fixtures, 45W Incandescent Bulb Equivalent, 6000K Daylight, LED Downlight (Budget-friendly, 2 Years Warranty)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        },
+        "B01CVOGACY": {
+            "asin": "B01CVOGACY",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Fujifilm Instax Mini Instant Film (10 sheets, Zootopia)",
+            "normalizedName": "Fujifilm Instax Mini Instant Film (10 sheets, Zootopia)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

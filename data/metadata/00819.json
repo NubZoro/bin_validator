@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008OFGXEK": {
+            "asin": "B008OFGXEK",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Knorr Caldo De Tomate Mexican Tomato and Chicken Bouillon, 35.3-Ounce",
+            "normalizedName": "Knorr Caldo De Tomate Mexican Tomato and Chicken Bouillon, 35.3-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00SG16TIC": {
+            "asin": "B00SG16TIC",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Parks and Recreation: The Complete Series",
+            "normalizedName": "Parks and Recreation: The Complete Series",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

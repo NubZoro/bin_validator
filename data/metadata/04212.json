@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1565859251": {
+            "asin": "1565859251",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "The Great Courses: Introduction to Judaism",
+            "normalizedName": "The Great Courses: Introduction to Judaism",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B002JPEVMC": {
+            "asin": "B002JPEVMC",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Hydrofarm  AAPA15L 6-Watt 15-LPM Active Aqua Air Pump with 4 Outlets",
+            "normalizedName": "Hydrofarm  AAPA15L 6-Watt 15-LPM Active Aqua Air Pump with 4 Outlets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.949999997526158
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000KT8LF2": {
+            "asin": "B000KT8LF2",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.7637795176
+            },
+            "name": "Faber-Castell Studio Quality 128336 Soft Pastel Crayons Set of 36 in Case",
+            "normalizedName": "Set of 36 Faber-Castell Studio Quality 128336 Soft Pastel Crayons in Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9259320498151443
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.9291338512
+            }
+        },
+        "B0029N2NLU": {
+            "asin": "B0029N2NLU",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.7322834526
+            },
+            "name": "Melissa & Doug Zoo Animals Sound Puzzle",
+            "normalizedName": "Melissa & Doug Zoo Animals Sound Puzzle",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.3464566844
+            }
+        },
+        "B00LLZ8OFQ": {
+            "asin": "B00LLZ8OFQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.0
+            },
+            "name": "Darice 9189-L Solid Wood Letter, Capital L, 9\", Black",
+            "normalizedName": "Darice 9189-L Solid Wood Letter, Capital L, 9\", Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

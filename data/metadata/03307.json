@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VPPJV4": {
+            "asin": "B000VPPJV4",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.99999998368
+            },
+            "name": "Tin Sign Ford Parts , 16x13",
+            "normalizedName": "Tin Sign Ford Parts , 16x13",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.599999987148
+            }
+        },
+        "B008FS8JD4": {
+            "asin": "B008FS8JD4",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Just Chill Tropical,  12 Ounce (Pack of 12)",
+            "normalizedName": "(Pack of 12) Just Chill Tropical,  12 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.199999991446376
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B008TKRDUS": {
+            "asin": "B008TKRDUS",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "LinenTablecloth 120-Inch Round Polyester Tablecloth",
+            "normalizedName": "LinenTablecloth 120-Inch Round Polyester Tablecloth",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        },
+        "B01CPSS8Y4": {
+            "asin": "B01CPSS8Y4",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.599999982048004
+            },
+            "name": "California Champagne Saber Company Sabrage Sword (Blackwood)",
+            "normalizedName": "California Champagne Saber Company Sabrage Sword (Blackwood)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

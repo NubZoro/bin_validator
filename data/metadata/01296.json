@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002NVITW": {
+            "asin": "B0002NVITW",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Poor Boy: Songs of Nick Drake",
+            "normalizedName": "Poor Boy: Songs of Nick Drake",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770752888384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B001LHMVOO": {
+            "asin": "B001LHMVOO",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Artists Favor",
+            "normalizedName": "Artists Favor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770752888384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B002LARSYI": {
+            "asin": "B002LARSYI",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.3543307032
+            },
+            "name": "Out N in",
+            "normalizedName": "Out N in",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        },
+        "B007KL8U0O": {
+            "asin": "B007KL8U0O",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Can't Wait",
+            "normalizedName": "Can't Wait",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770752888384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B00JKIA6GQ": {
+            "asin": "B00JKIA6GQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Bostitch Vertical Electric Pencil Sharpener, Black (EPS5V-BLK)",
+            "normalizedName": "Bostitch Vertical Electric Pencil Sharpener, Black (EPS5V-BLK)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

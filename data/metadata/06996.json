@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00616D8QK": {
+            "asin": "B00616D8QK",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Sega Sonic The Hedgehog X Sonic Knuckles and Cream the Rabbit 3 Plush Doll Stuffed Toy 19 inches (Sonic Plush Doll is 9 inches Only)",
+            "normalizedName": "Sega Sonic The Hedgehog X Sonic Knuckles and Cream the Rabbit 3 Plush Doll Stuffed Toy 19 inches (Sonic Plush Doll is 9 inches Only)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B012VMKFCW": {
+            "asin": "B012VMKFCW",
+            "height": {
+                "unit": "IN",
+                "value": 2.849999997093
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "AmazonBasics Round Fire Pit Cover - 60-Inch",
+            "normalizedName": "AmazonBasics Round Fire Pit Cover - 60-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.749999997693876
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

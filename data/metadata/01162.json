@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0521899079": {
+            "asin": "0521899079",
+            "height": {
+                "unit": "IN",
+                "value": 2.4409448794
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "The Cambridge History of the American Novel",
+            "normalizedName": "The Cambridge History of the American Novel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.54
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.2204724346
+            }
+        },
+        "0714827916": {
+            "asin": "0714827916",
+            "height": {
+                "unit": "IN",
+                "value": 0.7086614166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.6062992028
+            },
+            "name": "Topics of Our Time",
+            "normalizedName": "Topics of Our Time",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2345760664201924
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.692913379
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

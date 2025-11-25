@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000S5TH2Y": {
+            "asin": "B000S5TH2Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "GWS 2000 Pro Hunter Sight Fiber Optic",
+            "normalizedName": "GWS 2000 Pro Hunter Sight Fiber Optic",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

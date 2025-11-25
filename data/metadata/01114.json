@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002VY53QE": {
+            "asin": "B002VY53QE",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "StarTech.com 6 ft Power Extension Cord - NEMA 5-15R to NEMA 5-15P - 16 AWG Power Extension Cable Cord - 125 Volts at 13 Amps - SJT - 6ft",
+            "normalizedName": "StarTech.com 6 ft Power Extension Cord - NEMA 5-15R to NEMA 5-15P - 16 AWG Power Extension Cable Cord - 125 Volts at 13 Amps - SJT - 6ft",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B018APC4LE": {
+            "asin": "B018APC4LE",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "In Ear Headphones, Otium\u00ae Wireless Earbuds -Sport Sweatproof -Stereo with Bass, Noise Cancelling -Ergonomic Design, Secure Fit -In-Ear Headsets Bluetooth V4.1 \u2013Red",
+            "normalizedName": "In Ear Headphones, Otium\u00ae Wireless Earbuds -Sport Sweatproof -Stereo with Bass, Noise Cancelling -Ergonomic Design, Secure Fit -In-Ear Headsets Bluetooth V4.1 \u2013Red",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

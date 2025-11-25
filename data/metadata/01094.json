@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009P2SU2O": {
+            "asin": "B009P2SU2O",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Fritos Hot Bean Dip With Jalapeno Peppers 9 oz. (Pack of 3)",
+            "normalizedName": "(Pack of 3) Fritos Hot Bean Dip With Jalapeno Peppers 9 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B00QQNKW76": {
+            "asin": "B00QQNKW76",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Factor55 ProLink Loaded Shackle Mount With Titanium Pin & Rubber Guard (16,000 Lbs) - Black",
+            "normalizedName": "Factor55 ProLink Loaded Shackle Mount With Titanium Pin & Rubber Guard (16,000 Lbs) - Black",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.49
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00R6J45RC": {
+            "asin": "B00R6J45RC",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Factor 55 00050-04 Flatlink Shackle Mount - Black",
+            "normalizedName": "Factor 55 00050-04 Flatlink Shackle Mount - Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000HS4X0I": {
+            "asin": "B000HS4X0I",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Rothco 9'' Steel Toe Combat Boot, Black, 12",
+            "normalizedName": "Rothco 9'' Steel Toe Combat Boot, Black, 12",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B000QCMESS": {
+            "asin": "B000QCMESS",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Irish Barbie - Dolls of the World Collection",
+            "normalizedName": "Irish Barbie - Dolls of the World Collection",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B002TMT8Q4": {
+            "asin": "B002TMT8Q4",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.699999983986
+            },
+            "name": "Fantastic Four Marvel Comics Distressed Retro Vintage Tin Sign",
+            "normalizedName": "Fantastic Four Marvel Comics Distressed Retro Vintage Tin Sign",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999987658
+            }
+        },
+        "B015T72OEI": {
+            "asin": "B015T72OEI",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Giro Mens Apeckx II HV Black/Bright Red 45 (US Men's 11) D - Medium",
+            "normalizedName": "Giro Mens Apeckx II HV Black/Bright Red 45 (US Men's 11) D - Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GCTAQ2": {
+            "asin": "B000GCTAQ2",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "name": "Dax Bees-Wax, 14 Ounce",
+            "normalizedName": "Dax Bees-Wax, 14 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B002QMJ33A": {
+            "asin": "B002QMJ33A",
+            "height": {
+                "unit": "IN",
+                "value": 1.9
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.7
+            },
+            "name": "Nature's Bounty Lutein (Naturally Contains Zeaxanthin) 40 mg, 30 Softgels",
+            "normalizedName": "Nature's Bounty Lutein (Naturally Contains Zeaxanthin) 40 mg, 30 Softgels",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.9
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

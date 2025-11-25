@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OQUZ816": {
+            "asin": "B00OQUZ816",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "2-Count Franklin Bells Office Desk Call Bell *Value Pack*",
+            "normalizedName": "2-Count Franklin Bells Office Desk Call Bell *Value Pack*",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645638
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01693B4WY": {
+            "asin": "B01693B4WY",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Cutee - Wine Bottle Opener and Pourer/Stopper Set, Pink Color Cute Fashionable Wing Corkscrew Opener, Premium Zinc Alloy with Stylish Chrome Finish",
+            "normalizedName": "Cutee - Wine Bottle Opener and Pourer/Stopper Set, Pink Color Cute Fashionable Wing Corkscrew Opener, Premium Zinc Alloy with Stylish Chrome Finish",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

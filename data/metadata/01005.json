@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0043IS18I": {
+            "asin": "B0043IS18I",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Dreambaby Stroller Fan, White/Blue",
+            "normalizedName": "Dreambaby Stroller Fan, White/Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00OBGVMW4": {
+            "asin": "B00OBGVMW4",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Hefty Drawstring Multipurpose Bags, 30 Gallon, 56 Count",
+            "normalizedName": "Hefty Drawstring Multipurpose Bags, 30 Gallon, 56 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

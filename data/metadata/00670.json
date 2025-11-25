@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002XJVOCE": {
+            "asin": "B002XJVOCE",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "BIC Refill for 4-Color Retractable Ballpoint Pen, Red/Blue/Green/Black, 4 per Pack (BICFRM41)",
+            "normalizedName": "4 per Pack BIC Refill for 4-Color Retractable Ballpoint Pen, Red/Blue/Green/Black, (BICFRM41)",
+            "quantity": 31,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.06
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B00N2VISLW": {
+            "asin": "B00N2VISLW",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "AmazonBasics\u00a0RJ45\u00a0Cat-6 Ethernet\u00a0Patch Cable -\u00a03\u00a0Feet (0.9\u00a0Meters)",
+            "normalizedName": "AmazonBasics\u00a0RJ45\u00a0Cat-6 Ethernet\u00a0Patch Cable -\u00a03\u00a0Feet (0.9\u00a0Meters)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 33
+}

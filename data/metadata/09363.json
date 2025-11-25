@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1454919728": {
+            "asin": "1454919728",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.5275590454
+            },
+            "name": "The Feelgood Plan: Happier, Healthier & Slimmer in 15 Minutes a Day",
+            "normalizedName": "The Feelgood Plan: Happier, Healthier & Slimmer in 15 Minutes a Day",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6754960887366348
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.7952755826
+            }
+        },
+        "B009P4MX3Y": {
+            "asin": "B009P4MX3Y",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Atomic FireBall 240 Pieces 4.05lb",
+            "normalizedName": "Atomic FireBall 240 Pieces 4.05lb",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B01H0J00O4": {
+            "asin": "B01H0J00O4",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.0
+            },
+            "name": "Unik Case - 2 in 1 Bundle-Black Paper Fiber Universal Sleeve Case Bag with Black USB Optical Mouse for All 13\" 13-Inch Laptop/Apple Macbook/Surface Pro/Razor Stealth/Ultrabook/Chromebook",
+            "normalizedName": "Unik Case - 2 in 1 Bundle-Black Paper Fiber Universal Sleeve Case Bag with Black USB Optical Mouse for All 13\" 13-Inch Laptop/Apple Macbook/Surface Pro/Razor Stealth/Ultrabook/Chromebook",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 9.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

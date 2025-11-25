@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0205342469": {
+            "asin": "0205342469",
+            "height": {
+                "unit": "IN",
+                "value": 1.09842519573
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.20078739219
+            },
+            "name": "Educational Facilities Planning: Leadership, Architecture, and Management",
+            "normalizedName": "Educational Facilities Planning: Leadership, Architecture, and Management",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.000033640864
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.5984251891
+            }
+        },
+        "0764350587": {
+            "asin": "0764350587",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "The Avalonian Oracle: Spiritual Wisdom from the Holy Isle",
+            "normalizedName": "The Avalonian Oracle: Spiritual Wisdom from the Holy Isle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "0814417957": {
+            "asin": "0814417957",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "The Enemy of Engagement: Put an End to Workplace Frustration--and Get the Most from Your Employees",
+            "normalizedName": "The Enemy of Engagement: Put an End to Workplace Frustration--and Get the Most from Your Employees",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        },
+        "B00HURC6GM": {
+            "asin": "B00HURC6GM",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Creamette Pasta Rings Small 7 Ounce Box (Pkg. Of 3)",
+            "normalizedName": "Creamette Pasta Rings Small 7 Ounce Box (Pkg. Of 3)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

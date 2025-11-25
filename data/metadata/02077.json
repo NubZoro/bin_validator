@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00772SCHM": {
+            "asin": "B00772SCHM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Obagi Nu Derm Clear FX Skin Brightening Cream, 2 Ounce",
+            "normalizedName": "Obagi Nu Derm Clear FX Skin Brightening Cream, 2 Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00QFVF3IC": {
+            "asin": "B00QFVF3IC",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "EcoAqua WF1CB-EFF-3PK Replacement for Frigidaire WFCB/WF1CB, 3-Pack",
+            "normalizedName": "3-Pack EcoAqua WF1CB-EFF-3PK Replacement for Frigidaire WFCB/WF1CB,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

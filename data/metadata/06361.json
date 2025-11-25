@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00WNSE9KE": {
+            "asin": "B00WNSE9KE",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Hyperikon BR30 LED Bulb, 9W (65W equivalent), 4000K (Daylight White), Wide Flood Light Bulb, 120\u00b0 Beam Angle, Medium Base (E26), Dimmable, UL Listed - (Pack of 4)",
+            "normalizedName": "(Pack of 4) Hyperikon BR30 LED Bulb, 9W (65W equivalent), 4000K (Daylight White), Wide Flood Light Bulb, 120\u00b0 Beam Angle, Medium Base (E26), Dimmable, UL Listed -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B00WRS110G": {
+            "asin": "B00WRS110G",
+            "height": {
+                "unit": "IN",
+                "value": 5.700000000000002
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.2
+            },
+            "name": "The Sak Deena Crossbody Bag, Teal, One Size",
+            "normalizedName": "The Sak Deena Crossbody Bag, Teal, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4499999979454534
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

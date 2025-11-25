@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001MQ31YS": {
+            "asin": "B001MQ31YS",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452
+            },
+            "name": "Laptop AC Power Supply for Gateway MA1 MA2 MA2A MA3 MA7 Solo 6022GZ 3550GZ",
+            "normalizedName": "Laptop AC Power Supply for Gateway MA1 MA2 MA2A MA3 MA7 Solo 6022GZ 3550GZ",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B003WIZTQC": {
+            "asin": "B003WIZTQC",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Kitchen Grips 2-Piece Long Handle Pan Holder, Black",
+            "normalizedName": "Kitchen Grips 2-Piece Long Handle Pan Holder, Black",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B004XJ7WSM": {
+            "asin": "B004XJ7WSM",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Spinrite Baby Sport Big Ball Yarn, Ombres, Pyjama Party",
+            "normalizedName": "Spinrite Baby Sport Big Ball Yarn, Ombres, Pyjama Party",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005FQEIYS": {
+            "asin": "B005FQEIYS",
+            "height": {
+                "unit": "IN",
+                "value": 1.968503935
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.267716527
+            },
+            "name": "Catwalk By Tigi - Straight Collection Mystique Set Of 2 - Glossing Shampoo 300ml & Calming Conditioner 250ml",
+            "normalizedName": "Set Of 2 Catwalk By Tigi - Straight Collection Mystique - Glossing Shampoo 300ml & Calming Conditioner 250ml",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.455036078280941
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.7007873978
+            }
+        },
+        "B00JNRC1XA": {
+            "asin": "B00JNRC1XA",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Tazo Flavored Organic Bramblewine Green Rooibos and Green Tea Blend, 20 Filter Bags, 1.7 Oz.",
+            "normalizedName": "Tazo Flavored Organic Bramblewine Green Rooibos and Green Tea Blend, 20 Filter Bags, 1.7 Oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01ASI0UH6": {
+            "asin": "B01ASI0UH6",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Mucinex Fast-Max Adult Caplets Night Time Cold and Flu Cough Suppressant Pain Reliever, 20 Count- Pack of 3",
+            "normalizedName": "Pack of 3 Mucinex Fast-Max Adult Caplets Night Time Cold and Flu Cough Suppressant Pain Reliever, 20 Count-",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

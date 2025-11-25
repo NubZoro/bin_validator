@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002TT36G": {
+            "asin": "B0002TT36G",
+            "height": {
+                "unit": "IN",
+                "value": 2.8346456664
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.7322834526
+            },
+            "name": "Ultra Pro 3\" Collectors Album (Black)",
+            "normalizedName": "Ultra Pro 3\" Collectors Album (Black)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5432200817311106
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.417322823
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

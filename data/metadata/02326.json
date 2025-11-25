@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HQMDZHA": {
+            "asin": "B00HQMDZHA",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "name": "Deco Art Americana Decor Creme Wax, 8-Ounce, Clear",
+            "normalizedName": "Deco Art Americana Decor Creme Wax, 8-Ounce, Clear",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B014JRU1IA": {
+            "asin": "B014JRU1IA",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Liquid Leather Repair Kit: 7 Color, No-Heat, Fast Drying, Professional Leather & Vinyl Furniture, Car Seats, Jacket, Boots and Purse Repair Solution",
+            "normalizedName": "Liquid Leather Repair Kit: 7 Color, No-Heat, Fast Drying, Professional Leather & Vinyl Furniture, Car Seats, Jacket, Boots and Purse Repair Solution",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

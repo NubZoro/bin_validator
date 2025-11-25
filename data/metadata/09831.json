@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008H5B94Q": {
+            "asin": "B008H5B94Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.8799999960424
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8799999929824
+            },
+            "name": "Repel 100 Insect Repellent, 4 oz. Pump Spray, 6 Bottles",
+            "normalizedName": "Repel 100 Insect Repellent, 4 oz. Pump Spray, 6 Bottles",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00DHF39HQ": {
+            "asin": "B00DHF39HQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "Elder Scrolls Online: Tamriel Unlimited - PlayStation 4",
+            "normalizedName": "Elder Scrolls Online: Tamriel Unlimited - PlayStation 4",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400467034919
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.3543307032
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

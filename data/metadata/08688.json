@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004IR3044": {
+            "asin": "B004IR3044",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Scotch-Brite Heavy Duty Scrub Sponge, 6-Count",
+            "normalizedName": "Scotch-Brite Heavy Duty Scrub Sponge, 6-Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B01738OYXK": {
+            "asin": "B01738OYXK",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "iPerfect 3in1 Thunderbolt Mini Displayport Mini DP to HDMI VGA DVI Adapter Cable Converter Adaptor For Apple Macbook Pro Imac Macbook Air Mac Mini Laptop",
+            "normalizedName": "iPerfect 3in1 Thunderbolt Mini Displayport Mini DP to HDMI VGA DVI Adapter Cable Converter Adaptor For Apple Macbook Pro Imac Macbook Air Mac Mini Laptop",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7799999993458994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B01AY6G3ZA": {
+            "asin": "B01AY6G3ZA",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "iPhone 6 Plus, iPhone 6S Plus Case, Cellularvilla [Dual Layer Protective ] Luxury Bling Jewel Rock Crystal Rhinestone Diamond Case Cover for Apple iPhone 6 Plus / 6S Plus 5.5 inch (Champagne Gold)",
+            "normalizedName": "iPhone 6 Plus, iPhone 6S Plus Case, Cellularvilla [Dual Layer Protective ] Luxury Bling Jewel Rock Crystal Rhinestone Diamond Case Cover for Apple iPhone 6 Plus / 6S Plus 5.5 inch (Champagne Gold)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

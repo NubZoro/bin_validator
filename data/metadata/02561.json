@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00005AUK5": {
+            "asin": "B00005AUK5",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Village of the Giants",
+            "normalizedName": "Village of the Giants",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        },
+        "B00006HMPK": {
+            "asin": "B00006HMPK",
+            "height": {
+                "unit": "IN",
+                "value": 4.09842519267
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Logitech QuickCam Pro 4000",
+            "normalizedName": "Logitech QuickCam Pro 4000",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3000218665616
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.09842518757
+            }
+        },
+        "B00365QS9I": {
+            "asin": "B00365QS9I",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452
+            },
+            "name": "Trapped/Panic Room",
+            "normalizedName": "Trapped/Panic Room",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B008TMIO2M": {
+            "asin": "B008TMIO2M",
+            "height": {
+                "unit": "IN",
+                "value": 2.8999999970420003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186
+            },
+            "name": "Nutella, 26.5 Ounce Jar(Plastic)",
+            "normalizedName": "Nutella, 26.5 Ounce Jar(Plastic)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905373
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00O4GAE8Y": {
+            "asin": "B00O4GAE8Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "SoundBlock Wireless Bluetooth Stereo Speaker for Computers & Smartphones - Bluetooth 3.0 Technology with Built-in Speakerphone and 10 Hour Rechargeable Battery - Grey",
+            "normalizedName": "SoundBlock Wireless Bluetooth Stereo Speaker for Computers & Smartphones - Bluetooth 3.0 Technology with Built-in Speakerphone and 10 Hour Rechargeable Battery - Grey",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

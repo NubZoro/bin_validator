@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004Y6EEEY": {
+            "asin": "B004Y6EEEY",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Learning Wrap-ups, 10 Days to Subtraction Mastery, Box Set",
+            "normalizedName": "Learning Wrap-ups, 10 Days to Subtraction Mastery, Box Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B0057VQXN0": {
+            "asin": "B0057VQXN0",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822
+            },
+            "name": "PLAYMOBIL Rescue Ambulance",
+            "normalizedName": "PLAYMOBIL Rescue Ambulance",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

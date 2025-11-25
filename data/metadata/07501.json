@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0028IN0VS": {
+            "asin": "B0028IN0VS",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.749999989035
+            },
+            "name": "Clorox 2 Stain Fighter & Color Booster - Original (Liquid)",
+            "normalizedName": "Clorox 2 Stain Fighter & Color Booster - Original (Liquid)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.84991987270639
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.749999993115
+            }
+        },
+        "B007Q2JOS4": {
+            "asin": "B007Q2JOS4",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Wonderful Christmas 1000 Piece Puzzle - Original Artwork by Paul Landry",
+            "normalizedName": "Wonderful Christmas 1000 Piece Puzzle - Original Artwork by Paul Landry",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B00FB5VIF0": {
+            "asin": "B00FB5VIF0",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Brain Quest - States Game",
+            "normalizedName": "Brain Quest - States Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B015RNTCRG": {
+            "asin": "B015RNTCRG",
+            "height": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.0
+            },
+            "name": "Monarch Int'l 265058-HMR. PAT Rain Chains Pure Copper Patina Hammered Bowl and Ring, 8.5', Green",
+            "normalizedName": "Monarch Int'l 265058-HMR. PAT Rain Chains Pure Copper Patina Hammered Bowl and Ring, 8.5', Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.25
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

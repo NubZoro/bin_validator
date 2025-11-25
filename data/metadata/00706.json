@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ATZ9K0C": {
+            "asin": "B00ATZ9K0C",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Canon PGI-250XL Black Twin Value Pack",
+            "normalizedName": "Canon PGI-250XL Black Twin Value Pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00O070BMG": {
+            "asin": "B00O070BMG",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Amphenol CO-058BNCX200-001 Black RG58 Coaxial Cable, 50 Ohm, BNC Male to BNC Male, 1'",
+            "normalizedName": "Amphenol CO-058BNCX200-001 Black RG58 Coaxial Cable, 50 Ohm, BNC Male to BNC Male, 1'",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

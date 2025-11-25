@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002LCUZK": {
+            "asin": "B0002LCUZK",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Smead Poly Frequency Expanding File, 12 Pockets, Flap and Cord Closure, Letter Size, Blue/Black ( 70863)",
+            "normalizedName": "Smead Poly Frequency Expanding File, 12 Pockets, Flap and Cord Closure, Letter Size, Blue/Black ( 70863)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B000T8GC1O": {
+            "asin": "B000T8GC1O",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Ultra Force G.I. Style Double-Strap Duffle Bag - Black,22\" x 38\"",
+            "normalizedName": "Ultra Force G.I. Style Double-Strap Duffle Bag - Black,22\" x 38\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B00ELHNIG6": {
+            "asin": "B00ELHNIG6",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Pennzoil 550038340 High Mileage Vehicle 5W-30 Motor Oil (SN) 5qt jug",
+            "normalizedName": "Pennzoil 550038340 High Mileage Vehicle 5W-30 Motor Oil (SN) 5qt jug",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.49999999203339
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

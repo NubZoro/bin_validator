@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001J6O0HI": {
+            "asin": "B001J6O0HI",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Panasonic WES9020PC Electric Razor Replacement Inner Blade and Outer Foil Set for Men",
+            "normalizedName": "Panasonic WES9020PC Electric Razor Replacement Inner Blade and Outer Foil Set for Men",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B014H2OZJS": {
+            "asin": "B014H2OZJS",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Philips 456186 Hue White and Color Ambiance Extension A19 Bulbs, 2nd Generation",
+            "normalizedName": "Philips 456186 Hue White and Color Ambiance Extension A19 Bulbs, 2nd Generation",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01AKOJTZM": {
+            "asin": "B01AKOJTZM",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Cross Sports Compression Copper Knee Sleeve (X-Large)",
+            "normalizedName": "Cross Sports Compression Copper Knee Sleeve (X-Large)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

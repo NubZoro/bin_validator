@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000Y60O4C": {
+            "asin": "B000Y60O4C",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.599999983068
+            },
+            "name": "Littlest Pet Shop Tricks N Talents Show With 7 pets (2 Dogs, 2 cats, butterfly, monkey and pony)",
+            "normalizedName": "Littlest Pet Shop Tricks N Talents Show With 7 pets (2 Dogs, 2 cats, butterfly, monkey and pony)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.599999989188
+            }
+        },
+        "B00JIKPW74": {
+            "asin": "B00JIKPW74",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Kiss My Face Anti Cavity Whitening Toothpaste, Fluoride Toothpaste, 4.5 Ounce",
+            "normalizedName": "Kiss My Face Anti Cavity Whitening Toothpaste, Fluoride Toothpaste, 4.5 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            }
+        },
+        "B00OTY6SLS": {
+            "asin": "B00OTY6SLS",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Delta Faucet 2564-MPU-DST Ashlyn Two Handle Centerset Lavatory Faucet, Chrome",
+            "normalizedName": "Delta Faucet 2564-MPU-DST Ashlyn Two Handle Centerset Lavatory Faucet, Chrome",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.700000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

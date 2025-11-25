@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000IXIH5O": {
+            "asin": "B000IXIH5O",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Bianchi Accumold 7323 Adjustable Black Radio Pouch (Size: 1)",
+            "normalizedName": "Bianchi Accumold 7323 Adjustable Black Radio Pouch (Size: 1)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00N19EAIA": {
+            "asin": "B00N19EAIA",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Full Circle Scrap Happy Scrap Collector and Freezer Compost Bin, Slate",
+            "normalizedName": "Full Circle Scrap Happy Scrap Collector and Freezer Compost Bin, Slate",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008F8CNUY": {
+            "asin": "B008F8CNUY",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Tassimo Corner Coffeehouse Sweet Latte, Caramel, 16-Count (8 Coffee + 8 Creamer)",
+            "normalizedName": "Tassimo Corner Coffeehouse Sweet Latte, Caramel, 16-Count (8 Coffee + 8 Creamer)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00VJKTFA6": {
+            "asin": "B00VJKTFA6",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Fisher-Price - Disney Minnie - Rainbow Dazzle Minnie",
+            "normalizedName": "Fisher-Price - Disney Minnie - Rainbow Dazzle Minnie",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.099999986638
+            }
+        },
+        "B012YILHQ6": {
+            "asin": "B012YILHQ6",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.899999982761997
+            },
+            "name": "Disney Parks Attractionistas Gracey Haunted Mansion 12 in Doll with Grimm",
+            "normalizedName": "Disney Parks Attractionistas Gracey Haunted Mansion 12 in Doll with Grimm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

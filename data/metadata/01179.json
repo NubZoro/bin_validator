@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002UVGD6M": {
+            "asin": "B002UVGD6M",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Cintz 2\" Field Cone Markers, Set of 12",
+            "normalizedName": "Set of 12 Cintz 2\" Field Cone Markers,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B01BB8R70K": {
+            "asin": "B01BB8R70K",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Dog Knit Sweater Pullover Valentines Various Designs",
+            "normalizedName": "Dog Knit Sweater Pullover Valentines Various Designs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

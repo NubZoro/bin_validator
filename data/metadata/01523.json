@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0042VJSO2": {
+            "asin": "B0042VJSO2",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Wilton Bridal Shower Fun Invitations",
+            "normalizedName": "Wilton Bridal Shower Fun Invitations",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994288
+            }
+        },
+        "B00MRZIGWA": {
+            "asin": "B00MRZIGWA",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Munchkin Miracle 360 Trainer Cup, Pink/Orange, 7 Ounce, 2 Count",
+            "normalizedName": "Munchkin Miracle 360 Trainer Cup, Pink/Orange, 7 Ounce, 2 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00QEGP4JQ": {
+            "asin": "B00QEGP4JQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Sea Salt Spray for Hair - Texturizing Spray for Hair Styling Beach Waves, 5.7 Oz",
+            "normalizedName": "Sea Salt Spray for Hair - Texturizing Spray for Hair Styling Beach Waves, 5.7 Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

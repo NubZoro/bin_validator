@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009KU344A": {
+            "asin": "B009KU344A",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.749999991075
+            },
+            "name": "Toysmith Ink-a-Do Tattoo Pens",
+            "normalizedName": "Toysmith Ink-a-Do Tattoo Pens",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01CNYHUYY": {
+            "asin": "B01CNYHUYY",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Home Basics 2 Piece Scarf Hanger, Flower (Turquoise)",
+            "normalizedName": "Home Basics 2 Piece Scarf Hanger, Flower (Turquoise)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

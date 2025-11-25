@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OCCHJV0": {
+            "asin": "B00OCCHJV0",
+            "height": {
+                "unit": "IN",
+                "value": 3.9
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.9
+            },
+            "name": "Powerextra 2 Pack High Capacity 3000mAh Black & Decker 18V Replacement Battery for HPB18 HPB18-OPE 244760-00 A1718 A18 A18E Firestorm FS180BX FS18BX FS18FL FSB18 NST2118",
+            "normalizedName": "2 Pack Powerextra High Capacity 3000mAh Black & Decker 18V Replacement Battery for HPB18 HPB18-OPE 244760-00 A1718 A18 A18E Firestorm FS180BX FS18BX FS18FL FSB18 NST2118",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.9
+            }
+        },
+        "B011PZ9ZMC": {
+            "asin": "B011PZ9ZMC",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Verbatim M-Disc DVDR 4.7 GB 4X with Branded Surface - 5 Pack Jewel Case 98899",
+            "normalizedName": "5 Pack Verbatim M-Disc DVDR 4.7 GB 4X with Branded Surface - Jewel Case 98899",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

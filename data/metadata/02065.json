@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001L1RE8S": {
+            "asin": "B001L1RE8S",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Smead Pressboard Classification File Folder with SafeSHIELD\u00ae Fasteners, 2 Dividers, 2\" Expansion, Letter Size, Blue, 10 per Box (14030)",
+            "normalizedName": "Smead Pressboard Classification File Folder with SafeSHIELD\u00ae Fasteners, 2 Dividers, 2\" Expansion, Letter Size, Blue, 10 per Box (14030)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B0051GN8SY": {
+            "asin": "B0051GN8SY",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Power Acoustik PTID-8920 In-Dash DVD AM/FM Receiver with 7-Inch Flip-Out Touchscreen Monitor with USB/SD Input",
+            "normalizedName": "Power Acoustik PTID-8920 In-Dash DVD AM/FM Receiver with 7-Inch Flip-Out Touchscreen Monitor with USB/SD Input",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

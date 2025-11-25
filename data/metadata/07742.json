@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0036F7EX2": {
+            "asin": "B0036F7EX2",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "CMT 998.001.03 Formula 2050 Blade and Bit Cleaner, 1-Gallon Plastic Jug",
+            "normalizedName": "CMT 998.001.03 Formula 2050 Blade and Bit Cleaner, 1-Gallon Plastic Jug",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B00A8O1R9Q": {
+            "asin": "B00A8O1R9Q",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "The Honest Kitchen Keen: Turkey & Whole Grain Dog Food, 10 lb",
+            "normalizedName": "The Honest Kitchen Keen: Turkey & Whole Grain Dog Food, 10 lb",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.249999991404446
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

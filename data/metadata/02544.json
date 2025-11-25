@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007RFSQDO": {
+            "asin": "B007RFSQDO",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Donut House Coffee, K-Cup Portion Pack for Keurig K-Cup Brewers, Light Roast 12-Count",
+            "normalizedName": "Donut House Coffee, K-Cup Portion Pack for Keurig K-Cup Brewers, Light Roast 12-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00V7M9YQQ": {
+            "asin": "B00V7M9YQQ",
+            "height": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.299999985414
+            },
+            "name": "Advanced Humidifier with LED Display, TaoTronics Ultrasonic Humidifier Cool Mist with No Noise, Mist Level Control, and Timer Setting",
+            "normalizedName": "Advanced Humidifier with LED Display, TaoTronics Ultrasonic Humidifier Cool Mist with No Noise, Mist Level Control, and Timer Setting",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.7999999959747655
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

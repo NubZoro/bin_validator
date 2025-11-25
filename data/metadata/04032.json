@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002P1CKGO": {
+            "asin": "B002P1CKGO",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.199999984496
+            },
+            "name": "Fjallraven Kanken Daypack, Brick",
+            "normalizedName": "Fjallraven Kanken Daypack, Brick",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B003N3L1EA": {
+            "asin": "B003N3L1EA",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "In the Breeze U.S. Navy Emblem Windsock, 40-Inch",
+            "normalizedName": "In the Breeze U.S. Navy Emblem Windsock, 40-Inch",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B00WLLL1HW": {
+            "asin": "B00WLLL1HW",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.399999983272
+            },
+            "name": "Bauxko 9\" x 30\" Flat Poly Bags, 3 Mil, 100-Pack (xPB832-100)",
+            "normalizedName": "100-Pack Bauxko 9\" x 30\" Flat Poly Bags, 3 Mil, (xPB832-100)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.449999995429681
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B01BYUXZY2": {
+            "asin": "B01BYUXZY2",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Auburn Tigers Ceramic Collegiate Piggy Bank",
+            "normalizedName": "Auburn Tigers Ceramic Collegiate Piggy Bank",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

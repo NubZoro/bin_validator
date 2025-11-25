@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003YV0I54": {
+            "asin": "B003YV0I54",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Atopalm Moisturzing Skin Revitalizing Complex, 1- Ounce",
+            "normalizedName": "Atopalm Moisturzing Skin Revitalizing Complex, 1- Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B00NLEO1Q6": {
+            "asin": "B00NLEO1Q6",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Hacking: The Art of Exploitation 2nd Edition",
+            "normalizedName": "Hacking: The Art of Exploitation 2nd Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6499999999999995
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

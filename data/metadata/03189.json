@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001TSNM34": {
+            "asin": "B001TSNM34",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Selsun Blue Dandruff Shampoo, Moisturizing with Aloe for Dry Scalp and Hair, 11 Ounce",
+            "normalizedName": "Selsun Blue Dandruff Shampoo, Moisturizing with Aloe for Dry Scalp and Hair, 11 Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B017AQWNE2": {
+            "asin": "B017AQWNE2",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Christrio UV Gel Nail Dryer LED Lamp",
+            "normalizedName": "Christrio UV Gel Nail Dryer LED Lamp",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

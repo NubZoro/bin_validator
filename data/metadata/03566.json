@@ -1,0 +1,40 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00YYUJ40Y": {
+            "asin": "B00YYUJ40Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "AMA_TRULYSTEP New GUN Barrel Rope Cleaner .17 .22 Cal .308 .380 9mm Caliber 12 20 28 Gauge Rifle/Pistol/Shotgun (G01 : 12 GA Gauge)",
+            "normalizedName": "AMA_TRULYSTEP New GUN Barrel Rope Cleaner .17 .22 Cal .308 .380 9mm Caliber 12 20 28 Gauge Rifle/Pistol/Shotgun (G01 : 12 GA Gauge)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B014R926EW": {
+            "asin": "B014R926EW",
+            "height": null,
+            "length": null,
+            "name": "NCAA Xavier Musketeers Mascot Block Arch Crew Neck Sweatshirt, XX-Large, White",
+            "normalizedName": "NCAA Xavier Musketeers Mascot Block Arch Crew Neck Sweatshirt, XX-Large, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.0
+            },
+            "width": null
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016X2SDKC": {
+            "asin": "B016X2SDKC",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "iFox iFE4 In-Ear Wired Sports Earphones with Built-in Mic for iPhone, iPad, iPod, Android Smartphones, Tablets, Computers, MP3 Players - Comfort Fit Design with Ear Hook and Volume Control",
+            "normalizedName": "iFox iFE4 In-Ear Wired Sports Earphones with Built-in Mic for iPhone, iPad, iPod, Android Smartphones, Tablets, Computers, MP3 Players - Comfort Fit Design with Ear Hook and Volume Control",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01C2K2SHS": {
+            "asin": "B01C2K2SHS",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Phonefoam Cure Crystal Clear Bumper Case for Iphone 6/6s plus (Red)",
+            "normalizedName": "Phonefoam Cure Crystal Clear Bumper Case for Iphone 6/6s plus (Red)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

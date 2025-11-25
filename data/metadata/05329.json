@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0081TZD54": {
+            "asin": "B0081TZD54",
+            "height": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Brother QL-720NW Professional, High-speed Label Printer with Built-in Ethernet and Wireless Networking (QL720NW)",
+            "normalizedName": "Brother QL-720NW Professional, High-speed Label Printer with Built-in Ethernet and Wireless Networking (QL720NW)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            }
+        },
+        "B018F2PJDW": {
+            "asin": "B018F2PJDW",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Mens Thermal Underwear Sets - Assorted Colors & Extended Sizes (Large-2Pack, White)",
+            "normalizedName": "2Pack Mens Thermal Underwear Sets - Assorted Colors & Extended Sizes (Large- , White)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0999999990775504
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

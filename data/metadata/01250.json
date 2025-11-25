@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004VLVCGU": {
+            "asin": "B004VLVCGU",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Bob's Red Mill - Premium Unmodified Potato Starch, 24 Ounces (Pack of 4)",
+            "normalizedName": "(Pack of 4) Bob's Red Mill - Premium Unmodified Potato Starch, 24 Ounces",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

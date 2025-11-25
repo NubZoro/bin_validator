@@ -1,0 +1,137 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000021Y1B": {
+            "asin": "B000021Y1B",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "Rampage 2: Universal Tour",
+            "normalizedName": "Rampage 2: Universal Tour",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00002STGQ": {
+            "asin": "B00002STGQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Quake 64",
+            "normalizedName": "Quake 64",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00003IFEE": {
+            "asin": "B00003IFEE",
+            "height": {
+                "unit": "IN",
+                "value": 0.699999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Madden Football 64",
+            "normalizedName": "Madden Football 64",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B002NGSIW6": {
+            "asin": "B002NGSIW6",
+            "height": {
+                "unit": "IN",
+                "value": 1.9
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.8
+            },
+            "name": "Atkins Endulge Treats, Chocolate Caramel Mousse Bar, 1.2 oz., 5 Count Bars",
+            "normalizedName": "Atkins Endulge Treats, Chocolate Caramel Mousse Bar, 1.2 oz., 5 Count Bars",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9
+            }
+        },
+        "B01D9EIR2Q": {
+            "asin": "B01D9EIR2Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "name": "Supstar Luxury Bling Crystal Diamond Full Body Skin Sticker Vinyl Decal Screen Protector for Apple iPhone SE / 5S (Pink)",
+            "normalizedName": "Supstar Luxury Bling Crystal Diamond Full Body Skin Sticker Vinyl Decal Screen Protector for Apple iPhone SE / 5S (Pink)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.299999999694
+            }
+        },
+        "B01DCB8PMS": {
+            "asin": "B01DCB8PMS",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Galaxy S7 Edge Bling Skin Sticker, Supstar\u00ae Premium Glitter Full Body Vinyl Decal [Dustproof, Anti-Scratch] Screen Protector for Samsung Galaxy S7 Edge 5.5\" (Rose Red)",
+            "normalizedName": "Galaxy S7 Edge Bling Skin Sticker, Supstar\u00ae Premium Glitter Full Body Vinyl Decal [Dustproof, Anti-Scratch] Screen Protector for Samsung Galaxy S7 Edge 5.5\" (Rose Red)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

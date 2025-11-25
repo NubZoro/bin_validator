@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1133933750": {
+            "asin": "1133933750",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9212598324
+            },
+            "name": "Strategic Management Communication for Leaders",
+            "normalizedName": "Strategic Management Communication for Leaders",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6754960901416898
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.9527558974
+            }
+        },
+        "1285454316": {
+            "asin": "1285454316",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Life-Span Human Development",
+            "normalizedName": "Life-Span Human Development",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3499999971907215
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B01DDGWK8M": {
+            "asin": "B01DDGWK8M",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Habor 3D VR Virtual Reality Headset Virtual Video Glasses for Samsung Galaxy and iphone6 Smartphones",
+            "normalizedName": "Habor 3D VR Virtual Reality Headset Virtual Video Glasses for Samsung Galaxy and iphone6 Smartphones",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

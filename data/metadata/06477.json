@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GVCC1I": {
+            "asin": "B000GVCC1I",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "name": "Wiseco 1929CD Ring Set for 49.00mm Cylinder Bore",
+            "normalizedName": "Wiseco 1929CD Ring Set for 49.00mm Cylinder Bore",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01EHGPKI4": {
+            "asin": "B01EHGPKI4",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "JBtek Sleeved PWM 4 Pin CPU, Case Fan Extension Cable, Red, 2 Pack",
+            "normalizedName": "2 Pack JBtek Sleeved PWM 4 Pin CPU, Case Fan Extension Cable, Red,",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01GH828M6": {
+            "asin": "B01GH828M6",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "name": "JBtek All Red Sleeved 1-3 PWM Fan Splitter Cable, 130mm",
+            "normalizedName": "JBtek All Red Sleeved 1-3 PWM Fan Splitter Cable, 130mm",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.362204722
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

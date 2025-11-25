@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00JUJ1E0W": {
+            "asin": "B00JUJ1E0W",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Tom's of Maine Antiplaque and Whitening Fluoride-Free Toothpaste, Peppermint, 5.5 Ounce ( Pack of 2 )",
+            "normalizedName": "( Pack of 2 ) Tom's of Maine Antiplaque and Whitening Fluoride-Free Toothpaste, Peppermint, 5.5 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00L2V09VQ": {
+            "asin": "B00L2V09VQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Floureon 2 Packs 3s 11.1V 3000mAh 30C Lipo Battery with Dean-Style T Connector for RC Airplane Helicopter Car Truck Boat",
+            "normalizedName": "2 Pack Floureon s 3s 11.1V 3000mAh 30C Lipo Battery with Dean-Style T Connector for RC Airplane Helicopter Car Truck Boat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B00PQKQ22Y": {
+            "asin": "B00PQKQ22Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Floureon 2x 3S 11.1V 2200mAh 25C RC Rechargeable Lipo Battery XT60 Plug for DJI Phantom FC40 Spare Walkera E22RC Quadcopter",
+            "normalizedName": "Floureon 2x 3S 11.1V 2200mAh 25C RC Rechargeable Lipo Battery XT60 Plug for DJI Phantom FC40 Spare Walkera E22RC Quadcopter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

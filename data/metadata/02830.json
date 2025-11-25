@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002P5NBR2": {
+            "asin": "B002P5NBR2",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Honeywell MS7120 Orbit Barcode Reader with USB",
+            "normalizedName": "Honeywell MS7120 Orbit Barcode Reader with USB",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B00FM4E3SE": {
+            "asin": "B00FM4E3SE",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "DEWALT DCS355B 20V XR Oscillating Multi-Tool",
+            "normalizedName": "DEWALT DCS355B 20V XR Oscillating Multi-Tool",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

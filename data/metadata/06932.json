@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000MX14YQ": {
+            "asin": "B000MX14YQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "Moroso 74299 Mini Starter Heat Shield",
+            "normalizedName": "Moroso 74299 Mini Starter Heat Shield",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00TOVMY1Y": {
+            "asin": "B00TOVMY1Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "Playskool Heroes Marvel Super Hero Adventures Iron Man Armor Up Fortress",
+            "normalizedName": "Playskool Heroes Marvel Super Hero Adventures Iron Man Armor Up Fortress",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

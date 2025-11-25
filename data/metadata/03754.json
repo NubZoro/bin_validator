@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002JK0L1C": {
+            "asin": "B002JK0L1C",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Tibetan Singing Bowls High Quality with Striker, 4.5\" Wide",
+            "normalizedName": "Tibetan Singing Bowls High Quality with Striker, 4.5\" Wide",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

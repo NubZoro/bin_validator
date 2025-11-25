@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000O3GCFU": {
+            "asin": "B000O3GCFU",
+            "height": {
+                "unit": "IN",
+                "value": 3.8188976339
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.9291338512
+            },
+            "name": "THERMOS FOOGO Vacuum Insulated Stainless Steel 10-Ounce Food Jar, Pink/Purple",
+            "normalizedName": "THERMOS FOOGO Vacuum Insulated Stainless Steel 10-Ounce Food Jar, Pink/Purple",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6299212541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

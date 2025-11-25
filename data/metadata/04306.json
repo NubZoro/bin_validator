@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015KJMQHU": {
+            "asin": "B015KJMQHU",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Eyelash Extension Blink Signature Mink Lash B Curl 0.20X7~14mm 8 Sizes in 1 Mixed Tray (BX0.2)",
+            "normalizedName": "Eyelash Extension Blink Signature Mink Lash B Curl 0.20X7~14mm 8 Sizes in 1 Mixed Tray (BX0.2)",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B016XTADG2": {
+            "asin": "B016XTADG2",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "[New Release] Anker SoundCore (Dual-Driver Portable Bluetooth Speakers with Superior Stereo Sound and Incredible 24-Hour Playtime) Wireless Speaker with Enhanced Bass and Built-in Microphone",
+            "normalizedName": "[New Release] Anker SoundCore (Dual-Driver Portable Bluetooth Speakers with Superior Stereo Sound and Incredible 24-Hour Playtime) Wireless Speaker with Enhanced Bass and Built-in Microphone",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

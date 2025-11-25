@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1423146778": {
+            "asin": "1423146778",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "The House of Hades (Heroes of Olympus, The, Book Four) (The Heroes of Olympus)",
+            "normalizedName": "The House of Hades (Heroes of Olympus, The, Book Four) (The Heroes of Olympus)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "146921704X": {
+            "asin": "146921704X",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Cast in Stone (Leo Waterman Mystery)",
+            "normalizedName": "Cast in Stone (Leo Waterman Mystery)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

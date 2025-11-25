@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00GWF93HI": {
+            "asin": "B00GWF93HI",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "5pcs Nonslip Potentiometer Rotary Control Knobs 6mm Shaft Dia Blue",
+            "normalizedName": "5pcs Nonslip Potentiometer Rotary Control Knobs 6mm Shaft Dia Blue",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00ZQVSKSM": {
+            "asin": "B00ZQVSKSM",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Motorola Moto G (3rd Generation) - Black - 8 GB - Global GSM Unlocked Phone",
+            "normalizedName": "Motorola Moto G (3rd Generation) - Black - 8 GB - Global GSM Unlocked Phone",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B012S0RDWM": {
+            "asin": "B012S0RDWM",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "AmazonBasics Square Air Conditioner Cover",
+            "normalizedName": "AmazonBasics Square Air Conditioner Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4499999987840437
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

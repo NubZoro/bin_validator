@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007T0W5CA": {
+            "asin": "B007T0W5CA",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "RCA Digital Alarm Clock with Large 1.4\" Display",
+            "normalizedName": "RCA Digital Alarm Clock with Large 1.4\" Display",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B00FN7CGCK": {
+            "asin": "B00FN7CGCK",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Glitter Accented Round Plastic Ornament Balls 5 Count Pack Varied Design",
+            "normalizedName": "Glitter Accented Round Plastic Ornament Balls 5 Count Pack Varied Design",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B01EH0ZB7A": {
+            "asin": "B01EH0ZB7A",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.249999991585002
+            },
+            "name": "Highly Rated Premium Food-Grade Stainless Steel Watermelon Cutter Slicer. Used as a watermelon corer and fruit corer for a melon, honey dew, and other summer picnic fruits.",
+            "normalizedName": "Highly Rated Premium Food-Grade Stainless Steel Watermelon Cutter Slicer. Used as a watermelon corer and fruit corer for a melon, honey dew, and other summer picnic fruits.",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22999999980712413
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

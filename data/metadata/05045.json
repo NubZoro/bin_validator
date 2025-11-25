@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000NSW0EI": {
+            "asin": "B000NSW0EI",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Just for Men Shampoo-In Hair Color, Medium Brown 35, 1 application, 3 Count",
+            "normalizedName": "Just for Men Shampoo-In Hair Color, Medium Brown 35, 1 application, 3 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B005MER0RA": {
+            "asin": "B005MER0RA",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "The Spice Lab Finely Ground Pure Himalayan Salt, 2 pounds",
+            "normalizedName": "The Spice Lab Finely Ground Pure Himalayan Salt, 2 pounds",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00SJRM7UM": {
+            "asin": "B00SJRM7UM",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "PackIt Freezable Lunch Bag with Zip Closure, Bloom",
+            "normalizedName": "PackIt Freezable Lunch Bag with Zip Closure, Bloom",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        },
+        "B01HIC9FYE": {
+            "asin": "B01HIC9FYE",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "University of Wisconsin Mascot Bucky Badger 10\" Plush Figure",
+            "normalizedName": "University of Wisconsin Mascot Bucky Badger 10\" Plush Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

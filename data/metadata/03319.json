@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0015S89RC": {
+            "asin": "B0015S89RC",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Raybestos ATD976C Advanced Technology Ceramic Disc Brake Pad Set",
+            "normalizedName": "Raybestos ATD976C Advanced Technology Ceramic Disc Brake Pad Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

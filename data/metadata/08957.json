@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003P0VFV0": {
+            "asin": "B003P0VFV0",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "River's Edge Hand Painted Poly Resin  Salt and Pepper Shaker Set (Moose)",
+            "normalizedName": "River's Edge Hand Painted Poly Resin  Salt and Pepper Shaker Set (Moose)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00796FK3U": {
+            "asin": "B00796FK3U",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Cherry Bay Orchards Tart Juice Concentrate, Cherry, 16-Ounce",
+            "normalizedName": "Cherry Bay Orchards Tart Juice Concentrate, Cherry, 16-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B0089M8L9I": {
+            "asin": "B0089M8L9I",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Evolis 6 Panel Color Ribbon - YMCKO-K 200 Prints / Roll R6F003AAA",
+            "normalizedName": "Evolis 6 Panel Color Ribbon - YMCKO-K 200 Prints / Roll R6F003AAA",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00JUA2D60": {
+            "asin": "B00JUA2D60",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Rambutan Men's \"Blue Bird\" Seamless Bamboo Socks US 8.5-12.5 (Blue)",
+            "normalizedName": "Rambutan Men's \"Blue Bird\" Seamless Bamboo Socks US 8.5-12.5 (Blue)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

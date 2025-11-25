@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003YC8IO6": {
+            "asin": "B003YC8IO6",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.399999985312
+            },
+            "name": "Kakadu Pet Orbit Padded Nylon Step In Dog Harness, 3/4-Inch by 18-Inch to 24-Inch, Purple with Yellow Trim",
+            "normalizedName": "Kakadu Pet Orbit Padded Nylon Step In Dog Harness, 3/4-Inch by 18-Inch to 24-Inch, Purple with Yellow Trim",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.799999999184
+            }
+        },
+        "B00PEEAV6A": {
+            "asin": "B00PEEAV6A",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Twelve South HiRise Deluxe for iPhone/iPad/Smartphone, silver | Adjustable charging stand w/Lightning + MicroUSB cables",
+            "normalizedName": "Twelve South HiRise Deluxe for iPhone/iPad/Smartphone, silver | Adjustable charging stand w/Lightning + MicroUSB cables",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

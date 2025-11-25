@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0764166603": {
+            "asin": "0764166603",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Barron's ASVAB Flash Cards, 2nd Edition",
+            "normalizedName": "Barron's ASVAB Flash Cards, 2nd Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

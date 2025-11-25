@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ENNKTMO": {
+            "asin": "B00ENNKTMO",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Nice Production INP-101-O Book Stand (Bookstand / Bookstands / Holder / Cookbook / Music)",
+            "normalizedName": "Nice Production INP-101-O Book Stand (Bookstand / Bookstands / Holder / Cookbook / Music)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00JPSZ3LE": {
+            "asin": "B00JPSZ3LE",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Kraft Macaroni & Cheese Dinner, Orginal, 14.5 Ounce (Pack of 8)",
+            "normalizedName": "(Pack of 8) Kraft Macaroni & Cheese Dinner, Orginal, 14.5 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

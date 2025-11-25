@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GZWANO": {
+            "asin": "B000GZWANO",
+            "height": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Champion Performance, Ultramet, Chocolate flavor, 76-Grams, 20-Count",
+            "normalizedName": "Champion Performance, Ultramet, Chocolate flavor, 76-Grams, 20-Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        },
+        "B00W1RBBE4": {
+            "asin": "B00W1RBBE4",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Durable Insulated Baby Lunch Box and Bottle - Set of 4 Reusable Pieces - Bottle Included for Boys and Girls",
+            "normalizedName": "Set of 4 Durable Insulated Baby Lunch Box and Bottle - Reusable Pieces - Bottle Included for Boys and Girls",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

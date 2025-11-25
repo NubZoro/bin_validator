@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "8131519546": {
+            "asin": "8131519546",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.2913385732
+            },
+            "name": "Mathematical Statistics and Data Analysis",
+            "normalizedName": "Mathematical Statistics and Data Analysis",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8518640996302886
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.0078740086
+            }
+        },
+        "B0013OULVA": {
+            "asin": "B0013OULVA",
+            "height": {
+                "unit": "IN",
+                "value": 2.2834645646
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.1732283422
+            },
+            "name": "Jarrow Formulas Milk Thistle Standardized Silymarin Extract 30:1 Ratio, 150 mg per Capsule, 200 Gelatin Capsules",
+            "normalizedName": "Jarrow Formulas Milk Thistle Standardized Silymarin Extract 30:1 Ratio, 150 mg per Capsule, 200 Gelatin Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.362204722
+            }
+        },
+        "B00HWLK9U6": {
+            "asin": "B00HWLK9U6",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Max Motosports Cylinder Piston Rebuild Assembly Kit for Stihl 018 MS180 Chainsaws 38mm",
+            "normalizedName": "Max Motosports Cylinder Piston Rebuild Assembly Kit for Stihl 018 MS180 Chainsaws 38mm",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

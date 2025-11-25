@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FGPXGPK": {
+            "asin": "B00FGPXGPK",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Panacea 84166 Round Coco Fiber Replacement Liner, 10-Inch",
+            "normalizedName": "Panacea 84166 Round Coco Fiber Replacement Liner, 10-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01BMNUOQS": {
+            "asin": "B01BMNUOQS",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Denver Broncos NFL Women's Super Bowl 50 Champions V-Neck Tee (Medium)",
+            "normalizedName": "Denver Broncos NFL Women's Super Bowl 50 Champions V-Neck Tee (Medium)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

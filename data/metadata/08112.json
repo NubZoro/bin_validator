@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008EMA5VU": {
+            "asin": "B008EMA5VU",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.3779527494
+            },
+            "name": "Crucial 16GB Kit (8GBx2) DDR3/DDR3L-1600MT/s (PC3-12800) DR x8 ECC UDIMM Server Memory CT2KIT102472BD160B/CT2CP102472BD160B",
+            "normalizedName": "Crucial 16GB Kit (8GBx2) DDR3/DDR3L-1600MT/s (PC3-12800) DR x8 ECC UDIMM Server Memory CT2KIT102472BD160B/CT2CP102472BD160B",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.13227600700552375
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.0472440924
+            }
+        },
+        "B00AYHKNZ6": {
+            "asin": "B00AYHKNZ6",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "Funny Guy Mugs Gone Squatchin' Ceramic Coffee Mug, Black, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs Gone Squatchin' Ceramic Coffee Mug, Black, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

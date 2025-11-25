@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LOMOA7M": {
+            "asin": "B00LOMOA7M",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Santa's Reindeers 8 Inch Dessert Plate Set of 4 - Comet, Cupid, Blitzen and Donner",
+            "normalizedName": "Set of 4 Santa's Reindeers 8 Inch Dessert Plate - Comet, Cupid, Blitzen and Donner",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B00V63MJQS": {
+            "asin": "B00V63MJQS",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "KF246 Plastic Bathroom Toothbrush Tooth Paste Stand Holder Storage Rack Box Set by Just Life",
+            "normalizedName": "KF246 Plastic Bathroom Toothbrush Tooth Paste Stand Holder Storage Rack Box Set by Just Life",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

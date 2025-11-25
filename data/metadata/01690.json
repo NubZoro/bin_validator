@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002ERRGT0": {
+            "asin": "B002ERRGT0",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Grohe 35015000 Grohsafe Universal Pressure Balance Rough-In Valve",
+            "normalizedName": "Grohe 35015000 Grohsafe Universal Pressure Balance Rough-In Valve",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.2000000000000006
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00GBR9ISQ": {
+            "asin": "B00GBR9ISQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Dickies Work Gear 57054 Black 8-Pocket Utility Pouch",
+            "normalizedName": "Dickies Work Gear 57054 Black 8-Pocket Utility Pouch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

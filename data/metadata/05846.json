@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000L87RKC": {
+            "asin": "B000L87RKC",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "HC660 HydroClean Water-Saving Toilet Fill Valve with Cleaning Tube",
+            "normalizedName": "HC660 HydroClean Water-Saving Toilet Fill Valve with Cleaning Tube",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B003V0R5NQ": {
+            "asin": "B003V0R5NQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Red Dragon On Rock Fantasy Figurine",
+            "normalizedName": "Red Dragon On Rock Fantasy Figurine",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

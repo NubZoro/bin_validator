@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006JNQE": {
+            "asin": "B00006JNQE",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862
+            },
+            "name": "Wilson Jones D-Ring View Binder, 2 Inch, Vinyl, Customizable, White (WLJ38644W)",
+            "normalizedName": "Wilson Jones D-Ring View Binder, 2 Inch, Vinyl, Customizable, White (WLJ38644W)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B00095M59K": {
+            "asin": "B00095M59K",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Ballqube Mini Football/Helmet Display Box",
+            "normalizedName": "Ballqube Mini Football/Helmet Display Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

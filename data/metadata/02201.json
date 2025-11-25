@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00VXJ206O": {
+            "asin": "B00VXJ206O",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "GroVia AIO - Funfair",
+            "normalizedName": "GroVia AIO - Funfair",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B00XHSKKXE": {
+            "asin": "B00XHSKKXE",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "LifeLimit Accessories Starter Kit for Gopro 4, Hero 3/2/HD/HERO+ (Wi-Fi Enabled) LCD Black Silver Cameras",
+            "normalizedName": "LifeLimit Accessories Starter Kit for Gopro 4, Hero 3/2/HD/HERO+ (Wi-Fi Enabled) LCD Black Silver Cameras",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

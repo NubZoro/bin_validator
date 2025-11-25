@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01C45GOCQ": {
+            "asin": "B01C45GOCQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Barbie Star Light Adventure Co-Star Doll, Pink",
+            "normalizedName": "Barbie Star Light Adventure Co-Star Doll, Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

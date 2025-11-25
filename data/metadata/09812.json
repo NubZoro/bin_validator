@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008PPN97I": {
+            "asin": "B008PPN97I",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Poly Tag Key Tags - Yellow (250/box)",
+            "normalizedName": "Poly Tag Key Tags - Yellow (250/box)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B0192IHHME": {
+            "asin": "B0192IHHME",
+            "height": {
+                "unit": "IN",
+                "value": 1.75
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.25
+            },
+            "name": "HABA Powder Wash Cleanser with Papaya Enzymes 80g 2set",
+            "normalizedName": "HABA Powder Wash Cleanser with Papaya Enzymes 80g 2set",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.75
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

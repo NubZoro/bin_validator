@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1401218660": {
+            "asin": "1401218660",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Suicide Squad: From the Ashes",
+            "normalizedName": "Suicide Squad: From the Ashes",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00005AA9F": {
+            "asin": "B00005AA9F",
+            "height": {
+                "unit": "IN",
+                "value": 0.90157480223
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.4015747956
+            },
+            "name": "The Unexplained Boxed Set",
+            "normalizedName": "The Unexplained Boxed Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3500058871512
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.40157479764
+            }
+        },
+        "B000NQRE1E": {
+            "asin": "B000NQRE1E",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Titanic (Four-Disc Combo: Blu-ray / DVD / Digital Copy)",
+            "normalizedName": "Titanic (Four-Disc Combo: Blu-ray / DVD / Digital Copy)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B001TKUXUC": {
+            "asin": "B001TKUXUC",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "LeapFrog: Letter Factory",
+            "normalizedName": "LeapFrog: Letter Factory",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B004XM38CS": {
+            "asin": "B004XM38CS",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "The Cape: The Complete Series",
+            "normalizedName": "The Cape: The Complete Series",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

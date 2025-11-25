@@ -1,0 +1,137 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0062090461": {
+            "asin": "0062090461",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Then and Now: A Memoir",
+            "normalizedName": "Then and Now: A Memoir",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033389
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "1401921779": {
+            "asin": "1401921779",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024
+            },
+            "name": "La Matriz Divina: Cruzando las barreras del tiempo, el espacio, los milagros y las creencias (Spanish Edition)",
+            "normalizedName": "La Matriz Divina: Cruzando las barreras del tiempo, el espacio, los milagros y las creencias (Spanish Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B000E19BZA": {
+            "asin": "B000E19BZA",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Tazo Organic Chai, Spiced Black Tea, 20-Count Tea Bags (Pack of 6)",
+            "normalizedName": "(Pack of 6) Tazo Organic Chai, Spiced Black Tea, 20-Count Tea Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.57
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B000GK5XY2": {
+            "asin": "B000GK5XY2",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Munchkin Fresh Food Feeder, Colors May Vary, 2 Count",
+            "normalizedName": "Munchkin Fresh Food Feeder, Colors May Vary, 2 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B001HB1K4Q": {
+            "asin": "B001HB1K4Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Blackout",
+            "normalizedName": "Blackout",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01DDJ7H4Q": {
+            "asin": "B01DDJ7H4Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622024755908
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.15748029423937
+            },
+            "name": "Topwedding Chiffon Bridal Wedding Shawl Wrap Women's Evening Dress Stole Scarves,79*24'', Fuchsia",
+            "normalizedName": "Topwedding Chiffon Bridal Wedding Shawl Wrap Women's Evening Dress Stole Scarves,79*24'', Fuchsia",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.30864401608739617
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.79527557464882
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

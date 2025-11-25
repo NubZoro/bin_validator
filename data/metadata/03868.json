@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ELN1PQU": {
+            "asin": "B00ELN1PQU",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Mead #75212 80CT #6 White Envelope (Pack of 3)",
+            "normalizedName": "(Pack of 3) Mead #75212 80CT #6 White Envelope",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999877502354424
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

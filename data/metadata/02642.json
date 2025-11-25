@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00B3G89MQ": {
+            "asin": "B00B3G89MQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.9133858238
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.7952755826
+            },
+            "name": "K9 Natural Freeze Dried Pet Food, 0.44-Pound, Lamb Tripe",
+            "normalizedName": "K9 Natural Freeze Dried Pet Food, 0.44-Pound, Lamb Tripe",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5291040284657967
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5905511754
+            }
+        },
+        "B00CA6756O": {
+            "asin": "B00CA6756O",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "Forte Lighting 1715-01-13  Exterior Wall Light with Clear Beveled Glass  Shades, Matte White",
+            "normalizedName": "Forte Lighting 1715-01-13  Exterior Wall Light with Clear Beveled Glass  Shades, Matte White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B01577D48U": {
+            "asin": "B01577D48U",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Bestway Sneaky Snake Sprinkler Outdoor Water Toy",
+            "normalizedName": "Bestway Sneaky Snake Sprinkler Outdoor Water Toy",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00NBK9XL8": {
+            "asin": "B00NBK9XL8",
+            "height": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "Barilla Whole Grain Penne Pasta, 13.25 oz, 8 count",
+            "normalizedName": "Barilla Whole Grain Penne Pasta, 13.25 oz, 8 count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

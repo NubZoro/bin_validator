@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004ME4MKE": {
+            "asin": "B004ME4MKE",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "name": "Camco 25503 Utility Trailer Level - 2 pack",
+            "normalizedName": "Camco 25503 Utility Trailer Level - 2 pack",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

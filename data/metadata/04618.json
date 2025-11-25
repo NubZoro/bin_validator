@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000DZHEFG": {
+            "asin": "B000DZHEFG",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Danco 80550 Stem for Price Pfister, Faucet Cartridge",
+            "normalizedName": "Danco 80550 Stem for Price Pfister, Faucet Cartridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B01A7DGB3Y": {
+            "asin": "B01A7DGB3Y",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Be Strong Be Ambitious Be Fearless, Clear/Teal Purist Cycling Water Bottle, Great for Biking, Running, Yoga, and Training",
+            "normalizedName": "Be Strong Be Ambitious Be Fearless, Clear/Teal Purist Cycling Water Bottle, Great for Biking, Running, Yoga, and Training",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01BSBEZPK": {
+            "asin": "B01BSBEZPK",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.0
+            },
+            "name": "Lift Heavy Shit Blender Bottle Shaker Cup, 28oz Classic Blender Bottles (Black)",
+            "normalizedName": "Lift Heavy Shit Blender Bottle Shaker Cup, 28oz Classic Blender Bottles (Black)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 4.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

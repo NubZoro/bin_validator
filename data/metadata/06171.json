@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008CL5Y6O": {
+            "asin": "B008CL5Y6O",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Pillow Pets Dream Lites - Snuggly Puppy 11\"",
+            "normalizedName": "Pillow Pets Dream Lites - Snuggly Puppy 11\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

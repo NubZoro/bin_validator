@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000IXCO8K": {
+            "asin": "B000IXCO8K",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "Streamlight 85177 CR123A Lithium Batteries, 12-Pack",
+            "normalizedName": "12-Pack Streamlight 85177 CR123A Lithium Batteries,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200233517459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.755905509
+            }
+        },
+        "B005BZNE2A": {
+            "asin": "B005BZNE2A",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "HP 951 Cyan, Magenta & Yellow Original Ink Cartridges, 3 pack (CR314FN)",
+            "normalizedName": "HP 951 Cyan, Magenta & Yellow Original Ink Cartridges, 3 pack (CR314FN)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B013U3NHIU": {
+            "asin": "B013U3NHIU",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Mfeel Global Compact Universal All-in-one Travel Power Adapter Plug. Includes: International Travel Adapter, USB Charger Attachment, Stylish Nylon Travel Case (White)",
+            "normalizedName": "Mfeel Global Compact Universal All-in-one Travel Power Adapter Plug. Includes: International Travel Adapter, USB Charger Attachment, Stylish Nylon Travel Case (White)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

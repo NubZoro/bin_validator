@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00MUZVKY8": {
+            "asin": "B00MUZVKY8",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "American Baby Company Waterproof Fitted Crib and Toddler Protective Mattress Pad Cover, White",
+            "normalizedName": "American Baby Company Waterproof Fitted Crib and Toddler Protective Mattress Pad Cover, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B00SB6SOSK": {
+            "asin": "B00SB6SOSK",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "MAYERS AUSDOM Lightweight Over-Ear Wired HiFi Stereo Headphones with Built-in Mic Comfortable Leather Earphones- Black",
+            "normalizedName": "MAYERS AUSDOM Lightweight Over-Ear Wired HiFi Stereo Headphones with Built-in Mic Comfortable Leather Earphones- Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

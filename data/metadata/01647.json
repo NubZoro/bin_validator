@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01A8K8D6E": {
+            "asin": "B01A8K8D6E",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "kilofly Princess Party Favor Jewelry Value Pack, Necklace & Bracelet, 6 Sets",
+            "normalizedName": "kilofly Princess Party Favor Jewelry Value Pack, Necklace & Bracelet, 6 Sets",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

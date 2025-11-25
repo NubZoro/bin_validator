@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CPCH9KA": {
+            "asin": "B00CPCH9KA",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "3M Peltor X-Series Over-the-Head Earmuffs, NRR 28 dB, One Size Fits Most, Black/Red X3A (Pack of 1)",
+            "normalizedName": "(Pack of 1) 3M Peltor X-Series Over-the-Head Earmuffs, NRR 28 dB, One Size Fits Most, Black/Red X3A",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00EXPSLK4": {
+            "asin": "B00EXPSLK4",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Kirkland Signature Fast Acting Lactase, (2 Pack), 360 Ct Caplets",
+            "normalizedName": "(2 Pack) Kirkland Signature Fast Acting Lactase, , 360 Ct Caplets",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

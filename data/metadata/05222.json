@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0205149766": {
+            "asin": "0205149766",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Child Development (9th Edition)",
+            "normalizedName": "Child Development (9th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "0253349478": {
+            "asin": "0253349478",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "The GrandLuxe Express: Traveling in High Style (Railroads Past and Present)",
+            "normalizedName": "The GrandLuxe Express: Traveling in High Style (Railroads Past and Present)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B001ESOQAM": {
+            "asin": "B001ESOQAM",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Raw Large Cashews (10 Pound Case)",
+            "normalizedName": "Raw Large Cashews (10 Pound Case)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B008RYPLEG": {
+            "asin": "B008RYPLEG",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "CLAP300 - Clarity AMPLIFIED PHOTO PHONE",
+            "normalizedName": "CLAP300 - Clarity AMPLIFIED PHOTO PHONE",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.549999997861594
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

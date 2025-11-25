@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003O680RM": {
+            "asin": "B003O680RM",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "The Sly Collection - Playstation 3",
+            "normalizedName": "The Sly Collection - Playstation 3",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B017VGAUK0": {
+            "asin": "B017VGAUK0",
+            "height": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.0
+            },
+            "name": "Dermasil Extra Moisturizing Hand Wash Cherry Almond Scent 8 Fl. Oz. (4 Pack)",
+            "normalizedName": "(4 Pack) Dermasil Extra Moisturizing Hand Wash Cherry Almond Scent 8 Fl. Oz.",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 6.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

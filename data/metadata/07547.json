@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009SD6TNM": {
+            "asin": "B009SD6TNM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "2 Large Wooden Dreidels",
+            "normalizedName": "2 Large Wooden Dreidels",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

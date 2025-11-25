@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013OUHW8": {
+            "asin": "B0013OUHW8",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Enzymatic Therapy Smart Q10, CoQ10, 100 mg, 30 Chewable Tablets",
+            "normalizedName": "Enzymatic Therapy Smart Q10, CoQ10, 100 mg, 30 Chewable Tablets",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00JJGEU2K": {
+            "asin": "B00JJGEU2K",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "100% Natural Auto Air Purifying Bamboo Charcoal Bag/ Air Freshener?",
+            "normalizedName": "100% Natural Auto Air Purifying Bamboo Charcoal Bag/ Air Freshener?",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B00QVHW5MW": {
+            "asin": "B00QVHW5MW",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Aiyze USB 3.0 to VGA Multi-display Adapter Cable Video Graphic Card Display External Converter for Windows 7 8",
+            "normalizedName": "Aiyze USB 3.0 to VGA Multi-display Adapter Cable Video Graphic Card Display External Converter for Windows 7 8",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

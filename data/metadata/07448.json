@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0052M5V0A": {
+            "asin": "B0052M5V0A",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Nespresso OriginalLine Capsules Variety, 100 Count",
+            "normalizedName": "Nespresso OriginalLine Capsules Variety, 100 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7500000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            }
+        },
+        "B008QYVL1Y": {
+            "asin": "B008QYVL1Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.8110236202
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.1653543234
+            },
+            "name": "EcoEars Dog Ear Cleaner. Infection Formula. 8 oz. Itch, head shaking & smell gone in 2-3 Days. Natural 1-Step Ear Cleaner for Dogs with Mites, Fungus, Yeast & Bacteria. Beats Drops, Powder & Pharmaceutical Medication. 100% Guaranteed.",
+            "normalizedName": "EcoEars Dog Ear Cleaner. Infection Formula. 8 oz. Itch, head shaking & smell gone in 2-3 Days. Natural 1-Step Ear Cleaner for Dogs with Mites, Fungus, Yeast & Bacteria. Beats Drops, Powder & Pharmaceutical Medication. 100% Guaranteed.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.529104028022095
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.8110236202
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

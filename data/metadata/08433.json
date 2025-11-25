@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003NHN8YW": {
+            "asin": "B003NHN8YW",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Reflections REF320KN Heavyweight Plastic Disposable Knives 40/PK WNAREF320KN",
+            "normalizedName": "Reflections REF320KN Heavyweight Plastic Disposable Knives 40/PK WNAREF320KN",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00AWKJPOK": {
+            "asin": "B00AWKJPOK",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Fujifilm Instax Mini 8 Instant Film Camera (Yellow)",
+            "normalizedName": "Fujifilm Instax Mini 8 Instant Film Camera (Yellow)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00F3YNE1A": {
+            "asin": "B00F3YNE1A",
+            "height": {
+                "unit": "IN",
+                "value": 3.93700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "Snug Safe n Sound Kids Earmuffs / Hearing Protectors \u2013 Adjustable Headband Ear Defenders For Children and Adults (Green)",
+            "normalizedName": "Snug Safe n Sound Kids Earmuffs / Hearing Protectors \u2013 Adjustable Headband Ear Defenders For Children and Adults (Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5731960308379465
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

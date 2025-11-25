@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00OFLE9MU": {
+            "asin": "B00OFLE9MU",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "iPhone 6S Screen Protector, Archshield - iPhone 6s / iPhone 6 4.7 Premium High Definition (HD) Clear Screen Protector 3-Pack - Retail Packaging (Lifetime Warranty)",
+            "normalizedName": "3-Pack iPhone 6S Screen Protector, Archshield - iPhone 6s / iPhone 6 4.7 Premium High Definition (HD) Clear Screen Protector - Retail Packaging (Lifetime Warranty)",
+            "quantity": 54,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B011LRZ15E": {
+            "asin": "B011LRZ15E",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "NuPro Fire HD 8 Screen Protector Kit (2-Pack) (5th Generation - 2015 release) , Clear",
+            "normalizedName": "(2-Pack) NuPro Fire HD 8 Screen Protector Kit (5th Generation - 2015 release) , Clear",
+            "quantity": 33,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 87
+}

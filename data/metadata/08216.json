@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000UH7SVW": {
+            "asin": "B000UH7SVW",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Queen Games Thebes",
+            "normalizedName": "Queen Games Thebes",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B01D16IQTG": {
+            "asin": "B01D16IQTG",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.899999981742
+            },
+            "name": "Benba brand Bird Feeder Station with 75\" Pole and Two Double Hangers",
+            "normalizedName": "Benba brand Bird Feeder Station with 75\" Pole and Two Double Hangers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4899999970733195
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

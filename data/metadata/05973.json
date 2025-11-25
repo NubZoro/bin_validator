@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008U6SJAO": {
+            "asin": "B008U6SJAO",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.9999999847
+            },
+            "name": "NCAA UCLA Bruins PTX Insulated Backpack Cooler, Navy, Regular",
+            "normalizedName": "NCAA UCLA Bruins PTX Insulated Backpack Cooler, Navy, Regular",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        },
+        "B00B2HH10M": {
+            "asin": "B00B2HH10M",
+            "height": {
+                "unit": "IN",
+                "value": 5.905511805
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.9842519522
+            },
+            "name": "Disney Mickey Mouse: Fly N Slide Clubhouse",
+            "normalizedName": "Disney Mickey Mouse: Fly N Slide Clubhouse",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.0708661284
+            }
+        },
+        "B00IO2HTGY": {
+            "asin": "B00IO2HTGY",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.299999983374
+            },
+            "name": "Nabisco 100 Calorie Packs, Lorna Doone Shortbread Cookie Crisps, 4.44 Ounce Box (Pack of 6)",
+            "normalizedName": "(Pack of 6) Nabisco 100 Calorie Packs, Lorna Doone Shortbread Cookie Crisps, 4.44 Ounce Box",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B00NHPGW8Y": {
+            "asin": "B00NHPGW8Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.7322834628
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.023622036
+            },
+            "name": "Fisher-Price Little People See n' Say Farmer Eddie Says",
+            "normalizedName": "Fisher-Price Little People See n' Say Farmer Eddie Says",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6754960887366348
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.8976377862
+            }
+        },
+        "B015HKS9QE": {
+            "asin": "B015HKS9QE",
+            "height": {
+                "unit": "IN",
+                "value": 5.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.0
+            },
+            "name": "Tory Road Fleece Sleeper Blanket, 27 x 40\", Coco Jaguar/Coco Fleece",
+            "normalizedName": "Tory Road Fleece Sleeper Blanket, 27 x 40\", Coco Jaguar/Coco Fleece",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

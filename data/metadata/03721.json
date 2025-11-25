@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0018DPN00": {
+            "asin": "B0018DPN00",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Jumbo Pokeno Game",
+            "normalizedName": "Jumbo Pokeno Game",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B0101SIYJE": {
+            "asin": "B0101SIYJE",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.899999989902
+            },
+            "name": "Canon Selphy CP1200 Black Wireless Color Photo Printer and Battery Bundle",
+            "normalizedName": "Canon Selphy CP1200 Black Wireless Color Photo Printer and Battery Bundle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.549999996184413
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QK5HWMI": {
+            "asin": "B00QK5HWMI",
+            "height": {
+                "unit": "IN",
+                "value": 2.2834645646
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.9133858136
+            },
+            "name": "Disney Frozen Fever Birthday Party Elsa Doll",
+            "normalizedName": "Disney Frozen Fever Birthday Party Elsa Doll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4467250719458288
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0629921198
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

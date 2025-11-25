@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00UY0Z6JG": {
+            "asin": "B00UY0Z6JG",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Floracraft Mesh Metallic Ribbon, 6\" by 10 yd, Lavender",
+            "normalizedName": "Floracraft Mesh Metallic Ribbon, 6\" by 10 yd, Lavender",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000089D9U": {
+            "asin": "B000089D9U",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971440004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987046
+            },
+            "name": "Columbian Catalog Envelopes, Grip-Seal, 9 x 12 Inches, White, 100 Per Box (CO920)",
+            "normalizedName": "Columbian Catalog Envelopes, Grip-Seal, 9 x 12 Inches, White, 100 Per Box (CO920)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B015VMRJ9G": {
+            "asin": "B015VMRJ9G",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Bits and Pieces - 300 Piece Jigsaw Puzzle - Bunny Bouquet, Bunny - by Artist Jane Maday - 300 pc Jigsaw",
+            "normalizedName": "Bits and Pieces - 300 Piece Jigsaw Puzzle - Bunny Bouquet, Bunny - by Artist Jane Maday - 300 pc Jigsaw",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

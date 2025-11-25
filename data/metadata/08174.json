@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HYB7L28": {
+            "asin": "B00HYB7L28",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "General Finishes PQG Milk Paint, 1 pint, Queenstown Gray",
+            "normalizedName": "General Finishes PQG Milk Paint, 1 pint, Queenstown Gray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00LH0SZ5O": {
+            "asin": "B00LH0SZ5O",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "Dorman Hardware 4-9327 Storage Hooks, 8-Pack",
+            "normalizedName": "8-Pack Dorman Hardware 4-9327 Storage Hooks,",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

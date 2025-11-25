@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004XZHY34": {
+            "asin": "B004XZHY34",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.2440944808
+            },
+            "name": "Jabra Freeway  Bluetooth Speakerphone - Black - Retail Packaging",
+            "normalizedName": "Jabra Freeway  Bluetooth Speakerphone - Black - Retail Packaging",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.724409444
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

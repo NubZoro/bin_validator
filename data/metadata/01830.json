@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005W0Z3SW": {
+            "asin": "B005W0Z3SW",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Steelex D3622 9-Inch Wire Stripper",
+            "normalizedName": "Steelex D3622 9-Inch Wire Stripper",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B01AXIF9EU": {
+            "asin": "B01AXIF9EU",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Zizo Bolt Cover For iPhone 6 and 6s 4.7in [.33mm 9H Tempered Glass Screen Protector] Dual-Layered [Military Grade] Case Kickstand Holster Belt -  - Blue/Neon",
+            "normalizedName": "Zizo Bolt Cover For iPhone 6 and 6s 4.7in [.33mm 9H Tempered Glass Screen Protector] Dual-Layered [Military Grade] Case Kickstand Holster Belt -  - Blue/Neon",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

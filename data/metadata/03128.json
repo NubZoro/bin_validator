@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001DXL2C8": {
+            "asin": "B001DXL2C8",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Elrene Home Essex 50 X 84 Grommet Window Panel Wheat - Single panel only",
+            "normalizedName": "Elrene Home Essex 50 X 84 Grommet Window Panel Wheat - Single panel only",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GIQSVG": {
+            "asin": "B000GIQSVG",
+            "height": {
+                "unit": "IN",
+                "value": 6.0629921198
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.6062992028
+            },
+            "name": "Optimum Nutrition 100% Whey Gold Standard, Cookies and Cream, 2 Pound",
+            "normalizedName": "Optimum Nutrition 100% Whey Gold Standard, Cookies and Cream, 2 Pound",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.645520140110475
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.1417322772
+            }
+        },
+        "B00GJC3Z6Y": {
+            "asin": "B00GJC3Z6Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Sun Zero Benson Blackout Curtain Panel, 52 by 84-Inch, Sand",
+            "normalizedName": "Sun Zero Benson Blackout Curtain Panel, 52 by 84-Inch, Sand",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

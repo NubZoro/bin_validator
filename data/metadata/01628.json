@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002JMDFIQ": {
+            "asin": "B002JMDFIQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "N American Healthcare Wristech Blood Pressure Monitor with Case",
+            "normalizedName": "N American Healthcare Wristech Blood Pressure Monitor with Case",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B004P1IE44": {
+            "asin": "B004P1IE44",
+            "height": {
+                "unit": "IN",
+                "value": 1.399999998572
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "Sargent Art 22-2320 8-Ounce Acrylic Paint, Red",
+            "normalizedName": "Sargent Art 22-2320 8-Ounce Acrylic Paint, Red",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

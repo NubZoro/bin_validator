@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00B2SEHG2": {
+            "asin": "B00B2SEHG2",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "name": "Pandas Pink Shot Glass 1 oz.",
+            "normalizedName": "Pandas Pink Shot Glass 1 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        },
+        "B00WU8U7FS": {
+            "asin": "B00WU8U7FS",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Gtide Handheld Mini 2.4G RF Wireless Backlit Keyboard with Touchpad and Flashlight for Google Android Smart TV HTPC PC Windows 8 IPKW250FUSK",
+            "normalizedName": "Gtide Handheld Mini 2.4G RF Wireless Backlit Keyboard with Touchpad and Flashlight for Google Android Smart TV HTPC PC Windows 8 IPKW250FUSK",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

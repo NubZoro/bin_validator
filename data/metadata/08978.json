@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0043BYLIY": {
+            "asin": "B0043BYLIY",
+            "height": {
+                "unit": "IN",
+                "value": 0.4330708657
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Greatest Hits",
+            "normalizedName": "Greatest Hits",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1770734815265533
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B007ZN7AF8": {
+            "asin": "B007ZN7AF8",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Natrol Melatonin Fast Dissolve Tablets, Citrus Punch, 10mg, 60 count",
+            "normalizedName": "Natrol Melatonin Fast Dissolve Tablets, Citrus Punch, 10mg, 60 count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.199999998776
+            }
+        },
+        "B00UC5KAIA": {
+            "asin": "B00UC5KAIA",
+            "height": {
+                "unit": "IN",
+                "value": 0.53937007819
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.54724408883
+            },
+            "name": "Outback Aussie Show",
+            "normalizedName": "Outback Aussie Show",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17707528883839999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.97244093981
+            }
+        },
+        "B013PQRXIC": {
+            "asin": "B013PQRXIC",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "Playskool Heroes Transformers Rescue Bots Drake the Dragon-Bot",
+            "normalizedName": "Playskool Heroes Transformers Rescue Bots Drake the Dragon-Bot",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B014ONGATI": {
+            "asin": "B014ONGATI",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "Music Box Mini - Ultra Portable Pocket Size Wireless Bluetooth Speaker (Purple)",
+            "normalizedName": "Music Box Mini - Ultra Portable Pocket Size Wireless Bluetooth Speaker (Purple)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

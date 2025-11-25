@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002OSY2T6": {
+            "asin": "B002OSY2T6",
+            "height": {
+                "unit": "IN",
+                "value": 4.724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.7716535313
+            },
+            "name": "Fisher-Price Go Baby Go! 1-2-3 Crawl Along Snail",
+            "normalizedName": "Fisher-Price Go Baby Go! 1-2-3 Crawl Along Snail",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.116416113863187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1889763696
+            }
+        },
+        "B00US73ZWA": {
+            "asin": "B00US73ZWA",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Bridal Thin Champagne Crystal Rhinestone Diamond Headband Adjustable Elastic",
+            "normalizedName": "Bridal Thin Champagne Crystal Rhinestone Diamond Headband Adjustable Elastic",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

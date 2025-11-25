@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0131593188": {
+            "asin": "0131593188",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Discrete Mathematics, 7th Edition",
+            "normalizedName": "Discrete Mathematics, 7th Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991738
+            }
+        },
+        "B0043KCI44": {
+            "asin": "B0043KCI44",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Precious Moments, Baby Gifts, \"Jesus Loves Me\", Boy, Resin Snow Globe, #102404",
+            "normalizedName": "Precious Moments, Baby Gifts, \"Jesus Loves Me\", Boy, Resin Snow Globe, #102404",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009GMX78U": {
+            "asin": "B009GMX78U",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Duple Card Game",
+            "normalizedName": "Duple Card Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00G6MWQHG": {
+            "asin": "B00G6MWQHG",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Buxton RFID Accordion Double Zippered Wizard Wallet (Plum)",
+            "normalizedName": "Buxton RFID Accordion Double Zippered Wizard Wallet (Plum)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B0184WT8M6": {
+            "asin": "B0184WT8M6",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "MONSTER-MASTER Heavy Duty Rubber Strip (Black 3.1\"*3.9\")",
+            "normalizedName": "MONSTER-MASTER Heavy Duty Rubber Strip (Black 3.1\"*3.9\")",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B01CNGSK3W": {
+            "asin": "B01CNGSK3W",
+            "height": {
+                "unit": "IN",
+                "value": 4.8818897588
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "OFKP\u00ae Children's LED Bedside Lamp Dimming Touch Night Light / Reading Lights / Camping Lamp (Spherical, White, PC & ABS Material, Built-in 2200 mAh Battery)",
+            "normalizedName": "OFKP\u00ae Children's LED Bedside Lamp Dimming Touch Night Light / Reading Lights / Camping Lamp (Spherical, White, PC & ABS Material, Built-in 2200 mAh Battery)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9259320490386663
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.0393700736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

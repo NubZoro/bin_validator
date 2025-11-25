@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00523BE4Q": {
+            "asin": "B00523BE4Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Large Corn on the Cob Skewers Holders, Set of 6",
+            "normalizedName": "Set of 6 Large Corn on the Cob Skewers Holders,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00MX4OFBG": {
+            "asin": "B00MX4OFBG",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.099999982558003
+            },
+            "name": "6 oz Paper Hot/Cold Ice Cream Cups - 100ct (Green)",
+            "normalizedName": "6 oz Paper Hot/Cold Ice Cream Cups - 100ct (Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259728
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

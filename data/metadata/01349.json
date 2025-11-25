@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004CD9X2C": {
+            "asin": "B004CD9X2C",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Alice: Madness Returns - Xbox 360",
+            "normalizedName": "Alice: Madness Returns - Xbox 360",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B00X4SGP9K": {
+            "asin": "B00X4SGP9K",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Stain Station Stain-Removal System",
+            "normalizedName": "Stain Station Stain-Removal System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B015OBSBHS": {
+            "asin": "B015OBSBHS",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Note 5 Case, Galaxy Note 5 Case, ENDLER Galaxy Note5 Wallet Case [Handbag Chain/Wristband][Purse] Flip Handbag Wallet PU Leather Case With Lanyard Case For Samsung Galaxy Note 5",
+            "normalizedName": "Note 5 Case, Galaxy Note 5 Case, ENDLER Galaxy Note5 Wallet Case [Handbag Chain/Wristband][Purse] Flip Handbag Wallet PU Leather Case With Lanyard Case For Samsung Galaxy Note 5",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

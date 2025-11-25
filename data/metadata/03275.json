@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001TVR13S": {
+            "asin": "B001TVR13S",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "L'Oreal Paris Ever Pure Moisture Conditioner, Rosemary Mint, 8.5 Fluid Ounce",
+            "normalizedName": "L'Oreal Paris Ever Pure Moisture Conditioner, Rosemary Mint, 8.5 Fluid Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B004LLFZ0O": {
+            "asin": "B004LLFZ0O",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Dakota Alert DC-1000 Wireless Doorbell, 1,000 Foot Range",
+            "normalizedName": "Dakota Alert DC-1000 Wireless Doorbell, 1,000 Foot Range",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.299999991534
+            }
+        },
+        "B01A7MFC8A": {
+            "asin": "B01A7MFC8A",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Organic Stimulating Kapha Churna Spice Mix, 2 oz. (57 g)",
+            "normalizedName": "Organic Stimulating Kapha Churna Spice Mix, 2 oz. (57 g)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

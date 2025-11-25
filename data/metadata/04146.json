@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0067VLJWE": {
+            "asin": "B0067VLJWE",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Tootsie Roll Frooties Fruit Rolls Mega Mix 8 Flavor Value Bag (Pack of 275)",
+            "normalizedName": "(Pack of 275) Tootsie Roll Frooties Fruit Rolls Mega Mix 8 Flavor Value Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B008EGUEBM": {
+            "asin": "B008EGUEBM",
+            "height": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Zojirushi SL-JAE14YF Mr Bento Stainless Lunch Jar, Lemon Yellow",
+            "normalizedName": "Zojirushi SL-JAE14YF Mr Bento Stainless Lunch Jar, Lemon Yellow",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00MHTR5B4": {
+            "asin": "B00MHTR5B4",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.099999984598
+            },
+            "name": "Toland Home Garden Floral Monogram O 12.5 x 18-Inch Decorative USA-Produced Garden Flag",
+            "normalizedName": "Toland Home Garden Floral Monogram O 12.5 x 18-Inch Decorative USA-Produced Garden Flag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B015PYYO0C": {
+            "asin": "B015PYYO0C",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 22.599999976948
+            },
+            "name": "Dell XPS9350-5340SLV 13.3 Inch QHD+ Touchscreen Laptop (6th Generation Intel Core i7, 8 GB RAM, 256 GB SSD) Microsoft Signature Edition",
+            "normalizedName": "Dell XPS9350-5340SLV 13.3 Inch QHD+ Touchscreen Laptop (6th Generation Intel Core i7, 8 GB RAM, 256 GB SSD) Microsoft Signature Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9999999966456374
+            },
+            "width": {
+                "unit": "IN",
+                "value": 15.49999998419
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

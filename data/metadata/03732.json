@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001QF5RHE": {
+            "asin": "B001QF5RHE",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "2 Pieces (SET) Tuff Support Front Hood Lift Supports 1982 To 1992 Chevrolet Camaro And Pontiac Firebird",
+            "normalizedName": "2 Pieces (SET) Tuff Support Front Hood Lift Supports 1982 To 1992 Chevrolet Camaro And Pontiac Firebird",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.299999998674
+            }
+        },
+        "B002CRZI38": {
+            "asin": "B002CRZI38",
+            "height": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Slow But Steady Turtle Wine Bottle Holder",
+            "normalizedName": "Slow But Steady Turtle Wine Bottle Holder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B005CF1ONK": {
+            "asin": "B005CF1ONK",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 20.99999997858
+            },
+            "name": "Snap White 11-inch-by-14-inch Wall Frame Matted to 8-inch-by-10-inch",
+            "normalizedName": "Snap White 11-inch-by-14-inch Wall Frame Matted to 8-inch-by-10-inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.149999997358439
+            },
+            "width": {
+                "unit": "IN",
+                "value": 15.199999984496
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

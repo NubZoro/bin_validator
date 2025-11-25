@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000WZ4KBS": {
+            "asin": "B000WZ4KBS",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Reese Towpower 74337 600 Pound Capacity Winch",
+            "normalizedName": "Reese Towpower 74337 600 Pound Capacity Winch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00BTMVNCM": {
+            "asin": "B00BTMVNCM",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Ruger BX-1 Magazine Plastic Case for 10 10/22 BX1 - Fits Takedown Bag - Holds 700 22LR",
+            "normalizedName": "Ruger BX-1 Magazine Plastic Case for 10 10/22 BX1 - Fits Takedown Bag - Holds 700 22LR",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

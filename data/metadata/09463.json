@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000AMEMJS": {
+            "asin": "B000AMEMJS",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Cadet Baseboard Mount Thermostat 120 / 240 V 17 A 2 Pole White Ul",
+            "normalizedName": "Cadet Baseboard Mount Thermostat 120 / 240 V 17 A 2 Pole White Ul",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00YQ93VPW": {
+            "asin": "B00YQ93VPW",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Majestic Pure Frankincense Essential Oil, Therapeutic Grade, 4 fl. Oz",
+            "normalizedName": "Majestic Pure Frankincense Essential Oil, Therapeutic Grade, 4 fl. Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VHS9TQ": {
+            "asin": "B000VHS9TQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "name": "13.5oz Hermes d'Orange Verte Body Lotion (Ten 1.35 Ounce Bottles)",
+            "normalizedName": "13.5oz Hermes d'Orange Verte Body Lotion (Ten 1.35 Ounce Bottles)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B005LOO2I6": {
+            "asin": "B005LOO2I6",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "Little Remedies Fever Pain Reliever, Natural Mixed Berry Infants, 2 Fluid Ounce",
+            "normalizedName": "Little Remedies Fever Pain Reliever, Natural Mixed Berry Infants, 2 Fluid Ounce",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00G75X158": {
+            "asin": "B00G75X158",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "Pure Body Naturals Vitamin C Serum for Face with Hyaluronic Acid, 20% C + E Professional Topical Facial Organic Skin Care - 1 oz.",
+            "normalizedName": "Pure Body Naturals Vitamin C Serum for Face with Hyaluronic Acid, 20% C + E Professional Topical Facial Organic Skin Care - 1 oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

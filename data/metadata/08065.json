@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000WZVQBA": {
+            "asin": "B000WZVQBA",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Chloraseptic Total Sugar Free Multi-Symptom Lozenges, Cherry, 15 Count",
+            "normalizedName": "Chloraseptic Total Sugar Free Multi-Symptom Lozenges, Cherry, 15 Count",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999997348
+            }
+        },
+        "B00ATNHOOI": {
+            "asin": "B00ATNHOOI",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Outdoor Research Lightweight Pack Cover, X-Large, Supernova",
+            "normalizedName": "Outdoor Research Lightweight Pack Cover, X-Large, Supernova",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

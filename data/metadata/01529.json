@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BWDUKY": {
+            "asin": "B000BWDUKY",
+            "height": {
+                "unit": "IN",
+                "value": 3.59842519318
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.20078739219
+            },
+            "name": "ACCEL 4049 8mm Super Stock Graphite Custom Wire Set - Yellow",
+            "normalizedName": "ACCEL 4049 8mm Super Stock Graphite Custom Wire Set - Yellow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000269126912
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.29921259098
+            }
+        },
+        "B005TDNXMK": {
+            "asin": "B005TDNXMK",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Motive Gear 5117 Dana-70 Differential Cover Gasket",
+            "normalizedName": "Motive Gear 5117 Dana-70 Differential Cover Gasket",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        },
+        "B00CF7E0R0": {
+            "asin": "B00CF7E0R0",
+            "height": {
+                "unit": "IN",
+                "value": 6.6141732216
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0472440822
+            },
+            "name": "AmazonBasics Medium DSLR Gadget Bag (Gray Interior)",
+            "normalizedName": "AmazonBasics Medium DSLR Gadget Bag (Gray Interior)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6314207388
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9212598324
+            }
+        },
+        "B00QVQSM3O": {
+            "asin": "B00QVQSM3O",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "(#1 Rated) The Original GORILLA GRIP Non-Slip Area Rug Pad, Made In USA, Available in Many Sizes, For Hard Floors (6' Round)",
+            "normalizedName": "(#1 Rated) The Original GORILLA GRIP Non-Slip Area Rug Pad, Made In USA, Available in Many Sizes, For Hard Floors (6' Round)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.749999988015
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

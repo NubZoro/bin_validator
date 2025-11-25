@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001XSRQA0": {
+            "asin": "B001XSRQA0",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "name": "Philips Norelco Charging Cord",
+            "normalizedName": "Philips Norelco Charging Cord",
+            "quantity": 15,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        },
+        "B01AI1ABIQ": {
+            "asin": "B01AI1ABIQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "name": "iDOO Real Wax Velvety Vanilla Scented Flameless Flickering Led Candle 7.5 x 15cm- Cream",
+            "normalizedName": "iDOO Real Wax Velvety Vanilla Scented Flameless Flickering Led Candle 7.5 x 15cm- Cream",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.440924524
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        },
+        "B01G9RFMZA": {
+            "asin": "B01G9RFMZA",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "iphone charger, GOOLEEN 10ft/3M Lightning Cable Nylon Braided Charging Cable Extra Long USB Syncing Cord for iphone se, 6s,6s plus,6plus,6,5s 5c 5, iPad Mini, Air,iPad5,iPod 7 on iOS9 - Rose Gold",
+            "normalizedName": "iphone charger, GOOLEEN 10ft/3M Lightning Cable Nylon Braided Charging Cable Extra Long USB Syncing Cord for iphone se, 6s,6s plus,6plus,6,5s 5c 5, iPad Mini, Air,iPad5,iPod 7 on iOS9 - Rose Gold",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 18
+}

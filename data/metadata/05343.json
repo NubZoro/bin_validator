@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1118452283": {
+            "asin": "1118452283",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Organic Chemistry, 2nd Edition",
+            "normalizedName": "Organic Chemistry, 2nd Edition",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00B7E3NV6": {
+            "asin": "B00B7E3NV6",
+            "height": {
+                "unit": "IN",
+                "value": 4.4
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.0
+            },
+            "name": "Eden Foods, Selected, Ume Plum Vinegar, 10 fl oz (296 ml) 2-Pack",
+            "normalizedName": "2-Pack Eden Foods, Selected, Ume Plum Vinegar, 10 fl oz (296 ml)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.1
+            }
+        },
+        "B0168YIWSI": {
+            "asin": "B0168YIWSI",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Microsoft Surface Pro 4  Type Cover with Fingerprint ID (Black)",
+            "normalizedName": "Microsoft Surface Pro 4  Type Cover with Fingerprint ID (Black)",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.149999999035621
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B01CTSFPFK": {
+            "asin": "B01CTSFPFK",
+            "height": {
+                "unit": "IN",
+                "value": 1.3385826758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.9133858136
+            },
+            "name": "Arvok 11 11.6 12 Inch Canvas Fabric Laptop Sleeve With Extra Bag/Notebook Computer Case/Ultrabook Tablet Briefcase Carrying Bag/Pouch Cover For MacBook Air/Pro/Acer/Asus/Dell/Lenovo/HP, Leaf Vein Grey",
+            "normalizedName": "Arvok 11 11.6 12 Inch Canvas Fabric Laptop Sleeve With Extra Bag/Notebook Computer Case/Ultrabook Tablet Briefcase Carrying Bag/Pouch Cover For MacBook Air/Pro/Acer/Asus/Dell/Lenovo/HP, Leaf Vein Grey",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7054792384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.661417314
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

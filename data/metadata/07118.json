@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004I8WHC4": {
+            "asin": "B004I8WHC4",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Timex Decorative XBBU Dual Alarm Clock with USB Charging and Night Light (Black)",
+            "normalizedName": "Timex Decorative XBBU Dual Alarm Clock with USB Charging and Night Light (Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B00CXTBJ2Y": {
+            "asin": "B00CXTBJ2Y",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Amzer AMZ95841 Dual Tone TPU Hybrid Skin Fit Case Cover for Nokia Lumia 925 - 1 Pack - Retail Packaging - Clear",
+            "normalizedName": "1 Pack Amzer AMZ95841 Dual Tone TPU Hybrid Skin Fit Case Cover for Nokia Lumia 925 - - Retail Packaging - Clear",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

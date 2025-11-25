@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000IXCO8K": {
+            "asin": "B000IXCO8K",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.511811018
+            },
+            "name": "Streamlight 85177 CR123A Lithium Batteries, 12-Pack",
+            "normalizedName": "12-Pack Streamlight 85177 CR123A Lithium Batteries,",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200233517459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.755905509
+            }
+        },
+        "B00GT2OCXE": {
+            "asin": "B00GT2OCXE",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "name": "Pure Goat Soapworks Tea Tree Goat Milk Soap 2-pack",
+            "normalizedName": "Pure Goat Soapworks Tea Tree Goat Milk Soap 2-pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B01GJJIFWA": {
+            "asin": "B01GJJIFWA",
+            "height": {
+                "unit": "IN",
+                "value": 0.4
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.9
+            },
+            "name": "Sword Art Online Protective Flexible Soft TPU Samsung Galaxy S7 Case, Asuna & Kirito Case for Samsung Galaxy S7",
+            "normalizedName": "Sword Art Online Protective Flexible Soft TPU Samsung Galaxy S7 Case, Asuna & Kirito Case for Samsung Galaxy S7",
+            "quantity": 3,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.2
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008RWUKXK": {
+            "asin": "B008RWUKXK",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "KIND Healthy Grains Granola Clusters, Oats and Honey with Toasted Coconut, Gluten Free, 11 Ounce Bags, 3 Count",
+            "normalizedName": "KIND Healthy Grains Granola Clusters, Oats and Honey with Toasted Coconut, Gluten Free, 11 Ounce Bags, 3 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.299999998071242
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B00EDKF4HM": {
+            "asin": "B00EDKF4HM",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Tree-Free Greetings VB48049 John W. Golden Artful Traveler Stainless Steel Water Bottle, 18-Ounce, Shetland Sheepdog",
+            "normalizedName": "Tree-Free Greetings VB48049 John W. Golden Artful Traveler Stainless Steel Water Bottle, 18-Ounce, Shetland Sheepdog",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

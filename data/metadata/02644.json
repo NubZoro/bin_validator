@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KCUU52Q": {
+            "asin": "B00KCUU52Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Cable Matters VGA Monitor Cable with 3.5mm Stereo Audio 3 Feet",
+            "normalizedName": "Cable Matters VGA Monitor Cable with 3.5mm Stereo Audio 3 Feet",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280213493476
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0929385543": {
+            "asin": "0929385543",
+            "height": {
+                "unit": "IN",
+                "value": 0.74015747956
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.59055117234
+            },
+            "name": "Prelude to Ascension: Tools for Transformation",
+            "normalizedName": "Prelude to Ascension: Tools for Transformation",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7599995557926
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.75984251381
+            }
+        },
+        "B003ODJ82G": {
+            "asin": "B003ODJ82G",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Paderno World Cuisine 5-Ounce Stainless-Steel Milk Syrup Dispenser",
+            "normalizedName": "Paderno World Cuisine 5-Ounce Stainless-Steel Milk Syrup Dispenser",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B004QB3FVK": {
+            "asin": "B004QB3FVK",
+            "height": {
+                "unit": "IN",
+                "value": 1.0236220462
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.992125971
+            },
+            "name": "Sheath Fixed Knife Sheath, Brown basketweave leather,Fits up to 7in blade",
+            "normalizedName": "Sheath Fixed Knife Sheath, Brown basketweave leather,Fits up to 7in blade",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.3070866108
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

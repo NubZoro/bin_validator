@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0093162RM": {
+            "asin": "B0093162RM",
+            "height": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.7874015638
+            },
+            "name": "Philips  Morning Wake-Up Light With Colored Sunrise Simulation and Dusk Fading Night Light, White, HF3520",
+            "normalizedName": "Philips  Morning Wake-Up Light With Colored Sunrise Simulation and Dusk Fading Night Light, White, HF3520",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.596591243441951
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.3937007768
+            }
+        },
+        "B010RLCH2U": {
+            "asin": "B010RLCH2U",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "AmazonBasics Nespresso Pod Storage Drawer - 50 Capsule Capacity",
+            "normalizedName": "AmazonBasics Nespresso Pod Storage Drawer - 50 Capsule Capacity",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5999999978196646
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

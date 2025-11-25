@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00H1HYZ9C": {
+            "asin": "B00H1HYZ9C",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Liliane Collection Kitchen Dish Towels - Includes 13 Towels - Commercial Grade 100% Cotton Towels (27\" x 14\") - Classic White Tea Towels with Blue Stripes",
+            "normalizedName": "Liliane Collection Kitchen Dish Towels - Includes 13 Towels - Commercial Grade 100% Cotton Towels (27\" x 14\") - Classic White Tea Towels with Blue Stripes",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B01739Y1RS": {
+            "asin": "B01739Y1RS",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Shopkins Sweet Spot Playset",
+            "normalizedName": "Shopkins Sweet Spot Playset",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8499999984486073
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

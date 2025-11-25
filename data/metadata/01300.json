@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00Q3AL7L2": {
+            "asin": "B00Q3AL7L2",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "ZTE Blade G Lux V830 Unlocked GSM Dual-Core Android Smartphone w/ 8MP Camera - White",
+            "normalizedName": "ZTE Blade G Lux V830 Unlocked GSM Dual-Core Android Smartphone w/ 8MP Camera - White",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6499999994549162
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

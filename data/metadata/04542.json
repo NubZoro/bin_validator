@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0082MO4KA": {
+            "asin": "B0082MO4KA",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "Adams Trace Plus Sock Style Shin Guard, Royal, Small",
+            "normalizedName": "Adams Trace Plus Sock Style Shin Guard, Royal, Small",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

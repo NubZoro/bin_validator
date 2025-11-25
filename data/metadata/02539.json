@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004NG97UG": {
+            "asin": "B004NG97UG",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.599999983068
+            },
+            "name": "Royal R812W Club Cellophane-Frill Wood Picks, 4\", Assorted (Case of 10000)",
+            "normalizedName": "(Case of 10000) Royal R812W Club Cellophane-Frill Wood Picks, 4\", Assorted",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

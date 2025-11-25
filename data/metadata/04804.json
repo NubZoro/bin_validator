@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "111134910X": {
+            "asin": "111134910X",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Communication Between Cultures",
+            "normalizedName": "Communication Between Cultures",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        },
+        "B001D4ALF6": {
+            "asin": "B001D4ALF6",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "1 Black Correct Ribbon",
+            "normalizedName": "1 Black Correct Ribbon",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B015HAL33K": {
+            "asin": "B015HAL33K",
+            "height": {
+                "unit": "IN",
+                "value": 1.6535433054
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.1653543234
+            },
+            "name": "The Legend of Heroes: Trails of Cold Steel - Lionheart Edition - PlayStation 3",
+            "normalizedName": "The Legend of Heroes: Trails of Cold Steel - Lionheart Edition - PlayStation 3",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9700240513738411
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5905511754
+            }
+        },
+        "B0186Y7VRQ": {
+            "asin": "B0186Y7VRQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "iPad Mini case,iPad Mini 2 case,iPad Mini 3 case,Gogoing [Shock-Absorption/High Impact Resistant] Hybrid Dual Layer Rugged Full Body Protection Case Cover For iPad Mini 1/2/3 (Gray-Green)",
+            "normalizedName": "iPad Mini case,iPad Mini 2 case,iPad Mini 3 case,Gogoing [Shock-Absorption/High Impact Resistant] Hybrid Dual Layer Rugged Full Body Protection Case Cover For iPad Mini 1/2/3 (Gray-Green)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

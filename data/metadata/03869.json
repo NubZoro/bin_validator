@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FH1K4RG": {
+            "asin": "B00FH1K4RG",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Funny Guy Mugs I'm Good With Math Engineer's Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs I'm Good With Math Engineer's Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B01GN79QF8": {
+            "asin": "B01GN79QF8",
+            "height": {
+                "unit": "IN",
+                "value": 0.009999999989800001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "6x6x6mm Momentary Push Button Switch 10 pack - 4Pin DIP Micro PCB tactile",
+            "normalizedName": "6x6x6mm Momentary Push Button Switch 10 pack - 4Pin DIP Micro PCB tactile",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

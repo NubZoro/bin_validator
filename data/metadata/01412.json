@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004HSMI60": {
+            "asin": "B004HSMI60",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Valentine's Cupcake Towel Set",
+            "normalizedName": "Valentine's Cupcake Towel Set",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00UPZTI94": {
+            "asin": "B00UPZTI94",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "name": "CaseBee\u00ae Fantasy Series - Cute Blue Fantasy Deer Samsung Galaxy S5 mini SM-G800 Case (Package includes Screen Protector)",
+            "normalizedName": "CaseBee\u00ae Fantasy Series - Cute Blue Fantasy Deer Samsung Galaxy S5 mini SM-G800 Case (Package includes Screen Protector)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

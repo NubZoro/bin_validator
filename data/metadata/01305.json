@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00WFBL8WQ": {
+            "asin": "B00WFBL8WQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "iPower Security SCCAME0063 Indoor 1000TVL 1.3MP Dome Security Camera (Black)",
+            "normalizedName": "iPower Security SCCAME0063 Indoor 1000TVL 1.3MP Dome Security Camera (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B01AXIF8UA": {
+            "asin": "B01AXIF8UA",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Zizo Bolt Cover For iPhone 6 and 6s 4.7in [.33mm 9H Tempered Glass Screen Protector] Dual-Layered [Military Grade] Case Kickstand Holster Belt -  - Black/Red",
+            "normalizedName": "Zizo Bolt Cover For iPhone 6 and 6s 4.7in [.33mm 9H Tempered Glass Screen Protector] Dual-Layered [Military Grade] Case Kickstand Holster Belt -  - Black/Red",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

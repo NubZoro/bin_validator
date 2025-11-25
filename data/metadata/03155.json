@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009EE2VIW": {
+            "asin": "B009EE2VIW",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Perfect Stix Wooden Craft/Ice Cream  Sticks, 4-1/2\" Length (Box of 1000)",
+            "normalizedName": "Perfect Stix Wooden Craft/Ice Cream  Sticks, 4-1/2\" Length (Box of 1000)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00V9STECM": {
+            "asin": "B00V9STECM",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Galaxy S6 Case, technext020 Galaxy S6 Case Bumper NEW Samsung Galaxy S6 Cover Galaxy S6 Silicone Cover Slim Fit Soft Rubber Gel Cover Scratch Resistant Bumper Case for Galaxy S6",
+            "normalizedName": "Galaxy S6 Case, technext020 Galaxy S6 Case Bumper NEW Samsung Galaxy S6 Cover Galaxy S6 Silicone Cover Slim Fit Soft Rubber Gel Cover Scratch Resistant Bumper Case for Galaxy S6",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

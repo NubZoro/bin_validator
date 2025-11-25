@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009W5KR2": {
+            "asin": "B0009W5KR2",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Belkin 1-Foot UTP RJ-45 Patch Cable (Black)",
+            "normalizedName": "Belkin 1-Foot UTP RJ-45 Patch Cable (Black)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00W6UWFBE": {
+            "asin": "B00W6UWFBE",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "10W Led Bulb,E27 16 Colors Changing Dimmable RGB LED Light Bulb with IR Remote Control for Home Decoration/Bar/Party/KTV Mood Ambiance Lighting(E27 10W Bulb)",
+            "normalizedName": "10W Led Bulb,E27 16 Colors Changing Dimmable RGB LED Light Bulb with IR Remote Control for Home Decoration/Bar/Party/KTV Mood Ambiance Lighting(E27 10W Bulb)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B01B01XPRW": {
+            "asin": "B01B01XPRW",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Ray Ban Aviator Solid Black Polarized",
+            "normalizedName": "Ray Ban Aviator Solid Black Polarized",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

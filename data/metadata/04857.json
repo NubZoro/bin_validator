@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001G7QFW8": {
+            "asin": "B001G7QFW8",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Nature's Bounty Cinnamon 1000 mg, 100 Capsules (Pack of 3)",
+            "normalizedName": "(Pack of 3) Nature's Bounty Cinnamon 1000 mg, 100 Capsules",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0090NYPYA": {
+            "asin": "B0090NYPYA",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Ray-Ban Aviator Large Metal Sunglasses, MATTE GOLD FRAME / CRYSTAL GREEN MIRROR MULTILAYER GREEN LENS, 55 mm",
+            "normalizedName": "Ray-Ban Aviator Large Metal Sunglasses, MATTE GOLD FRAME / CRYSTAL GREEN MIRROR MULTILAYER GREEN LENS, 55 mm",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.899999997042
+            }
+        },
+        "B00ALV8EJW": {
+            "asin": "B00ALV8EJW",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Nexxus Hydra Light Restoring Conditioner, Weightless Moisture 13.5 oz",
+            "normalizedName": "Nexxus Hydra Light Restoring Conditioner, Weightless Moisture 13.5 oz",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00XMQ8CG8": {
+            "asin": "B00XMQ8CG8",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "LSHtech LCD Display Touch Screen Digitizer Assembly for Sony Xperia Z Ultra XL39h C6802",
+            "normalizedName": "LSHtech LCD Display Touch Screen Digitizer Assembly for Sony Xperia Z Ultra XL39h C6802",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00YU83UBE": {
+            "asin": "B00YU83UBE",
+            "height": {
+                "unit": "IN",
+                "value": 1.4960629906
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.5826771566
+            },
+            "name": "4000 mAh Power Bank, Puridea C7 Series Dual USB Portable Charger External Battery Backup Pack for Apple iPhone 4 5 6 Plus Samsung HTC Nokia LG Sony Blackberry, Red",
+            "normalizedName": "4000 mAh Power Bank, Puridea C7 Series Dual USB Portable Charger External Battery Backup Pack for Apple iPhone 4 5 6 Plus Samsung HTC Nokia LG Sony Blackberry, Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26455201423289837
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

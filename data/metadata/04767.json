@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005FIA1F6": {
+            "asin": "B005FIA1F6",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Planet Wise Wet Diaper Bag, Black, Large",
+            "normalizedName": "Planet Wise Wet Diaper Bag, Black, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B01AWAH4U6": {
+            "asin": "B01AWAH4U6",
+            "height": {
+                "unit": "IN",
+                "value": 2.8999999970420003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Kingway Compatible Ink Cartridge Replacement for HP 940XL ( Black,Cyan,Magenta,Yellow , 4-Pack )",
+            "normalizedName": "4-Pack Kingway Compatible Ink Cartridge Replacement for HP 940XL ( Black,Cyan,Magenta,Yellow , )",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291276
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B01BO6ZQWA": {
+            "asin": "B01BO6ZQWA",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993777999
+            },
+            "name": "US Play Money \u2013 30 Bills of $1, $5, $10, $20, $50, & $100 - Educational Collection For Children In All Ages \u2013 For Prop And Novelty",
+            "normalizedName": "US Play Money \u2013 30 Bills of $1, $5, $10, $20, $50, & $100 - Educational Collection For Children In All Ages \u2013 For Prop And Novelty",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645638
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B01FV8SR7I": {
+            "asin": "B01FV8SR7I",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.5
+            },
+            "name": "Unsinkable Molly Brown, The [Blu-ray]",
+            "normalizedName": "Unsinkable Molly Brown, The [Blu-ray]",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

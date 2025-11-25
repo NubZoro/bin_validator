@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007VGGIB6": {
+            "asin": "B007VGGIB6",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Nikon WU-1a Wireless Mobile Adapter for Nikon Digital SLRs",
+            "normalizedName": "Nikon WU-1a Wireless Mobile Adapter for Nikon Digital SLRs",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

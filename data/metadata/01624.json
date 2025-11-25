@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000R2Z6AA": {
+            "asin": "B000R2Z6AA",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Barilla Pasta, Spaghetti, 16 Ounce",
+            "normalizedName": "Barilla Pasta, Spaghetti, 16 Ounce",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.069999999102708
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B00NO8RRSS": {
+            "asin": "B00NO8RRSS",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Toy Doll Clothes - Beach Dress 4 Piece Set",
+            "normalizedName": "4 Piece Set Toy Doll Clothes - Beach Dress",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00QU9OX6W": {
+            "asin": "B00QU9OX6W",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Better Space Neoprene Stroller Organizer w/Cup Holder, Black",
+            "normalizedName": "Better Space Neoprene Stroller Organizer w/Cup Holder, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999993676
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

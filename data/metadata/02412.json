@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0094G3NH8": {
+            "asin": "B0094G3NH8",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "name": "Covergirl Outlast Stay Fabulous 3-in-1 Foundation, Soft Honey 855 30mL (1 FL OZ)",
+            "normalizedName": "Covergirl Outlast Stay Fabulous 3-in-1 Foundation, Soft Honey 855 30mL (1 FL OZ)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            }
+        },
+        "B00HV0LDHG": {
+            "asin": "B00HV0LDHG",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Toysmith Go Play Bingo Playset",
+            "normalizedName": "Toysmith Go Play Bingo Playset",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00WH1RM2E": {
+            "asin": "B00WH1RM2E",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "name": "Funny Guy Mugs I Heart My Husband Ceramic Coffee Mug, White, 11-Ounce",
+            "normalizedName": "Funny Guy Mugs I Heart My Husband Ceramic Coffee Mug, White, 11-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00XSHRIF2": {
+            "asin": "B00XSHRIF2",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.87401574
+            },
+            "name": "Light Up Headbands-Green",
+            "normalizedName": "Light Up Headbands-Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04409200237214973
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.2834645646
+            }
+        },
+        "B00YTZ7P50": {
+            "asin": "B00YTZ7P50",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "InnoGear Studio Recording Condenser Microphone with Shock Mount Holder Clip for Radio Broadcasting Studio, Voice-Over Sound Studio, Home Recording, Gaming and Video Chat (Blue)",
+            "normalizedName": "InnoGear Studio Recording Condenser Microphone with Shock Mount Holder Clip for Radio Broadcasting Studio, Voice-Over Sound Studio, Home Recording, Gaming and Video Chat (Blue)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B01A8DSDMU": {
+            "asin": "B01A8DSDMU",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "QCY Bluetooth V4.1 Wireless Stereo Earphone QCY50 CVC 6.0 Noise Cancelling APT-X Headphone Headset with Mic for iPhone 6s iPhone plus, Samsung 7 Smart Phones & Tablets",
+            "normalizedName": "QCY Bluetooth V4.1 Wireless Stereo Earphone QCY50 CVC 6.0 Noise Cancelling APT-X Headphone Headset with Mic for iPhone 6s iPhone plus, Samsung 7 Smart Phones & Tablets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

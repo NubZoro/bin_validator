@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004GIQB00": {
+            "asin": "B004GIQB00",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.566929119
+            },
+            "name": "Deuter Streamer 3.0 Backpack Transparent One Size",
+            "normalizedName": "Deuter Streamer 3.0 Backpack Transparent One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.53
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.1417322772
+            }
+        },
+        "B01BI4TWGE": {
+            "asin": "B01BI4TWGE",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Linen Store Microsuede Slipcover, Furniture Protector Cover (Sofa, Taupe)",
+            "normalizedName": "Linen Store Microsuede Slipcover, Furniture Protector Cover (Sofa, Taupe)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3999999979873827
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B01BX378AC": {
+            "asin": "B01BX378AC",
+            "height": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.0
+            },
+            "name": "Cute Indie Aztec Tribal Print Backpack w/ 3 Zipper Top, Foldover Woven Book Bag",
+            "normalizedName": "Cute Indie Aztec Tribal Print Backpack w/ 3 Zipper Top, Foldover Woven Book Bag",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 13.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

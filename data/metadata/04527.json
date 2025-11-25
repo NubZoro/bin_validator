@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004PQ13U6": {
+            "asin": "B004PQ13U6",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Turbosmart TS-HV0403-BK Black 4mm Vacuum Hose 3M Packs",
+            "normalizedName": "Turbosmart TS-HV0403-BK Black 4mm Vacuum Hose 3M Packs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B00QXK882I": {
+            "asin": "B00QXK882I",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "ChiaoGoo 24-Inch Red Lace Stainless Steel Circular Knitting Needles, 7/4.5mm",
+            "normalizedName": "ChiaoGoo 24-Inch Red Lace Stainless Steel Circular Knitting Needles, 7/4.5mm",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

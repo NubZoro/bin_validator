@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001RMUVXQ": {
+            "asin": "B001RMUVXQ",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Outdoor Cap Remington Cap, Blaze Camo",
+            "normalizedName": "Outdoor Cap Remington Cap, Blaze Camo",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

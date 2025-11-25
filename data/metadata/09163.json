@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004G7PTB8": {
+            "asin": "B004G7PTB8",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "King Canopy Ball Bungees, 50 Pack, Black",
+            "normalizedName": "50 Pack King Canopy Ball Bungees, , Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00O08NCQ2": {
+            "asin": "B00O08NCQ2",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Antec 750W 80-PLUS Gold ATX12V/EPS12V 750 Power Supply 0-761345-25750-3",
+            "normalizedName": "Antec 750W 80-PLUS Gold ATX12V/EPS12V 750 Power Supply 0-761345-25750-3",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002TD4GME": {
+            "asin": "B002TD4GME",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822
+            },
+            "name": "Bellari VP130 Mm Tube Phono Preamplifier With Headphone Amplifier",
+            "normalizedName": "Bellari VP130 Mm Tube Phono Preamplifier With Headphone Amplifier",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B019RUPK4E": {
+            "asin": "B019RUPK4E",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Me Too Angela Smiling Bunny Stuffed Dolls Rabbit Plush Toys Pink 12''+Gift Bag",
+            "normalizedName": "Me Too Angela Smiling Bunny Stuffed Dolls Rabbit Plush Toys Pink 12''+Gift Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

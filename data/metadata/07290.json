@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008TLDYW8": {
+            "asin": "B008TLDYW8",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "LinenTablecloth 70-Inch Round Satin Tablecloth Purple",
+            "normalizedName": "LinenTablecloth 70-Inch Round Satin Tablecloth Purple",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

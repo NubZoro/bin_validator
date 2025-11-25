@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1259116832": {
+            "asin": "1259116832",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Financial Accounting with Connect Access Card",
+            "normalizedName": "Financial Accounting with Connect Access Card",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B000J2EN4S": {
+            "asin": "B000J2EN4S",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.599999985108
+            },
+            "name": "Belkin BE112230-08 12-Outlet Surge Protector",
+            "normalizedName": "Belkin BE112230-08 12-Outlet Surge Protector",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.14999999819703
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993777999
+            }
+        },
+        "B00VML4JY4": {
+            "asin": "B00VML4JY4",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "Hershey's chocolate milk, 2% reduced fat, 8-fl. oz. cartons (Pack of 18)",
+            "normalizedName": "(Pack of 18) Hershey's chocolate milk, 2% reduced fat, 8-fl. oz. cartons",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 10.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

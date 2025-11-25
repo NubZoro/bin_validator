@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00XZEV22S": {
+            "asin": "B00XZEV22S",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Stainless Steel Pineapple Easy Slicer and De-corer Kitchen Gadget",
+            "normalizedName": "Stainless Steel Pineapple Easy Slicer and De-corer Kitchen Gadget",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B016K32YBI": {
+            "asin": "B016K32YBI",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Funko Thunderbolts Punisher POP! Marvel Punisher Exclusive Vinyl Bobble Head #106",
+            "normalizedName": "Funko Thunderbolts Punisher POP! Marvel Punisher Exclusive Vinyl Bobble Head #106",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

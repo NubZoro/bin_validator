@@ -1,0 +1,115 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001CKJ8BE": {
+            "asin": "B001CKJ8BE",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Renaissance Peasant Lady Adult Costume",
+            "normalizedName": "Renaissance Peasant Lady Adult Costume",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.899999988882
+            }
+        },
+        "B008YA18UY": {
+            "asin": "B008YA18UY",
+            "height": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Diedrich Coffee K-Cup for Keurig Brewers, Medium Roast, Morning Edition Blend (Pack of 96)",
+            "normalizedName": "(Pack of 96) Diedrich Coffee K-Cup for Keurig Brewers, Medium Roast, Morning Edition Blend",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4900000000000007
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.399999990412
+            }
+        },
+        "B00GRNUEZ0": {
+            "asin": "B00GRNUEZ0",
+            "height": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Java Factory Single Cup Coffee for Keurig K Cup Brewers, Vanilla Dream, 80 Count",
+            "normalizedName": "Java Factory Single Cup Coffee for Keurig K Cup Brewers, Vanilla Dream, 80 Count",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00HXWTJGE": {
+            "asin": "B00HXWTJGE",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "White Swirl Cotton Filled Jewelry Box #75 (Pack of 10)",
+            "normalizedName": "(Pack of 10) White Swirl Cotton Filled Jewelry Box #75",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B00ICAR1WA": {
+            "asin": "B00ICAR1WA",
+            "height": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.599999988168
+            },
+            "name": "Giro Nine Snow Helmet - Men's Matte Dark Shadow Large",
+            "normalizedName": "Giro Nine Snow Helmet - Men's Matte Dark Shadow Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999999999997
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

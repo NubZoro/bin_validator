@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0078026903": {
+            "asin": "0078026903",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "The Social Construction of Difference and Inequality: Race, Class, Gender, and Sexuality",
+            "normalizedName": "The Social Construction of Difference and Inequality: Race, Class, Gender, and Sexuality",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        },
+        "B00ELPHTMW": {
+            "asin": "B00ELPHTMW",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Guerrilla Silicone Case for Texas Instruments TI-84 Plus C Silver Edition Graphing Calculator, Green",
+            "normalizedName": "Guerrilla Silicone Case for Texas Instruments TI-84 Plus C Silver Edition Graphing Calculator, Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

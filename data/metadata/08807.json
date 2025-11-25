@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B015L5FFVM": {
+            "asin": "B015L5FFVM",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Giro Raze Helmet - Kid's Black/Charcoal",
+            "normalizedName": "Giro Raze Helmet - Kid's Black/Charcoal",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4499999979454534
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

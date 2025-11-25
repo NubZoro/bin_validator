@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00E00GJ2E": {
+            "asin": "B00E00GJ2E",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "name": "Next Camo Ribbon 2.25 Inch (1 - Pack)",
+            "normalizedName": "(1 - Pack) Next Camo Ribbon 2.25 Inch",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B00MC5ZCAY": {
+            "asin": "B00MC5ZCAY",
+            "height": {
+                "unit": "IN",
+                "value": 0.3937007865984252
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.149606292787402
+            },
+            "name": "Pack of 12 Pairs Cubic Zirconia Crystal Magnetic Stud Earrings Mix Size Color",
+            "normalizedName": "Pack of 12  Pairs Cubic Zirconia Crystal Magnetic Stud Earrings Mix Size Color",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7559055061889763
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

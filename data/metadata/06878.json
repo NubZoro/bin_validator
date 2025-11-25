@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000MIIFB6": {
+            "asin": "B000MIIFB6",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Jack Black All-Over Wash For Face, Hair & Body, 33 fl. oz.",
+            "normalizedName": "Jack Black All-Over Wash For Face, Hair & Body, 33 fl. oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3499999980293125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B00I03L3BO": {
+            "asin": "B00I03L3BO",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Fisher-Price Imaginext DC Super Friends: Bane Battle Sled",
+            "normalizedName": "Fisher-Price Imaginext DC Super Friends: Bane Battle Sled",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

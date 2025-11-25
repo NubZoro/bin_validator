@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BHDLQM": {
+            "asin": "B000BHDLQM",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Mabis Dmi Healthcare Rubber Water Bottle, Red, One",
+            "normalizedName": "Mabis Dmi Healthcare Rubber Water Bottle, Red, One",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B005LIX9P4": {
+            "asin": "B005LIX9P4",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Nutrine Garlic Shampoo + Conditioner 20oz Combo Unscented",
+            "normalizedName": "Nutrine Garlic Shampoo + Conditioner 20oz Combo Unscented",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

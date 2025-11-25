@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01DLXHOCE": {
+            "asin": "B01DLXHOCE",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "RUIMIO Lighted Makeup Mirror with 7X Magnification and Suction Base",
+            "normalizedName": "RUIMIO Lighted Makeup Mirror with 7X Magnification and Suction Base",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7495640396979681
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.299999992554
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

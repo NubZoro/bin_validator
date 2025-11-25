@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0050PKUC8": {
+            "asin": "B0050PKUC8",
+            "height": {
+                "unit": "IN",
+                "value": 1.574803148
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.1811023508
+            },
+            "name": "50 Nespresso Capsules Roma Coffee New",
+            "normalizedName": "50 Nespresso Capsules Roma Coffee New",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.881849048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.5590551104
+            }
+        },
+        "B009GDC1LI": {
+            "asin": "B009GDC1LI",
+            "height": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "Starbucks Veranda Blend Blonde, K-Cup for Keurig Brewers, 96 Count",
+            "normalizedName": "Starbucks Veranda Blend Blonde, K-Cup for Keurig Brewers, 96 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.049999996603708
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B00CPH4KYS": {
+            "asin": "B00CPH4KYS",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "50 Nespresso Capsules Limited Edition 2013 - Vanilio, Caramelito, Ciacattino",
+            "normalizedName": "50 Nespresso Capsules Limited Edition 2013 - Vanilio, Caramelito, Ciacattino",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00J8VMX7U": {
+            "asin": "B00J8VMX7U",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.699999982966
+            },
+            "name": "NCAA Fathead Logosheet-17\"-Clemson Tigers",
+            "normalizedName": "NCAA Fathead Logosheet-17\"-Clemson Tigers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

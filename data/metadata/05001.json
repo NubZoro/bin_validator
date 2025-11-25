@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00EDZIC12": {
+            "asin": "B00EDZIC12",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.899999986842
+            },
+            "name": "NXT GENERATION C-1 Spider Glove, Black",
+            "normalizedName": "NXT GENERATION C-1 Spider Glove, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00EE21ECI": {
+            "asin": "B00EE21ECI",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.799999988984
+            },
+            "name": "Ergobaby Organic Baby Carrier - Navy Midnight - One Size",
+            "normalizedName": "Ergobaby Organic Baby Carrier - Navy Midnight - One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B01A69KEPK": {
+            "asin": "B01A69KEPK",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Kar's Sweet 'n Salty Trail Mix, 2-oz, 30 Count",
+            "normalizedName": "Kar's Sweet 'n Salty Trail Mix, 2-oz, 30 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.24999999643599
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

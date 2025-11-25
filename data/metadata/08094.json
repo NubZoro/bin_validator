@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0679864458": {
+            "asin": "0679864458",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Wheels! (Step-Into-Reading, Step 1)",
+            "normalizedName": "Wheels! (Step-Into-Reading, Step 1)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B001O4C6NA": {
+            "asin": "B001O4C6NA",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Murdoch Mysteries, Season One",
+            "normalizedName": "Murdoch Mysteries, Season One",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00G6EE6NG": {
+            "asin": "B00G6EE6NG",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Playtex Training Time Straw Cups, 6 Ounce, 2 Count (Colors may vary) (Discontinued by Manufacturer)",
+            "normalizedName": "Playtex Training Time Straw Cups, 6 Ounce, 2 Count (Colors may vary) (Discontinued by Manufacturer)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

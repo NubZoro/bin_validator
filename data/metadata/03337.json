@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B016JHQLIC": {
+            "asin": "B016JHQLIC",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.0
+            },
+            "name": "Designs by Nathan, 24 Count Loose Beads, 8mm Size, Crystal Light Chrome-Colored, Article Code #5000 Round Faceted Beads, Crystals from Swarovski",
+            "normalizedName": "Designs by Nathan, 24 Count Loose Beads, 8mm Size, Crystal Light Chrome-Colored, Article Code #5000 Round Faceted Beads, Crystals from Swarovski",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        },
+        "B01AUSYE4E": {
+            "asin": "B01AUSYE4E",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Pen Grip,Black",
+            "normalizedName": "Pen Grip,Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

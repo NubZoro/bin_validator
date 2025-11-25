@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0170ACZWI": {
+            "asin": "B0170ACZWI",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "TMNT Ninja Turtles 'Gnarly Ninjas' 3pc Twin Bed Sheet Set",
+            "normalizedName": "TMNT Ninja Turtles 'Gnarly Ninjas' 3pc Twin Bed Sheet Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4499999979454534
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

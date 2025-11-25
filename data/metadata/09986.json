@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000CFLKX": {
+            "asin": "B0000CFLKX",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Oneida Flight 45-Piece Stainless-Steel Flatware Set, Service for 8",
+            "normalizedName": "Oneida Flight 45-Piece Stainless-Steel Flatware Set, Service for 8",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00VR7LZ9U": {
+            "asin": "B00VR7LZ9U",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "KwikSafety Class 2 High Visibility Ultra Cool Mesh Surveyor Safety Vest with Reflective Strips & Pockets, Construction, Motorcycle, Bike Safety, Public Safety, Security Guard Safety Equipment, Meets ANSI/SEA 107-2010 Class 2 Level 2, Orange, Size L/Xl",
+            "normalizedName": "KwikSafety Class 2 High Visibility Ultra Cool Mesh Surveyor Safety Vest with Reflective Strips & Pockets, Construction, Motorcycle, Bike Safety, Public Safety, Security Guard Safety Equipment, Meets ANSI/SEA 107-2010 Class 2 Level 2, Orange, Size L/Xl",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

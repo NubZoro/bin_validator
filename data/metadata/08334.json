@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EQU16I": {
+            "asin": "B000EQU16I",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "ACDelco D6264C GM Original Equipment Turn Signal, Headlight, Headlight Dimmer, Cruise, and Fog Lamp Switch with Lever",
+            "normalizedName": "ACDelco D6264C GM Original Equipment Turn Signal, Headlight, Headlight Dimmer, Cruise, and Fog Lamp Switch with Lever",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B0013EFCPK": {
+            "asin": "B0013EFCPK",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Malden Linear Black Picture Frame, 5 inches by 7 inches",
+            "normalizedName": "Malden Linear Black Picture Frame, 5 inches by 7 inches",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 12
+}

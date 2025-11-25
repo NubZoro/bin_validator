@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004X5NNGG": {
+            "asin": "B004X5NNGG",
+            "height": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "PORTER-CABLE PC60TAG 6.0-Amp 4-1/2-Inch Angle Grinder",
+            "normalizedName": "PORTER-CABLE PC60TAG 6.0-Amp 4-1/2-Inch Angle Grinder",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.649999995261963
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00LMCW53U": {
+            "asin": "B00LMCW53U",
+            "height": {
+                "unit": "IN",
+                "value": 6.1417322772
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.023622036
+            },
+            "name": "Joseph Joseph 4-Piece Mixing Bowl Set with Egg Yolk Separator Nest Mix",
+            "normalizedName": "Joseph Joseph 4-Piece Mixing Bowl Set with Egg Yolk Separator Nest Mix",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.5132441352125348
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.3149606194
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

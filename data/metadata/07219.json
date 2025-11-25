@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A3XNUQA": {
+            "asin": "B00A3XNUQA",
+            "height": {
+                "unit": "IN",
+                "value": 8.299999991534001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 21.199999978376
+            },
+            "name": "BEABA Babycook Pro",
+            "normalizedName": "BEABA Babycook Pro",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.499999990356208
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

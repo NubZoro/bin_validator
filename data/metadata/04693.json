@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0084EE4YC": {
+            "asin": "B0084EE4YC",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Frabill FXE Performance Task Glove, Medium",
+            "normalizedName": "Frabill FXE Performance Task Glove, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B00TL2VSC2": {
+            "asin": "B00TL2VSC2",
+            "height": {
+                "unit": "IN",
+                "value": 1.7716535415
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299212592
+            },
+            "name": "High Quality Vga Male to Male Cable 33 Feet (10 Meters)",
+            "normalizedName": "High Quality Vga Male to Male Cable 33 Feet (10 Meters)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.1259842498
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

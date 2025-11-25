@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002GDIKK6": {
+            "asin": "B002GDIKK6",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Special Effects SFX Hair Color Hair Dye Blue Mayhem",
+            "normalizedName": "Special Effects SFX Hair Color Hair Dye Blue Mayhem",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00TWMMNYS": {
+            "asin": "B00TWMMNYS",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Oxford Light OL454418 3 Outlet Indoor Extension Cord, 8 Feet (white) Flat Plug Flat Extension Cord, 3-Wire, White, 8-Foot",
+            "normalizedName": "Oxford Light OL454418 3 Outlet Indoor Extension Cord, 8 Feet (white) Flat Plug Flat Extension Cord, 3-Wire, White, 8-Foot",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B017SV62UK": {
+            "asin": "B017SV62UK",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "iPhone 6 6s Case, True Color\u00ae Hipster Mustache & Lips Slim Hybrid Hard Back + Soft TPU Bumper Protective Durable [True Protect Series] +FREE Stylus & Screen Protector - Gold",
+            "normalizedName": "iPhone 6 6s Case, True Color\u00ae Hipster Mustache & Lips Slim Hybrid Hard Back + Soft TPU Bumper Protective Durable [True Protect Series] +FREE Stylus & Screen Protector - Gold",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PJ4UGH4": {
+            "asin": "B00PJ4UGH4",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "2nd Gen Isobag 6 Meal Fuchsia/Black",
+            "normalizedName": "2nd Gen Isobag 6 Meal Fuchsia/Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B00YS9HI7C": {
+            "asin": "B00YS9HI7C",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Easyology Premium Cat Litter Mat - XL Super Size - Extra Large Scatter Control Kitty Litter Mats for Cats Tracking Litter Out of Their Box - Soft on Paws- Elegant for Your Home- (Patent Pending)",
+            "normalizedName": "Easyology Premium Cat Litter Mat - XL Super Size - Extra Large Scatter Control Kitty Litter Mats for Cats Tracking Litter Out of Their Box - Soft on Paws- Elegant for Your Home- (Patent Pending)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.849999997610017
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

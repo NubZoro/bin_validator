@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01ASVDR8M": {
+            "asin": "B01ASVDR8M",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.099999983578
+            },
+            "name": "Fisher-Price Thomas the Train MINIS Motorized Raceway",
+            "normalizedName": "Fisher-Price Thomas the Train MINIS Motorized Raceway",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1499999973584396
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B01EIUEQVQ": {
+            "asin": "B01EIUEQVQ",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Apple MacBook MLHC2LL/A 12-Inch Laptop with Retina Display (Silver, 512 GB) NEWEST VERSION",
+            "normalizedName": "Apple MacBook MLHC2LL/A 12-Inch Laptop with Retina Display (Silver, 512 GB) NEWEST VERSION",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.949999996687567
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

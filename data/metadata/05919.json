@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004E0Z96M": {
+            "asin": "B004E0Z96M",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Danco 10319 Decorative 8-Inch Tub Spout, Brushed Nickel",
+            "normalizedName": "Danco 10319 Decorative 8-Inch Tub Spout, Brushed Nickel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        },
+        "B008XCNJB4": {
+            "asin": "B008XCNJB4",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Bare Minerals Stroke of Light Eye Brightener in Luminous 3",
+            "normalizedName": "Bare Minerals Stroke of Light Eye Brightener in Luminous 3",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.899999999082
+            }
+        },
+        "B010SE9QG6": {
+            "asin": "B010SE9QG6",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Miss U Hair Honey Lemon Wig Long Wavy Light Orange Cosplay Wig with Yellow Hairband and Glassess",
+            "normalizedName": "Miss U Hair Honey Lemon Wig Long Wavy Light Orange Cosplay Wig with Yellow Hairband and Glassess",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B01DONL1WA": {
+            "asin": "B01DONL1WA",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "NageBee Slim Hard Shell Holster with Locking Belt Clip Combo Case for LG G5 - Black",
+            "normalizedName": "NageBee Slim Hard Shell Holster with Locking Belt Clip Combo Case for LG G5 - Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

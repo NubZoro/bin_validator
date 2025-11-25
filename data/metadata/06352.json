@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00192KYNQ": {
+            "asin": "B00192KYNQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.4724409342
+            },
+            "name": "Camco 43902 12 oz Polycarbonate Margarita Glass - 2 pack",
+            "normalizedName": "Camco 43902 12 oz Polycarbonate Margarita Glass - 2 pack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560426986952
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.055118101
+            }
+        },
+        "B00J3Z9EBE": {
+            "asin": "B00J3Z9EBE",
+            "height": {
+                "unit": "IN",
+                "value": 5.5899999942982
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.9699999877906
+            },
+            "name": "Suzuki OEM Oil Change Kit 3 Quarts Full Synthetic GSXR SV650 King Quad",
+            "normalizedName": "Suzuki OEM Oil Change Kit 3 Quarts Full Synthetic GSXR SV650 King Quad",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.7999999942975835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.449999990360999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0069YM946": {
+            "asin": "B0069YM946",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.799999986944
+            },
+            "name": "Classic Accessories Veranda Chimenea Cover",
+            "normalizedName": "Classic Accessories Veranda Chimenea Cover",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B008GZV3AM": {
+            "asin": "B008GZV3AM",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Jordan's Skinny Gourmet Syrups Sugar Free, Irish Cream, 25.4-Ounce (Pack of 6)",
+            "normalizedName": "(Pack of 6) Jordan's Skinny Gourmet Syrups Sugar Free, Irish Cream, 25.4-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 11.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

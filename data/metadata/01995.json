@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00RPPYNAG": {
+            "asin": "B00RPPYNAG",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Adorox Set of 3 Coffee Mug Hanging Wall Art Latte Java Mocha Lightweight Metal Home Decor Coffeehouse Cup Caffeine (Brown (1 Set))",
+            "normalizedName": "Set of 3 Adorox Coffee Mug Hanging Wall Art Latte Java Mocha Lightweight Metal Home Decor Coffeehouse Cup Caffeine (Brown (1 Set))",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B0187V4X9W": {
+            "asin": "B0187V4X9W",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Ark Naturals Sea Mobility - Chicken Jerky 9oz bag ( 2 Bags)",
+            "normalizedName": "Ark Naturals Sea Mobility - Chicken Jerky 9oz bag ( 2 Bags)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

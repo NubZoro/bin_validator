@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DDTKXXE": {
+            "asin": "B00DDTKXXE",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 18.99999998062
+            },
+            "name": "Blade BLH5606 Boom Support Set: 600 X",
+            "normalizedName": "Blade BLH5606 Boom Support Set: 600 X",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B017X4KY4M": {
+            "asin": "B017X4KY4M",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.599999983068
+            },
+            "name": "Red Extra-Large Silicone Dish-Drying Mat & High-Heat Resistant Trivet | Antimicrobial, Antibacterial | 17.8 x 15.8 inch",
+            "normalizedName": "Red Extra-Large Silicone Dish-Drying Mat & High-Heat Resistant Trivet | Antimicrobial, Antibacterial | 17.8 x 15.8 inch",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3668520723904125
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

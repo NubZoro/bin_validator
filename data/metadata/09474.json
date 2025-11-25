@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002BWP3WA": {
+            "asin": "B002BWP3WA",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Black Dynamite [Blu-ray]",
+            "normalizedName": "Black Dynamite [Blu-ray]",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B009H0O9AG": {
+            "asin": "B009H0O9AG",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Leafware Square Plate (25 Pack), 7\", Natural",
+            "normalizedName": "(25 Pack) Leafware Square Plate , 7\", Natural",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B011EK2HNC": {
+            "asin": "B011EK2HNC",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "Cleveland Abduction",
+            "normalizedName": "Cleveland Abduction",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

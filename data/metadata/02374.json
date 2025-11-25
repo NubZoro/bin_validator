@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00362RWU0": {
+            "asin": "B00362RWU0",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "US Toy - Paw Print Theme Mini Plastic Springs, Assorted Color, Dozen -1 3/8\"",
+            "normalizedName": "US Toy - Paw Print Theme Mini Plastic Springs, Assorted Color, Dozen -1 3/8\"",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

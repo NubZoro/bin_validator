@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000Q5PGYE": {
+            "asin": "B000Q5PGYE",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.599999986128
+            },
+            "name": "Stanley 056208L Bin #2 Set of Eight",
+            "normalizedName": "Stanley 056208L Bin #2 Set of Eight",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        },
+        "B00634Z6BA": {
+            "asin": "B00634Z6BA",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Red Bull Energy Drink, 8.4 Fl Oz Cans, 12 Pack",
+            "normalizedName": "12 Pack Red Bull Energy Drink, 8.4 Fl Oz Cans,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.449999993752501
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B01FTTOV5Q": {
+            "asin": "B01FTTOV5Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.399999984292
+            },
+            "name": "Pentatonix (Deluxe Version)",
+            "normalizedName": "Pentatonix (Deluxe Version)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3999999988259733
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.599999987148
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

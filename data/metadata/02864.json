@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000088O9Y": {
+            "asin": "B000088O9Y",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Coleman Water Carrier, 5-Gallon",
+            "normalizedName": "Coleman Water Carrier, 5-Gallon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.599999990208
+            }
+        },
+        "B003QP4DCC": {
+            "asin": "B003QP4DCC",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.81102361
+            },
+            "name": "Cra-Z-Art Stick N Sparkle Make Your Own Friendship Bracelet Kit",
+            "normalizedName": "Cra-Z-Art Stick N Sparkle Make Your Own Friendship Bracelet Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.79
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.8661417212
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

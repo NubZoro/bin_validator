@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0811220354": {
+            "asin": "0811220354",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Exercises in Style (New Directions Books)",
+            "normalizedName": "Exercises in Style (New Directions Books)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

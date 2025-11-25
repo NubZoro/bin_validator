@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00ECIYPKM": {
+            "asin": "B00ECIYPKM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Ann Cherry Women's Full Vest Latex Waist Trainer Cincher Faja Girdle Body Shaper, Black, Size 36",
+            "normalizedName": "Ann Cherry Women's Full Vest Latex Waist Trainer Cincher Faja Girdle Body Shaper, Black, Size 36",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.349999998867903
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B015L4BIH8": {
+            "asin": "B015L4BIH8",
+            "height": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "Giro Revel Helmet - Women's Matte Black/Charcoal",
+            "normalizedName": "Giro Revel Helmet - Women's Matte Black/Charcoal",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5999999986582554
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

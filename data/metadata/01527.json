@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0698115775": {
+            "asin": "0698115775",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.8188976288
+            },
+            "name": "Jim and the Beanstalk",
+            "normalizedName": "Jim and the Beanstalk",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001167587295
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.5590551104
+            }
+        },
+        "1118934229": {
+            "asin": "1118934229",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "A World History of Rubber: Empire, Industry, and the Everyday",
+            "normalizedName": "A World History of Rubber: Empire, Industry, and the Everyday",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "1594631700": {
+            "asin": "1594631700",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.599999990208
+            },
+            "name": "Life Reimagined: The Science, Art, and Opportunity of Midlife",
+            "normalizedName": "Life Reimagined: The Science, Art, and Opportunity of Midlife",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6499999986163254
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

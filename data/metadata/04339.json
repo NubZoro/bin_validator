@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009VJ2MX4": {
+            "asin": "B009VJ2MX4",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Reserveage - Grass Fed Whey Protein, Minimally Processed with High Biological Value, Vanilla, 12 Servings (12.7 oz)",
+            "normalizedName": "Reserveage - Grass Fed Whey Protein, Minimally Processed with High Biological Value, Vanilla, 12 Servings (12.7 oz)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

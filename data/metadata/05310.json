@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0176GZ53M": {
+            "asin": "B0176GZ53M",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Naomi Home Replacement Hulls for Buckwheat Pillow",
+            "normalizedName": "Naomi Home Replacement Hulls for Buckwheat Pillow",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007GCQ702": {
+            "asin": "B007GCQ702",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Plastic Rectangular Table Cloth 54\" x 108\", Lime Green",
+            "normalizedName": "Plastic Rectangular Table Cloth 54\" x 108\", Lime Green",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00IRF0PNM": {
+            "asin": "B00IRF0PNM",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "WILD JO: 36 Cup Organic Dark French Roast for K-Cup Coffee Brewers, Bold Strong Wicked Good! Keurig 1.0 & 2.0 Eco-Friendly Cup, Our Most Popular, USDA Certified, 100% Arabica, No Additives, Non-GMO",
+            "normalizedName": "WILD JO: 36 Cup Organic Dark French Roast for K-Cup Coffee Brewers, Bold Strong Wicked Good! Keurig 1.0 & 2.0 Eco-Friendly Cup, Our Most Popular, USDA Certified, 100% Arabica, No Additives, Non-GMO",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

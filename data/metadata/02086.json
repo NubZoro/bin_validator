@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00V06MCDG": {
+            "asin": "B00V06MCDG",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "name": "Rikki Knight Compact Mirror, Route 66, 3 Ounce",
+            "normalizedName": "Rikki Knight Compact Mirror, Route 66, 3 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

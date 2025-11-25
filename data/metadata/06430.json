@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00028XJNA": {
+            "asin": "B00028XJNA",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "Medela Pump and Save Breast Milk Bags, 50 Count",
+            "normalizedName": "Medela Pump and Save Breast Milk Bags, 50 Count",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B001CMLAZ4": {
+            "asin": "B001CMLAZ4",
+            "height": {
+                "unit": "IN",
+                "value": 1.4960629906
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.5039369992
+            },
+            "name": "Honeywell RCWL300A1006 Premium Portable Wireless Door Chime and Push Button",
+            "normalizedName": "Honeywell RCWL300A1006 Premium Portable Wireless Door Chime and Push Button",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7495640403265454
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.0629921198
+            }
+        },
+        "B003IJ0N7A": {
+            "asin": "B003IJ0N7A",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Sof Sole Neatsfoot Oil, 8-Ounce",
+            "normalizedName": "Sof Sole Neatsfoot Oil, 8-Ounce",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FOUNYE": {
+            "asin": "B000FOUNYE",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "name": "Cole Hersee 4112-RC000 Buzzer with Pilot Light",
+            "normalizedName": "Cole Hersee 4112-RC000 Buzzer with Pilot Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B00PZ26KWK": {
+            "asin": "B00PZ26KWK",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Dogswell Sweet Potato with Chicken Broth Super Boost Veggie Chews, 15oz.",
+            "normalizedName": "Dogswell Sweet Potato with Chicken Broth Super Boost Veggie Chews, 15oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

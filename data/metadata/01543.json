@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00006IF67": {
+            "asin": "B00006IF67",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Scotch Magic Tape, 3/4 x 1000 Inches, Boxed, 6 Rolls (810K6)",
+            "normalizedName": "Scotch Magic Tape, 3/4 x 1000 Inches, Boxed, 6 Rolls (810K6)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B000P8IXM4": {
+            "asin": "B000P8IXM4",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994288
+            },
+            "name": "Weed Eater String Trimmer Spool for PP025 and PPB150E .080-Inch 952711636",
+            "normalizedName": "Weed Eater String Trimmer Spool for PP025 and PPB150E .080-Inch 952711636",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.35
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "B00HTK9K3M": {
+            "asin": "B00HTK9K3M",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Redragon M650 2.4GHz Wireless Gaming Mouse (1000/1500/2000 DPI), Nano USB Receiver, Avago Energy Efficient Infrared Engine",
+            "normalizedName": "Redragon M650 2.4GHz Wireless Gaming Mouse (1000/1500/2000 DPI), Nano USB Receiver, Avago Energy Efficient Infrared Engine",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B01CA6R04A": {
+            "asin": "B01CA6R04A",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "name": "Amfoucs Reusable Coffee Filters, Solo Pod for Single Serving Brewer System, 6 Pack",
+            "normalizedName": "6 Pack Amfoucs Reusable Coffee Filters, Solo Pod for Single Serving Brewer System,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.29999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

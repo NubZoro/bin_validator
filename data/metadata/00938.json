@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1285454316": {
+            "asin": "1285454316",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Life-Span Human Development",
+            "normalizedName": "Life-Span Human Development",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3499999971907215
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B004QMRK1K": {
+            "asin": "B004QMRK1K",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "Shake Weight for Women With Bonus Video Content",
+            "normalizedName": "Shake Weight for Women With Bonus Video Content",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.8999999975680875
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B005K8AVEM": {
+            "asin": "B005K8AVEM",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.499999983170003
+            },
+            "name": "Snap-N-Store Letter and Legal File Box, 9 1/2 x 14 3/4 x 12 1/4 Inches, White (SNS01808)",
+            "normalizedName": "Snap-N-Store Letter and Legal File Box, 9 1/2 x 14 3/4 x 12 1/4 Inches, White (SNS01808)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.49999998623
+            }
+        },
+        "B013JT4D88": {
+            "asin": "B013JT4D88",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Aprince Silicone Baking Mat Set (2) Non-Stick Cookie Sheet (Silicone Mat 2)",
+            "normalizedName": "Aprince Silicone Baking Mat Set (2) Non-Stick Cookie Sheet (Silicone Mat 2)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7099999994046007
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000F4H5F4": {
+            "asin": "B000F4H5F4",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Twinings English Breakfast Tea, Loose Tea, 3.53 Ounce Tin (Pack of 6)",
+            "normalizedName": "(Pack of 6) Twinings English Breakfast Tea, Loose Tea, 3.53 Ounce Tin",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.099999992758
+            }
+        },
+        "B0083COLAM": {
+            "asin": "B0083COLAM",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Tazo Iced Lemongrass Green Tea 6 Bags (Case of 4)",
+            "normalizedName": "(Case of 4) Tazo Iced Lemongrass Green Tea 6 Bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

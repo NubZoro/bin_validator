@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0692656006": {
+            "asin": "0692656006",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "name": "Quilted Wisdom, Meditations for \"Peacing\" Your Life",
+            "normalizedName": "Quilted Wisdom, Meditations for \"Peacing\" Your Life",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        },
+        "B0052PI6M2": {
+            "asin": "B0052PI6M2",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Vestil BOL-CAP-5.5-R Molded Rubber Replacement Bollard Cap",
+            "normalizedName": "Vestil BOL-CAP-5.5-R Molded Rubber Replacement Bollard Cap",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.970024052187294
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B007JWJ8FU": {
+            "asin": "B007JWJ8FU",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Aleve Individual Sealed 1 Caplet in a Packet 220 mg (Box of 48 Packets)",
+            "normalizedName": "48 Pack Aleve Individual Sealed 1 Caplet in a Packet 220 mg (Box of ets)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

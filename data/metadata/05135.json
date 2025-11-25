@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008CCE7HK": {
+            "asin": "B008CCE7HK",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Genesis GPS080 Corner Palm Sander, Grey",
+            "normalizedName": "Genesis GPS080 Corner Palm Sander, Grey",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

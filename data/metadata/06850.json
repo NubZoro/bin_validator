@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A2VMDFW": {
+            "asin": "B00A2VMDFW",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.749999984955
+            },
+            "name": "Glass Top Black Cufflinks Jewelry Showcase Storage Organizer Display Case Box",
+            "normalizedName": "Glass Top Black Cufflinks Jewelry Showcase Storage Organizer Display Case Box",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7999999984905373
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.249999991585
+            }
+        },
+        "B00EKR5S0Q": {
+            "asin": "B00EKR5S0Q",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Starbucks Vanilla Coffee Keurig K-Cups, 32 Count (0.35 oz each)",
+            "normalizedName": "Starbucks Vanilla Coffee Keurig K-Cups, 32 Count (0.35 oz each)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00KOJQTES": {
+            "asin": "B00KOJQTES",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.299999986434
+            },
+            "name": "Toland Home Garden Snowman Owls 12.5 x 18-Inch Decorative USA-Produced Garden Flag",
+            "normalizedName": "Toland Home Garden Snowman Owls 12.5 x 18-Inch Decorative USA-Produced Garden Flag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

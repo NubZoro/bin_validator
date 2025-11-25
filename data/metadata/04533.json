@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TZF8EJK": {
+            "asin": "B00TZF8EJK",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "Meccano Multimodels, Rescue Squad 3 Model Set",
+            "normalizedName": "Meccano Multimodels, Rescue Squad 3 Model Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B01CAT2I30": {
+            "asin": "B01CAT2I30",
+            "height": {
+                "unit": "IN",
+                "value": 0.5
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.0
+            },
+            "name": "GlowCity LED Light Up Bracelets (Green)",
+            "normalizedName": "GlowCity LED Light Up Bracelets (Green)",
+            "quantity": 2,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 3.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

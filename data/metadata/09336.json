@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009YOJZ5E": {
+            "asin": "B009YOJZ5E",
+            "height": {
+                "unit": "IN",
+                "value": 0.5511811018
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.9842519624
+            },
+            "name": "Corsair Vengeance 16GB (2 x 8GB) DDR3 1600 MHz (PC3 12800) Desktop Memory",
+            "normalizedName": "Corsair Vengeance 16GB (2 x 8GB) DDR3 1600 MHz (PC3 12800) Desktop Memory",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800948859893
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.3543307032
+            }
+        },
+        "B01F8T38ZG": {
+            "asin": "B01F8T38ZG",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "name": "Iphone 5 internal Li-ion polymer Battery Replacement 3.8V 1440mAh Durable with complete Tool kit and Instructions",
+            "normalizedName": "Iphone 5 internal Li-ion polymer Battery Replacement 3.8V 1440mAh Durable with complete Tool kit and Instructions",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

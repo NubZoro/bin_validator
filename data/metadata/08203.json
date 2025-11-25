@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0053T4PHC": {
+            "asin": "B0053T4PHC",
+            "height": {
+                "unit": "IN",
+                "value": 7.3228346382
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.9133858136
+            },
+            "name": "Bose Companion 20 Multimedia Speaker System",
+            "normalizedName": "Bose Companion 20 Multimedia Speaker System",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.76
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.023622036
+            }
+        },
+        "B00Y8CWEKK": {
+            "asin": "B00Y8CWEKK",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.699999986026
+            },
+            "name": "Power Rangers Dino Charge - Ptera Charge Megazord Action Figure",
+            "normalizedName": "Power Rangers Dino Charge - Ptera Charge Megazord Action Figure",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.49999998827
+            }
+        },
+        "B01B4S7FTA": {
+            "asin": "B01B4S7FTA",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "Baby Cloth Diaper, Angel Love Baby Reusable Washable All in one Size Cloth Pocket Diapers, Adjustable Snap, 6 Pcs + 6 Inserts, Gift Set, 11ZH11 (Boy Color)",
+            "normalizedName": "Baby Cloth Diaper, Angel Love Baby Reusable Washable All in one Size Cloth Pocket Diapers, Adjustable Snap, 6 Pcs + 6 Inserts, Gift Set, 11ZH11 (Boy Color)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.549999998700185
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.99999999184
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

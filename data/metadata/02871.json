@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CHKL474": {
+            "asin": "B00CHKL474",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "TAKENAKA Deep Bento Box, Small, Peppermint",
+            "normalizedName": "TAKENAKA Deep Bento Box, Small, Peppermint",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01ERPKDPU": {
+            "asin": "B01ERPKDPU",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Chef's Inspirations 2 Piece Watermelon Slicer Cutter Kit. Includes Stainless Steel Melon Baller Scooper. Best For Watermelon, Melon, Papaya, Mango & Other Soft But Firm Fruits.",
+            "normalizedName": "Chef's Inspirations 2 Piece Watermelon Slicer Cutter Kit. Includes Stainless Steel Melon Baller Scooper. Best For Watermelon, Melon, Papaya, Mango & Other Soft But Firm Fruits.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226343
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

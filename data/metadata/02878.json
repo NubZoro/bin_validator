@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00K7HMH1Q": {
+            "asin": "B00K7HMH1Q",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Pop-o-Purple",
+            "normalizedName": "Pop-o-Purple",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.899999998062
+            }
+        },
+        "B00VBPX4V0": {
+            "asin": "B00VBPX4V0",
+            "height": {
+                "unit": "IN",
+                "value": 1.8897637776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.8503936938
+            },
+            "name": "Fast & Furious Collection - 7-Disc Box Set ( The Fast and the Furious / 2 Fast 2 Furious / The Fast and the Furious: Tokyo Drift / Fast & Furious 4 / Fas [ Blu-Ray, Reg.A/B/C Import - United Kingdom ]",
+            "normalizedName": "Fast & Furious Collection - 7-Disc Box Set ( The Fast and the Furious / 2 Fast 2 Furious / The Fast and the Furious: Tokyo Drift / Fast & Furious 4 / Fas [ Blu-Ray, Reg.A/B/C Import - United Kingdom ]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560420331426
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.4330708606
+            }
+        },
+        "B01C75BU6S": {
+            "asin": "B01C75BU6S",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "DAYBETTER 5-Meter Waterproof Flexible Color Changing RGB SMD5050 300 LEDs Light Strip Kit with 44 Key Remote and 12V 5A Power Supply",
+            "normalizedName": "DAYBETTER 5-Meter Waterproof Flexible Color Changing RGB SMD5050 300 LEDs Light Strip Kit with 44 Key Remote and 12V 5A Power Supply",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2999999989098325
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

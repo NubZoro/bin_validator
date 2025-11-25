@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AKB93XE": {
+            "asin": "B00AKB93XE",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "American Metalcraft BBC39 Stainless Steel Hand-Held Deluxe Bottle Opener, 4-1/2-Inch",
+            "normalizedName": "American Metalcraft BBC39 Stainless Steel Hand-Held Deluxe Bottle Opener, 4-1/2-Inch",
+            "quantity": 20,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.99999999898
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 20
+}

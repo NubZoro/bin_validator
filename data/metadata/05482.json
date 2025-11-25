@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01CJBBUQK": {
+            "asin": "B01CJBBUQK",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            },
+            "name": "Chinet Cut Crystal Clear Plastic 10 inch Plates 20 count (3 Pack - 60 plates total)",
+            "normalizedName": "3 Pack Chinet Cut Crystal Clear Plastic 10 inch Plates 20 count ( - 60 plates total)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.5499999936686395
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B01FCW5MXA": {
+            "asin": "B01FCW5MXA",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Senlesen Black Bathroom Basin Faucet Single Handle Hole Vanity Mixer Tap with Cover Plate",
+            "normalizedName": "Senlesen Black Bathroom Basin Faucet Single Handle Hole Vanity Mixer Tap with Cover Plate",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.4999999970649336
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

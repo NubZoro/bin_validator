@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007Y4A1GI": {
+            "asin": "B007Y4A1GI",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Dragon's Peak Dragon Oil Warmer Figurine",
+            "normalizedName": "Dragon's Peak Dragon Oil Warmer Figurine",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B00GD26490": {
+            "asin": "B00GD26490",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "O'Neill Wetsuits UV Sun Protection Womens Basic Skins Long Sleeve Crew Sun Shirt Rash Guard, Light Aqua, Small",
+            "normalizedName": "O'Neill Wetsuits UV Sun Protection Womens Basic Skins Long Sleeve Crew Sun Shirt Rash Guard, Light Aqua, Small",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

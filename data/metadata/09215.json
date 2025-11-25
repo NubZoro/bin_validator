@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00KL6ZSU0": {
+            "asin": "B00KL6ZSU0",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Rug Doctor Platinum Spot and Stain Remover, 24 -Ounce",
+            "normalizedName": "Rug Doctor Platinum Spot and Stain Remover, 24 -Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00VBP8QPO": {
+            "asin": "B00VBP8QPO",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Everydrop by Whirlpool Refrigerator Water Filter 2 EDR2RXD1 (Pack of 1)",
+            "normalizedName": "(Pack of 1) Everydrop by Whirlpool Refrigerator Water Filter 2 EDR2RXD1",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B015YCEJAU": {
+            "asin": "B015YCEJAU",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "Caroline's Treasures PJC1046GF Southern Magnolias Flag, Small, Multicolor",
+            "normalizedName": "Caroline's Treasures PJC1046GF Southern Magnolias Flag, Small, Multicolor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2749999997693876
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.899999987862
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0446502375": {
+            "asin": "0446502375",
+            "height": {
+                "unit": "IN",
+                "value": 1.4173228332
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.9527558974
+            },
+            "name": "Scarlett: The Sequel to Margaret Mitchell's \"Gone With the Wind\"",
+            "normalizedName": "Scarlett: The Sequel to Margaret Mitchell's \"Gone With the Wind\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.46
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.2755905458
+            }
+        },
+        "0449004139": {
+            "asin": "0449004139",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942
+            },
+            "name": "A Thread of Grace",
+            "normalizedName": "A Thread of Grace",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B00RKQ7G9A": {
+            "asin": "B00RKQ7G9A",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Teenage Mutant Ninja Turtles T-Machines Leonardo in Stealth Cycle and Donatello in Service Truck Diecast Vehicle (2-Pack)",
+            "normalizedName": "(2-Pack) Teenage Mutant Ninja Turtles T-Machines Leonardo in Stealth Cycle and Donatello in Service Truck Diecast Vehicle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

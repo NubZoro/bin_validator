@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0226738892": {
+            "asin": "0226738892",
+            "height": {
+                "unit": "IN",
+                "value": 0.4724409444
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.4251968418
+            },
+            "name": "Political Theology: Four Chapters on the Concept of Sovereignty",
+            "normalizedName": "Political Theology: Four Chapters on the Concept of Sovereignty",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.44
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.2755905458
+            }
+        },
+        "0525426590": {
+            "asin": "0525426590",
+            "height": {
+                "unit": "IN",
+                "value": 1.11023621934
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.12992125053
+            },
+            "name": "After You: A Novel",
+            "normalizedName": "After You: A Novel",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5800089393016
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.57086613503
+            }
+        },
+        "1435105931": {
+            "asin": "1435105931",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Where There's Smoke, There;s Salmon: the Book of Jewish Proverbs",
+            "normalizedName": "Where There's Smoke, There;s Salmon: the Book of Jewish Proverbs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994288
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

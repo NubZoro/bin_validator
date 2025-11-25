@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0013AHIHO": {
+            "asin": "B0013AHIHO",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Organic India Tulsi Tea,Lemon Ginger, 18 Count (Pack of 2)",
+            "normalizedName": "(Pack of 2) Organic India Tulsi Tea,Lemon Ginger, 18 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

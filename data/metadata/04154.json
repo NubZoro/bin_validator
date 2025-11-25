@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001GSB5EA": {
+            "asin": "B001GSB5EA",
+            "height": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Planters Variety Pack, 24 Packs (12-1.75 oz salted peanuts, 6-1.75 oz honey roasted peanuts, 6-1.5 oz salted cashews)",
+            "normalizedName": "24 Pack Planters Variety Pack, s (12-1.75 oz salted peanuts, 6-1.75 oz honey roasted peanuts, 6-1.5 oz salted cashews)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B00IL7BV7U": {
+            "asin": "B00IL7BV7U",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.49999998623
+            },
+            "name": "Brother Printer TN336M Toner Cartridge",
+            "normalizedName": "Brother Printer TN336M Toner Cartridge",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B01A10A198": {
+            "asin": "B01A10A198",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.699999987045999
+            },
+            "name": "HeyBeauty Tourmaline Ceramic Hair Brush Straightener,Massage Detangling Hair Brush Instant Heating Anti Scald/Anti Static Hair Straightener,LED Display,Silky Straight Styling Iron,Pink",
+            "normalizedName": "HeyBeauty Tourmaline Ceramic Hair Brush Straightener,Massage Detangling Hair Brush Instant Heating Anti Scald/Anti Static Hair Straightener,LED Display,Silky Straight Styling Iron,Pink",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01DKCBUFI": {
+            "asin": "B01DKCBUFI",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.699999983986
+            },
+            "name": "Green Burgeon Garden Rake Hand Rakes Fan Rakes",
+            "normalizedName": "Green Burgeon Garden Rake Hand Rakes Fan Rakes",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

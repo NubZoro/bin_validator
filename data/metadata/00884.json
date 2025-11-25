@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000A0LE6O": {
+            "asin": "B000A0LE6O",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "NOW Foods Vitamin D-3 1000 IU, 180 Softgels",
+            "normalizedName": "NOW Foods Vitamin D-3 1000 IU, 180 Softgels",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

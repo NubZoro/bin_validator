@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003X51S00": {
+            "asin": "B003X51S00",
+            "height": {
+                "unit": "IN",
+                "value": 2.899999997042
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Forney 57637 Lug Crimping Tool",
+            "normalizedName": "Forney 57637 Lug Crimping Tool",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.299999996634
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0789454726": {
+            "asin": "0789454726",
+            "height": {
+                "unit": "IN",
+                "value": 1.2992125971
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "DK Games: Silly Sentences",
+            "normalizedName": "DK Games: Silly Sentences",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6314040864014596
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B00DWFPDNO": {
+            "asin": "B00DWFPDNO",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "ASUS 3-In-1 Wireless Router (RT-N12)",
+            "normalizedName": "ASUS 3-In-1 Wireless Router (RT-N12)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00L1RHCCU": {
+            "asin": "B00L1RHCCU",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.299999990514001
+            },
+            "name": "Secure Wireless Remote Dual Call Button Nurse Alert System With LCD Clock/Alarm/Date/Temp Display - Two Patient Call Buttons & Caregiver Personal Pager - 500+ ft. Operating Range - One Year Warranty - FCC Compliant",
+            "normalizedName": "Secure Wireless Remote Dual Call Button Nurse Alert System With LCD Clock/Alarm/Date/Temp Display - Two Patient Call Buttons & Caregiver Personal Pager - 500+ ft. Operating Range - One Year Warranty - FCC Compliant",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

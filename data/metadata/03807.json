@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004I0Q0KW": {
+            "asin": "B004I0Q0KW",
+            "height": {
+                "unit": "IN",
+                "value": 5.199999994696
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Depo 331-1935L-US-CR Ford Ranger Driver Side Replacement Taillight Unit",
+            "normalizedName": "Depo 331-1935L-US-CR Ford Ranger Driver Side Replacement Taillight Unit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942
+            }
+        },
+        "B00M8WDSES": {
+            "asin": "B00M8WDSES",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Classical Dynamics of Particles and Systems (5th Edition) [Paperback]",
+            "normalizedName": "Classical Dynamics of Particles and Systems (5th Edition) [Paperback]",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

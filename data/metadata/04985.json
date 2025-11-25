@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000KNHRTE": {
+            "asin": "B000KNHRTE",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Strathmore 598030 20-Sheet Strathmore Inkjet Translucent Vellum, 8.5 by 11-Inch",
+            "normalizedName": "Strathmore 598030 20-Sheet Strathmore Inkjet Translucent Vellum, 8.5 by 11-Inch",
+            "quantity": 8,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00MW50FKG": {
+            "asin": "B00MW50FKG",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.099999989698
+            },
+            "name": "LINENSPA Premium Mattress Protector - 100% Waterproof - Hypoallergenic - 10 Year Warranty - Vinyl Free - Queen / White",
+            "normalizedName": "LINENSPA Premium Mattress Protector - 100% Waterproof - Hypoallergenic - 10 Year Warranty - Vinyl Free - Queen / White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.6000000000000003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

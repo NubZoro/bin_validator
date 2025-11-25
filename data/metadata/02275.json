@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01DJDSPLK": {
+            "asin": "B01DJDSPLK",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999971439996
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.9999999898
+            },
+            "name": "Ted and Jack - Watercolor Crinkle Scarf (Sea Foam Green)",
+            "normalizedName": "Ted and Jack - Watercolor Crinkle Scarf (Sea Foam Green)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999974842282
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.599999994696
+            }
+        },
+        "B01EB2VOHA": {
+            "asin": "B01EB2VOHA",
+            "height": {
+                "unit": "IN",
+                "value": 1.57
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.7
+            },
+            "name": "Mini LED tactical flashlight YWXLIGHT CREE XP-G2 3 Mode EDC Torch Light Powered By One AA or 14500 Battery Not Included",
+            "normalizedName": "Mini LED tactical flashlight YWXLIGHT CREE XP-G2 3 Mode EDC Torch Light Powered By One AA or 14500 Battery Not Included",
+            "quantity": 3,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 1.57
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

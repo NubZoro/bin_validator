@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1585360562": {
+            "asin": "1585360562",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "B Is For Bluegrass: A Kentucky Alphabet (Discover America State by State)",
+            "normalizedName": "B Is For Bluegrass: A Kentucky Alphabet (Discover America State by State)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        },
+        "B000A09MGI": {
+            "asin": "B000A09MGI",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Fram CA9762 Extra Guard Panel Air Filter",
+            "normalizedName": "Fram CA9762 Extra Guard Panel Air Filter",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B00I08JAYG": {
+            "asin": "B00I08JAYG",
+            "height": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "The Original Donut Shop, Regular, Medium Extra Bold, Keurig K-Cups, 72 Count",
+            "normalizedName": "The Original Donut Shop, Regular, Medium Extra Bold, Keurig K-Cups, 72 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.9999999974842284
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

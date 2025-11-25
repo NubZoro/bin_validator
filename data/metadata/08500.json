@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B01BG3LKEO": {
+            "asin": "B01BG3LKEO",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Nestle\u3000Kit kat Japanese Liquor SAKE Flavor KIT KAT Chocolate 9pcs!\u3000Japan Imports",
+            "normalizedName": "Nestle\u3000Kit kat Japanese Liquor SAKE Flavor KIT KAT Chocolate 9pcs!\u3000Japan Imports",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        },
+        "B01EVB9356": {
+            "asin": "B01EVB9356",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "name": "GALSHOT Energy Shot, Amino Acids, Ginseng, Vitamins, Taurine Caffeine, Sugar Free Pomegranate - Pack of 12",
+            "normalizedName": "Pack of 12 GALSHOT Energy Shot, Amino Acids, Ginseng, Vitamins, Taurine Caffeine, Sugar Free Pomegranate -",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.7499999985324668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

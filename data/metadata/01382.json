@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00851N5X0": {
+            "asin": "B00851N5X0",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Torex Professional Cold Therapy Flat Pack - Black - Cervical - 21\" x 6.5\" (widest point)",
+            "normalizedName": "Torex Professional Cold Therapy Flat Pack - Black - Cervical - 21\" x 6.5\" (widest point)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.799999993064
+            }
+        },
+        "B00HZFCFBK": {
+            "asin": "B00HZFCFBK",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Wildkin Pinwheel Lunch Box",
+            "normalizedName": "Wildkin Pinwheel Lunch Box",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3968280213493476
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VB5JJU": {
+            "asin": "B000VB5JJU",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "KleenBore Silicone Cloth Gun & Reel 10Pk Poly Bag",
+            "normalizedName": "KleenBore Silicone Cloth Gun & Reel 10Pk Poly Bag",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.699999997246
+            }
+        },
+        "B011MUA2W2": {
+            "asin": "B011MUA2W2",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Penny Dreadful: Season 2 [Blu-ray]",
+            "normalizedName": "Penny Dreadful: Season 2 [Blu-ray]",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B015TGNFQK": {
+            "asin": "B015TGNFQK",
+            "height": {
+                "unit": "IN",
+                "value": 0.58267716476
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.09842518961
+            },
+            "name": "The Intern (Blu-ray + Digital HD UltraViolet)",
+            "normalizedName": "The Intern (Blu-ray + Digital HD UltraViolet)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1833364170792
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.41732282912
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 13
+}

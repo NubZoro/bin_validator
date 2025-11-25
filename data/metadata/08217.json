@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000UH7SVW": {
+            "asin": "B000UH7SVW",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.699999988066
+            },
+            "name": "Queen Games Thebes",
+            "normalizedName": "Queen Games Thebes",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.599999988168
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

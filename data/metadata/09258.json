@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HRQB216": {
+            "asin": "B00HRQB216",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.599999993268
+            },
+            "name": "Sony Movie Studio 13 Platinum",
+            "normalizedName": "Sony Movie Studio 13 Platinum",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        },
+        "B00LI9OSWI": {
+            "asin": "B00LI9OSWI",
+            "height": {
+                "unit": "IN",
+                "value": 2.2047244072
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.4960629804
+            },
+            "name": "Samsung Galaxy Tab 3 Lite (7-Inch, White) (Certified Refurbished)",
+            "normalizedName": "Samsung Galaxy Tab 3 Lite (7-Inch, White) (Certified Refurbished)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4550360770607615
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.0787401472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

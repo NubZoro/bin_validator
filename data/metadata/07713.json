@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005MHRB7G": {
+            "asin": "B005MHRB7G",
+            "height": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Plum Organics Baby Second Blends, Spinach, Peas and Pear, 4 Ounce Pouches (Pack of 12)",
+            "normalizedName": "(Pack of 12) Plum Organics Baby Second Blends, Spinach, Peas and Pear, 4 Ounce Pouches",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.0099999966372515
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.99999999286
+            }
+        },
+        "B018MPSOCA": {
+            "asin": "B018MPSOCA",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "US Art Supply 53 Piece Children's Art and Activity Drawing and Marker Pen Set - Kids Arts and Crafts Projects - Washable Color Changer Markers - Colored Pencils - Highlighters - Oil Pastels",
+            "normalizedName": "US Art Supply 53 Piece Children's Art and Activity Drawing and Marker Pen Set - Kids Arts and Crafts Projects - Washable Color Changer Markers - Colored Pencils - Highlighters - Oil Pastels",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.099999990718
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001PR0N3G": {
+            "asin": "B001PR0N3G",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "NFL New York Jets Deluxe Grill Cover",
+            "normalizedName": "NFL New York Jets Deluxe Grill Cover",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        },
+        "B00CFCSYW2": {
+            "asin": "B00CFCSYW2",
+            "height": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.099999986638
+            },
+            "name": "The Packaging Wholesalers Shipping Boxes. 6 x 6 x 6 Inches, White, 25-Count (BS060606W)",
+            "normalizedName": "The Packaging Wholesalers Shipping Boxes. 6 x 6 x 6 Inches, White, 25-Count (BS060606W)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 5.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.49999998725
+            }
+        },
+        "B01AJ7F14I": {
+            "asin": "B01AJ7F14I",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "AUKEY Bedside Lamp, Touch Sensor Table Lamp + Dimmable Warm White Light & Color Changing RGB",
+            "normalizedName": "AUKEY Bedside Lamp, Touch Sensor Table Lamp + Dimmable Warm White Light & Color Changing RGB",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

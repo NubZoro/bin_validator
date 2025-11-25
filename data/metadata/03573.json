@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0009I6PAC": {
+            "asin": "B0009I6PAC",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "Racor Pro PS-2R Two Pair Ski and Pole Rack",
+            "normalizedName": "Racor Pro PS-2R Two Pair Ski and Pole Rack",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B00MOF6K5I": {
+            "asin": "B00MOF6K5I",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Pacsafe Citysafe CS100 Anti-Theft Travel Handbag, Black",
+            "normalizedName": "Pacsafe Citysafe CS100 Anti-Theft Travel Handbag, Black",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B015UKPIHO": {
+            "asin": "B015UKPIHO",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.99999998266
+            },
+            "name": "SOGODE BBQ Grill Brush 18\" Barbecue Cleaner Tools, 360\u00b0 Grill Cleaning with 3 Stainless Steel Bristles in 1, for Char-broil, Weber ,Porcelain, Charcoal and Infrared Grills",
+            "normalizedName": "SOGODE BBQ Grill Brush 18\" Barbecue Cleaner Tools, 360\u00b0 Grill Cleaning with 3 Stainless Steel Bristles in 1, for Char-broil, Weber ,Porcelain, Charcoal and Infrared Grills",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

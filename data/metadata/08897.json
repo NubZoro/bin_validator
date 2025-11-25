@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0809330636": {
+            "asin": "0809330636",
+            "height": {
+                "unit": "IN",
+                "value": 0.3149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.7401574714
+            },
+            "name": "Heavenly Bodies (Crab Orchard Series in Poetry)",
+            "normalizedName": "Heavenly Bodies (Crab Orchard Series in Poetry)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        },
+        "B00NAM92Z4": {
+            "asin": "B00NAM92Z4",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Under Armour Men's UA Disruptor Short Black/White/Black Shorts MD X 12",
+            "normalizedName": "Under Armour Men's UA Disruptor Short Black/White/Black Shorts MD X 12",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B0185U1GIQ": {
+            "asin": "B0185U1GIQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.299999992554
+            },
+            "name": "Marc Jacobs Block Letter Snake Zip Phone Wristlet, Green Snake Multi, One Size",
+            "normalizedName": "Marc Jacobs Block Letter Snake Zip Phone Wristlet, Green Snake Multi, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00UXMLN38": {
+            "asin": "B00UXMLN38",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Vinnet Beauty \u2122 Chignon Hair Donut 3 Size for Hair Styling, Bundle Large Medium Small (Brown)",
+            "normalizedName": "Vinnet Beauty \u2122 Chignon Hair Donut 3 Size for Hair Styling, Bundle Large Medium Small (Brown)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B0114D6N3E": {
+            "asin": "B0114D6N3E",
+            "height": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Zenna Home, India Ink Nova Tissue Cover, Gun Metal/Chrome",
+            "normalizedName": "Zenna Home, India Ink Nova Tissue Cover, Gun Metal/Chrome",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

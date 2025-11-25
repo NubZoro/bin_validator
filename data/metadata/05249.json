@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000F4WOAU": {
+            "asin": "B000F4WOAU",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "MegaFood - Calcium, Magnesium & Potassium, Supports Healthy Bones & Muscles, 90 Tablets",
+            "normalizedName": "MegaFood - Calcium, Magnesium & Potassium, Supports Healthy Bones & Muscles, 90 Tablets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

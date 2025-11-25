@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00XEVQ8V2": {
+            "asin": "B00XEVQ8V2",
+            "height": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Black & Decker 61000401 Shoulder Bag",
+            "normalizedName": "Black & Decker 61000401 Shoulder Bag",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        },
+        "B00ZQG7I2G": {
+            "asin": "B00ZQG7I2G",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "name": "Beileshi 45 Degree Offset Rail Mount with Picatinny/Weaver Style Rail",
+            "normalizedName": "Beileshi 45 Degree Offset Rail Mount with Picatinny/Weaver Style Rail",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.099999997858
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

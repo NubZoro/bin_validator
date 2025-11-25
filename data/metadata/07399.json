@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00125O544": {
+            "asin": "B00125O544",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Garvey 091524 Safety Cutter with Holster, Black/Blue",
+            "normalizedName": "Garvey 091524 Safety Cutter with Holster, Black/Blue",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00QT7AZOO": {
+            "asin": "B00QT7AZOO",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Garden of Life Raw Fit Protein Powder, Chocolate, 448 Gram",
+            "normalizedName": "Garden of Life Raw Fit Protein Powder, Chocolate, 448 Gram",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

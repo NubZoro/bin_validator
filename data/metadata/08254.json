@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BNPXPNU": {
+            "asin": "B00BNPXPNU",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.3779527494
+            },
+            "name": "Funko POP Television Walking Dead: Governor Vinyl Figure",
+            "normalizedName": "Funko POP Television Walking Dead: Governor Vinyl Figure",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.26455201423289837
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.6456692866
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

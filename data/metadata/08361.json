@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007EA5WGQ": {
+            "asin": "B007EA5WGQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Melissa & Doug Whittle World - Traffic Signs Set",
+            "normalizedName": "Melissa & Doug Whittle World - Traffic Signs Set",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B00UDZB5SS": {
+            "asin": "B00UDZB5SS",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "4LoveDogs Stainless Steel Dog Bowls, 32 Oz (Set of 2)",
+            "normalizedName": "(Set of 2) 4LoveDogs Stainless Steel Dog Bowls, 32 Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            }
+        },
+        "B01FX832NU": {
+            "asin": "B01FX832NU",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "name": "Generic replace lost remote AA59-00594A fit for SAMSUNG tv",
+            "normalizedName": "Generic replace lost remote AA59-00594A fit for SAMSUNG tv",
+            "quantity": 20,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 26
+}

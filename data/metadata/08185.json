@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001EO5XVC": {
+            "asin": "B001EO5XVC",
+            "height": {
+                "unit": "IN",
+                "value": 5.49999999439
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "The Organic Coffee Co. Ground, French Roast, 12 Ounce (Pack of 3)",
+            "normalizedName": "(Pack of 3) The Organic Coffee Co. Ground, French Roast, 12 Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B007CYZRK0": {
+            "asin": "B007CYZRK0",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Discraft Buzzz Elite Z Fly Dye Golf Disc, 170-172 grams",
+            "normalizedName": "Discraft Buzzz Elite Z Fly Dye Golf Disc, 170-172 grams",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.49999999133
+            }
+        },
+        "B00YY45U6C": {
+            "asin": "B00YY45U6C",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "O'Neill men's Tech 24/7 long sleeve sun shirt Men's XL Navy/yellow (4242)",
+            "normalizedName": "O'Neill men's Tech 24/7 long sleeve sun shirt Men's XL Navy/yellow (4242)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.699999992146
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

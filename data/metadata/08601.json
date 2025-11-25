@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004QEKG96": {
+            "asin": "B004QEKG96",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Curt 45005 3-in-1 ATV Ball Mount",
+            "normalizedName": "Curt 45005 3-in-1 ATV Ball Mount",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 7.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B01DBJUXWG": {
+            "asin": "B01DBJUXWG",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999983272
+            },
+            "name": "Jemis Men's Boonie Hat Bucket Hat (ArmyGreen)",
+            "normalizedName": "Jemis Men's Boonie Hat Bucket Hat (ArmyGreen)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3999999996645639
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.199999987352
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

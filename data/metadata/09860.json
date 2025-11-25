@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000EEJGRK": {
+            "asin": "B000EEJGRK",
+            "height": {
+                "unit": "IN",
+                "value": 2.362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Hercules Stands Wallmount Guitar Hanger GSP39WB",
+            "normalizedName": "Hercules Stands Wallmount Guitar Hanger GSP39WB",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6393340343961711
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1338582635
+            }
+        },
+        "B00D2QLAWG": {
+            "asin": "B00D2QLAWG",
+            "height": {
+                "unit": "IN",
+                "value": 3.49999999643
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "Hopkins 47046 Endurance Flex-Coil Adapter Kit",
+            "normalizedName": "Hopkins 47046 Endurance Flex-Coil Adapter Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B017ES974U": {
+            "asin": "B017ES974U",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Set of 4 Star Wars Cookie Cutters: Yoda, Darth Vader, C-3PO and Chewbacca",
+            "normalizedName": "Set of 4  Star Wars Cookie Cutters: Yoda, Darth Vader, C-3PO and Chewbacca",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        },
+        "B01CCMOMM0": {
+            "asin": "B01CCMOMM0",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.749999992095
+            },
+            "name": "HDMI Splitter, SOWTECH(TM) Digital 1X2 HDMI Switch for Full HD 1080P Support 3D (One Input To Two Outputs)",
+            "normalizedName": "HDMI Splitter, SOWTECH(TM) Digital 1X2 HDMI Switch for Full HD 1080P Support 3D (One Input To Two Outputs)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.23999999979873823
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.249999995665
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

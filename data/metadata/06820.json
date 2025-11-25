@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00J4JKAKS": {
+            "asin": "B00J4JKAKS",
+            "height": {
+                "unit": "IN",
+                "value": 3.149606296
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.535433054
+            },
+            "name": "Neewer&reg; Universal Portable Adjustable A-Frame Electric Guitar Floor Stand Holder Black Color",
+            "normalizedName": "Neewer&reg; Universal Portable Adjustable A-Frame Electric Guitar Floor Stand Holder Black Color",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3809924296
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.1889763645
+            }
+        },
+        "B01DV2OJYG": {
+            "asin": "B01DV2OJYG",
+            "height": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.99999998776
+            },
+            "name": "Best Microfiber Cleaning Cloth, Pack of 50",
+            "normalizedName": "Pack of 50 Best Microfiber Cleaning Cloth,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066778
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

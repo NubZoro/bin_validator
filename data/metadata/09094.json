@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004CJ8CFA": {
+            "asin": "B004CJ8CFA",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.699999982966
+            },
+            "name": "KidKraft Tasty Treats Chef Accessory Set - Pink",
+            "normalizedName": "KidKraft Tasty Treats Chef Accessory Set - Pink",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.799999988984
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

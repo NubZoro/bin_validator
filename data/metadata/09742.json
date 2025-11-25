@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0008JGSD6": {
+            "asin": "B0008JGSD6",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Gilmour 572TFR Commercial Insulated Grip Nozzle with Threaded Front, Red",
+            "normalizedName": "Gilmour 572TFR Commercial Insulated Grip Nozzle with Threaded Front, Red",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00AO7R45I": {
+            "asin": "B00AO7R45I",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Select-A-Vision 4050225GY Sportex Readers Glass, +2.25, Gray",
+            "normalizedName": "Select-A-Vision 4050225GY Sportex Readers Glass, +2.25, Gray",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.99999999796
+            }
+        },
+        "B00VJ4IGDY": {
+            "asin": "B00VJ4IGDY",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Ultimate Kitchen Stainless Steel Sink Soap Dispenser - Model SSD2 (Satin Finish)",
+            "normalizedName": "Ultimate Kitchen Stainless Steel Sink Soap Dispenser - Model SSD2 (Satin Finish)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B01DSA300U": {
+            "asin": "B01DSA300U",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.75
+            },
+            "name": "Reflective Safety Vest for Running",
+            "normalizedName": "Reflective Safety Vest for Running",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10625
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

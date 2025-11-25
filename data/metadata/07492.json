@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0017VG69U": {
+            "asin": "B0017VG69U",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Star Trek: The Original Series: Season 2 (Remastered Edition)",
+            "normalizedName": "Star Trek: The Original Series: Season 2 (Remastered Edition)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B008BVQ8N8": {
+            "asin": "B008BVQ8N8",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "name": "Graco 246385 7/8-Inch UNF Inlet Strainer Screen for Airless Paint Spray Guns",
+            "normalizedName": "Graco 246385 7/8-Inch UNF Inlet Strainer Screen for Airless Paint Spray Guns",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

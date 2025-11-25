@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00LLMMHC0": {
+            "asin": "B00LLMMHC0",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Women's MLB Logo and Rhinestone Text White T-Shirt (Washington Nationals, Medium)",
+            "normalizedName": "Women's MLB Logo and Rhinestone Text White T-Shirt (Washington Nationals, Medium)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

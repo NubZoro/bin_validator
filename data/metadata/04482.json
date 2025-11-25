@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B009K54W6O": {
+            "asin": "B009K54W6O",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Gibson Holders 12 DCWB Adjustable Wire Display Easels-5.5\" W x 8.75\" H w/ 1.5\" display ledge, Black",
+            "normalizedName": "Gibson Holders 12 DCWB Adjustable Wire Display Easels-5.5\" W x 8.75\" H w/ 1.5\" display ledge, Black",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00ZB7W4QU": {
+            "asin": "B00ZB7W4QU",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "Microsoft Xbox Wireless Adapter for Windows",
+            "normalizedName": "Microsoft Xbox Wireless Adapter for Windows",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.39999999966456384
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

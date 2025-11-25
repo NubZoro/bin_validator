@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0486234843": {
+            "asin": "0486234843",
+            "height": {
+                "unit": "IN",
+                "value": 0.25984251942
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.90944880777
+            },
+            "name": "Carving Realistic Birds: A Step-by-Step Manual with Full-Size Patterns",
+            "normalizedName": "Carving Realistic Birds: A Step-by-Step Manual with Full-Size Patterns",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5100173969108
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.24015747191
+            }
+        },
+        "B01B7OZI36": {
+            "asin": "B01B7OZI36",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Mega Bloks S-31V Destiny Sparrow Building Kit",
+            "normalizedName": "Mega Bloks S-31V Destiny Sparrow Building Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FX2RA8K": {
+            "asin": "B00FX2RA8K",
+            "height": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.799999985924
+            },
+            "name": "Cool Mist Humidifier, Roolen Breath Smart Ultrasonic Humidifier, Black [BR01/B]",
+            "normalizedName": "Cool Mist Humidifier, Roolen Breath Smart Ultrasonic Humidifier, Black [BR01/B]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        },
+        "B016JTHIM8": {
+            "asin": "B016JTHIM8",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "DJI OSMO (NA) Handheld Fully Stabilized 4K 12MP Camera",
+            "normalizedName": "DJI OSMO (NA) Handheld Fully Stabilized 4K 12MP Camera",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.6999999977358056
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0811726487": {
+            "asin": "0811726487",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Hiking the Endless Mountains: Exploring the Wilderness of Northeastern Pennsylvania",
+            "normalizedName": "Hiking the Endless Mountains: Exploring the Wilderness of Northeastern Pennsylvania",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "113756086X": {
+            "asin": "113756086X",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.4251968418
+            },
+            "name": "Approaching Infinity",
+            "normalizedName": "Approaching Infinity",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9259415004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B003TZFS1Y": {
+            "asin": "B003TZFS1Y",
+            "height": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.2519684996
+            },
+            "name": "Amika Obliphica Nourishing Mask, 16.9 Fl Oz",
+            "normalizedName": "Amika Obliphica Nourishing Mask, 16.9 Fl Oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6220472404
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

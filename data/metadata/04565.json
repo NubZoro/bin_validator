@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000QRFOT4": {
+            "asin": "B000QRFOT4",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Rubbermaid TakeAlongs Twist and Seal Food Storage Containers, 2-Cup, Clear, Set of 3",
+            "normalizedName": "Set of 3 Rubbermaid TakeAlongs Twist and Seal Food Storage Containers, 2-Cup, Clear,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "B00YOA78CK": {
+            "asin": "B00YOA78CK",
+            "height": {
+                "unit": "IN",
+                "value": 0.6299212592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.8267716476
+            },
+            "name": "(Samsung Galaxy Grand Prime G530) Iace(tm) Cyber Grid Dual Layer Hybrid Armor Cover Case + Free Hd Screen Protector & Stylus Pen As Bundle Sale - (Black)",
+            "normalizedName": "(Samsung Galaxy Grand Prime G530) Iace(tm) Cyber Grid Dual Layer Hybrid Armor Cover Case + Free Hd Screen Protector & Stylus Pen As Bundle Sale - (Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.2519684996
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

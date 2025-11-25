@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00BNT8GXK": {
+            "asin": "B00BNT8GXK",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "C-MON 01075 True Edge Professional Hair Cutting Shear, Straight/Serrated Blade, 7.5-Inch",
+            "normalizedName": "C-MON 01075 True Edge Professional Hair Cutting Shear, Straight/Serrated Blade, 7.5-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        },
+        "B00CP6WLHW": {
+            "asin": "B00CP6WLHW",
+            "height": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.699999985006
+            },
+            "name": "Hosley's Elegant Expressions Black Decorative Bowl and Orb Set",
+            "normalizedName": "Hosley's Elegant Expressions Black Decorative Bowl and Orb Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

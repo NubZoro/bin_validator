@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000UBH9YO": {
+            "asin": "B000UBH9YO",
+            "height": {
+                "unit": "IN",
+                "value": 4.699999995206
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.299999982354
+            },
+            "name": "Senseo Coffee Pods, Medium Roast,18 Count (Count of 6)",
+            "normalizedName": "Senseo Coffee Pods, Medium Roast,18 Count (Count of 6)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            }
+        },
+        "B00192KYNQ": {
+            "asin": "B00192KYNQ",
+            "height": {
+                "unit": "IN",
+                "value": 5.5905511754
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.4724409342
+            },
+            "name": "Camco 43902 12 oz Polycarbonate Margarita Glass - 2 pack",
+            "normalizedName": "Camco 43902 12 oz Polycarbonate Margarita Glass - 2 pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7936560426986952
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.055118101
+            }
+        },
+        "B00NO2AOPC": {
+            "asin": "B00NO2AOPC",
+            "height": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "Fisher-Price First Steps Move 'n Groove Soccer Ball [Amazon Exclusive]",
+            "normalizedName": "Fisher-Price First Steps Move 'n Groove Soccer Ball [Amazon Exclusive]",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

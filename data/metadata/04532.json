@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00A850V92": {
+            "asin": "B00A850V92",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "LEGO Star Wars Clone Troopers vs Droidekas 75000",
+            "normalizedName": "LEGO Star Wars Clone Troopers vs Droidekas 75000",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B014YRQGOS": {
+            "asin": "B014YRQGOS",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "Geepro Stainless Steel Gold Handle Tailor Sewing Scissors Blade Dressmaking Shears Fabric Craft Cutting",
+            "normalizedName": "Geepro Stainless Steel Gold Handle Tailor Sewing Scissors Blade Dressmaking Shears Fabric Craft Cutting",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5499999995387752
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B01E5NDYP0": {
+            "asin": "B01E5NDYP0",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Carenoble Bread Basket Proofing Bowl - Premium Quality 8.5 inch Round Banneton Rattan For Rising Patterns Dough / Sourdough - Professional Brotform for Artisan Bread Baking",
+            "normalizedName": "Carenoble Bread Basket Proofing Bowl - Premium Quality 8.5 inch Round Banneton Rattan For Rising Patterns Dough / Sourdough - Professional Brotform for Artisan Bread Baking",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3299999997232651
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

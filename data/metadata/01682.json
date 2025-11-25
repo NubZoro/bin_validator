@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000WYZHDO": {
+            "asin": "B000WYZHDO",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.267716527
+            },
+            "name": "Gerber LST Ultralight Knife, Fine Edge [46050]",
+            "normalizedName": "Gerber LST Ultralight Knife, Fine Edge [46050]",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.08818400474429947
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.1968503884
+            }
+        },
+        "B006N988RE": {
+            "asin": "B006N988RE",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "ACDelco 46G0207A Advantage Front Suspension Stabilizer Bar Link Kit with Hardware",
+            "normalizedName": "ACDelco 46G0207A Advantage Front Suspension Stabilizer Bar Link Kit with Hardware",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.599999996328
+            }
+        },
+        "B01CIU7TOO": {
+            "asin": "B01CIU7TOO",
+            "height": {
+                "unit": "IN",
+                "value": 1.949999998011
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.649999992197
+            },
+            "name": "gloTherapeutics 10% Glycolic Cleanser",
+            "normalizedName": "gloTherapeutics 10% Glycolic Cleanser",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.049999999958070473
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.949999998011
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CB938L6": {
+            "asin": "B00CB938L6",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Ceramic Stoneware Electric 2 in 1 Candle Warmer (Butterfly)",
+            "normalizedName": "Ceramic Stoneware Electric 2 in 1 Candle Warmer (Butterfly)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B00ITOAUNQ": {
+            "asin": "B00ITOAUNQ",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.799999993064
+            },
+            "name": "Nickelodeon, Paw Patrol - Action Pack Pup & Badge - Skye",
+            "normalizedName": "Nickelodeon, Paw Patrol - Action Pack Pup & Badge - Skye",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00972208C": {
+            "asin": "B00972208C",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "Water-based Silky Safe Longlasting Personal Lubricant GEL by Slippery Stuff 8oz",
+            "normalizedName": "Water-based Silky Safe Longlasting Personal Lubricant GEL by Slippery Stuff 8oz",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.299999997654
+            }
+        },
+        "B01B4S4L1K": {
+            "asin": "B01B4S4L1K",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.199999990616
+            },
+            "name": "Samsung J3 Nova - No Contract Phone - Gold - (Boost Mobile)",
+            "normalizedName": "Samsung J3 Nova - No Contract Phone - Gold - (Boost Mobile)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7999999993291277
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

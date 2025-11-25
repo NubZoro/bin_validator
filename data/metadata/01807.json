@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IBNPKX0": {
+            "asin": "B00IBNPKX0",
+            "height": {
+                "unit": "IN",
+                "value": 4.4094488144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.023622036
+            },
+            "name": "Corolle Mon Premier Bebe Paris Party Doll",
+            "normalizedName": "Corolle Mon Premier Bebe Paris Party Doll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1904840640480427
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.9763779436
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

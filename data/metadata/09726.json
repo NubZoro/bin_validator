@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005CXE7Z4": {
+            "asin": "B005CXE7Z4",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "American Fireglass 10-Pound Fire Glass with Fireplace Glass and Fire Pit Glass, 1/2-Inch, Clear",
+            "normalizedName": "American Fireglass 10-Pound Fire Glass with Fireplace Glass and Fire Pit Glass, 1/2-Inch, Clear",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 13.199999988930603
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.49999999337
+            }
+        },
+        "B0094P4G98": {
+            "asin": "B0094P4G98",
+            "height": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "NFL Oakland Raiders Dream Lite Pillow Pet",
+            "normalizedName": "NFL Oakland Raiders Dream Lite Pillow Pet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

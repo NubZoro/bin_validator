@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0544301129": {
+            "asin": "0544301129",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.3464566844
+            },
+            "name": "You and Me and Him",
+            "normalizedName": "You and Me and Him",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5291040284657967
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.6692913328
+            }
+        },
+        "B00363WGF0": {
+            "asin": "B00363WGF0",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "The Chosen",
+            "normalizedName": "The Chosen",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        },
+        "B0083TXY58": {
+            "asin": "B0083TXY58",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "N-Strike Elite Bandolier Kit",
+            "normalizedName": "N-Strike Elite Bandolier Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.599999992248
+            }
+        },
+        "B00MBWU56O": {
+            "asin": "B00MBWU56O",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "MiraCool Cooling Bandanas. Pack of 4 Bandanas 2 Cowboy Red, 2 Cowboy Blue - Reusable",
+            "normalizedName": "Pack of 4 MiraCool Cooling Bandanas. Bandanas 2 Cowboy Red, 2 Cowboy Blue - Reusable",
+            "quantity": 11,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 14
+}

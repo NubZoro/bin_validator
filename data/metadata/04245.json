@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B014Z11HI8": {
+            "asin": "B014Z11HI8",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.399999986332
+            },
+            "name": "GW Geek\u00ae Waterproof 6.5\" 8\" 10\" Smart Two Wheel Electronic Self-Balance Scooter Carrying Bag and Handbag: Black 10\"",
+            "normalizedName": "GW Geek\u00ae Waterproof 6.5\" 8\" 10\" Smart Two Wheel Electronic Self-Balance Scooter Carrying Bag and Handbag: Black 10\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033387
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B01ACIP716": {
+            "asin": "B01ACIP716",
+            "height": {
+                "unit": "IN",
+                "value": 3.899999996022
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.199999987556
+            },
+            "name": "WPM 2 Piece Blackout Curtain Set. Jacquard Panels- Purple (54\"x84\")",
+            "normalizedName": "WPM 2 Piece Blackout Curtain Set. Jacquard Panels- Purple (54\"x84\")",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.549999997023003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.199999991636
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

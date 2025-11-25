@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00AKHLUPC": {
+            "asin": "B00AKHLUPC",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.799999994084
+            },
+            "name": "Pilot Juice Gel Ink Ballpoint Pen, 0.38 mm, 12 Color Set (LJU-120UF-12C)",
+            "normalizedName": "Pilot Juice Gel Ink Ballpoint Pen, 0.38 mm, 12 Color Set (LJU-120UF-12C)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.799999995104
+            }
+        },
+        "B00BMBRJL4": {
+            "asin": "B00BMBRJL4",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.599999989188
+            },
+            "name": "Under Armour Mens Alter Ego Marvel\u00ae Comics Captain America S/S Compression Baselayer Royal MD",
+            "normalizedName": "Under Armour Mens Alter Ego Marvel\u00ae Comics Captain America S/S Compression Baselayer Royal MD",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B00C69F5AS": {
+            "asin": "B00C69F5AS",
+            "height": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.799999987964
+            },
+            "name": "Contigo Addison Water Bottle, 24-Ounce, Smoke",
+            "normalizedName": "Contigo Addison Water Bottle, 24-Ounce, Smoke",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        },
+        "B0159A0LH2": {
+            "asin": "B0159A0LH2",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "Pumpkin Pie Quest Bars 2 Pack Total of 24 Coated Protein Bars Delicious Limited Time",
+            "normalizedName": "2 Pack Pumpkin Pie Quest Bars Total of 24 Coated Protein Bars Delicious Limited Time",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.299999997232651
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

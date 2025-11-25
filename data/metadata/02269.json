@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B008VSJFQ8": {
+            "asin": "B008VSJFQ8",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "name": "theBalm Schwing Liquid Eyeliner, Black",
+            "normalizedName": "theBalm Schwing Liquid Eyeliner, Black",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.01
+            },
+            "width": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 7
+}

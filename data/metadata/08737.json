@@ -1,0 +1,103 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00FPQRYC6": {
+            "asin": "B00FPQRYC6",
+            "height": {
+                "unit": "IN",
+                "value": 1.3385826758
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.9763779436
+            },
+            "name": "Hevi-Beads SSK-001 Salmon/Steelhead Fishing Bait Kit",
+            "normalizedName": "Hevi-Beads SSK-001 Salmon/Steelhead Fishing Bait Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.5669291292
+            }
+        },
+        "B00G3N2GH8": {
+            "asin": "B00G3N2GH8",
+            "height": null,
+            "length": null,
+            "name": "College Algebra Study Chart",
+            "normalizedName": "College Algebra Study Chart",
+            "quantity": 1,
+            "weight": null,
+            "width": null
+        },
+        "B01489H30S": {
+            "asin": "B01489H30S",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.399999993472
+            },
+            "name": "Patio Umbrella Light, KINGSO 3 Level Dimming Wireless 28 LEDs Lights At 110 lux - 4 x AA Battery Operated Adjustable, Umbrella Pole Light, for Patio Umbrellas, Outdoor Use, or Camping Tents Silver",
+            "normalizedName": "Patio Umbrella Light, KINGSO 3 Level Dimming Wireless 28 LEDs Lights At 110 lux - 4 x AA Battery Operated Adjustable, Umbrella Pole Light, for Patio Umbrellas, Outdoor Use, or Camping Tents Silver",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200233517459
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        },
+        "B01E7ZUV2U": {
+            "asin": "B01E7ZUV2U",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Galaxy S7, Punkcase METALLIC Black w/ Tempered Glass Screen Protector Shockproof Dirt-proof Snow-proof Slim Metal Cover Armor Case Samsung S7",
+            "normalizedName": "Galaxy S7, Punkcase METALLIC Black w/ Tempered Glass Screen Protector Shockproof Dirt-proof Snow-proof Slim Metal Cover Armor Case Samsung S7",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B01GT0I416": {
+            "asin": "B01GT0I416",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Plush Pony",
+            "normalizedName": "Plush Pony",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 8
+}

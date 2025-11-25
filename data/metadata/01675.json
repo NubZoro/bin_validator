@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B005N0WCE4": {
+            "asin": "B005N0WCE4",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Rabbit Wine and Beverage Bottle Stoppers (Assorted Colors, Set of 4)",
+            "normalizedName": "Set of 4 Rabbit Wine and Beverage Bottle Stoppers (Assorted Colors, )",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            }
+        },
+        "B00EAMD8I0": {
+            "asin": "B00EAMD8I0",
+            "height": {
+                "unit": "IN",
+                "value": 0.199999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.399999990412
+            },
+            "name": "American Metal Filter AMRHF0619 Washable OEM Grease Filter for GE and Samsung",
+            "normalizedName": "American Metal Filter AMRHF0619 Washable OEM Grease Filter for GE and Samsung",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.099999993778
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

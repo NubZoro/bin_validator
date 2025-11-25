@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D8VHIOE": {
+            "asin": "B00D8VHIOE",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "HiHo! Cherry-O Game",
+            "normalizedName": "HiHo! Cherry-O Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440166050481
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            }
+        },
+        "B010MXDH4U": {
+            "asin": "B010MXDH4U",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.099999990718
+            },
+            "name": "3 Real Techniques Brush Set (Travel Essential 1400, Starter Set 1406, Core Collection 1403)",
+            "normalizedName": "3 Real Techniques Brush Set (Travel Essential 1400, Starter Set 1406, Core Collection 1403)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

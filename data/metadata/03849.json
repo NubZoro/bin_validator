@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00HN9DDD2": {
+            "asin": "B00HN9DDD2",
+            "height": {
+                "unit": "IN",
+                "value": 1.8110236202
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.3779527494
+            },
+            "name": "Fisher-Price Thomas The Train: Take-n-Play Timothy Toy Train",
+            "normalizedName": "Fisher-Price Thomas The Train: Take-n-Play Timothy Toy Train",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.220462262
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.511811018
+            }
+        },
+        "B00PM98RI6": {
+            "asin": "B00PM98RI6",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 2.7999999971439995
+            },
+            "name": "Premier Faucet 133139 Shower Balance Spool Assembly for Delta and Premier",
+            "normalizedName": "Premier Faucet 133139 Shower Balance Spool Assembly for Delta and Premier",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.299999998674
+            }
+        },
+        "B01E8D4E0Q": {
+            "asin": "B01E8D4E0Q",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "Apple MFi Certified Lightning USB Cable 8 pin for all APPLE device (3 feet / 1 Metre) (Silver)",
+            "normalizedName": "Apple MFi Certified Lightning USB Cable 8 pin for all APPLE device (3 feet / 1 Metre) (Silver)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001167587297
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B01EO6MD2I": {
+            "asin": "B01EO6MD2I",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991738
+            },
+            "name": "Galaxy S7 Edge Case, Jeylly(TM) [Shock Absorption] Hybrid Rubber Plastic Impact Defender Rugged Slim Hard Armor Protection Case Cover Shell For Samsung Galaxy S7 Edge G935 All Carrier [Turquoise/Grey]",
+            "normalizedName": "Galaxy S7 Edge Case, Jeylly(TM) [Shock Absorption] Hybrid Rubber Plastic Impact Defender Rugged Slim Hard Armor Protection Case Cover Shell For Samsung Galaxy S7 Edge G935 All Carrier [Turquoise/Grey]",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.049999999958070473
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

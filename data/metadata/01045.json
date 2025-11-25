@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0451477782": {
+            "asin": "0451477782",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Only Beloved (A Survivors' Club Novel)",
+            "normalizedName": "Only Beloved (A Survivors' Club Novel)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00BEB1KG2": {
+            "asin": "B00BEB1KG2",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.99999998878
+            },
+            "name": "Unik Occasions Sparkling Collection Crystal Rhinestone Monogram Cake Topper - Letter T, Small, Silver",
+            "normalizedName": "Unik Occasions Sparkling Collection Crystal Rhinestone Monogram Cake Topper - Letter T, Small, Silver",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

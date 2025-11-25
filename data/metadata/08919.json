@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0684848066": {
+            "asin": "0684848066",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "In the Meantime: Finding Yourself and the Love You Want",
+            "normalizedName": "In the Meantime: Finding Yourself and the Love You Want",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B007XE5LTG": {
+            "asin": "B007XE5LTG",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Autel AL519 AutoLink Enhanced OBD ll Scan Tool with Mode 6",
+            "normalizedName": "Autel AL519 AutoLink Enhanced OBD ll Scan Tool with Mode 6",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.09999999823896
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        },
+        "B01ENPNF6I": {
+            "asin": "B01ENPNF6I",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.299999989494001
+            },
+            "name": "Sparco Bulldog Clip, 11/32-Inch Cap, Size 2, 2-1/4-Inch, 36 per Box, Silver (SPR58501) 3-PACK",
+            "normalizedName": "Sparco Bulldog Clip, 11/32-Inch Cap, Size 2, 2-1/4-Inch, 36 per Box, Silver (SPR58501) 3-PACK",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.9999999966456374
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

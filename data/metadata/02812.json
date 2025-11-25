@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000F6UR6Q": {
+            "asin": "B000F6UR6Q",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Urine Off Odor and Stain Remover for Cats, 1 Gallon",
+            "normalizedName": "Urine Off Odor and Stain Remover for Cats, 1 Gallon",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            }
+        },
+        "B001CY4ELE": {
+            "asin": "B001CY4ELE",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Exo Terra Plantation Soil, 8 Quarts, 3-Pack",
+            "normalizedName": "3-Pack Exo Terra Plantation Soil, 8 Quarts,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00E6O1J5Q": {
+            "asin": "B00E6O1J5Q",
+            "height": {
+                "unit": "IN",
+                "value": 8.699999991126
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Zwiesel 1872 Charles Schumann Hommage Collection Comete Handmade Glass Small Long Drink 11.8-Ounce, Set of 2",
+            "normalizedName": "Set of 2 Zwiesel 1872 Charles Schumann Hommage Collection Comete Handmade Glass Small Long Drink 11.8-Ounce,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.399999987352
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

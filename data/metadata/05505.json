@@ -1,0 +1,134 @@
+{
+    "BIN_FCSKU_DATA": {
+        "032157379X": {
+            "asin": "032157379X",
+            "height": {
+                "unit": "IN",
+                "value": 0.9448818888
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.055118101
+            },
+            "name": "Adobe Photoshop CS4 Classroom in a Book",
+            "normalizedName": "Adobe Photoshop CS4 Classroom in a Book",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.03
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.3228346382
+            }
+        },
+        "1107085241": {
+            "asin": "1107085241",
+            "height": {
+                "unit": "IN",
+                "value": 1.11023621934
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.12992125053
+            },
+            "name": "Earthquake Time Bombs",
+            "normalizedName": "Earthquake Time Bombs",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.5800089393016
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.57086613503
+            }
+        },
+        "B0006U7V2Y": {
+            "asin": "B0006U7V2Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Telling Time Flannelboard Figures Flannelboard Lesson Set - Kit",
+            "normalizedName": "Telling Time Flannelboard Figures Flannelboard Lesson Set - Kit",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.9999999898
+            }
+        },
+        "B00CRAXCBK": {
+            "asin": "B00CRAXCBK",
+            "height": {
+                "unit": "IN",
+                "value": 1.3999999985719997
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "KLOUD City \u00ae Black Velvet Necklace Bracelet Organizer Tray Display Holder Stand",
+            "normalizedName": "KLOUD City \u00ae Black Velvet Necklace Bracelet Organizer Tray Display Holder Stand",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.699999990105999
+            }
+        },
+        "B01EC5Z98G": {
+            "asin": "B01EC5Z98G",
+            "height": {
+                "unit": "IN",
+                "value": 0.0393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.543307083
+            },
+            "name": "MOOCO Jack Daniel's OLD NO.7 Tin Sign Size 8\" X 12\"",
+            "normalizedName": "MOOCO Jack Daniel's OLD NO.7 Tin Sign Size 8\" X 12\"",
+            "quantity": 3,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.362204722
+            }
+        },
+        "B01EC7L4ME": {
+            "asin": "B01EC7L4ME",
+            "height": {
+                "unit": "IN",
+                "value": 0.099999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.899999987862001
+            },
+            "name": "MOOCO Follow Your Heart Create Peace Fall in Love Retro Vintage Tin Sign 8\" X 12\"",
+            "normalizedName": "MOOCO Follow Your Heart Create Peace Fall in Love Retro Vintage Tin Sign 8\" X 12\"",
+            "quantity": 7,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 17
+}

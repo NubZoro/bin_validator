@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00QETHBP8": {
+            "asin": "B00QETHBP8",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.699999994186001
+            },
+            "name": "Sheer Strength Labs Creatine Monohydrate - 510g - 100 Servings",
+            "normalizedName": "Sheer Strength Labs Creatine Monohydrate - 510g - 100 Servings",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B01G1TVQAQ": {
+            "asin": "B01G1TVQAQ",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.749999994135
+            },
+            "name": "G-Sight BS-6555 6.5mm x 55 SE Laser Bore Sight, Brass",
+            "normalizedName": "G-Sight BS-6555 6.5mm x 55 SE Laser Bore Sight, Brass",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.009999999991614094
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.99999999694
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1455520632": {
+            "asin": "1455520632",
+            "height": {
+                "unit": "IN",
+                "value": 1.1023622036
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.692913379
+            },
+            "name": "The Longest Ride",
+            "normalizedName": "The Longest Ride",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6172880332100962
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.1732283422
+            }
+        },
+        "B01259S4RE": {
+            "asin": "B01259S4RE",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "B\u00d6HM Wireless Bluetooth Headphones with Active Noise Cancelling Headphones Technology - Features Enhanced Bass, Inline Microphone & 18-Hour (Max) Battery - Gold/Tan, B-66",
+            "normalizedName": "B\u00d6HM Wireless Bluetooth Headphones with Active Noise Cancelling Headphones Technology - Features Enhanced Bass, Inline Microphone & 18-Hour (Max) Battery - Gold/Tan, B-66",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.8999999984066773
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.899999990922
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

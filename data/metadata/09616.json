@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0547358113": {
+            "asin": "0547358113",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "Anterooms: New Poems and Translations",
+            "normalizedName": "Anterooms: New Poems and Translations",
+            "quantity": 5,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            }
+        },
+        "B007Q96L0G": {
+            "asin": "B007Q96L0G",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Atomy BB Cream SPF30/PA++",
+            "normalizedName": "Atomy BB Cream SPF30/PA++",
+            "quantity": 6,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.299999998674
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 11
+}

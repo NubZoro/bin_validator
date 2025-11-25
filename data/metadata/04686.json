@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000H5IGN6": {
+            "asin": "B000H5IGN6",
+            "height": {
+                "unit": "IN",
+                "value": 0.90157480223
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.99999998164
+            },
+            "name": "Lenox Opal Innocence Set of 4 Placemats, Ivory",
+            "normalizedName": "Set of 4 Lenox Opal Innocence Placemats, Ivory",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6000100922592
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.99999998674
+            }
+        },
+        "B005JZA132": {
+            "asin": "B005JZA132",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Disney Princess The Little Mermaid Doll 3-Pack",
+            "normalizedName": "3-Pack Disney Princess The Little Mermaid Doll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.799999986944
+            }
+        },
+        "B006WH6Y64": {
+            "asin": "B006WH6Y64",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "AFF AFFTB1420X48 Custom Dust Collector Filter Bag 14-Inch > 20-Inch Diameter by 48-Inch Long Custom Dust Bag, Circular Close with Center Hanging Loop, White",
+            "normalizedName": "AFF AFFTB1420X48 Custom Dust Collector Filter Bag 14-Inch > 20-Inch Diameter by 48-Inch Long Custom Dust Bag, Circular Close with Center Hanging Loop, White",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.95
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            }
+        },
+        "B011MIUQJ8": {
+            "asin": "B011MIUQJ8",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Play-Doh Town Firehouse",
+            "normalizedName": "Play-Doh Town Firehouse",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.049999998280889
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

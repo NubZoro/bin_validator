@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00DRDD4GO": {
+            "asin": "B00DRDD4GO",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.199999993676
+            },
+            "name": "Yugioh Structure Deck: Saga of Blue-Eyes White Dragon Sealed",
+            "normalizedName": "Yugioh Structure Deck: Saga of Blue-Eyes White Dragon Sealed",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00UNDESVQ": {
+            "asin": "B00UNDESVQ",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "iHome DROP+ Splash Proof Bluetooth Rechargeable Speaker with Speakerphone (iBT15BGC)",
+            "normalizedName": "iHome DROP+ Splash Proof Bluetooth Rechargeable Speaker with Speakerphone (iBT15BGC)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

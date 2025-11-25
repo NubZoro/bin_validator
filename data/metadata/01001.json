@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0133506320": {
+            "asin": "0133506320",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Entrepreneurship and Effective Small Business Management (11th Edition)",
+            "normalizedName": "Entrepreneurship and Effective Small Business Management (11th Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.599999991228
+            }
+        },
+        "B000XTFZNA": {
+            "asin": "B000XTFZNA",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "Willow Tree Grandmother",
+            "normalizedName": "Willow Tree Grandmother",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        },
+        "B015JIDFJU": {
+            "asin": "B015JIDFJU",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.599999991228
+            },
+            "name": "Case for Fire HD 8 - Elsse Premium Folio Case with Stand for the NEW Fire HD 8, 8\" Display (Sept, 2015 Release) - Green",
+            "normalizedName": "Case for Fire HD 8 - Elsse Premium Folio Case with Stand for the NEW Fire HD 8, 8\" Display (Sept, 2015 Release) - Green",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

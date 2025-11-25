@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0000AY4KS": {
+            "asin": "B0000AY4KS",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "name": "Fram PH8A Extra Guard Passenger Car Spin-On Oil Filter",
+            "normalizedName": "Fram PH8A Extra Guard Passenger Car Spin-On Oil Filter",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B017W17G6K": {
+            "asin": "B017W17G6K",
+            "height": {
+                "unit": "IN",
+                "value": 0.2362204722
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.81102361
+            },
+            "name": "Animal Crossing amiibo cards Series 2 (6-Pack) - Nintendo Wii U",
+            "normalizedName": "(6-Pack) Animal Crossing amiibo cards Series 2 - Nintendo Wii U",
+            "quantity": 15,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.0440924524
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 17
+}

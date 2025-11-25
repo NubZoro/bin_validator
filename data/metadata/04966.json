@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007WI0O2M": {
+            "asin": "B007WI0O2M",
+            "height": {
+                "unit": "IN",
+                "value": 4.199999995716
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Pop Secret Movie Theater Butter Popcorn, 28 Count, 3.2 ounce bags",
+            "normalizedName": "Pop Secret Movie Theater Butter Popcorn, 28 Count, 3.2 ounce bags",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.299999988474
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

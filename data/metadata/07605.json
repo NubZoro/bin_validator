@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BDB91K": {
+            "asin": "B000BDB91K",
+            "height": {
+                "unit": "IN",
+                "value": 4.299999995614
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.199999986536
+            },
+            "name": "The Hillman Group 240213 Carriage Bolt, 3/8-Inch X 10-Inch, 50-Pack",
+            "normalizedName": "50-Pack The Hillman Group 240213 Carriage Bolt, 3/8-Inch X 10-Inch,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 13.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        },
+        "B00143WS4I": {
+            "asin": "B00143WS4I",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.099999988678
+            },
+            "name": "Epson Ultra Premium Photo Paper Glossy, Letter, 8.5 x 11, 25 Sheets (S042182)",
+            "normalizedName": "Epson Ultra Premium Photo Paper Glossy, Letter, 8.5 x 11, 25 Sheets (S042182)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.699999991126
+            }
+        },
+        "B012T16L4G": {
+            "asin": "B012T16L4G",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.49999998827
+            },
+            "name": "Unicook Heavy Duty Barbecue Grill Cover, 62-inch, UV Protection, Highest Quality with 600Denier Thick Fabric, Easy Lifting Handles, Helpful Air Vents",
+            "normalizedName": "Unicook Heavy Duty Barbecue Grill Cover, 62-inch, UV Protection, Highest Quality with 600Denier Thick Fabric, Easy Lifting Handles, Helpful Air Vents",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.049999994926526
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

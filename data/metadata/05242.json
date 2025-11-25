@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "3791354256": {
+            "asin": "3791354256",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "700 Nimes Road",
+            "normalizedName": "700 Nimes Road",
+            "quantity": 9,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.549999997023003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.99999998776
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 9
+}

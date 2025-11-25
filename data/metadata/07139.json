@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001L1RGAO": {
+            "asin": "B001L1RGAO",
+            "height": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "length": {
+                "unit": "IN",
+                "value": 15.49999998419
+            },
+            "name": "Smead File Jacket, Reinforced Tab, 2\" Expansion, Legal Size, Manila, 50 per Box (76560)",
+            "normalizedName": "Smead File Jacket, Reinforced Tab, 2\" Expansion, Legal Size, Manila, 50 per Box (76560)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 6.449999994591091
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.49999998929
+            }
+        },
+        "B0031P6X2K": {
+            "asin": "B0031P6X2K",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.899999984802001
+            },
+            "name": "Texas Flood [Vinyl]",
+            "normalizedName": "Texas Flood [Vinyl]",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.599999987148
+            }
+        },
+        "B015PZ00A4": {
+            "asin": "B015PZ00A4",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.399999983272
+            },
+            "name": "Dell Inspiron i3158-3275SLV 11.6 Inch 2-in-1 Touchscreen Laptop (6th Generation Intel Core i3, 4 GB RAM, 128 GB SSD)",
+            "normalizedName": "Dell Inspiron i3158-3275SLV 11.6 Inch 2-in-1 Touchscreen Laptop (6th Generation Intel Core i3, 4 GB RAM, 128 GB SSD)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.599999996142484
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.399999989392
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

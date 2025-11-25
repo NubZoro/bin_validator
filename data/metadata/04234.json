@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D3T4OHK": {
+            "asin": "B00D3T4OHK",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Mead Composition Notebook, Wide Ruled, 100 Sheets, 5 Pack (72368)",
+            "normalizedName": "5 Pack Mead Composition Notebook, Wide Ruled, 100 Sheets, (72368)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.399999991432
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

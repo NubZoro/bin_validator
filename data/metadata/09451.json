@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00IZEAHZG": {
+            "asin": "B00IZEAHZG",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "NHL Los Angeles Kings '47 Brand Franchise Fitted Hat, Black, Large",
+            "normalizedName": "NHL Los Angeles Kings '47 Brand Franchise Fitted Hat, Black, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.799999992044
+            }
+        },
+        "B012CCAGPM": {
+            "asin": "B012CCAGPM",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "My Little Pony Equestria Girls Minis Twilight Sparkle Doll",
+            "normalizedName": "My Little Pony Equestria Girls Minis Twilight Sparkle Doll",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.24999999979035234
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

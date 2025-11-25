@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00N9WI1MA": {
+            "asin": "B00N9WI1MA",
+            "height": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.399999992452001
+            },
+            "name": "Fisher-Price Roller Blocks Airplane",
+            "normalizedName": "Fisher-Price Roller Blocks Airplane",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

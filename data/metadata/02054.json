@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00CB04A44": {
+            "asin": "B00CB04A44",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.699999993166
+            },
+            "name": "Gorham Kathy Ireland Home Bud Vase, Blossoming Rose",
+            "normalizedName": "Gorham Kathy Ireland Home Bud Vase, Blossoming Rose",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.199999996736
+            }
+        },
+        "B015KRKDU4": {
+            "asin": "B015KRKDU4",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Sonix Liana iPhone 6 / 6s Case, Liana Teal, iPhone 6/6S",
+            "normalizedName": "Sonix Liana iPhone 6 / 6s Case, Liana Teal, iPhone 6/6S",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B0199R4ZSW": {
+            "asin": "B0199R4ZSW",
+            "height": {
+                "unit": "IN",
+                "value": 4.9999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.899999993982
+            },
+            "name": "Disney Tsum Tsum Lights & Sounds Mickey Plush",
+            "normalizedName": "Disney Tsum Tsum Lights & Sounds Mickey Plush",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064932
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.299999994594
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

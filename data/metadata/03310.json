@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0026HZXRK": {
+            "asin": "B0026HZXRK",
+            "height": {
+                "unit": "IN",
+                "value": 2.699999997246
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.099999993778
+            },
+            "name": "Creative Hands by Fibre-Craft - Multicolored Foam Daisy Shapes - Teaches Creativity - Multipurpose - 35 Pack",
+            "normalizedName": "35 Pack Creative Hands by Fibre-Craft - Multicolored Foam Daisy Shapes - Teaches Creativity - Multipurpose -",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        },
+        "B004VU8ZD4": {
+            "asin": "B004VU8ZD4",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Camco 30054 Pool Antifreeze Concentrate, 1-Quart",
+            "normalizedName": "Camco 30054 Pool Antifreeze Concentrate, 1-Quart",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3500000000000005
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

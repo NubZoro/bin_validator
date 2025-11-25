@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00022KDLM": {
+            "asin": "B00022KDLM",
+            "height": {
+                "unit": "IN",
+                "value": 0.799999999184
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.699999989085999
+            },
+            "name": "Thermoskin Arthritis Knee Wrap, Beige, Medium",
+            "normalizedName": "Thermoskin Arthritis Knee Wrap, Beige, Medium",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.699999993166
+            }
+        },
+        "B00VKEEY8E": {
+            "asin": "B00VKEEY8E",
+            "height": {
+                "unit": "IN",
+                "value": 4.899999995002001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "PureSpa Essential Oil Diffuser \u2014 Compact Ultrasonic Aromatherapy Diffuser With Ionizer and Color-Changing Light",
+            "normalizedName": "PureSpa Essential Oil Diffuser \u2014 Compact Ultrasonic Aromatherapy Diffuser With Ionizer and Color-Changing Light",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

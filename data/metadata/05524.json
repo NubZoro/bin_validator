@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00UK7ZQXO": {
+            "asin": "B00UK7ZQXO",
+            "height": {
+                "unit": "IN",
+                "value": 4.0944881848
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.7401574714
+            },
+            "name": "beyerdynamic Custom Street Headphones, Black",
+            "normalizedName": "beyerdynamic Custom Street Headphones, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2786680677200633
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.905511805
+            }
+        },
+        "B01A3VS55C": {
+            "asin": "B01A3VS55C",
+            "height": {
+                "unit": "IN",
+                "value": 0.599999999388
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.899999992962
+            },
+            "name": "Samsung Galaxy S6 Edge+ Screen Protector EEtech&trade;Shield Tempered Armor Guard for Samsung Galaxy S6 Edge Plus Full Screen Frame Edge to Edge Protection,HD Clear/9H Hard//Anti-Scratch/Shatterproof",
+            "normalizedName": "Samsung Galaxy S6 Edge+ Screen Protector EEtech&trade;Shield Tempered Armor Guard for Samsung Galaxy S6 Edge Plus Full Screen Frame Edge to Edge Protection,HD Clear/9H Hard//Anti-Scratch/Shatterproof",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.09999999991614096
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

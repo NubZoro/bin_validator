@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000S5TH2Y": {
+            "asin": "B000S5TH2Y",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "GWS 2000 Pro Hunter Sight Fiber Optic",
+            "normalizedName": "GWS 2000 Pro Hunter Sight Fiber Optic",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.699999995206
+            }
+        },
+        "B01DOU5WPA": {
+            "asin": "B01DOU5WPA",
+            "height": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.399999991432
+            },
+            "name": "LSLYA (TM) 4.1\" TFT HD Digital Car Stereo FM Radios MP3 MP4 MP5 Audio Video Media Players with USB/SD with steering wheel remote control,",
+            "normalizedName": "LSLYA (TM) 4.1\" TFT HD Digital Car Stereo FM Radios MP3 MP4 MP5 Audio Video Media Players with USB/SD with steering wheel remote control,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.4999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

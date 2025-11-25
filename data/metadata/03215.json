@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0064GZPPO": {
+            "asin": "B0064GZPPO",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "LD Carlson Calcium Carbonate, 1 pound Capacity",
+            "normalizedName": "LD Carlson Calcium Carbonate, 1 pound Capacity",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.49999999439
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PIEHU74": {
+            "asin": "B00PIEHU74",
+            "height": {
+                "unit": "IN",
+                "value": 3.6220472404
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.0393700736
+            },
+            "name": "King Dedede amiibo - Japan Import (Super Smash Bros Series)",
+            "normalizedName": "King Dedede amiibo - Japan Import (Super Smash Bros Series)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.17636800934069835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.0944881848
+            }
+        },
+        "B014AZYGC8": {
+            "asin": "B014AZYGC8",
+            "height": {
+                "unit": "IN",
+                "value": 2.2
+            },
+            "length": {
+                "unit": "IN",
+                "value": 17.4
+            },
+            "name": "TeeHee Microfiber Compression Socks - Comfort, Soft, Relieve Leg Fatigue Knee High, White, Large",
+            "normalizedName": "TeeHee Microfiber Compression Socks - Comfort, Soft, Relieve Leg Fatigue Knee High, White, Large",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.7499999993710571
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

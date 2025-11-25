@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000FIDTYG": {
+            "asin": "B000FIDTYG",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "NTE Heat Shrink 2:1 Assorted Colors and Sizes 160 PCS",
+            "normalizedName": "NTE Heat Shrink 2:1 Assorted Colors and Sizes 160 PCS",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            }
+        },
+        "B000W405SG": {
+            "asin": "B000W405SG",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.099999991737999
+            },
+            "name": "Philips Norelco NT9110/60 NoseTrimmer 3300 (Packaging May Vary)",
+            "normalizedName": "Philips Norelco NT9110/60 NoseTrimmer 3300 (Packaging May Vary)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

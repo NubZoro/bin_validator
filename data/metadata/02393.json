@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1585364665": {
+            "asin": "1585364665",
+            "height": {
+                "unit": "IN",
+                "value": 0.399999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.199999988575998
+            },
+            "name": "Twice as Good: The Story of William Powell and Clearview, the Only Golf Course Designed, Built, and Owned by an African American",
+            "normalizedName": "Twice as Good: The Story of William Powell and Clearview, the Only Golf Course Designed, Built, and Owned by an African American",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.199999990616
+            }
+        },
+        "B015EB29YY": {
+            "asin": "B015EB29YY",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.99999998674
+            },
+            "name": "Barbie Fashionistas Doll 32 Dolled Up Denim - Curvy",
+            "normalizedName": "Barbie Fashionistas Doll 32 Dolled Up Denim - Curvy",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

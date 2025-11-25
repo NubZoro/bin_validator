@@ -1,0 +1,68 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000YE1XTE": {
+            "asin": "B000YE1XTE",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Kiss My Face, Bar Soap, Pure Olive Oil, 8 oz",
+            "normalizedName": "Kiss My Face, Bar Soap, Pure Olive Oil, 8 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999999999999
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B004T33Y8O": {
+            "asin": "B004T33Y8O",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.899999991942001
+            },
+            "name": "Bob's Red Mill Pearl Barley 30 oz",
+            "normalizedName": "Bob's Red Mill Pearl Barley 30 oz",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.9999999983228187
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        },
+        "B016X624X0": {
+            "asin": "B016X624X0",
+            "height": {
+                "unit": "IN",
+                "value": 1.0
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.0
+            },
+            "name": "MoboVida Dual Port USB Car Charger Adapter with 3 foot High Speed USB 2.0 to USB 3.0 Data Sync Cable for Samsung Galaxy S5, Note 3 & TabPRO and NotePRO 12.1 -Black",
+            "normalizedName": "MoboVida Dual Port USB Car Charger Adapter with 3 foot High Speed USB 2.0 to USB 3.0 Data Sync Cable for Samsung Galaxy S5, Note 3 & TabPRO and NotePRO 12.1 -Black",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 2.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0060580860": {
+            "asin": "0060580860",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "The Frog and Toad Collection Box Set (I Can Read Level 2)",
+            "normalizedName": "The Frog and Toad Collection Box Set (I Can Read Level 2)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9499999992033389
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "0829413804": {
+            "asin": "0829413804",
+            "height": {
+                "unit": "IN",
+                "value": 0.40157480274
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.90157479305
+            },
+            "name": "Mary, Mother of Jesus",
+            "normalizedName": "Mary, Mother of Jesus",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.9000151383888
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00B4L3HH2": {
+            "asin": "B00B4L3HH2",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "ACDelco 18A2785A Advantage Non-Coated Rear Disc Brake Rotor",
+            "normalizedName": "ACDelco 18A2785A Advantage Non-Coated Rear Disc Brake Rotor",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 8.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 10.99999998878
+            }
+        },
+        "B014PYG082": {
+            "asin": "B014PYG082",
+            "height": {
+                "unit": "IN",
+                "value": 2.599999997348
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "New York Mets MLB Women's Cool Base Alternate Jersey Blue (Small)",
+            "normalizedName": "New York Mets MLB Women's Cool Base Alternate Jersey Blue (Small)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4499999996226342
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.899999993982
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B007OLKHAG": {
+            "asin": "B007OLKHAG",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.099999985618
+            },
+            "name": "Soft Fabric Child Size Astronaut Helmet",
+            "normalizedName": "Soft Fabric Child Size Astronaut Helmet",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.14999999987421142
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.299999987454
+            }
+        },
+        "B0091X8MZM": {
+            "asin": "B0091X8MZM",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.49999998929
+            },
+            "name": "CycleOps Trainer Tire, Black",
+            "normalizedName": "CycleOps Trainer Tire, Black",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.49999489635072547
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B014XC0BU4": {
+            "asin": "B014XC0BU4",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "iPod Nano 7 Case, roocase Hybrid iPod Nano 7 Skin Case with Detachable Holster Clip with Tempered Glass Screen Protector for iPod Nano 7th Generation, Slate",
+            "normalizedName": "iPod Nano 7 Case, roocase Hybrid iPod Nano 7 Skin Case with Detachable Holster Clip with Tempered Glass Screen Protector for iPod Nano 7th Generation, Slate",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.599999993268
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

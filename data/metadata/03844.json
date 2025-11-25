@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B018PMK8OM": {
+            "asin": "B018PMK8OM",
+            "height": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.299999988474
+            },
+            "name": "Creative and skills Baby quiet book for girls",
+            "normalizedName": "Creative and skills Baby quiet book for girls",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.899999989902
+            }
+        },
+        "B01GYGGLI8": {
+            "asin": "B01GYGGLI8",
+            "height": {
+                "unit": "IN",
+                "value": 1.599999998368
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.49999999031
+            },
+            "name": "Heat it HISD 18-feet Pipe Heating Cable with with Built-in Thermostat",
+            "normalizedName": "Heat it HISD 18-feet Pipe Heating Cable with with Built-in Thermostat",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8499999992871979
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.299999993574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

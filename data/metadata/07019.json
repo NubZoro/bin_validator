@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0055B6J9A": {
+            "asin": "B0055B6J9A",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.199999992656
+            },
+            "name": "Folgers Coffee Singles Classic Roast Coffee Bags, 6 Ounce, 38 Count",
+            "normalizedName": "Folgers Coffee Singles Classic Roast Coffee Bags, 6 Ounce, 38 Count",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.099999994798
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

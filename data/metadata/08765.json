@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00TIMBNIY": {
+            "asin": "B00TIMBNIY",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.899999985822001
+            },
+            "name": "OAKLAND RAIDERS WOMENS BIG LOGO V-NECK SWEATER SMALL",
+            "normalizedName": "OAKLAND RAIDERS WOMENS BIG LOGO V-NECK SWEATER SMALL",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5999999994968457
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.699999986026
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

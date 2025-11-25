@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000GGHSN0": {
+            "asin": "B000GGHSN0",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.99999999082
+            },
+            "name": "Colgate Phos Flur Anti Cavity Fluoride Rinse, Cool Mint, 16.9 Ounce Bottle",
+            "normalizedName": "Colgate Phos Flur Anti Cavity Fluoride Rinse, Cool Mint, 16.9 Ounce Bottle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.699999996226
+            }
+        },
+        "B00QPJD340": {
+            "asin": "B00QPJD340",
+            "height": {
+                "unit": "IN",
+                "value": 2.2834645646
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.724409444
+            },
+            "name": "PathBrite Headlamp Flashlight Best for Outdoor/Indoor Activities Hand-Free Sensor Turning On/Off 3 Modes White CREE Light, LED Red, Flashing Red & Emergency, Super Bright, All Size Fit, Black",
+            "normalizedName": "PathBrite Headlamp Flashlight Best for Outdoor/Indoor Activities Hand-Free Sensor Turning On/Off 3 Modes White CREE Light, LED Red, Flashing Red & Emergency, Super Bright, All Size Fit, Black",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086440163462221
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.2283464534
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

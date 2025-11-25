@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003414XXC": {
+            "asin": "B003414XXC",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.099999992758
+            },
+            "name": "AVANI Women's Mineral Enriched Moisturizing Cream, 1.7 fl. oz.",
+            "normalizedName": "AVANI Women's Mineral Enriched Moisturizing Cream, 1.7 fl. oz.",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4000000000000001
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.899999996022
+            }
+        },
+        "B00QWZQWAY": {
+            "asin": "B00QWZQWAY",
+            "height": {
+                "unit": "IN",
+                "value": 0.899999999082
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.599999994287999
+            },
+            "name": "AUKEY Micro USB Cable, 5 Pack (3 x 3.3 ft, 2 x 1 ft) USB 2.0 Quick Charge Cables for LG G4, HTC, Samsung Galaxy S7/S6/Edge and More",
+            "normalizedName": "5 Pack AUKEY Micro USB Cable, (3 x 3.3 ft, 2 x 1 ft) USB 2.0 Quick Charge Cables for LG G4, HTC, Samsung Galaxy S7/S6/Edge and More",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B01ECHXV5M": {
+            "asin": "B01ECHXV5M",
+            "height": {
+                "unit": "IN",
+                "value": 2.1259842498
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "Blaze & The Monster Machines Gasquatch Die Cast Vehicle",
+            "normalizedName": "Blaze & The Monster Machines Gasquatch Die Cast Vehicle",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3086471668
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.4094488144
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

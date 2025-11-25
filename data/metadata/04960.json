@@ -1,0 +1,59 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002XTGEOM": {
+            "asin": "B002XTGEOM",
+            "height": {
+                "unit": "IN",
+                "value": 3.799999996124
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "BISSELL 2X Pet Stain & Odor Full Size Machine Formula, 60 ounces, 99K5A",
+            "normalizedName": "BISSELL 2X Pet Stain & Odor Full Size Machine Formula, 60 ounces, 99K5A",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.85
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.899999992962
+            }
+        },
+        "B00W0J4OTM": {
+            "asin": "B00W0J4OTM",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.099999987657998
+            },
+            "name": "DC Comics 12\" Batman Action Figure",
+            "normalizedName": "DC Comics 12\" Batman Action Figure",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.199999995716
+            }
+        },
+        "B01FV1EE2M": {
+            "asin": "B01FV1EE2M",
+            "height": null,
+            "length": null,
+            "name": "AVermedia Technology ER130 EzRecorder 130 CaptureHD Video",
+            "normalizedName": "AVermedia Technology ER130 EzRecorder 130 CaptureHD Video",
+            "quantity": 1,
+            "weight": null,
+            "width": null
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

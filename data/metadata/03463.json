@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000BRCHPS": {
+            "asin": "B000BRCHPS",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "name": "Camco 54763 906 Auto/RV Replacement Interior Light Bulb - Pack of 2",
+            "normalizedName": "Pack of 2 Camco 54763 906 Auto/RV Replacement Interior Light Bulb -",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.022046001186074866
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B000C984SE": {
+            "asin": "B000C984SE",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "name": "ACDelco 15-20676 Professional Air Conditioning Drive Belt Idler Pulley",
+            "normalizedName": "ACDelco 15-20676 Professional Air Conditioning Drive Belt Idler Pulley",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.65
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B000W8HRWY": {
+            "asin": "B000W8HRWY",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.299999994594
+            },
+            "name": "Pure Planet - Red Marine Algae Plus - 90 VegCaps",
+            "normalizedName": "Pure Planet - Red Marine Algae Plus - 90 VegCaps",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.45
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.49999999643
+            }
+        },
+        "B01FSLOGNM": {
+            "asin": "B01FSLOGNM",
+            "height": {
+                "unit": "IN",
+                "value": 0.99999999898
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "name": "iPhone 6S Plus Case, iPhone 6 Plus Case, CaseUp Embossed Floral Series - [Card Slot][Magnetic Closure][Stand] Premium PU Leather Wallet Case Cover For iPhone 6S Plus/ 6 Plus (5.5 Inch), Purple",
+            "normalizedName": "iPhone 6S Plus Case, iPhone 6 Plus Case, CaseUp Embossed Floral Series - [Card Slot][Magnetic Closure][Stand] Premium PU Leather Wallet Case Cover For iPhone 6S Plus/ 6 Plus (5.5 Inch), Purple",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4999999995807047
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.299999995614
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

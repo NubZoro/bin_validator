@@ -1,0 +1,93 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000JNC696": {
+            "asin": "B000JNC696",
+            "height": {
+                "unit": "IN",
+                "value": 0.6999999992859999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Leather Dog Collar with Nameplate 20 Inch Havana",
+            "normalizedName": "Leather Dog Collar with Nameplate 20 Inch Havana",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.19999999983228192
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.99999999388
+            }
+        },
+        "B002IT5JQG": {
+            "asin": "B002IT5JQG",
+            "height": {
+                "unit": "IN",
+                "value": 4.799999995104
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Nature2 DuoClear Mineral Cartridge for DuoClear Pool Sanitizers",
+            "normalizedName": "Nature2 DuoClear Mineral Cartridge for DuoClear Pool Sanitizers",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.899999995002
+            }
+        },
+        "B006O8NVKI": {
+            "asin": "B006O8NVKI",
+            "height": {
+                "unit": "IN",
+                "value": 3.6999999962260004
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "ECG Electrode-Skintact RT-41 Resting Electrode-Gel Electrode-EKG Electrode",
+            "normalizedName": "ECG Electrode-Skintact RT-41 Resting Electrode-Gel Electrode-EKG Electrode",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.55
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.99999999592
+            }
+        },
+        "B00B7N5JJG": {
+            "asin": "B00B7N5JJG",
+            "height": {
+                "unit": "IN",
+                "value": 2.1999999977560005
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            },
+            "name": "Purina 3-Pack Fortiflora Feline Nutritional Supplement for Pets",
+            "normalizedName": "3-Pack Purina Fortiflora Feline Nutritional Supplement for Pets",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.20000000000000004
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

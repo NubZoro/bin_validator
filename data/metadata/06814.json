@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B003OWBNXO": {
+            "asin": "B003OWBNXO",
+            "height": {
+                "unit": "IN",
+                "value": 0.8661417314
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.2283464432
+            },
+            "name": "Provo Craft Cuttlebug Quilling Kit, Chrysanthemum",
+            "normalizedName": "Provo Craft Cuttlebug Quilling Kit, Chrysanthemum",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.4409200237214973
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.149606296
+            }
+        },
+        "B00OQTM81K": {
+            "asin": "B00OQTM81K",
+            "height": {
+                "unit": "IN",
+                "value": 3.99999999592
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Jumbl&trade; Deluxe Carry All Travel Makeup Palette 63 Pcs + Jumbl&trade; Brush and Mirror Included(Red)",
+            "normalizedName": "Jumbl&trade; Deluxe Carry All Travel Makeup Palette 63 Pcs + Jumbl&trade; Brush and Mirror Included(Red)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.49999999235
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

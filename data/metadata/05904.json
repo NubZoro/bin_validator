@@ -1,0 +1,46 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002JGWYUM": {
+            "asin": "B002JGWYUM",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.599999992248
+            },
+            "name": "Jonathan Green 10622 Dense Shade Grass Seed Mix, 1 Pounds",
+            "normalizedName": "Jonathan Green 10622 Dense Shade Grass Seed Mix, 1 Pounds",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.199999994696
+            }
+        },
+        "B019YRRQX8": {
+            "asin": "B019YRRQX8",
+            "height": {
+                "unit": "IN",
+                "value": 3.0708661386
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.267716527
+            },
+            "name": "Super Large Capacity Multilayer Pencil Case, Holds 72 Pencils (Light grey)",
+            "normalizedName": "Super Large Capacity Multilayer Pencil Case, Holds 72 Pencils (Light grey)",
+            "quantity": 1,
+            "weight": null,
+            "width": {
+                "unit": "IN",
+                "value": 5.118110231
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

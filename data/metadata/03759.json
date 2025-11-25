@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00451UN84": {
+            "asin": "B00451UN84",
+            "height": {
+                "unit": "IN",
+                "value": 5.399999994492
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.49999998317
+            },
+            "name": "Blue Monkey 100% Natural Coconut Water, 11.2-Ounce (Pack of 24)",
+            "normalizedName": "(Pack of 24) Blue Monkey 100% Natural Coconut Water, 11.2-Ounce",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 20.699999982641174
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.399999988372
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 1
+}

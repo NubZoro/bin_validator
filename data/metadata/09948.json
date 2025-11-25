@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0033118YK": {
+            "asin": "B0033118YK",
+            "height": {
+                "unit": "IN",
+                "value": 2.49999999745
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.99999999184
+            },
+            "name": "Vet's Best Allergy Itch Relief Dog Shampoo, 16 Ounces",
+            "normalizedName": "Vet's Best Allergy Itch Relief Dog Shampoo, 16 Ounces",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.15
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.49999999745
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

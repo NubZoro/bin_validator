@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002G3OZNC": {
+            "asin": "B002G3OZNC",
+            "height": {
+                "unit": "IN",
+                "value": 1.199999998776
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.399999996532
+            },
+            "name": "Vertra SPF 38 Sports Sunscreen Face Stick Kona Gold- Very Waterproof",
+            "normalizedName": "Vertra SPF 38 Sports Sunscreen Face Stick Kona Gold- Very Waterproof",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.699999998266
+            }
+        },
+        "B01D3H7OEG": {
+            "asin": "B01D3H7OEG",
+            "height": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.299999993574
+            },
+            "name": "Via Bom Dia Certified Organic Dirty Chai Single-Serve Keurig Machines, 18 Pack",
+            "normalizedName": "18 Pack Via Bom Dia Certified Organic Dirty Chai Single-Serve Keurig Machines,",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1999999989936914
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.799999994084
+            }
+        },
+        "B01E1T3CNM": {
+            "asin": "B01E1T3CNM",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.899999988882
+            },
+            "name": "Best Linens Ever 4-pc Bed Sheets Set - Soft Colorful and Comfy Highest Quality Brushed Microfiber Bedding (Full, Canyon Burgundy)",
+            "normalizedName": "Best Linens Ever 4-pc Bed Sheets Set - Soft Colorful and Comfy Highest Quality Brushed Microfiber Bedding (Full, Canyon Burgundy)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.649999997777735
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "026203459X": {
+            "asin": "026203459X",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Reset Modernity! (MIT Press)",
+            "normalizedName": "Reset Modernity! (MIT Press)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.549999997023003
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "084236322X": {
+            "asin": "084236322X",
+            "height": {
+                "unit": "IN",
+                "value": 1.099999998878
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.899999990922
+            },
+            "name": "Manual del Temperamento: Descubra su Potencial (Spanish Edition)",
+            "normalizedName": "Manual del Temperamento: Descubra su Potencial (Spanish Edition)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.399999996532
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CO7CWI": {
+            "asin": "B000CO7CWI",
+            "height": {
+                "unit": "IN",
+                "value": 2.099999997858
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.399999987352
+            },
+            "name": "Dorman HELP! 55199 Ball Handled Universal Control Cable",
+            "normalizedName": "Dorman HELP! 55199 Ball Handled Universal Control Cable",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.099999987658
+            }
+        },
+        "B00PYFVSQ6": {
+            "asin": "B00PYFVSQ6",
+            "height": {
+                "unit": "IN",
+                "value": 6.49999999337
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.49999998521
+            },
+            "name": "FH Group FB065BLACK115 Black Classic Khaki Car Seat Cover (Full Set Airbag Ready and Split Bench)",
+            "normalizedName": "FH Group FB065BLACK115 Black Classic Khaki Car Seat Cover (Full Set Airbag Ready and Split Bench)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.6
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.099999988678
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2
+}

@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004W8EIMW": {
+            "asin": "B004W8EIMW",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.99999999388
+            },
+            "name": "StarTech Mini USB Cable - A to Right Angle Mini B - 3 Feet (USB2HABM3RA)",
+            "normalizedName": "StarTech Mini USB Cable - A to Right Angle Mini B - 3 Feet (USB2HABM3RA)",
+            "quantity": 10,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04999999995807048
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 10
+}

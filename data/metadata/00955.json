@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B004LB4RN0": {
+            "asin": "B004LB4RN0",
+            "height": {
+                "unit": "IN",
+                "value": 1.899999998062
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.49999998725
+            },
+            "name": "Campbell C-502 Grade 100 System 10 Cam-Alloy Foundry Hook, Painted Green, 3/4\" Trade, 9.25\" Inside Length, 35300 lbs Working Load Limit",
+            "normalizedName": "Campbell C-502 Grade 100 System 10 Cam-Alloy Foundry Hook, Painted Green, 3/4\" Trade, 9.25\" Inside Length, 35300 lbs Working Load Limit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 17.499999985324663
+            },
+            "width": {
+                "unit": "IN",
+                "value": 9.49999999031
+            }
+        },
+        "B00OS5TB26": {
+            "asin": "B00OS5TB26",
+            "height": {
+                "unit": "IN",
+                "value": 1.99999999796
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.299999991534
+            },
+            "name": "Premium Allergy Pillow Protectors - Hypoallergenic Dust Mite & Bed Bug Free 400 Thread Count 100% Cotton Zippered Pillow Covers - 4 Pack By Home Fashion Designs (King)",
+            "normalizedName": "4 Pack Premium Allergy Pillow Protectors - Hypoallergenic Dust Mite & Bed Bug Free 400 Thread Count 100% Cotton Zippered Pillow Covers - By Home Fashion Designs (King)",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999989517618
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.199999992656
+            }
+        },
+        "B018364A30": {
+            "asin": "B018364A30",
+            "height": {
+                "unit": "IN",
+                "value": 0.787401574
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.842519675
+            },
+            "name": "TM-T32-CV_Small j-m Tesla Men's Thermal Fleece Coldgear Compression Baselayer Mock Long Sleeve T Shirts T32",
+            "normalizedName": "TM-T32-CV_Small j-m Tesla Men's Thermal Fleece Coldgear Compression Baselayer Mock Long Sleeve T Shirts T32",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.330693393
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.87401574
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}

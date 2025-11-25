@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00125V10U": {
+            "asin": "B00125V10U",
+            "height": {
+                "unit": "IN",
+                "value": 4.49999999541
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.49999999133
+            },
+            "name": "Scotch Masking Tape for Production Painting, 0.94-Inch by 60.1-Yard, 9-Pack",
+            "normalizedName": "9-Pack Scotch Masking Tape for Production Painting, 0.94-Inch by 60.1-Yard,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.979999997501
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B001O7CKT2": {
+            "asin": "B001O7CKT2",
+            "height": {
+                "unit": "IN",
+                "value": 4.099999995818
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.299999987454
+            },
+            "name": "Lasko Replacement Filter THF 8 for Lasko Humidifier",
+            "normalizedName": "Lasko Replacement Filter THF 8 for Lasko Humidifier",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.0
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.799999987964
+            }
+        },
+        "B015KNBE2E": {
+            "asin": "B015KNBE2E",
+            "height": {
+                "unit": "IN",
+                "value": 2.99999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 14.199999985516
+            },
+            "name": "Alice Through the Looking Glass 11.5\" Classic Alice Fashion Doll",
+            "normalizedName": "Alice Through the Looking Glass 11.5\" Classic Alice Fashion Doll",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.3499999997064933
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.7999999930640005
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

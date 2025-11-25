@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B0002YR188": {
+            "asin": "B0002YR188",
+            "height": {
+                "unit": "IN",
+                "value": 3.099999996838
+            },
+            "length": {
+                "unit": "IN",
+                "value": 8.199999991636
+            },
+            "name": "Schlage F40GEO619 Georgian Privacy Knob, Satin Nickel",
+            "normalizedName": "Schlage F40GEO619 Georgian Privacy Knob, Satin Nickel",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.49999999541
+            }
+        },
+        "B004UB1O9Q": {
+            "asin": "B004UB1O9Q",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.9999999898
+            },
+            "name": "Samsung DA29-00020B Refrigerator Water Filter, 3-Pack",
+            "normalizedName": "3-Pack Samsung DA29-00020B Refrigerator Water Filter,",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B009A4XRR0": {
+            "asin": "B009A4XRR0",
+            "height": {
+                "unit": "IN",
+                "value": 1.699999998266
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.099999994798
+            },
+            "name": "Reusable Hot & Cold Gel Pack Eye Mask - Relieves Sinus pain and soothes eyes!",
+            "normalizedName": "Reusable Hot & Cold Gel Pack Eye Mask - Relieves Sinus pain and soothes eyes!",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

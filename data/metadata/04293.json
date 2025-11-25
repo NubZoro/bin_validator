@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001V8IVCE": {
+            "asin": "B001V8IVCE",
+            "height": {
+                "unit": "IN",
+                "value": 4.599999995308
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.399999989392
+            },
+            "name": "Pentek DGD-5005 Spun Polypropylene Filter Cartridge, 10\" x 4-1/2\"",
+            "normalizedName": "Pentek DGD-5005 Spun Polypropylene Filter Cartridge, 10\" x 4-1/2\"",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8999999992452684
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.599999995308
+            }
+        },
+        "B017H00ZJG": {
+            "asin": "B017H00ZJG",
+            "height": {
+                "unit": "IN",
+                "value": 3.199999996736
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.949999987811
+            },
+            "name": "Juboury Solace.Pro Active Noise Cancelling Over-ear Headphones,Wired Closed-back Headsets for iPhone,Samsung Andorid Smartphones,Tablets,Laptop,PC,In-flight Devices with Carrying Case(Wired,Black)",
+            "normalizedName": "Juboury Solace.Pro Active Noise Cancelling Over-ear Headphones,Wired Closed-back Headsets for iPhone,Samsung Andorid Smartphones,Tablets,Laptop,PC,In-flight Devices with Carrying Case(Wired,Black)",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 3.819999996796584
+            },
+            "width": {
+                "unit": "IN",
+                "value": 11.749999988015
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

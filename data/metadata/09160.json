@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00R0T2MZK": {
+            "asin": "B00R0T2MZK",
+            "height": {
+                "unit": "IN",
+                "value": 1.799999998164
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.99999998572
+            },
+            "name": "MLB Tampa Bay Rays Youth Big Logo Pullover Hood, Navy, Medium",
+            "normalizedName": "MLB Tampa Bay Rays Youth Big Logo Pullover Hood, Navy, Medium",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.1
+            },
+            "width": {
+                "unit": "IN",
+                "value": 12.899999986842
+            }
+        },
+        "B00VRMCRTC": {
+            "asin": "B00VRMCRTC",
+            "height": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "length": {
+                "unit": "IN",
+                "value": 16.799999982864
+            },
+            "name": "Classic Accessories 55-346-011901-EC Sodo Patio/Outdoor Table & Chair Set Cover, Round, Large, Herb",
+            "normalizedName": "Classic Accessories 55-346-011901-EC Sodo Patio/Outdoor Table & Chair Set Cover, Round, Large, Herb",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.749999996016695
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.599999986128
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

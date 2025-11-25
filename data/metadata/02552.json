@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "1285839390": {
+            "asin": "1285839390",
+            "height": {
+                "unit": "IN",
+                "value": 1.299999998674
+            },
+            "length": {
+                "unit": "IN",
+                "value": 11.399999988372
+            },
+            "name": "Gardner's Art through the Ages: A Global History, Volume II",
+            "normalizedName": "Gardner's Art through the Ages: A Global History, Volume II",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.849999995932835
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.99999999082
+            }
+        },
+        "B00HG912FU": {
+            "asin": "B00HG912FU",
+            "height": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "length": {
+                "unit": "IN",
+                "value": 12.599999987148
+            },
+            "name": "Molkky Original Game",
+            "normalizedName": "Molkky Original Game",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 9.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.799999991024002
+            }
+        },
+        "B00Y1HPJWW": {
+            "asin": "B00Y1HPJWW",
+            "height": {
+                "unit": "IN",
+                "value": 3.299999996634
+            },
+            "length": {
+                "unit": "IN",
+                "value": 9.799999990004002
+            },
+            "name": "Yubi Power Universal Power Strip 3 Sockets - 100v to 220v/250v and 2500 Watts Surge Protector - With Circuit Breaker - Us Plug - World Wide Use - Plus 3 Universal Plug Travel Adapters - Type E/f for Eu - Type G for Uk - Type I for Au - 4 Pack Set",
+            "normalizedName": "4 Pack Yubi Power Universal Power Strip 3 Sockets - 100v to 220v/250v and 2500 Watts Surge Protector - With Circuit Breaker - Us Plug - World Wide Use - Plus 3 Universal Plug Travel Adapters - Type E/f for Eu - Type G for Uk - Type I for Au - Set",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.2499999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.399999993472
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "0515156132": {
+            "asin": "0515156132",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.99999999286
+            },
+            "name": "Shadow Rider (The Shadow Series)",
+            "normalizedName": "Shadow Rider (The Shadow Series)",
+            "quantity": 3,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.05
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.099999995818
+            }
+        },
+        "B00RCW8QS2": {
+            "asin": "B00RCW8QS2",
+            "height": {
+                "unit": "IN",
+                "value": 4.2519684996
+            },
+            "length": {
+                "unit": "IN",
+                "value": 5.6692913328
+            },
+            "name": "1byone Wireless Home Security Driveway Alarm, 1 Battery-operated / AC Adapter Receiver and 2 PIR Motion Sensor Detector Weatherproof Patrol Infrared Alert System Kit",
+            "normalizedName": "1byone Wireless Home Security Driveway Alarm, 1 Battery-operated / AC Adapter Receiver and 2 PIR Motion Sensor Detector Weatherproof Patrol Infrared Alert System Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.8399526451894523
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.8818897588
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 4
+}

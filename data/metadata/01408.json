@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000CMKG6E": {
+            "asin": "B000CMKG6E",
+            "height": {
+                "unit": "IN",
+                "value": 2.799999997144
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.799999992044
+            },
+            "name": "Hopkins 42245 Plug-In Simple Vehicle Wiring Kit",
+            "normalizedName": "Hopkins 42245 Plug-In Simple Vehicle Wiring Kit",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.75
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.699999996226
+            }
+        },
+        "B00SVZ1B7C": {
+            "asin": "B00SVZ1B7C",
+            "height": {
+                "unit": "IN",
+                "value": 0.299999999694
+            },
+            "length": {
+                "unit": "IN",
+                "value": 3.599999996328
+            },
+            "name": "Pink Giraffe Baby Shower Book Request Cards 20-pack",
+            "normalizedName": "Pink Giraffe Baby Shower Book Request Cards 20-pack",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.10000000000000002
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.099999996838
+            }
+        },
+        "B00XZ9ONA6": {
+            "asin": "B00XZ9ONA6",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 1.49999999847
+            },
+            "name": "Keyless2Go New Keyless Entry 5 Button Remote Start Car Key Fob for Select Cadillac Chevrolet Buick GMC & Saturn",
+            "normalizedName": "Keyless2Go New Keyless Entry 5 Button Remote Start Car Key Fob for Select Cadillac Chevrolet Buick GMC & Saturn",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.02999999997484228
+            },
+            "width": {
+                "unit": "IN",
+                "value": 1.49999999847
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 3
+}

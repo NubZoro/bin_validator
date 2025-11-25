@@ -1,0 +1,49 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B000VYXFUC": {
+            "asin": "B000VYXFUC",
+            "height": {
+                "unit": "IN",
+                "value": 2.299999997654
+            },
+            "length": {
+                "unit": "IN",
+                "value": 4.399999995512001
+            },
+            "name": "U-Tract Complex Caps 120c",
+            "normalizedName": "U-Tract Complex Caps 120c",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.2
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.399999997552
+            }
+        },
+        "B00J8E9334": {
+            "asin": "B00J8E9334",
+            "height": {
+                "unit": "IN",
+                "value": 0.393700787
+            },
+            "length": {
+                "unit": "IN",
+                "value": 6.7716535364
+            },
+            "name": "Kingston HyperX FURY 8GB 1600MHz DDR3 CL10 DIMM - Black (HX316C10FB/8)",
+            "normalizedName": "Kingston HyperX FURY 8GB 1600MHz DDR3 CL10 DIMM - Black (HX316C10FB/8)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.22046001186074865
+            },
+            "width": {
+                "unit": "IN",
+                "value": 2.0472440924
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 5
+}

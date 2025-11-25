@@ -1,0 +1,71 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B001S0IN46": {
+            "asin": "B001S0IN46",
+            "height": {
+                "unit": "IN",
+                "value": 1.0999999988780003
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.49999999235
+            },
+            "name": "Streamlight 88850 Polytac LED Flashlight with Lithium Batteries, Black",
+            "normalizedName": "Streamlight 88850 Polytac LED Flashlight with Lithium Batteries, Black",
+            "quantity": 4,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 3.799999996124
+            }
+        },
+        "B005JSBWRS": {
+            "asin": "B005JSBWRS",
+            "height": {
+                "unit": "IN",
+                "value": 0.49999999949
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.199999989596
+            },
+            "name": "Scramble Squares Puzzle Ladybugs",
+            "normalizedName": "Scramble Squares Puzzle Ladybugs",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.5
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.9999999949
+            }
+        },
+        "B00G2D3QHS": {
+            "asin": "B00G2D3QHS",
+            "height": {
+                "unit": "IN",
+                "value": 2.399999997552
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.699999992146
+            },
+            "name": "J.CROW'S Lugol's Solution of Iodine 2% (4 Bottles of 2 oz.)",
+            "normalizedName": "J.CROW'S Lugol's Solution of Iodine 2% (4 Bottles of 2 oz.)",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 1.3
+            },
+            "width": {
+                "unit": "IN",
+                "value": 5.399999994492
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 6
+}
