@@ -2,165 +2,232 @@
 import streamlit as st
 from pathlib import Path
 from PIL import Image
-import numpy as np
-from utils import build_metadata_index, multi_asin_allocator, product_dict_from_index, meta_expected_counts
-from verifier import verify_image_asins
 import pandas as pd
 import json
+from utils import (
+    build_metadata_index, 
+    multi_asin_allocator, 
+    product_dict_from_index, 
+    meta_expected_counts
+)
+from gradio_client import Client
 
-# Config
+# -------------------------------
+# CONFIG
+# -------------------------------
+HF_SPACE_URL = "https://yourusername-yourspace.hf.space"   # CHANGE THIS
+
 IMAGES_DIR = Path("data/images")
 METADATA_DIR = Path("data/metadata")
 OUT_DIR = Path("outputs")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-st.set_page_config(layout="wide", page_title="Bin Order Validator (ORB verifier)")
+st.set_page_config(layout="wide", page_title="Smart Bin Validator")
 
-# Header
-st.markdown("<h1 style='font-size:36px'>📦 Bin Order Validator</h1>", unsafe_allow_html=True)
-st.markdown("Metadata-driven allocation + lightweight ORB visual verification (no PyTorch).")
+# Connect to HF ZeroGPU backend
+client = Client(HF_SPACE_URL)
 
-# Build index on startup (fast)
+# -------------------------------
+# HEADER
+# -------------------------------
+st.markdown("<h1 style='font-size:36px'>📦 Smart Bin Validator</h1>", unsafe_allow_html=True)
+st.markdown("HuggingFace ZeroGPU backend for heavy object detection.")
+
+# -------------------------------
+# METADATA INDEX
+# -------------------------------
 with st.spinner("Indexing metadata..."):
-    meta_index, asin_index = build_metadata_index(images_dir=str(IMAGES_DIR), metadata_dir=str(METADATA_DIR))
+    meta_index, asin_index = build_metadata_index(
+        images_dir=str(IMAGES_DIR), 
+        metadata_dir=str(METADATA_DIR)
+    )
     product_dict = product_dict_from_index(meta_index)
 
 # Sidebar navigation
-page = st.sidebar.radio("Navigation", ["Order Validation", "Inventory Dashboard", "Image Verifier"])
+page = st.sidebar.radio("Navigation", ["Order Validation", "Inventory Dashboard", "Image Validator"])
 
-# Shared: product options for dropdowns
 product_options = sorted(set(product_dict.values()))
 name_to_asin = {v: k for k, v in product_dict.items()}
 
-# --------------------------
-# Order Validation Page
-# --------------------------
-if page == "Order Validation":
-    st.header("Create Order (Select product names)")
-    # session rows
-    if "order_rows" not in st.session_state:
-        st.session_state.order_rows = [{"name": product_options[0] if product_options else "", "qty": 1}]
+# ---------------------------------------------------------
+# LAYER 2: USE HF SPACE FOR VERIFICATION
+# ---------------------------------------------------------
+def run_hf_verifier(image_path, asins_to_check):
+    """
+    Sends image + ASIN list to your GroundingDINO space.
+    Your HF Space must expose a Gradio predict function like:
 
-    if st.button("➕ Add item row"):
-        st.session_state.order_rows.append({"name": product_options[0] if product_options else "", "qty": 1})
+        def predict(image, asins_json):
+            return detection_results_dict
+
+    """
+    try:
+        with st.spinner("Querying HF ZeroGPU model…"):
+            result = client.predict(
+                image_path,
+                json.dumps(asins_to_check),
+                api_name="/predict"
+            )
+        return result
+    except Exception as e:
+        return {"error": str(e)}
+
+# ---------------------------------------------------------
+# ORDER VALIDATION PAGE
+# ---------------------------------------------------------
+if page == "Order Validation":
+    st.header("Create Order")
+
+    if "order_rows" not in st.session_state:
+        st.session_state.order_rows = [{
+            "name": product_options[0] if product_options else "",
+            "qty": 1
+        }]
+
+    # Add row button
+    if st.button("➕ Add item"):
+        st.session_state.order_rows.append({
+            "name": product_options[0],
+            "qty": 1
+        })
         st.experimental_rerun()
 
-    rows = st.session_state.order_rows
+    # Render rows
     new_rows = []
-    for i, r in enumerate(rows):
+    for i, row in enumerate(st.session_state.order_rows):
         c1, c2, c3 = st.columns([4,1,1])
-        selected = c1.selectbox(f"Product {i+1}", product_options, index=product_options.index(r["name"]) if r["name"] in product_options else 0, key=f"name_{i}")
-        qty = c2.number_input(f"Qty {i+1}", min_value=0, value=int(r.get("qty",1)), key=f"qty_{i}")
+        selected = c1.selectbox(
+            f"Product {i+1}",
+            product_options,
+            index=product_options.index(row["name"]),
+            key=f"name_{i}"
+        )
+        qty = c2.number_input(
+            f"Qty {i+1}",
+            min_value=0,
+            value=int(row["qty"]),
+            key=f"qty_{i}"
+        )
         remove = c3.button("Remove", key=f"rm_{i}")
+
         if not remove:
             new_rows.append({"name": selected, "qty": int(qty)})
+
     st.session_state.order_rows = new_rows
 
-    # Prepare order (asin->qty)
-    order_items = { name_to_asin[r["name"]]: r["qty"] for r in st.session_state.order_rows if r["name"] and r["qty"]>0 }
-    st.write("Order:", {product_dict.get(k,k):v for k,v in order_items.items()})
+    # Convert display names → ASINs
+    order_items = {
+        name_to_asin[r["name"]]: r["qty"]
+        for r in st.session_state.order_rows if r["qty"] > 0
+    }
 
-    if st.button("✅ Validate Order (allocate images)"):
+    st.write("Order:", order_items)
+
+    if st.button("✅ Validate Order"):
         allocation, shortages = multi_asin_allocator(order_items, asin_index)
         st.session_state.last_allocation = allocation
         st.session_state.last_shortages = shortages
         st.experimental_rerun()
 
+    # Show allocation
     if "last_allocation" in st.session_state:
         allocation = st.session_state.last_allocation
-        shortages = st.session_state.last_shortages or {}
+        shortages = st.session_state.last_shortages
+
         st.header("Validation Result")
         if not shortages:
-            st.success("✅ Order can be fulfilled from inventory metadata.")
+            st.success("Order can be fulfilled.")
         else:
-            st.error("⚠️ Shortages detected")
-            for asin, miss in shortages.items():
-                st.write(f"- {product_dict.get(asin,asin)} missing {miss}")
+            st.error("Shortages detected:")
+            st.write(shortages)
 
-        # show chosen images grid
-        if allocation:
-            st.subheader("Images chosen (min set)")
-            chosen_images = sorted(list(allocation.keys()), key=lambda img: sum(allocation[img].values()), reverse=True)
-            # show 3 per row
-            for i in range(0, len(chosen_images), 3):
-                cols = st.columns(3)
-                for j, img_id in enumerate(chosen_images[i:i+3]):
-                    col = cols[j]
-                    img_path = IMAGES_DIR / f"{img_id}.jpg"
-                    if not img_path.exists():
-                        img_path = IMAGES_DIR / f"{img_id}.png"
-                    if img_path.exists():
-                        col.image(str(img_path), use_column_width=True, caption=f"{img_id}")
-                        col.write(dict(allocation[img_id]))
-                    else:
-                        col.write(f"Image {img_id} not found.")
+        # Show selected images
+        st.subheader("Selected Images")
+        for img_id in allocation.keys():
+            path = IMAGES_DIR / f"{img_id}.jpg"
+            if not path.exists():
+                path = IMAGES_DIR / f"{img_id}.png"
 
-        # Provide a verification button that runs ORB verifier on the chosen images
-        if st.button("🔎 Verify chosen images visually (ORB)"):
-            allocation = st.session_state.last_allocation
+            st.image(str(path), caption=img_id, use_column_width=True)
+            st.write("Products counted:", allocation[img_id])
+
+        # -------------------------
+        # RUN HF MODEL
+        # -------------------------
+        if st.button("🔎 Verify with HF Model"):
             verify_results = {}
-            with st.spinner("Running ORB verification on chosen images..."):
-                for img_id, parts in allocation.items():
-                    img_path = IMAGES_DIR / f"{img_id}.jpg"
-                    if not img_path.exists():
-                        img_path = IMAGES_DIR / f"{img_id}.png"
-                    if not img_path.exists():
-                        verify_results[img_id] = {"error": "image file not found"}
-                        continue
-                    # parts: dict asin->qty contributed from metadata
-                    asins = list(parts.keys())
-                    vr = verify_image_asins(str(img_path), asins, meta_index=meta_index)
-                    verify_results[img_id] = vr
-            st.subheader("Verification results")
+
+            for img_id, parts in allocation.items():
+                # load local file path
+                f = IMAGES_DIR / f"{img_id}.jpg"
+                if not f.exists():
+                    f = IMAGES_DIR / f"{img_id}.png"
+
+                asins = list(parts.keys())
+
+                result = run_hf_verifier(str(f), asins)
+                verify_results[img_id] = result
+
+            st.subheader("HF Verification Results")
             st.json(verify_results)
 
-# --------------------------
-# Inventory Dashboard Page
-# --------------------------
+# ---------------------------------------------------------
+# INVENTORY DASHBOARD
+# ---------------------------------------------------------
 elif page == "Inventory Dashboard":
-    st.header("Inventory Dashboard")
-    total_counts = { asin: sum(q for _, q in lst) for asin, lst in asin_index.items() }
-    df_inv = pd.DataFrame([(asin, product_dict.get(asin,"Unknown"), total_counts[asin]) for asin in total_counts],
-                           columns=["ASIN","Product Name","TotalAvailable"])
-    search = st.text_input("Search by name or ASIN")
+    st.header("Inventory Overview")
+
+    total_counts = {
+        asin: sum(q for _, q in plist)
+        for asin, plist in asin_index.items()
+    }
+    df = pd.DataFrame([
+        (asin, product_dict.get(asin, ""), total_counts[asin])
+        for asin in total_counts
+    ], columns=["ASIN", "Product Name", "Total Available"])
+
+    search = st.text_input("Search")
     if search:
-        df_inv = df_inv[df_inv["Product Name"].str.contains(search, case=False, na=False) | df_inv["ASIN"].str.contains(search, case=False, na=False)]
-    st.dataframe(df_inv.sort_values("TotalAvailable", ascending=False).reset_index(drop=True), use_container_width=True, height=700)
+        df = df[df.apply(lambda r: search.lower() in str(r).lower(), axis=1)]
 
-# --------------------------
-# Image Verifier page (manual)
-# --------------------------
-elif page == "Image Verifier":
-    st.header("Manual ORB Verifier")
-    all_images = sorted([p for p in IMAGES_DIR.glob("*") if p.suffix.lower() in (".jpg",".jpeg",".png")])
-    sel = st.selectbox("Choose image", options=[""] + [str(p) for p in all_images])
+    st.dataframe(df, use_container_width=True, height=700)
+
+# ---------------------------------------------------------
+# IMAGE VALIDATOR (manual)
+# ---------------------------------------------------------
+else:
+    st.header("Manual Image Validator")
+
+    images = sorted([p for p in IMAGES_DIR.glob("*") if p.suffix.lower() in (".jpg",".png")])
+    sel = st.selectbox("Pick Image", [""] + [str(p) for p in images])
+
     if sel:
-        p = Path(sel)
-        st.image(str(p), use_column_width=True)
-        # list ASINs present in this image from metadata
-        meta = None
-        sidecar = METADATA_DIR / f"{p.stem}.json"
-        if sidecar.exists():
-            meta = json.load(open(sidecar,"r",encoding="utf-8"))
-            expected = meta_expected_counts(meta)
-            st.write("Metadata expected:", expected)
+        path = Path(sel)
+        st.image(str(path), use_column_width=True)
+
+        # Metadata expected (from JSON)
+        meta_file = METADATA_DIR / f"{path.stem}.json"
+        if meta_file.exists():
+            meta = json.load(open(meta_file, "r"))
+            st.write("Metadata expected:", meta_expected_counts(meta))
         else:
-            st.info("No metadata sidecar for this image.")
+            st.warning("No metadata for this image")
 
-        # let user pick ASINs to verify
-        known_asins = list(product_dict.keys())
-        chosen = st.multiselect("Pick ASINs to verify visually (choose from inventory names)", [product_dict[a] for a in known_asins], default=[])
-        asin_lookup = {product_dict[a]:a for a in known_asins}
-        asins_to_check = [asin_lookup[name] for name in chosen] if chosen else []
-        if st.button("Run ORB verify"):
-            if not asins_to_check:
-                st.warning("Choose at least one ASIN to verify.")
-            else:
-                with st.spinner("Running ORB verification..."):
-                    vr = verify_image_asins(str(p), asins_to_check, meta_index=meta_index)
-                st.write("Verification result (per ASIN):")
-                st.json(vr)
+        # Pick ASINs to verify
+        selected_names = st.multiselect(
+            "Select products to verify",
+            [product_dict[a] for a in product_dict.keys()]
+        )
 
-# footer
+        asins_to_check = [
+            next(k for k,v in product_dict.items() if v == name)
+            for name in selected_names
+        ]
+
+        if st.button("Run HF Verification"):
+            result = run_hf_verifier(str(path), asins_to_check)
+            st.json(result)
+
+# Footer
 st.markdown("---")
-st.markdown("Local ORB verifier is approximate — use manual labeling for the best detection accuracy.")
+st.markdown("Powered by HuggingFace ZeroGPU + Streamlit.")
