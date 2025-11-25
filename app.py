@@ -15,7 +15,7 @@ from gradio_client import Client
 # -------------------------------
 # CONFIG
 # -------------------------------
-HF_SPACE_URL = "https://yourusername-yourspace.hf.space"   # CHANGE THIS
+HF_SPACE_URL = "https://nubzoro-bin-validator.hf.space"   # CHANGE THIS
 
 IMAGES_DIR = Path("data/images")
 METADATA_DIR = Path("data/metadata")
@@ -54,23 +54,23 @@ name_to_asin = {v: k for k, v in product_dict.items()}
 # ---------------------------------------------------------
 def run_hf_verifier(image_path, asins_to_check):
     """
-    Sends image + ASIN list to your GroundingDINO space.
-    Your HF Space must expose a Gradio predict function like:
-
-        def predict(image, asins_json):
-            return detection_results_dict
-
+    Sends image bytes + ASIN list to your GroundingDINO ZeroGPU Space.
     """
     try:
+        with open(image_path, "rb") as f:
+            img_bytes = f.read()
+
         with st.spinner("Querying HF ZeroGPU model…"):
             result = client.predict(
-                image_path,
-                json.dumps(asins_to_check),
-                api_name="/predict"
+                img_bytes,                                # file bytes
+                json.dumps(asins_to_check),               # JSON list of ASINs
+                api_name="/run"                           # must match HF API
             )
         return result
+
     except Exception as e:
         return {"error": str(e)}
+
 
 # ---------------------------------------------------------
 # ORDER VALIDATION PAGE
