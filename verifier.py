@@ -51,50 +51,117 @@ def match_descriptors(des1, des2):
     return good
 
 def verify_image_asins(image_path, asins_list, meta_index, images_dir="data/images"):
-    """
-    For each asin in asins_list, check against some reference images that contain that asin (from meta_index).
-    Returns dict asin -> {detected: bool, matches: best_match_count, details: [...]}
-    """
-    # Preload query
     qgray = load_image_gray(image_path)
     qkp, qdes = compute_kp_des(qgray)
-    results = {}
-    # Find reference images for each asin
-    # meta_index: image_id -> list of items [{asin, quantity,...}]
-    # Build reverse mapping asin->list of image_ids
+    h, w = qgray.shape[:2]
+
+    # Reverse map ASIN -> reference images
     asin_to_imgs = defaultdict(list)
     for imgid, items in meta_index.items():
         for it in items:
             asin_to_imgs[it["asin"]].append(imgid)
+
+    results = {}
+
     for asin in asins_list:
-        imgs = asin_to_imgs.get(asin, [])
-        best = {"detected": False, "matches": 0, "details": []}
-        for ref_imgid in imgs:
+        refs = asin_to_imgs.get(asin, [])
+        asin_result = {
+            "detected": False,
+            "best_matches": 0,
+            "details": [],
+            "quantity_estimate": 0
+        }
+
+        orb_boxes = []      # bounding boxes discovered via homography
+        template_boxes = [] # boxes from template matching
+
+        for ref_imgid in refs:
             ref_path = Path(images_dir) / f"{ref_imgid}.jpg"
-            if not ref_path.exists():
-                ref_path = Path(images_dir) / f"{ref_imgid}.png"
-            if not ref_path.exists():
-                continue
-            try:
-                rgray = load_image_gray(str(ref_path))
-                rkp, rdes = compute_kp_des(rgray)
-                good = match_descriptors(qdes, rdes)
-                if len(good) > best["matches"]:
-                    best["matches"] = len(good)
-                # if enough good matches, try homography to be more certain
-                if len(good) >= MIN_GOOD_MATCHES:
-                    src_pts = np.float32([ rkp[m.trainIdx].pt for m in good ]).reshape(-1,1,2)
-                    dst_pts = np.float32([ qkp[m.queryIdx].pt for m in good ]).reshape(-1,1,2)
-                    try:
-                        M, mask = cv2.findHomography(src_pts, dst_pts, cv2.RANSAC,5.0)
-                        inliers = int(mask.sum()) if mask is not None else 0
-                    except Exception:
-                        inliers = 0
-                    best["details"].append({"ref": ref_imgid, "good_matches": len(good), "inliers": inliers})
+            if not ref_path.exists(): ref_path = Path(images_dir) / f"{ref_imgid}.png"
+            if not ref_path.exists(): continue
+
+            # load reference
+            rgray = load_image_gray(ref_path)
+            rkp, rdes = compute_kp_des(rgray)
+            rh, rw = rgray.shape
+
+            # ORB matching
+            good = match_descriptors(qdes, rdes)
+            asin_result["best_matches"] = max(asin_result["best_matches"], len(good))
+
+            if len(good) >= MIN_GOOD_MATCHES:
+                try:
+                    src_pts = np.float32([rkp[m.trainIdx].pt for m in good]).reshape(-1,1,2)
+                    dst_pts = np.float32([qkp[m.queryIdx].pt for m in good]).reshape(-1,1,2)
+                    M, mask = cv2.findHomography(src_pts, dst_pts, cv2.RANSAC, 5.0)
+                    inliers = int(mask.sum())
+
+                    asin_result["details"].append({
+                        "ref": ref_imgid,
+                        "good_matches": len(good),
+                        "inliers": inliers
+                    })
+
                     if inliers >= HOMOGRAPHY_MIN_INLIERS:
-                        best["detected"] = True
-                        # don't break — check other refs to possibly estimate count
-            except Exception:
-                continue
-        results[asin] = best
+                        asin_result["detected"] = True
+
+                        # project reference corners -> bounding box
+                        pts = np.float32([[0,0],[rw,0],[rw,rh],[0,rh]]).reshape(-1,1,2)
+                        dst = cv2.perspectiveTransform(pts, M)
+                        x1,y1 = dst[:,0,0].min(), dst[:,0,1].min()
+                        x2,y2 = dst[:,0,0].max(), dst[:,0,1].max()
+                        orb_boxes.append([int(x1),int(y1),int(x2),int(y2)])
+
+                except:
+                    pass
+
+            # TEMPLATE MATCHING
+            try:
+                result = cv2.matchTemplate(qgray, rgray, cv2.TM_CCOEFF_NORMED)
+                thresh = 0.5
+                loc = np.where(result >= thresh)
+
+                for pt in zip(*loc[::-1]):
+                    x1, y1 = pt[0], pt[1]
+                    x2, y2 = x1 + rw, y1 + rh
+                    template_boxes.append([x1,y1,x2,y2])
+            except:
+                pass
+
+        # -------------------------
+        # QUANTITY ESTIMATION
+        # -------------------------
+
+        # 1) ORB homography count
+        orb_count = len(orb_boxes)
+
+        # 2) Template match count
+        template_count = len(template_boxes)
+
+        # 3) Merge box lists + DBSCAN cluster
+        all_boxes = orb_boxes + template_boxes
+        if len(all_boxes) > 0:
+            centers = np.array([
+                [(b[0]+b[2])//2, (b[1]+b[3])//2] for b in all_boxes
+            ])
+            if len(centers) >= 2:
+                from sklearn.cluster import DBSCAN
+                clustering = DBSCAN(eps=50, min_samples=1).fit(centers)
+                cluster_count = len(set(clustering.labels_))
+            else:
+                cluster_count = 1
+        else:
+            cluster_count = 0
+
+        # Final quantity score
+        final_qty = (
+            0.5 * orb_count +
+            0.3 * template_count +
+            0.2 * cluster_count
+        )
+
+        asin_result["quantity_estimate"] = max(1, round(final_qty))
+
+        results[asin] = asin_result
+
     return results
